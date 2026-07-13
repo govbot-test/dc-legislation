@@ -1,0 +1,636 @@
+{
+  "legislative_session": "26",
+  "identifier": "B26-0661",
+  "title": "Fiscal Year 2027 Budget Support Act of 2026",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-dc-26-b260661"
+    }
+  ],
+  "actions": [
+    {
+      "description": "B26-0661 Introduced by Chairman Mendelson at Office of the Secretary",
+      "date": "2026-04-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Referred to Committee of the Whole",
+      "date": "2026-04-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
+      "date": "2026-04-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Notice of Intent to Act on B26-0661 Published in the District of Columbia Register",
+      "date": "2026-04-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Notice of Public Hearing Published in the District of Columbia Register",
+      "date": "2026-04-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Public Hearing on B26-0661",
+      "date": "2026-05-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Committee Mark-up of B26-0661 by the Committee of the Whole",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (Nadeau and Allen)",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Agendized; not considered at the request of  Amendment (Nadeau)",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Agendized; not considered at the request of  Oral Amendment (Nadeau)",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (Parker #1)",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (Parker #2)",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (Parker #3)",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (Felder)",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment in the Nature of a Substitute (Mendelson)",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Oral Amendment (Mendelson)",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (Allen #1)",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (Allen #2)",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (RWhite)",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (LGeorge #1)",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (LGeorge #2)",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (LGeorge #3)",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (LGeorge #4)",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (Pinto and Crawford)",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (Crawford)",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Agendized; not considered at the request of  Nadeau",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (Felder #1, #2, #3)",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Amendment (TWhite) - Ruled Out of Order",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Final Reading",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mendelson, Phil",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mendelson, Phil\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Introduction/B26-0661-Introduction.pdf?Id=236283",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting2/Engrossment/B26-0661-Engrossment1.pdf?Id=240522",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Hearing_Notice/B26-0661-Hearing_Notice1.pdf?Id=242375",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Nadeau and Allen)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting1/Amendment/B26-0661-Amendment1.pdf?Id=239999",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Agendized; not considered at the request of  Amendment (Nadeau)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting1/Amendment/B26-0661-Amendment2.pdf?Id=241807",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Parker #1)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting1/Amendment/B26-0661-Amendment4.pdf?Id=240026",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Parker #2)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting1/Amendment/B26-0661-Amendment5.pdf?Id=240027",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Parker #3)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting1/Amendment/B26-0661-Amendment6.pdf?Id=240028",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Felder)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting1/Amendment/B26-0661-Amendment7.pdf?Id=240043",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment in the Nature of a Substitute (Mendelson)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Amendment/B26-0661-Amendment1.pdf?Id=242559",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Allen #1)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Amendment/B26-0661-Amendment4.pdf?Id=242346",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Allen #2)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Amendment/B26-0661-Amendment2.pdf?Id=242345",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (RWhite)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Amendment/B26-0661-Amendment5.pdf?Id=242339",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (LGeorge #1)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Amendment/B26-0661-Amendment6.pdf?Id=242340",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (LGeorge #2)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Amendment/B26-0661-Amendment7.pdf?Id=242341",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (LGeorge #3)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Amendment/B26-0661-Amendment8.pdf?Id=242342",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (LGeorge #4)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Amendment/B26-0661-Amendment9.pdf?Id=242343",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Pinto and Crawford)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Amendment/B26-0661-Amendment10.pdf?Id=242370",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Crawford)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Amendment/B26-0661-Amendment11.pdf?Id=242392",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Felder #1, #2, #3)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Amendment/B26-0661-Amendment13.pdf?Id=242371",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (TWhite) - Ruled Out of Order",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Amendment/B26-0661-Amendment16.pdf?Id=242344",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+      "note": ""
+    },
+    {
+      "url": "https://lims.dccouncil.gov/Legislation/B26-0661",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/district:dc/government",
+    "name": "District of Columbia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/district:dc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:17Z"
+  }
+}

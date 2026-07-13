@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Approved with Resolution Number ACR26-0121",
+    "occurred_at": "2026-01-20T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/6/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/CER26-0124",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "CER26-0124"
+}

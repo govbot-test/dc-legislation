@@ -1,0 +1,212 @@
+{
+  "legislative_session": "26",
+  "identifier": "B26-0166",
+  "title": "Closing of a Public Alley in Square 2068, S.O. 25-01801, Act of 2025",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-dc-26-b260166"
+    }
+  ],
+  "actions": [
+    {
+      "description": "B26-0166 Introduced by Councilmember Frumin at Office of the Secretary",
+      "date": "2025-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Notice of Intent to Act on B26-0166 Published in the District of Columbia Register",
+      "date": "2025-03-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Referred to Committee of the Whole",
+      "date": "2025-03-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
+      "date": "2025-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Notice of Public Hearing Published in the District of Columbia Register",
+      "date": "2025-06-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Public Hearing on B26-0166",
+      "date": "2025-07-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
+      "date": "2025-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Revised Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
+      "date": "2025-10-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Notice of Public Hearing Published in the District of Columbia Register",
+      "date": "2025-10-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Notice of Public Hearing Published in the District of Columbia Register",
+      "date": "2025-10-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Public Hearing on B26-0166",
+      "date": "2025-10-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Frumin, Matthew",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57316/Introduction/B26-0166-Introduction.pdf?Id=207712",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57316/Hearing_Notice/B26-0166-Hearing_Notice1.pdf?Id=213915",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57316/Hearing_Notice/B26-0166-Hearing_Notice2.pdf?Id=223692",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Revised Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57316/Hearing_Notice/B26-0166-Hearing_Notice3.pdf?Id=223731",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+      "note": ""
+    },
+    {
+      "url": "https://lims.dccouncil.gov/Legislation/B26-0166",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/district:dc/government",
+    "name": "District of Columbia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/district:dc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:17Z"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "legislative_session": "26",
+  "identifier": "B26-0673",
+  "title": "Volunteer Services Clarification Temporary Amendment Act of 2026",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-dc-26-b260673"
+    }
+  ],
+  "actions": [
+    {
+      "description": "B26-0673 Introduced by Councilmember Pinto at Office of the Secretary",
+      "date": "2026-04-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Retained by the Council",
+      "date": "2026-05-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2026-05-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Final Reading, CC",
+      "date": "2026-06-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Transmitted to Mayor, Response Due on Jul 01, 2026",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Signed by the Mayor and Enacted with Act Number A26-0350",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Transmitted to Congress, Projected Law Date is Sep 19, 2026",
+      "date": "2026-07-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Act A26-0350 Published in DC Register Vol 73 and Page 009211",
+      "date": "2026-07-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pinto, Brooke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61752/Introduction/B26-0673-Introduction.pdf?Id=237284",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61752/Meeting1/Engrossment/B26-0673-Engrossment1.pdf?Id=238134",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61752/Meeting2/Enrollment/B26-0673-Enrollment1.pdf?Id=239972",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Signed by the Mayor and Enacted with Act Number A26-0350",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61752/Signed_Act/B26-0673-Signed_Act.pdf?Id=241831",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+      "note": ""
+    },
+    {
+      "url": "https://lims.dccouncil.gov/Legislation/B26-0673",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/district:dc/government",
+    "name": "District of Columbia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/district:dc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:17Z"
+  }
+}

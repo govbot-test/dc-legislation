@@ -1,0 +1,224 @@
+{
+  "legislative_session": "26",
+  "identifier": "B26-0446",
+  "title": "University of the District of Columbia Change Order No.2 to Contract No. GF 2021-C-2021 Consys Inc Approval and Payment Authorization Emergency Act of 2025",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-dc-26-b260446"
+    }
+  ],
+  "actions": [
+    {
+      "description": "B26-0446 Introduced by Chairman Mendelson at Office of the Secretary",
+      "date": "2025-10-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Retained by the Council with comments from the Committee of the Whole",
+      "date": "2025-11-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Notice of Oversight Hearing filed in the Office of Secretary by Committee of the Whole",
+      "date": "2025-11-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Notice of Oversight Hearing Published in the District of Columbia Register",
+      "date": "2025-11-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Oversight Hearing on B26-0446 View Oversight Hearing Record",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Final Reading, CC",
+      "date": "2026-02-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Transmitted to Mayor, Response Due on Mar 03, 2026",
+      "date": "2026-02-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Signed by the Mayor and Enacted with Act Number A26-0268, Expires on Jun 01, 2026",
+      "date": "2026-03-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-03-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    },
+    {
+      "description": "Act A26-0268 Published in DC Register Vol 73 and Page 003137, Expires on Jun 01, 2026",
+      "date": "2026-03-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:17Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mendelson, Phil",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mendelson, Phil\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60606/Introduction/B26-0446-Introduction.pdf?Id=225985",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60606/Meeting1/Enrollment/B26-0446-Enrollment1.pdf?Id=232150",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Notice of Oversight Hearing filed in the Office of Secretary by Committee of the Whole",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60606/Hearing_Notice/B26-0446-Hearing_Notice1.pdf?Id=227060",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Oversight Hearing on B26-0446 View Oversight Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60606/Hearing_Record/B26-0446-Hearing_Record1.pdf?Id=233842",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed by the Mayor and Enacted with Act Number A26-0268, Expires on Jun 01, 2026",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60606/Signed_Act/B26-0446-Signed_Act.pdf?Id=233563",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+      "note": ""
+    },
+    {
+      "url": "https://lims.dccouncil.gov/Legislation/B26-0446",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/district:dc/government",
+    "name": "District of Columbia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/district:dc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:17Z"
+  }
+}

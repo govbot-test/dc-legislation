@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Transmitted to Mayor, Response Due on Dec 02, 2025",
+    "occurred_at": "2025-11-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt",
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/B26-0176",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "B26-0176"
+}

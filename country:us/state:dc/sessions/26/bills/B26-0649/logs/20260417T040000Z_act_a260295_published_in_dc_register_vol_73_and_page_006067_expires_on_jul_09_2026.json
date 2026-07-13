@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Act A26-0295 Published in DC Register Vol 73 and Page 006067, Expires on Jul 09, 2026",
+    "occurred_at": "2026-04-17T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/B26-0649",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "B26-0649"
+}

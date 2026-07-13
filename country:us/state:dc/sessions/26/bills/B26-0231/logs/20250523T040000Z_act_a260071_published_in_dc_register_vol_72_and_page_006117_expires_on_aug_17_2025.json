@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Act A26-0071 Published in DC Register Vol 72 and Page 006117, Expires on Aug 17, 2025",
+    "occurred_at": "2025-05-23T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/B26-0231",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "B26-0231"
+}

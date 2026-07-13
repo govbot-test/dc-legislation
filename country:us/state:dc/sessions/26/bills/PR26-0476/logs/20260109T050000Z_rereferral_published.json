@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Re-Referral published.",
+    "occurred_at": "2026-01-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/6/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/PR26-0476",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PR26-0476"
+}

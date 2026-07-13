@@ -1,0 +1,292 @@
+{
+  "legislative_session": "26",
+  "identifier": "B26-0545",
+  "title": "River East at Grandview Homeownership Relief and Restoration Amendment Act of 2025",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-dc-26-b260545"
+    }
+  ],
+  "actions": [
+    {
+      "description": "B26-0545 Introduced by Councilmember R. White at Office of the Secretary",
+      "date": "2025-12-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:19Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Housing with comments from the Committee on Business and Economic Development",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:19Z"
+      }
+    },
+    {
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Housing",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:19Z"
+      }
+    },
+    {
+      "description": "Notice of Intent to Act on B26-0545 Published in the District of Columbia Register",
+      "date": "2025-12-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:19Z"
+      }
+    },
+    {
+      "description": "Notice of Public Hearing Published in the District of Columbia Register",
+      "date": "2025-12-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:19Z"
+      }
+    },
+    {
+      "description": "Revised Notice of Public Hearing filed in the Office of Secretary by Housing",
+      "date": "2026-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:19Z"
+      }
+    },
+    {
+      "description": "Public Hearing on B26-0545 View Public Hearing Record",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:19Z"
+      }
+    },
+    {
+      "description": "Committee Mark-up of B26-0545 by the Housing Committee",
+      "date": "2026-04-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:19Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2026-05-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:19Z"
+      }
+    },
+    {
+      "description": "Amendment in the Nature of a Substitute (RWhite)",
+      "date": "2026-06-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:19Z"
+      }
+    },
+    {
+      "description": "Final Reading",
+      "date": "2026-06-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:19Z"
+      }
+    },
+    {
+      "description": "Transmitted to Mayor, Response Due on Jul 01, 2026",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:19Z"
+      }
+    },
+    {
+      "description": "Enacted without Mayor's Signature with Act Number A26-0366",
+      "date": "2026-07-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:19Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "White, Robert C. Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60997/Introduction/B26-0545-Introduction.pdf?Id=229585",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60997/Meeting1/Engrossment/B26-0545-Engrossment1.pdf?Id=238235",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60997/Meeting2/Enrollment/B26-0545-Enrollment2.pdf?Id=239978",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Housing",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60997/Hearing_Notice/B26-0545-Hearing_Notice1.pdf?Id=229727",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Revised Notice of Public Hearing filed in the Office of Secretary by Housing",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60997/Hearing_Notice/B26-0545-Hearing_Notice2.pdf?Id=230542",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0545 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60997/Hearing_Record/B26-0545-Hearing_Record2.pdf?Id=237341",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment in the Nature of a Substitute (RWhite)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60997/Meeting2/Amendment/B26-0545-Amendment1.pdf?Id=239591",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enacted without Mayor's Signature with Act Number A26-0366",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60997/Signed_Act/B26-0545-Signed_Act.pdf?Id=242239",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+      "note": ""
+    },
+    {
+      "url": "https://lims.dccouncil.gov/Legislation/B26-0545",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/district:dc/government",
+    "name": "District of Columbia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/district:dc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:19Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Final Reading, CC",
+    "occurred_at": "2025-06-03T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/6/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/CER26-0044",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "CER26-0044"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "B26-0178 Introduced by Councilmember Lewis George at Legislative Meeting",
+    "occurred_at": "2025-03-21T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/B26-0178",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "B26-0178"
+}

@@ -1,0 +1,123 @@
+{
+  "identifier": "B26-0357-Final Reading, CC -Approved",
+  "motion_text": "Final Reading, CC",
+  "motion_classification": [
+    "reading-3"
+  ],
+  "start_date": "2025-09-17T04:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"legislature\"}",
+  "legislative_session": "26",
+  "bill": "42a76796-7dca-11f1-a994-9e13ba905cae",
+  "bill_action": null,
+  "bill_identifier": "B26-0357",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Anita Bonds",
+      "voter_id": "~{\"name\": \"Anita Bonds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brianne K. Nadeau",
+      "voter_id": "~{\"name\": \"Brianne K. Nadeau\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brooke Pinto",
+      "voter_id": "~{\"name\": \"Brooke Pinto\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Charles Allen",
+      "voter_id": "~{\"name\": \"Charles Allen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christina Henderson",
+      "voter_id": "~{\"name\": \"Christina Henderson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Janeese Lewis George",
+      "voter_id": "~{\"name\": \"Janeese Lewis George\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kenyan R.  McDuffie",
+      "voter_id": "~{\"name\": \"Kenyan R.  McDuffie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matthew Frumin",
+      "voter_id": "~{\"name\": \"Matthew Frumin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Phil Mendelson",
+      "voter_id": "~{\"name\": \"Phil Mendelson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert C. White, Jr.",
+      "voter_id": "~{\"name\": \"Robert C. White, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Trayon White, Sr.",
+      "voter_id": "~{\"name\": \"Trayon White, Sr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wendell Felder",
+      "voter_id": "~{\"name\": \"Wendell Felder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Zachary Parker",
+      "voter_id": "~{\"name\": \"Zachary Parker\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

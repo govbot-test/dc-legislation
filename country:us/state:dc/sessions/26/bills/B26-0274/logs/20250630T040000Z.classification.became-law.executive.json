@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Signed by the Mayor and Enacted with Act Number A26-0094, Expires on Sep 28, 2025",
+    "occurred_at": "2025-06-30T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/B26-0274",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "B26-0274"
+}

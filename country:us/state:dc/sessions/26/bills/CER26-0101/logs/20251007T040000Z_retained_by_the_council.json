@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Retained by the Council",
+    "occurred_at": "2025-10-07T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/6/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/CER26-0101",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "CER26-0101"
+}

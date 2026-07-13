@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Law L26-0003, Effective from May 03, 2025 Published in DC Register Vol 72 and Page 005852, Expires on Dec 14, 2025",
+    "occurred_at": "2025-05-16T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/B26-0085",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "B26-0085"
+}

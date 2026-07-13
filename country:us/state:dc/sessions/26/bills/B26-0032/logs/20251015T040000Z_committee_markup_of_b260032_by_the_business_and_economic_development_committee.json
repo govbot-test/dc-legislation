@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Committee Mark-up of B26-0032 by the Business and Economic Development Committee",
+    "occurred_at": "2025-10-15T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/B26-0032",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "B26-0032"
+}

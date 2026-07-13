@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Withdrawn",
+    "occurred_at": "2025-05-19T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [
+      "withdrawal"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/6/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/PR26-0191",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PR26-0191"
+}

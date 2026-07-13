@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Resolution R26-0336, Effective from Feb 03, 2026 Published in DC Register Vol 73 and Page 001432",
+    "occurred_at": "2026-02-13T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/6/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/PR26-0517",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PR26-0517"
+}

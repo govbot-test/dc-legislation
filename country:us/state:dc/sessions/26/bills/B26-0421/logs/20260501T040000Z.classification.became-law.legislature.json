@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Law L26-0110, Effective from Apr 16, 2026 Published in DC Register Vol 73 and Page 006782",
+    "occurred_at": "2026-05-01T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/B26-0421",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "B26-0421"
+}

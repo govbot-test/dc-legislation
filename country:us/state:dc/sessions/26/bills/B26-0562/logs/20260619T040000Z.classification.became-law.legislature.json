@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Law L26-0125, Effective from May 29, 2026 Published in DC Register Vol 73 and Page 008624, Expires on Jan 09, 2027",
+    "occurred_at": "2026-06-19T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/B26-0562",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "B26-0562"
+}

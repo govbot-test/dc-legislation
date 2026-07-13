@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Resolution ACR26-0116, Effective from Dec 16, 2025 Published in DC Register Vol 73 and Page 001095",
+    "occurred_at": "2026-02-06T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/6/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/CER26-0119",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "CER26-0119"
+}

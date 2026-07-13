@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Law L26-0025, Effective from Aug 16, 2025 Published in DC Register Vol 72 and Page 009564, Expires on Mar 29, 2026",
+    "occurred_at": "2025-09-12T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/B26-0207",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "B26-0207"
+}

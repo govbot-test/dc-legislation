@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Act A26-0076 Published in DC Register Vol 72 and Page 006454, Expires on Aug 26, 2025",
+    "occurred_at": "2025-06-06T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/B26-0206",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "B26-0206"
+}

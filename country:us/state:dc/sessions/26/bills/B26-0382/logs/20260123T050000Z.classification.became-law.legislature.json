@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Law L26-0073, Effective from Dec 31, 2025 Published in DC Register Vol 73 and Page 000606, Expires on Aug 13, 2026",
+    "occurred_at": "2026-01-23T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/B26-0382",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "B26-0382"
+}

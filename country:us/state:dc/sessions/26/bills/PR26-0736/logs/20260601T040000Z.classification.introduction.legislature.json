@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "PR26-0736 Introduced by Chairman Mendelson at Office of the Secretary",
+    "occurred_at": "2026-06-01T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/6/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/PR26-0736",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PR26-0736"
+}

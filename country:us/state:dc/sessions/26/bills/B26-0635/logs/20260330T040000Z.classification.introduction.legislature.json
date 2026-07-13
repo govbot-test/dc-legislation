@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "B26-0635 Introduced by Councilmember Pinto at Office of the Secretary",
+    "occurred_at": "2026-03-30T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/B26-0635",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "B26-0635"
+}
