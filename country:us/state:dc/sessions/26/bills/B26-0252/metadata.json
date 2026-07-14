@@ -84,6 +84,16 @@
       }
     },
     {
+      "description": "Notice of Public Hearing Published in the District of Columbia Register",
+      "date": "2026-06-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:58:42Z"
+      }
+    },
+    {
       "description": "Public Hearing on B26-0252",
       "date": "2026-07-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -150,7 +160,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:17Z",
+    "logs_latest_update": "2026-07-14T13:58:42Z",
     "text_extraction_latest_update": "2026-07-13T06:39:21.542502Z"
   }
 }

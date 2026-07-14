@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Resolution R26-0432, Effective from Jun 30, 2026 Published in DC Register Vol 73 and Page 009435",
+    "occurred_at": "2026-07-10T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/6/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/PR26-0662",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PR26-0662"
+}
