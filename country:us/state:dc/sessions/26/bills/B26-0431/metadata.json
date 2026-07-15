@@ -172,6 +172,19 @@
       }
     },
     {
+      "description": "Transmitted to Congress, Projected Law Date is Sep 18, 2026",
+      "date": "2026-07-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:26Z"
+      }
+    },
+    {
       "description": "Act A26-0364 Published in DC Register Vol 73 and Page 009400",
       "date": "2026-07-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -282,7 +295,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:58:42Z",
+    "logs_latest_update": "2026-07-15T13:55:26Z",
     "text_extraction_latest_update": "2026-07-14T20:21:18.382075Z"
   }
 }

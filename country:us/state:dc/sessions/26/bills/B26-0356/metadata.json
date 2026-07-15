@@ -149,6 +149,19 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:02:17Z"
       }
+    },
+    {
+      "description": "Transmitted to Congress, Projected Law Date is Sep 18, 2026",
+      "date": "2026-07-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -208,6 +221,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Enacted without Mayor's Signature with Act Number A26-0359",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/58425/Signed_Act/B26-0356-Signed_Act.pdf?Id=243237",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -229,7 +253,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:17Z",
+    "logs_latest_update": "2026-07-15T13:55:26Z",
     "text_extraction_latest_update": "2026-07-13T06:29:19.957020Z"
   }
 }

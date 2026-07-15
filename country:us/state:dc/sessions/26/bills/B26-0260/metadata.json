@@ -70,6 +70,16 @@
       }
     },
     {
+      "description": "Committee Mark-up of B26-0260 by the Executive Administration and Labor Committee",
+      "date": "2025-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:26Z"
+      }
+    },
+    {
       "description": "Committee Mark-up of B26-0260 by the Health Committee",
       "date": "2025-06-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -641,7 +651,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:17Z",
+    "logs_latest_update": "2026-07-15T13:55:26Z",
     "text_extraction_latest_update": "2026-07-13T06:28:08.550117Z"
   }
 }

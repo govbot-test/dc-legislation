@@ -62,6 +62,19 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:02:18Z"
       }
+    },
+    {
+      "description": "Transmitted to Mayor, Response Due on Jul 28, 2026",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -131,7 +144,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:18Z",
+    "logs_latest_update": "2026-07-15T13:55:26Z",
     "text_extraction_latest_update": "2026-07-13T07:18:26.807265Z"
   }
 }

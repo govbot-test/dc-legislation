@@ -36,6 +36,18 @@
       "_processing": {
         "log_file_created": "2026-07-14T13:58:42Z"
       }
+    },
+    {
+      "description": "Amendment (LGeorge)",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -62,7 +74,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment (LGeorge)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62319/Meeting1/Amendment/B26-0767-Amendment1.pdf?Id=243280",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -82,7 +106,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:58:42Z",
+    "logs_latest_update": "2026-07-15T13:55:26Z",
     "text_extraction_latest_update": "2026-07-14T20:21:32.375452Z"
   }
 }
