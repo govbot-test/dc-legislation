@@ -84,13 +84,13 @@
       }
     },
     {
-      "description": "Roundtable on PR26-0677",
+      "description": "Roundtable on PR26-0677 View Roundtable Record",
       "date": "2026-05-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:02:19Z"
+        "log_file_created": "2026-07-16T14:07:44Z"
       }
     },
     {
@@ -101,6 +101,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:02:19Z"
+      }
+    },
+    {
+      "description": "Final Reading, CC",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-16T14:07:44Z"
+      }
+    },
+    {
+      "description": "Approved with Resolution Number R26-0453",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-16T14:07:44Z"
       }
     }
   ],
@@ -150,6 +174,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Roundtable on PR26-0677 View Roundtable Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61736/Hearing_Record/PR26-0677-Hearing_Record2.pdf?Id=243063",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -171,7 +206,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:19Z",
+    "logs_latest_update": "2026-07-16T14:07:44Z",
     "text_extraction_latest_update": "2026-07-13T08:15:50.916088Z"
   }
 }

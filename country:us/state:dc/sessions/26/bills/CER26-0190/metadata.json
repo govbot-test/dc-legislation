@@ -36,6 +36,18 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:02:18Z"
       }
+    },
+    {
+      "description": "Final Reading, CC",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-16T14:07:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -82,7 +94,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:18Z",
+    "logs_latest_update": "2026-07-16T14:07:44Z",
     "text_extraction_latest_update": "2026-07-13T06:18:12.604462Z"
   }
 }

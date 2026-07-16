@@ -1,0 +1,89 @@
+{
+  "legislative_session": "26",
+  "identifier": "B26-0772",
+  "title": "Closing of the Unimproved Portion of 35th Street N.W., Abutting Squares 1178 and 1179, S.O. 26-01008, Act of 2026",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-dc-26-b260772"
+    }
+  ],
+  "actions": [
+    {
+      "description": "B26-0772 Introduced by Councilmember Pinto at Office of the Secretary",
+      "date": "2026-07-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-16T14:07:44Z"
+      }
+    },
+    {
+      "description": "Referred to Committee of the Whole",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-16T14:07:44Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pinto, Brooke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduction",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62326/Introduction/B26-0772-Introduction.pdf?Id=243358",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/1/26",
+      "note": ""
+    },
+    {
+      "url": "https://lims.dccouncil.gov/Legislation/B26-0772",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/district:dc/government",
+    "name": "District of Columbia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/district:dc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-16T14:07:44Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Approved with Resolution Number R26-0467",
+    "occurred_at": "2026-07-14T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "26",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lims.dccouncil.gov/api/v2/PublicData/BulkData/6/26",
+        "note": ""
+      },
+      {
+        "url": "https://lims.dccouncil.gov/Legislation/PR26-0771",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "PR26-0771"
+}
