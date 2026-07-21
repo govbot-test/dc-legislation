@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-611
+4
+5
+6 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+7
+8 _________________________
+9
+10
+11 To amend, on a temporary basis, the Rental Housing Act of 1985, to require owners of rental
+12 accommodations that are exempt from rent stabilization to report current and prior rent
+13 amounts for the previous two calendar years and the utilities, facilities and services, and
+14 appliances at the time of registration.
+15
+16 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+17 act may be cited as the “Rental Housing Registration Data Integrity Temporary Amendment Act
+18 of 2026”.
+19 Sec.2. Section 205(f) of the Rental Housing Act of 1985, effective October 22, 2015
+20 (D.C. Law 21-36; D.C. Official Code § 42-3502.05(f)), is amended as follows:
+21 (1) A new paragraph (5) is added to read as follows:
+22 “(5)(A) The owner of a rental accommodation that is exempt from rent
+23 stabilization pursuant to subsection (a) of this section shall, at the time of registration, provide
+24 the following information for each rental unit:
+25 (i) The current monthly rent amount;
+26 (ii) The monthly rent amount charged for the same unit during each of the
+27 two prior calendar years; and
+1
+
+ENGROSSED ORIGINAL
+28 (iii) The utilities, facilities and services, and appliances.
+29 (B) The information required under subparagraph (A) of this paragraph shall be
+30 submitted only at the time of registration and shall not be subject to any ongoing or annual
+31 reporting requirements.”
+32 Sec. 3. Fiscal impact statement.
+33 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+34 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+35 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+36 Sec. 4. Effective date.
+37 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+38 the Mayor, action by the Council to override the veto), a 30-day period of congressional review
+39 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+40 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+41 Columbia Register.
+42 (b) This act shall expire after 225 days of its having taken effect.
+2

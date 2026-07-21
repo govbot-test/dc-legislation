@@ -1,0 +1,195 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+February 24, 2025
+Nyasha Howard
+Secretary to the Council
+Council of the District of Columbia
+1350 Pennsylvania Avenue, NW
+Washington, D.C. 20004
+Dear Secretary Howard:
+Today, I am introducing the “Fair Swipe Act of 2025”, along with Councilmembers Anita Bonds,
+Wendell Felder, Matthew Frumin, Christina Henderson, Janeese Lewis George, Brianne K.
+Nadeau, Brooke Pinto, and Robert C. White, Jr. Please find enclosed a signed copy of the
+legislation.
+Restaurants and eateries, large and small, and other local business retailers are the cornerstones
+of our communities and an engine of our economy. According to the National Restaurant
+Association, in 2024, the restaurant industry exceeded $1.1 trillion in sales and remitted $216.7
+billion in taxes for all levels of government. However, providing this tax collection service for
+jurisdictions comes at a high cost for business owners because when a consumer decides to pay
+their bill with either their debit or credit card, the debit or credit card network charges an
+interchange fee (also known as a “swipe fee”) for the transaction. A swipe fee, which averages 2-
+4% per transaction, is also charged on the tax and tips portion of the bill, even though the
+business never pockets that money and passes the taxes and tips portion on to the jurisdiction
+or employee. A swipe fee on the sales and tax portions of a bill unfairly eats into the hard-earned
+profits of our local business retailers and should stay in their pockets so that they can continue
+to grow their businesses.
+This bill would prohibit the charging of interchange fees on the sales tax and gratuity portions of
+credit and debit card transactions. It also outlines the process by which a merchant can submit
+tax and gratuity documentation and receive credits for the amount of interchange fees charged
+per electronic payment transaction. For violations of the prohibitions created in this bill, it would
+impose a civil penalty of $1,000 per electronic payment transaction. Finally, the bill includes a
+non-severability clause, thereby ensuring key provisions do not solely burden District- chartered
+banks should the legislation be challenged in court.
+1
+
+This legislation would allow the District to ensure that all merchants can keep their hard-earned
+profits in their pockets by recovering these fees either at the point of sale or through retroactive
+reimbursement by a financial institution. This is a step toward ensuring our local businesses
+continue to have a fair shot at post-pandemic recovery and can thrive in an environment that
+recognizes their challenges and creates opportunities for owners/operators and workers to
+succeed.
+Sincerely,
+Councilmember Charles Allen, Ward 6
+Chairperson, Committee on Transportation & the Environment
+2
+
+1 ___________________________ ______________________________
+2 Councilmember Anita Bonds Councilmember Charles Allen
+3
+4
+5 ___________________________ ______________________________
+6 Councilmember Wendell Felder Councilmember Matthew Frumin
+7
+8
+9 ___________________________ ______________________________
+10 Councilmember Christina Henderson Councilmember Janeese Lewis George
+11
+12
+13 ___________________________ ___________________________
+14 Councilmember Brianne K. Nadeau Councilmember Brooke Pinto
+15
+16
+17 ___________________________
+18 Councilmember Robert C. White, Jr.
+19
+20
+21
+22 A BILL
+23
+24 ________
+25
+26
+27 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+28
+29 _________________
+30
+31
+32 To prohibit the charging of interchange fees on the sales tax and gratuity portions of credit and
+33 debit card transactions, to outline the process by which a merchant can submit tax and
+34 gratuity documentation and receive a credit for the amount of interchange fees charged
+35 per electronic payment transaction, to impose a civil penalty of $1,000 per electronic
+36 payment transaction for violations of this act, and to provide that this act is non-
+37 severable.
+38
+39 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+40 act may be cited as the “Fair Swipe Act of 2025”.
+41 Sec. 2. Definitions.
+42 For the purposes of this act, the term:
+1
+
+43 (1) "Acquirer bank" means a member of a payment card network that contracts
+44 with a merchant for the settlement of electronic payment transactions. An acquirer bank may
+45 contract directly with merchants or indirectly through a processor to process electronic payment
+46 transactions.
+47 (2) "Authorization" means the process through which a merchant requests
+48 approval for an electronic payment transaction from the issuer.
+49 (3) "Clearance" means the process of transmitting final transaction data from a
+50 merchant to an issuer for posting to the cardholder's account and the calculation of fees and
+51 charges, including interchange fees, that apply to the issuer and the merchant.
+52 (4) "Credit card" means a card, plate, coupon book, or other credit device existing
+53 for the purpose of obtaining money, property, labor, or services on credit.
+54 (5) "Debit card" means a card or other payment code or device issued or approved
+55 for use through a payment card network to debit an asset account, regardless of the purpose for
+56 which the account is established, whether authorization is based on a signature, a personal
+57 identification number, or other means. The term includes a general use prepaid card, as defined
+58 in 15 U.S.C. § 1693l-1, but does not include paper checks.
+59 (6) "Electronic payment transaction" means a transaction in which a person uses a
+60 debit card, a credit card, or other payment code or device issued or approved through a payment
+61 card network to debit a deposit account or use a line of credit, whether authorization is based on
+62 a signature, a personal identification number, or other means.
+63 (7) "Gratuity" means a voluntary monetary contribution to an employee from a
+64 guest, patron, or customer in connection with services rendered.
+2
+
+65 (8) "Interchange fee" means a fee established, charged, or received by a payment
+66 card network for the purpose of compensating the issuer for its involvement in an electronic
+67 payment transaction.
+68 (9) "Issuer" means a person issuing a debit card or credit card or the issuer's agent.
+69 (10) "Merchant" means a person that accepts electronic payment transactions and
+70 collects and remits a tax.
+71 (11) "Payment card network" means an entity that:
+72 (A) Directly or through licensed members, processors, or agents, provides
+73 the proprietary services, infrastructure, and software to route information and data for the
+74 purpose of conducting electronic payment transaction authorization, clearance, and settlement;
+75 and
+76 (B) A merchant uses to accept as a form of payment a brand of debit card,
+77 credit card, or other device that may be used to carry out electronic payment transactions.
+78 (12) "Person" means any individual, firm, public or private corporation,
+79 government, partnership, association, or any other organization or entity.
+80 (13) "Processor" means an entity that facilitates, services, processes, or manages
+81 the debit or credit authorization, billing, transfer, payment procedures, or settlement with respect
+82 to any electronic payment transaction.
+83 (14) "Settlement" means the process of transmitting sales information to the
+84 issuing bank for collection and reimbursement of funds to the merchant and calculating and
+85 reporting the net transaction amount to the issuer and merchant for an electronic payment
+86 transaction that is cleared.
+87 (15) "Tax" means sales and use tax imposed pursuant to D.C. Official Code § 47-
+88 2002.
+3
+
+89 (16) "Tax and gratuity documentation" means documentation or data sufficient for
+90 the payment card network to determine the total amount of the electronic payment transaction
+91 and the tax or gratuity amount of the transaction. Tax documentation may be related to a single
+92 electronic payment transaction or multiple electronic payment transactions aggregated over a
+93 period of time. Examples of tax documentation include invoices, receipts, journals, ledgers, and
+94 tax returns filed with the Office of Tax and Revenue.
+95 Sec. 3. Prohibition on charging of interchange fees on sales tax part of credit and debit
+96 card transactions.
+97 (a) An issuer, a payment card network, an acquirer bank, or a processor shall not receive
+98 or charge a merchant any interchange fee on the tax amount or gratuity of an electronic payment
+99 transaction if the merchant informs the acquirer bank or its designee of the tax or gratuity amount
+100 as part of the authorization or settlement process for the electronic payment transaction. The
+101 merchant shall transmit the tax or gratuity amount data as part of the authorization or settlement
+102 process to avoid being charged interchange fees on the tax or gratuity amount of an electronic
+103 payment transaction.
+104 (b) A merchant that does not transmit the tax or gratuity amount data in accordance with
+105 this section as part of the authorization or settlement process may submit tax and gratuity
+106 documentation for the electronic payment transaction to the acquirer bank or its designee no later
+107 than 180 days after the date of the electronic payment transaction, and, within 30 days after the
+108 merchant submits the necessary tax and gratuity documentation, the issuer or payment card
+109 network shall credit to the merchant the amount of interchange fees charged on the tax or
+110 gratuity amount of the electronic payment transaction.
+111 (c) This section shall not be construed as imposing liability on a payment card network
+112 for the accuracy of the tax or gratuity data reported by the merchant.
+4
+
+113 (d) It shall be unlawful for an issuer, a payment card network, an acquirer bank, or a
+114 processor to alter or manipulate the computation and imposition of interchange fees by
+115 increasing the rate or amount of the fees applicable to or imposed upon the portion of a credit or
+116 debit card transaction not attributable to taxes or gratuities to circumvent the effect of this
+117 section.
+118 (e) An issuer, a payment card network, an acquirer bank, a processor, or other designated
+119 entity that has received the tax or gratuity documentation and violates subsection (a) of this
+120 section shall be subject to a civil penalty of $1,000 per electronic payment transaction and shall
+121 refund the merchant the interchange fee calculated on the tax or gratuity amount relative to the
+122 electronic payment transaction.
+123 Sec. 4. Non-severability.
+124 If any provision of section 3 of this act or its application to any person or circumstance is
+125 held to be unconstitutional, beyond the statutory authority of the Council, or otherwise invalid,
+126 then all provisions of this act shall be deemed invalid.
+127 Sec. 5. Fiscal impact statement.
+128 The Council adopts the fiscal impact statement in the committee report as the fiscal
+129 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+130 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+131 Sec. 6. Effective date.
+132 This act shall take effect following approval by the Mayor (or in the event of veto by the
+133 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+134 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+135 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+136 Columbia Register.
+5

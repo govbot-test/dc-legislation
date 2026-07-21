@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-173
+4
+5
+6 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+7
+8 _________________
+9
+10
+11 To amend Subchapter I-B of Chapter 28 of Title 47 of the District of Columbia Official Code to
+12 provide limited civil liability, absent gross negligence or willful misconduct, to licensed
+13 architects and professional engineers who, in good faith and without compensation,
+14 render assistance at the scene of or in connection with a life-threatening emergency in the
+15 built environment, at the direction or request of or with the approval of a federal or
+16 District official, during a period of a public emergency declared by the Mayor or within
+17 90 days following the end of such period at the scene of the life-threatening emergency in
+18 the built environment.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the “Architect and Engineer Good Samaritan Amendment Act of 2026”.
+22 Sec. 2. Subchapter I-B of Chapter 28 of Title 47 of the District of Columbia Official
+23 Code is amended as follows:
+24 (a) Section 47-2853.01 is amended by adding a new paragraph (1A) is added to read as
+25 follows:
+26 “(1A) “Built environment” means the human-constructed surroundings that
+27 support human activities, including buildings, transport systems, and landscapes.”.
+28 (b) Part C is amended as follows:
+1
+
+29 (1) The table of contents is amended by adding a new section designation to read
+30 as follows:
+31 “§ 47-2853.69. Limited civil liability for voluntary practice of architecture at scene of
+32 life-threatening emergency in the built environment.”.
+33 (2) A new section 47-2853.69 is added to read as follows:
+34 “§ 47-2853.69. Limited civil liability for voluntary practice of architecture at scene of
+35 life-threatening emergency in the built environment.
+36 “Any person with a valid license as an architect shall not be liable, in the absence of gross
+37 negligence or willful misconduct, for any civil damages for acts or omissions resulting from
+38 rendering assistance through the practice of architecture at the scene of or in connection with a
+39 life-threatening emergency in the built environment; provided, that the person acted:
+40 “(1) During a public emergency declared by the Mayor pursuant to § 7-2304(a),
+41 or within 90 days following the end of the public emergency declared by the Mayor pursuant to §
+42 7-2304(a) at the scene of the life-threatening emergency in the built environment;
+43 “(2) In good faith and without compensation;
+44 “(3) At the direction or request of or with the approval of a federal or District
+45 official reasonably believed by the person to be acting in an official capacity; and
+46 “(4) After having completed a training program that uses the California
+47 Governor’s Office Of Emergency Services Safety Assessment Program to provide licensed
+48 architects the ability to assist local governments in safety evaluation of their built environment in
+49 the aftermath of a life-threatening emergency in the built environment.”.
+50 (b) Part J is amended as follows:
+2
+
+ENGROSSED ORIGINAL
+51 (1) The table of contents is amended by adding a new section designation to read
+52 as follows:
+53 “§ 47-2853.134. Limited civil liability for voluntary practice of engineering at scene of
+54 life-threatening emergency in the built environment.”.
+55 (2) A new section 47-2853.134 is added to read as follows:
+56 “§47-2853.134. Limited civil liability for voluntary practice of engineering at scene of
+57 life-threatening emergency in the built environment.
+58 “Any person with a valid license as a professional engineer shall not be liable, in the
+59 absence of gross negligence or willful misconduct, for any civil damages for acts or omissions
+60 resulting from rendering assistance through the practice of engineering at the scene of or in
+61 connection with a life-threatening emergency in the built environment; provided, that the person
+62 acted:
+63 “(1) During a public emergency declared by the Mayor pursuant § 7-2304(a), or
+64 within 90 days following the end of the public emergency declared by the Mayor pursuant to § 7-
+65 2304(a) at the scene of the life-threatening emergency in the built environment;
+66 “(2) In good faith and without compensation;
+67 “(3) At the direction or request of or with the approval of a federal or District
+68 official reasonably believed by the person to be acting in an official capacity; and
+69 “(4) After having completed a training program that uses the California
+70 Governor’s Office Of Emergency Services Safety Assessment Program to provide licensed
+3
+
+71 professional engineers the ability to assist local governments in safety evaluation of their built
+72 environment in the aftermath of a life-threatening emergency in the built environment.”.
+73 Sec. 3. Fiscal impact statement.
+74 The Council adopts the fiscal impact statement in the committee report as the fiscal
+75 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+76 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+77 Sec. 4. Effective date.
+78 This act shall take effect following approval by the Mayor (or in the event of veto by the
+79 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+80 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+81 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+4

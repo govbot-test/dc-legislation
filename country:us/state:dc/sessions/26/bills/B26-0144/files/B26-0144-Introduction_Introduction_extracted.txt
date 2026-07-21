@@ -1,0 +1,2781 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Maurice D. Edington, Ph.D.
+President
+February 26, 2025
+The Honorable Phil Mendelson, Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW-Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Pursuant to section 451(c) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat.
+803; Pub. L. 93-198; D.C. Official Code 1-204.51(c)) and section 202 of the Procurement Practices Reform Act
+of 2010, effective April 8, 2011 (D.C. Law 18-371; D.C. Official Code 2-352.02), enclosed for consideration and
+approval by the Council of the District of Columbia is proposed emergency act, the “University of the District of
+Columbia Change Order 1 and Multiyear Contract No PO-GF-2024-P-0144-BB with CDW Government,
+LLC/Coastal Cloud Approval and Payment Authorization Emergency Act of 2025,” and the accompanying
+emergency declaration resolution, the “University of the District of Columbia Multiyear Contract No PO-GF-
+2024-P-0144-BB with CDW Government, LLC/Coastal Cloud Approval and Payment Authorization Emergency
+Declaration Resolution of 2025.” Also included are (1) the UDC Board of Trustees Approval Resolution No.
+2024-54; (2) a Fiscal Impact Statement; (3) and a Legal Sufficiency Statement.
+The legislation will approve Change Order 1 and Multiyear Contract No PO-GF-2024-P-0144-BB with CDW
+Government, LLC/Coastal Cloud to ensure development continuity and support for the University’s Customer
+Relation Management (CRM) system, Salesforce. This capital project will enhance the University’s recruitment
+and admission of students, marketing, and communications activities. UDC entered into a single year contract
+with CDW for Phase I of the project to end on June 11, 2025, at a cost of $926,132.40. Due to increased costs
+delineated in Change Order 1, an additional $274,409.60 is required to complete Phase I: bringing the total cost
+of Phase I to $1,200,542 and requiring Council approval. Phase II of the project is a proposed Multiyear contract
+with CDW for a firm fixed price of $3,000,000 and period of performance from March 2025 through September
+30, 2026. Performance on the remainder of Phase I and on Phase II of the CRM await Council approval to be
+initiated. The total CRM contract amount for Phase I (including Change Order) and Phase II is $4,200,542.
+I respectfully request the Council’s favorable consideration of the enclosed legislation. Should you have any
+questions, please contact Ms. Mary Ann Harris, Chief Contracting Officer, at (202) 274-5426.
+Sincerely,
+Maurice Edington, Ph.D.
+President
+University of the District of Columbia
+4200 Connecticut Avenue NW — Washington, DC 20008
+Phone: 202.274.6016 ▪ www.udc.edu
+
+1
+2 Chairman Phil Mendelson
+3 at the request of the University of the District of
+4 Columbia
+5
+6
+7 AN ACT
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16 To approve, on an emergency basis, the proposed Change Order 1 and multiyear Contract No.
+17 PO-GF-2024-P-0144-BB by and between the University of the District of Columbia and
+18 CDW Government, LLC/Coastal Cloud to implement Salesforce as the enterprise-wide
+19 customer relationship management (CRM) platform.
+20
+21 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+22 act may be cited as the "University of the District of Columbia Change Order 1 & Multi year
+23 Contract No. PO-GF-2024-P-0144-BB by and between the University of the District of
+24 Columbia and CDW Government, LLC/Coastal Cloud Approval and Payment Authorization
+25 Emergency Act of 2025".
+26 Sec. 2. Pursuant to sections 451 (b) and ( c) of the District of Columbia Home Rule Act,
+27 approved December 24, 1973 (87 Stat. 803; Pub. L. 93-198; D.C. Official Code 1-204.51) and
+28 section 202 of the Procurement Practices Reform Act of 2010, effective April 8, 2011 (D.C. Law
+29 18-371; D.C. Official Code 2-352.02) the Council approves Change Order 1 & Multiyear
+30 Contract No. PO-GF-2024-P-0144-BB by and between the University of the District of
+31 Columbia and CDW Government, LLC/Coastal Cloud for the total cost of $4,200,542, including
+32 a Change Order of $274,409.60 to an existing contract of $926,132.40, and a multiyear contract
+
+33 for firm fixed price of $3,000,000 for development continuity and support for the University’s
+34 Customer Relation Management (CRM) system: Salesforce.
+35 Sec.3. Transmittal.
+36 The Council shall transmit a copy of this resolution, upon its adoption, to the President of
+37 the University of the District of Columbia.
+38 Sec.4. Fiscal Impact Statement.
+39 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+40 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+41 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code §1-301.47a).
+42 Sec.5. Effective Date.
+43 This resolution shall take effect immediately.
+2
+
+Office of Contracting and Procurement
+Pursuant to section 202(c) of the Procurement Practices Reform Act of 2010, as amended,
+D.C. Official Code § 2-352.02(c), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Standard and multiyear)
+(A) Contract Number: PO-GF-2024-P-0144-BB
+Prospective Contractor: CDW Government, LLC\Coastal Cloud.
+Contract Amount: $4,200,542.00
+Unit and Method of Compensation: US dollars, Lot payment
+Term of Contract: From date of Award. Not to exceed September 30,
+2026
+Type of Contract: Firm Fixed Price - Multiyear
+Source Selection Method: Cooperative (Purchasing) Agreement
+(B) For a contract containing option periods, the contract amount for the base period and
+for each option period. If the contract amount for one or more of the option periods
+differs from the amount for the base period, provide an explanation of the reason for
+the difference:
+Phase I
+Base Period (Original Contract): $926,132.40
+Change Order for Phase I: $274,409.60
+Total including Change Order: $1,200,542
+Phase II
+FY25 Month 1-7 (March 2025-September 2025): $1,725,590.40
+FY26 Months 8-12 (October 2025-September 2026): $1,274,409.60
+1
+
+(C) The goods or services to be provided, the methods of delivering goods or services, and
+any significant program changes reflected in the Prospective contract:
+The prospective contractor, CDW Government, LLC / Coastal Cloud, LLC, will provide
+proprietary Salesforce implementation services for the University of the District of
+Columbia (UDC). This contract pertains to the DV – Salesforce Phase I: Recruitment &
+Admissions MVP+ project, which aligns with UDC's strategic framework to implement
+Salesforce as its enterprise-wide customer relationship management (CRM) platform. This
+phase will focus on Recruitment and Admissions and is structured to provide a
+comprehensive and scalable solution that supports UDC’s growth.
+Phase I: Salesforce Recruitment & Admissions MVP+
+This phase is part of UDC’s long-term strategy to streamline and standardize its CRM
+processes. It will include a variety of essential activities such as:
+• Project Kickoff
+• True North (Analyze and Design)
+• Salesforce Configuration
+• User Acceptance Testing (UAT)
+• Data Integration and Migration
+• Deployment
+• Training
+• Post-Implementation Support
+• Project Management
+• Implementation Contingency
+The primary objectives of this project are:
+• To develop a strategic roadmap for multi-phase Salesforce implementation using the
+True North approach.
+• To center the solution design around a seamless student experience.
+• To align UDC’s objectives and business processes to improve operations and better
+support students, staff, and faculty.
+• To consolidate disparate tools and integrate key platforms, creating a unified tech
+stack.
+• To leverage strong project methodology, ensuring an efficient implementation and
+adoption of the Recruitment and Admissions functionality.
+The project will serve the diverse needs of multiple departments within UDC, including:
+• Community College
+• Undergraduate, Graduate, and Law School programs
+• Workforce Development and Lifelong Learning (WDLL)
+• Marketing and Communications
+Salesforce-based Solution: The contractor proposes using Salesforce Education Cloud,
+Salesforce Experience Cloud, and Salesforce Marketing Cloud to build the CRM
+solution.
+2
+
+Change Order for Salesforce Phase I and Phase II
+This Change Order Request modifies the Statement of Work (SOW) and any prior
+amendments or Change Orders. The changes include updates to the scope, functionality, and
+deliverables as described below.
+Phase I: Salesforce Recruitment & Admissions MVP+
+The objective of Phase I is to implement an operational CRM for Recruitment and
+Admissions with enhanced functionality and scalability for future phases of student
+enrollment, graduation, and alumni engagement. Key use cases for evaluation include:
+• Recruitment: Territories, marketing, and events
+• Portal: Applications, knowledge management, cases
+• Applications: For all seven departments
+• Scheduling: Appointments
+• Communications: Email, SMS, and drip campaigns
+• Reports & Dashboards: For tracking and analytics
+The Phase I Salesforce Education Cloud implementation will focus on the following key
+build points:
+1. Structure Education Cloud for R&A, with a vision for future phases
+2. Build a CRM environment that supports cross-departmental data transparency
+3. Provide a Portal for prospects and applicants for streamlined access
+4. Establish an Event Tool for managing recruitment and admissions events
+5. Create campaign options (one-off and drip campaigns) for all constituents via email
+and SMS
+The final technology stack for this phase includes Salesforce Education Cloud, Salesforce
+Experience Cloud, Salesforce Marketing Cloud Engagement, FormAssembly, Salesforce
+Scheduler, Blackthorn, MuleSoft, and Mogli.
+Phase II: Salesforce Education Cloud – Waves Program
+The contractor is also UDC's Technology Services Partner, capable of designing,
+developing, and deploying Salesforce-based solutions for Enrollment and Student
+Success. Phase II, the Waves Program, will leverage Salesforce Education Cloud to
+provide a robust solution that ensures industry’s best practices, secure data handling, and
+enhanced end-user experience. This project will focus on integrating Salesforce into key
+student services and business operations.
+Waves Program Key Areas of Focus:
+1. System Integrations:
+o UDC’s new financial ERP system
+o Financial Aid system
+o Parchment system
+o Payment gateway system
+3
+
+2. Event Functionality:
+o Event fee processing
+o Paid registration for events
+3. Admissions & Enrollment Services:
+o New/additional admissions forms
+o Program management
+o Course management
+o Degree plans
+o Financial aid information
+4. Student Success Services:
+o Career Services
+o Counseling & Wellness
+o Health Services
+o Special Programs
+o Judicial Affairs
+5. Registrar and Other Academic Services:
+o CAUSES (Center for African American Studies)
+o School of Law
+6. Grant and MOU Management
+7. OCR for scanned documents
+8. Volunteer Management
+The team will work in an agile manner, adjusting priorities and requirements based on
+feedback from executive stakeholders. The implementation timeline for Phase II spans 12
+months, focusing on strategic goals and continuous improvement.
+This collaborative approach will help UDC achieve its objective of providing a seamless,
+integrated solution for student recruitment, enrollment, success, and beyond, supported by
+innovative technologies and systems.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance
+components:
+The selection process for this contract adhered to the guidelines established under a
+Cooperative Purchasing Agreement, in compliance with the D.C. Official Code
+§§2-354.01(a)(1)(J) and 2-354.11(a), and Chapter 30 of Title 8(b), D.C.M.R.
+§3003.1(h). This method ensures the selection of a vendor who provides the best value to
+meet the University's service, supply, and construction needs. Based on this process, the
+University intends to award the contract to CDW Government, LLC / Coastal Cloud under
+the Cooperative Purchasing Agreement.
+Contract Pricing and Phases
+• Total Contract Price: A firm fixed price of $4,200,542.00.
+4
+
+Phase I: DV – Salesforce Recruitment and Admissions MVP+
+• Additional Services Cost: $274,409.60
+• Completion Deadline: Services under Phase I must be completed by June 11, 2025.
+Phase II: Salesforce Education Cloud – Waves Program
+• Total Cost for Phase II: $3,000,000.00
+• Fee Breakdown:
+o FY25 (March 2025 – September 2025): $1,725,590.40
+o FY26 (October 2025 – September 2026): $1,274,409.60
+• Completion Deadline: Services for Phase II must be completed by September 30,
+2026.
+Financial Summary
+• Original Purchase Order: $926,132.40
+• Change Order Total: $274,409.60 for Phase I and $3,000,000.00 for Phase II,
+resulting in a total change order amount of $3,274,409.60.
+• Contract Total: The total contract amount shall not exceed $4,200,542.00. Any
+additional costs incurred will require a separate Statement of Work (SOW) to be
+mutually agreed upon and signed by both parties, with a corresponding purchase
+order issued.
+The selection process ensured a thorough evaluation of the contractor's proposal to meet the
+University’s needs while considering cost, technical quality, and the contractor’s past
+performance. CDW Government, LLC / Coastal Cloud, was determined to offer the best
+value for the required services under the Cooperative Purchasing Agreement.
+(E) A description of any bid protest related to the award of the contract, including
+whether the protest was resolved through litigation, withdrawal of the protest by the
+protestor, or voluntary corrective action by the District. Include the identity of the
+protestor, the grounds alleged in the protest, and any deficiencies identified by the
+District as a result of the protest:
+There have been no bid protests related to the award of the contract.
+(F) The background and qualifications of the Prospective contractor, including its
+organization, financial stability, personnel, and performance on past or current
+government or private sector contracts with requirements similar to those of the
+Prospective contract:
+CDW Corporation is a leading multi-brand provider of information technology (IT)
+solutions, serving business, government, education, and healthcare sectors across the United
+States, the United Kingdom, and Canada. As a Fortune 500 company and a member of the
+S&P 500 Index, CDW leverages its expertise to help customers navigate the increasingly
+complex IT landscape and optimize their technological investments.
+5
+
+For the year ending December 31, 2023, CDW achieved net sales of approximately $21
+billion, a testament to the strong leadership and strategic vision of its executive team. The
+company offers a wide range of IT products and services, including hardware, software, and
+integrated solutions in areas such as security, cloud services, hybrid infrastructure, and
+digital experience.
+Financially, CDW Government, LLC has a “good” composite credit rating according to the
+D&B Supplier Qualifier Report. The company is classified as “Low to Moderate Risk” in
+terms of Supplier Risk. Additionally, CDW Government, LLC is current with its tax
+obligations, and there are no outstanding unpaid taxes or liens on the company or its owner.
+CDW has consistently demonstrated strong performance on past and current government
+and private sector contracts with requirements similar to those of the prospective contract.
+The company has received multiple customer satisfaction testimonials praising its
+educational programming, video quality, and customer service, highlighting its capability to
+meet and exceed the needs of its clients.
+Overall, CDW Government, LLC, is a highly qualified and financially stable contractor with
+a proven track record of successful engagements, making it well-suited for this contract.
+(G) A summary of the subcontracting plan required under section 2346 of the Small,
+Local, and Disadvantaged Business Enterprise Development and Assistance Act of
+2005, as amended, D.C. Official Code § 2-218.01 et seq. (“Act”), including a
+certification that the subcontracting plan meets the minimum requirements of the Act
+and the dollar volume of the portion of the contract to be subcontracted, expressed
+both in total dollars and as a percentage of the total contract amount:
+The Subcontractor is a Non-Certified Business Enterprise, as defined under the
+D.C. Official Code §§ 2-218.44(a-1), 2-354.01(a)(1)(K), and 2-354.12(b)(1). The University is
+not required to set aside this contract for Small Business Enterprises (SBEs) because the Office of
+Contracting and Procurement (OCP) has determined that there are fewer than two certified,
+responsible small business enterprises available to meet the requirements of the contract. This
+determination was made in accordance with the process for source selection through a
+Cooperative Purchasing Agreement.
+Subcontractor’s Role and Services Provided
+The Subcontractor will provide 100% of the services required under this contract, in
+accordance with the contract specifications, delivery schedule, and the total contract
+amount. Since the subcontractor will fulfill the entire scope of services, no subcontracting
+will occur for this contract.
+6
+
+Certification of Compliance
+The subcontractor certifies that this subcontracting plan fully meets the minimum
+requirements of the Small, Local, and Disadvantaged Business Enterprise Development
+and Assistance Act and that the subcontractor will provide all services as per the terms of
+the agreement. There is no subcontracting of the contract as all work will be performed by
+the subcontractor directly.
+Thus, the subcontracting plan is in full compliance with the applicable laws, and the
+subcontractor will provide 100% of the services outlined in the contract.
+(H) Performance standards and the expected outcome of the Prospective contract:
+The subcontractor shall deliver services in strict accordance with the terms, conditions, and
+Statement of Work (SOW) outlined in the contract. Performance will be evaluated based on
+the following criteria:
+1. Adherence to Contract Specifications: The subcontractor is expected to meet all
+outlined requirements as specified in the SOW, including project milestones,
+deadlines, and quality standards.
+2. Timely Delivery: All deliverables must be completed within the agreed-upon
+timeframes, ensuring no delays in project execution.
+3. Quality of Work: The subcontractor must maintain a high standard of quality in all
+services provided, aligning with the industry’s best practices and contract
+expectations.
+4. Compliance: The subcontractor shall comply with all relevant laws, regulations, and
+contract terms throughout the duration of the project.
+5. Communication and Reporting: The subcontractor is required to provide regular
+status updates and reports as specified in the contract, ensuring transparency and
+effective communication.
+The expected outcome of this contract is the successful and timely delivery of all specified
+services, meeting or exceeding the standards outlined in the SOW and ensuring customer
+satisfaction.
+(I) The amount and date of any expenditure of funds by the District pursuant to the
+contract prior to its submission to the Council for approval:
+No funds have been expended by the District pursuant to the contract prior to its submission
+to the Council for approval.
+(J) A certification that the Prospective contract is within the appropriated budget
+authority for the agency for the fiscal year and is consistent with the financial plan and
+budget adopted in accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Chief Financial Officer (CFO) of the University of the District of Columbia (UDC) has
+certified that the prospective contract is within the agency's appropriate budget authority for
+the relevant fiscal years. Furthermore, the contract is aligned with the financial plan and
+budget adopted in accordance with D.C. Official Code §§ 47-392.01 and 47-392.02.
+7
+
+(K) A certification that the contract is legally sufficient, including whether the Prospective
+contractor has any pending legal claims against the District:
+The UDC Office of General Counsel has reviewed and determined that the prospective
+contract is legally sufficient. Additionally, UDC is not aware of any pending claims by
+CDW Government, LLC, against the District.
+(L) A certification that Citywide Clean Hands database indicates that the Prospective
+contractor is current with its District taxes. If the Citywide Clean Hands Database
+indicates that the Prospective contractor is not current with its District taxes, either:
+(1) a certification that the contractor has worked out and is current with a payment
+schedule approved by the District; or (2) a certification that the contractor will be
+current with its District taxes after the District recovers any outstanding debt as
+provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands system reported on October 9, 2024, that CDW Government,
+LLC has "no outstanding liability with the District of Columbia." As of the report date,
+CDW Government, LLC is in full compliance with the applicable provisions of the D.C.
+Official Code, specifically Title 47, Taxation, Licensing, Permits, Assessments, and Fees,
+Chapter 28, General License Law, Subchapter II, Clean Hands Before Receiving a License
+or Permit, D.C. Official Code §47-2862 (2006). The company has been issued a Certificate
+of Clean Hands, authorized by the Chief Collection Division, confirming that it is current
+with its District taxes.
+(M) A certification from the Prospective contractor that it is current with its federal taxes,
+or has worked out and is current with a payment schedule approved by the federal
+government:
+The proposed contractor has certified that it is current with its federal taxes.
+(N) The status of the Prospective contractor as a certified local, small, or disadvantaged
+business enterprise as defined in the Small, Local, and Disadvantaged Business
+Enterprise Development and Assistance Act of 2005, as amended; D.C. Official Code §
+2-218.01 et seq.:
+CDW Government, LLC is an out-of-state registered corporation and does not hold
+certification as a Local, Small, or Disadvantaged Business Enterprise under the Small,
+Local, and Disadvantaged Business Enterprise Development and Assistance Act of 2005, as
+amended (D.C. Official Code § 2-218.01 et seq.). Therefore, CDW Government, LLC, is
+not recognized as a certified Local, Small, or Disadvantaged Business Enterprise.
+(O) Other aspects of the Prospective contract that the Chief Procurement Officer considers
+significant:
+There are no other aspects of the prospective contract that the Chief Procurement Officer
+considers significant.
+8
+
+(P) A statement indicating whether the Prospective contractor is currently debarred from
+providing services or goods to the District or federal government, the dates of the
+debarment, and the reasons for debarment:
+The prospective contractor is not currently debarred from providing services or goods to the
+District or federal government, as confirmed by the D.C. Office of Contracts &
+Procurement's Excluded Parties List and the Federal Government's System for Award
+Management.
+(Q) Any determination and findings issues relating to the contract’s formation, including
+any determination and findings made under D.C. Official Code § 2-352.05
+(privatization contracts):
+There are no determinations and findings related to the contract’s formation under D.C.
+Official Code § 2-352.05 (privatization contracts), as the contract is being executed through
+a Cooperative Purchasing Agreement.
+(R) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+The contract, along with any amendments or modifications, will be posted online as
+required at the following link: https://www.udc.edu/procurement/contract-awards/.
+(S) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+The original solicitation, along with any amendments or modifications, will be posted online
+as required at the following link: https://www.udc.edu/procurement/sole-source-contract/.
+
+Mary Ann Harris, MPA Office of Contracting and Procurement
+Director
+CHANGE ORDER 001
+November 25, 2024
+Stephen Morris
+CDW Corporation
+200 N. Milwaukee Avenue
+Vernon Hills, IL 60061
+Subject: Change Order for DV – Salesforce Phase I and Phase II
+Dear Mr. Morris:
+The scope of services for the DV – Salesforce Phase I: Recruitment and Admissions MVP+ dated October
+23, 2024, and Salesforce Education Cloud Phase II: Waves Program dated October 24, 2024: Recruitment
+& Admissions MVP+ projects are described in the attached Statements of Work.
+DV – Salesforce Phase I: Recruitment and Admissions MVP+
+The cost of additional services for Phase I is two hundred seventy-four thousand, four hundred nine dollars
+and sixty cents ($274,409.60).
+The services under this phase shall be completed on or before 365 days from the date of the original award,
+June 11, 2024.
+Salesforce Education Cloud Phase II: Waves Program
+The cost of services for Phase II shall not exceed three million dollars ($3,000,000.00).
+Fee breakout by fiscal year:
+FY25
+●Month 1-7 (March 2025-September 2025): $1,725,590.40, or roughly $250,000 per month
+FY26
+●Months 8-12 (October 2025-September 2026): $1,274,409.60
+The services for Phase II shall be completed on or before September 30, 2026.
+The original purchase order is in the amount of $926,132.40. The amount of this Change Order for Phase I
+($274,409.60) and Phase II ($3,000,000.00) totals three million, two hundred seventy-four thousand, four
+hundred nine dollars and sixty cents ($3,274,409.60).
+The total amount of this contract shall be in an amount not to exceed four million, two hundred thousand, five
+hundred forty-two dollars ($4,200,542.00). If additional costs arise, a separate statement of work will be
+mutually agreed upon, signed by the duly authorized representative of both parties and a separate purchase
+order will be issued.
+
+Mary Ann Harris, MPA Office of Contracting and Procurement
+Director
+If there are any conflicts between the provisions of this Change Order #001 and the attachments or the
+contract then the following shall control in the following order: (1) this Change Order #001, (2) the
+attachments, (3) the contract. All other terms and conditions under the contract remain unchanged.
+Please sign the original of this change order and return it to the Office of Contracting and Procurement.
+Sincerely,
+Mary Ann Harris
+Chief Contracting Officer
+Signature: ________________________ Date: ___________________________
+Accepted and agreed by
+CDW Corporation
+Stephen Morris
+Vice President of Intelligent Platforms
+Signature: ________________________ Date: _______12/2/24____________________
+Attachments:
+• DV – Salesforce Phase I: Recruitment & Admissions MVP+
+• Salesforce Education Cloud Phase II: Waves Program
+
+CHANGE ORDER
+Project Name: DV – Salesforce Phase I: Recruitment & Admissions Seller Representative:
+MVP+ Ebony Thomas
+230-851-7188
+Customer Name: University of the District of Columbia
+ebontho@cdwg.com
+CDW Affiliate: CDW Government LLC
+Effective Date: October 23, 2024 Requesting Party:
+University of the District of Columbia
+Contract#/Change ID: 129296-01
+This change order (“Change Order” or “CO”) is made and entered into this October 23, 2024 (the “Effective Date”) by and
+between the undersigned, CDW Government, LLC (“Seller” and “we”), and University of the District of Columbia
+(“Customer” and “you”), and amends that certain DV – Salesforce Phase I: Recruitment & Admissions MVP+ Statement of
+Work made effective June 13, 2024
+This SOW shall be governed by that certain E&I Master Agreement Number CNR01439 between CDW Government LLC and
+E&I Cooperative Services dated the 1st of August 2017 (the “Agreement”). If there is a conflict between this SOW and the
+Agreement, then the Agreement will control, except as expressly amended in this SOW by specific reference to the
+Agreement.
+CHANGE DESCRIPTION
+This Change Order modifies the SOW and any previous Change Orders. The changes are detailed below:
+Customer requires an operational CRM to support key business processes with decreased manual data management. With a
+Phase 1 focus on Recruitment and Admissions, the build requires scalability for the future phases of student enrollment,
+graduation, through alumni, while providing Customer with a 360-degree visibility of constituents and operations. Key use
+cases for evaluation include:
+● Recruitment: territories, marketing, events
+● Portal: applications, knowledge, cases
+● Applications: for all 7 departments
+● Scheduling: appointments
+● Communications: email, SMS, drip campaigns
+● Reports & Dashboards
+To meet those objectives, the Phase 1 Salesforce Education Cloud implementation is comprised of the following key build
+points:
+● Key 1: Structure Education Cloud for R&A with vision for future phases
+● Key 2: Build a CRM environment that allows cross-departmental data transparency
+● Key 3: Provide Prospects & Applicants with one-stop shop Portal
+● Key 4: Establish an Event tool for every Customer R&A prospect and applicant event
+● Key 5: Create options for one-off and drip campaigns for all constituents through email and SMS
+The key build points have guided the final technology stack including Salesforce Education Cloud, Salesforce Experience Cloud,
+Salesforce Marketing Cloud Engagement, FormAssembly, Salesforce Scheduler, Blackthorn, MuleSoft, and Mogli.
+To achieve these objectives, the following scope is being added to the project:
+MARKETING CLOUD
+Utilizing the Project Contingency Funding included in the SOW
+MARKETING CLOUD DISCOVERY DEEP DIVE
+● (3) Discovery sessions
+Proprietary and Confidential Page 1
+Drafted by Meagan Bostek, SOW#129296-01 TV 2021-05-21
+
+● Define six (6) email templates to be built utilizing out-of-the-box Marketing Cloud templates
+● Map out one (1) Journey Builder Journey and associated details
+● Confirm requirements for custom subscription center
+MARKETING CLOUD ENGAGEMENT FOUNDATION BUILD FOR PARENT BUSINESS UNIT (1)
+● Configure Marketing Cloud to activate email
+● Configure Marketing Cloud platform settings, user creation
+● Configure Marketing Cloud build tasks to enable email channel
+● Build up to six (6) email templates based on out-of-the-box Marketing Cloud templates
+● Develop custom subscription center for use with email channel to allow opt-in/down/out
+● Build one (1) Journey Builder journey as mapped out within approved Solution Design per Business Unit
+TRAINING
+● End User & Admin Training
+● Training Documentation, recorded virtual sessions, and quick reference guide
+FORMASSEMBLY
+● Addition of 11 variations of application forms
+● 4 Request for Information (RFI)Forms & Surveys
+● Associated connectors and setup
+MOGLI
+● SMS Messaging
+● Setup and configuration
+INTEGRATIONS
+An API-based integration between the existing Banner Student Information System (SIS) will be developed using
+Salesforce’s MuleSoft as the iPaas solution. The scope of this bi-directional integration includes:
+● Transfers selected applicants from Salesforce to Banner SIS.
+● Transfer student information, application details, and other needed data to Banner SIS at selected intervals.
+● Copy Banner IEs into Salesforce after creation in Banner SIS
+An API-based integration between CommonApp will be developed using Salesforce’s MuleSoft as the iPaas solution. The
+scope of this one-way integration includes:
+● Load Common Application information from provided files into Salesforce for evaluation and review.
+● Extract supporting files from Common Application provided archives files into Salesforce files or selected
+Document Management System.
+ASSUMPTIONS
+1. The additional scope will focus on new features, integrations, or enhancements not included in the original SOW.
+2. Changes or additions to the data model, workflows, automation, or third-party integrations will be clearly defined
+before work begins.
+3. All new requirements and deliverables are subject to approval and alignment with existing Salesforce architecture.
+4. Additional hours will require increased resource allocation, including developers, consultants, project managers,
+and quality assurance personnel.
+5. All resources needed for the additional scope will be available for the project's duration.
+6. The budget will be adjusted based on the additional scope and the agreed-upon increase in hours and
+resource requirements.
+7. The rate structure for the additional hours will remain consistent with the original agreement unless
+otherwise specified.
+Proprietary and Confidential Page 2
+Drafted by Meagan Bostek, SOW#129296-01 TV 2021-05-21
+
+8. Any further changes in scope beyond this change order will require additional budget approvals.
+9. Any delay in obtaining necessary third-party licenses or tool configurations will impact the project timeline.
+10. Any additional risk associated with the expanded scope, such as integration complexities or data migration
+challenges, will be assessed and mitigated as part of this change order.
+SCHEDULE IMPACT
+1. The resources will not be capped for a weekly burn on hours as long as their hours remain within the overall
+budget of this Change Order.
+2. The project's anticipated go-live date is late February 2024. Current funding for this project is projected to be fully
+consumed by January 6, 2025.
+3. This Change Order does not include any modification to payment terms previously agreed in the SOW.
+4. All approved COs will become addendums to the original SOW, which will then form the new baseline upon which
+future changes will be measured.
+5. The terms of this Change Order, as stated, will remain valid only if executed on or before November 30, 2024.
+ADDITIONAL PRICING
+This Change Order will incur additional fees that will be charged in addition to the fees provided in the SOW. The new fees
+are detailed below:
+Services Fees will be calculated on a TIME AND MATERIALS basis.
+The invoiced amount of Services Fees will equal the rate applicable for a unit of a service or resource (“Unit Rate”)
+multiplied by the number of units being provided (“Billable Units”) for each unit type provided by Seller (see Table 1).
+The Total Services Fees of $274,409.60 does not represent a fixed fee. Neither the Total Billable Units of 1160 nor the Total
+Services Fees are intended to limit the bounds of what may be requested or required for performance of the Services. If
+additional costs arise, both parties will mutually agree upon a separate statement of work, signed by the duly authorized
+representative of both parties and a separate purchase order will be issued
+The rates presented in the table below apply to scheduled Services that are performed during Standard Business Hours
+(meaning 8:00am to 5:00pm local time, Monday through Friday, excluding holidays).
+Upon notice, Seller may adjust the rates below, provided that the rates will remain fixed for at least six (6) months after the
+SOW Effective Date a then again for at least six (6) months after any subsequent adjustment, Hourly rates are subject to
+change for highly specialized resources.
+The rates above only apply to Services specified in this SOW as it may be amended by one or more Change Order(s).
+Table 1 – Services Fees
+Unit Type Unit Rate Billable Units Subtotal
+Engineer – Per Hour $236.56 1,160 $274,409.60
+Estimated Totals 1,160 $274,409.60
+Proprietary and Confidential Page 3
+Drafted by Meagan Bostek, SOW#129296-01 TV 2021-05-21
+
+SIGNATURES
+In acknowledgement that the parties below have read and understood this Change Order and agree to be bound by it, each
+party has caused this Change Order to be signed and transferred by its respective authorized representative.
+CDW Government LLC University of the District of Columbia
+By: By:
+signature signature
+Name: Stephen Morris Name:
+Title: VP of Intelligent Platforms Title:
+Date: 12/2/24 Date:
+❑X The following Manager has given
+approval:
+Proprietary and Confidential Page 4
+Drafted by Meagan Bostek, SOW#129296-01 TV 2021-05-21
+
+Documentation for original contract to which change order who apply follows
+
+CDW-G\Coastal Cloud Justification
+Vendor: CDW-G\Coastal Cloud
+Amount: $926,132.40
+Justification:
+As the University of the District of Columbia (UDC) strives to fulfill its mission of serving the needs of the DC community
+by producing lifelong learners and transformational leaders, scalable and forward-looking technology is essential. To
+meet that goal, UDC has a strategic framework to implement an enterprise-wide customer relationship management
+platform (CRM). The project’s primary objectives are to:
+• Develop a strategic roadmap for a multi-phased Salesforce implementation approach.
+• Center the solution design around a seamless student experience
+• Align university objectives and business processes to streamline operations and support students, staff, and
+faculty.
+• Consolidate disparate tools and integration of key platforms to create a robust and unified tech stack.
+• Leverage strong project methodology to ensure an efficient implementation and strong adoption of Recruitment
+and Admissions functionality.
+Other high priorities for the project include a unified Recruitment and Admissions solution that meets the needs of
+UDC’s business units including:
+• Community College
+• Undergraduate
+• Graduate
+• Law School
+• Workforce Development and Lifelong Learning (WDLL)
+• Land Grants
+Based on the recommendation from Salesforce, three potential vendors were invited to present their platforms, Coastal
+Cloud, Attain Partners, and Tondro. Only Attain Partners and Coastal Cloud responded to the inquiry. Both potential
+vendors received a redacted version of the Ferrili report which included a full review of the current UDC systems and
+process environment associated with current communications strategies to understand the current state. After receipt
+and review of their documentation, our research indicated that Coastal Cloud could be the preferred candidate to move
+forward with based on their alignment with the UDC Strategic Plan and overall cost. Additionally, Coastal Cloud offers a
+full lifecycle of services including strategy and design, solution development, user training, and continuous support.
+Other factors to consider include Coastal Cloud’s ability to align themselves with the UDC Strategic Plan, they were rated
+Rev 1.0
+Page 1
+
+CDW-G\Coastal Cloud Justification
+#1 in customer satisfaction by Salesforce for three (3) years in a row, they are a Salesforce Summit Partner (top 1% of all
+partners), a 2023 Market Leader in the ISG Provider Lens™, a G2 #1 Salesforce Consultant, and they have received a 5/5
+Customer Satisfaction Score.
+In contrast, Attain Partners provided a proposal that was misaligned with the UDC Strategic Plan and provided a proposal
+at a higher cost than Coastal Cloud.
+It is the consensus that OCP should consider Coastal Cloud as the Salesforce Implementation Contractor. Additionally, it
+is noteworthy that Coastal Cloud partners with CDW-G, which has a contract under the Educational and Institutional
+corporative Purchasing agreement (E&I - CNR01439).
+In conclusion, selecting Coastal Cloud not only aligns with UDC's strategic objectives but also ensures the delivery of a
+high-quality solution that meets the diverse needs of the university community.
+Rev 1.0
+Page 2
+
+Implementation Services Budget Summary
+Thefollowingchartprovidesadetailedbreakdownoftheimplementationservicesforthe
+UniversityoftheDistrictofColumbiaPhaseI:Recruitment&AdmissionsMVP+project.This
+projectwillbeperformedonaTimeandMaterials(T&M)basis.
+Foradditionaldetailsaboutthescopeoftheproject,pleaseseetheCDW-gSOW129296.
+SALESFORCEIMPLEMENTATIONPHASE: ESTIMATED ESTIMATED
+HOURS COST
+ProjectKickoff:
+● ProjectPlan
+40Hours $9,460.40
+● CoastalCloud/UDCProjectPlanningSession
+● KickoffCall
+TrueNorth-AnalyzeandDesign:
+● Discoverysessions(16)
+● Capabilitymap
+400Hours $94,604.00
+● Requirementsdocumentation
+● Salesforcesolutiondesign
+● Scopecheckpoint
+Build:SalesforceConfiguration:
+● StandardSalesforcefunctionality
+● SalesforceExperience
+● Workflow,AutomationandQuickActions 1,136Hours $268,732.16
+● Securityandprofileupdates
+● ReportsandDashboards
+● ConfigurationReviews-uptosix(6)
+UserAcceptanceTesting
+● UATAppsetup,testcases,andtrainingsession
+● UATOfficeHours 439Hours $103,849.84
+● UATissuefixes
+● TwoSprintUATs,oneEnd-to-EndUAT
+DataIntegration
+● Integrationmapping
+250Hours $59,140.00
+● E2ETesting
+● LiveintegrationsforGo-Live
+DataMigration
+● Migrationmapping
+250Hours $59,140.00
+● MockTesting
+● ProductionLoadforGo-Live
+Deployment
+● DeploymenttoProduction 120Hours $28,387.20
+● ProductionValidation
+
+Statement of Work
+● GoLive
+Training
+● TrainingDocumentation
+180Hours $42,580.80
+● EndUserTraining
+● SystemAdministratorTraining
+PostImplementationSupport
+● 100hoursofpostgolivesupport 100Hours $23,656.00
+● Upto4weeksofQ&ATrainingsessions
+ProjectManagement
+● Weeklystatusreports
+● WeeklyCoastalCloud/UDCPMmeetings 600Hours $141,936.00
+● Projectscope,timeline,budgetandrisk
+management/communication
+ImplementationContingency
+400Hours $94,624
+● Ifneeded
+Implementation,Support,ContingencyTOTAL 3,915Hours $926,132.40
+COASTALCLOUDCONFIDENTIALANDPROPRIETARY-20240119 2
+
+STATEMENT OF WORK
+DV – Salesforce Phase I: Recruitment & Admissions Seller Representative:
+Project Name:
+MVP+ Kimberly Brown
+Customer Name: University of the District of Columbia +1 (703) 262-8144
+kimbebr@cdw.com
+CDW Affiliate: CDW Government LLC
+Subcontractor: Coastal Cloud LLC Solution Architect:
+Angel Ford
+Date: May 02, 2024
+Drafted By Meagan Bostek
+This statement of work (“Statement of Work” or “SOW”) is made and entered into on the last date that this SOW is fully
+executed as set forth below (“SOW Effective Date”) by and between the undersigned, CDW Government LLC (“Provider,”
+and “Seller,”) and University of the District of Columbia (“Customer,” and “Client,”).
+This SOW shall be governed by that certain E&I Master Agreement Number CNR01439 between CDW Government LLC
+and E&I Cooperative Services dated the 1st of August, 2017 (the “Agreement”). If there is a conflict between this SOW and
+the Agreement, then the Agreement will control, except as expressly amended in this SOW by specific reference to the
+Agreement.
+PROJECT DESCRIPTION
+PROJECT SCOPE
+As Customer strives to fulfill its mission of serving the needs of the DC community by producing lifelong learners and
+transformational leaders, scalable and forward-looking technology is essential. To meet that goal, Customer has a strategic
+framework to implement Salesforce as Customer’s CRM platform. The first phase within the strategic framework is focused
+on Recruitment and Admissions.
+SOW outlines the implementation activities for the Phase 1: Recruitment and Admissions effort, beginning with True North
+(Discovery & Design) for strategic planning and analysis.
+The project’s primary objectives are to:
+• Develop a strategic roadmap for a multi-phased Salesforce implementation approach using True North
+• Center the solution design around a seamless student experience
+• Align university objectives and business processes to streamline operations and support students, staff, and faculty
+• Consolidate disparate tools and integration of key platforms to create a robust and unified tech stack
+• Leverage strong project methodology to ensure an efficient implementation and strong adoption of Recruitment and
+Admissions functionality
+Other high priorities for the project include a unified Recruitment and Admissions solution that meets the needs of
+Customer’s business units including:
+Proprietary and Confidential Page 1 SLED-9409 | CDW Government LLC
+SOW 129296
+
+• Community College
+• Undergraduate
+• Graduate
+• Law School
+• Workforce Development and Lifelong Learning (WDLL)
+• Land Grant
+• Marketing and Communications
+Seller proposes a Salesforce-based solution using Education Cloud, Experience Cloud, and Marketing Cloud.
+TASKS TO BE PERFORMED
+PROJECT KICKOFF
+Seller Project Manager will work with Customer Project Manager to complete up-front project planning and scheduling for
+the project. They will discuss the kickoff meeting, review the meeting content and determine the attendees and agenda. They
+will also discuss project roles and expectations.
+Seller Project Manager will conduct a kickoff meeting to introduce teams, review the overall methodology, and prepare a
+project plan to establish project timeline and confirm items provided. Additionally, Seller will request any additional standard
+operating procedures and sample reports that can be leveraged to accelerate our understanding of current business processes
+prior to conducting Discovery Sessions.
+KEY ITEMS PROVIDED:
+• Project Plan - reviewed and approved by Customer
+• Project Kickoff, including meetings scheduled
+TRUE NORTH: ANALYZE AND DESIGN
+Seller will conduct up to sixteen (16) discovery sessions, between 1 -2 hours in duration, with customer staff to understand
+high-level goals, current systems, and desired integrations. These sessions will also be used to review detailed information
+and requirements documents previously provided by Customer team related to existing processes, program structures, and
+reporting needs. The discovery will address both as-is processes and industry best practices as well as pain points and desired
+functionality.
+Seller will work with Customer Project Manager to identify the attendees, craft agendas, and schedule the discovery sessions,
+which will include the following topics:
+● As-is and to-be Salesforce systems architecture in light of client goals:
+o Customer Team business priorities
+o Current Salesforce instance
+● Business processes and functional requirements:
+o Admissions applications
+o Recruitment and admissions email alerts & notifications
+o Application review process & automation
+o Applicant portal
+o Request for information form/process
+o Knowledge article content for recruitment & admissions self-serve help
+o Event management
+o Recruitment and admissions documentation generation (letters, etc.)
+o Single Sign On (SSO), User Access, & Platform Security
+● Internal vetting process by legal, finance, and marketing/communications teams, including:
+o Financial, Legal, and Comms documentation
+o Distribution and/or approval process to each team
+Proprietary and Confidential Page 2 SLED-9409 | CDW Government LLC
+SOW 129296
+
+o Access or distribution of informational papers, decision papers, and read-ahead materials
+● Security and collaboration across the team (e.g., follow-up task assignment, chatter, etc.)
+● Data Migration planning, including identification of data sources, current state and end-point documentation, and
+sample data
+● Integration planning, including identification of integration sources, current state and end-point documentation, and
+sample data
+● Reporting needs:
+o Customer team real-time reports and dashboards
+o Metric and impact reporting
+Seller will document detailed business requirements for the implementation and high-level capabilities for the strategic
+roadmap. The business requirements and capability map will be reviewed and approved by Customer staff. Following the
+analysis process and requirements documentation, Seller will develop the solution architecture design for Phase 1:
+Recruitment and Admissions. During the solution design process, Seller will confirm the identified applications and
+approach, including the necessary Salesforce solutions and licensing type, and provide a solution design presentation. This
+design shows how the client implementation requirements will be translated into a Salesforce configuration that will meet the
+client team’s priorities.
+At the conclusion of the True North, a scope checkpoint will be held. The outcome of this meeting is to determine the final
+approximate timeline and budget for items determined to be prioritized for the implementation. Should changes to timeline
+and budget be needed, a change request will be mutually agreed upon before work on the Build Phase will commence.
+KEY ITEMS PROVIDED:
+• Up to sixteen (16) Discovery Sessions
+• Capability Map with Implementation Phasing - reviewed and approved by Customer
+• Detailed Business Requirements - reviewed and approved by Customer
+• Recommended Solution Design - reviewed and approved by Customer
+• Scope Checkpoint
+BUILD AND CONFIGURE
+Salesforce will be configured to meet the following requirements, based on final scope requirements, for an expanded
+minimum viable product (MVP+):
+• MVP+ Recruiter Tasks Templates and Automations (7 departments)
+• MVP+ Application Requirements & Requirement Automation
+• MVP+ Onboarding Requirements & Requirement Automation
+• MVP+ In-App Guidance
+• MVP+ Applications (up to 6)
+• RFI forms (up to 4)
+• MVP+ Configure Einstein Analytics
+• MVP+ Configure Salesforce Scheduler
+• MVP+ Immediate Email Alerts & Notifications (i.e., Comms from SF or Form Tool)
+• MVP+ Application Review Processes & Automation
+• MVP+ Configure 3rd Party Event Mgt Tool (ex: Blackthorn)
+• MVP+ Configure Doc Gen Tool, Templates, Reports/Queries
+• MVP+ Configure Account/Org Mgt Process
+• SSO
+• MVP+ Multi-lingual
+• Configure Sharing for External User
+• MVP+ Configure Portal Pages and OmniScripts
+Proprietary and Confidential Page 3 SLED-9409 | CDW Government LLC
+SOW 129296
+
+• MVP+ Configure Case Management for Portal (i.e., Case Teams, Predefined Case Teams, Automations, etc)
+• MVP+ Site Branding
+• MVP+ Configure Groups
+• Configure Knowledge
+• MVP+ Self-Service Processes
+• MVP+ Portal Page Variations
+• MVP+ Reports & Dashboards
+Seller will build and configure in up to eight (8) build sprints, configuring and unit testing the system. The project will
+leverage Seller’s instance of Taskray for project management. Sellers will conduct up to six (6) configuration reviews (also
+known as sprint demos) to demonstrate build progress and facilitate feedback to ensure alignment of the solution with
+Customer goals. Seller will conduct end-to-end testing prior to User Acceptance Testing.
+KEY ITEMS PROVIDED:
+• Sprint Items provided
+• Up to six (6) Configuration Reviews (Sprint Demos)
+• Unit and end-to-end testing
+DATA MIGRATION AND INTEGRATION
+Seller will develop system integrations between systems/platforms prioritized by Customer during the True North phase. This
+may include Customer student information system, CAS systems, and/or communication tools. The final scope for system
+integrations will be determined and approved by Customer during True North. The scope, timeline, and final plan will be
+determined with Customer and may require participation from one or more of Customer’s other partners or vendors. Seller
+will work collaboratively with Customer team to complete field-level source-to-target mapping for each integration included
+within the final scope of Phase I: Recruitment and Admissions. A mutually agreed upon middleware tool for integrations will
+be chosen, and licenses procured by Customer during True North. After Customer signs off on the source-to-target mapping,
+Seller will complete integration development during the build sprints. The integration development timeline will be executed
+in concert with participation from other vendors and partners, as needed. The integrations will be tested during End-to-End
+testing with Customer sign-off.
+Seller will migrate historical data from the legacy sources into Salesforce. Seller will provide a blank template spreadsheet
+for the historical data. Customer is responsible for preparing and cleansing the spreadsheet. Seller will map the data, conduct
+a mock migration in the test environment, and conduct a final production data migration during deployment. Seller will
+provide a final estimate for hours for the data migration and confirm the data migration scope during the True North phase.
+The scope, timeline, and final plan will be determined with Customer and may require participation from one or more of
+Customer’s other partners or vendors. Seller will work closely with Customer team during the build sprints to finalize data
+migration source-to-target mapping. The migration timeline will be executed in concert with participation from other vendors
+and partners, as needed. Seller team will write migration scripts. The migration will be tested via a Mock Migration into a
+Full Salesforce Sandbox. Customer will review the Mock migration, provide feedback, and sign off on the migration plan for
+Go-Live. Seller will complete the final data migration as a part of the go-live process.
+KEY ITEMS PROVIDED:
+• Integration source-to-target mapping
+• E2E Testing
+• Migration mapping documents and scripts
+• Mock data migration
+• Final data migration
+Proprietary and Confidential Page 4 SLED-9409 | CDW Government LLC
+SOW 129296
+
+USER ACCEPTANCE TESTING
+Seller will support Customer with User Acceptance Testing (UAT) during which Customer users and administrators will test
+the system based on requirements that have been defined and documented by Seller. Seller team will prepare the test
+environment, install Seller UAT app, and load test scripts. Seller will provide a training session and support testers by being
+available to answer questions and resolve issues found during user testing.
+Seller recommends three (3) testing periods: End-to-End Testing (E2E), Mock Data Migration Testing, and User Acceptance
+Testing (UAT). Seller will conduct final configuration updates and unit testing prior to Customer’s UAT.
+KEY ITEMS PROVIDED:
+• UAT Setup
+o The install of Seller’s UAT package and test cases into Customer’s sandbox for efficient UAT
+• Four (4) UAT Training session and two (2) training refresher sessions
+• Up to six (6) UAT Support Office Hours for UAT
+• Issue Fixes - up to 50 hours
+• Final Configuration Updates and End-to-End UAT Prep
+• Tested and accepted system - approved by Customer
+DEPLOYMENT
+Seller will deploy configuration to production and perform production validation. Seller will ensure that users are correctly
+set up and have the correct security profiles prior to go-live.
+KEY ITEMS PROVIDED:
+• Deployed solution
+• System go-live
+TRAINING
+Seller will develop and deliver tailored training on the new Salesforce configuration, including documentation and virtual
+training sessions. The goal of training is to ensure that users and administrators are comfortable with the new functionality,
+increase their efficiency, and facilitate strong user acceptance. We anticipate two types of training:
+• End User Training – Seller will deliver up to eight (8) end user training sessions for the client team to cover
+Salesforce configuration. This training will include a review of the internal Salesforce build.
+• Administrator Training - Seller will conduct four (4) training sessions for Customer’s system administrators focused
+on reviewing the specifics of the Salesforce configuration.
+KEY ITEMS PROVIDED:
+• Training documentation for end users and administrators
+• Ten (10) end-user training sessions
+• Six (6) system administrator training sessions
+POST-IMPLEMENTATION SUPPORT
+After deployment to production, Seller will continue to support the client team immediately after go-live. To build solid user
+adoption and system acceptance, your users must be appropriately supported in the period immediately following
+deployment. During this phase, Seller team will be available for eighty-eight (88) hours over the two to four weeks after Go-
+Live to hold “office hours,” answer end user and IT team questions, and conduct follow-up training as needed. Seller will
+also provide twice-weekly “Q&A Sessions” – Seller and Customer can coordinate on Q&A style: questions sent in advance,
+office hours format, or a hybrid of both approaches.
+After the Post-Implementation Support period concludes, Seller recommends beginning a separate engagement for ‘Waves’
+Managed Services support.
+Proprietary and Confidential Page 5 SLED-9409 | CDW Government LLC
+SOW 129296
+
+KEY ITEMS PROVIDED:
+• Eighty-eight (88) hours of post-go-live support for up to four (4) weeks
+• Twice-weekly Q&A Sessions for up to four (4) weeks
+PROJECT MANAGEMENT
+Seller will manage the scope, budget, and timeline throughout, including identification/communication of any risks and
+mitigation strategies. Regular communication between Seller and Customer team, both formal and informal, will be the basis
+for managing the project.
+KEY ITEMS PROVIDED:
+• Weekly status reports
+• Weekly Status meetings
+• Budget, scope, timeline and risk management and communication
+OUT OF SCOPE
+The following are considered out of scope for this project unless mutually agreed upon by the parties in writing:
+1. Any tasks or items provided not clearly stated in the In-Scope Services or Items and Services Provided sections
+2. Facilitation of any internal Customer meetings, unless specifically called out in the In-Scope Services or Items and
+Services Provided sections
+3. Evaluation of Customer’s current practices, policies, and procedures, except as directly necessary to achieve project
+goals (General performance improvements may be called out, but will not be actioned by Seller)
+4. Installation of software, servers, workstations, or any other hardware not specifically called out in the In-Scope
+Services or Items and Services Provided sections
+5. Global network design and/or routing
+6. Setting up network peering and/or interconnects between Public Cloud and Customer’s physical data center(s)
+7. Integrating new application data flows (i.e., applications not currently in production), unless expressly called out in
+the In-Scope Services or Items and Services Provided sections
+8. Migration of data and/or workloads to new software/application/environment, unless expressly called out in the In-
+Scope Services or Items and Services Provided sections
+9. Export of Customer data to other systems or third parties other than those expressly called out in the In-Scope
+Services or Items and Services Provided sections
+10. Any third party/external integrations, unless expressly called out in the In-Scope Services and Items and Services
+Provided sections
+11. Go-live dates, unless expressly called out in the In-Scope Services or Items and Services Provided sections
+12. After hours support, unless expressly called out in the In-Scope Services or Items and Services Provided sections
+13. Ongoing support and maintenance of developed solution (beyond 4 weeks) (Customer may purchase additional
+support contracts and/or SOW resources to facilitate support.)
+14. Formal user training not specifically stated in the SOW
+15. Extensive documentation such as Run Book, Step-by-Step Instruction Guide, Admin/User Manual, or anything not
+specified in the In-Scope or Items and Services Provided sections
+ROLES AND RESPONSIBILITIES
+PERSONNEL
+The following are key roles for this engagement and their high-level responsibilities:
+1. Salesforce Consultant
+Proprietary and Confidential Page 6 SLED-9409 | CDW Government LLC
+SOW 129296
+
+SELLER RESPONSIBILITIES
+1. Seller team will leverage standard tooling for project management and delivery.
+2. Seller will use commercially reasonable efforts to perform and deliver the items provided in a timely manner in
+accordance with (a) the specifications set forth in the SOW, and (b) industry standards where the SOW does not
+prescribe or regulate Seller’s performance and delivery of the items provided.
+CUSTOMER RESPONSIBILITIES
+1. In the event Customer-issued laptops are required, Customer will provide a modern hardware platform with
+appropriate permissions to allow Seller resources to complete their work effectively.
+2. Customer will provide all physical and remote access, as required to complete this project.
+3. Customer is responsible for all hardware/software/licensing required to accomplish this project.
+4. Customer will provide a single point of contact (SPOC) who will be authorized to make all decisions and approvals
+regarding this agreement. This SPOC will also be responsible for timely responses to all requests for information,
+access, etc.
+5. Customer will coordinate schedules and ensure the correct staff members (with required level of technical and/or
+procedural knowledge and/or approval authority) are invited to attend project related meetings, working sessions,
+and/or workshops/trainings.
+6. Customer will ensure timely distribution of documentation and information to Seller, and that documentation will be
+accurate, complete, and up-to-date.
+PROJECT ASSUMPTIONS
+The following project assumptions are made:
+1. Project scheduling and kickoff are subject to contract signature plus six (6) weeks lead time for resource allocation.
+2. All project tasks are subject to scheduling and may occur in a non-consecutive timeframe.
+3. This project will be delivered remotely.
+4. Unless previously agreed upon, all activities will be performed during normal business hours: Monday through
+Friday, 8:00 AM to 5:00 PM Eastern Time.
+5. Seller reserves the right to correct any error or omission in the SOW and will do so by utilizing a Change Order
+process. The initial project kick-off meeting and design workshop(s) might uncover unforeseen items that impact the
+SOW and will be addressed (if necessary) by the Change Order process.
+6. There may be external projects/dependencies that have a significant impact on timeline, schedule, and/or items
+provided. It is Seller’s assumption that every reasonable attempt will be made by both Customer and Seller teams to
+mitigate such situations.
+7. Seller will retain all intellectual property rights to training content developed and/or delivered.
+8. Customer agrees to be referenced for services delivered in publicly available Seller assets such as case studies,
+website, blog, white papers, and/or other forms of marketing materials.
+9. Customer will make available an existing full sandbox for the duration of this project.
+10. Customer is responsible for procuring all necessary Salesforce products prior to project kickoff (this includes
+Customer Community Plus licenses), as well as Education Cloud licensing and any additional licenses as applicable.
+11. Customer is responsible for providing access to clean, deduplicated source data to support data migration.
+a. Customer is responsible for providing a SQL database to support data migration. Alternatively, Seller can host
+the SQL instance at an additional cost to the client.
+b. Customer is responsible for confirming an ETL tool to support data migration and data integration.
+12. Customer will assign a project manager to work with Seller throughout the duration of the engagement to coordinate
+Customer resources and schedule meetings.
+13. Customer will provide adequate access to all required systems for analysis.
+14. Customer will provide reasonable access to key personnel in a timely fashion. This includes participation in key
+activities including discovery, sprint demos, migration and integration planning, testing, and training sessions.
+Proprietary and Confidential Page 7 SLED-9409 | CDW Government LLC
+SOW 129296
+
+15. Seller expects and plans to perform all services in a continuous manner. Delays mandated by Customer may have
+cost and schedule implications. Seller will detail any changes to cost and schedule resulting from such slippage in an
+executed Change Request.
+16. Customer will have five (5) contiguous business days to review provided items provided and notify Seller of
+acceptance or required changes. If Customer does not notify Seller within five (5) contiguous business days,
+Customer will be deemed to have accepted the deliverable.
+17. Any issues, blockers, delays, changes, or slippage due to Customer team or Customer’s other
+vendors/consultants/partners will be communicated promptly to Seller to evaluate project and timeline risks(s) and
+may require a Change Order.
+18. Seller resources will be given access to communication, project management, artifact repositories, and any platform
+the builders are using.
+19. This approach is highly agile and will require iteration in order to fully incorporate recommendations and best
+practices. Seller expects to participate in regular agile and project management ceremonies of Customer with
+respect to the project in order to provide architectural recommendations, manage the risks, and iterate through
+solutions as new requirements are captured.
+20. Customer will provide the necessary resources to work with Seller team in the performance of this engagement and
+will be responsible for the performance and participation of the team member(s). This includes arranging for
+connection and coordination between any additional vendors, consultants, and partners, as needed.
+21. Customer is responsible for all software licensing related to Salesforce and other application environments.
+GENERAL RESPONSIBILITIES AND ASSUMPTIONS
+• Customer is responsible for providing all access that is reasonably necessary to assist and accommodate Seller’s
+performance of the Services.
+• Customer will provide in advance and in writing, and Seller will follow, all applicable Customer’s facility’s safety
+and security rules and procedures.
+• Customer is responsible for security at all Customer-Designated Locations; Seller is not responsible for lost or stolen
+equipment, other than solely as a result of Seller’s gross negligence and willful misconduct.
+• This SOW can be terminated by either party without cause upon at least fourteen (14) days’ advance written notice.
+CONTACT PERSONS
+Each Party will appoint a person to act as that Party’s point of contact (“Contact Person”) as the time for performance nears
+and will communicate that person’s name and information to the other Party’s Contact Person.
+Customer Contact Person is authorized to approve materials and Services provided by Seller, and Seller may rely on the
+decisions and approvals made by the Customer Contact Person (except that Seller understands that Customer may require a
+different person to sign any Change Orders amending this SOW). The Customer Contact Person will manage all
+communications with Seller, and when Services are performed at a Customer-Designated Location, the Customer Contact
+Person will be present or available. The Parties’ Contact Persons shall be authorized to approve changes in personnel and
+associated rates for Services under this SOW.
+CHANGE MANAGEMENT
+This SOW may be modified or amended only in a writing signed by both Customer and Seller, generally in the form provided
+by Seller (“Change Order”). Services not specified in this SOW are considered out of scope and will be addressed with a
+separate SOW or Change Order.
+Proprietary and Confidential Page 8 SLED-9409 | CDW Government LLC
+SOW 129296
+
+In the event of a conflict between the terms and conditions set forth in a fully executed Change Order and those set forth in
+this SOW or a prior fully executed Change Order, the terms and conditions of the most recent fully executed Change Order
+shall prevail.
+PROJECT SCHEDULING
+Customer and Seller, who will jointly manage this project, will together develop timelines for an anticipated schedule
+(“Anticipated Schedule”) based on Seller’s project management methodology. Any dates, deadlines, timelines or schedules
+contained in the Anticipated Schedule, in this SOW or otherwise, are estimates only, and the Parties will not rely on them for
+purposes other than initial planning.
+The following scheduling scenarios that trigger delays and durations to extend beyond what's been planned may require a
+Change Order:
+• Site preparation, such as power, cabling, physical access, system access, hardware/software issues, etc. must be
+completed in a timely manner.
+• Project tasks delegated to Customer PMs/Engineers/Techs/Management/Resources must be completed in a timely
+manner. For example, in the event a project 's prioritization is demoted, and Customer resources are reallocated
+causing the project's schedule to extend on account of experiencing interruptions to its momentum
+requiring complete stop(s) and start(s).
+• External projects/dependencies that may have significant impact on the timeline, schedule and deliverables. It is
+Seller's assumption that every reasonable attempt will be made to mitigate such situations.
+TOTAL FEES
+The total fees due and payable under this SOW (“Total Fees”) include both fees for Seller’s performance of work (“Services
+Fees”) and any other related costs and fees specified in the Expenses section (“Expenses”).
+Seller will invoice for Total Fees. Customer will pay invoices containing amounts authorized by this SOW in accordance
+with the terms of the Agreement. Unless otherwise specified, taxes will be invoiced but are not included in any numbers or
+calculations provided herein. The pricing included in this SOW expires and will be of no force or effect unless it is signed by
+Customer and Seller within thirty (30) days from the Date listed on the SOW, except as otherwise agreed by Seller. Any
+objections to an invoice must be communicated to the Seller Contact Person within fifteen (15) days after receipt of the
+invoice.
+This SOW may include multiple types of Services Fees; please reference below Services Fees section(s) for further details.
+SERVICES FEES
+Services Fees will be calculated on a TIME AND MATERIALS basis.
+The invoiced amount of Services Fees will equal the rate applicable for a unit of a service or resource (“Unit Rate”)
+multiplied by the number of units being provided (“Billable Units”) for each unit type provided by Seller (see Table below).
+Services Fees of $926,132.40 is merely an estimate and does not represent a fixed fee. Neither the Billable Units of 3,915 nor
+the Services Fees are intended to limit the bounds of what may be requested or required for performance of the Services.
+Proprietary and Confidential Page 9 SLED-9409 | CDW Government LLC
+SOW 129296
+
+The rates presented in the table below apply to scheduled Services that are performed during Standard Business Hours
+(meaning 8:00 a.m. to 5:00 p.m. local time, Monday through Friday, excluding holidays).
+Upon notice, Seller may adjust the rates below, provided that the rates will remain fixed for at least six (6) months after the
+SOW Effective Date and then again for at least six (6) months after any subsequent adjustment. Hourly rates are subject to
+change for highly specialized resources.
+The rates below only apply to Services specified in this SOW as it may be amended by one or more Change Order(s).
+Unit Type Unit Rate Billable Units Subtotal
+Engineer – Per Hour $236.56 3,915 $926,132.40
+Estimated Totals 3,915 $926,132.40
+EXPENSES
+Neither travel time nor direct expenses will be billed for this project.
+TRAVEL NOTICE
+Two (2) weeks’ advance notice from Customer is required for any necessary travel by Seller personnel.
+CUSTOMER-DESIGNATED LOCATIONS
+Seller will provide Services benefiting the following locations (“Customer-Designated Locations”)
+Location Address
+Site 1 4200 CONNECTICUT AVE NW, Washington, DC 20008
+Proprietary and Confidential Page 10 SLED-9409 | CDW Government LLC
+SOW 129296
+
+SIGNATURES
+In acknowledgement that the parties below have read and understood this Statement of Work and agree to be bound by it,
+each party has caused this Statement of Work to be signed and transferred by its respective authorized representative.
+This SOW and any Change Order may be signed in separate counterparts, each of which shall be deemed an original and all
+of which together will be deemed to be one original. Electronic signatures on this SOW or on any Change Order (or copies of
+signatures sent via electronic means) are the equivalent of handwritten signatures.
+CDW Government LLC University of the District of Columbia
+By: {{Sig_es_:signer3:signature}} By: {{Sig_es_:signer1:signature}}
+Dario Bertocchi
+Name: Shawn Luedde Name: {M{Sairgy_ Aesn_n:s iHgnaerrr1is:full_name}}
+VP Contracting Operations
+Title: Sr Mgr Services Contracts Title: {D{iTrtel1ct_oers _O:sCigPn/CerC1O:title}}
+6/13/2024
+Date: 6/13/2024{{Dte_es_:signer3:date}} Date: {J{uDnt e1_1e, s2_0:s2i4gner1:date}}
+Mailing Address: Mailing Address:
+200 N. Milwaukee Ave. 4200 CONNECTICUT AVE NW, BUILDING 39 2ND
+FLOOR #200-B, ACCTS PAYABLE
+Vernon Hills, IL 60061
+WASHINGTON, DC 20008-1122
+Proprietary and Confidential Page 11 SLED-9409 | CDW Government LLC
+SOW 129296
+
+Master Agreement CNR01439
+CDW Government LLC
+Attachment A
+Updated October 14, 2020
+Attachment A-1 – Catalog Pricing
+Supplier will provide Members with prices at a discount off Supplier’s Nationally Advertised Price (“NAP”) or Manufacturer's
+Suggested Retail Price (“MSRP”) as indicated for the categories and manufacturers listed below. NAP is available on Supplier’s
+website at www.cdwg.com. MSRP can be found on manufacturers’ websites. Supplier is not responsible for the accuracy of the
+MSRP and will to the best of its ability, obtain from the manufacturer, a new MSRP list between the first (1st) and fifth (5th) business
+day of each month and if Supplier is successful, will recalculate pricing based on such MSRP list within five (5) business days of
+receipt. Pricing will remain static until the next monthly update. Supplier reserves the right to change or remove products and/or
+change prices consistent with manufacturer programmatic updates. Supplier will strive for thirty (30) days’ notice, but may make
+adjustments with at least five (5) days’ written notice to E&I.
+Supplier
+Category Category Price List Discount
+Code
+Accessories - Lot 1 A NAP 9.00%
+Notebook/Mobile Devices (exclude Notebooks, includes Notebook Accessories) -
+A\LA* NAP 4.50%
+Lot 1
+Power, Cooling, & Rack - Lot 1 B NAP 7.00%
+UPS/Battery Backup - Lot 1 B\BA NAP 10.00%
+Desktop Computers - Lot 1 C NAP 3.00%
+Computer Cases - Lot 1 C\CE NAP 9.00%
+Desktop Memory Upgrades - Lot 1 C\PC NAP 9.00%
+PC Compatible Workstations - Lot 1 C\WO NAP 5.00%
+Data Storage/Drives - Lot 1 D NAP 7.50%
+Flash Memory - Lot 1 D\FL NAP 9.00%
+Consumer SSD - Lot 1 D\TN NAP 9.00%
+Enterprise Storage - Lot 4 E NAP 7.50%
+Drive Arrays/Cache Memory - Lot 1 E\DY\CME NAP 9.00%
+Enterprise SSD E\ES NAP 9.00%
+Point of Sale/Data Capture - Lot 1 F NAP 5.50%
+Servers & Server Management - Lot 4 H NAP 5.00%
+Server Accessories/Motherboards - Lot 1 H\EC\MOB NAP 9.00%
+Server Accessories/CPUs/Fans - Lot 1 H\MC NAP 9.00%
+Server Memory Upgrades - Lot 1 H\SQ NAP 9.00%
+Services (CDW Delivered) - Lot 5 J NAP 1.00%
+PowerBook Memory Modules - Lot 1 L\LM NAP 9.00%
+Notebook Computers - Lot 1 L\NB NAP 2.00%
+Tablets (Convertible PCs/Slate PCs) - Lot 1 L\RD NAP 3.50%
+NetComm Products - Lot 4 N NAP 9.00%
+Network Device Memory - Lot 1 N\NT NAP 9.00%
+Carts and Furniture - Lot 1 O NAP 9.00%
+Printing & Document Scanning - Lot 2 P NAP 3.50%
+Laser Printers (Single Function Printers) - Lot 2 P\LP NAP 5.00%
+Single Function Printers - Lot 2 P\LP NAP 5.00%
+Printer Memory Upgrades - Lot 1 P\PM NAP 9.00%
+Printer Accessories - Lot 2 P\PA NAP 10.00%
+Toner (Printer Supplies) - Lot 2 P\PU NAP 8.00%
+Page 1 of 6
+
+Master Agreement CNR01439
+CDW Government LLC
+Attachment A
+Updated October 14, 2020
+Supplier
+Category Category Price List Discount
+Code
+Printer Supplies (excluding toner) P\PU NAP 8.00%
+Services (Partner Delivered) - Lot 5 Q NAP 3.00%
+Software - Lot 3 S NAP 3.00%
+Collaboration Hardware - Lot 1 T NAP 9.00%
+Memory/System Components - Lot 1 U NAP 9.00%
+Video-Projection-Pro Audio - Lot 1 V NAP 6.50%
+Digital Signage Displays - Lot 1 V\PZ NAP 8.50%
+LCD panels or monitors (Computer Displays) - Lot 1 V\VL NAP 1.50%
+Cables - Lot 1 W NAP 15.00%
+APC (Power, Cooling, & Racks) - Lot 1 B NAP 9.00%
+APC (UPS/Battery Backup) - Lot 1 B\BA NAP 12.00%
+Refer to
+Apple Products Attachment
+A-2
+HP Enterprise (Enterprise Storage) - Lot 4 E NAP 9.50%
+HP Enterprise (Servers & Server Management) - Lot 4 H NAP 7.00%
+HP Enterprise (Netcomm Products) - Lot 4 N NAP 11.00%
+HP Enterprise (Services [Partner Delivered]) - Lot 5 Q NAP 7.00%
+HP Enterprise (Data Center Application Services) MSRP 30.00%
+HP Enterprise (Networking Software) MSRP 30.00%
+HP Enterprise (Networking Optimization & Acceleration) MSRP 34.00%
+HP Enterprise (Optical Networking) MSRP 34.00%
+HP Enterprise (Routers) MSRP 34.00%
+HP Enterprise (Security) MSRP 34.00%
+HP Enterprise (Storage Networking) MSRP 20.00%
+HP Enterprise (Switches) MSRP 34.00%
+HP Enterprise (Wireless) MSRP 34.00%
+HP Enterprise (Unified Communications) MSRP 34.00%
+HP Inc (PC Compatible Workstations) - Lot 1 C\WO*** NAP 7.00%
+HP Inc (Notebook Computers) - Lot 1 L\NB NAP 4.00%
+HP Inc (Convertible PCs/Slate PCs) - Lot 1 L\RD NAP 5.50%
+HP Inc (Single Function Printers) - Lot 2 P\LP NAP 7.00%
+HP Inc (Printer Supplies) - Lot 2 P\PU NAP 10.00%
+HP Inc (Services [Partner Delivered]) - Lot 5 Q NAP 5.00%
+HP Inc (Computer Displays) - Lot 1 V\VL NAP 3.50%
+Lenovo (PC Compatible Workstations - Mfg Code LVP**) - Lot 1 C\WO*** NAP 9.00%
+Lenovo (Notebook Computers - Mfg Code LVO**) - Lot 1 L NAP 6.00%
+Lenovo (Convertible PCs/Slate PCs - Mfg Code LVO**) - Lot 1 L\RD NAP 7.50%
+Lenovo (Services [Partner Delivered] - Mfg Code LVO**) - Lot 5 Q NAP 7.00%
+Microsoft Surface (Convertible PCs/Slates) - Lot 1 L\RD NAP 5.50%
+Palo Alto Networks (Hardware) MSRP 16.00%
+Page 2 of 6
+
+Master Agreement CNR01439
+CDW Government LLC
+Attachment A
+Updated October 14, 2020
+Supplier
+Category Category Price List Discount
+Code
+Palo Alto Networks (Miscellaneous) MSRP 16.00%
+Palo Alto Networks (Education) MSRP 11.00%
+Palo Alto Networks (Subscription) MSRP 11.00%
+Palo Alto Networks (Support) MSRP 11.00%
+Tripp-Lite (Power, Cooling, & Racks) - Lot 1 B NAP 9.00%
+Tripp-Lite (UPS/Battery Backup) - Lot 1 B\BA NAP 12.00%
+VMware (Software – Mfr. Code VMM) - Lot 3 S NAP 5.00%
+***Supplier category code changed from C\DT to C\WO
+**Mfg Code LVP corrected to LVO
+**Mfg Brocade offer removed; Brocade bought by Broadcom Ltd.
+*Supplier category code L\LA moved to A\LA
+GENERAL NOTES:
+Supplier category code Client Configure-to-Order moved from C\DT\BTO to new
+Supplier category code R\BO\BTO
+All rows in BLUE above are new introductions of more granular Supplier category
+codes with discounts at or more aggressive than parent Supplier category code
+Relevant Terms
+Refer to Attachment B, Section I for relevant Terms
+Page 3 of 6
+
+Master Agreement CNR01439
+CDW Government LLC
+Attachment A
+Updated October 14, 2020
+Attachment A-2 - Apple Products and Services (for Higher Education members only)
+Supplier will provide Members with prices at a discount of 0.5% off Supplier’s Nationally Advertised Price (“NAP”) or Education List
+Price (“ELP”), where available. NAP is available on Supplier’s website at www.cdwg.com. ELP can be found at www.apple.com.
+Supplier is not responsible for the accuracy of the ELP. Supplier will exercise all commercially reasonable efforts to access the
+manufacturer website on Supplier working Monday of each calendar week to obtain the most current ELP. If successful, Supplier will
+recalculate, and update pricing based on such ELP list within five (5) business days of receipt. Pricing will remain static until the next
+update. Supplier reserves the right to change or remove products and/or change prices consistent with manufacturer programmatic
+updates.
+Page 4 of 6
+
+Master Agreement CNR01439
+CDW Government LLC
+Attachment A
+Updated October 14, 2020
+Attachment A-3 – Configuration Services
+[INTENTIONALLY LEFT BLANK]
+Page 5 of 6
+
+Master Agreement CNR01439
+CDW Government LLC
+Attachment A
+Updated October 14, 2020
+Attachment A-4 – Professional Services
+CDWG Professional Services means Professional, field or consulting services, as more fully described in a mutually executed SOW
+(Attachment C), performed directly by CDWG and/or subcontractors. Hourly or fixed rates will be negotiated based on the Member,
+role, geography, and scope (solution domain, discipline, and competencies) of the services engagement to perform the service. CDWG
+will create a SOW detailing the exact scoping and pricing of the Professional Services to be provided, which will be executed by CDWG
+and the Member prior to the start of engagement. Expenses (T&E) may be an additional consideration depending on project specifics.
+Page 6 of 6
+
+DocuSign Envelope ID: 643C736F-BBAB-46E8-9DA0-535FF0A08977
+
+DocuSEign Envell, ope ID: 643C736F-BBAB-46E8-9DA0-535FF0A08977
+o
+Coo�erative
+AMENDMENTNUMBER4
+� Services
+TO MASTER AGREEMENT CNR01439
+Sourcing. Strategy. Savings. BETWEEN
+EDUCATIONAL & INSTITUTIONAL COOPERATIVE SERVICES, INC.
+AND
+CDW GOVERNMENT LLC
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of May31, 2019.
+CDWGOV E&I COOPERATIVE SERVICES, INC.
+�
+By(f? By: ________________
+P>tJ--
+J?oseJ.ct- � . K
+Name: \,fl Name: Gary D. Link, C.P.M.
+Title: f) R.,(9...S t \) £.,...J \, U W-4 'TJ 1-£.rz.J\J tft. IU-1\ Title: Chief Business Development Officer
+/
+'7/1>'
+'LO l j 7/11/2019 | 6:44 PM EDT
+Date Date:----------�-------
+Address (for Notices): Address (for Notices):
+CDW Government LLC Educational & Institutional Cooperative Services, Inc.
+230 N. Milwaukee Avenue 2 Jericho Plaza, Suite 309
+Vernon Hills, IL 60061 Jericho, NY 11753-1671
+Federal Tax ID: 36-4230110 Federal Tax ID: 11-169459
+7/11/2019 | 3:39 PM EDT
+I I I
+E&I Cooperative Services 2 Jericho Plaza -Suite 309, Jericho, NY 11753 800.283.2634 www.eandi.org Vo3/19
+Page 2 of 2
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: April 23, 2024 Notice Number: L0011786398
+CDW GOVERNMENT LLC. FEIN: **-***0110
+230 N MILWAUKEE AVE Case ID: 4231301
+VCERNON HILLS IL 60061-4304
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+7007070007077777770113775202527277700574724157144677023147603755226370013612217114627702552300551304237023101423113426370013036617550443700235272775200447067774236666170670333555606163677700070707077777777
+:
+reifitnedI
+redloH
+754780201075
+: oN
+etacifitreC
+6006060006066666660444660422606466602422660024400006024026622044022060020062262422000600200422624000206000204226062002260020040260600022602000422404200226020226204040220260026444026646062600060606066666666
+DATE(MM/DD/YYYY)
+CERTIFICATE OF LIABILITY INSURANCE
+10/04/2023
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE CERTIFICATE HOLDER. THIS
+CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR ALTER THE COVERAGE AFFORDED BY THE POLICIES
+BELOW. THIS CERTIFICATE OF INSURANCE DOES NOT CONSTITUTE A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED
+REPRESENTATIVE OR PRODUCER, AND THE CERTIFICATE HOLDER.
+IMPORTANT: If the certificate holder is an ADDITIONAL INSURED, the policy(ies) must have ADDITIONAL INSURED provisions or be endorsed. If
+SUBROGATION IS WAIVED, subject to the terms and conditions of the policy, certain policies may require an endorsement. A statement on this
+certificate does not confer rights to the certificate holder in lieu of such endorsement(s).
+PRODUCER CONTACT
+Aon Risk Services Central, Inc. NAME:
+PHONE (866) 283-7122 FAX (800) 363-0105
+Chicago IL Office (A/C. No. Ext): (A/C. No.):
+200 East Randolph E-MAIL
+Chicago IL 60601 USA ADDRESS:
+INSURER(S) AFFORDING COVERAGE NAIC #
+INSURED INSURER A: Lloyd's Syndicate No. 2623 AA1128623
+CDW Corporation INSURER B: The Phoenix Insurance Company 25623
+200 North Milwaukee Avenue
+Vernon Hills IL 60061 USA INSURER C: The Charter Oak Fire Insurance Company 25615
+INSURER D: Travelers Property Cas Co of America 25674
+INSURER E: The Travelers Indemnity Co of CT 25682
+INSURER F:
+COVERAGES CERTIFICATE NUMBER: 570102087457 REVISION NUMBER:
+THIS IS TO CERTIFY THAT THE POLICIES OF INSURANCE LISTED BELOW HAVE BEEN ISSUED TO THE INSURED NAMED ABOVE FOR THE POLICY PERIOD
+INDICATED. NOTWITHSTANDING ANY REQUIREMENT, TERM OR CONDITION OF ANY CONTRACT OR OTHER DOCUMENT WITH RESPECT TO WHICH THIS
+CERTIFICATE MAY BE ISSUED OR MAY PERTAIN, THE INSURANCE AFFORDED BY THE POLICIES DESCRIBED HEREIN IS SUBJECT TO ALL THE TERMS,
+EXCLUSIONS AND CONDITIONS OF SUCH POLICIES. LIMITS SHOWN MAY HAVE BEEN REDUCED BY PAID CLAIMS. Limits shown are as requested
+INSR ADDL SUBR POLICY EFF POLICY EXP
+LTR TYPE OF INSURANCE INSD WVD POLICY NUMBER (MM/DD/YYYY) (MM/DD/YYYY) LIMITS
+B X COMMERCIAL GENERAL LIABILITY 6605D53096A 10/01/2023 10/01/2024 EACH OCCURRENCE $1,000,000
+CLAIMS-MADE X OCCUR see addendum D PR AM EM AG IS E E S T O (E R a E o N cc T u E r D re nce) $1,000,000
+MED EXP (Any one person) $10,000
+PERSONAL & ADV INJURY $1,000,000
+GEN'L AGGREGATE LIMIT APPLIES PER: GENERAL AGGREGATE $2,000,000
+POLICY X P JE R C O T - LOC PRODUCTS - COMP/OP AGG $2,000,000
+OTHER:
+C AUTOMOBILE LIABILITY BA-6N190234-23-I3-G 10/01/2023 10/01/2024 COMBINED SINGLE LIMIT $1,000,000
+(Ea accident)
+X ANY AUTO BODILY INJURY ( Per person)
+OWNED SCHEDULED BODILY INJURY (Per accident) H O A I N U R L T E Y O D S A U O T N O L S Y N A A U O U T T N O O -O S S W O N N E L D Y P (P R e O r P ac E c R id T e Y n t D ) AMAGE
+D X UMBRELLA LIAB X OCCUR CUP6J53867923I3 10/01/2023 10/01/2024 EACH OCCURRENCE $5,000,000
+SIR applies per policy terms & conditions
+EXCESS LIAB CLAIMS-MADE AGGREGATE $5,000,000
+DED X RETENTION Retained Limit $10,000
+E WORKERS COMPENSATION AND UB8P79604A2351K 10/01/2023 10/01/2024 X PER STATUTE OTH-
+EMPLOYERS' LIABILITY Y / N AOS ER
+D A O N F Y FI C PR ER O / P M R E IE M T B O E R R / E P X A C R L T U N D E E R D / ? EXECUTIVE N N / A UB8P8306872351R 10/01/2023 10/01/2024 E.L. EACH ACCIDENT $1,000,000
+(Mandatory in NH) AZ, MA, WI E.L. DISEASE-EA EMPLOYEE $1,000,000
+I D f E ye S s C , R d I e P s T c I r O ib N e u O n F d e O r P ERATIONS below E.L. DISEASE-POLICY LIMIT $1,000,000
+A E&O - Miscellaneous W19A8C230901 10/01/2023 10/01/2024 Each Claim $5,000,000
+Professional-Primary Claims Made-cyber/network Aggregate $5,000,000
+SIR applies per policy terms & conditions
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES (ACORD 101, Additional Remarks Schedule, may be attached if more space is required)
+Evidence of Coverage
+Named Insured includes: CDW Government LLC, CDW LLC, CDW Direct LLC, CDW Logistics LLC, CDW Technologies LLC and CDW Finance
+Corporation, Sirius Computer Solutions LLC, Amplified IT, LLC, Infogroup Northwest, LLC, Focal Point Data Risk, LLC, Locus
+Recruiting, LLC, and Enquizit LLC.
+CERTIFICATE HOLDER CANCELLATION
+SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE THE
+EXPIRATION DATE THEREOF, NOTICE WILL BE DELIVERED IN ACCORDANCE WITH THE
+POLICY PROVISIONS.
+CDW Corporation AUTHORIZED REPRESENTATIVE
+200 North Milwaukee Avenue
+Vernon Hills IL 60061 USA
+©1988-2015 ACORD CORPORATION. All rights reserved.
+ACORD 25 (2016/03) The ACORD name and logo are registered marks of ACORD
+
+AGENCY CUSTOMER ID: 10227766
+LOC #:
+ADDITIONAL REMARKS SCHEDULE
+Page _ of _
+AGENCY NAMED INSURED
+Aon Risk Services Central, Inc. CDW Corporation
+POLICY NUMBER
+See Certificate Number: 570102087457
+CARRIER NAIC CODE
+See Certificate Number: 570102087457 EFFECTIVE DATE:
+ADDITIONAL REMARKS
+THIS ADDITIONAL REMARKS FORM IS A SCHEDULE TO ACORD FORM,
+FORM NUMBER: ACORD 25 FORM TITLE: Certificate of Liability Insurance
+Commercial General Liability
+Commercial General Liability
+Policy# 6605D53096A
+State and Insurer(s) Affording Coverage
+California Travelers Property Casualty Company of America NAIC# 25674
+All Other The Phoenix Insurance Company NAIC# 25623
+ACORD 101 (2008/01) © 2008 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+
+Documentation for Phase II following:
+
+CDW-G ROM
+Salesforce Education Cloud Phase II: Waves Seller Representative:
+Project Name:
+Program Ebony Thomas
++1 (203) 851-7188
+Customer Name: University of the District of Columbia
+ebontho@cdwg.com
+CDW Affiliate: CDW Government LLC
+Solution Architect:
+Drafted By: Coastal Cloud LLC
+Amy Sanchez
+Date: October 31, 2024
+Project Number:
+This ROM shall be governed by that certain E&I Master Agreement Number CNR01439 between CDW Government LLC
+and E&I Cooperative Services dated the 1st of August 2017 (the “Agreement”) by and between the University of the District
+of Columbia (“Client”) and CDW-G (aka "Service Provider"), and its Affiliates (individually and collectively, hereinafter
+“Service Provider”).
+This Quote will expire ninety (90) days from the issue date, November 1, 2024.
+PROJECT OVERVIEW
+Client desires a Technology Services Partner with the capability to initiate the design, development, and deployment of
+various Salesforce and related applications to create a robust, cohesive, and forward-looking solution for Enrollment and
+Student Success functionality on the Salesforce Education Cloud platform. In addition, the Client seeks a partner who can
+bring thought leadership, planning, and documentation around business analysis. This Phase II project, facilitated via the
+Waves Program, will enable the client to achieve a Salesforce solution that incorporates industry best practices, careful data
+security, strong end-user experience, and a 360 view of the student experience. This agreement is for a twelve (12) month
+period.
+PRELIMINARY SCOPE OF WORK
+The team (Client team members and Service Provider team members) will work in an agile fashion against priorities defined
+by the roadmap set by Executive Stakeholders.
+During the effort, the Client Executive Sponsor may re-prioritize or add requirements to future sprints & releases. Release
+scope changes will be based upon mutual agreement of the Executive Stakeholders to align effort and team capacity. Should
+requirements be removed or deprioritized from the roadmap, the associated level of effort and budget will be adjusted
+accordingly, and cost savings, if applicable, will be outlined.
+Waves: Managed Services & Innovations focused on Performance Objectives
+Service Providers’ primary purpose is to provide a far more significant benefit to the Client than simply supporting the day-
+
+to-day administration and incremental improvements. While our expertise is needed in these areas, a far greater impact can be
+derived from innovative projects that enable the achievement of performance metrics at the highest level of the organization.
+Our goal is to provide a greater return on investment than our services and the license cost of the platforms you have invested
+in.
+Client has outlined the following objectives as potential candidates for the Phase II Waves program:
+1. System Integrations, levering MuleSoft, including:
+a. Client’s new financial ERP system
+b. Financial Aid system
+c. Parchment system
+d. Payment gateway system
+2. Event Functionality, including:
+a. Processing for event fees and costs for events
+b. Introduction of paid registration option for events
+3. Admissions and Enrollment Services, including:
+a. Undergraduate Admissions
+b. New/additional admissions forms
+c. Course management
+d. Program management
+e. Degree plan paths
+f. Financial aid information
+g. Reports and dashboards for enrollment, matriculation, etc.
+4. Advising Services and Student Success Services, including:
+a. Steps to graduation and graduation requirements
+b. Career Services
+c. Special Programs
+d. Counseling & Wellness
+e. Judicial Affairs
+f. Health Services
+g. International Services
+h. Residence Life
+i. Student Center
+j. Student Life
+k. Student Advocacy
+l. Accessibility Services
+m. Center for Diversity, Inclusion, & Multicultural Affairs (CDIMA)
+n. Veteran Affairs
+5. Registrar
+6. CAUSES
+7. School of Law
+8. Grant management
+9. MOU management
+10. OCR for scanned documents
+11. Volunteer management
+12. Associated data migration, user management and data security for the above
+PROJECT TIMELINE
+Client has requested a start date of March 2025 for the Waves Program.
+
+Resources to support services assumed in this quote require a signature on a valid contract or mutually acceptable letter of
+intent within 4-6 weeks of the Waves Program Start Date.
+BUDGETARY INFORMATION
+Please note that this is a Rough Order of Magnitude (ROM) and is provided for internal budgetary purposes only. This ROM
+does not obligate CDW or the customer in any manner with respect to this project.
+Please note that this budgetary excludes anticipated Travel, Per Diem, Contracting Fees, and/or Project Financing Costs.
+CDW can provide a formal proposal once the scope of work and project requirements are further defined or in response to a
+formal solicitation. Any subsequent contract shall be subject to mutually acceptable terms and conditions.
+Category Fee
+Professional Services Not to Exceed $3,000,000
+Fee breakout by fiscal year:
+FY25
+●Month 1-7 (March 2025-September2025): $1,725,590.40, or roughly $250,000 per month
+FY26
+●Months 8-12 (October 2025-September 2026): $1,274,409.60
+Signature: ________________________ Date: _____12/2/24_______________
+
+CDW-G ROM
+Salesforce Education Cloud Phase II: Waves Seller Representative:
+Project Name:
+Program Ebony Thomas
++1 (203) 851-7188
+Customer Name: University of the District of Columbia
+ebontho@cdwg.com
+CDW Affiliate: CDW Government LLC
+Solution Architect:
+Drafted By: Coastal Cloud LLC
+Amy Sanchez
+Date: February 18, 2025
+Project Number:
+This ROM shall be governed by that certain E&I Master Agreement Number CNR01439 between CDW Government LLC
+and E&I Cooperative Services dated the 1st of August 2017 (the “Agreement”) by and between the University of the District
+of Columbia (“Client”) and CDW-G (aka "Service Provider"), and its Affiliates (individually and collectively, hereinafter
+“Service Provider”).
+This Quote will expire ninety (90) days from the issue date, February 19, 2025.
+PROJECT OVERVIEW
+Client desires a Technology Services Partner with the capability to initiate the design, development, and deployment of
+various Salesforce and related applications to create a robust, cohesive, and forward-looking solution for Enrollment and
+Student Success functionality on the Salesforce Education Cloud platform. In addition, the Client seeks a partner who can
+bring thought leadership, planning, and documentation around business analysis. This Phase II project, facilitated via the
+Waves Program, will enable the client to achieve a Salesforce solution that incorporates industry best practices, careful data
+security, strong end-user experience, and a 360 view of the student experience. This agreement is for a twelve (12) month
+period.
+PRELIMINARY SCOPE OF WORK
+The team (Client team members and Service Provider team members) will work in an agile fashion against priorities defined
+by the roadmap set by Executive Stakeholders.
+During the effort, the Client Executive Sponsor may re-prioritize or add requirements to future sprints & releases. Release
+scope changes will be based upon mutual agreement of the Executive Stakeholders to align effort and team capacity. Should
+requirements be removed or deprioritized from the roadmap, the associated level of effort and budget will be adjusted
+accordingly, and cost savings, if applicable, will be outlined.
+Waves: Managed Services & Innovations focused on Performance Objectives
+Service Providers’ primary purpose is to provide a far more significant benefit to the Client than simply supporting the day-
+
+to-day administration and incremental improvements. While our expertise is needed in these areas, a far greater impact can be
+derived from innovative projects that enable the achievement of performance metrics at the highest level of the organization.
+Our goal is to provide a greater return on investment than our services and the license cost of the platforms you have invested
+in.
+Client has outlined the following objectives as potential candidates for the Phase II Waves program:
+1. System Integrations, levering MuleSoft, including:
+a. Client’s new financial ERP system
+b. Financial Aid system
+c. Parchment system
+d. Payment gateway system
+2. Event Functionality, including:
+a. Processing for event fees and costs for events
+b. Introduction of paid registration option for events
+3. Admissions and Enrollment Services, including:
+a. Undergraduate Admissions
+b. New/additional admissions forms
+c. Course management
+d. Program management
+e. Degree plan paths
+f. Financial aid information
+g. Reports and dashboards for enrollment, matriculation, etc.
+4. Advising Services and Student Success Services, including:
+a. Steps to graduation and graduation requirements
+b. Career Services
+c. Special Programs
+d. Counseling & Wellness
+e. Judicial Affairs
+f. Health Services
+g. International Services
+h. Residence Life
+i. Student Center
+j. Student Life
+k. Student Advocacy
+l. Accessibility Services
+m. Center for Diversity, Inclusion, & Multicultural Affairs (CDIMA)
+n. Veteran Affairs
+5. Registrar
+6. CAUSES
+7. School of Law
+8. Grant management
+9. MOU management
+10. OCR for scanned documents
+11. Volunteer management
+12. Associated data migration, user management and data security for the above
+13. Help desk
+It is important to note that the final requirements for these objectives have not yet been confirmed. As a result, the estimated
+timeline and budget include assumptions for the complexity of the work based on a current-state understanding of the
+Client’s operations and tools.
+
+PROJECT TIMELINE
+Client has requested a start date of April 2025 for the Waves Program.
+Resources to support services assumed in this quote require a signature on a valid contract or mutually acceptable letter of
+intent within 4-6 weeks of the Waves Program Start Date.
+BUDGETARY ESTIMATE
+Please note that this estimate is a Rough Order of Magnitude (ROM) and is provided for internal budgetary purposes only.
+This ROM does not obligate CDW or the customer in any manner with respect to this project.
+Please note that this budgetary estimate excludes anticipated Travel, Per Diem, Contracting Fees, and/or Project Financing
+Costs.
+CDW can provide a formal proposal once the scope of work and project requirements are further defined or in response to a
+formal solicitation. Any subsequent contract shall be subject to mutually acceptable terms and conditions.
+Category Fee
+Professional Services $3,000,000
+Estimated Fee breakout by fiscal year:
+FY25
+●Month 1-6 (April 2025-September 2025): $1,475,590.40, or roughly $250,000 per month
+FY26
+●Months 7-12 (October 2025-September 2026): $1,524,409.60
+CDW Government LLC
+By:
+signature
+Name: Stephen Morris
+Title: VP of Intelligent Platforms
+Date: 2/19/2025
+
+7007070007077777770002775302427276703555632735107757020017612451152370255633547711562701167102277716407026556725574042670120337504560553700124350557113677024576305336066670111755406161677700070707077777777
+:
+reifitnedI
+redloH
+096023901075
+: oN
+etacifitreC
+7007070007077777770455671533616577704446357527233257045532075622733070110375307623371701017313526322217015577061772776470020173430511023701533247325702227014751114233435770006545117765253700070707077777777
+CERTIFICATE OF LIABILITY INSURANCE DATE(MM/DD/YYYY)
+11/07/2024
+THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE CERTIFICATE HOLDER. THIS
+CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR ALTER THE COVERAGE AFFORDED BY THE POLICIES
+BELOW. THIS CERTIFICATE OF INSURANCE DOES NOT CONSTITUTE A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED
+REPRESENTATIVE OR PRODUCER, AND THE CERTIFICATE HOLDER.
+IMPORTANT: If the certificate holder is an ADDITIONAL INSURED, the policy(ies) must have ADDITIONAL INSURED provisions or be endorsed.
+If SUBROGATION IS WAIVED, subject to the terms and conditions of the policy, certain policies may require an endorsement. A statement on
+this certificate does not confer rights to the certificate holder in lieu of such endorsement(s).
+PRODUCER C N O AM NT E A : CT
+A C o h n i c R a i g s o k I S L e r O v f i f c i e c s e Central, Inc. P (A H /C O . N N E o. Ext): (866) 283-7122 F (A A / X C. No.): (800) 363-0105
+200 East Randolph E-MAIL
+Chicago IL 60601 USA ADDRESS:
+INSURER(S) AFFORDING COVERAGE NAIC #
+INSURED INSURER A: The Phoenix Insurance Company 25623
+CDW Government LLC INSURER B: The Charter Oak Fire Insurance Company 25615
+230 North Milwaukee Ave
+Vernon Hills IL 60061 USA INSURER C: Travelers Property Cas Co of America 25674
+INSURER D: Travelers Commercial Casualty Co 40282
+INSURER E: Lloyd's Syndicate No. 3623 AA1120055
+INSURER F:
+COVERAGES CERTIFICATE NUMBER: 570109320690 REVISION NUMBER:
+THIS IS TO CERTIFY THAT THE POLICIES OF INSURANCE LISTED BELOW HAVE BEEN ISSUED TO THE INSURED NAMED ABOVE FOR THE POLICY PERIOD
+INDICATED. NOTWITHSTANDING ANY REQUIREMENT, TERM OR CONDITION OF ANY CONTRACT OR OTHER DOCUMENT WITH RESPECT TO WHICH THIS
+CERTIFICATE MAY BE ISSUED OR MAY PERTAIN, THE INSURANCE AFFORDED BY THE POLICIES DESCRIBED HEREIN IS SUBJECT TO ALL THE TERMS,
+Limits shown are as requested
+INSR ADDL SUBR POLICY EFF POLICY EXP
+LTR TYPE OF INSURANCE INSD WVD POLICY NUMBER (MM/DD/YYYY) (MM/DD/YYYY) LIMITS
+A X COMMERCIAL GENERAL LIABILITY H6605D53096APHX24 10/01/2024 10/01/2025 EACH OCCURRENCE $1,000,000
+CLAIMS-MADE X OCCUR see addendum D PR AM EM AG IS E E S T O (E R a E o N cc T u E r D re nce) $1,000,000
+MED EXP (Any one person) $10,000
+PERSONAL & ADV INJURY $1,000,000
+GEN'L AGGREGATE LIMIT APPLIES PER: GENERAL AGGREGATE $2,000,000
+POLICY X P JE R C O T - LOC PRODUCTS - COMP/OP AGG $2,000,000
+OTHER:
+B AUTOMOBILE LIABILITY BA-6N190234-24-I3-G 10/01/2024 10/01/2025 COMBINED SINGLE LIMIT $1,000,000
+(Ea accident)
+X ANY AUTO BODILY INJURY ( Per person)
+H O O A I N U R W L T E Y N O D E S A D U O T N O L S Y S N A A C U O U H T T N E O O -O D S S W U O L N N E E L D D Y P ( B P R O e O D r P a IL c E Y c R i I d N T e Y J n U t D ) R A Y M ( A P G er E accident)
+C X UMBRELLA LIAB X OCCUR CUP6J53867924I3 10/01/2024 10/01/2025 EACH OCCURRENCE $5,000,000
+SIR applies per policy terms & conditions
+EXCESS LIAB CLAIMS-MADE AGGREGATE $5,000,000
+DED X RETENTION Retained Limit $10,000
+D W EM O P R L K O E Y R E S R C S O ' L M IA P B E I N L S IT A Y TION AND Y / N A U O B S 8P79604A2451K 10/01/2024 10/01/2025 X PER STATUTE O ER TH-
+C A E N XE Y C P U R T O IV P E R I O E F T F O I R C E / R PA /M R E T M N B E E R R / N N / A UB8P8306872451R 10/01/2024 10/01/2025 E.L. EACH ACCIDENT $1,000,000
+(Mandatory in NH) AZ, MA, WI E.L. DISEASE-EA EMPLOYEE $1,000,000
+I D f E ye S s C , R d I e P s T c I r O ib N e u O n F d e O r P ERATIONS below E.L. DISEASE-POLICY LIMIT $1,000,000
+E E&O - Miscellaneous W19A8C241001 10/01/2024 10/01/2025 Each Claim $5,000,000
+Professional-Primary Claims Made-cyber/network Aggregate $5,000,000
+SIR applies per policy terms & conditions
+DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES (ACORD 101, Additional Remarks Schedule, may be attached if more space is required)
+CERTIFICATE HOLDER CANCELLATION
+SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE THE EXPIRATION
+DATE THEREOF, NOTICE WILL BE DELIVERED INACCORDANCE WITH THE POLICY PROVISIONS.
+University of the District of Columbia AUTHORIZED REPRESENTATIVE
+4200 Connecticut Ave. NW
+Washington DC 20008 USA
+©1988-2015 ACORD CORPORATION. All rights reserved
+ACORD 25 (2016/03) The ACORD name and logo are registered marks of ACORD
+
+AGENCY CUSTOMER ID: 10227766
+LOC #:
+ADDITIONAL REMARKS SCHEDULE
+Page _ of _
+AGENCY NAMED INSURED
+Aon Risk Services Central, Inc. CDW Government LLC
+POLICY NUMBER
+See Certificate Number: 570109320690
+CARRIER NAIC CODE
+See Certificate Number: 570109320690 EFFECTIVE DATE:
+ADDITIONAL REMARKS
+THIS ADDITIONAL REMARKS FORM IS A SCHEDULE TO ACORD FORM,
+FORM NUMBER: ACORD 25 FORM TITLE: Certificate of Liability Insurance
+Commercial General Liability
+Commercial General Liability
+Policy# H6605D53096APHX24
+State and Insurer(s) Affording Coverage
+California Travelers Property Casualty Company of America NAIC# 25674
+All Other The Phoenix Insurance Company NAIC# 25623
+ACORD 101 (2008/01) © 2008 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+
+Office of Contracting and Procurement
+ACKNOWLEDGMENT OF THE LIVING WAGE ACT OF 2006 &
+THE LIVING WAGE ACT FACT SHEET
+D.C. CODE §§ 2-220.01 - 2-220.11
+I, the undersigned, hereby acknowledge receipt of and understanding the provisions of The
+Living Wage Act of 2006, as outlined in D.C. Code §§ 2-220.01 - 2-220.11, and the associated
+Living Wage Act Fact Sheet (attached). I am aware of the requirements set forth by the Act,
+which mandates that contractors, subcontractors, and vendors doing business with the District of
+Columbia pay their employees a living wage, as defined by the Act.
+I also recognize my obligation to comply with the regulations and provisions established by the
+District of Columbia to ensure that all employees are compensated in accordance with the
+standards outlined under the Living Wage Act.
+By signing below, I confirm that I have read, understood, and agree to adhere to the terms and
+conditions of the Living Wage Act as set forth in the referenced D.C. Code sections.
+Signed: ___________________________________
+Name: _F_re_d_a_ _H_il_l ___________________________
+Title: _S_r_ M__g_r _P_r_o_p_o_s_a_ls_____________________
+Organization: _C_D_W__ _G_o_v_e_r_n_m_e_n_t_ L_L_C__________
+Date: _1_/2__8_/2_0_2__5__________________________
+Page 1 of 1
+4200 Connecticut Avenue NW, Bldg. 39 2nd Floor, Washington, DC 20008 | 202.274.5181 | udc.edu
+
+* * *
+GovernmentoftheDistrictofColumbia
+OfficeoftheChiefFinancial Officer 11014 Street,SW
+OffoifcTaex andRevenue Washington,DC20024
+DateofNotice: January2 NoticeNumber: 0013128383
+CDWGOVERNMENT LLC. FEIN: *#-*#90110
+230N MILWAUKEE AVE. Case ID: 18406688
+VERNON HILLS IL, 60061-4304
+ER FF CLEAN HAND‘
+As reported in the Clean Hands system, the above referenced individual/entity has no outstanding
+ility with the District ofColumbia OfficeofTax and Revenue orthe Department ofEmployment
+Services. Asofthedate above, the individual/entity has complied with DCCode § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+TITLE47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERALLICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE ORPERMIT
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCEOFLICENSE OR PERMIT
+‘Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate thiscertificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate ofClean Hands” hyperlink underthe Clean Hands section.
+1101athStreet SW,SuiteW270,Washington,DC20024/Pho9e:202)724-5H4/M)Tax.DCaoe
+
+Office of the Chief Financial Officer
+TO: Mary Ann Harris
+Director of Contracting & Procurement
+University of the District of Columbia
+FROM: Brian Connell
+Budget Officer
+University of the District of Columbia
+DATE: November 19, 2024
+RE: Funding Certification for CDW Government LLC\Coastal Cloud
+This memorandum is to certify that funds are available in the amount of $1,725,590.40 in the
+FY25 Capital Budget to satisfy the proposed contractual obligation with CDW Government
+LLC\Coastal Cloud scheduled for Fiscal Year 2025. These funds are under Index CP83D,
+Account 71300.
+Additionally, the approved FY 2025 – FY 2030 Capital Improvements Plan (CIP) includes
+approved funding of $2,000,000.00 each in FY 2026 and FY 2027 for this project (DIFS Project
+101173-GF0.UG719.CRM IMPLEMENTATION; Banner Program UG719C-CRM
+Implementation).
+Subject to the District Council’s approval of the proposed multi-year contract and inclusion of
+the previously approved funding in the FY 2026 – 2031 CIP, the additional $2,000,000.00
+scheduled for FY 2026 in the current CIP will be sufficient to satisfy the proposed contractual
+obligation in the amount of $1,274,409.60 with CDW Government LLC\Coastal Cloud
+scheduled for Fiscal Year 2026.
+Should you require additional information, please contact me at 202-274-6057.
+4200 Connecticut Avenue N.W. | Building 39, 2nd Floor | Washington, DC 20008 | 202.274.5488 | udc.edu
+
+Office of the Chief Financial Officer
+TO: Mary Ann Harris
+Director of Contracting & Procurement
+University of the District of Columbia
+FROM: Brian Connell
+Budget Officer
+University of the District of Columbia
+DATE: October 28, 2024
+RE: FY 2025 Capital Budget Funding Certification for CDW Government LLC
+This is to certify that funds are available in the amount of $274,409.60 in the FY25 Capital
+Budget, Index CP83D and Account 71300, to satisfy the proposed change order (Contract#
+CNR01439 / PO# P2400587) with CDW Government LLC for Coastal Cloud Proprietary
+Salesforce in Fiscal Year 2025, increasing the total contract cost to $1,200,542.00 and requiring
+District Council approval for a contract in excess of $1 million.
+Should you require additional information, please contact me at brian.connell@dc.gov or 202-
+274-6057.
+4200 Connecticut Avenue N.W. | Building 39, 2nd Floor | Washington, DC 20008 | 202.274.5488 | udc.edu
+
+Office of the General Counsel
+CERTIFICATE
+To: The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+From: Avis Marie Russell
+General Counsel
+Re: Legal Sufficiency Certification – Proposed Change Order No. 01 to the Contract for
+Customer Relation Management Implementation Services between CDW Government,
+LLC and the Board of Trustees of the University of the District of Columbia
+Date: December 5, 2024
+This is to certify that the Office of the General Counsel has reviewed the above-referenced Proposed
+Change Order No. 01 to the Contract with CDW Government, LLC to provide Customer Relation
+Management (CRM) implementation services for the University’s recruitment and admission of students,
+marketing and communications activities between CDW Government, LLC and the Board of Trustees of
+the University of the District of Columbia and found such Contract to be legally sufficient subject to
+submission of any required materials and Council approval.
+If you have any questions, please do not hesitate to contact me on (202) 274-5604.
+By: ___________________________
+Avis Marie Russell
+General Counsel
+University of the District of Columbia
+4200 Connecticut Avenue NW, Bldg. 39, Room 301-R | Washington, DC 20008 | 202.274.5400 fax: 202-274-5320 | www.udc.edu
+
+THE LIVING WAGE ACT OF 2006
+D.C. Code §§ 2-220.01 — 2-220.11
+Recipients of new contracts or government assistance shallpay affiliated employees and subcontractors who
+perform services underthecontracts no less than the current living wage.
+Effective January 1, 2025, until June 30, 2025, the living wage rate is $17.50 per hour.
+Effective July 1, 2025, the District’s Minimum Wage and Living Wage will increase to
+$18.00 per hour.
+‘The requirement to pay a living wage applies t.
+All recipients ofcontracts in the amount of$100,000 or more, and allsubcontractors that receive
+$15,000 or morefrom thefunds received bythe recipient from theDistrict of Columbia, and
+ients ofgovernment assistance in the amountof $100,000 or more, and all subcontractors of
+nts that receive $50,000 or more from the government assistance received by the
+recipient from the District ofColumbi:
+“Contract” means a written agreement betweena recipient and theDistrict government.
+“Government assistance” means a grant, loan, ortax increment financingthat result in a financial benefit
+from an agency, commission, instrumentality, or otherentity oftheDistrictgovernment.
+“Affiliated employee” means any individual employed by a recipient who received compensation directly
+from government assistanceor a contract withthe District ofColumbia government, includingemployees of
+the DistrictofColumbia, any employeeof a contractor or subcontractorof a recipient who performs
+services pursuant to government assistanceor contract. The term “affiliated employee” does not include
+those individuals who perform only intermittent or incidental services with respectto the contract or
+government assistanceor who are otherwise employed by thecontractor, recipient, or subcontractor.
+Certain exemptions apply: 1) Contractsor agreements subject to wage determinations requiredby federal law
+which arehigher than the wage requiredby this Act; 2) Existing and future collectingbargaining agreements,
+provided that the future agreement results in employees being paid no less than the current living wage; 3)
+contracts forelectricity, telephone, water , sewerperformed by regulatedutilities; 4) contracts forservices needed
+immediatelyto preventor respond to adisasteror imminentthreatdeclared by theMayor; 5) contracts awarded to
+recipients thatprovide trainees withservices, including butnot limited to case managementandjob readiness
+services, provided the trainee does notreplace employees; 6) employees under22 years ofage employed during a
+school vacationperiod, or enrolledas a full-time student who works less than 25 hours per week; 7) tenants or
+retail establishmentsthatoccupy propertyconstructedorimproved by government assistance, provided thereis no
+receipt ofdirectDistrictgovernment assistance; 8) employees ofnonprofitorganizations thatemploy notmore
+than 50 individuals and qualify for 501(c)(3) status; 9) Medicaid provideragreements fordirect care services to
+Medicaid recipients, provided, thatthe direct care service is notprovidedthrough ahome care agency, a
+community residence facility, oragrouphome forpersons with intellectual disabilities as those terms are defined
+in section 2 ofthe Health-Care and Community Residence Facility, Hospice, and HomeCare Licensure Act of
+1983; D.C. Official Code § 44-501; and 10) contracts or agreements between managed care organizations and the
+Health Care Safety Net Administrationorthe Medicaid Assistance Administration to provide health services.
+Home Care Final Rule: The Department ofLabor extendedovertime protections to home care workers and
+workers whoprovide companionship services. Employers within this industry arenow subject to recordkeeping
+provisions.
+Each recipient and subcontractorofa recipient shallprovidethis noticeto eachaffiliatedemployeecoveredbythis notice, and
+shallalsopostthisnoticein a conspicuoussite in itsplaceofbusiness. All recipients andsubcontractors shall retainpayroll
+records createdand maintainedintheregularcourseofbusiness underDistrictofColumbia lawforaperiodofat least3 years.
+Tofileaclaim,visit: Department ofEmployment Services,OfficeofWage-Hour,400VirginiaAve.,SW,4"Fir,Washington,
+D.C.20024;call: (202)671-1880;orfileyourclaim on-line: does.de.gov.Goto“FileaClaim” tab.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Department of Employment Services
+MURIEL BOWSER DR. UNIQUE MORRIS-HUGHES
+MAYOR DIRECTOR
+LIVING WAGE ACT FACT SHEET
+The Living Wage Act of 2006, D.C. Code §§ 2-220.01 – 2-220.11, provides that District of Columbia government
+contractors and recipients of government assistance (grants, loans, tax increment financing), in the amount of
+$100,000 or more, shall pay affiliated employees wages at no less than the current living wage rate.
+Effective January 1, 2024 until June 30, 2024, the living wage rate is $17.05
+per hour.
+Effective July 1, 2024, the District’s Minimum Wage and Living Wage will
+increase to $17.50 per hour.
+Subcontractors of D.C. government contractors, who receive $15,000 or more from the contract, and subcontractors
+of the recipients of government assistance, who receive $50,000 or more from the assistance, are also required to pay
+their affiliated employees no less than the current living wage rate.
+“Affiliated employee” means any individual employed by a recipient who receives compensation directly from
+government assistance or a contract with the District of Columbia government, including any employee of a
+contractor or subcontractor of a recipient who performs services pursuant to government assistance or a contract.
+The term “affiliated employee” does not include those individuals who perform only intermittent or incidental
+services with respect to the government assistance or contract, or who are otherwise employed by the contractor,
+recipient or subcontractor.
+Exemptions – The following contracts and agreements are exempt from the Living Wage Act:
+1. Contracts or other agreements that are subject to higher wage level determinations required by federal
+law (i.e., if a contract is subject to the Service Contract Act and certain wage rates are lower than the
+District’s current living wage, the contractor must pay the higher of the two rates);
+2. Existing and future collective bargaining agreements, provided that the future collective bargaining
+agreement results in the employee being paid no less than the current living wage;
+3. Contracts for electricity, telephone, water, sewer or other services provided by a regulated utility;
+4. Contracts for services needed immediately to prevent or respond to a disaster or imminent threat to
+public health or safety declared by the Mayor;
+5. Contracts or other agreements that provide trainees with additional services including, but not limited
+to, case management and job readiness services, provided that the trainees do not replace employees
+subject to the Living Wage Act;
+4058 Minnesota Ave, N.E. • Suite 3600 • Washington, D.C. 20019 • Office: 202.671.1900
+
+6. An employee, under 22 years of age, employed during a school vacation period, or enrolled as full-time
+student, as defined by the respective institution, who is in high school or at an accredited institution of
+higher education and who works less than 25 hours per week; provided that students not replace
+employees subject to the Living Wage Act;
+7. Tenants or retail establishments that occupy property constructed or improved by receipt of
+government assistance from the District of Columbia; provided, that the tenant or retail establishment
+did not receive direct government assistance from the District of Columbia;
+8. Employees of nonprofit organizations that employ not more than 50 individuals and qualify for taxation
+exemption pursuant to Section 501 (c) (3) of the Internal Revenue Code of 1954, approved August 16,
+1954 (68 A Stat. 163; 26. U.S.C. §501(c)(3));
+9. Medicaid provider agreements for direct care services to Medicaid recipients, provided, that the direct
+care service is not provided through a home care agency, a community residence facility, or a group
+home for persons with intellectual disabilities as those terms are defined in section 2 of the Health-Care
+and Community Residence Facility, Hospice, and Home Care Licensure Act of 1983; D.C. Official
+Code § 44-501; and
+10. Contracts or other agreements between managed care organizations and the Health Care Safety Net
+Administration or the Medicaid Assistance Administration to provide health services.
+Enforcement
+The Department of Employment Services (DOES) Office of Wage-Hour and the D.C. Office of Contracting and
+Procurement share monitoring responsibilities.
+Home Care Final Rule: The Department of Labor extended overtime protections to home care workers
+and workers who provide companionship services. Employers within this industry are now subject to
+recordkeeping provisions.
+If you learn that a contractor subject to this law is not paying at least the current living wage, you should report it to
+the contracting officer. If you believe that your employer is subject to this law and is not paying at least the current
+living wage, you may file a complaint with the DOES Office of Wage - Hour, located at 4058 Minnesota Avenue,
+N.E. Suite 3600, Washington, D.C. 20019, call (202) 671-1880, or file your claim on-line: www.does.dc.gov. Go to
+“File a Claim” tab.
+For questions and additional information, contact the Office of Contracting and Procurement at (202) 727-0252 or the
+Department of Employment Services on (202) 671-1880.
+Please note: This fact sheet is for informational purposes only as required by Section 106 of the Living Wage Act. It should not
+be relied on as a definitive statement of the Living Wage Act or any regulations adopted pursuant to the law.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Department ofEmployment Services
+xk *
+=
+a
+MURIEL BOWSER Dr. UNIQUE MORRIS-HUGHES
+Mayor DirEcTOR
+MEMORANDUM
+TO: Brian K. Brooks
+Contract Specialist
+OfficegfContracting and Procurement
+Dy
+FROM: —_ Daniel King
+Associate Director
+Officeof FirstSourceCompliance
+Department ofEmploymentServices
+DATE: January 9, 2025
+SUBJECT:_ First Source Employment Agreement
+‘The Department ofEmploymentServices (DOES) hasreviewedtheFirst Source Agreement for
+CDW Government LLC-PO-GF-2024-P-0144-88:
+In reviewing theAgreement, DOES hasdeterminedthe following:
+OdThe contractorcompleted and signed the First Source Employment Agreement (attached).
+UnderthetermsoftheAgreement,youarerequiredtouse DOES asthefirstsourceto fillall newjobs
+created as aresultof thecontract.
+You shall register and postyourjob vacanciestotheDepartmentofEmploymentServices’ VirtualOne-
+‘Stop(VOS)atwww.denetworks.org.
+In addition,at least 51% ofall newlycreatedjobs must be filled by District residents.
+First Source reports aredue by the 10" ofeach month throughout the duration of the contract. Company
+representative responsible forcompleting the First Source Contract Compliance reports must register and
+submit reports via First Source Online Registration and Reporting System (FORRS),
+hutp://firstsource.de.gov.
+Ifyou have anyquestions or need additional information, pleasecontact John Nichols at 202-698-3541 or
+john.nichols@dc.gov.
+Attachment,
+4058Minnesota Ave,N.E. +Suite5000*Washington, D.C. 20019+Office: 202.671.1900
+
+wk * wk *
+mmm «| GOVERNMENT OFTHE DISTRICT OFCOLUMBIA = ey
+= FIRST SOURCE EMPLOYMENT AGREEMENT 2 I
+FORNON CONSTRUCTION CONTRACTS ONLY
+GOVERNMENT-ASSISTED CONTRACTINFORMATION
+CONTRACT/SOLICITATION NUMBER: 0-GF-2024--0144-88
+DISTRICTCONTRACTING AGENCY: UNIVERSITYOFTHEDISTRICTOFCOLUMBIA
+CONTRACTING OFFICER: MARYANN HARRI
+TELEPHONE NUMBER: 2022765426 Email; mharis@udc.odu
+TOTALCONTRACTAMOUNT $4.200.542.00
+EMPLOYERCONTRACTAMOUNT:$4,200,542.00
+CONTRACTNAME:2stovets0-nusrrcsmes ncn 00 niinDERE NETREGS NEPRE
+CONTRACTADDRESS: NA
+CITY: NA STATE: A ZIPCODE: NA
+CONTR ACTSTARTDATE: YPO¥execuTiOnoFcontractCONTRACT ENDDATE: SEPTEWGER 30,2028
+EMPLOYER STARTDATE: Y°0X©ecuoFTcon0mmaNctEMPLOYER END DATE: SEPTEMBER 30,2026
+T OTALGOVERNMENTASSISTEDFUNDED AMOUNT: DATE.
+@ CONTRACT 0 GRANT 0 LOAN G TAX ABATEMENT OR EXEMPTION Q LAND
+‘TRANSFER © LAND DISPOSITION AND DEVELOPMENT AGREEMENT () TAX INCREMENT
+FINANCING0 ANYADDITIONAL LEGISLATION,IFYES
+D.C. CODE#
+BASEYEAR0 OPTION YEAR: | G2 03 04 05.0(SELECTCONTRACT YEAR)
+DESCRIPTIONOFWORK: ="
+E MPLOYERINFORMATION
+EMPLOYERNAME: COWGovernmeLnLCt
+EMPLOYER ADDRESS: 2301. MiwaukesAve
+CITY: Vernontits STATE: ZIP CODE: 6061
+‘TELEPHONENUMB(60E0)8R00-4:239 FEDERAL IDENTIFICATION NO.:364220110
+CONTACTPERSON:EbonyThomas
+TITLE: AccountManager
+TELEPHONE NUMBER:(209)851-7108
+CERTIFIED BUSINESS ENTERPRISE CERTIFICATIONNUMBER:
+D.C. APPRENTICESHIP COUNCIL REGISTRATION NUMBER:
+AREYOU A SUBCONTRACTOR IO IFYES, NAMEOFPRIME
+CONTRACTOR: ___ _
+NONPROFITORGANIZATION WITH 50 EMPLOYEES OR LESS: YES [] No
+This First Source Employment Agreement (Agreement), in accordance with Workforce Intermediary
+EstablishmentandReform ofthe FirstSource AmendmentActof20111 (D.C. Official Code §§ 2-
+219.01 — 2-219.05) and relevant provisions of the Apprenticeship Requirements Amendment Act of
+2004 (D.C. Official Code § 2-219.03 and § 32-1431 is between the District ofColumbia Department
+ofEmployment Services(DOES) andEMPLOYER,
+Pursuant to this Agreement, the EMPLOYER, which includes all contractors and subcontractors,
+shall meet the following requirements:
+Employershall hire 51% District ofColumbiaresidents(DC residents) forallnewjobs created by the
+Contract and 35%ofall apprenticeship hours worked in connection with the Contract shall be worked
+by DC residents registered in programs approved by the District of Columbia Apprenticeship
+Council.
+Page 1 of 11 Pls!SourceEmplomentAgreementRestedFebruary1S2018
+
+EMPLOYERshall use DOES as its first source forrecruitment, referral, and placementofnew hires
+forallnewjobs created by theGovernment Assisted Projector Contract (Contract).
+EMPLOYER began work on the Contract, prior to receipt of an accepted First Source Employment
+‘Agreement(Agreement) from DOES, in violation ofD.C. Code §2-219.03. In order to continue to work
+‘on the Contract, Employer shall adhere to the Agreement requirements retroactive to the date that work
+began and continuing untilContract completion.
+‘The PartiesagreetothetermsandconditionsoftheAgreement as follows:
+1. DEFINITIONS
+The followingdefinitionsshall governthe termsused in thisAgreement.
+‘A. Apprenticemeans aworkerwhoisemployed tolearnan apprenticeable occupationunderthe
+termsandconditions ofapprovedapprenticeship standards.
+B. Beneficiary means:
+The signatory to a contract executed by the Mayor which involves any District of
+Columbia government funds or funds which, in accordance with a federal grant or
+otherwise, the District government administers and which details the number and
+description of all jobs created by a government-assisted Contract for which the
+beneficiary isrequiredtousetheFirstSource Register.
+‘A recipient of a District government economic development action, including
+contracts, grants, loans, tax abatements, land transfers for redevelopment, or tax
+increment financing that results in a financial benefit of $300,000 or more from an
+agency, commission, instrumentality, or other entity of the District government,
+including a financial or banking institution which serves as the repository for $1
+million ormoreofDistrict ofColumbiafunds.
+A retail or commercial tenant that is a direct recipient of a District government
+economic development action, including contracts, grants, loans, tax abatements,
+land transfers for public redevelopment, or tax increment financing in excess of
+$300,000.
+C. Contracting Agency meansany District ofColumbia agency that isawarded a government-
+assisted Contract totaling$300,000or more.
+D. Direct labor costs means all costs, including wages and benefits, associated with the hiring
+and employment ofpersonnel assigned to a process in which payroll expenses are traced to
+the units ofoutput and are included in thecostofgoodssold.
+E. EMPLOYER means any entity awarded a government-assisted Project or Contract totaling
+$300,000.00 ormore, including individual contractorand subcontractorentities at any
+tier,whoperformedwork on the Project or Contract.
+F. First Source Employer Portal means the website consistingof a connected group of static
+and dynamic (functional) pages and forms on the World Wide Web accessible by Uniform
+Resource Locator (URL) and maintained by DOES to provide information and reporting
+functionalitytoEMPLOYERS.
+G. First Source Register means the DOES Automated Applicant Files, which consists of the
+namesofDis ict ofColumbiaresidentsregisteredwithDOES.
+Page2.of11 FestSource EmploymentAgreement,RevisedFebruary 15,2018
+
+H. Good faith effortmeans an EMPLOYER hasexhaustedallreasonable means tocomplywith
+any affirmative action, hiring, or contractual goal(s) pursuant to the First Source law and
+Agreement.
+1. Government-assisted Project or Contract (Contract) means any construction or non-
+construction Project or Contract receiving funds or resources, valued at $300,00 or more,
+from the District ofColumbia or funds orresources which, in accordancewith a federal grant
+or otherwise, the District of Columbia government administers, including contracts, grants,
+loans, tax abatements or exemptions, land transfers, land disposition and development
+agreements, tax increment financing, or any combinationofthe aforementioned.
+J. Hardtoemploy means a DistrictofColumbia residentwho isconfirmed by DOESas:
+1. Anex-offenderwhohasbeen releasedfrom prison within thelast 10 years;
+2. A participantofthe Temporary Assistance forNeedy Familiesprogram;
+3. A participantofthe Supplemental Nutrition Assistance Program;
+4, Living with a permanent disability verified by the Social Security Administration or
+District vocationalrehabilitation program;
+5. Unemployed for six (6) months ormorein the last 12-monthperiod;
+6. Homeless;
+7. A participant or graduate of the Transitional Employment Program established by §
+32-1331; or
+8. An individual who qualified for inclusion in the Work Opportunity Tax Credit
+Program ascertified by DOES.
+K. Indirect laborcosts means all costs, including wages and benefits, that are part ofoperating
+expenses and are associated with the hiring and employment of personnel assigned to tasks
+otherthan producingproducts.
+L. Jobs means any union and non-union managerial, non-managerial, professional,
+nonprofessional, technical or nontechnical position, including: clerical and sales occupations;
+service occupations; processing occupations; machine trade occupations; bench work
+occupations; structural work occupations; agricultural, fishery, forestry, and related
+‘occupations; and any other occupations as DOES may identify in the Dictionary of
+Occupational Titles, UnitedStates Department ofLabor.
+M. New Hire: New employee hired by EMPLOYER to work on the government assisted
+Contract or Project for the newjobcreated.
+N. Transfer: Existing employees EMPLOYER who has already worked for company and has
+been moved from onecontract toanothercontract.
+0. Revised Employment Plan means a document prepared and submitted by the EMPLOYER
+thatincludes the following:
+1. A projectionofthe total number ofnew positions that will be created as a result of
+Pa3gofe11 FistSourceEmploymentAgreementRevisedFebraary1S,2018
+
+the contract, including thejob title, number ofpositions available, indicationofpart-
+time or full-time status, salary range, union affiliation (if applicable), and the
+contracted hire dates;
+A roster of all current employees to include the name, affirmation of DC residence
+(check mark), and Ward, including apprentices, trainees, and transfers from other
+projectsorcontracts, who willbe employedon the Contract;
+A projection of the total number of full-time and part-time salaried employees on an
+annual basis that will be utilized on the Contract and the total number of full-time
+and part-time salaried employees that will be District residents;
+A projection of the total number of hours to be worked on the Contract by full-time
+and part-time hourly wage employees on an annual basis and a projection ofthe total
+number of hours to be worked on the Contract by full-time and part-time hourly
+wage employeeswho are District residents;
+A timetableoutliningthe total numberofhoursto be workedon the Contract by full-
+time and part-time hourly wage employees by job category and the total number of
+full-time and part-time salaried employees by job category over the duration of the
+life of the hiring requirements set forth by DOES and an associated hiring schedule
+which predicts whenspecificjob openingswillbeavailable;
+Descriptions of the skill requirements by job title or position, including industry-
+recognizedcertificationsrequired forthe different positions;
+A strategy to fulfill DC resident hiring percentage pursuant to this Agreement,
+including a component on communicating these requirements to contractors and
+subcontractors and a component on potential community outreach partnerships with
+the University ofthe District of Columbia, the University ofthe DistrictofColumbia
+‘Community College, DOES,JointlyFundedApprenticeship Programs, the Districtof
+Columbia Workforce Intermediary, or other government-approved,community-based
+job training providers;
+A remediation strategy to ameliorate any problems associated with meeting these
+hiring requirements, including any problems encountered with contractors and
+subcontractors;
+The designation of a senior official from the EMPLOYER who will be responsible
+forimplementingthehiring andreportingrequirements;
+10.
+Descriptions of the health and retirement benefits that will be provided to DC
+residentsworking on theContract or Project;
+ul. Astrategy to ensure that DC residents who work on the Contract or Project receive
+‘ongoingemployment and training opportunities after they complete work on thejob
+for which they were initially hired and a review of past practices in continuing to
+employDCresidents from one Contract orProjecttothe next;
+. A strategy to hire graduates of District of Columbia Public Schools, District of
+Columbia Public Charter Schools, and community-based job training providers, and
+hard-to-employDC residents; and
+13. A disclosure ofpast compliance with the Workforce Act and the Davis-Bacon Act,
+Pag4eof11 FistSourceEmploymentAgreement.RevisedFebruary15,2018,
+
+where applicable, and the EMPLOYER'S general DC resident hiring practices on
+projectsorcontracts completed within the last2 years.
+P. Tier Subcontractor means anycontractor selected by the primary subcontractor toperform
+portion(s)orallwork related tothetradeor occupationarea(s) on a contractorproject subject
+to thisFirst Source Agreement.
+‘Washington Metropolitan Statistical Area means the District ofColumbia; Virginia Cities
+of Alexandria, Fairfax, Falls Church, Fredericksburg, Manassas, and Manassas Park; the
+Counties of Arlington, Clarke, Fairfax, Fauquier, Loudon, Prince William,
+Spotsylvania, Stafford, and Warren; the Maryland Counties of Calvert, Charles,
+Frederick, Montgomery, and PrinceGeorges; and the West VirginiaCountyofJefferson.
+Workforce Intermediary Pilot Program means the intermediary between employers and
+training providers to provide employers with qualified DC residentjob applicants. See DC
+Official Code § 2-219.04b.
+I. GENERAL TERMS
+A. ‘Subjectto the termsand conditions set forth herein, DOES will receive the Agreement from
+the Contracting Agency no less than seven (7)calendardays in advance ofthe Contract start
+date. No work associatedwith the relevant Contract can begin until the Agreement has been
+acceptedbyDOES.
+The EMPLOYERshallrequireallcontract Employerswith contracts orsubcontracts,undera
+contract receiving government assistance or benefits valued at $300,000 or more, to enter
+intoan Agreement with DOES.
+DOES will provide recruitment, referral, andplacementservices tothe EMPLOYER, subject
+to thelimitations inthisAgreement.
+Agreement will take affect once beneficiary/Employer been awarded a contract and has
+started work on the governmentassisted contract and no work can begin priorto execution of
+the Agreement and will be fully effective through the duration, any extension or
+modifications ofthe contract and until such as construction is complete and a certificate of
+‘occupancy is issued.
+If an EMPLOYER began work prior to the execution of a First Source Employment
+‘Agreement, the EMPLOYER shall cease work on the contract and signa revised FirstSource
+Employment Agreement to be bound by the applicable FirstSource EmploymentAgreement
+requirements, retroactively, from the start ofwork throughoutthe duration ofthecontract.
+DOES and the EMPLOYER agree that, for purposes of this Agreement, new hires andjobs
+created for the Contract (both union and nonunion) include all of EMPLOYER'S job
+openings and vacancies in the Washington Metropolitan Statistical Area created for the
+Contract as a result of internal promotions, terminations, and expansions of the
+EMPLOYER'S workforce.
+‘ThisAgreementincludesapprenticesasdefined in D.C. Official Code §§ 32-1401-1431.
+DOES will make every effort to work within the terms of all collective bargaining
+agreements to which the EMPLOYER is a party. The EMPLOYER will provide DOES with
+written documentationthatthe EMPLOYER has provided therepresentativeofanycollective
+bargaining unit involved with this Contract a copy of this Agreement and has requested
+comments or objections. If the representative has any comments or objections, the
+Page Sof1] FsSourceEmploymentAgreement,Rese Fbray 15,2018
+
+EMPLOYER willpromptly providethem to DOES.
+EMPLOYER with a contract with the District of Columbia government to perform
+construction, renovation work, or information technology work with a single contract, or
+cumulative contracts, of at least $500,000, within a 12-month period will be required to
+register an apprenticeship program with the District of Columbia Apprenticeship Council as.
+requbyiDrCCeodde 32-1431.
+If, during the term of this Agreement, the EMPLOYER should transfer possession ofall or a
+portion of its business concerns affectedby this Agreement to any other party by lease, sale,
+assignment, merger, or otherwise this First Source Agreement shall remain in full force and
+effect and transferee shall remain subject to all provisions herein. In addition, the
+EMPLOYER as a conditionoftransfershall:
+1. Notify the party taking possession of the existence of this EMPLOYER'S First,
+Source EmploymentAgreement.
+2. Notify DOES within seven (7) business days of the transfer. This notice will
+include the name of the party taking possession and the name and telephone of
+thatparty's representative.
+. The EMPLOYER and DOES may mutually agree to modify this Agreement. Any
+modification shall be in writing, signedby the EMPLOYER and DOES, and attached to the
+original Agreement.
+.. To the extent that this Agreement is in conflict with any federal labor laws or governmental
+regulations, thefederal laws orregulations shallprevail,
+mm.
+TRAINING
+DOES and the EMPLOYER may agree to develop skills training and on-the-job training
+programs as approved by DOES; the training specifications andcost forsuch training will be
+mutually agreed upon by the EMPLOYER and DOES and will be set forth in a separate
+Training Agreement.
+RECRUITMENT
+. The Employer shall complete a Revised Employment Plan that will include the information
+outlinedin Section 1.0.
+. The EMPLOYER shall register and post all job vacancies with the Job Bank Services of
+DOES at www.denetworks.org for a minimum of 10 calendar days. Should Employer need
+assistance posting job vacancies, Employer may contact Job Bank Services at (202) 698-
+6001.
+. The EMPLOYER shall notify DOES ofall newjobs created for the Contract within at least
+seven (7) business days (Monday - Friday) of the EMPLOYER'S identification/creation of
+the newjobs. TheNoticeofNew Job Creation shall include the numberofemployees needed
+by job title, qualifications and specific skills required to perform thejob, hiring date, rate of
+pay, hours of work, duration of employment, and a description ofthe work tobe performed.
+This must be done before usinganyotherreferral source.
+Page6of11 FistSourceEmploymentAgreement,RevisedFebruary 15.2018
+
+D. Job openings to be filled by internal promotion from the EMPLOYER'S current workforce
+shall be reported to DOES for placement and referral, if the job is newly created.
+EMPLOYER shall provideDOES aNotice of New Job Creation thatdetails such promotions
+inaccordancewith Section IV.B.
+. TheEMPLOYERshall submit to DOES, priortocommencingworkonthe Contract, a listof
+current employees that includes the name, Social Security Number, and residency status of
+all current employees, including apprentices, trainees, and laid-off workers who will be
+employed on the Contract. All EMPLOYER information reviewed or gathered, including
+Social SecurityNumbers, as a resultof DOES’ monitoringandenforcement activitieswill be
+held confidential inaccordancewith all District and federal confidentiality and privacy laws
+and usedonly forthepurposes thatit wasreviewed or gathered.
+REFERRAL
+. DOES will screen applicants through carefully planned recruitment and training events and
+provide the EMPLOYER with a list of qualified applicants according to the number of
+‘employees needed byjob title, qualifications and specific skills required to perform thejob,
+hiringdate, rateofpay, hoursofwork, duration ofemployment,anda descriptionofthework
+to be performed as supplied by the EMPLOYER in its Notice ofNew Job Creation set
+forth above in Section IV.B.
+. DOES will notify the EMPLOYERofthe number ofapplicants DOES willrefer, prior tothe
+anticipated hiring dates.
+vi. PLACEMENT
+. The EMPLOYER shall in good faith, use reasonable efforts to select its new hires or
+employees from among the qualified applicants referred by DOES. All hiring decisions are
+made by theEMPLOYER.
+. In the event that DOES is unable to refer qualified applicants meeting the EMPLOYER’S
+establishedqualifications, within seven (7) business days (Monday - Friday) from the date of
+notification from the EMPLOYER, the EMPLOYER will be free to directly fill remaining
+positions for which no qualified applicants have been referred. However, EMPLOYER shall
+still be required to meet the First Source hiring requirements for all newjobs created by the
+Contract.
+". After the EMPLOYER has selected its employees, DOES is not responsible for the
+employees' actions and the EMPLOYER hereby releases DOES, andthe Government ofthe
+District of Columbia, the District of Columbia Municipal Corporation, and the officers and
+employeesoftheDistrictofColumbia from any liability foremployees’actions.
+vial. REPORTING REQUIREMENTS:
+. EMPLOYER with Contracts receiving government assistance valued at $300,000 or more
+shall hire DC residentsforatleast51%ofall newjobscreated by thecontract and35%ofall
+apprenticeship hours worked in connection with the Contract shall be worked by DC
+residents registered in programs approved by the District of Columbia Apprenticeship
+Council.
+. EMPLOYER shall registerin the First Source Online Registration andReporting System for
+electronicsubmissionofall monthlyContract Compliance data, payroll records andanyother
+Page 7of11 FestSourceEmploymentAgreementReedFebruary 152018
+
+documentsrequiredby DOES forreportingandmonitoring.
+C. EMPLOYER shall submit to the Department of Employment Services each month from the
+start of the contract a hiring compliance report for the contract that includes the following
+ContractCompliancedata:
+‘Numberofnewjob openings created/available;
+Numberofnewjobopenings listedwith DOES, or anyotherDistrictAgency;
+NumberofDCresidentshiredfornewjobs;
+Numberofemployeestransferred to the Contract;
+NumberofDC residentstransferredtothe Contract;
+Direct or indirectlaborcostassociated with theContract;
+Each employee’s name,job title, Social Security Number, hire date, residence,
+andreferralsource;
+8. Numberof apprenticeship hoursworked;
+9. Numberofapprenticeship hoursworked by DC residents; and
+10. Workforce statistics throughouttheentire Contract tenure.
+eneawoA
+D. Monthly, EMPLOYER must electronically submit the Contract Compliance data to DOES.
+EMPLOYERis alsorequiredto make payrolland employment records availabletoDOES as
+a partofcompliance monitoring, upon request.
+FINALREPORT AND GOOD FAITH EFFORTS
+‘A. With the submission of the final request for payment from the Contracting Agency,
+theEMPLOYERshall:
+1, Document in a report to DOES its compliance with the hiring percentage
+requirements forall newjobs created by the Contract andthe percentages ofDC
+residents employed inall JobClassifications, foreach areaoftheContract; or
+2. Submit to DOES a request fora waiver ofthe hiringpercentage requirementsfor
+all-new jobs created by the Contract that will include the following
+documentation:
+a, Documentation supporting EMPLOYER’Sgood faithefforttocomply;
+b._ Referrals providedby DOES andotherreferralsources;and
+¢, Advertisement ofjobopenings listed with DOESandotherreferralsources.
+B. DOES may waive the hiring percentage requirements for all new jobs created by the
+Contract, and/or the required percentages ofDC residents in all JobClassifications areas on
+the Contract,ifDOES findsthat:
+1. DOES certified that Beneficiary or EMPLOYER demonstrated a good faith effort to
+comply,as set forth inSection VIII.C.; or
+2. EMPLOYER is located outside the Washington Metropolitan Statistical Areaand none
+ofthe contractwork is performed inside theWashington Metropolitan Statistical Area;
+or
+3. Thebeneficiarypublished eachjob openingor part-time work needed fo7rcalendardays in
+a District newspaperof city-wide circulation;and
+Page 8of 11 F¥stSourceEmploymentAgreement,ReedFebruary 18,2018
+
+4, DOES certified that thereare insufficient numbers ofDC residents in the labor market,
+possessing the skills required by the EMPLOYER forthe positions created as a result
+ofthe Contract.
+5. EMPLOYER entered into a special workforce development training or placement
+arrangement with DOES orwith the District ofColumbiaWorkforce Intermediary.
+C. DOES shall consider documentation of the following when making a determination of a
+g00d-faith efforttocomply:
+1. DOES has certified that there are insufficient number of District residents in the labor
+market possessingtheskills requiredbytheEmployer forthe positions createdas a result
+ofthe Project;
+2. Whether the EMPLOYER posted thejobs on the DOESjob website for a minimum
+often (10)calendardays;
+3. Whether the EMPLOYER advertised each job opening in a District newspaper with
+city-widecirculation foraminimumofseven(7)calendardays;
+4. WhethertheEMPLOYER advertisedeachjobopening inspecial interestpublications
+andon specialinterest media fora minimumofseven (7)calendardays;
+5. Whetherthe EMPLOYERhosted informational/recruitingorhiringfairs;
+6. Whether the EMPLOYER contacted churches, unions, and/or additional Workforce
+Development Organizations;
+7. Whetherthe EMPLOYER interviewed employablecandidates;
+8. Whether the EMPLOYER created or participated in a workforce development
+program approvedby DOES;
+9. Whether the EMPLOYER created or participated in a workforce development
+program approved by theDistrict ofColumbia Workforce Intermediary;
+10. Whether the EMPLOYERsubstantially complied withtherelevantmonthly reporting,
+requirementssetforth in this section;
+11, Whether the EMPLOYER has submitted and substantially complied with its most
+recent employmentplanthat hasbeen approvedbyDOES;and
+12. Anyadditionaldocumentedefforts.
+Ix, MONITORING
+‘A. DOES is the District agency authorized to monitor and enforce the requirements of the
+Workforce Intermediary Establishment and Reform of the First Source Amendment Act of
+2011 (D.C. Official Code §§ 2-219.01 ~ 2.219.), and relevant provisions of the
+ApprenticeshipRequirements AmendmentActof2004 (D.C. Official Code § 2-219.03 and §
+32-1431). As a part of monitoring and enforcement, DOES may require and EMPLOYER
+shall grantaccess toContract sites, employees,anddocuments.
+Page9of11 FistSourceEmploymentAgreement,RevisedFebruary15,2018
+
+B. EMPLOYER'S noncompliance with the provisions of this Agreement may result in the
+imposition ofpenalties.
+C. All EMPLOYER information reviewed or gathered, including Social Security Numbers, as a
+result of DOES’ monitoring and enforcement activi ti es will be held confidential in
+accordancewith all District and federal confidentiality andprivacy laws andused only forthe
+purposes thatitwas reviewedorgathered.
+D. DOESshall monitorall Contracts asauthorizedby law. DOESwill:
+1, Review all contract controls to determine ifthe Beneficiary or EMPLOYER, including
+any Contractors or Subcontractors, are subject to the Workforce Intermediary
+EstablishmentandReformoftheFirstSource AmendmentAct of2011.
+2. Notify stakeholders and company officials and establish meetings to provide technical
+assistanceinvolvingtheFirstSource process.
+3. Makeregularsite visits todetermine ifthe EMPLOYERor Subcontractor’s workforce is
+inconcurrence with thesubmittedAgreement andMonthly ComplianceReports.
+4, Inspect and copy payroll, personnel records and any other records or information
+necessary to ensure the required workforce utilization is in compliance with the First
+Source Law.
+5. Conductdesk reviewsofMonthly ComplianceReports.
+6. Educate EMPLOYERS about additional services offered by DOES, such as On-the-Job
+Training programs and tax incentives for EMPLOYERS who hire from certain
+categories.
+7. Monitor and complete statistical reports that identify the overall Contract, Employer,
+contractor,andsubcontractors’ hiring.
+8. Provide formal notification of non-compliance with the required hiring or any alleged
+breachoftheFirstSource Law toallcontractingagencies,andstakeholders.
+PENALTIES
+A. Willful Breach of the Agreement by the EMPLOYER, failure to submit the contract
+compliance reports, deliberate submission of falsified data may result in DOES imposing a
+fineof5%ofthe total amount ofthe direct and indirect laborcostsofthecontract, inaddition
+to other penalties provided by law. Failure to meet the requiredhiring requirements or failure
+to receive good faith waiver may result in the Department ofEmployment Services
+imposing a penalty equal to 1/8 of 1% of-thetotalamount ofthe direct and indirect labor
+costsofthecontract foreach percentageby whichthe beneficiaryfailto meet the hiring
+requirements.
+B. EMPLOYERS who havebeen foundin violation two(2) timesormoreover a 10-year period
+maybe debarred and/ordeemed ineligibleforconsideration forContracts fora periodof five
+(5)years.
+C. Appeals ofviolationsorfineswill be filedwith theContractAppeals Board.
+Page 10of 11 FistSourceEmploymentAgreement,RevisedFebruary15,2018,
+
+I hereby certify that I have the authority to bind the EMPLOYERto this Agreement from the start of
+workontheContractthroughoutthedurationofthe Contract.
+[aera eco cpee 12/20/2024
+EMPLOYERSeniorOfficial(Print) Date
+Dario J. Bertocchi seman
+lokavansoro
+EMPLOYER SeniorOfficial (Signature)
+CDW Government LLC
+‘NameofCompany
+230 N. Milwaukee Ave
+Vernon Hills, IL 60061
+Address
+Telephone
+Email
+7 DAN Kin Iff3looas:
+‘Signature DepartmentofEmployment Setvice late
+Pa11gofe11 FiatSourceEmploymentAgreement,RevisedFebruary15,2018
+
++ * * *
+**
+GOVERNMENTOFTHEDISTRICTOFCOLUMBIA =
+REVISED EMPLOYMENT PLAN
+L REVISED FIRSTSOURCEEMPLOYMENTPLAN
+GOVERNMENT-ASSISTEDPROJECT/CONTRACTINFORMATION
+DISTRICT CONTRACTINGAGENCY: UNIVERoSFITTHYEDISOTFRCOILUCMBTIA
+CONTRACTING OFFICER: MARYANNHARRS
+TELEPHONE NUMBER:
+TOTALCONTRACTAMOUNT: $.20054200
+EMPLOYERCONTRACTAMOUNT:
+PROJECT NAME: rotcrensooy-surrone
+PROJECT ADDRESS: NA
+CITY:WA __ STATE:_ZIPCODE: NA
+PROJECTDESCRIPTIONOFWORK:rsttanenarowtaripunsdasrronpeniaarh s
+‘Panneta beWoesProgenSeti stanathepabenpaces a econeprecn Tlemiencna
+PROJECT STARTDATE:vovexcunonorcovmacrPROJECTEND DATE: SEPTEMBER30,2028
+EMPLOYER STARTDATE: "oremorcormerEMPLOYER END DATE: SEPTEMBE0R,
+EM PLOYERINFORMATION
+EMPLOYERNAME: OWGovernmeLnct
+COMPANY NAME: —
+EMPLOYER ADDRESS: 230.MiwaukoeAvo.
+CITY:Vernonis STATE: ZIPCODE: £0061
+‘TELEPHONE NUMBER:(900)8004239_ FEDERAL IDENTIFICATION N¢
+CONTACT PERSON:EtonyThomas
+TYME:-Acconthlenegee
+E-MAIL:sbor@ctwg.com__ TELEPHONENUMBER: 203)
+EMPLOYERDESCRIPTIONOFWORK:.
+GEN ERAL CONTRACTOR WILL MEETTHE HIRING OR HOURS WORKEDPERCENTAGES
+REQUIREMENTS FOR ENTIRE PROJECT (_] ORPEREACH SUBCONTRACT[O_R]
+A. EMPLHOIRIYNGPMROJEECTNIONTS.
+ALLEMPLOYERS:
+Please indicateALLnewposition(s)you willcreateas aresultoftheproject. IfyouWILLNOT
+becreatinganynewemploymentopportunities, pleasecompletetheattachedjustification
+sheetwithan explanation. Attachadditional sheets asneeded.
+#OFJOBS UNIONMEMBERSHIPREQUIRED |PROJECTED
+F/T psr_ _|RANG E NAMELOCAL# HIREDATE
+N/A N ohiring willbedoneas partofthisproject
+
+* aa
+ee GOVERNMENTOFTHEDISTRICTOFCOLUMBIA ee
+REVISED EMPLOYMENT PLAN
+B. JUSTIFICATIONSHEET: Please providea detailedexplanation ofwhythe Employerwill not
+have anynewhireson theproject.
+N/A Please see documents provided by Coastal Cloud, who will be performing the workfor this
+project.
+ThispagetobecompletedbyEmployer oO
+EmployerInitials
+
++ * +
+x *
+a
+GOVERNMENTOFTHE DISTRICTOFCOLUMBIA —
+REVISED EMPLOYMENT PLAN
+L Provide a timetable outliningthe51%HiringofDistrictResidentoverthelife oftheproject
+orcontract andanassociated hiringschedule.
+I, Providedescriptionsofthe skillrequirementsbyjobtitleorposition,includingindustry-
+recognizedcertificationsrequiredforthedifferentpositions.
+Il. Provide a strategy to fill the 51% hiring of District residents requirement, including a
+component on communicating these requirements to contractors and subcontractors and a
+component on potential community outreach partnershipswith the Universityofthe District
+ofColumbia, the Universityofthe District ofColumbia CommunityCollege, the Department
+of Employment Services, Jointly FundedApprenticeship Programs, the District ofColumbia
+Workforce Intermediary, or other government-approved, community-based job training
+providers.
+Thispagetobe completed by Employer
+
++ + + * + +
+GOVERNMENTOFTHEDISTRICTOFCOLUMBIA
+REVISED EMPLOYMENT PLAN
+C. EMPLOYMENTPROJECTIONS(Continued)
+This strategy should include a remediation strategy to ameliorate any problems associated
+with meeting these 51% Hiring of District Resident requirements, including any problems
+encountered withcontractorsandsubcontractors.
+The designation of a senior official from the Employer who will be responsible for
+implementingthehiringandreporting requirements.
+Provide descriptions of the health and retirement benefits that will be provided to District
+vi.
+residents working ontheproject orcontract.
+vil. Provide a strategy to ensure that District residents who work on the project or contract
+receive ongoing employment and training opportunities afterthey complete work on the job
+for which they were initially hired and a review of past practices in continuing to employ
+Districtresidents from oneprojectorcontracttothenext.
+This pageto be completed byEmployer DB
+Employer Initials
+
++ * * *
+xk
+=
+GOVERNMENTOFTHE DISTRICTOFCOLUMBIA =
+REVISED EMPLOYMENT PLAN
+D. EMPLOYMENTPROJECTIONS(continued)
+Vill. Providea strategy to hire graduates of District of Columbia Public Schools, District of
+Columbia Public Charter Schools, community-basedjob training providers, and hard-to-
+employresidents.
+IX. Pleasedisclose past compliance with the FirstSource EmploymentAgreementActof1984 or
+the Workforce Intermediary Establishment and Reform of First Source Amendment Act of
+2011 and the Davis-Bacon Act, where applicable, and the bidderor offeror's general District-
+residenthiringpractices onprojects orcontracts completedwithinthelasttwo (2) years.
+X. Pleasenotethat EMPLOYERS with construction projects mustmakepayroll recordsavailable
+‘upon requestatjob sitestothecontracting Districtof Columbiaagency.
+‘Thispageto be completed by Employer CB
+EmployerInitials
+
+— GOVERNMENTOFTHEDISTRICTOFCOLUMBIA —
+REVISED EMPLOYMENTPLAN
+CURRENTEMPLOYEES: Please list the names, residency status and ward information of all current
+employees, including apprentices, trainees, and transfers from other projects, who will be employed on the
+Project. Attach additional sheetsas needed.
+‘NAMEOFEMPLOYEE. ‘CURRENTDISTRICT
+RESIDENT
+Please Check.
+0
+j
+o
+j
+o
+}
+o
+j
+|
+o
+j
+O
+o
+j
+o
+|
+8
+/
+O
+o
+;
+o
+)
+0
+/
+0
+/
+0
+,
+O
+/
+)
+O
+/
+8
+/
+O
+/
+0
+;
+O
+/
+O
+,
+O
+,
+O
+o
+j
+g
+o
+j
+o
+B
+‘ThispagetobecompletedbyEmployer es
+EmployerInitials
+
+M E M O R A N D U M
+TO: Brian Brooks/UDC
+FROM: Kenneth Saunders, Director
+DATE: January 8, 2025
+SUBJECT: Affirmative Action Program, CDW-G
+CONTRACT: PO-GF-2024-P-0144-BB
+We have reviewed the above-referenced contractor’s EEO Employer Information Report and
+agreement to comply with the requirements of Mayor's Order 85-85, submitted by UDC on
+January 8, 2025. We find the forms are in conformity with the Mayor’s Order.
+If your Agency has any questions, contact OHR at 202-727-4559. ALL QUESTIONS FROM
+THE CONTRACTOR SHOULD BE DIRECTED TO THE APPROPRIATE AGENCY
+REPRESENTATIVE, WHO MAY THEN CONTACT OHR.
+OCP/TC/PO-GF-2024-P-0144-BB
+
+Fiscal Impact Statement
+TO: Board of Trustees
+FROM: Managing Director of Finance
+DATE: December 3, 2024
+SUBJECT: CDW-G/Coastal Cloud Change Order
+Conclusion
+It is concluded that the University of the District of Columbia needs a change order for the
+Customer Relation Management (CRM) Salesforce implementation services with CDW
+Government, LLC (CDW-G) in the amount of $3,274,409.60 which is inclusive of the additional
+services for Phase I and engagement for Phase II. There are sufficient funds in the University’s
+approved FY25-30 capital improvement plan (CIP) budget to cover the cost of the change order.
+Background
+The University of the District of Columbia currently has a capital contract with CDW-G for the
+services noted above. The University is currently in Phase I (Recruitment, Admission, Marketing
+& Communication) of CRM implementation which is slated to conclude late February 2025. The
+current contract expires in June 2025.
+Upon completion of an in-depth discovery process with UDC and the vendor, it was determined
+that four third-party IT applications tools would be required for the successful completion of the
+project. Moreover, additional hours are required to build out our Marketing Cloud instance.
+Under the change order, the vendor would provide an additional 1,160 hours to complete Phase I
+of the project. Also, the contract will include end-user and administrator training and training
+documentation.
+Phase II (Student Experience) of the CRM project will immediately follow in March 2025 and
+proceed through September 2026. The Phase II deliverables focus on the onboarding of our
+students, student services, co-curricular activities, and engagement.
+Fiscal Impact
+The proposed change order for Phase I would begin after its approval and would go through June
+10, 2025. Phase II, which will begin in March 2025 and go through September 30, 2026,
+includes the following engagement expenditures:
+4200 Connecticut Avenue NW, Suite 200-A | Washington, DC 20008 | (202) 274-5380 | www.udc.edu
+
+• FY25: $2,000,000 ($274,409.60 Phase I Change Order/$1,725,590.40 Phase II)
+• FY26: $1,274,409.60
+This request has been reviewed based on the information provided. There are no anticipated
+risks at this time.
+2
+
+BOARD OF TRUSTEES
+UNIVERSITY OF THE DISTRICT OF COLUMBIA
+UDC RESOLUTION NO. 2024 – 54
+SUBJECT: APPROVAL OF CHANGE ORDER NO. 1 TO THE CONTRACT FOR
+CUSTOMER RELATION MANAGEMENT IMPLEMENTATION
+SERVICES BETWEEN CDW GOVERNMENT, LLC AND THE BOARD
+OF TRUSTEES OF THE UNIVERSITY OF THE DISTRICT OF
+COLUMBIA (“CONTRACT”)
+WHEREAS, in accordance with the D.C. Official Code § 38-1202.01(a)(8), the Board of Trustees
+(“Board”) is charged with the responsibility of governing the University of the District of
+Columbia (“University”) and possesses all of the powers necessary or convenient to make
+contracts and procure and contract for goods and services; and
+WHEREAS, pursuant to 8B DCMR § 3000.4, specific approval of the President is required for
+contracts totaling two hundred fifty thousand dollars ($250,000) or more; and
+WHEREAS, pursuant to 8B DCMR § 205.4(e), specific authorization of the Board is required for
+any commitment greater than one million dollars ($1,000,000.00) in a single fiscal year for certain
+University procurements; and
+WHEREAS, in accordance with the D.C. Official Code § 1-204.51(b)(1), approval of the Council
+of the District of Columbia (“Council”) is required for all contracts involving expenditure in excess
+of one million dollars ($1,000,000) during a twelve (12)-month period; and
+WHEREAS, in accordance with the D.C. Official Code § 1-204.51(c)(3), Council approval is
+required for multiyear contracts; and
+WHEREAS, on June 11, 2024, the University executed the Contract with CDW Government,
+LLC (“Contractor”) to provide Customer Relation Management (CRM) implementation services
+for the University’s recruitment and admission of students, marketing and communications
+(“Project”) in the amount of nine hundred twenty-six thousand, one hundred thirty-two dollars
+and forty cents ($926,132.40); and
+WHEREAS, the University desires to add additional services to the initial scope of work (Phase
+I) and add services for a Phase II of the Project, all services related to the initial scope of work,
+which will be completed on or before September 30, 2026; and
+WHEREAS, the additional services for Phase I and services for Phase II of the Project will
+increase the cost of the Contract by three million, two hundred seventy-four thousand, four
+hundred nine dollars and sixty cents ($3,274,409.60), for a total amount not to exceed four
+million, two hundred thousand, five hundred forty-two dollars (4,200,542.00); and
+WHEREAS, the University desires to modify the existing contract and enter into a multi-year
+agreement with the Contractor; and
+WHEREAS, the President has approved the Contract modification; and
+CDW Government, LLC – Change Order No. 1
+
+BOARD OF TRUSTEES
+UNIVERSITY OF THE DISTRICT OF COLUMBIA
+UDC RESOLUTION NO. 2024 – 54
+WHEREAS, the Board has reviewed the terms of the Contract modification, as well as all
+necessary certifications from the University administration and is satisfied that the proposed
+Change Order No. 1 to the Contract represents the proper culmination of the University’s due
+diligence process and represents the best value to the University.
+NOW THEREFORE BE IT RESOLVED, that, subject to the required approval of the Council
+the Board approves Change Order No. 1 to the Contract and each the President and the University’s
+Chief Contracting Officer are authorized to execute Change Order No. 1 to the Contract in
+substantially the form attached hereto as Attachment A.
+BE IT FURTHER RESOLVED, that as soon as practicable, the President is hereby directed to
+transmit the Contract to the Council for its approval.
+Submitted by the Operations Committee: December 3, 2024
+Approved by the Board of Trustees: December 3, 2024
+__________________________________
+Christopher D. Bell
+Chairperson of the Board
+CDW Government, LLC – Change Order No. 1

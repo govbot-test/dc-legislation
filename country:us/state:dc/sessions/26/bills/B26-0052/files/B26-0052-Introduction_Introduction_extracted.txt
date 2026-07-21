@@ -1,0 +1,376 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 _________________________
+2 Councilmember Kenyan R. McDuffie Chairman Phil Mendelson
+3
+4
+5
+6 Councilmember Brianne K. Nadeau Councilmember Robert C. White, Jr.
+7
+8
+9
+10 Councilmember Charles Allen Councilmember Christina Henderson
+11
+12
+13
+14 Councilmember Janeese Lewis George
+15
+16
+17 A BILL
+18
+19
+20
+21 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+22
+23
+24
+25
+26 To establish a Group Violence Intervention Initiative and an organizational structure to guide the
+27 efforts of the Initiative; to allow the Metropolitan Police Department to hire civilian
+28 personnel to respond to and investigate certain property crimes and cold cases; to require
+29 the Sentencing Commission to publish a biannual report on repeat violent offenders in the
+30 District; to authorize the Mayor to take corrective actions to remediate criminal blight at
+31 properties in the District; and to require the Director of the Department of Healthcare
+32 Finance to submit an amendment to the Medicaid state plan to make community violence
+33 prevention services available to Medicaid beneficiaries.
+34
+35 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+36 act may be cited as the “Evidence-Based Gun Violence Reduction and Prevention Act of 2025”.
+37 TABLE OF CONTENTS
+38 TITLE I. GROUP VIOLENCE INTERVENTION INITIATIVE........................................... 2
+39 TITLE II. CIVILIAN INVESTIGATORS AT THE METROPOLITAN POLICE
+40 DEPARTMENT............................................................................................................................. 4
+
+41 TITLE III. BIANNUAL REPEAT VIOLENT OFFENDER REPORT................................... 6
+42 TITLE IV. ADDRESSING CRIMINAL BLIGHT IN THE DISTRICT.................................. 8
+43 TITLE V. MEDICAID FUNDING FOR COMMUNITY VIOLENCE PREVENTION
+44 SERVICES................................................................................................................................... 11
+45 TITLE VI. FISCAL IMPACT STATEMENT; EFFECTIVE DATE..................................... 14
+46 TITLE I. GROUP VIOLENCE INTERVENTION INITIATIVE.
+47 Sec. 101. Establishment of group violence intervention initiative.
+48 There is established the District of Columbia Group Violence Intervention Initiative
+49 (“Initiative”). The purpose of the Initiative is to address gun violence in the District by focusing
+50 law enforcement activities on individuals and groups committing acts of gun violence,
+51 coordinating enforcement activities across law enforcement agencies, providing robust social
+52 services and supports to individuals willing to cease criminal activity, and proactively engaging
+53 residents in communities impacted by gun violence.
+54 Sec. 102. Group violence intervention governing board; strategy and implementation
+55 team.
+56 (a) To implement the Initiative, there is established a:
+57 (1) Group Violence Intervention Initiative Governing Board (“Governing Board”).
+58 The Governing Board shall have final decision-making authority and provide resources to the
+59 strategy and implementation team as deemed necessary. The Governing Board shall include:
+60 (A) The Mayor;
+61 (B) The City Administrator; and
+62 (C) The Chair of the Committee on Judiciary and Public Safety.
+2
+
+63 (2) Strategy and Implementation Team, which shall report to the Governing Board
+64 on a regular basis to provide progress updates and request resources as needed. The Strategy and
+65 Implementation Team shall handle the daily operations of the Initiative, including making key
+66 decisions, developing strategies, securing resources, and continuously monitoring results.
+67 (A) The Strategy and Implementation Team shall be composed of 12
+68 members. Members of the Strategy and Implementation Team shall include:
+69 (i) The Director of the Office of Gun Violence Prevention, who
+70 shall serve as the Executive Director;
+71 (ii) The Chief of the Metropolitan Police Department, who shall
+72 serve as co-chair;
+73 (iii) The Executive Director of the Office of Neighborhood Safety
+74 and Engagement;
+75 (iv) The United States Attorney for the District of Columbia;
+76 (v) The Attorney General for the District of Columbia;
+77 (vi) The Director of the Court Services and Offender Supervision
+78 Agency;
+79 (vii) The Director of the Pretrial Services Agency;
+80 (viii) Two lieutenants from the Metropolitan Police Department,
+81 selected by the Chief;
+82 (ix) Two representatives from community-based organizations with
+83 a demonstrated history of providing social services and supports to individuals who are at high
+84 risk of engaging in gun violence;
+3
+
+85 (x) A researcher with expertise in law enforcement policies and
+86 practices whose work has been published in peer-reviewed journals.
+87 Sec. 103. Implementation plan.
+88 (a) The Strategy and Implementation Team shall develop an implementation plan for the
+89 initiative. The implementation plan shall, at a minimum, include:
+90 (1) How the Initiative will identify individuals and groups responsible for or at
+91 high risk of engaging in gun violence;
+92 (2) Key stakeholders, including community members and service providers, who
+93 will be engaged as part of the initiative, including proposed engagement strategies;
+94 (3) Protocols for conducting call-ins of individuals who may be subject to focused
+95 enforcement efforts;
+96 (4) How the needs of individuals identified by the Strategy and Implementation
+97 Team pursuant to paragraph (1) will be assessed and what services will be offered to these
+98 individuals;
+99 (5) Proposed performance measures and data that will be utilized to track the
+100 outcomes of the initiative; and
+101 (6) Resources necessary to effectively implement the Initiative.
+102 (b) The implementation plan shall be submitted to the Governing Board for approval
+103 within six months of the effective date of this title.
+104 Sec. 104. Reporting.
+105 (a) On a quarterly basis, the Mayor shall provide a report to the Council that contains data
+106 and analysis of performance measures developed by the Strategy and Implementation Team,
+107 along with any other information deemed relevant.
+4
+
+108 TITLE II. CIVILIAN INVESTIGATORS AT THE METROPOLITAN POLICE
+109 DEPARTMENT.
+110 Sec. 201. Civilian investigators.
+111 (a) The Metropolitan Police Department is hereby authorized to employ and allow
+112 civilian personnel to investigate the following types of incidents when there is no expected
+113 suspect contact:
+114 (1) Commercial burglary;
+115 (2) Residential burglary;
+116 (3) Motor vehicle theft;
+117 (4) Theft;
+118 (5) Forgery;
+119 (6) Fraud; and
+120 (7) Other property crime investigations.
+121 (b) In addition to the incidents listed in subsection (a) of this section, civilian personnel
+122 may be employed to investigate cold cases.
+123 (c) All of the following shall apply to investigators authorized pursuant to subsection (a)
+124 of this section:
+125 (1) The Metropolitan Police Department shall establish minimum standards for
+126 employment as an investigator;
+127 (2) Each investigator shall attend a training program designed by the Metropolitan
+128 Police Department;
+129 (3) Each investigator shall be issued credentials by the Metropolitan Police
+130 Department identifying the individual as a civilian investigator;
+5
+
+131 (4) Investigators shall be issued a uniform that is substantially different in color
+132 and style from that of a sworn officer of the Metropolitan Police Department. The uniform shall
+133 have patches that clearly identify the individual as a civilian investigator, and the individual’s
+134 name shall be clearly displayed on the uniform. Investigators shall not be issued badges;
+135 (5) Any vehicles issued to or used by an investigator shall not bear markings or
+136 symbols that identify the vehicle as a police cruiser or patrol vehicle. The vehicle may have
+137 emergency equipment and lights installed but shall not use blue lights in any manner or form;
+138 (6) Investigators shall not be issued a firearm; and
+139 (7) Investigators shall have no authority to arrest.
+140 (c) The employment or use of investigators as authorized pursuant to subsection (a) of
+141 this section shall not supplant or replace existing sworn law enforcement personnel or otherwise
+142 cause a reduction in the number of sworn law enforcement officers employed by the
+143 Metropolitan Police Department.
+144 TITLE III. BIANNUAL REPEAT VIOLENT OFFENDER REPORT.
+145 Sec. 301. Biannual repeat offender report from the Sentencing Commission.
+146 (a) On January 1, 2025 and every six months thereafter, the Sentencing Commission of
+147 the District of Columbia shall publish a repeat violent offender report that contains the following:
+148 (1) A de-identified list of repeat violent offenders arrested in the prior year. The
+149 list shall include:
+150 (A) The date of the arrest;
+151 (B) The top charge against the offender;
+152 (C) Whether the arrest was papered;
+153 (D) For arrests that were papered, the current disposition of the case;
+6
+
+154 (E) The number of prior arrests and convictions for crimes of violence
+155 within the last five years, and the specific charges the individual was arrested and/or convicted of
+156 for each arrest and conviction;
+157 (2) An analysis that shows:
+158 (A) The number and percentage of arrests and cases filed with the
+159 Superior Court in the prior year involving repeat violent offenders; and
+160 (B) The disposition of cases filed with the Superior Court in the year
+161 before the prior year; and
+162 (3) Any other information the Commission deems relevant or necessary.
+163 (b) The report required pursuant to subsection (a) of this section shall be publicly
+164 accessible through the Commission’s website.
+165 (c) For purposes of this section, the term:
+166 (1) “Crime of violence” means the following crimes when committed with a
+167 firearm:
+168 (A) Aggravated assault;
+169 (B) Assault with a dangerous weapon;
+170 (C) Carjacking,
+171 (D) Assault with intent to kill;
+172 (E) Kidnapping;
+173 (F) Manslaughter;
+174 (G) Murder; or
+175 (H) Robbery.
+7
+
+176 (2) “Repeat violent offender” means a person who has been arrested for a crime of
+177 violence, as defined in paragraph (1) of this subsection, two or more times in the previous five
+178 years.
+179 TITLE IV. ADDRESSING CRIMINAL BLIGHT IN THE DISTRICT.
+180 Sec. 401. Definitions.
+181 For purposes of this title, the term:
+182 (a) “Controlled substance” shall have the same meaning as § 48–901.02(4).
+183 (b) “Corrective action” means:
+184 (1) Taking specific actions with respect to the buildings or structures on the
+185 property that are reasonably expected to abate criminal blight on such real property, including the
+186 removal, repair, or the securing of any building, wall, structure, or lot; or
+187 (2) Changing specific policies, practices, or procedures of the real property owner
+188 that are reasonably expected to abate criminal blight on real property.
+189 (c) “Criminal blight” means a condition existing on real property that endangers the
+190 public health or safety of residents of the city and is caused by:
+191 (1) The regular presence of, or use of property by, persons illegally possessing,
+192 manufacturing, or distributing controlled substances; or
+193 (2) Repeated discharging of a firearm within any building, dwelling, structure, or
+194 lot.
+195 (d) “Owner” means the record owner of the real property.
+196 (e) “Real property” means real property as defined under § 47-802(1).
+197 Sec. 402. Corrective action of criminal blight.
+8
+
+198 (a)(1) Whenever the owner of any real property in the District of Columbia shall fail or
+199 refuse, after the service of reasonable notice pursuant to subsection (b), to correct criminal blight
+200 as identified by the Mayor, the Mayor is authorized to cause such condition to be corrected,
+201 assess the fair market value of the correction of the condition or the actual cost of the correction,
+202 whichever is higher, and all expenses incident thereto as a tax against the property on which the
+203 criminal blight existed or arose.
+204 (2) The Mayor may utilize funds from § 42–3131.01(b)(1)(A) for corrective
+205 actions made pursuant to paragraph (1) of this subsection.
+206 (b) The Mayor shall send a notice to the owner of the real property which:
+207 (1) Describes the nature of the criminal blight at the real property;
+208 (2) Describes the corrective actions that the owner is being requested to take to
+209 remediate criminal blight;
+210 (3) Advises that the owner has 30 days from the date of receipt of the notice to
+211 undertake corrective action to abate the criminal blight;
+212 (4) States that failure to take corrective actions pursuant to the notice may result
+213 in the District commencing corrective actions, the costs of which will be assessed as a tax against
+214 the property.
+215 (c) The Mayor may provide an owner with an additional 30 days to comply with the
+216 notice issued in subsection (b) of this section if:
+217 (1) The owner demonstrates that he or she is making a good-faith effort to
+218 comply; and
+219 (2) The owner provides sufficient evidence that the inability to comply within 30
+220 days of receipt of the notice is outside of his or her control.
+9
+
+221 (d) A copy of the notice sent to the owner pursuant to subsection (b) of this section shall
+222 be provided to the Advisory Neighborhood Commission in which the property is located.
+223 (e) If an owner takes timely corrective action as prescribed in the notice in subsection (b)
+224 of this section, the Mayor shall deem the criminal blight abated and shall promptly provide
+225 written notice to the owner that the criminal blight is abated.
+226 (f) If an owner, in good faith, takes corrective action, and despite having taken such
+227 action, the specific criminal blight identified in the notice provided pursuant to subsection (b) of
+228 this section persists, the owner shall be deemed in compliance.
+229 Sec. 403. Prioritization of properties.
+230 (a) The Mayor shall develop a list of properties at which criminal blight exists. The list
+231 shall be used to prioritize properties for the purposes of sending notices and commencing
+232 corrective action pursuant to section 402 of this title.
+233 (b) The list developed pursuant to subsection (a) of this section shall prioritize properties
+234 according to the severity and frequency of criminal blight at the real property. The nature and
+235 severity of criminal blight may be measured by:
+236 (1) The number of calls for service to police;
+237 (2) Law enforcement intelligence information; or
+238 (3) The number of arrests of individuals occupying or present at the property.
+239 Sec. 404. Reporting of corrective actions.
+240 On an annual basis, the Mayor shall provide the Council of the District of Columbia and
+241 the Attorney General of the District of Columbia with a report that contains the following
+242 information:
+10
+
+243 (1) A list of properties at which the Mayor identified criminal blight and provided
+244 notice to the owner;
+245 (2) A brief description of the criminal blight at each property in the list;
+246 (3) A brief description of the corrective actions requested by the Mayor at each
+247 property on the list;
+248 (4) Whether the owner of the real property took timely corrective action; and
+249 (5) If the owner did not take timely corrective action, the date on which the
+250 District commenced corrective action and the cost of that corrective action.
+251 Sec. 405. Availability of other remedies.
+252 The provisions of this title shall not limit the availability of other remedies under the law.
+253 TITLE V. MEDICAID FUNDING FOR COMMUNITY VIOLENCE PREVENTION
+254 SERVICES.
+255 Sec. 501. Definitions.
+256 For purposes of this title, the term:
+257 (a) “Community violence” means intentional acts of interpersonal violence committed by
+258 individuals who are not intimately related to the victim.
+259 (b) “Community violence prevention services” means evidence-informed, trauma-
+260 informed, culturally responsive, supportive, and non-psychotherapeutic services provided by a
+261 qualified violence prevention professional for the purpose of promoting improved health
+262 outcomes, trauma recovery, and positive behavioral change, preventing injury recidivism and
+263 reducing the likelihood that individuals who are victims of violence will commit or promote
+264 violence themselves. “Violence prevention services” may include the provision of peer support
+265 and counseling, mentorship, conflict mediation, crisis intervention, targeted case management,
+11
+
+266 referrals to licensed healthcare professionals or service providers, community and school support
+267 services, and patient education or screening services to victims of community violence.
+268 (c) “Director” means the Director of the Department of Healthcare Finance.
+269 (d) “Prevention professional” means an individual who works in programs aimed to
+270 address specific patient needs.
+271 (e) “Qualified violence prevention professional” means a prevention professional who
+272 meets the qualifications and conditions of section 503 of this title.
+273 Sec. 502. Medicaid plan amendment.
+274 (a) Within 60 days of the effective date of this title, the Director shall apply to the federal
+275 government for approval of an amendment to the Medicaid state plan to make community
+276 violence prevention services available, to the extent permitted by federal law, to any Medicaid
+277 beneficiary who has:
+278 (1) Been exposed to community violence;
+279 (2) A personal history of injury sustained as a result of an act of community
+280 violence; and
+281 (3) Been referred by a licensed health care provider or social services provider to
+282 receive community violence prevention services from a qualified violence prevention
+283 professional after such provider determines such beneficiary to be at elevated risk of a violent
+284 injury or retaliation resulting from another act of community violence.
+285 (b) The Director shall seek any federal approvals necessary to implement this title,
+286 including any federal waivers by the federal Centers for Medicare and Medicaid Services.
+12
+
+287 (c) Once federal approval has been applied for pursuant to subsection (a) of this section,
+288 the Director shall, in consultation with violence intervention organizations and community-based
+289 and hospital-based violence prevention programs:
+290 (1) Issue guidance on the use of community violence prevention services for
+291 beneficiaries who access these services under the medical assistance program; and
+292 (2) Determine the maximum allowable rates for community violence prevention
+293 services based on the medical assistance program fee-for-service outpatient rates for the same or
+294 similar services or any other data deemed reliable and relevant by the Director.
+295 Sec. 503. Qualified violence prevention professionals.
+296 (a) Within 90 days of the effective date of this title, the Department of Health shall, in
+297 consultation with the Director of the Office of Gun Violence Prevention, approve at least one
+298 governmental or nongovernmental accrediting body with expertise in community violence
+299 prevention services to review and approve training and certification programs for qualified
+300 violence prevention professionals. The accrediting body shall approve programs that such body
+301 determines, in its discretion, will adequately prepare individuals to provide community violence
+302 prevention services to individuals who are victims of community violence. Such programs shall
+303 include at least 35 hours of training and address the following:
+304 (1) The effects of trauma and violence;
+305 (2) The basics of trauma-informed care;
+306 (3) Community violence prevention strategies, including conflict mediation and
+307 retaliation prevention related to community violence, case management, and advocacy practices;
+308 and
+13
+
+309 (4) Patient privacy and the federal Health Insurance Portability and Accountability
+310 Act of 1996 (P.L. 104-191).
+311 (b) Any prevention professional seeking certification as a qualified violence prevention
+312 professional shall:
+313 (1) Complete at least six months of full-time equivalent experience in providing
+314 community violence prevention services or youth development services through employment,
+315 volunteer work, or as part of an internship experience;
+316 (2) Complete the training and certification program approved by the Department
+317 of Health pursuant to subsection (a) of this section for qualified violence prevention
+318 professionals;
+319 (3) Complete annually at least four of continuing education by a provider
+320 approved by the Department of Health in the field of community violence prevention services;
+321 and
+322 (4) Satisfy any other requirements established by the Department of Health for
+323 certification as a qualified violence prevention professional.
+324 (c) Any entity that employs or contracts with a qualified violence prevention professional
+325 to provide community violence prevention services shall:
+326 (1) Maintain documentation that the qualified violence prevention professional
+327 has met all of the qualifications and conditions of subsection (b) of this section; and
+328 (2) Ensure that the qualified violence prevention professional is providing
+329 services in compliance with any applicable standards of care, rules, regulations, and laws.
+330 TITLE VI. FISCAL IMPACT STATEMENT; EFFECTIVE DATE.
+331 Sec. 601. Fiscal impact statement.
+14
+
+332 The Council adopts the fiscal impact statement in the committee report as the fiscal
+333 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+334 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+335 Sec. 602. Effective date.
+336 This act shall take effect following approval by the Mayor (or in the event of veto by the
+337 Mayor, action by the Council to override the veto), a 60-day period of congressional review as
+338 provided in section 602(c)(2) of the District of Columbia Home Rule Act, approved December
+339 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(2)), and publication in the District of
+340 Columbia Register.
+15

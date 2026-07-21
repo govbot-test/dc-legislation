@@ -1,0 +1,207 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+February 28, 2025
+The Honorable Phil Mendelson
+Chair
+Council of the District of Columbia
+1350 Pennsylvania Avenue, N.W., Suite 506
+Washington, D.C. 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is the
+“Unlicensed Establishment Enforcement Clarification Emergency Amendment Act of 2025,”
+along with accompanying an accompanying emergency declaration resolution, and the
+“Unlicensed Establishment Enforcement Clarification Temporary Amendment Act of 2025.”
+To date, the Alcoholic Beverage and Cannabis Administration (ABCA), along with the
+Metropolitan Police Department, have been able to take action to close down thirty-one
+unlicensed cannabis establishments operating in the District illegally. Despite this progress,
+additional enforcement authority will better equip ABCA to move forward with the closure of the
+remaining operating unlicensed establishments. These emergency measures would therefore
+expand ABCA’s authority to take summary action and padlock businesses engaged in illegal
+commerce in cannabis and Schedule I substances by expanding the agency’s padlocking authority
+to medical cannabis businesses and non-licensed businesses engaged in the illegal sale of
+cannabis or Schedule I substances and ending the grace period that prevented enforcement against
+certain unlicensed businesses that applied for a license with ABCA but have not obtained a
+license by April 1, 2025.
+For these reasons discussed above, I urge the Council to take prompt and favorable action on the
+enclosed proposed bill.
+Sincerely,
+Muriel Bowser
+Mayor
+Enclosure
+
+1
+2
+3 at the request of the Mayor
+4
+5
+6
+7
+8
+9 A BILL
+10
+11
+12
+13
+14 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+15
+16
+17
+18
+19 To amend, on an emergency basis, the Legalization of Marijuana for Medical Treatment
+20 Initiative of 1999 to amend the definition of an unlicensed establishment to include
+21 establishments that sell Schedule I substances or products that contain Schedule I
+22 substances; to authorize enforcement actions to be taken against all unlicensed
+23 establishments beginning on April 1, 2025, regardless of whether the unlicensed
+24 establishments have an application pending application before the Alcoholic Beverage
+25 and Control Board ("ABC Board"); to authorize certain enforcement actions before April
+26 1, 2025, against an unlicensed establishment that has an application pending before the
+27 ABC Board if the unlicensed establishment sells a Schedule I substance or a product that
+28 contains a Schedule I substance; to authorize summary closures and related enforcement
+29 actions to continue for as long as the imminent danger to the public persists and is likely
+30 to recur; and to authorize the ABC Board to issue a notice of summary closure to and
+31 order the padlocking of, and the Alcoholic Beverage and Cannabis Administration and
+32 Metropolitan Police Department to take related enforcement actions against, a licensed
+33 medical cannabis establishment that engages in certain unlawful activity.
+34
+35 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+36 act may be cited as the "Unlicensed Establishment Enforcement Clarification Emergency
+37 Amendment Act of 2025".
+38 Sec. 2. The Legalization of Marijuana for Medical Treatment Initiative of 1999, effective
+39 July 27, 2010 (D.C. Law 18-210; D.C. Official Code§ 7-1671.01 et seq.), is amended as follows:
+40 (a) Section 2 (D.C. Official Code§ 7-1671.01) is amended as follows:
+
+41 (1) A new paragraph (2B) is added to read as follows:
+42 “(2B) “Cannabis product” means a product derived from or composed of
+43 cannabis, in part or in whole.”.
+44 (2) A new paragraph (20B-i) is added to read as follows:
+45 “(20B-i) “Schedule I substance” means a controlled substance listed in section
+46 204 of the District of Columbia Uniform Controlled Substances Act of 1981, effective August 5,
+47 1981 (D.C. Law 4-29; D.C. Official Code § 48-902.04), or rules implementing that section.”.
+48 (3) Paragraph (22) is amended to read as follows:
+49 “(22) “Unlicensed establishment" means:
+50 “(A) A sole proprietorship, partnership, or other business entity that:
+51 “(i) Sells, exchanges as part of a commercial transaction, or
+52 delivers cannabis and cannabis products;
+53 “(ii) Operates at or delivers from a specific location in the District;
+54 and
+55 “(iii) Is not licensed by ABCA as a cultivation center, retailer,
+56 internet retailer, manufacturer, courier, or testing laboratory; or
+57 “(B) For the purposes of section 9(g), (h), and (i), a sole proprietorship,
+58 partnership, or other business entity that:
+59 “(i) Sells, exchanges as part of a commercial transaction, or
+60 delivers Schedule I substances or products that contain Schedule I substances; and
+61 “(ii) Operates at or delivers from a specific location in the
+62 District.”.
+
+63 (b) Section 7b (D.C. Official Code § 7-1671.06b) is amended by adding a new subsection
+64 (a-1) to read as follows:
+65 “(a-1) Notwithstanding subsection (a) of this section:
+66 “(1) Regardless of whether an unlicensed establishment has a retailer or internet
+67 retailer application pending review with the ABC Board, the ABCA may inspect the entire
+68 premises, inventory, and business records of the unlicensed establishment pursuant to section
+69 9(g), ABCA investigators from testing products of the unlicensed establishment under section
+70 9(i), and the ABC Board from summarily closing and ordering the padlocking of the unlicensed
+71 establishment pursuant to section 9(g), ABCA or MPD from padlocking the unlicensed
+72 establishment pursuant to section 9(g), ABCA or MPD from seizing cannabis, cannabis products,
+73 Schedule I substances, and products that contain Schedule I substances found at the premises of
+74 the unlicensed establishment pursuant to section 9(g), or the ABC Board, ABCA, or MPD from
+75 taking action under section 9(h) if the unlicensed establishment distributes, attempts to distribute,
+76 or makes available for sale or exchange a Schedule I substance or a product that contains a
+77 Schedule I substance.
+78 “(2) After April 1, 2025, an unlicensed establishment shall be subject to
+79 compliance with this act regardless of whether the unlicensed establishment has a retailer or
+80 internet retailer application pending review with the ABC Board.”.
+81 (c) Section 9 (D.C. Official Code § 7-1671.08) is amended as follows:
+82 (1) Subsection (g) is amended as follows:
+83 (A) Paragraph (1) is amended as follows:
+
+84 (i) Strike the phrase “this title” and insert the phrase “this act or is
+85 selling, exchanging as part of a commercial transaction, or delivering a Schedule I substance or
+86 products that contains a Schedule I substance” in its place.
+87 (ii) Strike the phrase “cannabis products” and insert the phrase
+88 “cannabis products, Schedule I substances, or products that contain Schedule I substances” in its
+89 place.
+90 (B) A new paragraph (6) is added to read as follows:
+91 “(6) The Board may continue the summary closure and order of padlocking, and
+92 the padlocking of the premises and seizure of cannabis, cannabis products, Schedule I
+93 substances, and products containing Schedule I substances may continue, until the imminent
+94 danger that triggered the summary closure is abated. Even if the imminent danger that triggered
+95 the summary closure is abated, the Board may continue the summary closure, and the padlocking
+96 of the premises and seizure of cannabis, cannabis products, Schedule I substances, and products
+97 containing Schedule I substances may continue, if the Board determines, in its reasonable
+98 judgment, the imminent danger is likely to recur.”.
+99 (2) Subsection (i)(1) is amended to read as follows:
+100 “(i)(1) An ABCA investigator may test substances and products found at a licensed
+101 establishment or unlicensed establishment for the presence and quantity of THC or a Schedule I
+102 substance.”.
+103 (3) A new subsection (j) is added to read as follows:
+104 “(j)(1) The ABC Board may summarily close and order the padlocking, by ABCA or
+105 MPD without a prior hearing, of a licensed establishment, and ABCA or MPD may seize all
+106 cannabis, cannabis products, Schedule I substances, and products containing Schedule I
+
+107 substances found at the premises, if, after an inspection, ABCA determines that the licensed
+108 establishment that presents an imminent danger to the health and safety of the public for the
+109 reasons set forth in subsection (g)(C) through (G) of this section.
+110 “(2) ABCA shall provide the licensed establishment’s owner and the property
+111 owner with written notice of the summary closure and the right to request a hearing.
+112 “(3) The owner of the licensed establishment shall have 5 business days after
+113 service of the notice of summary closure to request a hearing with the ABC Board, which shall
+114 hold a hearing within 5 business days of a timely request. The ABC Board shall issue a written
+115 decision within 5 business days after the hearing, or if no hearing is requested, within 10
+116 business days after the service of the notice.
+117 “(4)(A) ABCA or the Metropolitan Police Department may post signage at the
+118 site of the licensed establishment indicating that unlawful activity has been found to have
+119 occurred for violations of this chapter.
+120 “(B) If the ABC Board orders the closure of a licensed establishment, the
+121 ABC Board shall post 2 notices in conspicuous places at or near the main street entrance on the
+122 outside of the establishment.
+123 “(C) The posted notice shall state that the closure is ordered because of a
+124 violation of this chapter or of the regulations promulgated pursuant to this chapter.
+125 “(D) Any person willfully removing, obliterating, or defacing the notice
+126 shall be guilty of a violation of this chapter.”.
+127 Sec 4. Fiscal impact statement.
+
+128 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+129 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+130 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+131 Sec. 5. Effective date.
+132 This act shall take effect following approval by the Mayor (or in the event of veto by the
+133 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+134 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+135 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+136 D.C. Official Code § 1-204.12(a)).
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+BRIAN L. SCHWALB PRIVILEGED AND CONFIDENTIAL
+ATTORNEY GENERAL ATTORNEY-CLIENT COMMUNICATION
+LEGAL COUNSEL DIVISION
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal Counsel Division
+DATE: February 27, 2025
+SUBJECT: Legal Sufficiency Review – Draft “Unlicensed Establishment Enforcement
+Clarification Emergency Amendment Act of 2025,” “Unlicensed Establishment
+Enforcement Clarification Temporary Amendment Act of 2025,” and “Unlicensed
+Establishment Enforcement Clarification Emergency Declaration Resolution of 2025”
+(AE-25-66)
+_____________________________________________________________________________________
+This is to Certify that
+this Office has reviewed the above-referenced draft
+legislation and found it to be legally sufficient. If you have any questions in this regard, please do
+not hesitate to call me at (202) 262-6402.
+_________________________________
+Adele El-Khouri
+3

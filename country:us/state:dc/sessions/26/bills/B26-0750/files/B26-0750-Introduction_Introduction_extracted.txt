@@ -1,0 +1,346 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+THE JOHN A. WILSON BUILDING
+1350 PENNSYLVANIA AVENUE, N.W.
+WASHINGTON, D.C. 20004
+Statement Upon Introduction of the
+Retail Energy Market Consumer Protection
+Amendment Act of 2026
+Today we are introducing the Retail Energy Market Consumer Protection Amendment Act of
+2026. This legislation is substantively identical to Subtitle E of Title VI of Bill 26-661, the Budget
+Support Act (BSA), introduced by Mayor Muriel Bowser on April 14, 2026.
+Separating this measure from the Budget Support Act enables the Council to hold a public
+hearing singularly focused on the proposal to protect consumers from unfair trade practices in the retail
+electric supply market.
+The subtitle (and therefore this bill) proposes a price cap on alternative electric suppliers
+relative to the Standard Offer Service which is the default electric supply available to all customers.
+While price controls may protect consumers, there can be offsetting effects on a competitive market.
+On the other hand, there are a variety of requirements on suppliers that can protect consumers from an
+otherwise unregulated market. Some of those requirements are included in this bill. There may be
+more, and a look at the best practices utilized in other states could benefit this bill.
+Introducing this BSA subtitle as standalone legislation will enable the Council, through its
+Transportation and the Environment Committee, to thoughtfully examine unfair trade practices, ways
+to counteract them, and evidence-based solutions. The goal is protecting consumers in a robust and
+competitive energy market.
+
+1 ________________________________ ______________________________
+2 Councilmember Charles Allen Chairman Phil Mendelson
+3
+4 A BILL
+5 _____________
+6
+7
+8 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+9 ____________________
+10
+11
+12 To amend the Retail Electric Competition and Consumer Protection Act of 1999 to revise
+13 relevant definitions and establish requirements for third party electricity suppliers, and to
+14 amend the Retail Natural Gas Supplier Licensing and Consumer Protection Act of 2004
+15 to add additional protections for residential customers, including allowing customers to
+16 terminate service at any time.
+17
+18 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COUMBIA, that this act
+19 may be cited as the “Retail Energy Market Consumer Protection Amendment Act of 2026”.
+20 Sec. 2. The Retail Electric Competition and Consumer Protection Act of 1999, effective
+21 May 9, 2000 (D.C. Law 13-107; D.C. Official Code § 34-1501 et seq.), is amended as follows:
+22 (a) Section 101 (D.C. Official Code § 34-1501) is amended as follows:
+23 (1) Paragraph (15A) is amended to read as follows:
+24 “(15A) “Department” means the Department of Energy and Environment.”.
+25 (2) Paragraph (15B) is amended to read as follows:
+26 “(15B) “Director” means the Director of the Department or the Director’s
+27 designee.”.
+28 (b) Section 104(c)(1)(D) (D.C. Official Code § 34-1504(c)(1)(D)) is amended by striking
+29 the phrase “in section 107;” and inserting the phrase “in sections 107 and 107a;” in its place.
+30 (c) Section 107 (D.C. Official Code § 34-1507) is amended as follows:
+31 (1) Subsection (a)(2) is amended to read as follows:
+32 “(2) This restriction shall not apply to lawful disclosures:
+1
+
+33 “(A) For bill collection or credit rating reporting purposes;
+34 “(B) To a building owner about the energy consumption of a non-
+35 residential tenant of the building; or
+36 “(C) To comply with the reporting requirements of this act.”.
+37 (2) Subsection (b)(2) is amended to read as follows:
+38 “(2) This restriction shall not apply to lawful disclosures for bill collection, credit
+39 rating reporting purposes, or information disclosed in compliance with the reporting
+40 requirements of this act.”.
+41 (d) A new section 107a is added to read as follows:
+42 “Sec. 107a. Market participants: rates, termination of contracts, and other consumer
+43 protections.
+44 “(a) Notwithstanding any other provision of law, the supply and sale of electricity by a
+45 market participant to residential customers shall be regulated by the Commission as follows:
+46 “(1) A market participant shall only offer electricity supply to residential
+47 customers at a price that does not exceed the applicable price cap established by the Commission
+48 pursuant to subsection (b) of this section.
+49 “(2) Residential customers may terminate their supply contracts at any time and
+50 market participants shall not charge residential customers fees or penalties for early termination
+51 of service.
+52 “(3) A market participant shall be responsible for ensuring that its agents,
+53 contractors, marketers, or brokers comply with all legal requirements that apply to the supply and
+54 sale of electricity in the District, including the consumer protections in this section, section 107,
+2
+
+55 and associated regulations. A market participant shall be liable for any violation of these legal
+56 requirements committed by its agents, contractors, marketers, or brokers.
+57 “(b)(1) The Commission shall establish one or more price caps for electricity supplied by
+58 a market participant to residential customers. Except as provided in paragraphs (2) and (3) of this
+59 subsection, the price cap shall not exceed 110% of the price of the standard offer service.
+60 “(2) The Commission may establish a price cap that exceeds 110% of the price of
+61 the standard offer service; provided, that:
+62 “(A) The electricity supply is sourced from a tier one renewable source or
+63 tier two renewable source, as those terms are defined in section 3 of the Renewable Energy
+64 Portfolio Standard Act of 2004, effective April 12, 2005 (D.C. Law 15-340; D.C. Official Code §
+65 34-1431); and
+66 “(B) A market participant demonstrates procurement of renewable energy
+67 or renewable energy credits, as described in section 5 of the Renewable Energy Portfolio
+68 Standard Act of 2004, effective April 12, 2005 (D.C. Law 15-340; D.C. Official Code § 34–
+69 1433), in excess of the amount required by the renewable energy portfolio standard established
+70 pursuant to section 4 of the Renewable Energy Portfolio Standard Act of 2004, effective April
+71 12, 2005 (D.C. Law 15-340; D.C. Official Code § 34–1432).
+72 “(3)(A) The Commission may establish exemptions from a price cap, or establish
+73 a higher price cap, for specific market participants or types of electricity supply contracts;
+74 provided, that the Commission determines that doing so is in the public interest. In making this
+75 determination, the Commission may consider the following factors, along with any other factor
+76 the Commission deems relevant:
+77 “(i) Whether a proposed service is new or innovative;
+3
+
+78 “(ii) The potential for the service to result in long-term savings for
+79 residential customers;
+80 “(iii) Any other energy-related benefits the service may provide,
+81 such as improvements in energy efficiency or the ability of residential customers to manage their
+82 energy costs; and
+83 “(iv) The potential costs or financial risks to customers.
+84 “(B) The Commission may modify or revoke an exemption or higher price
+85 cap established pursuant to this paragraph if the Commission determines that the exemption or
+86 higher price cap is no longer in the public interest or is otherwise no longer warranted.
+87 “(c) A contract that contains a price for electricity supply that exceeds an applicable price
+88 cap established pursuant to this section, including a contract entered into before the Commission
+89 established the price cap, shall:
+90 “(1) Be deemed null and void as against public policy;
+91 “(2) Not be considered null and void under this subsection if amended to be in
+92 compliance with the price cap within 60 days of the establishment of the price cap; provided, that
+93 the contract was either entered into before the Commission established the price cap, or entered
+94 into at a price for electricity supply that was in compliance with the price cap initially and then
+95 exceeded the applicable price cap after the price of the standard offer service changed.
+96 “(d)(1) The Commission shall require each market participant to share the standard
+97 contract terms for each contract to be offered to a residential customer on a Commission-
+98 approved comparison website before the contract is offered to the residential customer.
+99 “(2) The Commission shall determine which standard contract terms offered by a
+100 market participant shall be posted to the Commission-approved website.
+4
+
+101 “(3) The Commission may designate its own website as the Commission-
+102 approved website, or another website that assists residential customers in comparing electricity
+103 supply contracts from different market participants.
+104 “(4) Market participants shall notify the Commission when standard contract
+105 terms for a new contract are posted to the Commission-approved website, when the standard
+106 contract terms for a contract posted to the Commission-approved website are modified, and when
+107 a contract is removed from the Commission-approved website. The Commission may establish
+108 rules regarding the form, content, and frequency at which such notifications must be provided to
+109 the Commission.
+110 “(e) Notwithstanding any other provision of law, the Commission shall establish
+111 additional reporting requirements for market participants supplying electricity to residential
+112 customers as follows:
+113 “(1) The Commission shall require market participants to report the following
+114 information:
+115 “(A) Name of the market participant;
+116 “(B) Number of distinct rates offered by each market participant and the
+117 price offered for each rate;
+118 “(C) Number of customers subscribed to each rate;
+119 “(D) Sales volume in kilowatt hours (kWh) for each rate;
+120 “(E) Number of customers in arrears and average arrears per customer,
+121 reported by rate;
+122 “(F) Number of customers who switched to and from the market
+123 participant during the reporting period for each rate; and
+5
+
+124 “(G) Number of customers with different contract lengths for each rate.
+125 “(2)(A) The Commission shall determine which information provided by a market
+126 participant pursuant to paragraph (1) of this subsection shall be deemed confidential for the
+127 purposes of protecting proprietary business information.
+128 “(B) The Commission may direct market participants to submit both
+129 confidential and public versions of any required report, with confidential information redacted
+130 from the public version.
+131 “(C) The Commission shall make available to the public copies of market
+132 participant reports, with all confidential information redacted.
+133 “(D) The Commission shall share, upon request, copies of confidential
+134 versions of market participant reports with the Office of the People’s Counsel, the Office of the
+135 Attorney General, and the Department.
+136 “(3) Nothing in this subsection shall prohibit the use of confidential information
+137 to prepare statistics or other general data for publication when the statistics or other general data
+138 are published in a manner that prevents identification of particular persons or individual
+139 customer account information.
+140 “(4) Nothing in this subsection shall limit the authority of the Commission to
+141 establish additional reporting requirements, including the frequency for reporting of the
+142 information in paragraph (1) of this subsection, or to continue existing reporting requirements.
+143 “(f) The requirements in subsections (a), (b), and (c) of this section shall not apply to
+144 electricity supplied by or through:
+145 “(1) The standard offer service;
+146 “(2) A municipal aggregation program under section 115;
+6
+
+147 “(3) A single-customer or multi-customer microgrid; or
+148 “(4) The District government, the federal government, or the agencies and
+149 instrumentalities of the District government or federal government.
+150 “(g) The Commission shall issue rules or orders to implement this section within 270
+151 days after the applicability date of this act.”.
+152 Sec. 3. The Retail Natural Gas Supplier Licensing and Consumer Protection Act of 2004,
+153 effective March 16, 2005 (D.C. Law 15-227; D.C. Official Code § 34-1671.01 et seq.), is
+154 amended as follows:
+155 (a) Section 4(a) (D.C. Official Code § 34-1671.03(a)) is amended as follows:
+156 (1) Paragraph (2) is amended by striking the phrase “protections;” and inserting
+157 the phrase “protections, including the provisions in sections 9 and 9a;” in its place.
+158 (2) Paragraph (7) is amended to read as follows:
+159 “(7) Establish uniform contract terms for the enrollment agreement for residential
+160 customers;”.
+161 (b) Section 9 (D.C. Official Code § 34-1671.08) is amended as follows:
+162 (1) Subsection (b)(1) is amended as follows:
+163 (A) Subparagraph (A) is amended by striking the phrase “; and” and
+164 inserting a semicolon in its place.
+165 (B) Subparagraph (B) is amended by striking the phrase “a contract
+166 without penalty.” and inserting the phrase “a contract; and” in its place.
+167 (C) A new subparagraph (C) is added to read as follows:
+168 “(C) Permit residential customers to terminate service at any time without
+169 incurring a fee or penalty for early termination of service.”.
+7
+
+170 (2) Subsection (c) is amended by striking the period and inserting the phrase “;
+171 provided, that a licensed retail natural gas supplier shall not charge a fee or penalty for early
+172 termination of service.” in its place.
+173 (3) Subsection (e) is amended as follows:
+174 (A) Paragraph (4) is amended by striking the phrase “without penalty;”
+175 and inserting a semicolon in its place.
+176 (B) Paragraph (5) is amended by striking the phrase “and any penalty for”
+177 and inserting the word “for” in its place.
+178 (c) A new section 9a is added to read as follows:
+179 “Sec. 9a. Enhanced consumer protections in the residential retail market for natural gas.
+180 “(a) Notwithstanding any other provision of law, the supply and sale of natural gas by a
+181 natural gas supplier to residential customers shall be regulated by the Commission as follows:
+182 “(1) A natural gas supplier shall only offer natural gas to residential customers at
+183 a price that does not exceed the applicable price cap established by the Commission pursuant to
+184 subsection (b) of this section.
+185 “(2) Residential customers may terminate their natural gas supply contracts at any
+186 time and natural gas suppliers shall not charge residential customers fees or penalties for early
+187 termination of service.
+188 “(3) A natural gas supplier shall be responsible for ensuring that its agents;
+189 contractors; marketers; or brokers comply with all legal requirements that apply to the supply
+190 and sale of natural gas in the District, including the consumer protections in this section and
+191 section 9, and associated regulations. A natural gas supplier shall be liable for any violation of
+192 these legal requirements committed by its agents; contractors; marketers; or brokers.
+8
+
+193 “(b)(1) The Commission shall establish one or more price caps for natural gas supplied
+194 by a natural gas supplier to residential customers. Except as provided in paragraph (2) of this
+195 subsection, the price cap shall not exceed 110% of the price of the gas company’s default
+196 service.
+197 “(2) The Commission may establish exemptions from the price cap, or establish a
+198 price cap that exceeds 110% of the price of the gas company’s default service, for specific
+199 natural gas suppliers or types of natural gas supply contracts; provided, that the Commission
+200 determines that doing so is in the public interest. In making this determination, the Commission
+201 may consider the following factors, along with any other factor the Commission deems relevant:
+202 “(A) Whether a proposed service is new or innovative;
+203 “(B) The potential for the service to result in long-term savings for
+204 residential customers;
+205 “(C) Any other energy-related benefits the service may provide, such as
+206 improvements in energy efficiency or the ability of residential customers to manage their energy
+207 costs; and
+208 “(D) The potential costs or financial risks to customers.
+209 “(3) The Commission may modify or revoke an exemption or a higher price cap
+210 established pursuant to this paragraph if the Commission determines that the exemption or higher
+211 price cap is no longer in the public interest or is otherwise no longer warranted.
+212 “(c) A contract that contains a price for natural gas supply that exceeds an applicable
+213 price cap established pursuant to this section, including a contract entered into before the
+214 Commission established the price cap, shall:
+215 “(1) Be deemed null and void as against public policy;
+9
+
+216 “(2) Not be considered null and void under this subsection if amended to be in
+217 compliance with the price cap within 60 days of the establishment of the price cap; provided, that
+218 the contract was either entered into before the Commission established the price cap, or entered
+219 into at a price for natural gas supply that was in compliance with the price cap initially and then
+220 exceeded the applicable price cap after the price of the gas company’s default service changed.
+221 “(d)(1) The Commission shall require each natural gas supplier to share the standard
+222 contract terms for each contract to be offered to a residential customer on a Commission-
+223 approved comparison website before the contract is offered to the residential customer.
+224 “(2) The Commission shall determine which standard contract terms offered by a
+225 natural gas supplier shall be posted to the Commission-approved website.
+226 “(3) The Commission may designate its own website as the Commission-
+227 approved website, or another website that assists residential customers in comparing natural gas
+228 supply contracts from different natural gas suppliers.
+229 “(4) Natural gas suppliers shall notify the Commission when the standard contract
+230 terms for a new contract are posted to the Commission-approved website, when the standard
+231 contract terms for a contract posted to the Commission-approved website are modified, and when
+232 a contract is removed from the Commission-approved website. The Commission may establish
+233 rules regarding the form, content, and frequency at which such notifications must be provided to
+234 the Commission.
+235 “(e) Notwithstanding any other provision of law, the Commission shall establish
+236 additional reporting requirements for natural gas suppliers supplying natural gas to residential
+237 customers as follows:
+10
+
+238 “(1) The Commission shall require natural gas suppliers to report the following
+239 information:
+240 “(A) Name of natural gas supplier;
+241 “(B) Number of distinct rates offered by each natural gas supplier and the
+242 price offered for each rate;
+243 “(C) Number of customers subscribed to each rate;
+244 “(D) Sales volume (therms) for each rate;
+245 “(E) Number of customers in arrears and average arrears per customer,
+246 reported by rate;
+247 “(F) Number of customers who switched to and from the natural gas
+248 supplier during the reporting period for each rate; and
+249 “(G) Number of customers with different contract lengths for each rate.
+250 “(2)(A) The Commission shall determine which information provided by a natural
+251 gas supplier pursuant to paragraph (1) of this subsection shall be deemed confidential for the
+252 purposes of protecting proprietary business information.
+253 “(B) The Commission may direct natural gas suppliers to submit both
+254 confidential and public versions of any required report, with confidential information redacted
+255 from the public version.
+256 “(C) The Commission shall make available to the public copies of natural
+257 gas supplier reports, with all confidential information redacted.
+258 “(D) The Commission shall share, upon request, copies of confidential
+259 versions of supply reports with the Office of the People’s Counsel, the Office of the Attorney
+260 General, and the Department of Energy and Environment.
+11
+
+261 “(3) Nothing in this subsection shall prohibit the use of confidential information
+262 to prepare statistics or other general data for publication when the statistics or other general data
+263 are published in a manner that prevents identification of particular persons or individual
+264 customer account information.
+265 “(4) Nothing in this subsection shall limit the authority of the Commission to
+266 establish additional reporting requirements, including the frequency for reporting of the
+267 information in paragraph (1) of this subsection, or to continue existing reporting requirements.
+268 “(f) The requirements in subsections (a), (b), and (c) of this section shall not apply to
+269 natural gas supplied by or through:
+270 “(1) The gas company’s default service;
+271 “(2) A municipal aggregation program for the purchase of natural gas; or
+272 “(3) The District government, the federal government, or the agencies and
+273 instrumentalities of the District government or federal government.
+274 “(g) The Commission shall issue rules or orders to implement this section within 270
+275 days after the effective date this act.”.
+276 (d) Section 12(a)(1)(D) (D.C. Official Code § 34-1671.11(a)(1)(D)) is amended by
+277 striking the phrase “purposes or” and inserting the phrase “purposes, for the reporting
+278 requirements in this act, or” in its place.
+279 Sec. 4. Fiscal impact statement.
+280 The Council adopts the fiscal impact statement in the committee report as the fiscal
+281 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+282 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+283 Sec. 5. Effective date.
+12
+
+284 This act shall take effect following approval by the Mayor (or in the event of veto by the
+285 Mayor, action by the Council to override the veto), a 30-day period of Congressional review as
+286 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+287 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+288 Columbia Register.
+289
+13

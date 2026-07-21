@@ -1,0 +1,232 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 ___________________________
+2 Councilmember Kenyan R. McDuffie
+3 A BILL
+4 _____________
+5 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+6 __________________
+7 To authorize the Business Improvement District Council, on behalf of business improvement
+8 district corporations, to enter a master license agreement with a third-party provider for
+9 the deployment of interactive wayfinding kiosks in commercial areas served by business
+10 improvement district corporations, to amend the Business Improvement Districts Act of
+11 1996 to require a community member or resident is a member of the of the BID Board.
+12
+13 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+14 act may be cited as the “Business Improvement District Resiliency Act of 2025”.
+15 Sec. 2 Definitions
+16 (a) “Interactive wayfinding kiosk” means an interactive informational wayfinding
+17 platform for use by pedestrians and erected in the public right-of-way, on public space or on
+18 private property in the form of a kiosk capable of providing or generating wireless internet at no
+19 cost to users and electronically-displayed content including, but not limited to, weather updates,
+20 multimodal mapping to event destinations with mobile integration, shopping, dining, and
+21 medical points of interest, job postings, real time transportation information, public opinion
+22 surveys, public safety and police emergency notifications, kiosk usage information, public
+23 service announcements, and digital advertisements.
+24 (b) “BID Council” means the association of the District of Columbia’s Business
+25 Improvement Districts.
+26 (c) “BID corporation” has the same meaning as in § 2-1215.02(4).
+
+27 (d) “Business Improvement District” or “BID” has the same meaning as in § 2-
+28 1215.02(7).
+29 (e) “Commercial district” has the same meaning as in § 1–328.04(j)(1).
+30 Sec. 3. The master license agreement.
+31 (a) Notwithstanding any other provision of law, a BID corporation, subject to a
+32 master license agreement with the DC BID Council, may contract with one or more providers of
+33 interactive wayfinding kiosks to install and operate interactive wayfinding kiosks, provided:
+34 (1) the interactive wayfinding kiosk is located in the commercial district of
+35 such BID corporation; and
+36 (2) the BID corporation receives a percentage of the revenue derived from
+37 the digital advertisement displayed on any interactive wayfinding kiosk located in the commercial
+38 district of such BID corporation; and
+39 (3) the master license agreement shall, for its term, be the exclusive agreement in
+40 the District of Columbia for private installation and maintenance of interactive wayfinding kiosks,
+41 which display commercial advertisements, in public spaces in the commercial districts of BID
+42 corporations.
+43 (b) The Mayor shall permit the interactive wayfinding kiosk provider to place
+44 advertisements on interactive wayfinding kiosks installed pursuant to the master license
+45 agreement.
+46 (c) The master license agreement shall be for an initial period of 20 years and
+47 10 years for renewal thereafter. One year prior to the termination of the master license agreement
+48 each party shall notify the other, in writing, as to whether or not it wants to renegotiate the master
+49 license agreement for an additional period of time.
+
+50 (d) Under the terms of the master license agreement, the interactive wayfinding
+51 kiosk provider shall be responsible for:
+52 (1) All of the costs and expenses for the interactive wayfinding kiosk
+53 design;
+54 (2) The construction, maintenance, and lighting of the interactive
+55 wayfinding kiosks and repair of all structures including sidewalks, curbs, streets or utilities which
+56 shall in any way be disturbed by the installation of the interactive wayfinding kiosks; and
+57 (3) The costs associated with changing, within 3 months, the location of any
+58 interactive wayfinding kiosks which are no longer needed where originally placed due to changes
+59 in the boundaries of BID corporations or other factors.
+60 (e) The master license agreement shall establish:
+61 (1) The minimum number of interactive wayfinding kiosks, which are to be
+62 installed in the District of Columbia pursuant to the master license agreement;
+63
+64 (2) The design of the interactive wayfinding kiosks; and
+65 (3) Standards which the interactive wayfinding kiosk provider is to follow
+66 for the minimum maintenance and replacement of the interactive wayfinding kiosks installed
+67 pursuant to the master license agreement.
+68 (f) The BID Council shall include in the master license agreement those provisions
+69 which are so specified in this chapter and any other provisions which the Mayor deems appropriate
+70 to carry out the purposes of this chapter.
+71 (g) Upon the expiration of the master license agreement, or upon the expiration of
+72 the renewal term provided for herein, or if the master license agreement is terminated in accordance
+
+73 with section 9 of this act, whichever shall occur first, the interactive wayfinding kiosks installed
+74 pursuant to the master license agreement shall be removed by, and returned to, the interactive
+75 wayfinding kiosk provider without cost to the District of Columbia.
+76 Sec. 4. Location of interactive wayfinding kiosks; review of application.
+77 (a)(1) Prior to the installation of one or more interactive wayfinding kiosks pursuant
+78 to the master license agreement, the BID Council shall submit an application to the Mayor for
+79 review that includes:
+80 (A) The proposed locations for the installation of interactive
+81 wayfinding kiosks, which shall include a permitted installation radius of one thousand feet from
+82 such proposed locations;
+83 (B) A description of the information, features and services provided
+84 to residents, workers, visitors, and businesses by the interactive wayfinding kiosks, which shall
+85 include, at a minimum:
+86 (i) Crime deterrence functions and public safety
+87 enhancements;
+88 (ii) Programs available through District government
+89 agencies and direct service providers, such as prevention and treatment for substance abuse and
+90 addiction and shelter options for homelessness; and
+91 (iii) Promotion and marketing of small and local
+92 businesses, such as minority-owned and women businesses and certified business enterprises;
+93 (C) A description of the programming and services to be provided
+94 through the revenue derived by the BID corporations from the digital advertisement displayed on
+
+95 the interactive wayfinding kiosks, including 5% of the increased revenue realized by the BID
+96 corporations directed towards [one of the following programs, services or activities:
+97 (i) Arts and Humanities Fund/grants and administration,
+98 improvement, and maintenance of property and programs managed by the Arts and Humanities
+99 Commission; or
+100 (ii) Equity Impact Fund/ support businesses eligible to be
+101 equity impact enterprises (EIE) with training and investment in the form of revenue or equity-
+102 based financing]; and
+103 (D) Any other data or information requested by the Mayor.
+104 (2) The selection of locations and the sequence for installation of interactive
+105 wayfinding kiosks shall take into account, first, the various needs of the different commercial
+106 districts of the BID corporations for interactive wayfinding kiosks, and second, the advertising
+107 market potential in these areas.
+108 (b) In establishing the locations for the interactive wayfinding kiosks, the BID
+109 Council shall consult with the District of Columbia Department of Transportation.
+110 (c) The Mayor shall have 30 days from the date of the filing of the application to
+111 conduct a preliminary review of the application to determine if the filing criteria set forth in this
+112 section have been met and if the application is otherwise in conformity with this chapter. If the
+113 Mayor fails to make a determination that the application is either not in conformity with this
+114 chapter or that the application requirements have been met within 30 days, such inaction shall
+115 constitute an affirmative preliminary determination that the application requirements have been
+116 met. The Mayor may designate the District of Columbia Department of Transportation, or a
+
+117 successor thereto, to perform the review functions described by this section.
+118 (d)(1) If the Mayor determines that the application is not in conformity with this
+119 chapter, the Mayor shall specify the particular items that need to be corrected and notify the
+120 applicant that the application can be corrected and resubmitted within 30 days from the date of this
+121 notification. If a corrected application is not submitted within the 30-day period, the Mayor shall
+122 reject the application.
+123 (2) Once the Mayor affirmatively determines that the application
+124 requirements have been met, the Mayor shall approve the application.
+125 Sec. 5. Advertising.
+126 (a) The interactive wayfinding kiosk provider is authorized to sell commercial
+127 advertisement space on no more than 2 sides of a single end of the interactive wayfinding kiosks
+128 which have been designated by the master license agreement to contain advertisement.
+129 (b) An interactive wayfinding kiosk shall not display any advertisement that is:
+130 (1) contrary to any applicable laws, rules or regulations;
+131 (2) promotes or advertises tobacco products;
+132 (3) promotes or advertises a “sexually-oriented business establishment,” as
+133 defined in
+134 Section 100 of Title 11-B of the District of Columbia Municipal Regulations (11-B DCMR §
+135 100); or
+136 (4) considered “political advertising,” as defined in § 1–1163.15(d).
+137 (c) The interactive wayfinding kiosk provider shall remove any advertisement
+138 which the Mayor determines to be deceptive, misleading, untruthful, obscene, or in violation of
+139 Chapter 39 of Title 28 within 15 days from receipt of a request from the Mayor.
+
+140 (d) No interactive wayfinding kiosks with advertisements shall be permitted in
+141 public spaces which are immediately adjacent to residential districts of the City zoned R-1, R-2,
+142 R-3, or R-4 by the Zoning Commission.
+143 Sec. 6. Permitting.
+144 (a) For purposes of this chapter, the Mayor shall issue a permit or renewal permit
+145 to a BID corporation or BID Council for the installation of an interactive wayfinding kiosk for a
+146 period of 20 years, unless sooner revoked by the Mayor for non-compliance with the provisions
+147 of the permit. The Mayor may establish the appropriate permit fee according to costs associated
+148 with its issuance.
+149 (b) It is unlawful to own, construct, substantially alter, or operate any interactive
+150 wayfinding kiosk except in accordance with the terms of the permit, including any maintenance
+151 provisions, issued by the Mayor to the BID corporation or BID Council for such interactive
+152 wayfinding kiosk.
+153 (c)(1) A permit granted by the Mayor to a BID corporation pursuant to this chapter
+154 shall transfer for the remaining term of such permit to the BID Council in the event of a
+155 termination, dissolution or order revoking the registration of such BID corporation’s BID;
+156 provided, however, a successor BID corporation of such BID may request, and the BID Council
+157 shall approve, the transfer of the permit for the remaining term of the permit to such successor
+158 BID.
+159 Sec. 7. Insurance and bonds.
+160 (a) Prior to the installation of the first interactive wayfinding kiosk, the interactive
+161 wayfinding kiosk provider shall file with the District of Columbia and shall maintain throughout
+162 the life of the master license agreement, liability insurance policies and performance bonds
+
+163 acceptable to the Mayor in the minimum amounts as follows:
+164 (1) For bodily injury, including death, (A) $250,000 for any one person, and
+165 (B) $1,000,000 for any one accident;
+166 (2) For property damage, $100,000 per accident; and
+167 (3) For performance of maintenance and repairs, and other provisions of the
+168 master license agreement, $5,000, provided such amount shall increase by $250 per interactive
+169 wayfinding kiosk after the installation of 20 interactive wayfinding kiosks by such provider.
+170 (b) The interactive wayfinding kiosk provider shall assure any legal responsibility
+171 for, and shall hold the District of Columbia harmless from, any liability that arises because of
+172 injury to persons or property, including sidewalks, curbs, streets and structures by reason of the
+173 construction, operation, or maintenance of the interactive wayfinding kiosks installed or moved
+174 pursuant to the master license agreement.
+175 Sec. 8. Termination of master license agreement.
+176 (a)The Mayor shall notify the BID Council and interactive wayfinding kiosk
+177 provider in writing of any violations of the master license agreement and establish a compliance
+178 schedule for correcting the violations. In the event that the compliance schedule is not met, the
+179 Mayor may revoke any permits in connection with such violations after 60 days written notice to
+180 the BID Council and interactive wayfinding kiosk provider of the Mayor’s intent to revoke such
+181 permits, setting forth the reasons for the revocation.
+182 (b) In the event of bankruptcy of the interactive wayfinding kiosk provider the BID
+183 Council shall terminate the master license agreement, providing the interactive wayfinding kiosk
+184 provider with written notice of the BID Council’s action.
+185 Sec. 9. Relation to other provisions of law.
+
+186 The provisions of [Title 5A-1, Article 14 of the Building Code of the District of
+187 Columbia], and rules issued pursuant to those sections, pertaining to outdoor signs in the District
+188 of Columbia, shall not pertain to the advertisement resulting from this act.
+189 Sec. 10. Rules.
+190 Pursuant to title 1 of the District of Columbia Administrative Procedures Act,
+191 approved October 21, 1968 (82 Stat. 1204; D.C. Code § 1-1501 et seq.), the Mayor is authorized
+192 to issue any rules that may be necessary to implement the provisions of this act.
+193 Sec. 11. Severability.
+194 If a provision of this act or its application to a particular person or circumstance
+195 is held invalid, such invalidity does not affect other provisions or applications.
+196 Sec. 12 Business Improvement Districts Act of 1996, effective May 29, 1996, (D.C.
+197 Law 11-312; D.C. Official Code § 2-1215.07), is amended as follows:
+198 (a) Section 8 is amended as follows:
+199 (1) Paragraph (a) is amended as follows:
+200 “(a) The powers of each BID corporation shall be vested in a Board of Directors
+201 (“Board”). Board members shall include owners, or principals, agents, partners, managers,
+202 trustees, stockholders, officers, or directors of owners, and commercial tenants, residents,
+203 community members, and also may include governmental officials; provided, that at least one
+204 voting member of the Board is a community member or resident who lives in or within close
+205 proximity to the BID and not less than a majority of all Board members shall represent owners.”
+206 Sec. 13. Fiscal impact statement.
+
+207 The Council adopts the fiscal impact statement in the committee report as the
+208 fiscal impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+209 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1–301.47a).
+210 Sec. 14. Effective date.
+211 This act shall take effect following approval by the Mayor (or in the event of veto
+212 by the Mayor, action by the Council to override the veto), a 30-day period of congressional
+213 review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved
+214 December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the
+215 District of Columbia Register.

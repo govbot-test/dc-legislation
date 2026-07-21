@@ -1,0 +1,457 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+September 16, 2025
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and adoption by the Council of the District of Columbia is a proposed
+resolution titled “The Field School, Inc. Revenue Bonds Project Approval Resolution of 2025”.
+The resolution authorizes the issuance, sale, and delivery of tax-exempt revenue bonds, notes, or other
+obligations in aggregate principal amount not to exceed $25,000,000. The bonds will be used to build a
+new 15,000 square foot Innovation Center and to renovate the Wonder Building and athletic fields on the
+school’s campus located at 2301 Foxhall Road NW in Ward 3.
+In accordance with section 490 of the Home Rule Act, it has been determined that the bonds, when, as,
+and if issued, shall be without recourse to the District. The bonds shall not be general obligations of the
+District; shall not be a pledge of or involve the full faith and credit or the taxing power of the District;
+shall not constitute a debt of the District; and shall not constitute a lending of public credit for a private
+undertaking as prohibited in section 602(a)(2) of the Home Rule Act. The bonds shall not give rise to any
+pecuniary liability of the District, and the District shall have no obligation with respect to the purchase of
+the bonds.
+I urge the Council to take prompt and favorable action on the enclosed measure.
+Sincerely,
+Muriel Bowser
+Enclosure
+
+~~
+1
+2 'chainruu{ Phil Mendelson
+3 at the request of the Mayor
+4
+5
+6
+7 A PROPOSED RESOLUTION
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15 To authorize and provide for the issuance, sale, and delivery in an aggregate principal amount not to
+16 exceed $25 million of District of Columbia revenue bonds in one or more series pursuant
+17 to a plan of finance and to authorize and provide for the loan of the proceeds of such
+18 bonds to assist The Field School, Inc. in the financing, refinancing, or reimbursing of
+19 costs associated with an authorized project pursuant to section 490 of the District of
+20 Columbia Home Rule Act.
+21
+22 RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 resolution may be cited as "The Field School, Inc. Revenue Bonds Project Approval Resolution of
+24 2025".
+25 Sec. 2. Definitions.
+26 For the purposes of this resolution, the term:
+27 (1) "Authorized Delegate" means the Mayor or the Deputy Mayor for Planning and
+28 Economic Development, or any officer or employee of the Executive Office of the Mayor to whom
+29 the Mayor has delegated or to whom the foregoing individuals have subdelegated any of the
+30 Mayor's functions under this resolution pursuant to section 422(6) of the Home Rule Act.
+31 (2) "Bond Counsel" means a firm or firms of attorneys designated as bond counsel from
+32 time to time by the Mayor.
+1
+
+33 (3) “Bonds” means the District of Columbia revenue bonds, notes, or other obligations
+34 (including refunding bonds, notes, and other obligations), in one or more series, authorized to be
+35 issued pursuant to this resolution.
+36 (4) “Borrower” means the owner of the assets financed, refinanced, or reimbursed with
+37 proceeds from the Bonds, which shall be The Field School, Inc., a corporation organized and
+38 existing under the laws of the District of Columbia, qualified to do business in the District of
+39 Columbia, and exempt from federal income taxes under 26 U.S.C § 501(a) as an organization
+40 described in 26 U.S.C. § 501(c)(3).
+41 (5) “Closing Documents” means all documents and agreements other than Financing
+42 Documents that may be necessary and appropriate to issue, sell, and deliver the Bonds and to make
+43 the Loan, and includes agreements, certificates, letters, opinions, forms, receipts, and other similar
+44 instruments.
+45 (6) “District” means the District of Columbia.
+46 (7) “Financing Documents” means the documents other than Closing Documents that relate
+47 to the financing, refinancing or reimbursement of transactions to be effected through the issuance,
+48 sale, and delivery of the Bonds and the making of the Loan, including any offering document, and
+49 any required supplements to any such documents.
+50 (8) “Home Rule Act” means the District of Columbia Home Rule Act, approved December
+51 24, 1973 (87 Stat. 774; D.C. Official Code § 1-201.01 et seq.).
+52 (9) “Issuance Costs” means all fees, costs, charges, and expenses paid or incurred in
+53 connection with the authorization, preparation, printing, issuance, sale, and delivery of the Bonds
+54 and the making of the Loan, including, but not limited to, underwriting, legal, accounting, rating
+55 agency, and all other fees, costs, charges, and expenses incurred in connection with the development
+2
+
+56 and implementation of the Financing Documents, the Closing Documents, and those other
+57 documents necessary or appropriate in connection with the authorization, preparation, printing,
+58 issuance, sale, marketing, and delivery of the Bonds and the making of the Loan, together with
+59 financing fees, costs, and expenses, including program fees and administrative fees charged by the
+60 District, fees paid to financial institutions and insurance companies, initial letter of credit fees (if
+61 any), compensation to financial advisors and other persons (other than full-time employees of the
+62 District) and entities performing services on behalf of or as agents for the District.
+63 (10) “Loan” means the District’s lending of proceeds from the sale, in one or more series, of
+64 the Bonds to the Borrower.
+65 (11) “Project” means the financing, refinancing or reimbursing of the Borrower for all or a
+66 portion of the Borrower's costs incurred in connection with:
+67 (A) The acquisition, construction, renovation, equipping and development of an
+68 approximately 15,000 square foot Innovation Center, consisting of new learning spaces, meeting
+69 spaces and gallery spaces, located at the School’s campus at 2301 Foxhall Road, NW,
+70 Washington, DC, 20007 (the “Campus”);
+71 (B) Renovations to the lower level of the Wonder Building on the Campus;
+72 (C) Funding the construction, equipping and development of a new practice field
+73 on the Campus and renovations to the existing athletic field on the Campus;
+74 (D) Funding associated parking facilities and other property on the Campus;
+75 (E) Funding certain working capital costs, to the extent financeable relating to the
+76 Bonds;
+77 (F) Funding interest on the Bonds and any credit enhancement costs, liquidity
+78 costs or debt service reserve fund relating to the Bonds; and
+3
+
+79 (G) Paying allowable Issuance Costs.
+80 Sec. 3. Findings.
+81 The Council finds that:
+82 (1) Section 490 of the Home Rule Act provides that the Council may by resolution authorize
+83 the issuance of District revenue bonds, notes, or other obligations (including refunding bonds, notes,
+84 or other obligations) to borrow money to finance, refinance, or reimburse costs, and to assist in the
+85 financing, refinancing, or reimbursing of, the costs of undertakings in certain areas designated in
+86 section 490 and may effect the financing, refinancing, or reimbursement by loans made directly or
+87 indirectly to any individual or legal entity, by the purchase of any mortgage, note, or other security,
+88 or by the purchase, lease, or sale of any property.
+89 (2) The Borrower has requested the District to issue, sell, and deliver revenue bonds, in one
+90 or more series, in an aggregate principal amount not to exceed $25 million, and to make the Loan
+91 for the purpose of financing, refinancing, or reimbursing costs of the Project.
+92 (3) The Project is located in the District and will contribute to the health, education, safety,
+93 or welfare of, or the creation or preservation of jobs for, residents of the District, or to economic
+94 development of the District.
+95 (4) The Project is an undertaking in the area of elementary, secondary and college and
+96 university facilities within the meaning of section 490 of the Home Rule Act.
+97 (5) The authorization, issuance, sale, and delivery of the Bonds and the Loan to the
+98 Borrower are desirable, are in the public interest, will promote the purpose and intent of section 490
+99 of the Home Rule Act, and will assist the Project.
+100 Sec. 4. Bond authorization.
+4
+
+101 (a) The Mayor is authorized pursuant to the Home Rule Act and this resolution to assist in
+102 financing, refinancing, or reimbursing the costs of the Project by:
+103 (1) The issuance, sale, and delivery of the Bonds, in one or more series, in an
+104 aggregate principal amount not to exceed $25 million; and
+105 (2) The making of the Loan.
+106 (b) The Mayor is authorized to make the Loan to the Borrower for the purpose of financing,
+107 refinancing, or reimbursing the costs of the Project and establishing any fund with respect to the
+108 Bonds as required by the Financing Documents.
+109 (c) The Mayor may charge a program fee to the Borrower, including, but not limited to, an
+110 amount sufficient to cover costs and expenses incurred by the District in connection with the
+111 issuance, sale, and delivery of each series of the Bonds, the District’s participation in the monitoring
+112 of the use of the Bond proceeds and compliance with any public benefit agreements with the
+113 District, and maintaining official records of each bond transaction and assisting in the redemption,
+114 repurchase, and remarketing of the Bonds.
+115 (d) The Bond authorization set forth in this resolution includes the authorization to issue
+116 refunding Bonds to refinance any Bonds previously issued under this resolution to finance the
+117 Project; provided that the maximum principal amount of Bonds outstanding at any time does not
+118 exceed the maximum principal amount of Bonds authorized hereunder.
+119 Sec. 5. Bond details.
+120 (a) The Mayor and each Authorized Delegate is authorized to take any action reasonably
+121 necessary or appropriate in accordance with this resolution in connection with the preparation,
+122 execution, issuance, sale, delivery, security for, and payment of the Bonds of each series, including,
+5
+
+123 but not limited to, determinations of:
+124 (1) The final form, content, designation, and terms of the Bonds, including a
+125 determination that the Bonds may be issued in certificated or book-entry form;
+126 (2) The principal amount of the Bonds to be issued and denominations of the Bonds;
+127 (3) The rate or rates of interest or the method for determining the rate or rates of
+128 interest on the Bonds;
+129 (4) The date or dates of issuance, sale, and delivery of, and the payment of interest
+130 on the Bonds, and the maturity date or dates of the Bonds;
+131 (5) The terms under which the Bonds may be paid, optionally or mandatorily
+132 redeemed, accelerated, tendered, called, or put for redemption, repurchase, or remarketing before
+133 their respective stated maturities;
+134 (6) Provisions for the registration, transfer, and exchange of the Bonds and the
+135 replacement of mutilated, lost, stolen, or destroyed Bonds;
+136 (7) The creation of any reserve fund, sinking fund, or other fund with respect to the
+137 Bonds;
+138 (8) The time and place of payment of the Bonds;
+139 (9) Procedures for monitoring the use of the proceeds received from the sale of the
+140 Bonds to ensure that the proceeds are properly applied to the Project and used to accomplish the
+141 purposes of the Home Rule Act and this resolution;
+142 (10) Actions necessary to qualify the Bonds under blue sky laws of any jurisdiction
+143 where the Bonds are marketed; and
+144 (11) The terms and types of credit enhancement, if any, under which the Bonds may
+145 be secured.
+6
+
+146 (b) The Bonds shall contain a legend, which shall provide that the Bonds are special
+147 obligations of the District, are without recourse to the District, are not a pledge of, and do not
+148 involve the faith and credit or the taxing power of the District, do not constitute a debt of the
+149 District, and do not constitute lending of the public credit for private undertakings as prohibited in
+150 section 602(a)(2) of the Home Rule Act.
+151 (c) The Bonds shall be executed in the name of the District and on its behalf by the manual
+152 or facsimile signature of the Mayor, and attested by the Secretary of the District of Columbia by the
+153 Secretary of the District of Columbia’s manual or facsimile signature. The Mayor’s execution and
+154 delivery of the Bonds shall constitute conclusive evidence of the Mayor’s approval, on behalf of the
+155 District, of the final form and content of the Bonds.
+156 (d) The official seal of the District, or a facsimile of it, shall be impressed, printed, or
+157 otherwise reproduced on the Bonds.
+158 (e) The Bonds of any series may be issued in accordance with the terms of a trust instrument
+159 to be entered into by the District and a trustee to be selected by the Borrower subject to the approval
+160 of the Mayor, and may be subject to the terms of one or more agreements entered into by the Mayor
+161 pursuant to section 490(a)(4) of the Home Rule Act.
+162 (f) The Bonds may be issued at any time or from time to time in one or more issues and in
+163 one or more series.
+164 Sec. 6. Sale of the Bonds.
+165 (a) The Bonds of any series may be sold at negotiated or competitive sale at, above, or
+166 below par, to one or more persons or entities, and upon terms that the Mayor considers to be in the
+167 best interest of the District.
+7
+
+168 (b) The Mayor or an Authorized Delegate may execute, in connection with each sale of the
+169 Bonds, offering documents on behalf of the District, may deem final any such offering document on
+170 behalf of the District for purposes of compliance with federal laws and regulations governing such
+171 matters and may authorize the distribution of the documents in connection with the sale of the
+172 Bonds.
+173 (c) The Mayor is authorized to deliver the executed and sealed Bonds, on behalf of the
+174 District, for authentication, and, after the Bonds have been authenticated, to deliver the Bonds to the
+175 original purchasers of the Bonds upon payment of the purchase price.
+176 (d) The Bonds shall not be issued until the Mayor receives an approving opinion from Bond
+177 Counsel as to the validity of the Bonds of such series and, if the interest on the Bonds is expected to
+178 be exempt from federal income taxation, the treatment of the interest on the Bonds for purposes of
+179 federal income taxation.
+180 Sec. 7. Payment and security.
+181 (a) The principal of, premium, if any, and interest on, the Bonds shall be payable solely from
+182 proceeds received from the sale of the Bonds, income realized from the temporary investment of
+183 those proceeds, receipts and revenues realized by the District from the Loan, income realized from
+184 the temporary investment of those receipts and revenues prior to payment to the Bond owners, other
+185 moneys that, as provided in the Financing Documents, may be made available to the District for the
+186 payment of the Bonds, and other sources of payment (other than from the District), all as provided
+187 for in the Financing Documents.
+188 (b) Payment of the Bonds shall be secured as provided in the Financing Documents and by
+189 an assignment by the District for the benefit of the Bond owners of certain of its rights under the
+8
+
+190 Financing Documents and Closing Documents, including a security interest in certain collateral, if
+191 any, to the trustee for the Bonds pursuant to the Financing Documents.
+192 (c) The trustee is authorized to deposit, invest, and disburse the proceeds received from the
+193 sale of the Bonds pursuant to the Financing Documents.
+194 Sec. 8. Financing and Closing Documents.
+195 (a) The Mayor is authorized to prescribe the final form and content of all Financing
+196 Documents and all Closing Documents to which the District is a party that may be necessary or
+197 appropriate to issue, sell, and deliver the Bonds and to make the Loan to the Borrower. Each of
+198 the Financing Documents and each of the Closing Documents to which the District is not a party
+199 shall be approved, as to form and content, by the Mayor.
+200 (b) The Mayor is authorized to execute, in the name of the District and on its behalf, the
+201 Financing Documents and any Closing Documents to which the District is a party by the Mayor’s
+202 manual or facsimile signature.
+203 (c) If required, the official seal of the District, or a facsimile of it, shall be impressed,
+204 printed, or otherwise reproduced on the Financing Documents and the Closing Documents to which
+205 the District is a party.
+206 (d) The Mayor’s execution and delivery of the Financing Documents and the Closing
+207 Documents to which the District is a party shall constitute conclusive evidence of the Mayor’s
+208 approval, on behalf of the District, of the final form and content of the executed Financing
+209 Documents and the executed Closing Documents.
+210 (e) The Mayor is authorized to deliver the executed and sealed Financing Documents and
+211 Closing Documents, on behalf of the District, prior to or simultaneously with the issuance, sale, and
+9
+
+212 delivery of the Bonds, and to ensure the due performance of the obligations of the District contained
+213 in the executed, sealed, and delivered Financing Documents and Closing Documents.
+214 Sec. 9. Authorized delegation of authority.
+215 To the extent permitted by District and federal laws, the Mayor may delegate to any
+216 Authorized Delegate the performance of any function authorized to be performed by the Mayor
+217 under this resolution.
+218 Sec. 10. Limited liability.
+219 (a) The Bonds shall be special obligations of the District. The Bonds shall be without
+220 recourse to the District. The Bonds shall not be general obligations of the District, shall not be a
+221 pledge of, or involve the faith and credit or the taxing power of, the District, shall not constitute a
+222 debt of the District, and shall not constitute lending of the public credit for private undertakings as
+223 prohibited in section 602(a)(2) of the Home Rule Act.
+224 (b) The Bonds shall not give rise to any pecuniary liability of the District and the District
+225 shall have no obligation with respect to the purchase of the Bonds.
+226 (c) Nothing contained in the Bonds, in the Financing Documents, or in the Closing
+227 Documents shall create an obligation on the part of the District to make payments with respect to
+228 the Bonds from sources other than those listed for that purpose in section 7.
+229 (d) The District shall have no liability for the payment of any Issuance Costs or for any
+230 transaction or event to be effected by the Financing Documents.
+231 (e) All covenants, obligations, and agreements of the District contained in this resolution,
+232 the Bonds, and the executed, sealed, and delivered Financing Documents and Closing Documents to
+233 which the District is a party, shall be considered to be the covenants, obligations, and agreements of
+10
+
+234 the District to the fullest extent authorized by law, and each of those covenants, obligations, and
+235 agreements shall be binding upon the District, subject to the limitations set forth in this resolution.
+236 (f) No person, including, but not limited to, the Borrower and any Bond owner, shall have
+237 any claims against the District or any of its elected or appointed officials, officers, employees, or
+238 agents for monetary damages suffered as a result of the failure of the District or any of its elected or
+239 appointed officials, officers, employees or agents to perform any covenant, undertaking, or
+240 obligation under this resolution, the Bonds, the Financing Documents, or the Closing Documents,
+241 as a result of the incorrectness of any representation in or omission from the Financing Documents
+242 or the Closing Documents, unless the District or its elected or appointed officials, officers,
+243 employees, or agents have acted in a willful and fraudulent manner.
+244 Sec. 11. District officials.
+245 (a) Except as otherwise provided in section 10(f), the elected or appointed officials, officers,
+246 employees, or agents of the District shall not be liable personally for the payment of the Bonds or be
+247 subject to any personal liability by reason of the issuance, sale or delivery of the Bonds, or for any
+248 representations, warranties, covenants, obligations, or agreements of the District contained in this
+249 resolution, the Bonds, the Financing Documents, or the Closing Documents.
+250 (b) The signature, countersignature, facsimile signature, or facsimile countersignature of
+251 any official appearing on the Bonds, the Financing Documents, or the Closing Documents shall
+252 be valid and sufficient for all purposes notwithstanding the fact that the individual signatory
+253 ceases to hold that office before delivery of the Bonds, the Financing Documents, or the Closing
+254 Documents.
+255 Sec.12. Maintenance of documents.
+11
+
+256 Copies of the specimen Bonds and of the final Financing Documents and Closing
+257 Documents shall be filed in the Office of the Secretary of the District of Columbia.
+258 Sec.13. Information reporting.
+259 Within 3 days after the Mayor’s receipt of the transcript of proceedings relating to the
+260 issuance of the Bonds, the Mayor shall transmit a copy of the transcript to the Secretary to the
+261 Council.
+262 Sec. 14. Disclaimer.
+263 (a) The issuance of Bonds is in the discretion of the District. Nothing contained in this
+264 resolution, the Bonds, the Financing Documents, or the Closing Documents shall be construed as
+265 obligating the District to issue any Bonds for the benefit of the Borrower or to participate in or assist
+266 the Borrower in any way with financing, refinancing, or reimbursing the costs of the Project. The
+267 Borrower shall have no claims for damages or for any other legal or equitable relief against the
+268 District, its elected or appointed officials, officers, employees, or agents as a consequence of any
+269 failure to issue any Bonds for the benefit of the Borrower.
+270 (b) The District reserves the right to issue the Bonds in the order or priority it determines in
+271 its sole and absolute discretion. The District gives no assurance and makes no representations that
+272 any portion of any limited amount of bonds or other obligations, the interest on which is excludable
+273 from gross income for federal income tax purposes, will be reserved or will be available at the time
+274 of the proposed issuance of the Bonds.
+275 (c) The District, by adopting this resolution or by taking any other action in connection with
+276 financing, refinancing, or reimbursing costs of the Project, does not provide any assurance that the
+277 Project is viable or sound, that the Borrower is financially sound, or that amounts owing on the
+12
+
+278 Bonds or pursuant to the Loan will be paid. Neither the Borrower, any purchaser of the Bonds, nor
+279 any other person shall rely upon the District with respect to these matters.
+280 Sec. 15. Expiration.
+281 If any Bonds are not issued, sold, and delivered to the original purchaser within 3 years of
+282 the date of this resolution, the authorization provided in this resolution with respect to the issuance,
+283 sale, and delivery of the Bonds shall expire.
+284 Sec. 16. Severability.
+285 If any particular provision of this resolution, or the application thereof to any person or
+286 circumstance is held invalid, the remainder of this resolution and the application of such provision
+287 to other persons or circumstances shall not be affected thereby. If any action or inaction
+288 contemplated under this resolution is determined to be contrary to the requirements of applicable
+289 law, such action or inaction shall not be necessary for the purpose of issuing of the Bonds, and the
+290 validity of the Bonds shall not be adversely affected.
+291 Sec. 17. Compliance with public approval requirement.
+292 This approval shall constitute the approval of the Council as required in section 147(f) of
+293 the Internal Revenue Code of 1986, as amended (the “Code”), and section 490(k) of the Home
+294 Rule Act, for the Project to be financed, refinanced, or reimbursed with the proceeds of the
+295 Bonds. This resolution approving the issuance of the Bonds for the Project has been adopted by
+296 the Council after a public hearing held in accordance with section 147(f) of the Code, as such
+297 section may be amended, and the corresponding regulations promulgated by the United States
+298 Department of the Treasury.
+299 Sec. 18. Transmittal.
+300 The Council shall transmit a copy of this resolution, upon its adoption, to the Mayor.
+13
+
+301 Sec. 19. Fiscal impact statement.
+302 The Council adopts the fiscal impact statement of the committee report as the fiscal
+303 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+304 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+305 Sec. 20. Effective date.
+306 This resolution shall take effect immediately.
+14
+
+Field School Inc. Revenue Bond
+FACT SHEET
+The Field School Inc. has requested that the District issue up to $25,000,000 in tax-exempt bonds
+to build a new 15,000 square foot Innovation Center and to renovate the Wonder Building and
+athletic fields on the school’s campus located at 2301 Foxhall Road NW in Ward 3.
+The Applicant
+Field School is a private college preparatory school serving children from grades 6 through 12.
+In 1972, the Field School was founded with 44 students, on the belief that learning occurs best in
+an informal, personal, and non-institutional environment. The Field School’s student body also
+includes special needs students, such as students with attention deficit syndrome and behavioral
+disorders. The Field School is one of the few schools operating in the District that are responsive
+to meeting the unique needs of such students. Currently, they have approximately 370 students.
+The Field School’s minority student enrollment is 23.9%, and the school has a student-teacher
+ratio of 8:1.
+Proposed Project
+The proposed project is to build a new 15,000 square foot Innovation Center and renovate the
+Wonder Building and athletic fields on the school’s campus located at 2301 Foxhall Road NW in
+Ward 3.
+Financing Plan
+A summary of the proposed sources and uses of funds is attached (see Table 1).
+Feasibility/Structure/Security of the Bonds
+First Tryon Advisors, financial advisor for Field School, has determined this bond transaction to
+be financially feasible.
+The bonds, if issued, will be secured by a general obligation pledge of the Field School and will
+be without recourse to the District of Columbia.
+Public Purpose Benefits
+As a private school in Washington, D.C., the Field School provides public purpose benefits by
+offering high-quality education that promotes civic engagement, leadership, and community
+service. Through student volunteerism, partnerships with local organizations, and cultural
+programming, the school contributes meaningfully to the social, educational, and cultural fabric
+of the city. The proposed bond financing will support the Field School in furthering its mission
+
+The Field School, Inc.
+by enabling facility upgrades and expansions in a more financially sustainable way, thus
+allowing for more scholarship and financial assistance opportunities.
+Legal and Regulatory Affairs
+The law firm of Orrick, bond counsel to the Revenue Bond Program, has preliminarily
+determined that the applicant is a 501(c)(3) organization and that this project constitutes a
+permissible undertaking under to Section 490(a)(1) of the District of Columbia Home Rule Act.
+Based on the information set forth in the application, the Revenue Bond Program staff has
+determined that the proposed project complies with criteria for approval of this proposed
+financing through the District’s Industrial Revenue Bond Program and will assist the Borrower
+in furthering its organizational mission.
+
+The Field School, Inc.
+TABLE 1
+PROPOSED SOURCES AND USES OF FUNDS
+SOURCES OF FUNDS
+Bond Proceeds (Tax Exempt) $25,000,000
+Total Sources of Funds $25,000,000
+USE OF FUNDS
+New Construction and Renovation $24,175,000
+Machinery and Equipment $525,000
+Cost of Issuance $300,000
+Total Uses of Funds $25,000,000
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+Commercial Division
+Tax and Finance Section
+MEMORANDUM
+TO: William Liggins, Director
+D.C. Revenue Bond-Enterprise Zone Program
+Office of the Deputy Mayor for Planning
+and Economic Development
+FROM: Christopher E. Hughes Jr.
+Attorney Advisor
+DATE: June 18, 2025
+SUBJECT: Legal Sufficiency Review: The Field School, Inc. Revenue Bonds Project
+Approval Resolution of 2025
+____________________________________________________________________________
+This responds to a request from your office to review for legal sufficiency the attached draft of the
+above-referenced proposed resolution. For purposes of this review, this Office premises its
+conclusion on the assumption that your office has determined that the Borrower as defined in the
+aforementioned resolution is a “qualified applicant” within the meaning of Section 490 of the
+District of Columbia Home Rule Act.
+A review of the attached draft of the above-referenced proposed resolution indicates that the draft
+proposed resolution conforms with the Model Revenue Bond Resolution jointly drafted and
+determined to be legally sufficient by the General Counsel of the Council, the Office of the Attorney
+General, and the District's bond counsel. Accordingly, we find the attached draft of the above-
+referenced proposed resolution legally sufficient.
+Please contact me at 805-7440 if you have further questions or concerns.
+Attachments: The Field School, Inc. Revenue Bonds Project Approval Resolution of 2025
+Christopher E. Hughes Jr.
+Attorney Advisor
+400 Sixth Street, N.W., Suite 9100, Washington, DC 20001 Tel.: (202) 805-7440 Fax: (202) 730-0486

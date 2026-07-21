@@ -1,0 +1,566 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 ______________________________ ______________________________
+2 Councilmember Kenyan R. McDuffie Councilmember Trayon White, Sr.
+3
+4 A BILL
+5 _______________
+6 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+7 ________________________
+8
+9 To amend the Business Improvement District Act of 1996 to authorize the establishment and
+10 administration of the Soul of the City Business Improvement District.
+11
+12 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+13 act may be cited as the “Soul of the City Business Improvement District Amendment Act of
+14 2025”.
+15 Sec. 2. Title II of the Business Improvement District Act of 1996, effective May 29, 1996
+16 (D.C. Law 11-134; D.C. Official Code § 2-1215.01 et seq.), is amended by adding a new section
+17 213 to read as follows:
+18 “Section 213. Soul of the City BID.
+19 “(a) Subject to review and approval by the Mayor pursuant to sections 5 and 6, the
+20 formation of the Soul of the City Business Improvement District (“BID”), including nonexempt
+21 real property within the geographic area set forth in subsection (b) of this section, is authorized
+22 and the BID taxes imposed in subsection (c) of this section shall be imposed through the earlier
+23 of the expiration of this act or the termination or dissolution of the BID.
+1
+
+24 “(b) The Soul of the City BID shall be comprised of the geographic area bounded by a
+25 line that starts beginning at the intersection of the westerly line of South Capitol Street and the
+26 northerly line of Atlantic Street, S.W., said beginning also being the southeast corner of Lot 8,
+27 Square 6150, and leaving said beginning and running with the boundary of the Proposed Soul of
+28 the City Business Improvement District the following courses and distances: with said northerly
+29 line of Atlantic Street, S.W., Northwesterly, to the easterly line of a public alley in Square 6150;
+30 with said easterly line of public alley, Northeasterly, to the northerly line of a public alley in
+31 Square 6150; thence with said northerly line of public alley, Northwesterly to the easterly line of
+32 Martin Luther King Jr. Avenue, S.W.; crossing public space, Northwesterly, to the southwest
+33 corner of Reservation 679; crossing Martin Luther King Jr. Avenue, S.W., Northerly, to the
+34 southeast corner of Lot 802, Square 6149; thence with the southwest line of said Lot 802, Square
+35 6149, Northwesterly, to the westmost corner of said Lot 802, Square 6149; thence with the
+36 northwest line of said Lot 802, Square 6149, Northeasterly, to the southwesterly line of Xenia
+37 Street, S.W.; crossing said Xenia Street, S.W., Northwesterly, to the southeast corner of Parcel
+38 244/48; thence with the southeast boundary of said Parcel 244/48, Northeasterly, to the northeast
+39 corner of said parcel; thence with the northeast boundary of said Parcel 244/48, Northwesterly, to
+40 a northwest corner of Lot 826, Square 6129; thence with the northwest line of said Lot 826,
+41 Square 6129, and its extension, Northeasterly, to a northwest corner of Parcel 244/46; thence
+42 with a northwest line of said Parcel 244/46, Northeasterly, to the northmost corner of said parcel;
+43 crossing South Capitol Street, Northeasterly, to the southeast corner on Martin Luther King Jr.
+44 Avenue, S.E., of Parcel 244/78; thence with the northwesterly line of Martin Luther King Jr.
+45 Avenue, S.E., Northeasterly, to the southmost corner of Lot 48, Square 6070; thence with the
+46 southwest line of Lot 48, Square 6070, Northwesterly, to the northwest line of said lot; thence
+2
+
+47 with said northwest line of Lot 48, Square 6070, and its extension, Northeasterly, to the southeast
+48 corner of a 15’ wide public alley in Square 6070; thence with the southeasterly line of said 15’
+49 wide public alley in Square 6070, Northeasterly, to the southwesterly line of Sterling Street, S.E.;
+50 crossing said Sterling Street, S.E., Northeasterly, to the intersection of the northeast line of
+51 Sterling Street, S.E. and the southeast line of a 15’ wide public alley in Square 6070; thence with
+52 said southeast line of a 15’ wide public alley in Square 6070, Northeasterly, to the southwest line
+53 of Trenton Place, S.E.; crossing said Trenton Place, S.E., Northeasterly, to the southeast corner of
+54 Lot 801, Square 6005; thence with the southeast line of said Lot 801, Square 6005, Northeasterly,
+55 to the northeast corner of said lot; thence with the northeast line of said Lot 801, Square 6005,
+56 Northwesterly, to the southeast line of a 15’ wide public alley in Square 6005; thence with said
+57 southeast line of a 15’ wide public alley in Square 6005, Northeasterly, to the southwest line of
+58 Highview Place, S.E.; crossing said Highview Place, S.E., Northeasterly, to the southeast line of
+59 a 15’ wide public alley in Square 6004; thence with said southeast line of 15’ wide public alley in
+60 Square 6004, Northeasterly, to the westmost corner of Lot 1, Square 6004; continuing along said
+61 southeast line of 15’ wide public alley in Square 6004 and its extension into Square E-6004,
+62 215.43 feet on the arc of a curve to the right of radius 328 feet, to a break; continuing along said
+63 southeast line of 15’ wide public alley in Square E-6004, Northeasterly, to the southwest line of
+64 Waclark Place, S.E.; crossing said Waclark Place, S.E., Northeasterly, to the northwest corner of
+65 Lot 10, Square 5990; thence with the southeast line of a 15’ wide public alley in Square 5990,
+66 Northeasterly, to the southwest line of Esther Place, S.E.; crossing said Esther Place, S.E.,
+67 Northeasterly, to the northwest corner of Lot 15, Square 5989; with the southeast line of a 15’
+68 wide public alley in Square 5899, Northeasterly, to the south line of Raleigh Street, S.E.; crossing
+69 said Raleigh Street, S.E., Northeasterly, to the southwest corner of Lot 92, Square 5988; with the
+3
+
+70 east line of a 16’ wide public alley in Square 5988, North, to the south line of Parkland Place,
+71 S.E.; crossing said Parkland Place, S.E., Northwesterly, to the southwest corner of Parcel 242/69;
+72 thence with the westerly line of said Parcel 242/69, Northwesterly, to the south line of Malcolm X
+73 Avenue, S.E.; crossing said Malcolm X Avenue, S.E., Northeasterly, to the southwest corner of
+74 Lot 40, Square 5984; with the northwest line of said Lot 40, Square 5984, Northeasterly, to the
+75 northmost corner of said lot; thence with the northeast line of said Lot 40, Square 5984,
+76 Southeasterly, to the westmost corner of Lot 806, Square 5984; thence with the northwest line of
+77 said Lot 806, Square 5984, Northeasterly, to the southwest line of Mellon Street, S.E.; crossing
+78 said Mellon Street, S.E., Northerly, to the westmost corner of Lot 51, Square 5983; with the
+79 southeast line of a 16’ wide public alley in Square 5983, Northeasterly, to the southwest line of
+80 Lebaum Street, S.E.; crossing said Lebaum Street, S.E., Northerly, to the westmost corner of Lot
+81 823, Square 5982; with the northwest boundary of said Lot 823, Square 5982, Northeasterly, to a
+82 corner of said lot; continuing along the northwest boundary of said Lot 823, Square 5982,
+83 Northwesterly, to the southwest line of a 16’ wide public alley in Square 5982; crossing said 16’
+84 wide public alley in Square 5982, Northerly, to the southeast corner of Lot 815, Square 5982;
+85 thence with the northeasterly line of said 16’ wide public alley in Square 5982, Northwesterly, to
+86 the westmost corner of Lot 45, Square 5982; thence with the northwest line of said Lot 45, Square
+87 5982, Northeasterly, to the north line of said lot; thence with said north line of Lot 45, Square
+88 5982, Easterly, to the northeast corner of said lot; thence with an east line of said Lot 45, Square
+89 5982, Southerly, to the north line of Lot 815, Square 5982; thence with said north line of Lot 815,
+90 Square 5982, Easterly, to the west line of a 16’ wide public alley in Square 5982; crossing a 16’
+91 wide public alley in Square 5982, Southeasterly, to the northwest corner of Parcel 234/30; with
+92 the north line of said Parcel 234/30, Easterly, to the northeast corner of said parcel and the
+4
+
+93 westerly line of Martin Luther King Jr. Avenue, S.E.; crossing said Martin Luther King Jr.
+94 Avenue, S.E., Northerly, to the northwest corner of Lot 859, Square S-5868; thence with the
+95 northerly line of said Lot 859, Square S-5868, Easterly, to a northeast corner of said lot; thence
+96 with an east line of said Lot 859, Square S-5868, Southeasterly, to a corner of said lot; with an
+97 east line of said Lot 859, Square S-5868, Southerly, to the northerly line of Lot 861, Square S-
+98 5868; thence with said northerly line of Lot 861, Square S-5868 and its extension, Easterly, to a
+99 westerly line of Lot 968, Square S-5868; thence with said westerly line of Lot 968, Square S-
+100 5868, Northerly, to the north line of said lot; thence with said north line of Lot 968, Square S-
+101 5868, Easterly, to a southwest line of Lot 804, Square S-5868; thence with a southwest line of
+102 said Lot 804, Square S-5868, Southeasterly, to a corner of said lot; thence with a southwesterly
+103 line of said Lot 804, Square S-5868, Southeasterly, to the southmost corner of Lot 804, Square S-
+104 5868; thence with a southeasterly line of said Lot 804, Square S-5868, Northeasterly, to a corner
+105 of said lot; thence with a northeasterly line of said Lot 804, Square S-5868, Northwesterly, to a
+106 corner of said lot; thence with a southeasterly line of said Lot 804, Square S-5868, Northeasterly,
+107 to a corner of said lot; thence with a northeasterly line of said Lot 804, Square S-5868,
+108 Northwesterly, to a corner of said lot; thence with a northeasterly line of said Lot 804, Square S-
+109 5868, Northwesterly, to a northwest line of Lot 805, Square S-5868; thence with a northwest line
+110 of said Lot 805, Square S-5868, Northeasterly, to the northeast line of Square S-5868; thence
+111 with said northeast line of Square S-5868, Southeasterly, to a corner of Lot 805, Square S-5868;
+112 continuing along the boundary of said Lot 805, Square S-5868, Southwesterly, to a corner of said
+113 lot; continuing along the boundary of said Lot 805, Square S-5868, Southeasterly, to a corner of
+114 said lot; continuing along the boundary of said Lot 805, Square S-5868, Northeasterly, to a corner
+115 of said lot; continuing along the boundary of said Lot 805, Square S-5868, Southeasterly, to a
+5
+
+116 corner of said lot; thence with a northeasterly line of said Lot 805, Square S-5868, Southeasterly,
+117 to the eastmost corner of said lot; thence with a southeasterly line of said Lot 805, Square S-
+118 5868, Southwesterly, to the northmost corner of Lot 845, Square S-5868; thence with the
+119 northeast line of said Lot 845, Square S-5868, Southeasterly, to a northwesterly line of Lot 823,
+120 Square 5889; with said northwesterly line of Lot 823, Square 5889, Southwesterly, to a corner of
+121 said lot; thence with a westerly line of said Lot 823, Square 5889, Southerly, to the northwesterly
+122 line of Alabama Avenue, S.E.; thence with said northwesterly line of Alabama Avenue, S.E,
+123 Northeasterly, to the southwest corner of Lot 805, Square 5889; thence with the southwest line of
+124 said Lot 805, Square 5889, Northwesterly, to a northerly line of said lot; thence with said
+125 northerly line of Lot 805, Square 5889, Northeasterly, to a corner of said lot; continuing along the
+126 boundary of said Lot 805, Square 5889, Southeasterly, to the westerly line of Congress Place,
+127 S.E.; crossing said Congress Place, S.E., Southeasterly, to the northwest corner of Lot 39, Square
+128 5889; with the northerly line of said Lot 39, Square 5889, Northeasterly, to a corner of said lot;
+129 continuing along the northerly boundary of said Lot 39, Square 5889, and its extension,
+130 Northeasterly, to the westerly line of a public alley in Square 5889; with said westerly line of
+131 public alley in Square 5889, Southeasterly, to the southeasterly line of said public alley in Square
+132 5889; continuing along said southeasterly line of public alley in Square 5889, Northeasterly, to
+133 break in said line; continuing along said southeasterly line of public alley in Square 5889,
+134 Northeasterly, to a break in said line; continuing along said southeasterly line of public alley in
+135 Square 5889, Northeasterly, to the northeasterly line of public alley in Square 5889; with said
+136 northeasterly line of public alley in Square 5889, Northwesterly, to the northwest corner of Lot
+137 37, Square 5889; with the northerly line of said Lot 37, Square 5889, Southeasterly, to the
+138 westerly line of 15th Place, S.E.; crossing said 15th Place, S.E., Northeasterly, to the northwest
+6
+
+139 corner of Lot 142, Square 5890; thence with the southerly line of a 20’ wide public alley in Square
+140 5890, Southeasterly, to a break; continuing along said southerly line of 20’ wide public alley in
+141 Square 5890, Northeasterly, to a point of curve; continuing along said southerly line of 20’ wide
+142 public alley in Square 5890, 20.98’ on the arc of a curve to the left of radius 30’ to a northeast
+143 corner of Lot 166, Square 5890; thence with a northeast line of said Lot 166, Square 5890,
+144 Southeasterly, to the northwest corner of Lot 167, Square 5890; thence with the northwest line of
+145 said Lot 167, Square 5890, Northeasterly, to the southwest line of Stanton Road, S.E.; crossing
+146 said Stanton Road, S.E. and Alabama Avenue, S.E., Southeasterly, to the northeast corner of Lot
+147 4, Square 5902; thence with the easterly line of Square Lot 4, Square 5902, Southeasterly, to the
+148 northeast corner of Lot 3, Square 5902; thence with the easterly line of said Lot 3, Square 5902,
+149 Southeasterly, to the northerly line of Savannah Street, S.E; crossing Savannah Street, S.E.,
+150 Easterly, to the intersection of the southerly line of Savannah Street, S.E., and the southwesterly
+151 line of 18th Street, S.E.; thence with said southwesterly line of 18th Street, S.E., Southeasterly, to
+152 the southeast corner of Lot 5, Square 5903; thence with the southerly line of said Lot 5, Square
+153 5903, Westerly, to the northeast corner of Lot 4, Square 5903; thence with the easterly line of said
+154 Lot 4, Square 5903, Southeasterly, to the northerly line of Lot 3, Square 5903; thence with said
+155 northerly line of Lot 3, Square 5903, Northeasterly, to the northeast corner of said lot; thence with
+156 the east line of said Lot 3, Square 5903, and its extension, Southeasterly, to the northerly line of
+157 Trenton Place, S.E.; crossing Trenton Place, S.E., Southeasterly, to the northeast corner of Lot 7,
+158 Square 5908; thence with the easterly line of said Lot 7, Square 5908, Southeasterly, to the
+159 northerly line of Lot 9, Square 5908; thence with said northerly line of Lot 9, Square 5908,
+160 Southwesterly, to the northwest corner of said lot; thence with the westerly line of Lot 9, Square
+161 5908, and its extension, Southeasterly, to the northwest corner of Lot 1, Square 5908; thence with
+7
+
+162 the northerly line of said Lot 1, Square 5908, Northeasterly, to the southwesterly line of 18th
+163 Street, S.E.; thence with said southwesterly line of 18th Street, S.E., Southeasterly, to the northerly
+164 line of Mississippi Avenue, S.E.; crossing Mississippi Avenue, S.E., Easterly, to the northeast
+165 corner of Lot 805, Square 5905; thence with the southerly line of Mississippi Avenue, S.E.,
+166 263.68’ on the arc of a curve to the right of radius 2,941.3’, to a point of change of curve;
+167 continuing along said southerly line of Mississippi Avenue, S.E., 837.80’ on the arc of a curve to
+168 the right of radius 3,377.0’, to the northwest line of Southern Avenue, S.E.; thence with said
+169 northwest line of Southern Avenue, S.E., Southwesterly, to a southeast corner of Lot 804, Square
+170 5905; thence with a southerly line of said Lot 804, Square 5905, Southwesterly, to a corner of
+171 said lot; continuing along the boundary of said Lot 804, Square 5905, Southwesterly, to a corner
+172 of said lot; continuing along the boundary of said Lot 804, Square 5905, Southwesterly, to a
+173 corner of said lot; continuing along the boundary of said Lot 804, Square 5905, Southwesterly, to
+174 a corner of said lot; continuing along the boundary of said Lot 804, Square 5905, Northwesterly,
+175 to a corner of said lot; continuing along the boundary of said Lot 804, Square 5905,
+176 Southwesterly, to a corner of said lot; continuing along the boundary of said Lot 804, Square
+177 5905, Southwesterly, to a corner of said lot; continuing along the boundary of said Lot 804,
+178 Square 5905, Southwesterly, to a corner of said lot; continuing along the boundary of said Lot
+179 804, Square 5905, Northwesterly, to a corner of said lot; continuing along the boundary of said
+180 Lot 804, Square 5905, Northwesterly, to a corner of said lot; continuing along the boundary of
+181 said Lot 804, Square 5905, Southwesterly, to a southeasterly line of Lot 805, Square 5905;
+182 thence with the boundary of said Lot 805, Square 5905, Southwesterly, to a corner of said lot;
+183 continuing along the boundary of said Lot 805, Square 5905, Southwesterly, to a corner of said
+184 lot; continuing along the boundary of said Lot 805, Square 5905, 135.42’ on the arc of a curve to
+8
+
+185 the right of radius 871.18’, to a corner of said lot; continuing along the boundary of said Lot 805,
+186 Square 5905, Northeasterly, to the southerly line of Mississippi Avenue, S.E.; crossing
+187 Mississippi Avenue, S.E., Westerly, to the southeast corner of Lot 815, Square 5912; thence with
+188 the northeast line of said Lot 815, Square 5912, Northwesterly, to a corner of said lot; thence with
+189 the northwest line of said Lot 815, Square 5912, Southwesterly, to the easterly line of Cook
+190 Drive, S.E.; thence with said easterly line of Cook Drive, S.E., Northwesterly, to a point of curve;
+191 continuing with said easterly line of Cook Drive, S.E., 180.15’ on the arc of a curve to the left of
+192 radius 193.50’, to a point of reverse curve; continuing with said easterly line of Cook Drive, S.E.,
+193 154.97’ on the arc of curve to the right of radius 306.50’, to a point of tangent; continuing with
+194 said easterly line of Cook Drive, S.E., Northwesterly, to a point of curve; thence with the line of
+195 Cook Drive, S.E., 150.88’ on the arc of a curve to the left of radius 197.50’, to the southwest
+196 corner of Lot 75, Square 5912; thence with the westerly line of said Lot 75, Square 5912,
+197 Northwesterly, to the southwesterly boundary of Lot 817, Square 5912; thence with said
+198 southwesterly boundary of Lot 817 Square 5912, 270.80’ on the arc of a curve to the left of radius
+199 307.50’, to the southeast boundary of Lot 10, Square 5909; thence with said southeast line of said
+200 Lot 10, Square 5909 and its extension, Northeasterly, to a southeast corner of Lot 108, Square
+201 5912; thence with a southerly line of said Lot 108, Square 5912, and its extension, Southwesterly,
+202 to the easterly line of 15th Street, S.E.; crossing 15th Street, S.E., Northwesterly, to the southeast
+203 corner of Lot 46, Square 5913; thence with the south line of said Lot 46, Square 5913, Westerly,
+204 to the easterly line of Lot 827, Square 5913; thence with said easterly line of Lot 827, Square
+205 5913, Southeasterly, to the northerly line of Savannah Street, S.E.; thence with said northerly line
+206 of Savannah Street, S.E., Southwesterly, to the southwest corner of Lot 827, Square 5913; thence
+207 with the westerly line of said Lot 827, Square 5913, Northwesterly, to the southeast corner of Lot
+9
+
+208 840, Square 5913; thence with the southerly line of said Lot 840, Square 5913, and its extension,
+209 Southwesterly, to the southwest corner of Lot 837, Square 5913; crossing a public alley in Square
+210 5913, Southwesterly, to the southeast corner of Lot 51, Square 5913; thence with the northerly
+211 line of Savannah Street, S.E., Southwesterly, to the easterly line of Congress Street, S.E.; crossing
+212 Congress Street, S.E., Southwesterly, to the southeast corner of Lot 9, Square 5914; thence with
+213 the northerly line of Savannah Street, S.E., Southwesterly, to the easterly line of 13th Street, S.E.;
+214 crossing 13th Street, S.E., Westerly, to the southeast corner of Lot 16, Square 5946; thence with
+215 the northerly line of Savannah Street, S.E., Southwesterly, to the easterly line of 12th Place, S.E.;
+216 Crossing 12th Place, S.E., Southwesterly, to the southeast corner of Lot 48, Square 5946; thence
+217 with the northerly line of Savannah Street, S.E., Southwesterly to the easterly line of 12th Street,
+218 S.E.; Crossing 12th Street, S.E., Northwesterly, to the southeast corner of Lot 33, Square 5945;
+219 thence with the southeasterly line of said Lot 33, Square 5945, Southwesterly, to southwest corner
+220 of said lot; thence with the southwest line of said Lot 33, Square 5945 and its extension,
+221 Northerly, to the southeasterly line of a public alley in Square 5945; thence with said
+222 southeasterly line of public alley in Square 5945, Southwesterly, to the northeast corner of Lot 4,
+223 Square 5945; thence with the northeasterly line of said Lot 4, Square 5945, Southeasterly, to the
+224 northerly line of Savannah Street, S.E.; thence with said northerly line of Savannah Street, S.E.,
+225 Southwesterly, to the northeasterly line of 11th Place, S.E.; crossing 11th Place, S.E.,
+226 Southwesterly, to the southeast corner of Lot 35, Square 5944; thence with the northerly line of
+227 Savannah Street, S.E., Southwesterly, to the northeasterly line of 10th Place, S.E.; crossing 10th
+228 Place, S.E., Southwesterly, to the southeast corner of Lot 828, Square 5943; thence with the
+229 northerly line of Savannah Street, S.E., Southwesterly, to the northeasterly line of 9th Place, S.E.;
+230 crossing 9th Place, S.E. and Savannah Street, S.E., Southwesterly, to the northeast corner of Lot
+10
+
+231 805, Square 5939; thence with a northeasterly line of said Lot 805, Square 5939, Southeasterly, to
+232 the northmost line of Lot 15, Square 5939; thence with said northmost line of Lot 15, Square
+233 5939, Northeasterly, to the southwesterly line of 10th Place, S.E.; thence with said southwesterly
+234 line of 10th Place, S.E., Southeasterly, to a corner of Lot 15, Square 5939; thence with the
+235 boundary of said Lot 15, Square 5939, Southwesterly, to a corner of said lot; thence with the
+236 boundary of said Lot 15, Square 5939, Southerly, to a corner of said lot; thence with the boundary
+237 of said Lot 15, Square 5939, Southwesterly, to a corner of said lot; thence with the boundary of
+238 said Lot 15, Square 5939, Northwesterly, to a corner of said lot; thence with the boundary of said
+239 Lot 15, Square 5939, Northeasterly, to a corner of said lot; thence with the boundary of said Lot
+240 15, Square 5939, Northwesterly, to a corner of said lot; thence with the boundary of said Lot 15,
+241 Square 5939, Southwesterly, to a corner of said lot; thence with the boundary of said Lot 15,
+242 Square 5939, Northwesterly, to a corner of said lot; thence with the boundary of said Lot 15,
+243 Square 5939, Southwesterly, to a corner of said lot; thence with the boundary of said Lot 15,
+244 Square 5939, Southeasterly, to a corner of said lot; thence with the boundary of said Lot 15,
+245 Square 5939, Southwesterly, to a northeast corner of Lot 20, Square 5939; thence with the
+246 boundary of said Lot 20, Square 5939, Southeasterly, to a corner of said lot; thence with the
+247 boundary of said Lot 20, Square 5939, Northeasterly, to a corner of said lot; thence with the
+248 boundary of said Lot 20, Square 5939, Southeasterly, to a corner of said lot; thence with the
+249 boundary of said Lot 20, Square 5939, Southwesterly, to a corner of said lot; thence with the
+250 boundary of said Lot 20, Square 5939, Southeasterly, to a northwest corner of Lot 18, Square
+251 5939; thence with the boundary of said Lot 18, Square 5939, Northeasterly, to a corner of said
+252 lot; thence with the boundary of said Lot 18, Square 5939, Southeasterly, to a corner of said lot;
+253 thence with the boundary of said Lot 18, Square 5939, Northeasterly, to a corner of said lot;
+11
+
+254 thence with an easterly line of said Lot 18, Square 5939, and its extension, Southerly, to the
+255 northerly line of Mississippi Avenue, S.E.; crossing Mississippi Avenue, S.E., Southerly, to the
+256 northeast corner of Parcel 236/70; thence with the easterly line of said Parcel 236/70,
+257 Southeasterly, to a corner of said parcel; thence with the southerly line of said Parcel 236/70,
+258 Southwesterly, to the northeast corner of Lot 3, Square 5931; thence with the easterly line of said
+259 Lot 3, Square 5931, Southeasterly, to the northerly line of Valley Avenue, S.E.; crossing Valley
+260 Avenue, S.E., Southwesterly, to the northeast corner of Lot 117, Square 5928; thence with the
+261 northeast line of said Lot 117, Square 5928, Southeasterly, to the northerly line of an alley in
+262 Square 5928; crossing said alley in Square 5928, Southeasterly, to the northeast corner of Lot
+263 108, Square 5928; thence with the northeast line of said Lot 108, Square 5928, Southeasterly, to
+264 the northerly line of Blakney Lane, S.E.; crossing Blakney Lane, S.E., Southeasterly, to the
+265 northeast corner of Lot 49, Square 5928; thence with the northeast line of said Lot 49, Square
+266 5928, Southeasterly, to the northerly line of a 20.07’ wide alley in Square 5928; crossing said
+267 20.07’ public alley in Square 5928, Easterly, to the northeast corner of Lot 43, Square 5928;
+268 thence with the northeasterly line of said Lot 43, Square 5928, 284.61 feet on the arc of a curve to
+269 the left of radius 1,195’, to the northwesterly line of Varney Street, S.E.; crossing Varney Street,
+270 S.E., Southwesterly, to the northeast corner of Lot 118, Square 5920; thence with the northeast
+271 line of said Lot 118, Square 5920, Southeasterly, to the northerly line of a 20.02’ wide public
+272 alley in Square 5920; crossing said 20.02’ wide public alley in Square 5920, Northeasterly, to the
+273 northmost corner of Lot 123, Square 5920; thence with the southwesterly line of Cole Boulevard,
+274 S.E., Southeasterly, to a point of curvature; continuing with the southwesterly line of Cole
+275 Boulevard, S.E., 191.93’ on the arc of a curve to the right of radius 79.0’, to the southmost corner
+276 of Lot 129, Square 5920 and the northerly line of Wahler Place, S.E.; crossing Wahler Place,
+12
+
+277 S.E., Southeasterly, to the northeast corner of Lot 104, Square 5920; thence with the northeast line
+278 of said Lot 104, Square 5920, Southeasterly, to the northerly line of a public alley in Square
+279 5920; crossing said public alley in Square 5920, Southeasterly, to the northeast corner of Lot 913,
+280 Square 5921; thence with the northeast line of said Lot 913, Square 5921, Southeasterly, to a
+281 northerly line of Lot 938, Square 5921; thence with the boundary of said Lot 938, Square 5921,
+282 Northeasterly, to a corner of said lot; thence with the boundary of said Lot 938, Square 5921,
+283 Northwesterly, to a corner of said lot; thence with the boundary of said Lot 938, Square 5921,
+284 Northeasterly, to a corner of said lot; thence with the boundary of said Lot 938, Square 5921,
+285 Southeasterly, to a corner of said lot; thence with the boundary of said Lot 938, Square 5921,
+286 Southwesterly, to a corner of said lot; thence with the boundary of said Lot 938, Square 5921,
+287 Southeasterly, to a corner of said lot; thence with the boundary of said Lot 938, Square 5921,
+288 Northeasterly, to a corner of said lot; thence with the boundary of said Lot 938, Square 5921,
+289 Southeasterly, to a northerly line of Barnaby Terrace, S.E.; crossing said Barnaby Terrace, S.E.,
+290 Southwesterly, to the northeast corner of Lot 26, Square 5923; thence with the northeast line of
+291 said Lot 26, Square 5923, Southeasterly, to a northerly line of Lot 57, Square 5923; thence with
+292 the boundary of said Lot 57, Square 5923, Northeasterly, to a corner of said lot; thence with the
+293 boundary of said Lot 57, Square 5923, Northwesterly, to a corner of said lot; thence with the
+294 boundary of said Lot 57, Square 5923, Northeasterly, to a corner of said lot; thence with the
+295 boundary of said Lot 57, Square 5923, Southeasterly, to a corner of said lot; thence with the
+296 boundary of said Lot 57, Square 5923, Northeasterly, to a corner of said lot; thence with the
+297 boundary of said Lot 57, Square 5923, Northwesterly, to a corner of said lot; thence with the
+298 boundary of said Lot 57, Square 5923, Northeasterly, to a corner of said lot; thence with the
+299 boundary of said Lot 57, Square 5923, Southeasterly, to a corner of said lot; thence with the
+13
+
+300 boundary of said Lot 57, Square 5923, Southwesterly, to a corner of said lot; thence with the
+301 boundary of said Lot 57, Square 5923, Northwesterly, to a corner of said lot; thence with the
+302 boundary of said Lot 57, Square 5923, Southwesterly, to a corner of said lot; thence with the
+303 boundary of said Lot 57, Square 5923, Southeasterly, to a corner of said lot; thence with the
+304 boundary of said Lot 57, Square 5923, 47.49’ on the arc of a curve to the left of radius 160.0’, to
+305 a point of tangent; thence with the boundary of said Lot 57, Square 5923, Southwesterly, to a
+306 corner of said lot; thence with the boundary of said Lot 57, Square 5923, Northwesterly, to a
+307 corner of said lot; thence with the boundary of said Lot 57, Square 5923, Southwesterly, to the
+308 northeast corner of Lot 56, Square 5923; thence with the northeast line of said Lot 56, Square
+309 5923, Southeasterly, to a northerly line of Barnaby Terrace, S.E.; crossing Barnaby Terrace, S.E.,
+310 Southeasterly, to the northeast corner of Lot 830, Square 5921; thence with the northeast line of
+311 said Lot 830, Square 5921, Southeasterly, to a northwesterly line of Lot 833, Square 5921; thence
+312 with the boundary of said Lot 833, Square 5921, Northeasterly, to a corner of said lot; thence with
+313 the boundary of said Lot 833, Square 5921, Northwesterly, to the southeasterly line of Barnaby
+314 Terrace, S.E.; thence with said southeasterly line of Barnaby Terrace, S.E., Northeasterly, to a
+315 point of curve; continuing along said southeasterly line of Barnaby Terrace, S.E., 41.45’ on the
+316 arc of a curve to the right of radius 100’, to a point of tangent; continuing along said
+317 southeasterly line of Barnaby Terrace, S.E., Northeasterly, to corner of Lot 833, Square 5921;
+318 thence with the boundary of said Lot 833, Square 5921, Southeasterly, to a corner of said lot;
+319 thence with the boundary of said Lot 833, Square 5921, Southwesterly, to a corner of said lot;
+320 thence with the boundary of said Lot 833, Square 5921, Southeasterly, to a corner of said lot;
+321 thence with the boundary of said Lot 833, Square 5921, Northeasterly, to a corner of said lot;
+322 thence with the boundary of said Lot 833, Square 5921, Southeasterly, to the northwesterly line of
+14
+
+323 Bellevue Street, S.E.; thence with said northwesterly line of Bellevue Street, S.E., Southwesterly,
+324 to the southeast corner of Lot 811, Square 5921; thence with the boundary of said Lot 811,
+325 Square 5921, Northwesterly, to a the northmost corner of said lot; thence with the boundary of
+326 said Lot 811, Square 5921, and its extension, Southwesterly, to the northeast corner of Lot 817,
+327 Square 5921; thence with the northeast line of said Lot 817, Square 5921, Southeasterly, to the
+328 northwesterly line of Bellevue Street, S.E.; crossing Bellevue Street, S.E., Northeasterly, to the
+329 northeast corner of Lot 123, Square 5922; thence with the northeast line of said Lot 123, Square
+330 5922, Southeasterly, to the westmost corner of Lot 127, Square 5922; thence with the northwest
+331 line of said Lot 127, Square 5922, Northeasterly, to the southwesterly line of 12th Street, S.E.;
+332 crossing 12th Street, S.E., Northwesterly, to the westmost corner of Lot 18, Square 5921; thence
+333 with the northwest line of said Lot 18, Square 5921, Northeasterly, to the southwesterly line of
+334 Lot 13, Square 5921; thence with the southwest line of said Lot 13, Square 5921, and its
+335 extension, Northwesterly, to the westmost corner of Lot 17, Square 5921; thence with a
+336 northwest line of said Lot 17, Square 5921, Northeasterly, to a corner of said lot; thence with the
+337 boundary of said Lot 17, Square 5921, Southeasterly, to a corner of said lot; thence with the
+338 boundary of said Lot 17, Square 5921, Northeasterly, to a southwesterly line of Lot 11, Square
+339 5921; thence with the boundary of said Lot 11, Square 5921, Northwesterly, to a corner of said
+340 lot; thence with the boundary of said Lot 11, Square 5921, Northeasterly, to a corner of said lot;
+341 thence with the boundary of said Lot 11, Square 5921, Southeasterly, to a corner of said lot;
+342 thence with the boundary of said Lot 11, Square 5921, Northeasterly, to the southwest line of 13th
+343 Street, S.E.; crossing 13th Street, S.E., Northerly, to the westmost corner of Lot 804, Square 5919;
+344 thence with the northwest line of said Lot 804, Square 5919, Northeasterly, to a corner of said lot;
+345 thence with the boundary of said Lot 804, Square 5919, Southeasterly, to the westmost corner of
+15
+
+346 Lot 2, Square 5919; thence with a northwest line of said Lot 2, Square 5919, Northeasterly, to a
+347 corner of said lot; thence with the boundary of said Lot 2, Square 5919, Southeasterly, to the
+348 northwest line of Southern Avenue, S.E.; thence with the northwest line of said Southern Avenue,
+349 S.E., Southwesterly, to the northeast line of 13th Street, S.E.; crossing 13th Street, S.E.,
+350 Southwesterly, to a corner of Lot 17, Square 5921; thence with the northwest line of Southern
+351 Avenue, S.E., Southwesterly, to a northeast line of Lot 18, Square 5921; thence with a northeast
+352 line of said Lot 18, Square 5921, Southeasterly, to the northwest line of Southern Avenue, S.E.;
+353 thence with said northwest line of Southern Avenue, S.E., Southwesterly, to the northeast line of
+354 Wheeler Road, S.E.; thence crossing Wheeler Road, S.E., Southwesterly, to the eastmost corner
+355 of Lot 86, Square 5924; thence with the northeast line of Southern Avenue, S.E., Southwesterly, to
+356 the southmost corner of Lot 87, Square 5924; thence with the southwest line of said Lot 87,
+357 Square 5924, and its extension, Northwesterly, to the southeast line of Bellevue Street, S.E.;
+358 crossing Bellevue Street, S.E., Northwesterly, to the southmost corner of Lot 43, Square 5924;
+359 thence with the southwest line of said Lot 43, Square 5924, and its extension, Northwesterly, to
+360 the westmost corner of Lot 78, Square 5924; crossing a public alley in Square 5924,
+361 Southwesterly, to the southmost corner of Lot 113, Square 5924; thence with the southwest line
+362 of said Lot 113, Square 5924, Northwesterly, to the southeasterly line of Barnaby Street, S.E.;
+363 crossing Barnaby Street, S.E., Southwesterly, to the southmost corner of Lot 49, Square 5925;
+364 thence with the boundary of said Lot 49, Square 5925, Northwesterly, to a corner of said lot;
+365 thence with the boundary of said Lot 49, Square 5925, and its extension across a public alley in
+366 Square 5925, Northwesterly, to a southeast line of Lot 58, Square 5925; thence with the
+367 boundary of said Lot 58, Square 5925, Southwesterly, to a corner of said lot; thence with the
+368 boundary of said Lot 58, Square 5925, Northwesterly, to a corner of said lot; thence with the
+16
+
+369 boundary of said Lot 58, Square 5925, Southwesterly, to a corner of said lot; thence with the
+370 boundary of said Lot 58, Square 5925, Northwesterly, to a corner of said lot; thence with the
+371 boundary of said Lot 58, Square 5925, Northeasterly, to the southerly line of Wahler Place, S.E.;
+372 crossing Wahler Place, S.E., Northwesterly, to the westmost corner of Lot 2, Square 5926; thence
+373 with the northerly line of Wahler Place, S.E., Northwesterly, to a corner of Lot 4, Square 5926;
+374 thence with the boundary of said Lot 4, Square 5926, Southwesterly, to a corner of said lot and the
+375 northeasterly line of 9th Street, S.E.; thence with said northeasterly line of 9th Street, S.E.,
+376 Northwesterly, to the southmost corner of Lot 3, Square 5926 and a point of curvature; thence
+377 with said northeasterly line of 9th Street, S.E., 195.56’ on the arc of a curve to the left of radius
+378 830.0’, to a point of tangent; thence with said northeasterly line of 9th Street, S.E., Northwesterly,
+379 to a point of curvature; thence with said northeasterly line of 9th Street, S.E., 292.65’ on the arc of
+380 a curve to the right of radius 570.0’, to a point of tangent; thence with said northeasterly line of
+381 9th Street, S.E., Northwesterly, to the southerly line of Valley Avenue, S.E.; crossing Valley
+382 Avenue, S.E., Northwesterly, to the southmost corner of Parcel 236/114; thence with the
+383 boundary of said Parcel 236/114, Northwesterly, to a corner of said parcel; thence with the
+384 boundary of said Parcel 236/114, Southwesterly, to a corner of said parcel; thence with the
+385 boundary of said Parcel 236/114, Southwesterly, to a corner of said parcel; thence with the
+386 boundary of said Parcel 236/114, Northwesterly, to a corner of said parcel; thence with the
+387 boundary of said Parcel 236/114, Northwesterly, to the southerly line of Mississippi Avenue,
+388 S.E.; thence with said southerly line of Mississippi Avenue, S.E., 1,530.26’ on the arc of a curve
+389 to the right of radius 2,793.76’, to a point of curvature; crossing Mississippi Avenue, S.E.,
+390 Northwesterly, to the southwest corner of Lot 64, Square 5960; thence with the west line of said
+391 Lot 64, Square 5960, Northerly, to the south line of Lot 800, Square 5960; thence with the
+17
+
+392 boundary of said Lot 800, Square 5960, Westerly, to a corner of said lot; thence with the boundary
+393 of said Lot 800, Square 5960, Northerly, to a corner of said lot; thence with the boundary of said
+394 Lot 800, Square 5960, Northeasterly, to a corner of said lot; thence with the boundary of said Lot
+395 800, Square 5960, Easterly, to the southwest corner of Lot 20, Square 5960; thence with the
+396 westerly line of said Lot 20, Square 5960, and its extension, Northwesterly, to the southerly line
+397 of Upsal Street, S.E.; crossing Upsal Street, S.E., Northerly, to the southwest corner of Lot 4,
+398 Square 5959; thence with the westerly line of said Lot 4, Square 5959, and its extension,
+399 Northwesterly, to the southwest corner of Lot 2, Square 5959; thence with the westerly line of
+400 said Lot 2, Square 5959, Northerly, to the southeast corner of Lot 36, Square 5959; thence with
+401 the southeast line of said Lot 36, Square 5959, Southwesterly, to a corner of said lot; thence with
+402 the westerly line of said Lot 36, Square 5959, Northwesterly, to the southerly line of Congress
+403 Street, S.E.; crossing Congress Street, S.E., Northeasterly, to the southwest corner of Lot 31,
+404 Square 5958; thence with the southwest line of said Lot 31, Square 5958, Northwesterly, to the
+405 southerly line of Parcel 235/75; thence with the boundary of said Parcel 235/75, Southwesterly,
+406 to a corner of said parcel; thence with the westerly line of said Parcel 235/75, Northwesterly, to a
+407 corner of Lot 1, Square 5957; thence with the boundary of said Lot 1, Square 5957,
+408 Southwesterly, to a corner of said lot; thence with the boundary of said Lot 1, Square 5957,
+409 Northwesterly, to a corner of said lot; thence with the boundary of said Lot 1, Square 5957,
+410 Southwesterly, to a corner of said lot; thence with the boundary of said Lot 1, Square 5957,
+411 Northwesterly, to a corner of said lot; thence with the boundary of said Lot 1, Square 5957,
+412 Northeasterly, to a corner of said lot; thence with the boundary of said Lot 1, Square 5957,
+413 Northwesterly, to a corner of said lot; thence with the boundary of said Lot 1, Square 5957,
+414 Northeasterly, to a corner of said lot; thence with the boundary of said Lot 1, Square 5957,
+18
+
+415 Northwesterly, to the southeast corner of Parcel 235/74; thence with the southerly line of said
+416 Parcel 235/74, Southwesterly, to a southeast corner of Lot 803, Square 5955; thence with a
+417 southerly line of said Lot 803, Square 5955, Westerly, to a corner of said lot; thence with the
+418 boundary of said Lot 803, Square 5955, Northwesterly, to the northerly line of Savannah Street,
+419 S.E.; thence with said northerly line of Savannah Street, S.E., Westerly, to the easterly line of 6th
+420 Street,. S.E.; crossing 6th Street, S.E., Northwesterly, to the southeast corner of Lot 803, Square
+421 5976; thence with the southerly line of said Lot 803, Square 5976, Westerly, to the easterly line of
+422 Lot 800, Square 5976; thence with said easterly line of Lot 800, Square 5976, Southerly, to the
+423 southerly line of said lot; thence with the southerly line of said Lot 800, Square 5976, Westerly, to
+424 the easterly line of 5th Street, S.E.; crossing 5th Street, S.E., Southwesterly, to the southeast corner
+425 of Lot 808, Square 5977; thence with the southerly line of said Lot 808, Square 5977, Westerly, to
+426 the northeast corner of Lot 805, Square 5977; thence with the easterly line of said Lot 805,
+427 Square 5977, Southerly, to the southeast corner of said lot; thence with the southerly line of said
+428 Lot 805, Square 5977, Westerly, to the easterly line of 4th Street, S.E.; crossing 4th Street, S.E.,
+429 Southwesterly, to the southeast corner of Lot 951, Square 5978, and the northerly line of
+430 Savannah Street, S.E.; thence with said northerly line of Savannah Street, S.E., Northwesterly, to
+431 a point of curvature; continuing along said northerly line of Savannah Street, S.E., 309.51’ on the
+432 arc of a curve to the left of radius 344.84’, to a point of tangent; continuing along said northerly
+433 line of Savannah Street, S.E., Southwesterly, to a point of curvature; crossing Savannah Street,
+434 S.E., Southeasterly, to the northeast corner of Lot 33, Square 6091; thence with the westerly line
+435 of 2nd Street, S.E., Southwesterly, to a corner of said Lot 33, Square 6091; continuing along said
+436 westerly line of 2nd Street, S.E., Southwesterly, to the southmost corner of said Lot 33, Square
+437 6091, and the northeasterly line of a 15’ wide public alley in Square 6091; crossing said 15’ wide
+19
+
+438 public alley in Square 6091, Northwesterly, to the southeast corner of Lot 19, Square 6091;
+439 thence with the south line of said Lot 19, Square 6091, Westerly, to the easterly line of Horner
+440 Place, S.E.; crossing Horner Place, S.E., Southwesterly, to the northeast corner of Lot 805,
+441 Square 6090; thence with the north line of said Lot 805, Square 6090, Easterly, to the westerly
+442 line of said lot; thence with said westerly line of Lot 805, Square 6090, and its extension,
+443 Southerly, to the northerly line of Upsal Street, S.E.; crossing Upsal Street, S.E., Southwesterly,
+444 to the northeast corner of Lot 800, Square 6094; thence with the easterly line of said Lot 800,
+445 Square 6094, Southerly, to the northerly line of a public alley in Square 6094; crossing said
+446 public alley in Square 6094, Southwesterly, to a northeast corner of Lot 45, Square 6094; thence
+447 with the boundary of said Lot 45, Square 6094, Southerly, to a corner of said lot; thence with the
+448 boundary of said Lot 45, Square 6094, Southeasterly, to the eastmost corner of said lot; thence
+449 with the boundary of said Lot 45, Square 6094, Southwesterly, to the northeast line of
+450 Wilmington Place, S.E.; crossing Wilmington Place, S.E., Southerly, to a northeast corner of Lot
+451 37, Square 6118; thence with the boundary of said Lot 37, Square 6118, Southeasterly, to the
+452 eastmost corner of said lot; thence with the boundary of said Lot 37, Square 6118, Southwesterly,
+453 to the southmost corner of said lot; thence with the boundary of said Lot 37, Square 6118,
+454 Northerly, to a corner of said lot; thence with the boundary of said Lot 37, Square 6118, Westerly,
+455 to the east line of 1st Street, S.E.; crossing 1st Street, S.E., Southwesterly, to the southeast corner of
+456 Lot 32, Square 6095, and the northeasterly line of a public alley in Square 6095; crossing said
+457 public alley in Square 6095, Southwesterly, to the northeast corner of Lot 33, Square 6095;
+458 thence with the southeast line of said Lot 33, Square 6095, Southwesterly, to the northeasterly
+459 line of Halley Place, S.E.; crossing Halley Place, S.E. and Halley Terrace, S.E., Northwesterly, to
+460 a northeast corner of Lot 76, Square 6129; thence with the westerly line of Halley Terrace, S.E.,
+20
+
+461 Southerly, to the northeast corner of Lot 62, Square 6129; thence with the northerly line of said
+462 Lot 62, Square 6129, Westerly, to the easterly line of a public alley in Square 6129; thence with
+463 said easterly line of public alley in Square 6129, Southerly, to the southwest corner of Lot 87,
+464 Square 6129; thence with the southerly line of said Lot 87, Square 6129, Easterly, to the westerly
+465 line of Halley Terrace, S.E.; thence with said westerly line of Halley Terrace, S.E., Southerly, to
+466 the northwesterly line of Mississippi Avenue, S.E.; crossing Mississippi Avenue, S.E.,
+467 Southeasterly, to the northwest corner of Lot 42, Square 6151; thence with the northerly line of
+468 said Lot 42, Square 6151, Easterly, to the northeast corner of said lot; thence with the easterly line
+469 of said Lot 42, Square 6151, Southwesterly, to the southeast corner of said lot and the northerly
+470 line of a public alley in Square 6151; crossing said public alley in Square 6151, Southwesterly, to
+471 the northeast corner of Lot 808, Square 6151; thence with the easterly line of said Lot 808,
+472 Square 6151, Southwesterly, to the northerly line of Atlantic Street, S.E.; thence with said
+473 northerly line of Atlantic Street, S.E., Northwesterly, to the southeasterly line of Mississippi
+474 Avenue, S.E.; and crossing Mississippi Avenue, S.E., and South Capitol Street, Northwesterly, to
+475 the southeast corner of Lot 8, Square 6150, and the place of beginning.
+476 “(c)(1) The BID taxes for nonexempt properties in the Soul of the City BID shall be as
+477 follows:
+478 (A) The amount of $0.18 per $100 of the assessed value for Class 2 Properties,
+479 excluding hotels;
+480 (B) The amount of $120 per hotel or motel room annually; and
+481 (C)(i) The amount of $120 per unit annually of Class 1A property that
+482 contains 5 or more residential units available for rental for non-transient residential dwelling
+483 purposes that were placed in service after the effective date of the Rental Housing Act of 1985,
+21
+
+484 effective July 17, 1985 (D.C. Law 6-10; D.C. Official Code § 42-3501.01 et seq.). All other
+485 Class 1A or 1B property is exempt from this BID tax.
+486 “(ii) If a residential unit is restricted to residents based upon income
+487 pursuant to a federal or District affordable housing program, any residential unit with a
+488 household income of 100% or less of the area median income, which the BID shall identify and
+489 certify as such, shall be exempt from the BID tax that would otherwise be due on the unit.
+490 “(2) To the extent that a building that is subject to the BID tax is constructed pursuant to
+491 a ground lease on land that is exempt from real property taxes, the assessed value of the real
+492 property for purposes of the BID tax shall include the value of the building and the leasehold
+493 interest, possessory interest, beneficial interest, or beneficial use of the land, and the lessee or
+494 user of the land shall be assessed the corresponding BID tax, which shall be collected in the same
+495 manner as possessory interest taxes under Section 47-1005.01 of the District of Columbia
+496 Official Code, or as otherwise provided in this act.
+497 “(3) Taxable property for which the Owner has expended more than $250,000 during the
+498 previous tax year on safety-related activities that either enhance public space abutting the
+499 Owner’s taxable property or supplement retail security for the Owner’s taxable property within
+500 the BID, which the BID shall certify subject to satisfactory proof provided by the Owner, shall
+501 be exempt from the BID tax that would otherwise be due on the property for the following
+502 taxable year.
+503 “(4) Subject to the requirements of section 8(b), a 3% annual increase in the BID taxes
+504 over the current tax year rates specified in paragraph (1) of this subsection is authorized.”
+505 Sec. 3. Fiscal impact statement.
+506 The Council adopts the fiscal impact statement in the committee report as the fiscal
+22
+
+507 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+508 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+509 Sec. 4. Effective date.
+510 This act shall take effect following approval by the Mayor (or in the event of a veto by
+511 the Mayor, action by the Council to override the veto) and a 30-day period of congressional
+512 review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved
+513 December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+23

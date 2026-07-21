@@ -1,0 +1,59 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2
+3
+4
+5
+6 ______________________________
+7 Councilmember Anita Bonds Councilmember Robert C. White, Jr
+8
+9
+10
+11 ______________________________
+12 Councilmember Zachary Parker
+13
+14
+15
+16 A BILL
+17
+18 __________
+19
+20 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+21
+22 __________
+23
+24 To amend Chapter 28 of Title 47 of the District of Columbia Official Code to prohibit the
+25 issuance of a license or permit to an applicant who has unpaid fines resulting from a notice of
+26 infraction issued by the Department of Buildings.
+27
+28 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+29 act may be cited as the “Clarifying Licensing Enriching All Neighbors (CLEAN) Amendment
+30 Act of 2026”.
+31 Sec. 2. Section 47-2862(a) of the District of Columbia Official Code is amended as
+32 follows:
+33 (a) Paragraph (8) is amended by striking the phrase “; or” and inserting a semicolon in its
+34 place.
+
+35 (b) Paragraph (9) is amended by striking the period and inserting the phrase “; or” in its
+36 place.
+37 (c) A new paragraph (10) is added to read as follows:
+38 “(10) Owes the District $1,000 or more in past due fines, penalties, or interest assessed
+39 pursuant to a notice of infraction issued by the Department of Buildings under the Department of
+40 Consumer and Regulatory Affairs Civil Infractions Act of 1985, effective October 5, 1985 (D.C.
+41 Law 6-42; D.C. Official Code § 2-1801.01 et seq.).
+42 Sec. 3. Fiscal impact statement.
+43 The Council adopts the fiscal impact statement in the committee report as the fiscal
+44 impact statement required by 4a of the General Legislative Procedures Act of 1975, approved
+45 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+46 Sec. 4. Effective date.
+47 This act shall take effect following approval by the Mayor (or in the event of veto by the
+48 Mayor, action by the Council to override the veto), and a 30-day period of Congressional review
+49 as provided in sections 602(c)(1) of the District of Columbia Home Rule Act, approved
+50 December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).

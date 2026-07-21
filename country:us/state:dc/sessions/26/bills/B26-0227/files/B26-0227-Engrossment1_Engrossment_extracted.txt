@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-227
+4
+5 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+6
+7 _________________________
+8
+9
+10 To amend the Construction Codes Approval and Amendments Act of 1986 to direct the
+11 Department of Buildings to promulgate rules to allow for residential buildings of a
+12 certain height to be served by a single entrance or egress under certain conditions.
+13
+14 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+15 act may be cited as the “One Front Door Amendment Act of 2026”.
+16 Sec. 2. The Construction Codes Approval and Amendments Act of 1986, effective March
+17 21, 1987 (D.C. Law 6-216; D.C. Official Code § 6-1401 et seq.) is amended as follows:
+18 (a) Section 2 (D.C. Official Code § 6-1401) is amended by adding a new paragraph (9A)
+19 to read as follows:
+20 “(9A) “Multifamily residential building” means a building containing more than 2
+21 dwelling units where the occupants are primarily permanent in nature.”.
+22 (b) A new section 10f is added to read as follows:
+23 “Sec. 10f. Single staircase multifamily residential buildings.
+24 “(a)(1) No later than July 1, 2027, the Department of Buildings shall promulgate rules
+25 amending the Construction Codes to allow for a single entrance and egress stairway to serve
+1
+
+ENGROSSED ORIGINAL
+26 multifamily residential buildings up to six stories above grade plane, or a high-rise building.
+27 (2) For purposes of subparagraph (1) of this paragraph, the term “high-rise
+28 building” means a building with an occupied floor located more than 75 feet above the lowest
+29 level of fire department vehicle access.
+30 “(b) In drafting rules required pursuant to subsection (a)(1) of this section, the
+31 Department shall consider:
+32 “(1) Requirements that prevent the spread of fires and smoke in such multifamily
+33 residential buildings, including requiring the use of fire-resistive construction, and requiring the
+34 provision of adequate automatic fire sprinklers throughout a building;
+35 “(2) Requirements that enable occupants to safely and quickly exit such a
+36 multifamily residential building in emergency situations, including establishing a maximum
+37 travel distance from the exit or entry door of any dwelling unit to the exit stairway, setting square
+38 footage limits for any floor of the building, and prohibiting dwelling unit doors from opening
+39 directly into an interior exit stairway; and
+40 “(3) Any best practices in state, local, and international laws and codes that allow
+41 for the construction of multifamily residential buildings with a single entrance and egress
+42 stairway.”.
+43 Sec. 3. Fiscal impact statement.
+44 The Council adopts the fiscal impact statement in the committee report as the fiscal
+45 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+2
+
+ENGROSSED ORIGINAL
+46 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+47 Sec. 4. Effective date.
+48 This act shall take effect after approval by the Mayor (or in the event of veto by the
+49 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+50 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+51 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+52 Columbia Register.
+3

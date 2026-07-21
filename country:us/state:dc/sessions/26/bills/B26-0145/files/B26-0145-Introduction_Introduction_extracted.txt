@@ -1,0 +1,1862 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+February 26, 2025
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. 1, 2, and 3 to Contract No. CW116019 with Immediate
+Mailing Services, Inc. Approval and Payment Authorization Emergency Act of 2025,” and the
+accompanying emergency declaration resolution.
+The legislation will approve Modification Nos. 1, 2, and 3 to Contract No. CW116019 with
+Immediate Mailing Services, Inc., for printing and mailing services for the District of Columbia
+Access System, to fully exercise option year one of the contract. In addition, the legislation will
+approve payment for the goods and services received and to be received under the modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modification. In order to facilitate a response to any questions you may have, please have
+your staff contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at
+(202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Muriel Bowser
+
+~ ~~
+3 at the request of the Mayor
+4
+5
+6 AB~L
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16 To approve, on an emergency basis, Modification Nos. 1, 2, and 3 to Contract No. CWl 16019
+17 with Immediate Mailing Services, Inc., and to authorize payment for the goods and
+18 services received and to be received under the modifications.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the "Modification Nos. 1, 2, and 3 to Contract No. CWl 16019 with
+22 Immediate Mailing Services, Inc. Approval and Payment Authorization Emergency Act of
+23 2025".
+24 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+25 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+26 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+27 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification
+28 Nos. 1, 2, and 3 to Contract No. CW116019 with Immediate Mailing Services, Inc. and
+29 authorizes payment in the not-to-exceed amount of $1,168,486.05 for the goods and services
+30 received and to be received under the modifications.
+31 Sec. 3. Fiscal impact statement.
+1
+
+32 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+33 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+34 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+35 Sec. 4. Effective date.
+36 This act shall take effect following approval by the Mayor (or in the event of veto by the
+37 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+38 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+39 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+40 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive)
+(A) Contract Number: CW116019
+Proposed Contractor: Immediate Mailing Services, Inc (IMS)
+Proposed Contractor’s Principals:
+Warren Lee Vanderpool, Jr – Chief Executive Officer
+Mark Vanderpool – EVP & Chief Technology Officer
+Contract Amount (Option Period One): Not-to-Exceed (NTE) $1,168,486.05
+Unit and Method of Compensation: Fixed Unit Price
+Term of Contract: October 1, 2024 through September 30, 2025
+Type of Contract: Indefinite Delivery Indefinite Quantity with a Firm Fixed Price Component
+Source Selection Method: Competitive Sealed Proposal (RFP)
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: NTE $379,731.38
+(May 28, 2024 through September, 2024)
+Option Period One Amount: NTE $1,168,486.05
+(October 1, 2024 through September 30, 2025)
+Explanation of difference from base period (if applicable): The total for option period one is
+higher because the base period, period of performance was four months and option period one is for
+twelve months. Therefore, the IMS printing and mailing services total contract value for the base
+period was significantly lower.
+1
+
+Option Period Two Amount: NTE $1,196,656.06
+(October 1, 2025 through September 30, 2026)
+Explanation of difference from base period (if applicable): The total for option period two is
+higher because the base period, period of performance was four months and option period two is for
+twelve months. Therefore, the IMS printing and mailing services total contract value for the base
+period was significantly lower.
+Option Period Three Amount: NTE $1,196,656.06
+(October 1, 2026 through September 30, 2027)
+Explanation of difference from base period (if applicable): The total for option period three is
+higher because the base period, period of performance was four months and option period three is
+for twelve months. Therefore, the IMS printing and mailing services total contract value for the
+base period was significantly lower.
+Option Period Four Amount: NTE $1,225,846.07
+(October 1, 2027 through September 30, 2028)
+Explanation of difference from base period (if applicable): The total for option period four is
+higher because the base period, period of performance was four months and option period four is
+for twelve months. Therefore, the IMS printing and mailing services total contract value for the
+base period was significantly lower.
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The District of Columbia (the District), Office of Contracting and Procurement (OCP), on behalf of
+the Department of Health Care Finance (DHCF) is seeking a contractor to provide timely, high
+volume, high technology, printing and mailing services for the District of Columbia Access System
+(DCAS). On a daily basis, DCAS generates a combination of notices, forms, and invoices, in
+multiple languages, for various social services programs administered by DHCF, District
+Department of Human Services and DC Health Benefit Exchange Authority that need to be printed
+and mailed.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+Solicitation Number Doc597421 was issued to the public on May 4, 2023 through an RFP. The
+solicitation closed on May 25, 2023. On the closing date, the District received two proposals in
+response to the solicitation. The two proposals were evaluated in accordance with the technical
+evaluation factors as described in the solicitation, which are listed below.
+The evaluation factors consisted of:
+Method of Approach;
+Security;
+Past Performance; and
+Price.
+Based upon the findings of the technical evaluation panel and the contracting officer’s independent
+review of the proposals in accordance with the evaluation factors, the contracting officer
+2
+
+determined that the proposal from IMS was the most advantageous offer to the District and that it is
+in the best interest of the District that award be made to IMS.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+None
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+Contract Number: CW116019
+Task Order Agreement No: DCHBX-2025-C-0005
+Caption/Title: Printing and Mailing Services
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+IMS has demonstrated through past performance reports that their organization has the history,
+organizational and technical experience, including the key personnel required to successfully meet
+the requirements of the contract. Likewise, it has been determined that the contractor maintains the
+financial resources, accounting, and operational controls to successfully fulfill the District’s
+requirement. The contractor has been determined responsible in accordance with the District’s
+standards for responsibility.
+(H) The period of performance associated with the proposed change, including date as of which
+the proposed change is to be made effective:
+The period of performance associated with the proposed change is October 1, 2024 through
+September 30, 2025.
+Modification M0001 was executed for the period starting October 01, 2024 through January 31,
+2025 in the amount NTE $389,565.92.
+Modification M0002 was executed for the period starting February 01, 2025 through March 31,
+2025 in the amount NTE $194,782.04.
+Modification M0003 will be executed for the period starting April 01, 2025 through September 30,
+2025 in the amount NTE $584,137.19.
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+3
+
+Modification M0001 was executed for the period starting October 01, 2024 through January 31,
+2025 in the amount NTE $389,565.92.
+Modification M0002 was executed for the period starting February 01, 2025 through March 31,
+2025 in the amount NTE $194,782.04.
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+NTE $1,168,486.05
+Modification M0001 was executed for the period starting October 01, 2024 through January 31,
+2025 in the amount NTE $389,565.92.
+Modification M0002 was executed for the period starting February 01, 2025 through March 31,
+2025 in the amount NTE $194,782.04.
+Modification M0003 will be executed for the period starting April 01, 2025 through September 30,
+2025 in the amount NTE $584,137.19.
+(K) The date on which the contracting officer was notified of the proposed change:
+The Contracting Officer determined the need to partially exercise option period one on July 01,
+2024.
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+Additional time was needed for due diligence in obtaining required approvals and compliance
+documents. The proposed change is being requested to allow for the continuation of contractual
+services under the option’s period of performance, which is valued to exceed one million dollars.
+(M) The reason for the proposed change:
+The contracting officer exercised a partial option for continued services while Council approval was
+sought for option period one.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+The proposed changed is in accordance with 27 DCMR Chapter 20 section 2008 “Exercise of
+Options”.
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+4
+
+The contractor has certified, via the Bidder/Offeror Certification form, that it is (1) not in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2)
+currently is not and will not be in violation of section 334a of the Board of Ethics and Government
+Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2011, D.C.
+Official Code § 1-1163.34a, dated October 21, 2024.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+The contractor provided a subcontracting plan with a set-aside of 35% with a total dollar amount of
+$408,970.12. The contracting officer has determined that the plan meets the Department of Small
+and Local Business Development requirements.
+(Q) Performance standards and the expected outcome of the proposed contract:
+The expected outcome of the proposed contract is to provide printing and mailing services to
+support DCAS operations.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+Modification M0001 in the amount NTE $389,565.92 was executed on September 27, 2024.
+Modification M0002 in the amount NTE $194,782.19 was executed on January 14, 2025.
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The DHCF Agency Fiscal Officer certified that funding in the amount of $1,168,486.05 is available
+to support the contract for option period one.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The Office of the Attorney General has determined that the contract is legally sufficient and that the
+contractor has no pending claims against the District.
+(U) A statement that Citywide Clean Hands database indicates that the proposed contractor is
+current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+5
+
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b)
+On February 11, 2025, the Citywide Clean Hands database certified that the Contractor is current
+with its District taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+The contractor has self-certified, via the Bidder/Offeror Certification form, that it is current with its
+federal taxes.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+The contractor is not a certified local, small or disadvantaged business enterprise.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+As of November 22, 2024 the contractor does not appear on the Office of Inspector General
+Exclusions Database, the Federal Excluded Parties List or the District’s list of Debarred and
+Suspended Contractors.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination and Findings for Contractor’s Responsibility, dated December 5, 2024
+Determination and Findings for Price Reasonableness, dated December 5, 2024
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+www.ocp.dc.gov
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+www.ocp.dc.gov
+6
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: February 11, 2025 Notice Number: L0013280910
+IMMEDIATE MAILING SERVICES, INC FEIN: **-***3143
+245 COMMERCE BLVD Case ID: 18484212
+LCIVERPOOL NY 13088-4541
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Department of Health Care Finance
+Office of the Chief Financial Officer
+MEMORANDUM
+TO: Nancy Hapeman
+Interim Chief Procurement Officer
+Office of Contracting and Procurement
+FROM: Darrin Shaffer
+Agency Fiscal Officer
+Department of Health Care Finance
+DATE: December 6, 2024
+SUBJECT: Certification of Funding for DCAS Printing & Mailing Services – Immediate Mailing Services, Inc.
+The Office of the Chief Financial Officer hereby certifies that the sum of $778,920.13 is included in the District’s Local
+Budget and Financial Plan for Fiscal Year 2025 to fund the costs associated with the Department of Health Care
+Finance’s (DHCF) contract with Immediate Mailing Services, Inc., to provide printing and mailing services to the
+District of Columbia Access System (DCAS). This certification supports the Immediate Mailing Services, Inc. contract
+costs from February 1, 2025 through September 30, 2025. The fund allocation is as follows:
+Vendor: Immediate Mailing Services, Inc. Contract# CW116019
+Fiscal Year 2025 Funding: 02/1/25 - 09/30/25
+Cost
+Agency Fund Account Program Project Award Sub Task Allocation Total
+Center
+HT0 4025002 7132001 100202 70155 200881 2001984 25.46 44.25% $344,672.15
+HT0 1010001 7132001 100202 70155 - - - 14.75% $114,890.72
+JA0 4020002 7132001 100071 70321 400553 2002085 23.01 13.50% $105,154.22
+HT0 1010001 7132001 100202 70155 - - - 13.50% $105,154.22
+HT0 1010001 7132001 100202 70155 - - - 14.00% $109,048.82
+FY25 IMS, Inc - Parent ID - 10344 Total $778,920.13
+Upon approval of the District’s Local Budget and Financial Plan by the Council and the Mayor and completion of the
+thirty-day Congressional layover, funds will be sufficient to pay for fees and costs associated with the contract. There is
+no fiscal impact associated with the contract.
+Should you have any questions, please contact me at (202) 442-9079.
+441 4th St. NW, Suite 900 South, Washington, D.C. 20001 (202) 442-5988 FAX (202) 478-1373
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Department of Health Care Finance
+Office of the Chief Financial Officer
+MEMORANDUM
+TO: Nancy Hapeman
+Acting Chief Procurement Officer
+Office of Contracting and Procurement
+FROM: Darrin Shaffer
+Agency Fiscal Officer
+Department of Health Care Finance
+DATE: August 2, 2024
+SUBJECT: Certification of Funding for DCAS Printing & Mailing Services – Immediate Mailing Services, Inc.
+The Office of the Chief Financial Officer hereby certifies that the sum of $389,565.92 is included in the District’s Local
+Budget and Financial Plan for Fiscal Year 2025 to fund the costs associated with the Department of Health Care
+Finance’s (DHCF) contract with Immediate Mailing Services, Inc., to provide printing and mailing services to the
+District of Columbia Access System (DCAS). This certification supports the Immediate Mailing Services, Inc. contract
+costs from October 1, 2024 through January 1, 2025. The fund allocation is as follows:
+Vendor: Immediate Mailing Services, Inc. Contract# CW116019
+Fiscal Year 2025 Funding: 10/1/24 - 01/31/25
+Cost
+Agency Fund Account Program Project Award Sub Task Allocation Total
+Center
+HT0 4025002 7132001 100202 70155 200881 2001984 25.46 44.25% 172,382.92
+HT0 1010001 7132001 100202 70155 - - - 14.75% 57,460.97
+JA0 4020002 7132001 100071 70321 400553 2002085 23.01 13.50% 52,591.40
+HT0 1010001 7132001 100202 70155 - - - 13.50% 52,591.40
+HT0 1010001 7132001 100202 70155 - - - 14.00% 54,539.23
+FY25 IMS, Inc - Parent ID - 10344 Total $389,565.92
+Upon approval of the District’s Local Budget and Financial Plan by the Council and the Mayor and completion of the
+thirty-day Congressional layover, funds will be sufficient to pay for fees and costs associated with the contract. There is
+no fiscal impact associated with the contract.
+Should you have any questions, please contact me at (202) 442-9079.
+441 4th St. NW, Suite 900 South, Washington, D.C. 20001 (202) 442-5988 FAX (202) 478-1373
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Sarina Loy
+Deputy Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: February 10, 2025
+SUBJECT: Approval of Contract for Printing and Mailing Services
+Contract Number: CW116019
+Contractor: Immediate Mailing Services, Inc.
+Contract Amount: IDIQ Minimum: $48.26
+Maximum: $1,168,486.05
+This is to Certify that this Office has reviewed the above-referenced Contract and that we have
+found it to be legally sufficient. If you have any questions in this regard, please do not hesitate to
+call me at 724-4018.
+______________________________
+Robert Schildkraut
+400 6th Street, NW, Suite 79100, Washington, DC 20001 (202) 727-3400 Fax (202) 347-8922
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW116019 1 6
+2. Amendment/Modification Number 3.Effective Date 4. Requisition/Purchase Request No. 5.Solicitation Caption
+DCAS Printing and Mailing
+M0001 See Section 16C
+Services
+6.Issued by: Code 7.Administered by (If other than line 6)
+OFFICE OF CONTRACTING AND PROCUREMENT DEPARTMENT OF HEALTH CARE FINANCE
+441 4th Street NW, Suite 200N Office of the Chief Operating Officer
+Washington, DC 20001 441 4th Street, N.W. Suite 900 South
+Email: Suma.Legesse@dc.gov Washington, DC 20001
+Attn: kashonda.johnsondunklin@dc.gov
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+9B. Dated (See Item 11)
+Mark Vanderpool, President
+Immediate Mailing Services, Inc (IMS) 10A. Modification of Contract/Order No.
+245 Commerce Blvd
+X CW116019
+Liverpool, NY 13088-4541
+Phone: 315-437-4189
+mvanderpool@imsdirect.com
+10B. Dated (See Item 13)
+Code Facility May 28, 2024
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a)By completing Items 8 and 15, and returning __________ copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO
+BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION
+OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or
+telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If Required)
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACT/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Contract Modifications
+X The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C.This supplemental agreement is entered into pursuant to authority of:
+D.Other (Specify type of modification and authority)
+E. IMPORTANT: Contractor is not is required to sign this document.
+14.Description of Amendment/Modification
+Contract No. CW116019 is hereby modified as follows:
+1. To partially exercise Option Period One from October 01, 2024 through January 31, 2025 in the amount not to
+exceed $389,565.92.
+2. Attachment A: Price Schedule B.4.2 is hereby incorporated and made a part of this contract.
+All other terms and conditions remain unchanged
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Mark Vanderpool, EVP & Chief Technology Officer
+Latora Davis
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+09-27-2024 9/27/24
+(Signature of person authorized to sign) (Signature of Contracting Office)
+1
+
+ATTACHMENT A
+Option Period One (1) - Price Schedule
+Period of Performance: October 01, 2024 through January 31, 2025
+CW116019
+Immediate Mailing Services, Inc (IMS)
+DCAS Printing and Mailing Services
+B.4.2 OPTION YEAR ONE - IDIQ
+B.4.2.1 NOTICES (1-PAGE SIMPLEX (ONE-SIDED) – 25-PAGE DUPLEX (TWO-SIDED))
+Contract Item Description Price Per Quantity Minimum Quantity Maximum
+Line Item Notice Minimum Total Price Maximum Total Price
+No. Including (Unit Price (Unit price x
+(CLIN) Required x Minimum Maximum
+Envelope Quantity) quantity)
+1-Page Simplex
+1001 #10 envelope (Section $0.15 1 $0.15 668 $100.20
+C.5.3.4.2)
+1-Page Duplex
+1002 #10 envelope (Section $0.17 1 $0.17 668 $113.56
+C.5.3.4.2)
+2-Page Duplex
+1003 #10 envelope $0.23 1 $0.23 83,336 $19,167.28
+(Section C.5.3.4.2)
+3-Page Duplex
+1004 #10 envelope (Section $0.26 1 $0.26 66,668 $17,333.68
+C.5.3.4.2)
+4-Page Duplex
+1005 #10 envelope $0.32 1 $0.32 83,336 $26,667.52
+(Section C.5.3.4.2)
+5-Page Duplex
+White Paper
+1006 $0.36 1 $0.36 66,668 $24,000.48
+#10 envelope
+(Section C.5.3.4.2)
+5-Page Duplex Colored
+Paper
+1007 $0.46 1 $0.46 336 $154.56
+#10 envelope
+(Section C.5.3.4.2)
+6-Page Duplex
+1008 #10 envelope $0.44 1 $0.44 166,668 $73,333.92
+(Section C.5.3.4.2)
+2
+
+7-Page Duplex
+1009 #10 envelope $0.49 1 $0.49 166,668 $81,667.32
+(Section C.5.3.4.2)
+8-Page Duplex
+1010 #10 envelope $0.55 1 $0.55 26,668 $14,667.4
+(Section C.5.3.4.2)
+9-Page Duplex
+1011 6 x 9 envelope $0.61 1 $0.61 16,668 $10,167.48
+(Section C.5.3.4.3)
+10-Page Duplex
+1012 6 x 9 envelope $0.66 1 $0.66 16,668 $11,000.88
+(Section C.5.3.4.3)
+11-Page Duplex
+1013 6 x 9 envelope $0.71 1 $0.71 6,668 $4,734.28
+(Section C.5.3.4.3)
+12-Page Duplex
+1014 6 x 9 envelope $0.76 1 $0.76 3,336 $2,535.36
+(Section C.5.3.4.3)
+13-Page Duplex
+1015 6 x 9 envelope $0.82 1 $0.82 1,668 $1,367.76
+(Section C.5.3.4.3)
+14-Page Duplex
+1016 6 x 9 envelope $0.87 1 $0.87 13,336 $11,602.32
+(Section C.5.3.4.3)
+15-Page Duplex
+1017 6 x 9 envelope $0.92 1 $0.92 3,336 $3,069.12
+(Section C.5.3.4.3)
+16-Page Duplex
+1018 6 x 9 envelope $0.97 1 $0.97 6,000 $5,820.00
+(Section C.5.3.4.3)
+17-Page Duplex
+1019 9 x 12 envelope $1.02 1 $1.02 668 $681.36
+(Section C.5.3.4.4)
+18-Page Duplex
+1020 9 x 12 envelope $1.07 1 $1.07 7,336 $7,849.52
+(Section C.5.3.4.4)
+19-Page Duplex
+1021 9 x 12 envelope $1.13 1 $1.13 13,336 $15,069.68
+(Section C.5.3.4.4)
+3
+
+20-Page Duplex
+1022 9 x 12 envelope $1.18 1 $1.18 668 $788.24
+(Section C.5.3.4.4)
+21-Page Duple
+1023 9 x 12 envelope $1.23 1 $1.23 668 $821.64
+(Section C.5.3.4.4)
+22-Page Duplex
+1024 9 x 12 envelope $1.28 1 $1.28 668 $855.04
+(Section C.5.3.4.4)
+23-Page Duplex
+1025 9 x 12 envelope $1.31 1 $1.31 668 $875.08
+(Section C.5.3.4.4)
+24-Page Duplex
+1026 9x12 envelope (Section $1.36 1 $1.36 668 $908.48
+C.5.3.4.4)
+25-Page Duplex
+1027 9x12 envelope (Section $1.41 1 $1.41 668 $941.88
+C.5.3.4.4)
+26-Page Duplex
+1028 9x12 envelope (Section $1.46 1 $1.46 668 $975.28
+C.5.3.4.4)
+27-Page Duplex
+1029 9x12 envelope (Section $1.51 1 $1.51 668 $1,008.68
+C.5.3.4.4)
+28-Page Duplex
+1030 9x12 envelope (Section $1.56 1 $1.56 668 $1,042.08
+C.5.3.4.4)
+29-Page Duplex
+1031 9x12 envelope (Section $1.61 1 $1.61 5,000 $8,050.00
+C.5.3.4.4)
+30-Page Duplex
+1032 9x12 envelope (Section $1.66 1 $1.66 668 $1,108.88
+C.5.3.4.4)
+31-Page Duplex
+1033 9x12 envelope (Section $1.71 1 $1.71 5000 $8,550.00
+C.5.3.4.4)
+32-Page Duplex
+1034 9x12 envelope (Section $1.76 1 $1.76 668 $1,175.68
+C.5.3.4.4)
+4
+
+33-Page Duplex
+1035 9x12 envelope (Section $1.81 1 $1.81 668 $1,209.08
+C.5.3.4.4)
+34-Page Duplex
+1036 9x12 envelope (Section $1.86 1 $1.86 668 $1,242.48
+C.5.3.4.4)
+35-Page Duplex
+1037 9x12 envelope (Section $1.91 1 $1.91 668 $1,275.88
+C.5.3.4.4)
+36-Page Duplex
+1038 9x12 envelope (Section $1.96 1 $1.96 668 $1,309.28
+C.5.3.4.4)
+37-Page Duplex
+1039 9x12 envelope (Section $2.01 1 $2.01 668 $1,342.68
+C.5.3.4.4)
+38-Page Duplex
+1040 9x12 envelope (Section $2.06 1 $2.06 3,336 $6,872.16
+C.5.3.4.4)
+39-Page Duplex
+1041 9x12 envelope (Section $2.11 1 $2.11 668 $1,409.48
+C.5.3.4.4)
+40-Page Duplex
+1042 9x12 envelope (Section $2.16 1 $2.16 668 $1,442.88
+C.5.3.4.4)
+Option Year One Grand Total for B.4.2.1 $374,308.56
+B.4.2.2 PRICE SCHEDULE - IDIQ – ADDITIONAL ENVELOPES
+Minimum Maximum
+Contract
+Total Price Total Price
+Line Item Price Per Quantity Quantity
+Item Description (Unit price x (Unit price x
+No. Envelope Minimum Maximum
+minimum Maximum
+(CLIN)
+quantity) quantity)
+#9 Business Reply
+1043 Envelope $0.035 1 $0.035 46,666 $1,633.31
+(Section C.5.3.4.5)
+#10 Envelope
+1044 $0.033 1 $0.033 668 $22.04
+(Section C.5.4.2)
+5
+
+6 X 9 Envelope (Section
+1045 $0.07 1 $0.07 66,668 $4,666.76
+C.5.3.4.3)
+9 x 12 Envelope (Section
+1046 $0.25 1 $0.25 33,336 $8,334.00
+C.5.3.4.4)
+#9 Business Reply
+1047 Envelope Colored $0.15 1 $0.15 668 $100.20
+(Section C.5.3.4.5)
+#10 Envelope Colored
+1048 $0.15 1 $0.15 668 $100.20
+(Section C.5.3.4.2)
+6 X 9 Envelope Colored
+1049 $0.25 1 $0.25 668 $167.00
+(Section C.5.3.4.3)
+9 x 12 Envelope Colored
+1050 $0.35 1 $0.35 668 $233.80
+(Section C.5.3.4.4)
+Option Year One Grand Total for B.4.2.2
+$15,257.31
+B.4.2.3 PRICE SCHEDULE – FIRM FIXED PRICE
+Contract
+Line Item
+Item Description Total Price
+No.
+(CLIN)
+Per page price for each two-sided notice containing a total of 26-50-Page
+1051 $0.05
+Duplex (Section C.5.3.6)
+1052 Start-up/Implementation (Section C.5.2) No Charge
+1053 Light Green Stripe on Specific Letter Types (C.5.5) No Charge
+Option Year One Grand Total for B.4.2.3 $0.05
+Option Year One Grand Total for B.4.2.1, B.4.2.2 and B.4.2.3 $389,565.92
+6
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW116019 1 6
+2. Amendment/Modification Number 3.Effective Date 4. Requisition/Purchase Request No. 5.Solicitation Caption
+DCAS Printing and Mailing
+M0002 See Section 16C
+Services
+6.Issued by: Code 7.Administered by (If other than line 6)
+OFFICE OF CONTRACTING AND PROCUREMENT DEPARTMENT OF HEALTH CARE FINANCE
+441 4th Street NW, Suite 200N Office of the Chief Operating Officer
+Washington, DC 20001 441 4th Street, N.W. Suite 900 South
+Email: Suma.Legesse@dc.gov Washington, DC 20001
+Attn: kashonda.johnsondunklin@dc.gov
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+9B. Dated (See Item 11)
+Mark Vanderpool, President
+Immediate Mailing Services, Inc (IMS) 10A. Modification of Contract/Order No.
+245 Commerce Blvd
+X CW116019
+Liverpool, NY 13088-4541
+Phone: 315-437-4189
+mvanderpool@imsdirect.com
+10B. Dated (See Item 13)
+Code Facility May 28, 2024
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a)By completing Items 8 and 15, and returning __________ copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO
+BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION
+OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or
+telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If Required)
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACT/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Contract Modifications
+X The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C.This supplemental agreement is entered into pursuant to authority of:
+D.Other (Specify type of modification and authority)
+E. IMPORTANT: Contractor is not is required to sign this document.
+14.Description of Amendment/Modification
+Contract No. CW116019 is hereby modified as follows:
+1. Pursuant to Section 8.2 of the contract, the District hereby partially exercises Option Period One from February
+01, 2025 through March 31, 2025 in the amount not-to-exceed $194,782.94, bringing the total contract value for
+Option Period One to $584,439.86.
+2. Attachment A: Price Schedule B.4.2 is hereby incorporated and made a part of this contract.
+All other terms and conditions remain unchanged
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Mark Vanderpool, EVP & Chief Technology Officer
+Latora Davis
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+(Signature of person authorized to sign) 01/02/2025 1/14/2025
+(Signature of Contracting Office)
+1
+
+ATTACHMENT A
+Partial Option Period One (1) - Price Schedule
+Period of Performance: February 01, 2025 through March 31, 2025
+CW116019
+Immediate Mailing Services, Inc (IMS)
+DCAS Printing and Mailing Services
+B.4.2 PARTIAL OPTION YEAR ONE - IDIQ
+B.4.2.1 NOTICES (1-PAGE SIMPLEX (ONE-SIDED) – 25-PAGE DUPLEX (TWO-SIDED)
+Contract Item Description Price Per Quantity Minimum Quantity Maximum
+Line Item Notice Minimum Total Price Maximum Total Price
+No. Including (Unit Price (Unit price x
+(CLIN) Required x Minimum Maximum
+Envelope Quantity) quantity)
+1-Page Simplex
+1001 #10 envelope (Section $0.15 1 $0.15 334 $50.10
+C.5.3.4.2)
+1-Page Duplex
+1002 #10 envelope (Section $0.17 1 $0.17 334 $56.78
+C.5.3.4.2)
+2-Page Duplex
+1003 #10 envelope $0.23 1 $0.23 41668 $9,583.64
+(Section C.5.3.4.2)
+3-Page Duplex
+1004 #10 envelope (Section $0.26 1 $0.26 33334 $8,666.84
+C.5.3.4.2)
+4-Page Duplex
+1005 #10 envelope $0.32 1 $0.32 41668 $13,333.76
+(Section C.5.3.4.2)
+5-Page Duplex
+White Paper
+1006 $0.36 1 $0.36 33334 $12,000.24
+#10 envelope
+(Section C.5.3.4.2)
+5-Page Duplex Colored
+Paper
+1007 $0.46 1 $0.46 168 $77.28
+#10 envelope
+(Section C.5.3.4.2)
+6-Page Duplex
+1008 #10 envelope $0.44 1 $0.44 83334 $36,666.96
+(Section C.5.3.4.2)
+2
+
+7-Page Duplex
+1009 #10 envelope $0.49 1 $0.49 83334 $40,8333.66
+(Section C.5.3.4.2)
+8-Page Duplex
+1010 #10 envelope $0.55 1 $0.55 13334 $7,333.70
+(Section C.5.3.4.2)
+9-Page Duplex
+1011 6 x 9 envelope $0.61 1 $0.61 8334 $5,083.74
+(Section C.5.3.4.3)
+10-Page Duplex
+1012 6 x 9 envelope $0.66 1 $0.66 8334 $5,500.44
+(Section C.5.3.4.3)
+11-Page Duplex
+1013 6 x 9 envelope $0.71 1 $0.71 3334 $2,367.14
+(Section C.5.3.4.3)
+12-Page Duplex
+1014 6 x 9 envelope $0.76 1 $0.76 1668 $1,267.68
+(Section C.5.3.4.3)
+13-Page Duplex
+1015 6 x 9 envelope $0.82 1 $0.82 834 $683.88
+(Section C.5.3.4.3)
+14-Page Duplex
+1016 6 x 9 envelope $0.87 1 $0.87 6668 $5,801.16
+(Section C.5.3.4.3)
+15-Page Duplex
+1017 6 x 9 envelope $0.92 1 $0.92 1668 $1,534.56
+(Section C.5.3.4.3)
+16-Page Duplex
+1018 6 x 9 envelope $0.97 1 $0.97 3000 $2,910.00
+(Section C.5.3.4.3)
+17-Page Duplex
+1019 9 x 12 envelope $1.02 1 $1.02 334 $340.68
+(Section C.5.3.4.4)
+18-Page Duplex
+1020 9 x 12 envelope $1.07 1 $1.07 3668 $3,924.76
+(Section C.5.3.4.4)
+19-Page Duplex
+1021 9 x 12 envelope $1.13 1 $1.13 6668 $7,534.84
+(Section C.5.3.4.4)
+3
+
+20-Page Duplex
+1022 9 x 12 envelope $1.18 1 $1.18 334 $394.12
+(Section C.5.3.4.4)
+21-Page Duple
+1023 9 x 12 envelope $1.23 1 $1.23 334 $410.82
+(Section C.5.3.4.4)
+22-Page Duplex
+1024 9 x 12 envelope $1.28 1 $1.28 334 $427.52
+(Section C.5.3.4.4)
+23-Page Duplex
+1025 9 x 12 envelope $1.31 1 $1.31 334 $437.54
+(Section C.5.3.4.4)
+24-Page Duplex
+1026 9x12 envelope (Section $1.36 1 $1.36 334 $454.24
+C.5.3.4.4)
+25-Page Duplex
+1027 9x12 envelope (Section $1.41 1 $1.41 334 $470.94
+C.5.3.4.4)
+26-Page Duplex
+1028 9x12 envelope (Section $1.46 1 $1.46 334 $487.64
+C.5.3.4.4)
+27-Page Duplex
+1029 9x12 envelope (Section $1.51 1 $1.51 334 $504.34
+C.5.3.4.4)
+28-Page Duplex
+1030 9x12 envelope (Section $1.56 1 $1.56 334 $521.04
+C.5.3.4.4)
+29-Page Duplex
+1031 9x12 envelope (Section $1.61 1 $1.61 2500 $4,025.00
+C.5.3.4.4)
+30-Page Duplex
+1032 9x12 envelope (Section $1.66 1 $1.66 334 $554.44
+C.5.3.4.4)
+31-Page Duplex
+1033 9x12 envelope (Section $1.71 1 $1.71 2500 $4,275.00
+C.5.3.4.4)
+32-Page Duplex
+1034 9x12 envelope (Section $1.76 1 $1.76 334 $587.84
+C.5.3.4.4)
+4
+
+33-Page Duplex
+1035 9x12 envelope (Section $1.81 1 $1.81 334 $604.54
+C.5.3.4.4)
+34-Page Duplex
+1036 9x12 envelope (Section $1.86 1 $1.86 334 $621.24
+C.5.3.4.4)
+35-Page Duplex
+1037 9x12 envelope (Section $1.91 1 $1.91 334 $637.94
+C.5.3.4.4)
+36-Page Duplex
+1038 9x12 envelope (Section $1.96 1 $1.96 334 $654.64
+C.5.3.4.4)
+37-Page Duplex
+1039 9x12 envelope (Section $2.01 1 $2.01 334 $671.34
+C.5.3.4.4)
+38-Page Duplex
+1040 9x12 envelope (Section $2.06 1 $2.06 1668 $3,436.08
+C.5.3.4.4)
+39-Page Duplex
+1041 9x12 envelope (Section $2.11 1 $2.11 334 $704.74
+C.5.3.4.4)
+40-Page Duplex
+1042 9x12 envelope (Section $2.16 1 $2.16 334 $721.44
+C.5.3.4.4)
+Option Year One Grand Total for B.4.2.1 $187,154.28
+B.4.2.2 PRICE SCHEDULE - IDIQ – ADDITIONAL ENVELOPES
+Minimum Maximum
+Contract
+Total Price Total Price
+Line Item Price Per Quantity Quantity
+Item Description (Unit price x (Unit price x
+No. Envelope Minimum Maximum
+minimum Maximum
+(CLIN)
+quantity) quantity)
+#9 Business Reply
+1043 Envelope $0.035 1 $0.035 23333 $816.66
+(Section C.5.3.4.5)
+#10 Envelope
+1044 $0.033 1 $0.033 334 $11.02
+(Section C.5.4.2)
+5
+
+6 X 9 Envelope (Section
+1045 $0.07 1 $0.07 33334 $2,333.38
+C.5.3.4.3)
+9 x 12 Envelope (Section
+1046 $0.25 1 $0.25 16668 $4,167.00
+C.5.3.4.4)
+#9 Business Reply
+1047 Envelope Colored $0.15 1 $0.15 334 $50.10
+(Section C.5.3.4.5)
+#10 Envelope Colored
+1048 $0.15 1 $0.15 334 $50.10
+(Section C.5.3.4.2)
+6 X 9 Envelope Colored
+1049 $0.25 1 $0.25 334 $83.50
+(Section C.5.3.4.3)
+9 x 12 Envelope Colored
+1050 $0.35 1 $0.35 334 $116.90
+(Section C.5.3.4.4)
+Option Year One Grand Total for B.4.2.2
+$7,628.66
+B.4.2.3 PRICE SCHEDULE – FIRM FIXED PRICE
+Contract
+Line Item
+Item Description Total Price
+No.
+(CLIN)
+Per page price for each two-sided notice containing a total of 26-50-Page
+1051 $0.00
+Duplex (Section C.5.3.6)
+1052 Start-up/Implementation (Section C.5.2) No Charge
+1053 Light Green Stripe on Specific Letter Types (C.5.5) No Charge
+Option Year One Grand Total for B.4.2.3 $0.00
+Option Year One Grand Total for B.4.2.1, B.4.2.2 and B.4.2.3 $194,782.94
+6
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW116019 1 6
+2. Amendment/Modification Number 3.Effective Date 4. Requisition/Purchase Request No. 5.Solicitation Caption
+DCAS Printing and Mailing
+M0003 See Section 16C
+Services
+6.Issued by: Code 7.Administered by (If other than line 6)
+OFFICE OF CONTRACTING AND PROCUREMENT DEPARTMENT OF HEALTH CARE FINANCE
+441 4th Street NW, Suite 200N Office of the Chief Operating Officer
+Washington, DC 20001 441 4th Street, N.W. Suite 900 South
+Email: Suma.Legesse@dc.gov Washington, DC 20001
+Attn: kashonda.johnsondunklin@dc.gov
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+9B. Dated (See Item 11)
+Mark Vanderpool, President
+Immediate Mailing Services, Inc (IMS) 10A. Modification of Contract/Order No.
+245 Commerce Blvd
+X CW116019
+Liverpool, NY 13088-4541
+Phone: 315-437-4189
+mvanderpool@imsdirect.com
+10B. Dated (See Item 13)
+Code Facility May 28, 2024
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a)By completing Items 8 and 15, and returning __________ copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO
+BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION
+OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or
+telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If Required)
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACT/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Contract Modifications
+X The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C.This supplemental agreement is entered into pursuant to authority of:
+D.Other (Specify type of modification and authority)
+E. IMPORTANT: Contractor is not is required to sign this document.
+14.Description of Amendment/Modification
+Contract No. CW116019 is hereby modified as follows:
+1. Pursuant to Section 8.2 of the contract, the District hereby exercises the remaining partial of Option Period One
+from April 01, 2025 through September 30, 2025 in the amount not-to-exceed $584,137.19, which increases the
+total contract value for Option Period One to not-to-exceed $1,168,486.05.
+2. Attachment A: Price Schedule B.4.2 is hereby incorporated and made a part of this contract.
+All other terms and conditions remain unchanged
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Mark Vanderpool, EVP & Chief Technology Officer
+Latora Davis
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+(Signature of person authorized to sign) 01-23/2025
+(Signature of Contracting Office)
+1
+
+ATTACHMENT A
+Partial Option Period One (1) - Price Schedule
+Period of Performance: April 01, 2025 through September 25, 2025
+CW116019
+Immediate Mailing Services, Inc (IMS)
+DCAS Printing and Mailing Services
+B.4.2 OPTION YEAR ONE - IDIQ
+B.4.2.1 NOTICES (1-PAGE SIMPLEX (ONE-SIDED) – 25-PAGE DUPLEX (TWO-SIDED)
+Contract Item Description Price Per Quantity Minimum Quantity Maximum
+Line Item Notice Minimum Total Price Maximum Total Price
+No. Including (Unit Price (Unit price x
+(CLIN) Required x Minimum Maximum
+Envelope Quantity) quantity)
+1-Page Simplex
+1001 #10 envelope (Section $0.15 1 $0.15 998 $149.70
+C.5.3.4.2)
+1-Page Duplex
+1002 #10 envelope (Section $0.17 1 $0.17 998 $169.66
+C.5.3.4.2)
+2-Page Duplex
+1003 #10 envelope $0.23 1 $0.23 124996 $28,749.08
+(Section C.5.3.4.2)
+3-Page Duplex
+1004 #10 envelope (Section $0.26 1 $0.26 99998 $25,999.48
+C.5.3.4.2)
+4-Page Duplex
+1005 #10 envelope $0.32 1 $0.32 124996 $39,998.72
+(Section C.5.3.4.2)
+5-Page Duplex
+White Paper
+1006 $0.36 1 $0.36 99998 $35,999.28
+#10 envelope
+(Section C.5.3.4.2)
+5-Page Duplex Colored
+Paper
+1007 $0.46 1 $0.46 496 $228.16
+#10 envelope
+(Section C.5.3.4.2)
+6-Page Duplex
+1008 #10 envelope $0.44 1 $0.44 249998 $109,999.12
+(Section C.5.3.4.2)
+2
+
+7-Page Duplex
+1009 #10 envelope $0.49 1 $0.49 249998 $122,499.02
+(Section C.5.3.4.2)
+8-Page Duplex
+1010 #10 envelope $0.55 1 $0.55 39998 $21,998.90
+(Section C.5.3.4.2)
+9-Page Duplex
+1011 6 x 9 envelope $0.61 1 $0.61 24998 $15,248.78
+(Section C.5.3.4.3)
+10-Page Duplex
+1012 6 x 9 envelope $0.66 1 $0.66 24998 $16,498.68
+(Section C.5.3.4.3)
+11-Page Duplex
+1013 6 x 9 envelope $0.71 1 $0.71 9998 $7,098.58
+(Section C.5.3.4.3)
+12-Page Duplex
+1014 6 x 9 envelope $0.76 1 $0.76 4996 $3,796.96
+(Section C.5.3.4.3)
+13-Page Duplex
+1015 6 x 9 envelope $0.82 1 $0.82 2498 $2,048.36
+(Section C.5.3.4.3)
+14-Page Duplex
+1016 6 x 9 envelope $0.87 1 $0.87 19996 $17,396.52
+(Section C.5.3.4.3)
+15-Page Duplex
+1017 6 x 9 envelope $0.92 1 $0.92 4996 $4,596.32
+(Section C.5.3.4.3)
+16-Page Duplex
+1018 6 x 9 envelope $0.97 1 $0.97 9000 $8,730.00
+(Section C.5.3.4.3)
+17-Page Duplex
+1019 9 x 12 envelope $1.02 1 $1.02 998 $1,017.96
+(Section C.5.3.4.4)
+18-Page Duplex
+1020 9 x 12 envelope $1.07 1 $1.07 10996 $11,765.72
+(Section C.5.3.4.4)
+19-Page Duplex
+1021 9 x 12 envelope $1.13 1 $1.13 19996 $22,595.48
+(Section C.5.3.4.4)
+3
+
+20-Page Duplex
+1022 9 x 12 envelope $1.18 1 $1.18 998 $1,177.64
+(Section C.5.3.4.4)
+21-Page Duple
+1023 9 x 12 envelope $1.23 1 $1.23 998 $1,227.54
+(Section C.5.3.4.4)
+22-Page Duplex
+1024 9 x 12 envelope $1.28 1 $1.28 998 $1,277.44
+(Section C.5.3.4.4)
+23-Page Duplex
+1025 9 x 12 envelope $1.31 1 $1.31 998 $1,307.38
+(Section C.5.3.4.4)
+24-Page Duplex
+1026 9x12 envelope (Section $1.36 1 $1.36 998 $1,357.28
+C.5.3.4.4)
+25-Page Duplex
+1027 9x12 envelope (Section $1.41 1 $1.41 998 $1,407.18
+C.5.3.4.4)
+26-Page Duplex
+1028 9x12 envelope (Section $1.46 1 $1.46 998 $1,457.08
+C.5.3.4.4)
+27-Page Duplex
+1029 9x12 envelope (Section $1.51 1 $1.51 998 $1,506.98
+C.5.3.4.4)
+28-Page Duplex
+1030 9x12 envelope (Section $1.56 1 $1.56 998 $1,556.88
+C.5.3.4.4)
+29-Page Duplex
+1031 9x12 envelope (Section $1.61 1 $1.61 7500 $12,075.00
+C.5.3.4.4)
+30-Page Duplex
+1032 9x12 envelope (Section $1.66 1 $1.66 998 $1,656.68
+C.5.3.4.4)
+31-Page Duplex
+1033 9x12 envelope (Section $1.71 1 $1.71 7500 $12,825.00
+C.5.3.4.4)
+32-Page Duplex
+1034 9x12 envelope (Section $1.76 1 $1.76 998 $1,756.48
+C.5.3.4.4)
+4
+
+33-Page Duplex
+1035 9x12 envelope (Section $1.81 1 $1.81 998 $1,806.38
+C.5.3.4.4)
+34-Page Duplex
+1036 9x12 envelope (Section $1.86 1 $1.86 998 $1,856.28
+C.5.3.4.4)
+35-Page Duplex
+1037 9x12 envelope (Section $1.91 1 $1.91 998 $1,906.18
+C.5.3.4.4)
+36-Page Duplex
+1038 9x12 envelope (Section $1.96 1 $1.96 998 $1,956.08
+C.5.3.4.4)
+37-Page Duplex
+1039 9x12 envelope (Section $2.01 1 $2.01 998 $2,005.98
+C.5.3.4.4)
+38-Page Duplex
+1040 9x12 envelope (Section $2.06 1 $2.06 4996 $10,291.76
+C.5.3.4.4)
+39-Page Duplex
+1041 9x12 envelope (Section $2.11 1 $2.11 998 $2,105.78
+C.5.3.4.4)
+40-Page Duplex
+1042 9x12 envelope (Section $2.16 1 $2.16 998 $2,155.68
+C.5.3.4.4)
+Option Year One Grand Total for B.4.2.1 $561,257.16
+B.4.2.2 PRICE SCHEDULE - IDIQ – ADDITIONAL ENVELOPES
+Minimum Maximum
+Contract
+Total Price Total Price
+Line Item Price Per Quantity Quantity
+Item Description (Unit price x (Unit price x
+No. Envelope Minimum Maximum
+minimum Maximum
+(CLIN)
+quantity) quantity)
+#9 Business Reply
+1043 Envelope $0.035 1 $0.035 70001 $2,450.04
+(Section C.5.3.4.5)
+#10 Envelope
+1044 $0.033 1 $0.033 998 $32.93
+(Section C.5.4.2)
+5
+
+6 X 9 Envelope (Section
+1045 $0.07 1 $0.07 99998 $6,999.86
+C.5.3.4.3)
+9 x 12 Envelope (Section
+1046 $0.25 1 $0.25 49996 $12,499.00
+C.5.3.4.4)
+#9 Business Reply
+1047 Envelope Colored $0.15 1 $0.15 998 $149.70
+(Section C.5.3.4.5)
+#10 Envelope Colored
+1048 $0.15 1 $0.15 998 $149.70
+(Section C.5.3.4.2)
+6 X 9 Envelope Colored
+1049 $0.25 1 $0.25 998 $249.50
+(Section C.5.3.4.3)
+9 x 12 Envelope Colored
+1050 $0.35 1 $0.35 998 $349.30
+(Section C.5.3.4.4)
+Option Year One Grand Total for B.4.2.2
+$22,880.03
+B.4.2.3 PRICE SCHEDULE – FIRM FIXED PRICE
+Contract
+Line Item
+Item Description Total Price
+No.
+(CLIN)
+Per page price for each two-sided notice containing a total of 26-50-Page
+1051 $0.00
+Duplex (Section C.5.3.6)
+1052 Start-up/Implementation (Section C.5.2) No Charge
+1053 Light Green Stripe on Specific Letter Types (C.5.5) No Charge
+Option Year One Grand Total for B.4.2.3 $0.00
+Option Year One Grand Total for B.4.2.1, B.4.2.2 and B.4.2.3 $584,137.19
+6
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW116019 1 6
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+DCAS Printing and Mailing
+M0004 See Section 16C
+Services
+6. Issued by: Code 7. Administered by (If other than line 6)
+OFFICE OF CONTRACTING AND PROCUREMENT DEPARTMENT OF HEALTH CARE FINANCE
+441 4th Street NW, Suite 200N Office of the Chief Operating Officer
+Washington, DC 20001 441 4th Street, N.W. Suite 900 South
+Email: Suma.Legesse@dc.gov Washington, DC 20001
+Attn: kashonda.johnsondunklin@dc.gov
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+9B. Dated (See Item 11)
+Mark Vanderpool, President
+Immediate Mailing Services, Inc (IMS) 10A. Modification of Contract/Order No.
+245 Commerce Blvd
+X CW116019
+Liverpool, NY 13088-4541
+Phone: 315-437-4189
+mvanderpool@imsdirect.com
+10B. Dated (See Item 13)
+Code Facility May 28, 2024
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15, and returning __________ copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO
+BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION
+OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or
+telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACT/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Contract Modifications
+X The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C. This supplemental agreement is entered into pursuant to authority of:
+D. Other (Specify type of modification and authority)
+E. IMPORTANT: Contractor is not is required to sign this document.
+14. Description of Amendment/Modification
+Contract No. CW116019 is hereby modified as follows:
+The purpose of this administrative modification is to incorporate the total minimum amount of $48.26 in the price
+schedules below for option period one:
+1. Attachment A: Partial Option Period One from October 01, 2024 through January 31, 2025.
+2. Attachment B: Partial Option Period One from February 01, 2025 through March 31, 2025.
+3. Attachment C: Partial Option Period One from April 01, 2025 through September 30, 2025.
+All other terms and conditions remain unchanged
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Latora Davis
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+(Signature of person authorized to sign)
+2/5/2025
+(Signature of Contracting Office)
+1
+
+ATTACHMENT A
+Option Period One (1) - Price Schedule
+Period of Performance: October 01, 2024 through January 31, 2025
+CW116019
+Immediate Mailing Services, Inc (IMS)
+DCAS Printing and Mailing Services
+B.4.2 OPTION YEAR ONE - IDIQ
+B.4.2.1 NOTICES (1-PAGE SIMPLEX (ONE-SIDED) – 25-PAGE DUPLEX (TWO-SIDED))
+Contract Item Description Price Per Quantity Minimum Quantity Maximum
+Line Item Notice Minimum Total Price Maximum Total Price
+No. Including (Unit Price x (Unit price x
+(CLIN) Required Minimum Maximum
+Envelope Quantity) quantity)
+1-Page Simplex
+1001 #10 envelope (Section $0.15 1 $0.15 668 $100.20
+C.5.3.4.2)
+1-Page Duplex
+1002 #10 envelope (Section $0.17 1 $0.17 668 $113.56
+C.5.3.4.2)
+2-Page Duplex
+1003 #10 envelope $0.23 1 $0.23 83,336 $19,167.28
+(Section C.5.3.4.2)
+3-Page Duplex
+1004 #10 envelope (Section $0.26 1 $0.26 66,668 $17,333.68
+C.5.3.4.2)
+4-Page Duplex
+1005 #10 envelope $0.32 1 $0.32 83,336 $26,667.52
+(Section C.5.3.4.2)
+5-Page Duplex
+White Paper
+1006 $0.36 1 $0.36 66,668 $24,000.48
+#10 envelope
+(Section C.5.3.4.2)
+5-Page Duplex Colored
+Paper
+1007 $0.46 1 $0.46 336 $154.56
+#10 envelope
+(Section C.5.3.4.2)
+6-Page Duplex
+1008 #10 envelope $0.44 1 $0.44 166,668 $73,333.92
+(Section C.5.3.4.2)
+2
+
+7-Page Duplex
+1009 #10 envelope $0.49 1 $0.49 166,668 $81,667.32
+(Section C.5.3.4.2)
+8-Page Duplex
+1010 #10 envelope $0.55 1 $0.55 26,668 $14,667.4
+(Section C.5.3.4.2)
+9-Page Duplex
+1011 6 x 9 envelope $0.61 1 $0.61 16,668 $10,167.48
+(Section C.5.3.4.3)
+10-Page Duplex
+1012 6 x 9 envelope $0.66 1 $0.66 16,668 $11,000.88
+(Section C.5.3.4.3)
+11-Page Duplex
+1013 6 x 9 envelope $0.71 1 $0.71 6,668 $4,734.28
+(Section C.5.3.4.3)
+12-Page Duplex
+1014 6 x 9 envelope $0.76 1 $0.76 3,336 $2,535.36
+(Section C.5.3.4.3)
+13-Page Duplex
+1015 6 x 9 envelope $0.82 1 $0.82 1,668 $1,367.76
+(Section C.5.3.4.3)
+14-Page Duplex
+1016 6 x 9 envelope $0.87 1 $0.87 13,336 $11,602.32
+(Section C.5.3.4.3)
+15-Page Duplex
+1017 6 x 9 envelope $0.92 1 $0.92 3,336 $3,069.12
+(Section C.5.3.4.3)
+16-Page Duplex
+1018 6 x 9 envelope $0.97 1 $0.97 6,000 $5,820.00
+(Section C.5.3.4.3)
+17-Page Duplex
+1019 9 x 12 envelope $1.02 1 $1.02 668 $681.36
+(Section C.5.3.4.4)
+18-Page Duplex
+1020 9 x 12 envelope $1.07 1 $1.07 7,336 $7,849.52
+(Section C.5.3.4.4)
+19-Page Duplex
+1021 9 x 12 envelope $1.13 1 $1.13 13,336 $15,069.68
+(Section C.5.3.4.4)
+3
+
+20-Page Duplex
+1022 9 x 12 envelope $1.18 1 $1.18 668 $788.24
+(Section C.5.3.4.4)
+21-Page Duple
+1023 9 x 12 envelope $1.23 1 $1.23 668 $821.64
+(Section C.5.3.4.4)
+22-Page Duplex
+1024 9 x 12 envelope $1.28 1 $1.28 668 $855.04
+(Section C.5.3.4.4)
+23-Page Duplex
+1025 9 x 12 envelope $1.31 1 $1.31 668 $875.08
+(Section C.5.3.4.4)
+24-Page Duplex
+1026 9x12 envelope (Section $1.36 1 $1.36 668 $908.48
+C.5.3.4.4)
+25-Page Duplex
+1027 9x12 envelope (Section $1.41 1 $1.41 668 $941.88
+C.5.3.4.4)
+26-Page Duplex
+1028 9x12 envelope (Section $1.46 1 $1.46 668 $975.28
+C.5.3.4.4)
+27-Page Duplex
+1029 9x12 envelope (Section $1.51 1 $1.51 668 $1,008.68
+C.5.3.4.4)
+28-Page Duplex
+1030 9x12 envelope (Section $1.56 1 $1.56 668 $1,042.08
+C.5.3.4.4)
+29-Page Duplex
+1031 9x12 envelope (Section $1.61 1 $1.61 5,000 $8,050.00
+C.5.3.4.4)
+30-Page Duplex
+1032 9x12 envelope (Section $1.66 1 $1.66 668 $1,108.88
+C.5.3.4.4)
+31-Page Duplex
+1033 9x12 envelope (Section $1.71 1 $1.71 5000 $8,550.00
+C.5.3.4.4)
+32-Page Duplex
+1034 9x12 envelope (Section $1.76 1 $1.76 668 $1,175.68
+C.5.3.4.4)
+4
+
+33-Page Duplex
+1035 9x12 envelope (Section $1.81 1 $1.81 668 $1,209.08
+C.5.3.4.4)
+34-Page Duplex
+1036 9x12 envelope (Section $1.86 1 $1.86 668 $1,242.48
+C.5.3.4.4)
+35-Page Duplex
+1037 9x12 envelope (Section $1.91 1 $1.91 668 $1,275.88
+C.5.3.4.4)
+36-Page Duplex
+1038 9x12 envelope (Section $1.96 1 $1.96 668 $1,309.28
+C.5.3.4.4)
+37-Page Duplex
+1039 9x12 envelope (Section $2.01 1 $2.01 668 $1,342.68
+C.5.3.4.4)
+38-Page Duplex
+1040 9x12 envelope (Section $2.06 1 $2.06 3,336 $6,872.16
+C.5.3.4.4)
+39-Page Duplex
+1041 9x12 envelope (Section $2.11 1 $2.11 668 $1,409.48
+C.5.3.4.4)
+40-Page Duplex
+1042 9x12 envelope (Section $2.16 1 $2.16 668 $1,442.88
+C.5.3.4.4)
+Option Year One Grand Total for B.4.2.1 $46.92 $374,308.56
+B.4.2.2 PRICE SCHEDULE - IDIQ – ADDITIONAL ENVELOPES
+Minimum Maximum
+Contract
+Total Price Total Price
+Line Item Price Per Quantity Quantity
+Item Description (Unit price x (Unit price x
+No. Envelope Minimum Maximum
+minimum Maximum
+(CLIN)
+quantity) quantity)
+#9 Business Reply
+1043 Envelope $0.035 1 $0.035 46,666 $1,633.31
+(Section C.5.3.4.5)
+#10 Envelope
+1044 $0.033 1 $0.033 668 $22.04
+(Section C.5.4.2)
+5
+
+6 X 9 Envelope (Section
+1045 $0.07 1 $0.07 66,668 $4,666.76
+C.5.3.4.3)
+9 x 12 Envelope (Section
+1046 $0.25 1 $0.25 33,336 $8,334.00
+C.5.3.4.4)
+#9 Business Reply
+1047 Envelope Colored $0.15 1 $0.15 668 $100.20
+(Section C.5.3.4.5)
+#10 Envelope Colored
+1048 $0.15 1 $0.15 668 $100.20
+(Section C.5.3.4.2)
+6 X 9 Envelope Colored
+1049 $0.25 1 $0.25 668 $167.00
+(Section C.5.3.4.3)
+9 x 12 Envelope Colored
+1050 $0.35 1 $0.35 668 $233.80
+(Section C.5.3.4.4)
+Option Year One Grand Total for B.4.2.2 $1.29 $15,257.31
+B.4.2.3 PRICE SCHEDULE – FIRM FIXED PRICE
+Contract
+Line Item
+Item Description Minimum Total Price Maximum Total Price
+No.
+(CLIN)
+Per page price for each two-sided notice
+1051 containing a total of 26-50-Page Duplex $0.05 $0.05
+(Section C.5.3.6)
+1052 Start-up/Implementation (Section C.5.2) No Charge No Charge
+Light Green Stripe on Specific Letter Types
+1053 No Charge No Charge
+(C.5.5)
+Option Year One Grand Total for B.4.2.3 $0.05 $0.05
+Option Year One Grand Total for B.4.2.1, B.4.2.2 and
+$48.26 $389,565.92
+B.4.2.3
+6
+
+ATTACHMENT B
+Partial Option Period One (1) - Price Schedule
+Period of Performance: February 01, 2025 through March 31, 2025
+CW116019
+Immediate Mailing Services, Inc (IMS)
+DCAS Printing and Mailing Services
+B.4.2 OPTION YEAR ONE - IDIQ
+B.4.2.1 NOTICES (1-PAGE SIMPLEX (ONE-SIDED) – 25-PAGE DUPLEX (TWO-SIDED)
+Contract Item Description Price Per Quantity Minimum Quantity Maximum
+Line Item Notice Minimum Total Price Maximum Total Price
+No. Including (Unit Price x (Unit price x
+(CLIN) Required Minimum Maximum
+Envelope Quantity) quantity)
+1-Page Simplex
+1001 #10 envelope (Section $0.15 1 $0.15 334 $50.10
+C.5.3.4.2)
+1-Page Duplex
+1002 #10 envelope (Section $0.17 1 $0.17 334 $56.78
+C.5.3.4.2)
+2-Page Duplex
+1003 #10 envelope $0.23 1 $0.23 41668 $9,583.64
+(Section C.5.3.4.2)
+3-Page Duplex
+1004 #10 envelope (Section $0.26 1 $0.26 33334 $8,666.84
+C.5.3.4.2)
+4-Page Duplex
+1005 #10 envelope $0.32 1 $0.32 41668 $13,333.76
+(Section C.5.3.4.2)
+5-Page Duplex
+White Paper
+1006 $0.36 1 $0.36 33334 $12,000.24
+#10 envelope
+(Section C.5.3.4.2)
+5-Page Duplex Colored
+Paper
+1007 $0.46 1 $0.46 168 $77.28
+#10 envelope
+(Section C.5.3.4.2)
+6-Page Duplex
+1008 #10 envelope $0.44 1 $0.44 83334 $36,666.96
+(Section C.5.3.4.2)
+7-Page Duplex
+1009 #10 envelope $0.49 1 $0.49 83334 $40,8333.66
+(Section C.5.3.4.2)
+7
+
+8-Page Duplex
+1010 #10 envelope $0.55 1 $0.55 13334 $7,333.70
+(Section C.5.3.4.2)
+9-Page Duplex
+1011 6 x 9 envelope $0.61 1 $0.61 8334 $5,083.74
+(Section C.5.3.4.3)
+10-Page Duplex
+1012 6 x 9 envelope $0.66 1 $0.66 8334 $5,500.44
+(Section C.5.3.4.3)
+11-Page Duplex
+1013 6 x 9 envelope $0.71 1 $0.71 3334 $2,367.14
+(Section C.5.3.4.3)
+12-Page Duplex
+1014 6 x 9 envelope $0.76 1 $0.76 1668 $1,267.68
+(Section C.5.3.4.3)
+13-Page Duplex
+1015 6 x 9 envelope $0.82 1 $0.82 834 $683.88
+(Section C.5.3.4.3)
+14-Page Duplex
+1016 6 x 9 envelope $0.87 1 $0.87 6668 $5,801.16
+(Section C.5.3.4.3)
+15-Page Duplex
+1017 6 x 9 envelope $0.92 1 $0.92 1668 $1,534.56
+(Section C.5.3.4.3)
+16-Page Duplex
+1018 6 x 9 envelope $0.97 1 $0.97 3000 $2,910.00
+(Section C.5.3.4.3)
+17-Page Duplex
+1019 9 x 12 envelope $1.02 1 $1.02 334 $340.68
+(Section C.5.3.4.4)
+18-Page Duplex
+1020 9 x 12 envelope $1.07 1 $1.07 3668 $3,924.76
+(Section C.5.3.4.4)
+19-Page Duplex
+1021 9 x 12 envelope $1.13 1 $1.13 6668 $7,534.84
+(Section C.5.3.4.4)
+20-Page Duplex
+1022 9 x 12 envelope $1.18 1 $1.18 334 $394.12
+(Section C.5.3.4.4)
+8
+
+21-Page Duple
+1023 9 x 12 envelope $1.23 1 $1.23 334 $410.82
+(Section C.5.3.4.4)
+22-Page Duplex
+1024 9 x 12 envelope $1.28 1 $1.28 334 $427.52
+(Section C.5.3.4.4)
+23-Page Duplex
+1025 9 x 12 envelope $1.31 1 $1.31 334 $437.54
+(Section C.5.3.4.4)
+24-Page Duplex
+1026 9x12 envelope (Section $1.36 1 $1.36 334 $454.24
+C.5.3.4.4)
+25-Page Duplex
+1027 9x12 envelope (Section $1.41 1 $1.41 334 $470.94
+C.5.3.4.4)
+26-Page Duplex
+1028 9x12 envelope (Section $1.46 1 $1.46 334 $487.64
+C.5.3.4.4)
+27-Page Duplex
+1029 9x12 envelope (Section $1.51 1 $1.51 334 $504.34
+C.5.3.4.4)
+28-Page Duplex
+1030 9x12 envelope (Section $1.56 1 $1.56 334 $521.04
+C.5.3.4.4)
+29-Page Duplex
+1031 9x12 envelope (Section $1.61 1 $1.61 2500 $4,025.00
+C.5.3.4.4)
+30-Page Duplex
+1032 9x12 envelope (Section $1.66 1 $1.66 334 $554.44
+C.5.3.4.4)
+31-Page Duplex
+1033 9x12 envelope (Section $1.71 1 $1.71 2500 $4,275.00
+C.5.3.4.4)
+32-Page Duplex
+1034 9x12 envelope (Section $1.76 1 $1.76 334 $587.84
+C.5.3.4.4)
+33-Page Duplex
+1035 9x12 envelope (Section $1.81 1 $1.81 334 $604.54
+C.5.3.4.4)
+9
+
+34-Page Duplex
+1036 9x12 envelope (Section $1.86 1 $1.86 334 $621.24
+C.5.3.4.4)
+35-Page Duplex
+1037 9x12 envelope (Section $1.91 1 $1.91 334 $637.94
+C.5.3.4.4)
+36-Page Duplex
+1038 9x12 envelope (Section $1.96 1 $1.96 334 $654.64
+C.5.3.4.4)
+37-Page Duplex
+1039 9x12 envelope (Section $2.01 1 $2.01 334 $671.34
+C.5.3.4.4)
+38-Page Duplex
+1040 9x12 envelope (Section $2.06 1 $2.06 1668 $3,436.08
+C.5.3.4.4)
+39-Page Duplex
+1041 9x12 envelope (Section $2.11 1 $2.11 334 $704.74
+C.5.3.4.4)
+40-Page Duplex
+1042 9x12 envelope (Section $2.16 1 $2.16 334 $721.44
+C.5.3.4.4)
+Option Year One Grand Total for B.4.2.1 $46.92 $187,154.28
+B.4.2.2 PRICE SCHEDULE - IDIQ – ADDITIONAL ENVELOPES
+Minimum Maximum
+Contract
+Total Price Total Price
+Line Item Price Per Quantity Quantity
+Item Description (Unit price x (Unit price x
+No. Envelope Minimum Maximum
+minimum Maximum
+(CLIN)
+quantity) quantity)
+#9 Business Reply
+1043 Envelope $0.035 1 $0.035 23333 $816.66
+(Section C.5.3.4.5)
+#10 Envelope
+1044 $0.033 1 $0.033 334 $11.02
+(Section C.5.4.2)
+6 X 9 Envelope (Section
+1045 $0.07 1 $0.07 33334 $2,333.38
+C.5.3.4.3)
+9 x 12 Envelope (Section
+1046 $0.25 1 $0.25 16668 $4,167.00
+C.5.3.4.4)
+10
+
+#9 Business Reply
+1047 Envelope Colored $0.15 1 $0.15 334 $50.10
+(Section C.5.3.4.5)
+#10 Envelope Colored
+1048 $0.15 1 $0.15 334 $50.10
+(Section C.5.3.4.2)
+6 X 9 Envelope Colored
+1049 $0.25 1 $0.25 334 $83.50
+(Section C.5.3.4.3)
+9 x 12 Envelope Colored
+1050 $0.35 1 $0.35 334 $116.90
+(Section C.5.3.4.4)
+Option Year One Grand Total for B.4.2.2 $1.29 $7,628.66
+B.4.2.3 PRICE SCHEDULE – FIRM FIXED PRICE
+Contract
+Line Item
+Item Description Minimum Total Price Maximum Total Price
+No.
+(CLIN)
+Per page price for each two-sided notice
+1051 containing a total of 26-50-Page Duplex $0.00 $0.00
+(Section C.5.3.6)
+1052 Start-up/Implementation (Section C.5.2) No Charge No Charge
+Light Green Stripe on Specific Letter
+1053 No Charge No Charge
+Types (C.5.5)
+Option Year One Grand Total for B.4.2.3 $0.00 $0.00
+Option Year One Grand Total for B.4.2.1, B.4.2.2
+$48.21 $194,782.94
+and B.4.2.3
+11
+
+ATTACHMENT C
+Partial Option Period One (1) - Price Schedule
+Period of Performance: April 01, 2025 through September 25, 2025
+CW116019
+Immediate Mailing Services, Inc (IMS)
+DCAS Printing and Mailing Services
+B.4.2 OPTION YEAR ONE - IDIQ
+B.4.2.1 NOTICES (1-PAGE SIMPLEX (ONE-SIDED) – 25-PAGE DUPLEX (TWO-SIDED)
+Contract Item Description Price Per Quantity Minimum Quantity Maximum
+Line Item Notice Minimum Total Price Maximum Total Price
+No. Including (Unit Price x (Unit price x
+(CLIN) Required Minimum Maximum
+Envelope Quantity) quantity)
+1-Page Simplex
+1001 #10 envelope (Section $0.15 1 $0.15 998 $149.70
+C.5.3.4.2)
+1-Page Duplex
+1002 #10 envelope (Section $0.17 1 $0.17 998 $169.66
+C.5.3.4.2)
+2-Page Duplex
+1003 #10 envelope $0.23 1 $0.23 124996 $28,749.08
+(Section C.5.3.4.2)
+3-Page Duplex
+1004 #10 envelope (Section $0.26 1 $0.26 99998 $25,999.48
+C.5.3.4.2)
+4-Page Duplex
+1005 #10 envelope $0.32 1 $0.32 124996 $39,998.72
+(Section C.5.3.4.2)
+5-Page Duplex
+White Paper
+1006 $0.36 1 $0.36 99998 $35,999.28
+#10 envelope
+(Section C.5.3.4.2)
+5-Page Duplex Colored
+Paper
+1007 $0.46 1 $0.46 496 $228.16
+#10 envelope
+(Section C.5.3.4.2)
+6-Page Duplex
+1008 #10 envelope $0.44 1 $0.44 249998 $109,999.12
+(Section C.5.3.4.2)
+7-Page Duplex
+1009 #10 envelope $0.49 1 $0.49 249998 $122,499.02
+(Section C.5.3.4.2)
+12
+
+8-Page Duplex
+1010 #10 envelope $0.55 1 $0.55 39998 $21,998.90
+(Section C.5.3.4.2)
+9-Page Duplex
+1011 6 x 9 envelope $0.61 1 $0.61 24998 $15,248.78
+(Section C.5.3.4.3)
+10-Page Duplex
+1012 6 x 9 envelope $0.66 1 $0.66 24998 $16,498.68
+(Section C.5.3.4.3)
+11-Page Duplex
+1013 6 x 9 envelope $0.71 1 $0.71 9998 $7,098.58
+(Section C.5.3.4.3)
+12-Page Duplex
+1014 6 x 9 envelope $0.76 1 $0.76 4996 $3,796.96
+(Section C.5.3.4.3)
+13-Page Duplex
+1015 6 x 9 envelope $0.82 1 $0.82 2498 $2,048.36
+(Section C.5.3.4.3)
+14-Page Duplex
+1016 6 x 9 envelope $0.87 1 $0.87 19996 $17,396.52
+(Section C.5.3.4.3)
+15-Page Duplex
+1017 6 x 9 envelope $0.92 1 $0.92 4996 $4,596.32
+(Section C.5.3.4.3)
+16-Page Duplex
+1018 6 x 9 envelope $0.97 1 $0.97 9000 $8,730.00
+(Section C.5.3.4.3)
+17-Page Duplex
+1019 9 x 12 envelope $1.02 1 $1.02 998 $1,017.96
+(Section C.5.3.4.4)
+18-Page Duplex
+1020 9 x 12 envelope $1.07 1 $1.07 10996 $11,765.72
+(Section C.5.3.4.4)
+19-Page Duplex
+1021 9 x 12 envelope $1.13 1 $1.13 19996 $22,595.48
+(Section C.5.3.4.4)
+20-Page Duplex
+1022 9 x 12 envelope $1.18 1 $1.18 998 $1,177.64
+(Section C.5.3.4.4)
+13
+
+21-Page Duple
+1023 9 x 12 envelope $1.23 1 $1.23 998 $1,227.54
+(Section C.5.3.4.4)
+22-Page Duplex
+1024 9 x 12 envelope $1.28 1 $1.28 998 $1,277.44
+(Section C.5.3.4.4)
+23-Page Duplex
+1025 9 x 12 envelope $1.31 1 $1.31 998 $1,307.38
+(Section C.5.3.4.4)
+24-Page Duplex
+1026 9x12 envelope (Section $1.36 1 $1.36 998 $1,357.28
+C.5.3.4.4)
+25-Page Duplex
+1027 9x12 envelope (Section $1.41 1 $1.41 998 $1,407.18
+C.5.3.4.4)
+26-Page Duplex
+1028 9x12 envelope (Section $1.46 1 $1.46 998 $1,457.08
+C.5.3.4.4)
+27-Page Duplex
+1029 9x12 envelope (Section $1.51 1 $1.51 998 $1,506.98
+C.5.3.4.4)
+28-Page Duplex
+1030 9x12 envelope (Section $1.56 1 $1.56 998 $1,556.88
+C.5.3.4.4)
+29-Page Duplex
+1031 9x12 envelope (Section $1.61 1 $1.61 7500 $12,075.00
+C.5.3.4.4)
+30-Page Duplex
+1032 9x12 envelope (Section $1.66 1 $1.66 998 $1,656.68
+C.5.3.4.4)
+31-Page Duplex
+1033 9x12 envelope (Section $1.71 1 $1.71 7500 $12,825.00
+C.5.3.4.4)
+32-Page Duplex
+1034 9x12 envelope (Section $1.76 1 $1.76 998 $1,756.48
+C.5.3.4.4)
+33-Page Duplex
+1035 9x12 envelope (Section $1.81 1 $1.81 998 $1,806.38
+C.5.3.4.4)
+14
+
+34-Page Duplex
+1036 9x12 envelope (Section $1.86 1 $1.86 998 $1,856.28
+C.5.3.4.4)
+35-Page Duplex
+1037 9x12 envelope (Section $1.91 1 $1.91 998 $1,906.18
+C.5.3.4.4)
+36-Page Duplex
+1038 9x12 envelope (Section $1.96 1 $1.96 998 $1,956.08
+C.5.3.4.4)
+37-Page Duplex
+1039 9x12 envelope (Section $2.01 1 $2.01 998 $2,005.98
+C.5.3.4.4)
+38-Page Duplex
+1040 9x12 envelope (Section $2.06 1 $2.06 4996 $10,291.76
+C.5.3.4.4)
+39-Page Duplex
+1041 9x12 envelope (Section $2.11 1 $2.11 998 $2,105.78
+C.5.3.4.4)
+40-Page Duplex
+1042 9x12 envelope (Section $2.16 1 $2.16 998 $2,155.68
+C.5.3.4.4)
+Option Year One Grand Total for B.4.2.1 $46.92 $561,257.16
+B.4.2.2 PRICE SCHEDULE - IDIQ – ADDITIONAL ENVELOPES
+Minimum Maximum
+Contract
+Total Price Total Price
+Line Item Price Per Quantity Quantity
+Item Description (Unit price x (Unit price x
+No. Envelope Minimum Maximum
+minimum Maximum
+(CLIN)
+quantity) quantity)
+#9 Business Reply
+1043 Envelope $0.035 1 $0.035 70001 $2,450.04
+(Section C.5.3.4.5)
+#10 Envelope
+1044 $0.033 1 $0.033 998 $32.93
+(Section C.5.4.2)
+6 X 9 Envelope (Section
+1045 $0.07 1 $0.07 99998 $6,999.86
+C.5.3.4.3)
+9 x 12 Envelope (Section
+1046 $0.25 1 $0.25 49996 $12,499.00
+C.5.3.4.4)
+15
+
+#9 Business Reply
+1047 Envelope Colored $0.15 1 $0.15 998 $149.70
+(Section C.5.3.4.5)
+#10 Envelope Colored
+1048 $0.15 1 $0.15 998 $149.70
+(Section C.5.3.4.2)
+6 X 9 Envelope Colored
+1049 $0.25 1 $0.25 998 $249.50
+(Section C.5.3.4.3)
+9 x 12 Envelope Colored
+1050 $0.35 1 $0.35 998 $349.30
+(Section C.5.3.4.4)
+Option Year One Grand Total for B.4.2.2 $1.29 $22,880.03
+B.4.2.3 PRICE SCHEDULE – FIRM FIXED PRICE
+Contract
+Line Item
+Item Description Minimum Total Price Maximum Total Price
+No.
+(CLIN)
+Per page price for each two-sided notice
+1051 containing a total of 26-50-Page Duplex $0.00 $0.00
+(Section C.5.3.6)
+1052 Start-up/Implementation (Section C.5.2) No Charge No Charge
+Light Green Stripe on Specific Letter
+1053 No Charge No Charge
+Types (C.5.5)
+Option Year One Grand Total for B.4.2.3 $0.00 $0.00
+Option Year One Grand Total for B.4.2.1, B.4.2.2
+$48.21 $584,137.19
+and B.4.2.3
+16
