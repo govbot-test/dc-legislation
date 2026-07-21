@@ -1,0 +1,171 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+September 24, 2025
+Nyasha Howard
+Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, NW
+Washington, DC 20024
+Dear Secretary Howard:
+Today, along with Councilmembers Janeese Lewis George, Brianne K. Nadeau, Charles Allen, Zachary Parker,
+Brooke Pinto, Trayon White, Sr., Robert C. White, Jr., and Anita Bonds, I am introducing the Flexible Rent
+Subsidy Program Amendment Act of 2025. This legislation would make the Flexible Rent Subsidy Pilot
+Program, or “DC Flex,” permanent. DC Flex provides a fixed annual subsidy that covers a portion of participant
+households’ monthly rent. DC Flex is the District’s only “shallow” rent subsidy program, in contrast to “deep”
+subsidy programs, like housing vouchers, that cover up to 100 percent of households’ monthly rent. The
+Department of Human Services (DHS) has operated DC Flex as a pilot since 2017, and the statutory
+authorization for the pilot will expire on September 30, 2026. Although there is more to learn about the long-
+term efficacy of DC Flex, the available evidence suggests the program can end and prevent episodes of
+homelessness. Additionally, residents currently receiving shallow subsidies need to know whether they will
+continue to receive assistance beyond September 2026; this bill provides that reassurance.
+The Fiscal Year 2017 Budget Support Act of 2016 required DHS to “establish a Flexible Rent Subsidy Pilot
+Program to subsidize the cost of monthly rent for families receiving, or eligible to receive,” homeless services.
+Participant households receive a fixed deposit into an escrow account at the start of each program year.
+Households then decide how much of their fixed subsidy to spend on rent each month. Participants can only
+spend their subsidies on rent, and they cannot withdraw more than is necessary to pay their monthly rent.
+The scope and lifespan of the program have expanded over time. The Council initially intended DC Flex to
+operate as a four-year pilot. Encouraged by the program’s initial success, the Council later extended the
+statutory authorization for DC Flex by five years, to the end of Fiscal Year 2026. Additionally, DHS has
+expanded the program to serve individuals, as well as families, and now allows households to receive a
+subsidy for five, rather than four, years. The Council, meanwhile, funded 560 new DC Flex slots in the FY26
+budget.
+An evaluation of DC Flex’s first year conducted by the Urban Institute and The Lab @ DC, as well as more
+recent data, suggest that a shallow rent subsidy could play an important role in the District’s homelessness
+★★★
+MATTFRUMINWARD3.COM | (202) 724-8062
+
+continuum of care. The Urban Institute and Lab @ DC report found that participation in DC Flex “caused a
+statistically significant decrease in participants’ use of homelessness services” of 28.6 percent.1 Eighty-eight
+percent of program participants remained stably housed after a year in the program,2 and one out of three
+participants did not spend down their subsidies, rolling savings over into future program years.3 DHS recently
+reported to the Committee on Human Services that no DC Flex participants presented to shelter in FY24.
+The introduction of this legislation offers the opportunity for close review of the performance of DC Flex to
+date, with input from the Executive and other stakeholders. With participation in DC Flex continuing to grow
+and time running out to reauthorize it, the District is at an inflection point.
+Should you have any questions about this legislation, please contact my Committee Director, Dan Passon, at
+dpasson@dccouncil.gov.
+Sincerely,
+Councilmember Matthew Frumin, Ward 3
+Chair, Committee on Human Services
+1Josh Leopold et al., DC Flexible Rent Subsidy Program: Findings from the Program’s First Year 35 (2020).
+2 Id. at X (Executive Summary).
+3 Id.
+★★★
+MATTFRUMINWARD3.COM | (202) 724-8062
+
+1
+2
+3 _________________________________ _________________________________
+4 Councilmember Janeese Lewis George Councilmember Matthew Frumin
+5
+6
+7 _________________________________ _________________________________
+8 Councilmember Charles Allen Councilmember Brianne K. Nadeau
+9
+10
+11 _________________________________ _________________________________
+12 Councilmember Brooke Pinto Councilmember Zachary Parker
+13
+14
+15 _________________________________ _________________________________
+16 Councilmember Robert C. White, Jr. Councilmember Trayon White, Sr.
+17
+18
+19 _________________________________
+20 Councilmember Anita Bonds
+21
+22
+23 A BILL
+24
+25 _________________________
+26
+27 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+28
+29 _________________________
+30
+31
+32 To amend the Homeless Services Reform Act of 2005 to make the Flexible Rent Subsidy Pilot
+33 Program permanent.
+34
+35 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+36 act may be cited as the “Flexible Rent Subsidy Program Amendment Act of 2025”.
+37 Sec. 2. Section 31c of the Homeless Services Reform Act of 2005, effective October 8,
+38 2016 (D.C. Law 21-160; D.C. Official Code § 4-756.05), is amended to read as follows:
+39 “Sec. 31c. Flexible rent subsidy program.
+1
+
+40 “(a) The Department shall establish a Flexible Rent Subsidy Program (the “Program”) to
+41 subsidize the cost of monthly rent for individuals and families (“participants”) that are homeless
+42 or at risk of experiencing homelessness to support achieving stability in permanent housing.
+43 “(b) The Department shall provide a subsidy to each participant via dedicated account,
+44 which shall be used solely to pay the individual's or family's monthly rent.
+45 “(c) The annual subsidy for a participant shall be less than the maximum annual amount
+46 that may be provided to a household by voucher under section 26c of the District of Columbia
+47 Housing Authority Act of 1999, effective March 2, 2007 (D.C. Law 16-192; D.C. Official Code §
+48 6-228). All individuals awarded a subsidy in the same fiscal year shall receive the same subsidy
+49 amount. All families awarded a subsidy in the same fiscal year shall receive the same subsidy
+50 amount.
+51 “(d) For households approved to join the Program after October 1, 2027, the amount of the
+52 annual subsidy for a family shall not be less than $11,300, and the amount of the annual subsidy
+53 for an individual shall not be less than $9,000.
+54 “(e) For households approved to join the Program before October 1, 2027, the amount of
+55 the annual subsidy for a family shall not be less than $9,600, and the amount of the annual subsidy
+56 for an individual shall not be less than $8,280.
+57 “(f) The amount of a participant’s subsidy shall not be reduced unless the participant is
+58 exited from the Program under section 22b, terminated from the Program under section 22, or
+59 suspended from the Program under section 21.
+60 “(g) To be eligible for initial enrollment in the Program, an individual or family must:
+61 “(1) Be a Resident of the District;
+2
+
+62 “(2) Have a total annual income less than or equal to 40% of the Median Family
+63 Income for the District for the relevant household size;
+64 “(3) Be found by the Department to have sufficient income, or the potential to grow
+65 income, such that enrollment in the Program would end or prevent an episode of homelessness;
+66 and
+67 “(4)(A) Be homeless;
+68 “(B) Be at risk of homelessness; or
+69 “(C) Have applied for at least one government-funded emergency or
+70 temporary housing or rental assistance program administered by or in the District, including the
+71 Emergency Rental Assistance Program, the Homelessness Prevention Program, the Family Re-
+72 Housing and Stabilization Program, or another rapid re-housing program, within the 48 months
+73 immediately preceding the individual or family’s application for the Program.
+74 “(h) The Department shall require Program participants to certify their continued eligibility
+75 for the Program no more frequently than on an annual basis. To remain eligible for continued
+76 participation in the Program, an individual or family must, at the time of recertification:
+77 “(1) Be a Resident of the District; and
+78 “(2) Have a total annual income less than or equal to 60% of the Median Family
+79 Income for the District for the relevant household size.
+80 “(i) The Program shall be a “housing program” exits from which are governed by section
+81 22b.
+82 “(j) An individual or family may be enrolled in a government-funded rental assistance
+83 program administered by the District at the time of applying for the Program.
+84 “(k) No individual, family, or individual member of a family may be enrolled in both the
+3
+
+85 Program and another ongoing District- or federal government-funded rental assistance program at
+86 the same time. The receipt of Emergency Rental Assistance Funds under section 8f does not
+87 constitute enrollment in an ongoing rental assistance program under this subsection.
+88 “(l) Participation in the Program shall not preclude the receipt of shelter or rental assistance
+89 after participation in the Program has ended or the receipt of shelter assistance during participation
+90 in the Program.
+91 “(m) The Mayor, under subchapter I of Chapter 5 of Title 2, shall issues rules to implement
+92 the provisions of this section, including rules establishing the dollar amount of the maximum
+93 annual subsidy and the terms of program administration. The Mayor may establish Program time
+94 limits no shorter than five years through rule.”.
+95 Sec. 3. Fiscal impact statement.
+96 The Council adopts the fiscal impact statement in the committee report as the fiscal impact
+97 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+98 October 16, 2006 (12 Stat. 2038; D.C. Official Code § 1-301.47a).
+99 Sec. 4. Effective date.
+100 This act shall take effect following approval by the Mayor (or in the event of veto by the
+101 Mayor, action by the Council overriding the veto) and a 30-day period of congressional review as
+102 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24,
+103 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+4

@@ -1,0 +1,183 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-159
+4
+5 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+6
+7 _________________________
+8
+9
+10 To amend the Prohibition of Discrimination in the Provision of Insurance Act of 1986 to prohibit
+11 health benefit plans and health insurers from imposing cost sharing, prior authorization,
+12 or medically unnecessary restrictions on at least one regimen of HIV prevention
+13 medication treatment and services, from using prescription information for HIV
+14 prevention treatment and services for medical underwriting for individual patients, and to
+15 prohibit insurance companies from factoring the use of HIV prevention treatment in
+16 decisions related to the issuance of disability, life, or long-term care insurance policies;
+17 and to amend the Department of Health Functions Clarification Act of 2001 to establish a
+18 non-lapsing DC Health and Wellness Center Fund to collect revenue from insurance and
+19 out-of-pocket costs paid for services provided by the DC Health and Wellness Center and
+20 affiliated clinics, and to require the funds be spent solely on the operations of the DC
+21 Health and Wellness Center and affiliated clinics.
+22
+23 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+24 act may be cited as the “PrEP DC Amendment Act of 2025”.
+25 Sec. 2. The Prohibition of Discrimination in the Provision of Insurance Act of 1986,
+26 effective August 7, 1986 (D.C. Law 6-132; D.C. Official Code § 31-1601 et seq.), is amended as
+27 follows:
+28 (a) Section 2 (D.C. Official Code § 31-1601) is amended as follows:
+29 (1) New paragraphs (2A) and (2B) are added to read as follows:
+30 “(2A) “Baseline assessment” means any testing, as recommended by the U.S.
+1
+
+ENGROSSED ORIGINAL
+31 Centers for Disease Control and Prevention, to be completed before prescribing HIV prevention
+32 medication, including screening tests for chlamydia, gonorrhea, syphilis, kidney function
+33 assessments, hepatitis B virus serology, and lipid profiles.
+34 “(2B) “Commissioner” means the Commissioner of the Department of Insurance,
+35 Securities, and Banking.”.
+36 (2) A new paragraph (3B) is added to read as follows:
+37 “(3B) “Health benefit plan” shall have the same meaning as provided in section
+38 101(20) of the Health Insurance Portability and Accountability Federal Law Conformity and No-
+39 Fault Motor Vehicle Insurance Act of 1998, effective April 13, 1999 (D.C. Law 12-209; D.C.
+40 Code § 31-3301.01(20)).”.
+41 (3) New paragraphs (5A) and (5B) are added to read as follows:
+42 “(5A) “HIV prevention services” means medical services to prevent HIV and
+43 AIDS, including baseline assessments, initial and follow-up appointments and services,
+44 medication for the management of side effects associated with PrEP and PEP, and medication
+45 self-management or adherence counseling.
+46 “(5B) “HIV prevention treatment” means medical treatment used to prevent HIV,
+47 including PrEP, PEP, and HIV prevention services.”.
+48 (4) New paragraphs (7A) and (7B) are added to read as follows:
+49 “(7A) “PrEP” means pre-exposure prophylaxis antiretroviral medication approved
+50 by the U.S. Food and Drug Administration (“FDA”) used to prevent HIV in a person without
+2
+
+ENGROSSED ORIGINAL
+51 HIV.
+52 “(7B) “PEP” means post-exposure prophylaxis antiretroviral medication approved
+53 by the FDA used to prevent HIV in a person without HIV who may have been recently exposed
+54 to HIV.”.
+55 (b) Section 4 (D.C. Official Code § 31-1603) is amended as follows:
+56 (1) Subsection (b) is amended to read as follows:
+57 “(b)(1) In determining whether to issue, cancel, or renew insurance coverage, an insurer
+58 may not:
+59 “(A) Use age, marital status, geographic area of residence, occupation, sex, sexual
+60 orientation, gender identity or expression, or any similar factor or combination of factors for the
+61 purpose of seeking to predict whether any individual may in the future develop AIDS or ARC; or
+62 “(B) Take into consideration an individual’s use of HIV prevention treatment
+63 when taken pursuant to a valid prescriber’s order.
+64 “(2) In determining rates, premiums, dues, assessments, benefits covered, or expenses
+65 reimbursable, or in any other aspect of insurance marketing or coverage, an insurer may not:
+66 “(A) Use age, marital status, geographic area of residence, occupation, sex, sexual
+67 orientation, gender identity or expression, or any similar factor or combination of factors for the
+68 purpose of seeking to predict whether any individual may in the future develop AIDS or ARC; or
+69 “(B) Take into consideration an individual’s use of HIV prevention treatment
+70 when taken pursuant to a valid prescriber’s order.”.
+3
+
+ENGROSSED ORIGINAL
+71 (2) Subsection (c) is amended to read as follows:
+72 “(c) No health or disability insurance policy or contract shall contain any exclusion,
+73 reduction, other limitation of coverage, deductibles, or coinsurance provisions related to HIV
+74 prevention treatment or the care and treatment of AIDS, ARC, HIV infection, or any illness or
+75 disease arising from these medical conditions, unless the provisions apply generally to all
+76 benefits under the policy or contract.”.
+77 (c) Section 5 (D.C. Official Code § 31-1604) is amended as follows:
+78 (1) Subsection (a) is amended as follows:
+79 (A) Paragraph (1) is amended by striking the phrase “District of Columbia
+80 Commissioner of Public Health (“Commissioner”)” and inserting the phrase “Director of the
+81 Department of Health (“Director”)” in its place.
+82 (B) Paragraph (2) is amended by striking the word “Commissioner” and
+83 inserting the word “Director” in its place.
+84 (2) Subsection (b) is amended as follows:
+85 (A) Paragraph (1) is amended to read as follows:
+86 “(b)(1) A named insured who tests positive under the testing protocol certified by the
+87 Director may appeal to the Commissioner to review the testing procedures and results, and may
+88 present additional medical evidence, including the results of similar tests for exposure to the
+89 probable causative agent of AIDS that the named insured independently obtains, to rebut the
+90 positive test results. If the Commissioner determines that the result of the test of the proposed
+4
+
+ENGROSSED ORIGINAL
+91 insured is not a true positive, the Commissioner shall order the insurer from which the applicant
+92 sought coverage to disregard the positive test result. The Commissioner shall, when necessary,
+93 request the advice of the Director in making this determination.”.
+94 (B) Paragraph (3) is amended by striking the word “Commissioner” and
+95 inserting the word “Director” in its place.
+96 (d) Section 9 (D.C. Official Code § 31-1608) is amended by adding a new subsection (b-
+97 1) to read as follows:
+98 “(b-1) Any person who violates section 4 shall be fined not less than $1,000, and not
+99 more than $10,000 for each violation.”.
+100 (e) Section 10 (D.C. Official Code § 31-1609) is amended as follows:
+101 (1) The existing text is designated as subsection (a).
+102 (2) A new subsection (b) is added to read as follows:
+103 “(b) The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure
+104 Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), may issue
+105 rules to implement the provisions of section 12.”.
+106 (f) A new section 12 is added to read as follows:
+107 “Sec. 12. Coverage for HIV prevention treatment.
+108 “(a)(1) Except as otherwise provided in subsection (b) of this section, for health
+109 benefit plans issued or renewed on or after January 1, 2027, an insurer may not impose
+110 cost sharing, require prior authorization, or impose any medically unnecessary restrictions
+5
+
+ENGROSSED ORIGINAL
+111 or delays for the coverage of HIV prevention services, PEP, or any formulation of PrEP
+112 approved by the FDA.
+113 “(a) Except as otherwise provided in subsection (b) of this section, for health benefit
+114 plans issued or renewed on or after January 1, 2027, an insurer may not impose cost
+115 sharing, require prior authorization, or impose any medically unnecessary restrictions or
+116 delays for the coverage of HIV prevention services and at least one regimen for PrEP and
+117 PEP.
+118 “(b) Subsection (a) of this section shall not apply to the extent that coverage without cost-
+119 sharing would disqualify an individual receiving coverage under a high deductible health plan
+120 from eligibility for a health savings account pursuant to 26 U.S.C. § 223.
+121 “(c) No health benefit plan or insurer may use prescription information indicating the use
+122 of HIV prevention treatment to medically underwrite premiums for specific enrollees.
+123 “(d) For the purposes of this section, the term “medically unnecessary restrictions” means
+124 prior authorization, step therapy, waiting periods, or preexisting condition exclusions.”.
+125 Sec. 3. The Department of Health Functions Clarification Act of 2001 (D.C. Law 14-28;
+126 District of Columbia Official Code § 7-731 et seq.), is amended by adding a new section 4907g
+127 to read as follows:
+128 “Sec. 4907g. DC Health and Wellness Center Fund.
+129 “(a) There is established as a special fund the DC Health and Wellness Center Fund
+130 (“Fund”), which shall be administered by the Department of Health in accordance with
+6
+
+ENGROSSED ORIGINAL
+131 subsection (c) of this section.
+132 “(b) All payments made for services rendered at the DC Health and Wellness Center and
+133 affiliated clinics shall be deposited in the Fund, including:
+134 “(1) Payments received from third-party insurance reimbursements;
+135 “(2) Out-of-pocket payments collected from individuals; and.
+136 “(3) Other collections.
+137 “(c) Money in the Fund shall be used solely to support the operations of the DC Health
+138 and Wellness Center and affiliated clinics.
+139 “(d)(1) The money deposited into the Fund, including any interest earned, but not
+140 expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of
+141 the District of Columbia at the end of a fiscal year, or at any other time.
+142 “(2) Subject to authorization in an approved budget and financial plan, any funds
+143 appropriated in the Fund shall be continually available without regard to fiscal year limitation.”.
+144 Sec. 4. Fiscal impact statement.
+145 The Council adopts the fiscal impact statement in the committee report as the fiscal
+146 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+147 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+148 Sec. 5. Effective date.
+149 This act shall take effect after approval by the Mayor (or in the event of veto by the
+150 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+7
+
+ENGROSSED ORIGINAL
+151 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+152 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+8

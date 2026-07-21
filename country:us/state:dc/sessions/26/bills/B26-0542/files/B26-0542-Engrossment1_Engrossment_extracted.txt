@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-542
+4
+5
+6 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+7
+8 __________
+9
+10
+11 To provide affordable housing developers seeking utility provider clearance in the building
+12 permitting process with expert consultation, administrative coordination, and inter-
+13 agency data transparency.
+14
+15 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+16 act may be cited as the “Powering Local Utility Guidance in Housing Act of 2026”.
+17 Sec. 2. Definitions.
+18 For the purposes of this act, the term:
+19 (1) “DHCD” means the Department of Housing and Community Development.
+20 (2) “DOB” means the Department of Buildings.
+21 (3) “OCTO” means the Office of the Chief Technology Officer.
+22 (4) “Qualifying affordable housing proposal” means an affordable housing
+23 construction or rehabilitation project proposal for which the developer submits at least one of the
+24 following to DHCD:
+25 (A) Documentation demonstrating that the applicant has secured financing
+26 or funds from the District or federal government that is conditioned on the applicant
+27 providing income-restricted affordable housing units for a period of at least 15 years;
+1
+
+ENGROSSED ORIGINAL
+28 (B) A sworn certification that the applicant intends to apply for financing
+29 or funds from the District or federal government that would be conditioned on the applicant
+30 providing income-restricted affordable housing units for a period of at least 15 years; or
+31 (C) A recorded property covenant that requires income-restricted
+32 affordable housing units in amounts exceeding the requirements of the Inclusionary Zoning
+33 Program as that term is defined in section 101(4) of the Inclusionary Zoning Implementation
+34 Amendment Act of 2006, effective March 14, 2007 (D.C. Law 16-275; D.C. Official Code § 6-
+35 1041.01(4)) ; provided, that the Mayor, pursuant to Title I of the District of Columbia
+36 Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code §
+37 2-501 et seq.), may issue rules specifying a deeper level of affordability that a project must meet
+38 to satisfy this subparagraph.
+39 (5) “Utility provider” means a business or government instrumentality that provides
+40 electric, water, sewer, or fuel line service to residential buildings in the District and from which
+41 DOB requires authorization before issuing building certificates of occupancy.
+42 Sec. 3. Technical consulting for affordable housing utility permitting, administrative
+43 assistance, and data transparency.
+44 (a)(1) DHCD shall offer qualifying affordable housing proposals the services of one or
+45 more utility design consultants, who shall be experienced in designing projects in compliance
+46 with the residential design requirements of the various utility providers.
+47 (2) DHCD shall clearly communicate to each applicant using the services of a
+2
+
+ENGROSSED ORIGINAL
+48 DHCD utility design consultant that such services are a courtesy, are used at the applicant’s sole
+49 risk, and will not supersede the utility provider’s determination in the event of an error or
+50 disagreement on the part of the utility design consultant. Failure to communicate the limitations
+51 of the utility design consultant shall not constitute grounds for liability to any applicant on the
+52 part of the District or any utility design consultant.
+53 (b) DHCD shall offer qualifying affordable housing proposals the services of one or more
+54 utility permitting liaisons, who shall assist developers with the administrative requirements
+55 involved in obtaining utility provider construction approval for qualifying affordable housing
+56 proposals, including by coordinating pre-construction utility provider disconnections,
+57 coordinating utility provider inspections, tracking corrective actions necessary for obtaining final
+58 utility provider approval, and maintaining communication with key utility provider personnel.
+59 (c) Within 60 days after the applicability date of this act DHCD, DOB, and OCTO shall
+60 execute a Memorandum of Understanding and data-sharing agreement among themselves and
+61 with utility providers to implement subsections (a) and (b) of this section. These agreements
+62 shall ensure that consultants have the access and prioritization necessary to fulfill their statutory
+63 mandate and that residential developers can view timely utility provider inspection and review
+64 updates through DOB’s system of record or another centralized permitting database. DHCD shall
+65 consult annually with residential building industry stakeholders to update these agreements as
+66 necessary.
+67 Sec. 4. Applicability.
+3
+
+ENGROSSED ORIGINAL
+68 (a) This act shall apply upon the date of inclusion of its fiscal effect in an approved
+69 budget and financial plan.
+70 (b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in
+71 an approved budget and financial plan, and provide notice to the Budget Director of the Council
+72 of the certification.
+73 (c)(1) The Budget Director shall cause the notice of the certification to be published in
+74 the District of Columbia Register.
+75 (2) The date of publication of the notice of the certification shall not affect the
+76 applicability of this act.
+77 Sec. 5. Fiscal impact statement.
+78 The Council adopts the fiscal impact statement in the committee report as the fiscal
+79 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+80 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+81 Sec. 6. Effective date.
+82 This act shall take effect following approval by the Mayor (or in the event of veto by the
+83 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+84 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+85 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+86 Columbia Register.
+4

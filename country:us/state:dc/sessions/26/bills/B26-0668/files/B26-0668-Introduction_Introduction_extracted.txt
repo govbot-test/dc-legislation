@@ -1,0 +1,666 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIELBOWSER
+MAYOR
+April 20, 2026
+The Honorable Phil Mendelson
+Chairman
+Council ofthe District ofColumbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+DearChairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. 40, 41, 42, and 43 to Contract No. DCRL-2021-C-0034
+with the National Center for Children and Families Approval and Payment Authorization
+Emergency Act of2026,” and the accompanying emergency declaration resolution,
+The legislation willapprove ModificationNos. 40,41, 42,and 43 toContract No. DCRL-2021-C-
+0034 with the National Center for Children and Families, for temporary safe haven placement
+services. Inaddition,thelegislation will approvepayment forthegoodsandservices received and
+to be received underthe modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contractmodifications. In ordertofacilitatae response toanyquestions youmay have, please have
+yourstaffcontact Ebony C. Terrell, AgencyChiefContracting Officer, Child and Family Services
+‘Agency, at (202) 724-7415,
+T urge the Council to take prompt and favorableaction on theenclosed legislation
+Sincerely,
+juriel
+
+# ~
+1
+2 Chairman Phil Mendelson
+3 at the request of the Mayor
+4
+5
+6
+7 A BILL
+8
+9
+10
+11
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+13
+14
+15
+16
+17
+18 To approve, on an emergency basis, Modification Nos. 40, 41, 42, and 43 to Contract No.
+19 DCRL-2021-C-0034 with the National Center for Children and Families, and to authorize
+20 payment for the goods and services received and to be received under the modifications.
+21
+22 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 act may be cited as the "Modification Nos. 40, 41, 42, and 43 to Contract No. DCRL-2021-C-
+24 0034 with the National Center for Children and Families Approval and Payment Authorization
+25 Emergency Act of 2026".
+26 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+27 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+28 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+29 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification
+30 Nos. 40, 41, 42, and 43 to Contract No. DCRL-2021-C-0034 with the National Center for
+31 Children and Families and authorizes payment in the not-to-exceed amount of $11,099,308.11
+32 for the goods and services received and to be received under the modifications.
+33 Sec. 3. Fiscal impact statement.
+
+34 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+35 impact statement required by Section 4a of the General Legislative Procedures Act of 1975,
+36 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+37 Sec. 4. Effective date.
+38 This act shall take effect following approval by the Mayor (or in the event of veto by the
+39 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+40 90 days, as provided for emergency acts of the Council of the District of Columbia in Section
+41 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+42 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Sole Source)
+(A) Contract Number: DCRL-2021-C-0034
+Proposed Contractor: The National Center for Children and Families, Inc.
+(NCCF)
+Proposed Contractor’s Principals: Ralph Belk, Executive Director
+Janelle Martinez, Deputy Executive Director
+Contract Amount:
+NTE $11,099,308.11
+Unit and Method of Compensation: Fixed Price with Administrative Allowance and
+Cost Reimbursement component
+Term of Contract: March 17, 2026 through September 30, 2026
+Type of Contract: Indefinite Delivery Indefinite Quantity (IDIQ)
+Source Selection Method: Sole Source
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: $66,685,858.11 NTE
+Option Period 1 Amount: $20,194,063.11 NTE
+Explanation of difference from base period (if applicable): The base period was issued for a
+base period of three years
+Option Period 2 Amount: $20,210,547.03 NTE
+1
+
+Explanation of difference from base period (if applicable): The base period was issued for a
+base period of three years
+Option Period 2 Amount: $11,099,308.11 NTE
+Explanation of difference from base period (if applicable): Exercising a Sole Source
+modification for six months. The base period was issued for a base period of three years
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The District of Columbia (“District”), Child and Family Services Agency (“CFSA”) is
+entering into a Sole Source Contract with The National Center for Children and Families, Inc.,
+(NCCF) to provide foster care placement and case management services for children and
+youth in the District’s foster care system who will be placed, by the Contractor with foster families
+in the State Maryland while their families reside in the District. The Contractor shall possess a
+Child Placement Agency (CPA) and Adoption license issued by the State of Maryland’s
+Department of Human Resources (“DHR”), Office of Licensing and Monitoring (“OLM”).
+The Contractor’s social workers shall be dually licensed in the District and Maryland.
+(D) The date on which a competitive procurement for these goods or services was last conducted,
+the date of the resulting award, and a detailed explanation of why a competitive procurement
+is not feasible:
+The contract was competitively solicited on March 27, 2017, and subsequently awarded for a three-
+year base period to NCCF on September 28, 2017. NCCF currently serves as the incumbent
+contractor for these services. CFSA is currently soliciting via RFP for the stated services via the
+District’s e-Sourcing, system as Doc799448. The extension will also allow for no disruption in
+services while giving adequate time for the council to review complex multiyear base year projects.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+CFSA did not receive a protest or litigation against the awarded contract.
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+NCCF is the incumbent contractor for the stated services. NCCF may submit a response to the
+pending solicitation Doc799448.
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+2
+
+NCCF was incorporated in Washington DC in 1915 and is the largest private child and family
+welfare agency in the city. NCCF has partnered with CFSA for over 22 years providing case
+management and foster care services. NCCF is an organization with a solid reputation and is
+currently providing these foster care placement and case management services to CFSA. The
+Contractor is uniquely qualified to serve the diverse interests and needs of the communities of the
+District where they perform services.
+An independent audit was conducted by RSM US LLP, on NCCF’s fiscal years 2019 and 2018
+consolidated financial statements and opinioned that their financial statements presented fairly in all
+material respects. Changes in their net assets and their cash flow for the years 2024 and 2025 ended
+in accordance with accounting principles generally accepted in the US.
+Staff members represent the diversity of the city, and they bring together clinical, community
+building, and logistical skills to form a high-powered planning and implementation team. The
+Contractor shall ensure that the staff composition, capacity and qualifications comply with
+standards for licensed Child Placement Agencies in Maryland and that direct practice social
+workers, supervisors and managers Columbia and Maryland.
+This organization has provided satisfactory services during the period of performance under their
+current contract and on previous contracts for the same services for the District.
+(H) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+NCCF did not submit a subcontracting plan. CFSA applied for a waiver of the sub-contracting
+requirement pursuant to DC Code 2-218.46 from the Department of Small and Local Business
+Development (DSLBD) on January 17, 2024, and received an approved waiver memorandum (WR-
+5144) on February 6, 2024, for option periods one and two.
+(I) Performance standards and the expected outcome of the proposed contract:
+The performance standards for the contract are set forth in the contract. The Contractor shall
+provide all the necessary labor, personnel, equipment, materials, facility(s), functional and technical
+expertise and management strategies to perform foster care placement and case management
+services in accordance with the provisions contained in the contract. The Contractor shall provide
+these services in accordance with all existing federal and District of Columbia laws, rules, and
+regulations, including appropriate District licensure requirements, and consistent with policies,
+procedures and standards promulgated by CFSA. The contractor shall meet all expected outcomes
+of the proposed contract to direct and CFSA referral services to foster and adoptive parents,
+children/youth achieving positive permanency, placing children/youth in stable placement foster
+homes, and working collaboratively with CFSA to identify barriers and solutions to service
+provision.
+3
+
+The Contractor shall also comply with all federal and District laws, regulations and standards
+governing child welfare, including those established by the Agency and under the Adoptions and
+Safe Families Act. The Contractor shall also comply with all HIPAA requirements.
+(J) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+N/A
+(K) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The CFSA Agency Fiscal Officer has certified that the agency has, in its approved budget for fiscal
+year 2026, sufficient funds to meet the obligations of the proposed contract. (See Tab 3)
+(L) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The Office of Attorney General (OAG) deemed the current contract (DCRL-2021-C-0034) to be
+legally sufficient on February 10, 2021.
+(M) A certification that Citywide Clean Hands database indicates that the proposed contractor is
+current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands database report dated March 10, 2026, indicates that NCCF is current
+with its District taxes.
+(N) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+The contractor, NCCF has certified that it is current with its federal taxes in accordance with the
+signed Bidders/Offeror Certification dated January 28, 2026.
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+4
+
+The contract has provided a notarized self-certification form dated January 28, 2026, that indicates
+they are in compliance with the Campaign Finance Reform Amendment Act of 2018.
+(P) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+NCCF is not a certified local, small, or disadvantaged business enterprise due to being a not-for-
+profit organization.
+(Q) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+N/A
+(R) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+The NCCF is not debarred nor suspended from Federal or District procurements, based on searches
+on March 12, 2026, to include the System for Award Management (SAM), The Office of
+Contracting and Procurement excluded parties list and the Office of Inspector General’s (OIG)
+website.
+(S) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+The following Determination and Finding, apply to the contract’s formation:
+1. D&F for Price Reasonableness dated January 5, 2021
+2. D&F for Cost Reimbursement dated January 6, 2021
+3. D&F for Contractor Responsibility dated January 13, 2021
+4. D&F for Sole Source Contract posted December 14, 2020, and dated January 6, 2021
+5. D&F for Multi-Year Contract dated January 6, 2021
+(T) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+The original contract award was made available on the Office of Contracting and Procurement’s
+(OCP) website at: www.ocp.dc.gov.
+(U) Where the original solicitation, and any amendments or modifications, will be made available
+online:
+5
+
+The original solicitation and all amendments or modifications was made available on the Office of
+Contracting and Procurement’s (OCP) website at: www.ocp.dc.gov.
+6
+
+* * *
+GovernmentoftheDistrict ofColumbia
+EE OfficeoftheChiefFinancialOfficer 1101 48Street,SW
+[mmm «OfficeofTax andRevenue Washington, DC20024
+DateofNotice: March 10,2026 NoticeNumber: 0016191552
+‘THENATIONALCENTERFOR CHILDREN&FAMILIES
+1438RHODE ISLANDAVENE
+WASHINGTONDC 20018-3709
+LEA! [AND
+As reported in the Clean Hands system, the above referenced individual/entityhas no outstanding
+liability with the District ofColumbia Office ofTax and Revenue orthe DepartmentofEmployment
+Services. Asofthe date above, the individual/entity has compliedwith DC Code § 47-2862, therefore
+this Certificate ofClean Hands is issued.
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERALLICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING ALICENSE OR PERMIT
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+AuthorizedBy MelindaJenkins
+BranchChief, Collection and EnforcementAdministration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DChomepage, click the
+“Validate a Certificate ofCleanHands” hyperlink under the Clean Hands section.
+111014thStreetSW,SuiteW270,Washington,DC20024/Phone:(202)724-S045/MyTax.DC.g0v
+
+GOVERNMENT OF THE DISTRICT OFCOLUMBIA
+Child andFamily Services Agency
+:lI
+OfficeofFinance
+MEMORANDUM
+TO: Tanya T. Trice
+Director
+ChildandFamily ServicesAgency
+Justin Kopea 4
+FROM:
+‘Agency Fiscal Officer (fist APepa|
+ChildandFamilyServicesAgency
+DATE: Jan 20, 2026
+SUBJECT: Certification ofFunds Availability TotalContractValue: $11,099,308.11
+The OfficeoftheChiefFinancial Officerhereby certifies thatthe sumof$11,099,308.11 is includedinthe
+District’s Local Budget and Financial Plan for Fiscal Year 2026 to fund the costs associated with the
+CFSA’s contract with The National Center for Children and Families, Inc. (NCCE) - Temporary Safe
+Haven Services. This certification supports the NCCF, Inc’s contract during the period from March 17,
+2026through September 30, 2026. The fund allocation is as follows:
+Vendor: The NationalCenterforChildren andFamilies, Inc Contract#:DCRL-2021-C-0034
+Fiseal Year 2026 Funding: 3/17/2026 —9/30/2026
+Agency| Project | Award | Sub-Task| Account | Fund | Program) Cost Amount
+Center
+RLO |XXXXXX| XXXXX XX.XX 7141002| 101000—1| 700254—| 70407—| $11,099,308.11
+Maintenance) LocalFunds| Out-Of- | Placement
+ofPersons HomeChild Office
+Placement| (RLO)
+FY 2026 $11,099,308.11
+Contract
+Total:
+Upon approval of the District's Local Budget and Financial Plan by the Council and the Mayor and
+completion ofthe thirty-day Congressional layover, funds will be sufficient to pay for fees and costs
+associated with the contract. There is no fiscal impact associated with the contract.
+Shouldyou haveany questions, pleasecontact me at 202-727-7383.
+Headquarters:200 Street,SE * Washington, D.C.20003 * 202-442-6100
+wwwefsade.gov © http:/de .mandat "=wwwadoptdckids.org
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: March 24, 2026
+SUBJECT: Approval of Contract Action for National Center for Children and Families
+Contract Number: DCRL-2021-C-0034
+Contractor: National Center for Children and Families
+Proposed Contract Amount: $11,099,308.11 (NTE)
+This is to Certify that this Office has reviewed the above-referenced Contract and that we have
+found it to be legally sufficient. If you have any questions in this regard, please do not hesitate to
+call me at (202) 724-4018.
+______________________________
+Robert Schildkraut
+400 6th Street NW, Suite 9100, Washington, DC 20001 (202) 727-3400
+
+T, Solieiation/ConrNaot PaofgPagees
+AMENDMENTOF SOLICITATION /MODIFICATIONOFCONTRACT
+D CRL-2021-C-0034 1 3
+er TRequsion PurchaseRequestNo, | 5, SolisiationCapon
+“Temporary Safe-Haven”
+Timel M y 040. See 16C Case RED T RaisedbyUToeTanTne 5)
+Governmentofthe DistrictofColumbia
+Childand Family ServicesAgency - See SectionG.13.2 oftheExecutedContract -
+Contracts andProcurement Administration
+200 I Street, S.E., Suite2031
+Washington, DC 20003,
+NameandAdrofeConsrassor(No Sea cy,coufantetanyd2,pco) A ArendmentofSotcatNoon
+The National CenterforChildren and Families, Inc. Hr DatedesemTH)
+6301 Greentree Road
+TOA. ModanofCoractOrdNoe
+Bethesda, MD 208171 x| DCRL-2021-C-0034
+TUB DatedSeem 1)
+TI THISITEM ONLYAPPLIESTOAMENDMENTSOF
+0
+S
+3
+O
+/
+L
+1
+I
+5
+CI
+/
+T
+2
+A
+0
+T
+2
+I
+1
+ONS,
+[Picabovenumberedsolicitationisamendedasseforthinitem 14, ThehouranddatespecifiedforreceiptofOffers []isextended [] isnotextended, ersmustacknowledge
+‘ezziptofthisamendmentpittthehouanddatespecifiinthesolitonoraamended, byoneofthefollowingmethods:
+{@)BycompletingItems8end1Sandreusing ‘copiesofteamendmentor(B)Byacknowledgingrecipofthisamendmenoneachcopy oftheoffersubmited. FAILURE.
+(OFYOURACKNOWLEDGMENTTOBEREC EIVEDATTHEPLACEDESIGNATEDFOR THERECEIPTOFOFFERSPRIOR TO THEHOURANDDATESPECIFIEDMAY
+RESULTINREJECTIONOFYOUROFFER. Ifbyvirtueofthisamendmentyoudesire ochangeanofferalreadysubmited,uchmaybemadeinaccordancewiththesolicitationand
+isreceivedprior theopeninghouranddatespecifi.
+2,AccountingandAppropriationData(IfRequired)
+T3- THISITEMAPPLIESONLYTOMODIFICATIONSOFORDERS:
+ITMODIFIESTHECONTRACTIORDERNO. ASDESCRIBEDINITEM 14
+A TischangeordersesdparsiantoSpecifyAuthority): 27DCMR,Chapter36, ContractModification
+x ‘ToechansetgfoerthsinHem 4aremadeinthecontracordenorinitem10A.
+B. TheabovenumberedcontractVorderiemodifiedtoreflecttheadministrativechanges(auchaschangesinpayingoffice,appropriationdata
+te.) et forthinitem 14, pursuantto theauthority of27 DCMR, Chapter36, Section3601.2
+C Thissupplementalagreementisenteredintopurstouauathonritty of,
+D. Other(Specifytypeofmodificationandauthority),
+TE.IMPORTANT: ‘TheContactor isnot Ly Ddrequiredtosignthisdocument
+Ta DescriptionofArsendient Medication(OrganizedbyUCFSectionReadings,includingsolchaton/conractsubjectmatierwherefeasible)
+Pursuantto27 DCMR Section 3601.2(c)and Section 15,Changes Clauseofthe Standard Contract Provisionsdated
+July 2010, theGovernmentofthe DistrictofColumbiahereby modifiesContractNo.; DCRL-2021-C-0034 for
+Temporary SafeHaven as follows:
+1. Incorporate Section J.10R-9, updated budget forthe period March 17, 2026—April 3, 2026, Dated 3/6/26.
+(continued on page two)
+Exceptasprovidedherein,allothertermsandconditionsofthedocumenits referencedinItem9Aor10Aremainunchangedandinfullforceandeffet.
+TSA NameandToifSiegne (TypOerPAD TGA. NameofAgsOneContactingOTice
+Rajpffp. Belk Ebony C. Terrell
+TSC.DateSigned | 1P08, Dige Terrell TECDateSigned
+Or “
+3/1072026 |baxsien aman? —__| Mar 11, 2026
+
+‘AMENDMENT OFSOLICITATION/ MODIFICATION OF T Solicaon/ConaNeto Paofgreess
+CONTRACT
+DCRL-2021-C-0034 2 3
+TArmendmentodfcationNumber |3EfbctveDate FRoqutationPurchaseRequestNo. 5 SolicitationCapon
+M040, See 16C Temporary SafeHaven
+2, Insert Section B.4.2R-6 18-Day Option price schedule forthe periodof March 17,2026,through
+‘April 3, 2026.
+Section B.4.2R-6Pricing Schedule-3/17/2026through4/3/2026(18 days)
+| |
+Contract Unit Price| pe, ;
+Line-Item No. Item Description (er cate] # ofDays| Tot Estimated
+(CLIN) Client/Day)
+CLIN20018
+Section
+BS.1.1 RoomandBoard/Safe-Haven $ 38.00 110 18 s 75,240.00,
+CLIN.20015
+Section
+BS5.1.1 Room &Board/Safe-Haven/Kinship $ 38.00 55 18 $ 37,620.00
+CLIN2001¢
+Section Room& Board/Safe-
+B.5S.1.1 Haven/DOC/Kinship $ 49.50 5 18 $ 4,455.00
+CLIN20014
+Section
+B.1.1___| Room andBoard/Safe-HaverDoc_| $__49.50| _4s 18__|$ 40,095.00
+CLIN.200Te
+Section
+B5.13 | Room andBoard/Teen Parent+1Child| $ _57.00| _3 1s__|s 3,078.00
+CLIN2001¢
+Section
+B.5.1.3___| Room and Board/Specialized s_125.00| 2 1s__|s 4500.00
+TotalCLIN 2001a through CLIN 2001e 220 S 164,988.00
+CLIN.2002 $
+Section B.5.2_| Monthly Fixed Fee 31.45031 | _17 NA _|$ 534,655.27
+CLIN.20028 $
+Section B.5.2_| Monthly FixedFee 31,450.26 | 1 wa__|s 31,450.26
+CLIN.2003
+Section B.5.3_| CostReimbursement Lot S$ 268,906.46
+Total CLIN2002 through CLIN2003 $s 835,011.99
+‘TOTALCONTRACTPRICE (18days) $999,999.99
+3. Delete Sections G.2 (INVOICESUBMITTALFOR FOSTERCAREMAINTENANCE) and G.4
+(INVOICE SUBMITTAL FORFIXED FEE AND COST REIMBURESEMENT)in its entirety and
+replace itwith revised Section G.2R (INVOICESUBMITTAL) (Seeattached).
+G2R INVOICE SUBMITTAL
+G2R1 CFSA shall use information generated from STAAND-ComprehensiveChild Welfare System
+applicationfor paymentofplacementservices. TheCCWIS is an applicationwithinthe
+STAANDdatabase system whereby placement Contractors certify the requisite placement
+information necessary to generatepayment invoices toCFSA Fiscal Operations.
+
+‘AMENDMENTOFSOLICITATION/MODIFICATIONOF TSolierationContractNo, PageofPages
+CONTRACT
+DCRL-2021-C-0034 3 3
+T AmendmentModificationNamber | 3, EffeciveDaw RequisitionPurchaseRequestNo. ] 5. SolieitationCaption
+Mo40
+See 16C ‘Temporary Safe Haven
+Example: The District will utilize thefollowingformulaeachmonth to determine how much it
+willpay the Contractorforthe PerDiem Services:f=(cXdXe) where “f”representsthe
+totalpaymentforPerDiem Services; “c”represents thenumberof childrenactuallyplaced
+withthe Contractoroverthecourseofthe month;“d”represents the PerDiem rate setforth in
+the CONTRACT; and “‘e”representsthe numberofdaysinthe month. Assumingthe actual
+numberof childrenservedis35 andthe Contractor's PerDiem rate is$100andthe monthis
+30days long, undertheaboveformula, theDistrict willpaythe Contractor$105,000forPer
+Diem Services (calculatedbymultiplying35 childrenX$100PerDiemX30days).
+G2R2 TheContractorwill solely utilizethe STAAND system to submit the necessary information to
+generateall invoices forpayment.”
+G2R3 ‘TheContractorshall not certifythe information within STAAND earlierthan the firstday of
+the following month subsequentto the service month.
+G2R4 Once an invoice is certified by theContractor forthe generationofan invoice, itcannot be
+modified.
+G2R5
+TheContractormustdesignate astaffmember to serve as an approving authority forthe
+STAAND. The Contractorshall provide thedesignated staffinformation to theCA to initiate
+training. Designated staffmustcomplete the requisite STAAND training priorto the issuance
+of secure access tothe system.
+G2R6 IftheContractor is unabletoaccess STAND, it isthe Contractor's responsibility to contact
+theCFSA Computer Information SystemsAdministration (CISA)helpdeskorthedesignated
+CFSAContractAdministratorof the contract fortechnical assistance.
+G2R7 Ifthere is asubstantive, nottechnical,problem with the Contractor’s STAAND invoice, it is
+theContractor’s responsibility tocontactthe designated CFSA Contract Administratorofthe
+contract to resolvethe issue.
+Ifthe Contractor fails to submit its invoices through STAAND, the Contractoracceptsthat said
+G2RS
+invoices may not be processed within the normal statutory timeframes.
+
+T Sofie7tCaonttaictoNno aonfPaenes
+[2 AmendmenyModificationNumber 3. EffectiveDate 4 Requisiion/PuRreqcuhesatsNeo 5SolicitationCaption
+‘Temporary SafeHaven
+M041 March 17, 2026 Services
+Code 7 Administeredby(iftherthanin 6)
+r 9a ofSolicitationNo
+9BDated(SeeItem 11)
+108, Dated(Seetem13)
+03/17/2021
+ONLYAPPLIES
+shovenumberedsolicitationisamended ss forthinitem14,Thehoanuddrtspecified forreceofiOnpfitxs [isextended [1]isntextended
+(tersmustacknowledgerecepofthisamendment riorothehouranddatespecified inthesolicitationorasamended,byoneofthefollowingmethods
+(@)Bycompletinglems8and 13,andreturning copiesoftheamendmentor(0)Byacknowledgingreceoifptthisamendmentoneachcopyoftheoffersubmited
+FAILUREOFYOURACKNOWLEDGMENTTOBE ‘ATTHEPLACE TED THE OFOFFERS-TOTHE ANDDATE
+SPECIFIEDMAYRESULTINREJECTIONOF¥ nee
+vithhe tothe
+[12 AccountingandAppropriationData(IfReq
+Bm
+1
+A. Thischangeorder iissuedpursua
+‘Thechastnfogrtienlesm 14a
+B Theabovenumberedcontracvorde
+ce setforthintemM4,pursuant
+‘Thissupplementalagreementient
+[14 Descriptioofn| oy
+Pisa TitleofSigner(Typeorprin)
+D. Belk
+Te, presTinLe ed
+Mar 11, 20)
+a! ae L y boxsicn HERRZSANSENTEBION7 L
+
+T,SoTitationContrasNo, PaofgPagees
+AMENDMENT OFSOLICITATION /MODIFICATION OFCONTRACT
+DCRL-2021-C-0034 1 2
+T AmendmentModification Number] 3 Eieave Date RequisitionPurchaseRequestNo, 5,SaictationCapon
+“Temporary Safe-Haven”
+M042 See 16C
+T Tesby: Coie LR T-Aabmnisteredby(ohohanine6)
+Governmentofthe District ofColumbia
+Childand Family ServicesAgency = See SectionG.13.2ofthe Executed Contract
+Contracts and Procurement Administration
+200 I Street, $.E., Suite 2031
+Washington, DC 20003
+B. NameandAddressofContractor(No, Stetct,count,Sale andpode) A AnendinentofSoketationNo,
+The National Center for Children and Families, Inc. B. Datd(eeem 1)
+6301 Greentree Road
+TOA, ModificationofContacvOrdetNo,
+Bethesda, MD 208171 x DCRL-2021-C-0034
+TOR,Dated(Seeem 13)
+03/15/2021
+TITHIS ITEMONLYAPPLIESTOAMENDMENTSOFSOLICITATIONS
+[iteabovenumberedsolicitationisamendasesdetforthin item 14. ThehoanuddartespecifiedforreceiptofOffers [-]isextended] isnotextended. Offersmustacknowledge
+"ReptthramendmentpooouranhdAepci inthesolicitation oaamendby oeofthe flowingmethods
+{@)8ycompletingteefend andreturing- "copoifehsesmendmeno(9)By rowingrectof ne smendionmaecrh coopfhoyffbrite. FAURE
+StYOURACKNOWLEDGMTEONBET RECEIVED AT'THkPLACEDESIGNATEDFORTHERECEIPT OF OFFERSPRIORTO-THEHOURANDDATESPECITEDMAY
+RESULTINREJECTIOOFNYOUROFFER.Ifyvitofhisamendmentyoudei chanangoferandysubmited, uhnaybemadeinaccrdnceih heshstatonad
+isrctivedproheopeningasae pdei.
+12, AccountingandAppropriationData(UFRequired)
+Ta, THISITEMAPPLIESONLYTOMODIFICATIONS OFORDERS,
+ITMODIFIESTHECONTRACTIORDNEOR_ASDESCRIBEDINITEM 14
+"A Thischangeordersissuedparsantto(SpecifyAuthority): 27DCMR, Chapter36,ContractModification
+x ‘ThechangessetfortnItem 14aremadeinthecontracVorderno, inite 10A,
+B. TheabovenuriberedcontacUordeTsmodifiedtoreflectheadministrativeChanges(ouchaschanges paying oflice,appropriationdata
+cc)setforthinitem 4, pursuantotheauthorityof27DCMR,Chapter3, Section3601.2
+CTssupplemental agreementisenteredntopursuanttoauthorityof
+D. Other(Specifytypeofmodificationand authority)
+E.IMPORTANT: TheContractorisnot J, is [XJrequitedtosignthisdocument.
+Ta DeseriptonofAmendmentodicaton(OrganidbyUCFSectionheadings, cludingslitationSoratsubjectaterwhereFeasible)
+Pursuant to 27 DCMR Section 3601.2(c) and Section 15, Changes Clauseofthe StandardContract Provisions dated
+July 2010, the Governmentofthe DistrictofColumbia hereby modifiesContractNo.; DCRL-2021-C-0034 for
+‘Temporary Safe Haven as follows:
+1. Incorporate Section J.10R-9, updated budget forthe period April 4, 2026 - September 30, 2026, Dated
+3/11/26.
+(continued on page two)
+Exceptasprovidedherein, allothertermsand conditionsofthedocumentisreferencedinTtem9Aor 10A remainunchangedandinfullforceandeffect.
+S Nepaectape corer TSA. NaofAmgeencyChiefContrastingOncer
+pheD.ZeIK Beetle Director Ebony C. Terrell
+158, Nae ofConractor TSC. DateSigned | 165, DiofCsolumsbia ToC Date Senet
+ws iatwap) BN| Oe
+
+AMENDMENTOFSOLICITATION/MODIFICATION OF TSolieation/ContactNo PageofPages
+CONTRACT
+DCRL-2021-C-0034 2 2
+T Rrsntnen ods Nab 3 EveDa T ReqstonPaaeRequestNo. | 3 SolanCaton
+M042 See 16C Temporary SafeHaven
+2, Insert Section B.4.2R-6 180-Day Option price schedule for the period ofApril 4, 2026, through
+September30, 2026.
+Section B.4.2R-6 PricingSchedule- 4/4/2026 through 9/30/2026(180days)
+ContractLine Unit Price . .
+Item No. Item Description (Per nau #orDays| TotalEstimated
+(CLIN) Client/Day)
+CLIN2007a
+Section
+BSL Room and Board/Safe Haven. $ 38.00. 0 180. $ 752,400.00.
+CLIN.20016
+Section
+BSL Room& Board/Safe Haven/Kinship $38.00 55 180. $ 376,200.00
+CLIN200Te
+Section | Room & Board/Safe
+B5.1.1 |Haven/DOC/Kinship s_49.50| 5 1s0_| $44,550.00
+CLIN20014
+Section
+B5.1.1__ | Room and Board/Safe Haverboc | $ _49.50| 45 is0__| $400,950.00
+CLIN.2001e
+Section
+B5.1.3__ | Room andBoard/Teen Parent+1Child| $57.00| 3 180__| $ 30,780.00
+CLIN.2001e
+Section
+B.5.1.3_ | Room andBoard/Specialized s_125.00| 2 1so_| $ 45,000.00
+‘Total CLIN 2001a through CLIN 2001¢ 220 S__1,649,880.00
+CLIN2002 5
+SectionB.5.2_| Monthly Fixed Fee 31,799.75 179 N/A $ _5,692,155.25
+CLIN.2002a $
+Section B.5.2_| Monthly Fixed Fee 31,800.18, 1 wa |S 31,800.18
+CLIN.2003
+Section B.5.3_| CostReimbursement Lot $_2,725.472.69
+‘Total CLIN 2002 through CLIN 2003 S_ 8,449,428.12
+TOTALCONTRACTPRICE $_10,099,308.12
+
+AMENDMENT OFSOLICITATION /MODIFICATION OF T Sofiet7aCotnitroacnt No, PageofPages
+CONTRACT
+DCRL-2021-C-0034 iti
+T AmendmentModifeationNumber] 3, ElectiveDate RequitionPurchase Request No, 5 Soistaton Caption
+Temporary Safe Haven
+M043 April 4, 2026 Services
+TTsuedby Code [RED 7 Raminiteedby(otaen Tn6e)
+GovernmentoftheDistrictofColumbia
+ChildandFamily ServicesAgency
+Contracts and Procurement Administration ~ SeeSection G.13.2ofthe SignedContract-
+200IStreet, S.E., Suite2031
+Washington, DC20003
+'.Name andAddressofContractor(No.street,city,county,state,and {R_ArednenofSohcationNo,
+zipcode,FEIN)
+DB. DatedGeeems 11)
+‘The National Center forChildren and Families, Inc. TUK odinofConmastOrera
+6301 Greentree Road
+x DCRL-2021-C-0034
+Bethesda, MD 20817
+TOBDatedSee hem 13)
+03/17/2021
+Ti THISITEMONLYAPPLIESToAMENDMENTSOFSOLICITATIONS,
+tteabovenumberedsolicitationisamenddaetfotinter14. Thehouanrdatespecified forrecipof fers []isextended. []isnotextended
+(fiesmusackonlcge receiptoftisamendprior th ouranddat specifiednesalisotaaasmeondn,byonofcthe folowingmebods
+(0)Bycompletingems and 5, andretuing copiofetsesmennentor() Byacknowledgingespofthsamendmenotnexch py fhfeersubmited
+FAILUREOFYOURACKNOWLEDGMET ONBTE RECEIVEDAT THE PLACEDESIGNATEDFORTHERECLIPTOF OFFERSPRIORTOTHETIOURANDDATE
+SPECIFIEDMAYRESULTIN REJECTIONOFYOUROFFER. ity viruofthisamendentoudeseochangea ofraay submited,suchmabemyadeincotlanee
+seslinai receivedprhepeaninghutanddatepect.
+72. AccoaundnApptroiprinatigon Data(IfRequired)
+TH THISITEMAPPLIESONLYTOMODIFICATIONS OFCONTRACTIORDERS,
+ITMODIFIESTHECONTRACTIORDERNO_ASDESCRIBED INITEM 14
+TA Thischangeordersisoedpurstou(SapencitfyAuthority). 27DCMR,Chapter 36,ContractModifications
+‘Thechangesset forthinHem 14aremadein theconraclorderno. initem 10A,
+TheabovenumberedcntracVordeirsmoditofreileetdheadministrativechangessuascchanhgesinpayingoffice,appropriationdata
+ee.) setforthinitem14, purwsothueaauthnoritty of77DCMR,Chapte3r6,Section3601.2.
+‘E-This supplementalagreeismeentnertedito pursuanttoauthoriotfy
+XK] D OtherSpecityypeofmodiicationandauthorig)27DCMIR,Section2008 ExeraiseofOption
+E.IMPORTANT: Contractorisnot [], is [J, requiredtosignthisdocument.
+Ta DescriptionofAmendMomdiecantiton (Organiod byUCFSectionheadings, ielodingslickation contractsubjectmatterwhereease)
+Inaccordance with Section F.2, Optionto ExtendtheTermoftheContract,the Districtherebyexercisesonehundredeighty
+(180)day Optionforthe period April 4, 2026, throughSeptember30,2026, inthe not-to-exceed amountof $10,099,308.12.
+1 Contract Recap:
+= 03/17/2021 through03/16/2024 in the not-to-exceedamount: $66,685,585.11 Three-yearbase period
+- 03/17/2024through03/16/2025 inthe not-to-exceedamount: $20,194,063.11 Option Year 1
+= 03/17/2025 through03/16/2026 inthenot-to-exceed amount: $20,210,547.03 Option Year2
+= 03/17/2026through04/03/2026 inthenot-to-exceedamount: $999,999.99 18-Day OptionPeriod
+= 04/04/2026through09/30/2026 in thenot-to-exceed amount: $10,099,308.12 180-DayOption Period
+Total Amount __$118,189,503.36
+2~ ContinuationofthiscontractbeyondSeptemb3e0r,2026,issubjecttoavai offunding.
+Exceptasprovidedhercin, allothertermsandconditionsofthedocumentisreferencedinItem9Aor10Aremainwachangedandafullforceandeffect,
+ph Meee Teeter tive Diraded ne
+ofContractor TSC.DateSigned—| 16B-DiofsCtolrumebita TEDateSigned
+211-26| sane tm oe

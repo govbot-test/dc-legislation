@@ -1,0 +1,1098 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+June 3, 2026
+Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the "Modification Nos. M0008 and M0009 to Contract No. CWI 13639 with
+Safeware, Inc. Approval and Payment Authorization Emergency Act of 2026," and the
+accompanying emergency declaration resolution for option period two is increased by $700,000
+from $900,000 to $1,600,000 for the period of performance of February 27, 2026, through
+February 26, 2027.
+The legislation will approve Modification Nos. M0008 and M0009 to Contract No. CWI 13639
+with Safeware, Inc. to provide firefighting tools, hazardous materials response equipment, and
+safety equipment, and to increase the not-to-exceed amount for option year two of the contract. In
+addition, the legislation will approve payment for the goods and services received and to be
+received under the modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modification. In order to facilitate a response to any questions you may have, please have
+your staff contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement,
+at (202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation
+
+~ f r ~
+1
+2
+3 ~n Phil Mendelson
+4 at the request of the Mayor
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16
+17
+18 To approve, on an emergency basis, Modification Nos. M0008 and M0009 to Contract No.
+19 CWl 13639 with Safeware, Inc., and to authorize payment for the goods and services
+20 received and to be received under the modifications.
+21
+22 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 act may be cited as the "Modification Nos. M0008 and M0009 to Contract No. CWl 13639 with
+24 Safeware, Inc. Approval and Payment Authorization Emergency Act of 2026".
+25 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+26 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+27 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+28 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification
+29 Nos. M0008 and M0009 to Contract No. CWl 13639 with Safeware, Inc. and authorizes payment
+30 in the not-to-exceed amount of $1.6 million for the goods and services received and to be
+31 received under the modifications.
+32 Sec. 3. Fiscal impact statement.
+1
+
+33 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+34 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+35 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+36 Sec. 4. Effective date.
+37 This act shall take effect following approval by the Mayor (or in the event of veto by the
+38 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+39 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+40 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+41 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive)
+(A) Contract Number: CW113639
+Proposed Contractor: Safeware, Inc.
+Proposed Contractor’s Principals: Liz Dulin, CSR
+Contract Amount: Not-To-Exceed (NTE) $900,000
+− Proposed Increase: $700,000
+− Revised Contract Amount: NTE $1,600,000
+Unit and Method of Compensation: Fixed unit prices
+Term of Contract: February 27, 2026, through February 26, 2027
+Type of Contract: Requirements
+Source Selection Method: Cooperative Agreement
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: NTE $900,000
+Option Period 1 Amount: NTE $900,000
+Explanation of difference from base period (if applicable): There is no difference from the base
+period.
+Option Period 2 Amount: NTE $900,000
+Proposed Increase: $700,000
+Revised Contract Amount: NTE $1,600,000
+1
+
+Explanation of difference from base period (if applicable):
+Increased quantities needed under this contract due to expiration of a separate, federally funded
+contract and change in federal funding policy for the operational requirements of localities.
+Option Period 3 Amount: NTE $900,000
+Proposed Increase: $700,000
+Revised Contract Amount: NTE $1,600,000
+Explanation of difference from base period (if applicable):
+Increased quantities needed under this contract due to expiration of a separate, federally funded
+contract and change in federal funding policy for the operational requirements of localities.
+Option Period 4 Amount: NTE $900,000
+Proposed Increase: $700,000
+Revised Contract Amount: NTE $1,600,000
+Explanation of difference from base period (if applicable):
+Increased quantities needed under this contract due to expiration of a separate, federally funded
+contract and change in federal funding policy for the operational requirements of localities.
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+Safeware, Inc. provides the Fire and Emergency Medical Services Department (FEMS) with a
+comprehensive range of firefighting tools, hazardous materials response equipment, and safety
+equipment necessary to support operational readiness across all forty-three FEMS facilities and
+engine stations. All equipment and related services furnished under this contract are provided in full
+compliance with National Fire Protection Association 1851 standards, FEMS policies, and
+applicable occupational health and safety regulations. These goods and services ensure that FEMS
+personnel have continuous access to mission critical equipment required for effective emergency
+response. Any interruption in the provision of this equipment or associated services would
+significantly impair the District’s operational capabilities and pose substantial risks to the health,
+welfare, and safety of District residents and visitors.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+CW113639 is a task order contract issued against a cooperative agreement between Safeware, Inc.
+and Fairfax County, VA , contract number 4400008468. The cooperative agreement was
+competitively bid and awarded.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+2
+
+None.
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+None.
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Safeware’s Dun & Bradstreet (D&B) Risk Analytics Report indicates adequate financial resources
+to perform the contract or the ability to obtain such resources. The report further indicates that the
+organization has been active for 44 years in industrial machinery and safety equipment sector. The
+contractor has consistently met contractual obligations through compliance with the contractual
+terms and adherence to technical guidance provided on previous contracts with the District.
+(H) The period of performance associated with the proposed change, including date as of which
+the proposed change is to be made effective:
+February 27, 2026, through February 26, 2027.
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+NTE $900,000, Modification M0008
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+NTE 1,600,000
+(K) The date on which the contracting officer was notified of the proposed change:
+December 15, 2025
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+The contracting officer exercised option year two at the contractual amount. Due to increased
+needs, the contract’s NTE ceiling amount needed to be increased within a timeframe that did not
+allow for prior Council approval. The proposed modification for this increase will be executed after
+Council’s approval.
+(M) The reason for the proposed change:
+3
+
+The proposed increase for option period two and the subsequent option periods is necessary to
+ensure continued procurement and maintenance of essential firefighting tools and safety equipment
+across all FEMS facilities. The expiration of the Urban Area Security Initiative (UASI) grant as
+well as a change in the federal funding policy for the operational requirements of localities, makes
+the increase of option periods two through four necessary to maintain uninterrupted provision and
+support for firefighting tools and safety equipment, essential to FEMS’ operational capacity.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+27 DCMR 3601.2
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+Safeware Inc. has certified, via the Bidder/Offeror Certification form, that it is (1) not in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2)
+currently is not and will not be in violation of section 334a of the Board of Ethics and Government
+Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2011, D.C.
+Official Code § 1-1163.34a.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+Not applicable.
+(Q) Performance standards and the expected outcome of the proposed contract:
+Safeware Inc. will continue to provide a comprehensive range of firefighting tools, hazardous
+materials response equipment, and safety equipment necessary to support operational readiness
+across all forty-three FEMS facilities and engine stations.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+NTE $900,000 – February 12, 2026
+4
+
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Office of the Chief Financial Officer has certified that funding is consistent with the applicable
+financial plan and budget.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The contract was reviewed by the Office of the Attorney General and found to be legally sufficient.
+There are no pending legal claims against the District.
+(U) A certification that the Citywide Clean Hands database indicates that the proposed contractor
+is current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands database indicates Safeware, Inc. is current with its District taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+Safeware Inc. has certified that it is current with its federal taxes.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+Safeware Inc. is not a certified local, small, or disadvantaged business enterprise.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None.
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+The contractor is not currently debarred.
+5
+
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination for the Use of a Cooperative Purchase Agreement
+Determination and Findings for Contractor Responsibility
+Determination and Findings for Price Reasonableness
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+ocp.dc.gov
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+ocp.dc.gov
+6
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: May 20, 2026 Notice Number: L0016574721
+SAFEWARE INC FEIN: **-***2883
+4403 FORBES BLVD Case ID: 18967967
+LCANHAM SEABROOK MD 20706-4328
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ASSOCIATE CHIEF FINANCIAL OFFICER
+PUBLIC SAFETY & JUSTICE CLUSTER
+MEMORANDUM
+TO: Nancy Hapeman, Chief Procurement Officer
+Office of Contracting and Procurement
+FROM: David Garner, Associate Chief Financial Officer
+Public Safety and Justice Cluster
+DATE: May 14, 2026
+SUBJECT: Certification of Funding Availability for Safeware Inc, CW113639
+The Office of the Chief Financial Officer (OCFO) certifies available funding in the Fire and
+Emergency Medical Services Department’s operating budget in the amount of $1,600,000, to
+exercise Option Year Two of Contract CW113639, spanning February 27, 2026, through
+February 26, 2027. The contract is for firefighting tools and safety equipment and related
+services..
+Future orders above the funds available are contingent upon the identification of additional
+funding.
+If you have any questions concerning this certification, please contact Jason Bumiller, Agency
+Fiscal Officer, at (202) 552-9179.
+1100 4th Street, S.W. • SUITE 730E • WASHINGTON, D.C. 20024
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: April 20, 2026
+SUBJECT: Approval of Option Year Two Modification to Cooperative Agreement for
+Firefighting Tools and Safety Equipment and Related Services
+Contract Number: CW113639
+Contractor: Safeware, Inc.
+Contract Amount: NTE $1,600,000
+This is to Certify that this Office has reviewed the above-referenced Contract and have found it to
+be legally sufficient.
+If you have any questions in this regard, please do not hesitate to call me at (202) 724-4018.
+______________________________
+Robert Schildkraut
+
+1.Contract Number Page of Pages
+CW113639 1 2
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT
+2.Amendment/Modification 3.Effective Date 4.Requisition/Purchase 5. Solicitation Caption
+Number Request No.
+M0008 February 27, 2026 N/A Firefighting tools and safety equipment
+and related services
+6.Issued by: Code 7.Administered by (If other than line 6)
+Warren C. Washington, Contract Specialist Chief Derek J Hopkins, Contract Administrator
+Office of Contracting and Procurement Fire and Emergency Medical Services
+441 4th Street, NW, Suite 330 South 3170 V Street N. E.,
+Washington, DC 20001 Washington D.C, 20018
+Email: Warren.washington@dc.gov Email: derek.hopkins@dc.gov
+8.Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation
+Liz Dulin, CSR
+Safeware, Inc. 9B. Dated (See Item 11)
+4403 Forbes Boulevard
+X 10A. Modification of Contract Order No.
+Lanham, MD 20706
+CW113639
+Email: ldulin@safewareinc.com
+10B. Dated (See Item 13)
+2-27-2024
+Code Facilit
+y
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a)By completing Items 8 and 15, and returning __________ copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the
+offer submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR
+ACKNOWLEDGMENT TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED
+MAY RESULT IN REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by
+letter or fax, provided each letter or telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date
+specified.
+12.Accounting and Appropriation Data (If Required)
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B.The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation
+data etc.) set forth in item 14, pursuant to the authority of
+C.This supplemental agreement is entered into pursuant to authority of:
+X D.Other (Specify type of modification and authority)
+27 DCMR, Chapter 20, Section 2008 Option Exercise and Chapter 36, Section 3601.3 Change Order.
+E.IMPORTANT: Contractor is not is required to sign this document and return __ copies to the issuing office.
+14.Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter
+where feasible.)
+1. In accordance with Section 7, Option to Extend the Term of the Contract, the District hereby exercises option
+year two of the contract for the period of February 27, 2026, through February 26, 2027.
+2. The total not-to-exceed amount for option year two is $900,000.
+3. Section 8, Contracting Officer, is updated with the following info to reflect the personnel change:
+Lorena Marko
+Contracting Officer
+District of Columbia
+Office of Contracting and Procurement (OCP)
+Public Safety and Justice Cluster
+Email: lorena.marko@dc.gov
+
+4. The contractor is bound by, the Department of Labor Wage Determinations, Wage Determination 2015, 4281,
+Revision No. 35, December 3, 2025.
+Except as provided herein, all terms and conditions of the document referenced in item (9A or 10A) remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Lorena Marko, Contracting Officer
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date
+Signed
+(Signature) (Signature of Contracting Officer) 02/12/2026
+
+1. Contract Number Page of Pages
+CW113639 1 2
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT
+2. Amendment/Modification 3. Effective Date 4. Requisition/Purchase 5. Solicitation Caption
+Number Request No.
+M00009 See box16C N/A Firefighting tools and safety equipment
+and related services
+6. Issued by: Code 7. Administered by (If other than line 6)
+Lorena Marko Chief Derek J Hopkins, Contract Administrator
+Office of Contracting and Procurement Fire and Emergency Medical Services
+441 4th Street, NW, Suite 330 South 3170 V Street N. E.,
+Washington, D.C 20001 Washington D.C, 20018
+Email: lorena.marko@dc.gov Email: derek.hopkins@dc.gov
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation
+Liz Dulin, CSR
+Safeware, Inc. 9B. Dated (See Item 11)
+4403 Forbes Boulevard
+X 10A. Modification of Contract Order No.
+Lanham, MD 20706
+CW113639
+Email: ldulin@safewareinc.com
+10B. Dated (See Item 13)
+Code Facilit 2-27-2024
+y
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15, and returning __________ copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the
+offer submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR
+ACKNOWLEDGMENT TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED
+MAY RESULT IN REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by
+letter or fax, provided each letter or telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date
+specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation
+data etc.) set forth in item 14, pursuant to the authority of
+C. This supplemental agreement is entered into pursuant to authority of:
+X D. Other (Specify type of modification and authority)
+27 DCMR, Chapter 36, Section 3601.2
+E. IMPORTANT: Contractor is not is required to sign this document and return _1_ copies to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter
+where feasible.)
+1. The not-to-exceed amount for option period two is increased by $700,000 from $900,000 to $1,600,000 for the
+period of performance of February 27, 2026, through February 26, 2027.
+2. Under section 3 PRICE SCHEDULE, subsections 3.3, 3.4 and 3.5 are deleted in their entirety and the
+following tables are added in lieu thereof:
+3.3 OPTION PERIOD TWO
+CLIN Item Description Price
+41% discounted rate off commercial prices at FEMS’
+Firefighting online portal
+2001
+Tools/Equipment https://www.safewarecontracts.com/contracts/omnia-
+partners
+10% discounted rate off commercial prices at FEMS’
+Firefighting
+online portal
+2002 Tools/Equipment related
+https://www.safewarecontracts.com/contracts/omnia-
+services
+partners
+Option Period Two Not-To-Exceed $1,600,000
+
+3.4 OPTION PERIOD THREE
+CLIN Item Description Price
+41% discounted rate off commercial prices at FEMS’
+Firefighting online portal
+3001
+Tools/Equipment https://www.safewarecontracts.com/contracts/omnia-
+partners
+10% discounted rate off commercial prices at FEMS’
+Firefighting
+online portal
+3002 Tools/Equipment related
+https://www.safewarecontracts.com/contracts/omnia-
+services
+partners
+Option Period Three Not-To-Exceed $1,600,000
+3.5 OPTION PERIOD FOUR
+CLIN Item Description Price
+41% discounted rate off commercial prices at FEMS’
+Firefighting online portal
+4001
+Tools/Equipment https://www.safewarecontracts.com/contracts/omnia-
+partners
+10% discounted rate off commercial prices at FEMS’
+Firefighting
+online portal
+4002 Tools/Equipment related
+https://www.safewarecontracts.com/contracts/omnia-
+services
+partners
+Option Period Four Not-To-Exceed $1,600,000
+Except as provided herein, all terms and conditions of the document referenced in item (9A or 10A) remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Diana M. Hyatt, Assistant Secretary Lorena Marko, Contracting Officer
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date
+Signed
+(Signature) 3 /11/2026 (Signature of Contracting Officer)
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA 1.REQUISITION NUMBER PAGE
+TASK ORDER/DELIVERY ORDER FOR SERVICES RK262712 1 of 15
+OFFEROR TO COMPLETE BLOCKS 18 & 29
+2. TASK ORDER AGREEMENT NO. 3. Award/Effective Date 4. DCSS CONTRACT NUMBER 5. SOLICITATION NUMBER 6. SOLICITATION ISSUE DATE
+N/A
+County of Fairfax Virginia See 30C below CW113639 N/A
+Contract #4400008468
+7. FOR SOLICITATION INFORMATION A.NAME B. TELEPHONE (No Collect Calls) 8.OFFER DUE DATE:
+CONTACT:
+Email:
+9. ISSUED BY 10. THIS ACQUISITION IS 11. DELIVERY FOR FOB 12. PAYMENT DISCOUNT TERMS
+DESTINATION UNLESS
+UNRESTRICTED BLOCK IS MARKED Net 30 days
+Fred Eubanks, Contract Specialist
+SET ASIDE %FOR
+N/A
+Office of Contracting & Procurement SMALL BUSINESS 13. RESERVED
+SMALL DISADV. BUS.
+441 4th Street, NW, Suite 330S D.C. Supply Schedule
+14. METHOD OF SOLICITATION
+Washington, DC 20001
+SIC:
+fred.eubanks@dc.gov SIZE STANDARD: COOP RFQ IFB RFP
+2-STEP
+5. CONTRACTOR / OFFEROR 16. PAYMENT WILL BE MADE BY
+Liz Dulin, CSR
+Vendor Portal, https://vendorportal.dc.gov
+Safeware, Inc.
+Attn: Accounts Payable Division (PSJC)
+4403 Forbes Boulevard
+899 North Capitol Street, N.E., Suite 600A
+Lanham, MD 20706
+Washington, DC 20002
+Email: ldulin@safwareinc.com
+Telephone: 202-727-4449
+Tel: 804.236.0579
+15A DUNS NO. 15B TAX ID NO.
+17. DELIVER TO 18. ADMINISTERED BY
+Department of Fire and Emergency Medical Services
+Department of Fire and Emergency Medical Services
+Logistics Division
+2000 14th Street NW, 5th Floor
+3180 V Street NE
+Washington, D.C. 20009
+Washington, D.C. 20018
+18A. CHECK IF REMITTANCE IS DIFFERENT AND PUT SUCH ADDRESS IN OFFER 18B. SUBMIT INVOICES TO ADDRESS SHOWN IN BLOCK 16 UNLESS BLOCK
+BELOW IS CHECKED
+SEE ADDENDUM
+19 20 21 22 23 24
+IEM SCHEDULE OF SUPPLIES/SERVICES MAXIMUM UNIT UNIT PRICE AMOUNT
+NO. QUANTITY
+0001 Firefighting tools and safety equipment and related services $807,590 NTE
+25. ACCOUNTING AND APPROPRIATION DATA 26. TOTAL AWARD (FOR GOVT. USE ONLY)
+PURCHASE ORDER NO. $807,590 NTE
+27.CONTRACTOR IS REQUIRED TO SIGN THIS DOCUMENT AND RETURN ONE COPY TO THE 28.THE FOLLOWING DOCUMENTS ARE INCORPORATED BY REFERENCE INTO THIS
+ISSUING OFFICE. CONTRACTOR AGREES TO FURNISH AND DELIVER ALL ITEMS SET FORTH TASK ORDER IN THE FOLLOWING PRIORITY: (1) CONTRACTOR’S PRICE PROPOSAL.
+OR OTHERWISE IDENTIFIED ABOVE AND ON ANY ADDITIONAL PAGES SUBJECT TO THE THIS TASK ORDER IS SUBJECT TO THE TERMS AND CONDITIONS OF THE DC SUPPLY
+TERMS AND CONDITIONS SPECIFIED HEREIN. THIS ORDER IS ISSUED SUBJECT TO THE TERMS SCHEDULE CONTRACT IDENTIFIED IN BLOCK 4.
+AND CONDITIONS OF THE DC SUPPLY SCHEDULE CONTRACTIDENTIFIED IN BLOCK 4. And
+the District’s Standard Contract Provisions, dated July 2010
+29A. SIGNATURE OF OFFEROR /CONTRACTOR 30A. DISTRICT OF COLUMBIA (SIGNATURE OF CONTRACTING OFFICER)
+29B. NAME AND TITLE OF SIGNER (TYPE OR PRINT) 29C. DATE S IGNED 30B. NAME OF CONTRACTING OFFICER (TYPE OR PRINT) 30C DATE SIGNED
+Mary Anne Petrenko, Corporate Administrator02/27/2024 Raphaela O’Brien, Contracting Officer 02.27.24
+
+Task Order Agreement No: CW113639
+1. SERVICES REQUIRED
+The District of Columbia Office of Contracting and Procurement, on behalf of the Fire and
+Emergency Medical Services Department (FEMS), has a need for firefighting tools and
+safety equipment. This purchase will facilitate the prompt restock of emergency tools and
+appliances in a central location and/or FEMS’ fire stations located in the District of
+Columbia.
+2. CONTRACT TYPE
+The contract type shall be a fixed unit price contract.
+3. PRICE SCHEDULE
+3.1 BASE YEAR
+CLIN Item Description Price
+0001 Firefighting Tools/Equipment 41% discounted rate off commercial
+prices at FEMS’ online portal
+https://www.safewarecontracts.com/c
+ontracts/omnia-partners
+0002 Firefighting Tools/Equipment 10% discounted rate off commercial
+related services prices at FEMS’ online portal
+https://www.safewarecontracts.com/c
+ontracts/omnia-partners
+Base Year Not-To-Exceed Amount $807,590
+3.2 OPTION YEAR 1
+CLIN Item Description Price
+1001 Firefighting Tools/Equipment 41% discounted rate off commercial
+prices at FEMS’ online portal
+https://www.safewarecontracts.com/c
+ontracts/omnia-partners
+1002 Firefighting Tools/Equipment 10% discounted rate off commercial
+related services prices at FEMS’ online portal
+https://www.safewarecontracts.com/c
+ontracts/omnia-partners
+Option Year One Not-To-Exceed Amount $900,000
+2
+
+Task Order Agreement No: CW113639
+3.3 OPTION YEAR 2
+CLIN Item Description Price
+2001 Firefighting Tools/Equipment 41% discounted rate off commercial
+prices at FEMS’ online portal
+https://www.safewarecontracts.com/c
+ontracts/omnia-partners
+2002 Firefighting Tools/Equipment 10% discounted rate off commercial
+related services prices at FEMS’ online portal
+https://www.safewarecontracts.com/c
+ontracts/omnia-partners
+Option Year Two Not-To-Exceed Amount $900,000
+3.4 OPTION YEAR 3
+CLIN Item Description Price
+3001 Firefighting Tools/Equipment 41% discounted rate off commercial
+prices at FEMS’ online portal
+https://www.safewarecontracts.com/con
+tracts/omnia-partners
+3002 Firefighting Tools/Equipment 10% discounted rate off commercial
+related services prices at FEMS’ online portal
+https://www.safewarecontracts.com/con
+tracts/omnia-partners
+Option Year Three Not-To-Exceed $900,000
+Amount
+3.5 OPTION YEAR 4
+CLIN Item Description Price
+4001 Firefighting Tools/Equipment 41% discounted rate off commercial
+prices at FEMS’ online portal
+https://www.safewarecontracts.com/con
+tracts/omnia-partners
+4002 Firefighting Tools/Equipment 10% discounted rate off commercial
+related services prices at FEMS’ online portal
+https://www.safewarecontracts.com/con
+tracts/omnia-partners
+Option Year Four Not-To-Exceed $900,000
+Amount
+3
+
+Task Order Agreement No: CW113639
+4. BACKGROUND
+FEMS provides fire suppression, emergency medical services, homeland security, and
+special operations response for residents, businesses, and visitors to the District of
+Columbia. FEMS has a need for firefighting tools and safety equipment. This purchase
+will facilitate the prompt restock of emergency tools and appliances in a central location
+and/or FEMS’ fire stations located in the District of Columbia.
+5. REQUIREMENTS
+The contractor will provide firefighting tools, services, and safety equipment as
+identified in the FEMS’ online portal
+https://www.safewarecontracts.com/contracts/omnia-partners.
+6. TERM OF CONTRACT
+The term of the contract for the base shall be one year from the date of the award.
+7. OPTION TO EXTEND THE TERM OF THE CONTRACT
+7.1 The District may extend the term of this contract for a maximum of four, one-
+year option periods, or successive fractions thereof, by written notice to the
+contractor before the expiration of the contract; provided that the District will
+give the contractor a preliminary written notice of its intent to extend at least
+thirty (30) days before the contract expires of this option. The preliminary notice
+does not commit the District to an extension. The exercise of this option is
+subject to the availability of funds at the time of the exercise of this option. The
+Contractor may waive the thirty (30) day preliminary notice requirement by
+providing a written waiver to the Contracting Officer prior to expiration of the
+contract.
+7.2 If the District exercises this option, the extended contract shall be considered to
+include this option provision.
+7.3 The price for the option period(s) shall be as specified in Section 3 of the
+contract.
+7.4 The total duration of this contract, including the exercise of any options under
+this clause, shall not exceed five years.
+8. CONTRACTING OFFICER (CO)
+Contracts may be entered into and signed on behalf of the District Government only by
+Contracting Officers. The name, address, and telephone number of the Contracting
+Officer for this task order is:
+Raphaela O’Brien, Contracting Officer
+441 4th St NW, Suite 330S
+Washington, DC 20001
+Mobile: 202-961-4670
+Email: raphaela.obrien@dc.gov
+4
+
+Task Order Agreement No: CW113639
+9. AUTHORIZED CHANGES BY THE CONTRACTING OFFICER
+9.1 The CO is the only person authorized to approve changes in any of the
+requirements of this contract.
+9.2 The contractor shall not comply with any order, directive of request that
+changes or modifies the requirements of this contract, unless issued in writing
+and signed by the CO.
+9.3 In the event the contractor effects any change at the instruction or request of
+any person other than the CO, the change will be considered to have been made
+without authority and no adjustment will be made in the contract price to cover
+any cost increase incurred as a result thereof.
+10. CONTRACT ADMINISTRATOR (CA)
+10.1 The CA is responsible for the technical administration of the contract and
+advising the Contracting Officer as to the Contractor’s compliance or
+noncompliance with the contract. In addition, the CA is responsible for the
+day-to-day monitoring and supervision of the contract, of ensuring that the
+work conforms to the requirements of this contract and such other
+responsibilities and authorities as may be specified in writing by the
+Contracting Officer. The CA for this task order is:
+DFC Andre L. Edwards
+3170 V Street N. E.,
+Washington D. C., 20018
+Mobile: (202) 673-4406
+Email: andre.edwards@dc.gov
+10.2 It is understood and agreed that the CA shall not have the authority to make
+changes in the specifications/scope of work or terms and conditions of the
+contract.
+10.3 The Contractor shall be held fully responsible for any changes not authorized in
+advance, in writing, by the Contracting Officer, may be denied compensation or
+other relief for any additional work performed that is not so authorized, and
+may also be required, at no additional cost to the District, to take all corrective
+action necessitated by reason of the unauthorized changes.
+11. PARTIAL PAYMENTS
+Unless otherwise specified in this contract, payment will be made on partial deliveries of
+goods and services accepted by the District if:
+a) The amount due on the deliveries warrants it; or
+b) The Contractor requests it and the amount due on the deliveries is in
+accordance with the following:
+5
+
+Task Order Agreement No: CW113639
+• "Payment will be made on completion and acceptance of each item for
+which the price is stated in the Schedule in Section 3".
+c) Presentation of a properly executed invoice.
+12. ORDERING CLAUSE
+12.1 Any supplies and services to be furnished under this contract must be
+ordered by issuance of delivery orders or task orders by the CO. Such orders
+may be issued during the term of this contract.
+12.2 All delivery orders or task orders are subject to the terms and conditions of
+this contract. In the event of a conflict between a delivery order or task
+order and this contract, the contract shall control.
+12.3 If mailed, a delivery order or task order is considered "issued" when the
+District deposits the order in the mail. Orders may be issued by facsimile
+or by electronic commerce methods.
+13. CONTRACTOR’S RESPONSIBILITY
+13.1 At any time during the term of the contract, the District may offer
+employment to the Bidder’s temporary support staff personnel assigned to
+the District. If the personnel accept employment, the bidder shall waive
+all form of remuneration from the District or the personnel, which may
+become due as a result of the acceptance of the District’s offeror of
+employment; such waiver to include payment under the Termination for
+Convenience provision of the Contract. At no additional cost, the
+contractor shall assist the District to provide a smooth transition resulting
+from the personnel acceptance of District employment.
+13.2 The contractor shall pay the temporary support staff person for each hour
+that they work at the assigned office location at OCP.
+14 CONTRACTOR REQUIREMENTS
+14.1 The Contractor shall provide the necessary personnel, funding, logistics,
+etc., to secure and have delivered requested firefighting tools and equipment
+to FEMS.
+14.2 If the Contractor is unable to provide ordered parts/equipment within the
+agreed time period (for instance, due to a back-ordered part), the Contractor
+shall notify the CA and provide an estimated date of delivery.
+14.3 The District reserves the right to inspect all products/equipment
+delivered to FEMS. Any items found to be incorrect or defective shall be
+6
+
+Task Order Agreement No: CW113639
+rejected and the Contractor shall have the correct item shipped to FEMS
+within 24 hours from the receipt of a written notice of rejection via email.
+The notice of rejection shall be issued to the Contractor within two business
+days of rejection. All correction or replacement costs shall be borne by the
+Contractor.
+14.4 If any product delivered to the District is recalled by the Contractor or
+manufacturer, or if any recall is suggested or mandated by a regulatory or
+official agency, the Contractor shall immediately notify the Contracting
+Officer (CO) and CA, in writing, within five business days of the
+Contractor's knowledge of recall or modification, and forward the
+notification, which shall include, but not be limited to, the following:
+i. Complete item description and identification, Purchase Order
+numbers, and this Agreement number.
+ii. Reason for modification, removal, or recall.
+iii. Necessary instructions for return for credit, replacement, or
+corrective actions.
+15 CONTRACTOR DUTIES
+RESERVED
+16 INVOICE PAYMENT
+16.1 The District will make payments in accordance with the terms of the contract upon the
+submission of proper invoices or vouchers less any discounts, allowances or
+adjustments provided for in this contract.
+16.2 The District will pay the Contractor on or before the 30th day after receiving a proper
+invoice from the Contractor.
+17 INVOICE SUBMITTAL
+17.1 The Contractor shall create and submit payment requests in an electronic format through
+the DC Vendor Portal, https://vendorportal.dc.gov.
+17.2 The Contractor shall submit proper invoices on a monthly basis or as otherwise specified.
+17.3 To constitute a proper invoice, the Contractor shall enter all required information into the
+Portal after selecting the applicable purchase order number which is listed on the
+Contractor’s profile.
+18. THE QUICK PAYMENT ACT
+18.1Interest penalties to contractors
+7
+
+Task Order Agreement No: CW113639
+18.1.1.1 The District will pay interest penalties on amounts due to the
+Contractor under the Quick Payment Act, D.C. Official Code § 2-
+221.01 et seq., as amended, for the period beginning on the day after
+the required payment date and ending on the date on which payment
+of the amount is made. Interest shall be calculated at the rate of at
+least 1% per month. No interest penalty shall be paid if payment for
+the completed delivery of the item of property or service is made on
+or before the required payment date. The required payment date
+shall be:
+18.1.1.2 The date on which payment is due under the terms of this contract;
+18.1.1.3 Not later than 7 calendar days, excluding legal holidays,
+after the date of delivery of medical products and services;
+18.1.1.4 Not later than 10 calendar days, excluding legal holidays,
+after the date of delivery of medical products and services;
+18.1.1.5 30 calendar days, excluding legal holidays, after receipt of a
+proper invoice for the amount of the payment due;
+18.1.1.6 Not interest penalty shall be due to the contractor if payment for
+the completed delivery goods and services is made on or before:
+ 3rd day after the required payment date for medical products and services;
+ 5th day after the required payment date for medical products and services;
+ 15th day after the required payment date.
+18.1.1.7 Any amount of an interest penalty which remains unpaid by the
+contractor at the end of the of any 30-day period shall be added to
+the principal amount of the debt to the subcontractor and thereafter
+interest penalties shall accrue on the added amount;
+18.1.2 A dispute between the Contractor and subcontractor relating to the
+amounts or entitlement of a subcontractor to a payment or a late payment
+interest penalty under the Quick Payment Act does not constitute a dispute
+to which the District is a party. The District may not be interpleaded in
+any judicial or administrative proceeding involving such a dispute;
+19. WAY TO WORK AMENDMENT ACT OF 2006
+a) The Contractor shall comply with Title I of the Way to Work Amendment Act
+of 2006, effective June 9, 2006 (D.C. Law16-118, D.C. Official Code §2-
+220.01 et seq.) (“Living Wage Act of 2006”), for contracts for services in the
+amount of $100,000 or more in a 12-month period.
+b) The Contractor shall pay its employees and subcontractors who perform services under
+the contract no less than the current living wage published on the OCP website at
+www.ocp.dc.gov.
+8
+
+Task Order Agreement No: CW113639
+c) The Contractor shall include in any subcontract for $15,000 or more a provision
+requiring the subcontractor to pay its employees who perform services under the
+contract no less than the current living wage rate.
+d) The Department of Employment Services may adjust the living wage annually
+and the OCP will publish the current living wage rate on its website at
+www.ocp.dc.gov.
+e) The Contractor shall maintain its payroll records under the contract in the regular
+course of business for a period of at least three (3) years from the payroll date,
+and shall include this requirement in its subcontracts for $15,000 or more under
+the contract.
+f) The payment of wages required under the Living Wage Act of 2006 shall be
+consistent with and subject to the provisions of D.C. Official Code §32-1301
+et seq.
+g) The requirements of the Living Wage Act of 2006 do not apply to:
+h) Contracts or other agreements that are subject to higher wage level
+determinations required by federal law;
+i) Existing and future collective bargaining agreements, provided, that the future
+collective bargaining agreement results in the employee being paid no less than the
+established living wage;
+j) Contracts for electricity, telephone, water, sewer or other services provided
+by a regulated utility;
+k) Contracts for services needed immediately to prevent or respond to a disaster or
+eminent threat to public health or safety declared by the Mayor;
+l) Contracts or other agreements that provide trainees with additional services
+including, but not limited to, case management and job readiness services; provided
+that the trainees do not replace employees subject to the Living Wage Act of 2006;
+m) An employee under 22 years of age employed during a school vacation period, or
+enrolled as a full-time student, as defined by the respective institution, who is in
+high school or at an accredited institution of higher education and who works less
+than 25 hours per week; provided that he or she does not replace employees subject
+to the Living Wage Act of 2006;
+n) Tenants or retail establishments that occupy property constructed or improved by
+receipt of government assistance from the District of Columbia; provided, that the
+tenant or retail establishment did not receive direct government assistance from the
+District;
+o) Employees of nonprofit organizations that employ not more than 50 individuals
+and qualify for taxation exemption pursuant to section 501(c)(3) of the Internal
+Revenue Code of 1954, approved August 16, 1954 (68A Stat. 163; 26 U.S.C.
+§501(c)(3);
+p) Medicaid provider agreements for direct care services to Medicaid recipients,
+provided, that the direct care service is not provided through a home care agency, a
+community residence facility, or a group home for mentally retarded persons as
+those terms are defined in section 2 of the Health-Care and Community Residence
+Facility, Hospice, and Home Care Licensure Act of 1983, effective February
+24,1984 (D.C. Law 5-48; D.C. Official Code § 44-501); and Safety Net
+9
+
+Task Order Agreement No: CW113639
+Administration or the Medicaid Assistance Administration to provide health
+services.
+20. INSURANCE
+a) The District shall require each contractor to obtain insurance, by purchase, for the
+risks to which the contractor is exposed, except when the contract specifically
+relieves the contractor of liability for loss of or damage to District property.
+b) The contracting officer shall have the right to disapprove of the purchase of any
+insurance coverage not in the best interests of the District.
+c) Insurance shall be mandatory when commingling of property, the type of operation,
+circumstances of ownership, or conditions of the contract make it necessary for the
+protection of the District.
+d) When the District requires a contractor to provide insurance coverage, the policies
+shall contain an endorsement that any cancellation or material change in the
+coverage or terms and conditions of the coverage shall not be effective unless the
+insurer or the contractor gives prior written notice of the cancellation or change to
+the District in the manner required by the contract or the contracting officer.
+e) When the District requires or approves insurance to cover loss of or damage to
+District property, it may be provided by specific insurance policies or by inclusion
+of the risks in the contractor's existing policies. The policies shall disclose the
+District's interests in the property.
+f) The Director may establish risk-pooling arrangements. These arrangements shall
+be designed to use the services of the insurance industry for safety engineering and
+the handling of claims at minimum cost to the District. The agency responsible
+shall appoint a single point of contact for each arrangement.
+g) The contracting officer may specify insurance requirements under fixed-price
+contracts, as follows:
+I. When the contractor is engaged principally in District work;
+II. When the contractor has a separate operation engaged principally in
+District work;
+III. When the District elects to assume risks for which the contractor
+ordinarily would obtain commercial insurance; or
+IV. In other circumstances when insurance coverage is in the best
+interests of the District.
+h) Employee group insurance plans shall not be reimbursable under cost-
+reimbursement type contracts unless the plans have first been approved by the
+contracting officer and are otherwise deemed reimbursable under the terms of the
+10
+
+Task Order Agreement No: CW113639
+contract. Whenever an approved plan is materially changed during the course of
+the contract, the plan shall be resubmitted for approval, and no costs shall be
+reimbursable unless approval of the revised plan has first been obtained.
+i) Group insurance plans under § 2710.8 shall provide for the District to share in any
+premium refunds or credits paid or otherwise allowed to the contractor. In
+determining the extent of the District's share in any premium refunds or credits, any
+special reserves and other refunds to which the contractor may be entitled in the
+future shall be taken into account.
+21. INSURANCE REQUIREMENTS
+a) GENERAL REQUIREMENTS. The Contractor shall procure and maintain, during
+the entire period of performance under this contract, the types of insurance specified
+below. The Contractor shall have its insurance broker or insurance company submit
+a Certificate of Insurance to the CO giving evidence of the required coverage prior
+to commencing performance under this contract. In no event shall any work be
+performed until the required Certificates of Insurance signed by an authorized
+representative of the insurer(s) have been provided to, and accepted by, the CO. All
+insurance shall be written with financially responsible companies authorized to do
+business in the District of Columbia or in the jurisdiction where the work is to be
+performed and have an A.M. Best Company rating of A-/VIII or higher. The Contractor
+shall require all of its subcontractors to carry the same insurance required herein.
+All required liability policies shall include the Government of the District of
+Columbia as an additional insured and shall contain a waiver of subrogation.
+If the Contractor and/or its subcontractors maintain broader coverage and/or higher
+limits than the minimums shown below, the District requires and shall be entitled
+to the broader coverage and/or the higher limits maintained by the Grantee and
+subcontractors.
+i. Commercial General Liability Insurance. The Contractor shall provide
+evidence satisfactory to the CO with respect to the services performed
+that it carries $1,000,000 per occurrence limits; $2,000,000 aggregate;
+Bodily Injury and Property Damage including, but not limited to:
+premises-operations; broad form property damage; Products and
+Completed Operations; Personal and Advertising Injury; contractual
+liability and independent contractors.
+ii. Automobile Liability Insurance. The Contractor shall provide
+automobile liability insurance to cover all owned, hired or non-owned
+motor vehicles used in conjunction with the performance of this
+contract. The policy shall provide a $1,000,000 per occurrence
+combined single limit for bodily injury and property damage.
+iii. Workers’ Compensation Insurance. The Contractor shall provide
+Workers’ Compensation insurance in accordance with the statutory
+mandates of the District of Columbia or the jurisdiction in which the
+contract is performed.
+11
+
+Task Order Agreement No: CW113639
+iv. Employer’s Liability Insurance. The Contractor shall provide employer’s
+liability insurance as follows: $500,000 per accident for injury; $500,000 per
+employee for disease; and $500,000 for policy disease limit.
+v. Auto Physical Damage Coverage - The Contractor shall provide auto physical
+damage insurance to cover "loss" to a covered "auto" or its equipment:
+• Comprehensive - fire, lightning or explosion; theft; windstorm,
+hail or earthquake; flood; mischief or vandalism; or the sinking,
+burning, collision or derailment of any conveyance transporting
+the covered "auto".
+• Collision Coverage Caused by: The covered "auto's" collision
+with another object or the covered "auto's" overturn.
+vi. Crime Insurance (3rd Party Indemnity) - The Contractor shall provide
+a 3rd Party Crime policy to cover the dishonest acts of Contractor’s
+employees which result in a loss to the District. The policy shall
+provide a limit of $50,000 per occurrence.
+b) PRIMARY AND NONCONTRIBUTORY INSURANCE. This insurance is primary to
+and will not seek contribution from any other insurance available to an additional insured
+under your policy provided that:
+• The additional insured is a Named Insured under such other insurance; and,
+• You have agreed in writing in a contract or agreement that this insurance
+would be primary and would not seek contribution from any other insurance
+available to the additional insured.
+c) DURATION. The Contractor shall carry all required insurance until all contract work is
+accepted by the District of Columbia and shall carry listed coverages for five (5) years
+following final acceptance of the work performed under this contract.
+d) LIABILITY. These are the required minimum insurance requirements established by the
+District of Columbia. HOWEVER, THE REQUIRED MINIMUM INSURANCE
+REQUIREMENTS PROVIDED ABOVE WILL NOT IN ANY WAY LIMIT THE
+CONTRACTOR’S LIABILITY UNDER THIS CONTRACT.
+e) CONTRACTOR’S PROPERTY. Contractors and subcontractors are solely responsible for
+any loss or damage to their personal property, including but not limited to tools and
+equipment, scaffolding and temporary structures, rented machinery, or owned and leased
+equipment. A waiver of subrogation shall apply in favor of the District of Columbia.
+f) MEASURE OF PAYMENT. The District shall not make any separate measure or payment
+for the cost of insurance and bonds. The Contractor shall include all of the costs of
+insurance and bonds in the contract price.
+g) The Contractor shall provide the CO with ten (10) days prior written notice in the event of
+non-payment of premium. The Contractor will also provide the CO with an updated Certificate
+of Insurance should his insurance coverage renew during the contract.
+h) CERTIFICATES OF INSURANCE. The Contractor shall submit certificates of
+insurance giving evidence of the required coverage as specified in this section prior to
+commencing work. Certificates of insurance must reference the corresponding
+12
+
+Task Order Agreement No: CW113639
+purchase order number. Evidence of insurance shall be submitted to the Contracting
+Officer.
+i) PRIMARY AND NONCONTRIBUTORY INSURANCE. This insurance is primary to
+and will not seek contribution from any other insurance available to an additional
+insured under your policy provided that:
+• The additional insured is a Named Insured under such other insurance; and,
+• You have agreed in writing in a contract or agreement that this insurance would
+be primary and would not seek contribution from any other insurance available
+to the additional insured.
+j) DURATION. The Contractor shall carry all required insurance until all contract work
+is accepted by the District of Columbia and shall carry listed coverages for five (5)
+years following final acceptance of the work performed under this contract.
+k) LIABILITY. These are the required minimum insurance requirements established by
+the District of Columbia. HOWEVER, THE REQUIRED MINIMUM
+INSURANCE REQUIREMENTS PROVIDED ABOVE WILL NOT IN ANY
+WAY LIMIT THE CONTRACTOR’S LIABILITY UNDER THIS CONTRACT.
+l) CONTRACTOR’S PROPERTY. Contractors and subcontractors are solely responsible
+for any loss or damage to their personal property, including but not limited to tools and
+equipment, scaffolding and temporary structures, rented machinery, or owned and
+leased equipment. A waiver of subrogation shall apply in favor of the District of
+Columbia.
+m) MEASURE OF PAYMENT. The District shall not make any separate measure or
+payment for the cost of insurance and bonds. The Contractor shall include all of the
+costs of insurance and bonds in the contract price.
+n) NOTIFICATION. The Contractor shall ensure that all policies provide that the CO
+shall be given thirty (30) days prior written notice in the event of coverage and / or
+limit changes or if the policy is canceled prior to the expiration date shown on the
+certificate.
+The Contractor shall provide the CO with ten (10) days prior written notice in the event
+of non-payment of premium. The Contractor will also provide the CO with an updated
+Certificate of Insurance should his insurance coverage renew during the contract.
+o) CERTIFICATES OF INSURANCE. The Contractor shall submit certificates of
+insurance giving evidence of the required coverage as specified in this section prior to
+commencing work. Certificates of insurance must reference the corresponding
+purchase order number. Evidence of insurance shall be submitted to the Contracting
+Officer.
+q) DISCLOSURE OF INFORMATION. The Contractor agrees that the District may
+disclose the name and contact information of its insurers to any third party which
+presents a claim against the District for any damages or claims resulting from or
+arising out of work performed by the Contractor, its agents, employees, servants or
+subcontractors in the performance of this contract.
+13
+
+Statement of Work
+1.0 SCOPE
+1.1 The District of Columbia Fire and Emergency Medical Services Department, Logistics Section is
+interested in purchasing tools and appliances from Safeware using OMNIA Contract No.
+4400008468 discount rate of 41%. These purchases will facilitate the prompt restock of
+emergency tools and appliances in a central location and/or FEMS’ fire stations located in the
+District of Columbia.
+2.0 BACKGROUND
+2.1 Chapter 4 of the D.C. Official Code authorizes the establishment of the Department. FEMS
+provides fire suppression, emergency medical services, homeland security and special operations
+response for residents, businesses and visitors to the District of Columbia.
+3.0 REQUIREMENTS
+3.1 The Contractor shall provide the necessary personnel, funding, logistics, etc., to secure and have
+delivered requested firefighting tools and equipment to FEMS.
+3.2 If the Contractor is unable to provide ordered parts/equipment within the agreed time period (for
+instance, due to a back-ordered part), the Contractor shall notify the CA and provide an
+estimated date of delivery.
+3.3 The District reserves the right to inspect all products/equipment delivered to FEMS. Any items
+found to be incorrect or defective shall be rejected and the Contractor shall have the correct item
+shipped to FEMS within 24 hours from the receipt of a written notice of rejection via email. The
+notice of rejection shall be issued to the Contractor within two business days of rejection. All
+correction or replacement costs shall be borne by the Contractor.
+3.4 If any product delivered to the District is recalled by the Contractor or manufacturer, or if any recall
+is suggested or mandated by a regulatory or official agency, the Contractor shall immediately
+notify the Contracting Officer (CO) and CA, in writing, within five business days of the
+Contractor's knowledge of recall or modification, and forward the notification, which shall include,
+but not be limited to, the following:
+3.4.1.1 Complete item description and identification, Purchase Order numbers, and this Agreement
+number.
+3.4.1.2 Reason for modification, removal or recall.
+3.4.1.3 Necessary instructions for return for credit, replacement or corrective actions.
+C.6 DELIVERABLES
+All items must be delivered to: D. C. Fire and EMS Logistics Division
+3170 V Street N. E.,
+
+T ask Ord er Agreem ent No: CW113W63a9s hington D. C., 20018
+*Please note that no substitutes will be accepted for any of the items listed in the requirements. *
+All materials to be delivered to:
+DFC Andre L. Edwards
+3170 V Street N. E.,
+Washington D. C., 20018
+(202) 673-4406
+Email: andre.edwards@dc.gov
+15

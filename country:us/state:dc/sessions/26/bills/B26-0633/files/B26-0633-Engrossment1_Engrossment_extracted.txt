@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-633
+4
+5 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+6
+7 _________________
+8
+9
+10 To amend, on a temporary basis, the Open Meetings Act to clarify the definition of meeting; to
+11 provide for a public body’s ability to be briefed about potential terrorist or public health
+12 threats so long as no official action is taken; to exempt from the act meetings between the
+13 Council and the Mayor provided that no official action is taken at such meetings; to
+14 provide that a meeting shall be deemed open to the public if the public body takes steps
+15 reasonably calculated to allow the public to view or hear the meeting while the meeting is
+16 taking place, or, if doing so is not technologically feasible, as soon thereafter as
+17 reasonably practicable; and to further clarify the applicability date for expanded financial
+18 reporting requirements for certain boards and commissions.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the “Open Meetings Clarification Temporary Amendment Act of 2026”.
+22 Sec. 2. The Open Meetings Act, effective March 31, 2011 (D.C. Law 18-350; D.C.
+23 Official Code § 2-571 et seq.), is amended as follows:
+24 (a) Section 404 (D.C. Official Code § 2-574) is amended as follows:
+25 (1) Paragraph (1) is amended to read as follows:
+26 “(1)(A) “Meeting” means any gathering of a quorum of the members of a public
+27 body, including hearings and roundtables, whether formal or informal, regular, special, or
+28 emergency, at which the members consider, conduct, or advise on public business, including
+29 gathering information, taking testimony, discussing, deliberating, recommending, and voting,
+1
+
+ENGROSSED ORIGINAL
+30 regardless whether held in person, by telephone, electronically, or by other means of
+31 communication.
+32 “(B) The term “meeting” shall not include:
+33 “(i) A chance or social gathering; provided, that it is not held to
+34 avoid the provisions of this paragraph; or
+35 “(ii) A press conference.
+36 “(C) For the purposes of the Council of the District of Columbia, the term
+37 “meeting” means a regular or additional legislative meeting, and committee meetings where
+38 votes are taken.”
+39 (2) Paragraph (3) is amended as follows:
+40 (A) Subparagraph (E) is amended by striking the phrase “: or” and
+41 inserting a semicolon in its place;
+42 (B) Subparagraph (F) is amended by striking the period at the end and
+43 inserting the phrase “; or” in its place.
+44 (C) A new subparagraph (G) is added to read as follows:
+45 “(G) the Criminal Justice Coordinating Council.”.
+46 (b) Section 405 (D.C. Official Code § 2-575) is amended as follows:
+47 (1) Subsection (a) is amended as follows:
+48 (A) Paragraph (2) is amended by striking the phrase “; or” and inserting a
+49 semicolon in its place.
+2
+
+ENGROSSED ORIGINAL
+50 (B) Paragraph (3) is amended by striking the phrase “televised.” and inserting
+51 the phrase "televised; or” in its place.
+52 (C) A new paragraph (4) is added to read as follows:
+53 “(4) The public body takes steps reasonably calculated to allow the public to view
+54 or hear the meeting while the meeting is taking place, or, if doing so is not technologically
+55 feasible, as soon thereafter as reasonably practicable.”.
+56 (2) Subsection (b)(8) is amended to read as follows:
+57 “(8) To discuss and take action regarding specific methods and procedures to
+58 protect the public or a public body from existing or potential terrorist activity or other substantial
+59 dangers to public health and safety, or to receive briefings by staff members, legal counsel, law
+60 enforcement officials, or emergency service officials concerning these methods and procedures;
+61 provided, that disclosure could endanger the public or the public body;”
+62 (3) Subsection (f) is amended to read as follows:
+63 “(f) Notwithstanding any provision of this act, the Council may adopt its own rules to
+64 ensure the District’s open meetings policy, as established in section 402, is met with respect to
+65 gatherings of councilmembers; provided that unless the Council adopts rules pursuant to this
+66 subsection, this title shall apply to the Council.”
+67 (4) A new subsection (h) is added to read as follows:
+68 “(h) This act shall not apply to a meeting between members of the Council and the
+69 Mayor, provided, that no official action is decided at the meeting.”.
+3
+
+ENGROSSED ORIGINAL
+70 (c) Section 406 (D.C. Official Code § 2-576) is amended as follows:
+71 (1) Paragraph (1) is amended by striking the phrase "Except for emergency
+72 meetings, a public body shall provide” and inserting the phrase “A public body shall attempt to
+73 provide” in its place.
+74 (2) Paragraph (3) is amended by striking the phrase "Notwithstanding the notice
+75 requirement of paragraph (2) of this subsection, except”, and inserting the phrase “Except” in its
+76 place.
+77 (3) Paragraph (4) is amended by striking the phrase “urgent matter,” and inserting
+78 the phrase “urgent matter, and notwithstanding paragraphs (1) and (3) of this subsection,” in its
+79 place.
+80 (d) Section 407(a) (D.C. Official Code § 2-577(a)) is amended as follows:
+81 (1) Paragraph (1) is amended to read as follows:
+82 “(1) Reasonable arrangements are made to accommodate the public’s right to
+83 attend the meeting, or steps are taken that are reasonably calculated to allow the public to view or
+84 hear the meeting while the meeting is taking place, or if doing so is not technologically feasible,
+85 as soon thereafter as reasonably practicable;”
+86 (2) Paragraph (3) is amended by striking the phrase "taken by roll call” and
+87 inserting the word “recorded” in its place.
+4
+
+ENGROSSED ORIGINAL
+88 (e) Section 409(a) (D.C. Official Code § 2-579(a)) is amended by striking the phrase
+89 “Council meetings” and inserting the phrase "meetings and gatherings of councilmembers” in its
+90 place.
+91 Sec. 3. Section 2 of the District of Columbia Boards and Commissions Financial
+92 Reporting Temporary Amendment Act of 2025 (D.C. Law 26-98; 73 DCR 4484) is amended by
+93 striking the phrase “April 3, 2026” and inserting the phrase “October 17, 2026” in its place.
+94 Sec. 4. Applicability.
+95 This act shall be applicable as of March 29, 2026.
+96 Sec. 5. Fiscal impact statement.
+97 The Council adopts the fiscal impact statement in the committee report as the fiscal
+98 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+99 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+100 Sec. 6. Effective date.
+101 (a) This act shall take effect following approval of the Mayor (or in the event of veto by
+102 the Mayor, action by the Council to override the veto) and a 30-day period of congressional
+103 review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved
+104 December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+105 (b) This act shall expire after 225 days of its having effect.
+106
+5

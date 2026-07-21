@@ -1,0 +1,468 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+October 8, 2025
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration by the Council of the District of Columbia is the "Cybersecurity and
+Accountability Act of 2025" ("Bill"). The purpose of the Bill is to establish standards for data
+security and standards for investigating and notifying the Commissioner of the Department of
+Insurance, Securities and Banking of cybersecurity events affecting insurance licensees.
+The proposed legislation would establish standards for data security for licensees of the
+Department of Insurance, Securities and Banking; establish standards for investigating and
+notifying the Commissioner of cybersecurity events affecting these licensees; and establish
+standards for security measures to protect all nonpublic information being transmitted over an
+external network and or stored on a laptop computer or other portable computing or storage
+device or media.
+Adopting these nationally accepted data standards for cybersecurity will serve the goals of
+maintaining transparency among insurance licensees in the District and providing robust
+consumer protection.
+I urge the Council to take prompt and favorable action on the Bill.
+
+~~
+1
+2 ~Phil Mendelson
+3 at the request of the Mayor
+4
+5 A BILL
+6
+7
+8 IN THE COUNIL OF THE DISTRICT OF COLUMBIA
+9
+10
+11
+12 To establish standards for data security and standards for investigating and notifying the
+13 Commissioner of the Department oflnsurance, Securities and Banking of cybersecurity
+14 events affecting insurance licensees.
+15
+16 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+17 Act may be cited as the "Cybersecurity and Accountability Act of 2025".
+18 Sec. 2. Definitions.
+19 For the purposes of this Act, the term:
+20 (1) "Authorized individual" means an individual known to and screened by the
+21 licensee and to whom the licensee has determined access to the nonpublic information held
+22 by the licensee and its information systems is necessary and appropriate.
+23 (2) "Commissioner" means the Commissioner of the Department of Insurance,
+24 Securities and Banking.
+25 (3) "Consumer" means an individual, including an applicant, policyholder,
+26 insured, beneficiary, claimant, or certificate holder who is a resident of the District and whose
+27 nonpublic information is in a licensee's possession, custody, or control.
+28 (4 ) "Cybersecurity event" means an event resulting in unauthorized access to or
+29 disruption or misuse of an information system or nonpublic information stored on the
+30 Information System. "Cybersecurity event" does not include:
+
+31 (A) The unauthorized acquisition of encrypted nonpublic information if
+32 the encryption, process, or key is not also acquired, released, or used without authorization; or
+33 (B) An event where the licensee has determined that the nonpublic
+34 information accessed by an unauthorized person has not been used or released and has been
+35 returned or destroyed.
+36 (5) “Department” means the Department of Insurance, Securities and Banking.
+37 (6) “Encrypted” means the transformation of data into a form which results in a
+38 low probability of assigning meaning to the data without the use of a protective process or key.
+39 (7) “Information security program” means the administrative, technical, and
+40 physical safeguards that a licensee uses to access, collect, distribute, process, protect, store, use,
+41 transmit, dispose of, or otherwise handle nonpublic information.
+42 (8) “Information system” means a discrete set of electronic information resources
+43 organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition
+44 of electronic information, as well as any specialized system, such as an industrial or process
+45 controls system, telephone switching and private branch exchange system, or environmental
+46 control system.
+47 (9) “Licensee” means any person licensed, authorized to operate, or registered, or
+48 required to be licensed, authorized, or registered pursuant to Title 31 of the D.C. Official Code,
+49 but shall not include a purchasing or a risk retention group chartered and licensed in a
+50 jurisdiction other than the District or a person acting as an assuming insurer that is domiciled in
+51 another state or jurisdiction.
+52 (10) “Multi-factor authentication” means authentication through verification of at
+53 least 2 of the following types of authentication factors:
+2
+
+54 (A)Knowledge factors, such as a password;
+55 (B)Possession factors, such as a token or text message on a mobile phone;
+56 or
+57 (C)Inherence factors, such as a biometric characteristic.
+58 (11)“Nonpublic information” means information that is not publicly available
+59 information and is:
+60 (A)Business-related information of a licensee, the tampering with,
+61 unauthorized disclosure, access, or use of which would cause a material adverse impact to the
+62 business, operations, or security of the licensee;
+63 (B)Any information concerning a consumer that because of name,
+64 number, personal mark, or other identifier can be used to identify the consumer, in combination
+65 with any one or more of the following data elements:
+66 (i)Social security number;
+67 (ii)Driver’s license number or non-driver identification card
+68 number;
+69 (iii)Account number or credit or debit card number;
+70 (iv)Any security code, access code, or password that would permit
+71 access to a consumer’s financial account; or
+72 (v)Biometric records.
+73 (C)Any information or data, except age or gender, in any form or medium
+74 created by or derived from a health care provider or a consumer and that relates to:
+75 (i)The past, present, or future physical, mental, or behavioral
+76 health or condition of any consumer or a member of the consumer’s family;
+3
+
+77 (ii)The provision of health care to any consumer; or
+78 (iii)Payment for the provision of health care to any consumer.
+79 (12)“Person” means any individual or any non-governmental entity, including but
+80 not limited to any non-governmental partnership, corporation, branch, agency, or
+81 association.
+82 (13)(A) “Publicly available information” means any information that a licensee
+83 has a reasonable basis to believe is lawfully made available to the general public from:
+84 (i)Federal, state, or local government records;
+85 (ii)Widely distributed media; or
+86 (iii)Disclosures to the general public that are required to be made
+87 by federal, state, or local law.
+88 (B)For the purposes of this definition, a licensee has a reasonable basis to
+89 believe that information is lawfully made available to the general public if the licensee has taken
+90 steps to determine:
+91 (i)That the information is of the type that is available to the
+92 general public; and
+93 (ii)Whether a consumer can direct that the information not be
+94 made available to the general public and, if so, that the consumer has not done so.
+95 (14)“Risk assessment” means the risk assessment that each Licensee is required
+96 to conduct under section 3(c) of this act.
+97 (15)“Third-Party service provider” means a person, not otherwise defined as a
+98 licensee, that contracts with a licensee to maintain, process, or store nonpublic information, or
+4
+
+99 otherwise is permitted access to nonpublic information through its provision of services to the
+100 licensee.
+101 Sec. 3. Information security program.
+102 (a) Commensurate with the size and complexity of the licensee, the nature and scope of
+103 the licensee’s activities, including its use of third-party service providers, and the sensitivity of
+104 the nonpublic information used by the licensee or in the licensee’s possession, custody, or
+105 control, each licensee shall develop, implement, and maintain a comprehensive written
+106 information security program based on the licensee’s risk assessment. The information security
+107 program shall contain administrative, technical, and physical safeguards for the protection of
+108 nonpublic information and the licensee’s information system.
+109 (b) A licensee’s information security program shall be designed to:
+110 (1) Protect the security and confidentiality of nonpublic information and the
+111 security of the information system;
+112 (2) Protect against any threats or hazards to the security or integrity of nonpublic
+113 information and the information system;
+114 (3) Protect against unauthorized access to or use of nonpublic information, and
+115 minimize the likelihood of harm to any consumer; and
+116 (4) Define and periodically reevaluate a schedule for retention of nonpublic
+117 information and a mechanism for its destruction when no longer needed.
+118 (c) The Commissioner, by rule, shall establish guidance setting forth the standards and
+119 practices that must be incorporated in a licensee’s information security program, including risk
+120 assessments, the role of the board of directors, oversight of third-party service providers, and the
+121 requirement for written incident response plans.
+5
+
+122 (1) For risk assessment, notwithstanding the Commissioner’s guidance setting
+123 forth standards and practices, the licensee shall:
+124 (A) Designate one or more employees, an affiliate, or an outside vendor
+125 designated to act on behalf of the licensee who is responsible for the information security
+126 Program;
+127 (B) Identify reasonably foreseeable internal or external threats that could
+128 result in unauthorized access, transmission, disclosure, misuse, alteration, or destruction of
+129 nonpublic information, including the security of information systems and nonpublic information
+130 that are accessible to, or held by, third-party service providers;
+131 (C) Assess the likelihood and potential damage of these threats, taking into
+132 consideration the sensitivity of the nonpublic information;
+133 (D) Assess the sufficiency of policies, procedures, information systems,
+134 and other safeguards in place to manage these threats, including consideration of threats in each
+135 relevant area of the licensee’s operations, including:
+136 (i) Employee training and management;
+137 (ii) Information systems, including network and software design,
+138 information classification, governance, processing, storage, transmission, and disposal; and
+139 (iii) Detecting, preventing, and responding to attacks, intrusions, or
+140 other systems failures; and
+141 (E) Implement information safeguards to manage the threats identified in
+142 ongoing assessment, and, no less than annually, assess the effectiveness of the safeguards’ key
+143 controls, systems, and procedures.
+6
+
+144 (2) For risk management, notwithstanding the Commissioner’s guidance setting
+145 forth standards and practices, the licensee shall:
+146 (A) Design its information security program to mitigate the identified
+147 risks, commensurate with the size and complexity of the licensee’s activities, including it use of
+148 third-party service providers, and the sensitivity of the nonpublic information used by the
+149 licensee or in the licensee’s possession, custody, or control.
+150 (B) Determine which of the following security measures are appropriate
+151 and implement such security measures:
+152 (i) Place access controls on information systems, including
+153 controls to authenticate and permit access only by authorized individuals to protect against the
+154 unauthorized acquisition of nonpublic information;
+155 (ii) Identify and manage the data, personnel, devices, systems, and
+156 facilities that enable the organization to achieve business purposes in accordance with their
+157 relative importance to business objectives and the organization’s risk strategy;
+158 (iii) Restrict access at physical locations containing nonpublic
+159 information only to authorized individuals;
+160 (iv) Protect by encryption or other appropriate means all nonpublic
+161 information while being transmitted over an external network and all nonpublic information
+162 stored on a laptop computer or other portable computing or storage device or media;
+163 (v) Adopt secure development practices for in-house developed
+164 applications utilized by the licensee and procedures for evaluating, assessing, or testing the
+165 security of externally developed applications utilized by the licensee;
+7
+
+166 (vi) Modify the information system in accordance with the
+167 licensee’s information security program;
+168 (vii) Utilize effective controls which may include multi-factor
+169 authentication procedures for any individual accessing nonpublic information;
+170 (viii) Regularly test and monitor systems and procedures to detect
+171 actual and attempted attacks on or intrusion into information systems;
+172 (ix) Include audit trails within the information security program
+173 designed to detect and respond to cybersecurity events and designed to reconstruct material
+174 financial transactions sufficient to support normal operations and obligations of the licensee;
+175 (x) Implement measures to protect against destruction, loss, or
+176 damage of nonpublic information due to environmental hazards, such as fire and water damage
+177 or other catastrophes or technological failures; and
+178 (xi) Develop, implement, and maintain procedures for the secure
+179 disposal of nonpublic information in any format.
+180 (C) Include cybersecurity risks in the licensee’s enterprise risk
+181 management process.
+182 (D) Stay informed regarding emerging threats or vulnerabilities and utilize
+183 reasonable security measures when sharing information relative to the character of the sharing
+184 and the type of information shared; and
+185 (E) Provide personnel with cybersecurity awareness training that is
+186 updated as necessary to reflect risks identified by the licensee in the risk assessment.
+187 (d) Annually, each insurer domiciled in the District shall, by February 15, submit a
+188 written statement to the Commissioner certifying that the insurer is in compliance with the
+8
+
+189 requirements of this section. Each insurer shall maintain for examination by the Department all
+190 records, schedules, and data supporting this certificate for a period of 5 years. To the extent an
+191 insurer has identified areas, systems, or processes that require material improvement, updating,
+192 or redesign, the insurer shall document the identification and the remedial efforts planned and
+193 underway to address those areas, systems, or processes. The documentation shall be available for
+194 inspection by the Commissioner.
+195 Sec. 4. Investigation of a cybersecurity event.
+196 (a) If the licensee learns that a cybersecurity event has or may have occurred, the licensee
+197 or an outside vendor or service provider designated to act on behalf of the licensee shall conduct
+198 a prompt investigation.
+199 (b) During the investigation, the licensee or the outside vendor or service provider shall,
+200 at a minimum and to the extent possible:
+201 (1) Determine whether a cybersecurity event has occurred;
+202 (2) Assess the nature and scope of the cybersecurity event;
+203 (3) Identify any nonpublic information that may have been involved in the
+204 cybersecurity event; and
+205 (4) Perform or oversee reasonable measures to restore the security of the
+206 information systems compromised in the cybersecurity event to prevent further unauthorized
+207 acquisition, release, or use of nonpublic information in the licensee’s possession, custody, or
+208 control.
+209 (c) If the licensee learns that a cybersecurity event has or may have occurred in a system
+210 maintained by a third-party service provider, the licensee shall complete the steps listed in
+9
+
+211 subsection (b) of this section or confirm and document that the third-party service provider has
+212 completed those steps.
+213 (d)The licensee shall maintain records concerning all cybersecurity events for a period of
+214 at least 5 years from the date of the cybersecurity event and shall produce those records upon the
+215 Commissioner’s request.
+216 Sec. 5. Notification of a cybersecurity event.
+217 (a)Each licensee shall notify the Commissioner as promptly as possible, but in no event
+218 later than 3 business days after a determination that a cybersecurity event has occurred, when
+219 either of the following criteria has been met:
+220 (1)The District is the licensee’s jurisdiction of domicile in the case of an insurer
+221 or the District is the licensee’s home jurisdiction in the case of a producer as those terms are
+222 defined in the Producer Licensing Act of 2002, effective March 27, 2003 (D.C. Law 14-264;
+223 D.C. Official Code § 31-1131 et seq.); or
+224 (2)The licensee reasonably believes that the nonpublic information involves 250
+225 or more consumers residing in the District and the cybersecurity event is either:
+226 (A)A cybersecurity event that requires notice to any government body,
+227 self-regulatory agency, or any other supervisory body pursuant to any state or federal law; or
+228 (B)A cybersecurity event that has a reasonable likelihood of materially
+229 harming:
+230 (i)Any consumer residing in the District; or
+231 (ii)Any material part of the normal operations of the licensee.
+10
+
+232 (b) The Commissioner, by rule, shall establish guidance addressing the form and contents
+233 of the information that shall be included in any initial, updated, or supplemental notification to
+234 the Commissioner concerning the cybersecurity event.
+235 (c) A Licensee shall comply with the Consumer Personal Information Security Breach
+236 Notification Act of 2006, effective March 8, 2007 (D.C. Law 16-237; D.C. Official Code § 28-
+237 3852), as applicable, and, when a licensee is required to notify the Commissioner under
+238 subsection (a) of this section, the licensee shall provide a copy of the notice sent to consumers
+239 under that statute to the Commissioner.
+240 (d) When a cybersecurity event occurs in a system maintained by a third-party service
+241 provider:
+242 (1) The licensee shall treat the event as it would under subsection (a) of this
+243 section;
+244 (2) The computation of the licensee’s deadlines shall begin on the day after the
+245 third-party service provider notifies the licensee of the cybersecurity event or the licensee
+246 otherwise has actual knowledge of the cybersecurity event, whichever is sooner; and
+247 (3) Nothing in this act shall prevent or abrogate an agreement between a licensee
+248 and another licensee, a third-party service provider, or any other party to fulfill any of the
+249 investigation requirements imposed under section 4 of this act or the notice requirements
+250 imposed under this section.
+251 (e) With respect to reinsurers’ notice regarding cybersecurity events to insurers:
+252 (1)(A) In the case of a cybersecurity event involving nonpublic information that is
+253 used by or is in the possession, custody, or control of a licensee that is acting as an assuming
+254 insurer and that does not have a direct contractual relationship with the affected consumers, the
+11
+
+255 assuming insurer shall notify its affected ceding insurers and the Commissioner of its jurisdiction
+256 of domicile within 3 business days of determining that a cybersecurity event has occurred; and
+257 (B) The ceding insurers that have a direct contractual relationship with
+258 affected Consumers shall fulfill the consumer notification requirements imposed under the
+259 Consumer Personal Information Security Breach Notification Act of 2006, effective March 8,
+260 2007 (D.C. Law 16-237; D.C. Official Code § 28-3852), and any other notification requirements
+261 relating to a cybersecurity event imposed under this section.
+262 (2)(A) In the case of a cybersecurity event involving nonpublic information that is
+263 in the possession, custody, or control of a third-party service provider of a licensee that is an
+264 assuming insurer, the assuming insurer shall notify its affected ceding insurers and the
+265 Commissioner of its jurisdiction of domicile within three 3 business days of receiving notice
+266 from its third-party service provider that a cybersecurity event has occurred;
+267 (B) The ceding insurers that have a direct contractual relationship with
+268 affected consumers shall fulfill the consumer notification requirements imposed under the
+269 Consumer Personal Information Security Breach Notification Act of 2006, effective March 8,
+270 2007 (D.C. Law 16-237; D.C. Official Code § 28-3852), and any other notification requirements
+271 relating to a cybersecurity event imposed under this section.
+272 (f) In the case of a cybersecurity event involving nonpublic information that is in the
+273 possession, custody, or control of a licensee that is an insurer or its third-party service provider
+274 for which a consumer accessed the insurer’s services through an independent insurance producer,
+275 the insurer shall notify the producers of record of all affected consumers as soon as practicable as
+276 directed by the Commissioner. The licensee is excused from the obligation to provide notice to
+12
+
+277 individual consumers where the licensee does not have the current producer of record
+278 information for those consumers.
+279 Sec. 6. Powers of the Commissioner.
+280 (a) The Commissioner shall have the power to examine and investigate the affairs of any
+281 licensee to determine whether the Licensee has been or is engaged in any conduct in violation of
+282 this act. The Commissioner shall conduct examinations pursuant to the authority set forth in the
+283 Law on Examinations Act of 1993, effective October 21, 1993 (D.C. Law 10-49; D.C. Official
+284 Code § 31-1401 et seq.).
+285 (b) Whenever the Commissioner has reason to believe that a licensee has been or is
+286 engaged in conduct in the District that violates this act, the Commissioner may take action that is
+287 necessary or appropriate to enforce the provisions of this act.
+288 Sec. 7. Confidentiality.
+289 (a) Any documents, materials, or other information in the control or possession of the
+290 Department that are furnished by a licensee or an employee or agent acting on behalf of a
+291 licensee pursuant to sections 3 and 5(b), (d) , or that are obtained by the Commissioner in an
+292 investigation or examination pursuant to section 6 shall be confidential and privileged, shall not
+293 be subject to disclosure under the Freedom of Information Act of 1976, effective March 25, 1977
+294 (D.C. Law 1-96; D.C. Official Code § 2-531 et seq.), shall not be subject to subpoena, and shall
+295 not be subject to discovery or admissible in evidence in any private civil action. However, the
+296 Commissioner may use the documents, materials, or other information in the furtherance of any
+297 regulatory or legal action brought as part of the Commissioner’s duties.
+298 (b) Neither the Commissioner nor any person who receives documents, materials, or
+299 other information while acting under the authority of the Commissioner shall be permitted or
+13
+
+300 required to testify in any private civil action concerning any confidential documents, materials,
+301 or information subject to subsection (a) of this section.
+302 (c) To assist in the performance of the Commissioner’s duties under this Act, the
+303 Commissioner may:
+304 (1) Share documents, materials, or other information, including the confidential
+305 and privileged documents, materials, or information subject to subsection (a) of this section with
+306 other state, federal, and international regulatory agencies, with the National Association of
+307 Insurance Commissioners, its affiliates or subsidiaries, and with state, federal, and international
+308 law enforcement authorities; provided that the recipient agrees in writing to maintain the
+309 confidentiality and privileged status of the document, material, or other information;
+310 (2) Receive documents, materials, or information, including otherwise
+311 confidential and privileged documents, materials, or information, from the National Association
+312 of Insurance Commissioners, its affiliates or subsidiaries, and from regulatory and law
+313 enforcement officials of other foreign or domestic jurisdictions, and shall maintain as
+314 confidential or privileged any document, material, or information received with notice or the
+315 understanding that it is confidential or privileged under the laws of the jurisdiction that is the
+316 source of the document, material, or information;
+317 (3) Share documents, materials, or other information subject to subsection (a) of
+318 this section, with a third-party consultant or vendor; provided the consultant agrees in writing to
+319 maintain the confidentiality and the privileged status of the document, material, or other
+320 information; and
+321 (4) Enter into agreements governing sharing and use of information consistent
+322 with this subsection.
+14
+
+323 (d) No waiver of any applicable privilege or claim of confidentiality in the documents,
+324 materials, or information shall occur as a result of disclosure to the Commissioner under this
+325 section or as a result of sharing as authorized in subsection (c) of this section.
+326 (e) Nothing in this act shall prohibit the Commissioner from sharing final orders of
+327 adjudicated actions that are open to public inspection pursuant to the Freedom of Information Act
+328 of 1976, effective March 25, 1977 (D.C. Law 1-96; D.C. Official Code § 2-531 et seq.), to a
+329 database or other clearinghouse service maintained by the National Association of Insurance
+330 Commissioners, its affiliates, or subsidiaries.
+331 Sec. 8. Exemptions.
+332 (a) The following individuals and entities shall be exempt from the requirements of
+333 section 3 of this Act as follows:
+334 (1) A licensee with fewer than 10 employees, including any independent
+335 contractors, shall be exempt from section 3;
+336 (2) A licensee subject to the Health Insurance Portability and Accountability Act,
+337 approved August 21, 1996 (Pub. L. 104-191; 110 Stat. 1936), that has established and maintains
+338 an information security program pursuant to that statute and the rules, regulations, procedures, or
+339 guidelines established thereunder shall be considered to meet the requirements of section 3,
+340 provided that the licensee is compliant with and submits a written statement certifying its
+341 compliance with those requirements;
+342 (3) A licensee having less than $5,000,000 in annual written premiums in each of
+343 the last 3 calendar years from District of Columbia business operations shall be exempt from
+344 section 3;
+15
+
+345 (4) A licensee having less than $10,000,000 in year-end admitted assets,
+346 calculated in accordance with statutory accounting principles, including admitted assets of all
+347 affiliates shall be exempt from section 3;
+348 (5) An employee, agent, representative, or designee of a licensee, who is also a
+349 licensee, is exempt from section 3 and need not develop its own information security program to
+350 the extent that the employee, agent, representative, or designee is covered by the information
+351 security program of the other licensee.
+352 (b) A company claiming an exemption under subsection (a) of this section shall file a
+353 request for an exemption in accordance with the rules prescribed by the Commissioner.
+354 (c) In the event that a licensee ceases to qualify for an exception, the licensee shall have
+355 180 days to comply with this act.
+356 Sec. 9. Penalties.
+357 Any insurer found, without just cause as defined by the Commissioner by rule, to be in
+358 violation of this act, after notice and hearing conducted according to the rules for contested cases
+359 set forth in Chapter 38 of Title 26A of the District of Columbia Municipal Regulations, shall pay
+360 a penalty in an amount not to exceed $1,000 per day. The maximum penalty assessed under this
+361 section shall be $25,000. The Commissioner shall recover this penalty.
+362 Sec. 10. Rulemaking.
+363 The Commissioner shall promulgate rules necessary to implement the provisions of this
+364 act.
+365 Sec. 11. No Private Right of Action.
+366 Nothing in this Act shall be construed to create or imply a private cause of action for
+16
+
+367 violation of its provisions, nor may it be construed to curtail a private cause of action which
+368 would otherwise exist in the absence of this act.
+369 Sec. 12. Fiscal Impact Statement.
+370 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+371 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+372 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+373 Sec. 13. Effective Date.
+374 This Act shall take effect following approval by the Mayor (or in the event of veto by the
+375 Mayor, action by the Council to override the veto), and a 30-day period of Congressional review
+376 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+377 24, 1973 (87 Stat. 813; D.C. Code §1-206.02(c)(1)), and publication in the District of Columbia
+378 Register.
+17
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+BRIAN L. SCHWALB
+ATTORNEY GENERAL
+Legal Counsel Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Megan D. Browder
+Deputy Attorney General
+Legal Counsel Division
+DATE: October 28, 2024
+SUBJECT: Legal Sufficiency Review of Draft Bill the “Cybersecurity and
+Accountability Act of 2024”
+(AE-21-554-C)
+This is to Certify that
+this Office has reviewed the above-referenced
+legislation and has found it to be legally sufficient. If you have any questions
+regarding this certification, please do not hesitate to contact me at (202) 724-5524.
+_______________________________
+Megan D. Browder
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004 Phone: (202) 724-5524 Email: megan.browder@dc.gov

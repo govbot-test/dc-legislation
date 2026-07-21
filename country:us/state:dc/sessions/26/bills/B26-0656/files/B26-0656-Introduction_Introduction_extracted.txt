@@ -1,0 +1,722 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+THE JOHN A. WILSON BUILDING
+1350 PENNSLYVANIA AVENUE, NW, SUITE 406
+WASHINGTON, DC 20004
+202.724.8068
+WENDELL FELDER Chairperson
+Ward 7 Councilmember Subcommittee on Local Business
+Development
+April 9, 2026
+Nyasha Smith, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, N.W.
+Washington, DC 20004
+Dear Secretary Smith,
+Today, I am introducing the “Internet Gaming and Consumer Protection Act of 2026” to
+authorize, regulate, and tax internet gaming (“iGaming”) in the District of Columbia. This bill
+reflects a practical, data-informed approach to strengthening consumer protections, modernizing
+our gaming framework, and capturing revenue that is currently flowing outside of the District’s
+oversight.
+iGaming, online casino-style games such as blackjack, poker, roulette, and slot-style games
+played on mobile devices or computers, is already accessible to District residents through
+unregulated and offshore platforms. In the absence of a legal framework, these platforms operate
+without meaningful consumer safeguards, age verification, or regulatory oversight, creating risks
+for residents and limiting the District’s ability to respond.
+The scope of this activity is significant. National estimates indicate that Americans wager
+hundreds of billions of dollars annually through unlicensed online gaming platforms, with
+billions in associated revenue occurring outside of regulated systems. In Washington, D.C.,
+residents are estimated to have wagered approximately $700 million on unlicensed platforms in
+2024, reflecting continued growth in this market. These figures make clear that iGaming is not a
+new activity—it is already occurring. The policy question is whether the District will regulate it
+effectively or allow it to remain unregulated.
+
+Several states have already taken action. A small but growing number of states such as New
+Jersey, Pennsylvania, and Michigan, have established regulated iGaming markets that
+collectively generate billions of dollars in annual gross gaming revenue and significant tax
+revenue for public purposes. Additional states are actively considering similar legislation.
+For the District, the potential fiscal impact is meaningful. Based on comparable markets and
+conservative projections, legalizing iGaming could generate substantial new tax revenue over
+time, alongside upfront licensing fees. Initial annual tax revenue could reach tens of millions of
+dollars, with growth expected as the market matures. These funds could support critical
+priorities, including behavioral health services, responsible gaming programs, and broader
+community investments.
+Equally important, legalization strengthens consumer protections. Regulated iGaming markets
+require operators to implement robust safeguards, including identity and age verification, anti-
+money laundering compliance, geolocation controls, and responsible gaming tools such as
+deposit limits, time limits, and self-exclusion programs. Evidence from other jurisdictions
+indicates that legalization shifts a significant share of users from unregulated platforms to
+regulated ones, improving transparency and accountability.
+This legislation is designed to reflect those best practices. It establishes regulatory oversight
+under the Office of Lottery and Gaming, sets a minimum age of 21, imposes a tax on adjusted
+gross gaming revenue, and dedicates funding to administration, problem gambling prevention,
+and community reinvestment. It also includes enforcement provisions to address illegal operators
+and ensure compliance.
+Inaction carries real consequences. Without a legal framework, revenue continues to flow to
+unregulated operators, consumers remain exposed to risk, and the District falls behind
+neighboring jurisdictions that are moving forward. By advancing this legislation, we can bring an
+existing market into a regulated environment that prioritizes safety, accountability, and public
+benefit.
+Should you have any questions about this legislation, please contact my Dr. Delia Houseal at
+dhouseal@dccouncil.gov.
+Thank you,
+Wendell Felder
+Ward 7 Councilmember
+
+1
+2 ___________________________
+3 Councilmember Wendell Felder
+4
+5
+6
+7
+8 A BILL
+9
+10 _________________
+11
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+13
+14 ________________
+15
+16
+17 To amend the Law to Legalize Lotteries, Daily Numbers Games, and Bingo and Raffles for
+18 Charitable Purposes in the District of Columbia to add a new Title V authorizing and
+19 regulating internet gaming in the District of Columbia, to establish a comprehensive
+20 licensing, consumer protection, responsible gaming, taxation, reporting, and enforcement
+21 framework administered by the Office of Lottery and Gaming, to require Certified
+22 Business Enterprise participation plans for internet gaming operators; to establish a
+23 Community Reinvestment Fund, to prohibit unlicensed sweepstakes gaming and similar
+24 dual-currency gaming products; and to make conforming and administrative provisions
+25 necessary to implement internet gaming in the District.
+26 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+27 act may be cited as the “Internet Gaming and Consumer Protection Act of 2026”.
+28 Sec. 2. The Law to Legalize Lotteries, Daily Numbers Games, and Bingo and Raffles for
+29 Charitable Purposes in the District of Columbia, effective March 10, 1981 (D.C. Law 3-172;
+30 D.C. Official Code § 3-1301 passim), is amended as follows:
+31 (a) Title I (D.C. Official Code §§ 22-1716 through 22-1718) is amended as
+32 follows:
+33 (1) Section 3 (D.C. Official Code § 22-1716) is amended by adding a new
+34 subsection (d) to read as follows:
+1
+
+35 “(d) This section shall not apply to internet gaming conducted pursuant to Title V of The
+36 Law to Legalize Lotteries, Daily Numbers Games, and Bingo and Raffles for Charitable
+37 Purposes in the District of Columbia, effective March 10, 1981 (D.C. Law 3-172; D.C. Official
+38 Code § 3-1301 passim), or to any activity authorized thereunder and conducted in accordance
+39 with that title and rules issued pursuant to that title.”.
+40 (2) Section 3 (D.C. Official Code § 22-1717) is amended by adding a new
+41 subsection (e) to read as follows:
+42 “(e) The prohibitions set forth in this section shall not apply to internet gaming conducted
+43 pursuant to Title V of The Law to Legalize Lotteries, Daily Numbers Games, and Bingo and
+44 Raffles for Charitable Purposes in the District of Columbia, effective March 10, 1981 (D.C.
+45 Law 3-172; D.C. Official Code § 3-1301 passim).”.
+46 (b) A new Title V is added to read as follows:
+47 “Title V. Internet Gaming.
+48 “Sec. 501 Definitions.
+49 (a) For the purpose of this Title, the term:
+50 “(1) "Adjusted gross internet gaming revenue" means gross internet gaming
+51 revenue less:
+52 (A) all sums actually paid out as winnings to patrons, including the cash
+53 equivalent of any merchandise or thing of value awarded as a prize; and
+54 (B) the amount of cancelled, voided, or refunded wagers.
+55 “(2) "Certified Business Enterprise" or "CBE" shall have the meaning set forth in
+56 section 2302(1D) of the Small, Local, and Disadvantaged Business Enterprise Development and
+2
+
+57 Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-
+58 218.02(1D)).
+59 “(3) "CBE plan" means a plan submitted to the Department of Small and Local
+60 Business Development demonstrating compliance with the CBE participation requirements of
+61 this title.
+62 “(4) "Chief Financial Officer" or "CFO" means the Chief Financial Officer of the
+63 District of Columbia, or the CFO's designee acting through the Office of Lottery and Gaming.
+64 “(5) "Community Reinvestment Fund" means the fund established by section 517.
+65 “(6) "Dual-currency gaming product" means a game, promotional scheme, or
+66 platform that uses 2 or more forms of currency, credits, tokens, entries, points, or similar units,
+67 whether purchased or awarded, where one or more such units may be redeemed, converted,
+68 transferred, or used directly or indirectly for cash, cash equivalents, prizes, or prize equivalents.
+69 “(7) "Gross internet gaming revenue" means the total amount of money and cash
+70 equivalents wagered by patrons on internet games; provided, that promotional gaming credits
+71 shall not be treated as wagers unless required by rule for accounting or auditing purposes.
+72 “(8) "Internet game" means a casino-style game conducted through an internet
+73 gaming platform in which a patron wagers money or something of value for the opportunity to
+74 win money, a prize, or a prize equivalent, including poker, slots, blackjack, roulette, baccarat,
+75 craps, video poker, live-dealer games, peer-to-peer games, and any other game approved by the
+76 Office of Lottery and Gaming by rule.
+77 “(9) "Internet gaming" means the offering, conducting, or operation of an internet
+78 game through an internet gaming platform.
+3
+
+79 “(10) "Internet gaming account" means an account established in the name of an
+80 individual patron for the purpose of participating in internet gaming, and includes a shared wallet
+81 approved by the Office of Lottery and Gaming.
+82 “(11) "Internet gaming operator" or "operator" means a person licensed by the
+83 Office of Lottery and Gaming under this title to offer internet gaming.
+84 “(12) "Internet gaming platform" means a website, mobile application, or other
+85 interactive platform accessible through the internet, wireless, mobile, or similar communications
+86 technology that a patron may use to participate in internet gaming.
+87 “(13) "Internet gaming supplier" or "supplier" means a person that provides
+88 internet gaming software, game content, geolocation services, age or identity verification
+89 services, payment processing, live-dealer studio services, or other goods or services specifically
+90 designed for internet gaming, as determined by rule.
+91 “(14) "Key person" means an officer, director, partner, manager, principal
+92 employee, significant owner, or other person designated by the Office of Lottery and Gaming
+93 who exercises substantial influence over the management, control, compliance, or finances of an
+94 applicant or licensee.
+95 “(15) "Office" or “OLG” means the Office of Lottery and Gaming, established
+96 within the Office of the Chief Financial Officer.
+97 “(16) "Patron" means an individual who has established or attempted to establish
+98 an internet gaming account.
+99 “(17) "Permissible jurisdiction" means a state, territory, tribal jurisdiction, or
+100 other lawful jurisdiction with which the District has entered into a reciprocal agreement for
+101 internet gaming.
+4
+
+102 “(18) "Prize equivalent" means cash, a cash equivalent, merchandise, gift cards,
+103 digital assets redeemable for value, or any other item or thing of economic value.
+104 “(19) “Promotional gaming credit” means a non-withdrawable credit provided by
+105 an operator to a patron for wagering purposes only, which shall not be redeemable for cash
+106 unless and until wagering requirements established by rule are satisfied.
+107 “(20) "Shared wallet" means a wallet or account system approved by the OLG
+108 that allows a patron to use one account or wallet for internet gaming, sports wagering, or both,
+109 subject to adequate controls.
+110 “(21) "Sweepstakes gaming" means a game, promotional contest, or scheme,
+111 whether offered online or in person, in which a person provides money, consideration, or
+112 something of value, directly or indirectly, for the opportunity to participate in a casino-style
+113 game, a simulated casino-style game, a sports wagering-like game, or a lottery-like game and
+114 win a prize or prize equivalent, including through a dual-currency gaming product.”.
+115 “Sec. 502. Authorization of internet gaming.
+116 “(a) Notwithstanding any other provision of law, internet gaming conducted in
+117 accordance with this title and rules issued under this title shall not be unlawful in the District.
+118 “(b) An operator may offer internet gaming only through an internet gaming account and
+119 only when the patron is physically located in the District or in a permissible jurisdiction and the
+120 wager is otherwise lawful.
+121 “(c) Internet gaming authorized by this title shall not include:
+122 (1) Lottery games regulated under Title II of the Law to Legalize Lotteries, Daily
+123 Numbers Games, and Bingo and Raffles for Charitable Purposes in the District of Columbia,
+124 effective March 10, 1981 (D.C. Law 3-172; D.C. Official Code § 36-601.01 et seq.);
+5
+
+125 (2) Sports wagering regulated under Title III of the Law to Legalize Lotteries,
+126 Daily Numbers Games, and Bingo and Raffles for Charitable Purposes in the District of
+127 Columbia, effective March 10, 1981 (D.C. Law 3-172; D.C. Official Code § 36-621.01 et seq.);
+128 or
+129 (3) Game of skills machines regulated under Title IV of the Law to Legalize
+130 Lotteries, Daily Numbers Games, and Bingo and Raffles for Charitable Purposes in the District
+131 of Columbia, effective March 10, 1981 (D.C. Law 3-172; D.C. Official Code § 36-641.01 et
+132 seq.).
+133 “(d) An operator may offer internet gaming under no more than 2internet gaming brands
+134 approved by the OLG, including live-dealer games and peer-to-peer games, subject to rules
+135 issued under this title.
+136 “(e) Nothing in this title shall be construed to authorize the OLG to establish mandatory
+137 minimum or maximum payout percentages, except as necessary to prohibit deceptive practices or
+138 protect game integrity.”.
+139 “Sec. 503. Rules and regulations governing conduct of internet gaming.
+140 “(a) To ensure fair and honest play in internet gaming and to protect the economic
+141 welfare and interests of the District and participants in internet gaming, the CFO shall adopt the
+142 following rules governing the conduct of internet gaming under this title.
+143 “(1) Acceptance of wagers on approved internet games;
+144 “(2) Methods of age verification and identity verification;
+145 “(3) Location verification requirements;
+146 “(4) Posting of house rules, terms, and conditions;
+147 “(5) Player exclusion requirements and responsible gaming requirements;
+6
+
+148 “(6) Types of records to be maintained by licensees;
+149 “(7) Data security, cybersecurity, testing, and certification standards;
+150 “(8) Permitted payment methods and controls on deposits and withdrawals;
+151 “(9) Advertising and promotional standards, including specific protections
+152 relating to minors and misleading promotions;
+153 “(10) Technical standards for internet gaming systems, shared wallets, and live-
+154 dealer studios;
+155 “(11) Requirements relating to how fees and taxes shall be remitted;
+156 “(12) Complaint handling procedures, reporting requirements, and any other
+157 matter necessary to implement this title.
+158 “(b) The OLG may adopt emergency rules to implement this title.
+159 “(c) The OLG may recognize testing, certification, or suitability determinations from
+160 another jurisdiction, but no person or platform shall be deemed authorized to operate in the
+161 District without District approval.”.
+162 “Sec. 504. Licenses required; classes of license; general prohibition.
+163 “(a) Except as provided in a reciprocal agreement approved under section 514, no
+164 individual, group of individuals, or entity may engage in an activity connected with internet
+165 gaming in the District unless all licenses required by this title or by rules issued pursuant to this
+166 title have been duly obtained.
+167 “(b) The OLG shall issue the following licenses under this title:
+168 “(1) Operator;
+169 “(2) Supplier; and
+7
+
+170 “(3) Any occupational or other license category the OLG determines necessary by
+171 rule to protect the public interest.
+172 “(c) The OLG shall not grant a license until the OLG has determined that each individual
+173 or entity that controls the applicant has been approved for licensure or otherwise determined
+174 suitable under this title.
+175 “(d) No employee of the Office may be an applicant for or obtain a license issued under
+176 this title.”.
+177 “Sec. 505. Operator licensure.
+178 “(a) The OLG shall issue an operator license to each applicant that the OLG finds
+179 qualified under this title. The OLG shall not impose a numerical cap on the number of operator
+180 licenses.
+181 “(b) The application fee for an operator license shall be $2,000,000. All application fees
+182 submitted to this section shall be non-refundable, regardless of whether the application is
+183 approved or denied.
+184 “(c) An operator license shall be valid for 5 years unless suspended, revoked,
+185 surrendered, or otherwise terminated.
+186 “(d) The renewal fee for an operator license shall be $500,000 for each 5-year renewal
+187 term.
+188 “(e) Possession of a sports wagering operator license or any other gaming license shall
+189 entitle an applicant to an expedited review and approval under this title; provided, that the OLG
+190 may rely on prior background investigations or licensure history to streamline review where
+191 appropriate.
+8
+
+192 “(f)(1) An operator license shall authorize the operation of not more than 2 internet
+193 gaming brands and platforms, subject to such conditions as the OLG may impose.
+194 “(2) The OLG may authorize an operator to operate more than 2 internet gaming
+195 brands upon a showing of good cause, including demonstrated compliance capacity and market
+196 need, provided that such approval is consistent with public interest.
+197 “(g) An operator license may not be transferred or assigned except with prior written
+198 approval of the OLG.”.
+199 “Sec. 506. Supplier licensure.
+200 “(a) A person shall not provide internet gaming goods or services specifically designed
+201 for internet gaming to an operator in the District without a supplier license, unless exempted by
+202 rule because the goods or services are not gaming-specific or do not implicate game integrity or
+203 patron protection.
+204 “(b) The application fee for a supplier license shall be $50,000. All application fees
+205 submitted to this section shall be non-refundable, regardless of whether the application is
+206 approved or denied.
+207 “(c) A supplier license shall be valid for 5 years unless suspended, revoked, surrendered,
+208 or otherwise terminated.
+209 “(d) The renewal fee for a supplier license shall be $25,000 for each 5-year renewal term.
+210 “(e) The OLG may recognize substantially similar supplier licensure from another
+211 jurisdiction and may streamline review where appropriate; provided, that no supplier shall be
+212 deemed licensed in the District without District approval.
+213 “(f) An operator shall be deemed licensed as a supplier only for in-house goods or
+214 services it provides to itself or an approved affiliate, subject to conditions imposed by the OLG.”.
+9
+
+215 “Sec. 507. Applications; suitability; key persons.
+216 “(a) An applicant for an operator or supplier license shall submit an application in the
+217 form prescribed by the OLG and shall provide such information as the OLG requires, including
+218 information concerning key persons, significant owners, affiliates, financing sources, and
+219 business operations.
+220 “(b) An applicant and each key person shall be subject to District, state, and national
+221 criminal history background checks and shall provide fingerprints, signed authorizations,
+222 financial disclosures, and any other information required by the OLG.
+223 “(c) In determining suitability, the OLG shall consider the integrity, financial
+224 responsibility, business ability, compliance history, and character of the applicant and key
+225 persons, including any criminal history, civil fraud, regulatory discipline, or other conduct
+226 indicating a risk to the public interest.
+227 “(d) The OLG may deny, condition, suspend, revoke, or refuse to renew a license for lack
+228 of suitability or for any reason that would constitute grounds for discipline under this title.
+229 “(e) An operator or supplier shall notify the OLG in writing within 10 days of any
+230 material change in ownership, control, key personnel, financial condition, or information
+231 previously submitted in support of an application.
+232 “(f) A person acquiring a direct or indirect ownership or control interest that the OLG
+233 determines to be material shall obtain prior written approval of the OLG.”.
+234 “Sec. 508. Certified Business Enterprise participation plan requirement.
+235 “(a) The OLG shall issue an operator license only if the applicant, in conjunction with its
+236 application, submits to the Department of Small and Local Business Development (“DSLBD”)
+10
+
+237 for approval a CBE plan demonstrating that at least 35% of the applicant's District-related
+238 operating budget for internet gaming will be contracted with one or more CBEs.
+239 “(b) The CBE plan shall include:
+240 “(1) The name and address of each proposed contractor;
+241 “(2) Current certification documentation for each CBE;
+242 “(3) The scope of work to be performed by each contractor, which shall be for a
+243 commercially useful function related to internet gaming;
+244 “(4) The dollar value or percentage of work to be performed by each contractor; and
+245 “(5) Any other information required by DSLBD or the OLG.
+246 “(c) An applicant may satisfy subsection (a) of this section by entering into a joint
+247 venture with a CBE if approved by DSLBD and the OLG.
+248 “(d) An applicant may request a waiver from DSLBD of the contracting or joint venture
+249 requirements of subsection (a) of this section; provided, that if DSLBD neither approves nor
+250 denies the request within 30 days after submission, the waiver shall be deemed approved as a
+251 matter of law.
+252 “(e) An operator shall file semiannual compliance reports with the OLG and DSLBD
+253 describing its performance under its approved CBE plan. Failure to make good-faith efforts to
+254 comply with an approved plan may constitute grounds for civil penalties, corrective action, or
+255 license discipline.”.
+256 “Sec. 509. Patron accounts; age, identity, and geolocation.
+257 “(a) A person shall be at least 21 years of age to establish an internet gaming account,
+258 place an internet gaming wager, or otherwise participate in internet gaming under this title.
+11
+
+259 “(b) An operator shall not permit a patron to place a wager until the patron's age and
+260 identity have been verified to the satisfaction of the operator and the OLG's technical standards.
+261 “(c) A patron may establish an internet gaming account remotely from within the District,
+262 subject to age verification, identity verification, and any other requirements of this title.
+263 “(d) A patron account shall be established only in the name of a natural person, shall be
+264 nontransferable, and may not be sold, assigned, or used by any person other than the registered
+265 patron.
+266 “(e) A patron shall not have more than one account with the same internet gaming brand
+267 unless otherwise approved by the OLG.
+268 “(f) An operator shall provide timely and secure means for deposits and withdrawals
+269 through payment methods approved by the OLG.
+270 “(g) An operator shall suspend or close an account if the operator knows or reasonably
+271 should know that the account holder is underage, is prohibited from gaming, has provided
+272 materially false information, or is engaged in fraud, collusion, cheating, or other unlawful
+273 activity.”.
+274 “Sec. 510. Duties of operators.
+275 “(a) An operator shall use commercially reasonable methods and any methods required
+276 by rule to:
+277 “(1) Verify the age and identity of each patron;
+278 “(2) Verify the physical location of each patron at the time each wager is initiated
+279 and accepted;
+280 “(3) Prevent underage play, unauthorized access, collusion, cheating, bots,
+281 account fraud, and proxy wagering;
+12
+
+282 “(4) Protect the confidentiality and security of patron information, wagering data,
+283 and account data;
+284 “(5) Maintain accurate books and records;
+285 “(6) Detect suspicious activity and report it as required by rule;
+286 “(7) Provide clear house rules, patron terms and conditions, privacy disclosures,
+287 and complaint procedures;
+288 “(8) Maintain customer support reasonably sufficient to serve patrons in the
+289 District; and
+290 “(9) Comply with responsible gaming requirements under this title.
+291 “(b) An operator shall maintain sufficient reserves, in a form approved by the OLG, to
+292 cover patron account balances, unpaid winnings, and outstanding wager liabilities. The OLG
+293 may require a reserve of not less than $500,000 or a greater amount necessary to protect patrons
+294 and the District.
+295 “(c) Patron funds shall be held in trust or in one or more segregated accounts separate
+296 from operational funds, or by another method approved by the OLG that provides equivalent or
+297 greater protection to patrons.
+298 “(d) An operator may permit a shared wallet with sports wagering only if approved by the
+299 OLG and subject to controls sufficient to distinguish liabilities, tax reporting, and patron
+300 protections across product categories.
+301 “(e)(1) An operator shall be prohibited from creating an internet wagering account or
+302 placing an internet wager through its own applications and shall employ reasonable methods to
+303 prohibit:
+13
+
+304 “(A) A director, officer, owner, or employee of the operator, and any
+305 living relative living in the same household as the aforementioned individuals from creating an
+306 internet wagering account or placing an internet wager with the operator;
+307 “(B) An individual, group of individuals, or entity with access to non-
+308 public confidential information held by the operator from creating an internet wagering account
+309 or placing an internet wager with the operator; or
+310 “(C) An individual, group of individuals, or entity from creating an
+311 internet wagering account or placing a wager as an agent or proxy for others.
+312 “(2) In determining which individual, group of individuals, or entity is to be
+313 excluding from creating an internet wagering account or placing an internet wager pursuant to
+314 paragraph (1) of this subsection, an operator shall use publicly available information and any
+315 lists of such individuals, group of individuals or entities that operator develops.
+316 “(f)(1) An operator shall implement controls to verify that payment methods used to fund
+317 a patron account are owned by, or lawfully authorized by, the patron.
+318 “(2) An operator shall identify and flag discrepancies between the patron identify
+319 and the source of funds.
+320 “(3) Where an operator has reason to believe that a patron is using funds provided
+321 by a third party without authorization, the operator shall:
+322 “(A) Suspend the account pending investigation; and
+323 “(B) Report such activity to OLG.
+324 “(4) The OLG may establish additional requirements relating to third-
+325 party funding and financial harm prevention.”.
+326 “Sec. 511. Responsible gaming; voluntary exclusion.
+14
+
+327 “(a) Each operator shall provide, at a minimum, the following responsible gaming tools
+328 to each patron through the internet gaming platform:
+329 “(1) Deposit limits that may be set on a daily, weekly, and monthly basis;
+330 “(2) Spend or loss limits that may be set on a daily, weekly, and monthly basis;
+331 “(3) Session or time limits, including a daily time-based limit;
+332 “(4) Cooling-off periods or temporary suspensions of not less than 72 hours;
+333 “(5) Self-exclusion and account closure options consistent with OLG rules;
+334 “(6) Real-time or near-real-time access to account history, including deposits,
+335 withdrawals, wagers, wins, losses, and time spent on the platform;
+336 “(7) Periodic reminders of time spent and net activity during a session; and
+337 “(8) Procedures to evaluate requests made by third parties to exclude an
+338 individual from internet gaming, including requests to exclude an individual from placing sports
+339 wagers when the requestor provides documentary evidence of sole joint financial responsibility
+340 for the source of funds deposited with an operator by the individual.“(b) A decrease in a patron-
+341 imposed limit shall take effect as soon as practicable and not later than the patron's next login.
+342 An increase in a limit shall take effect only after a cooling-off period established by rule.
+343 “(c) The OLG shall establish and maintain a voluntary exclusion program for internet
+344 gaming or shall incorporate internet gaming into an existing Office exclusion program.
+345 “(d) The voluntary exclusion program shall provide procedures for verification of an
+346 exclusion request, the duration of exclusion, petitions for removal where appropriate,
+347 dissemination of exclusion information to operators, and cessation of direct marketing to
+348 excluded individuals.
+15
+
+349 “(e) Information identifying a person on the voluntary exclusion list shall be confidential
+350 except as necessary to administer the program, comply with law, or effectuate exclusion across
+351 affiliated lawful gaming operations as permitted by rule.
+352 “(f) Each operator shall train relevant employees on responsible gaming, underage
+353 gaming prevention, and escalation procedures and shall submit an annual responsible gaming
+354 report to the OLG.
+355 “(g) An operator shall establish default deposit and loss limits for new patron accounts,
+356 which may be modified by the patron following acknowledgment of responsible gaming
+357 information.
+358 “(h) The OLG may establish maximum limits or other safeguards for high-risk patrons
+359 based on data-driven indicators of harmful play.”.
+360 “Sec. 512. Advertising, marketing, and promotional standards.
+361 “(a) Advertising and marketing relating to internet gaming shall be truthful, not
+362 misleading to a reasonable consumer, and consistent with this title and rules issued by the OLG.
+363 “(b) Advertising and marketing shall not intentionally target persons under 21 years of
+364 age or other prohibited persons.
+365 “(c) Advertising and marketing shall include responsible gaming messaging and
+366 information about how to access help resources, in a manner prescribed by rule.
+367 “(d) Promotional offers, bonuses, credits, and incentives shall be disclosed clearly and
+368 conspicuously, including material restrictions, play-through or rollover requirements, expiration
+369 periods, and withdrawal conditions.
+370 “(e) The OLG may prohibit or restrict advertising or promotional practices that the OLG
+371 finds unfair, deceptive, predatory, or contrary to the public interest.
+16
+
+372 “(f)(1) An operator shall not deduct the value of promotional gaming credits from
+373 adjusted gross internet gaming revenue except as expressly authorized by this section.
+374 “(2) Beginning on the first day of the third year after initial licensure, the total
+375 value of promotional gaming credits deducted by an operator in any fiscal year shall not exceed
+376 1.75% of the operator’s adjusted gross internet gaming revenue for that fiscal year.
+377 “(3) The Office may authorize a higher temporary cap for a period not to exceed
+378 12 months following initial licensure to support market entry.
+379 “(4) Promotional gaming credits shall not be:
+380 “(A) Transferrable between patrons;
+381 “(B) Redeemable for cash absent wagering requirements; or
+382 “(C) Structured to evade the limitations of this subsection.”.
+383 “Sec. 513. Technology standards; cybersecurity; records; regulatory access.
+384 “(a) An operator and supplier shall implement and maintain information security and
+385 cybersecurity controls reasonably designed to protect patron data, wagering data, and critical
+386 systems.
+387 “(b) The OLG may require compliance with industry-recognized cybersecurity and
+388 information security frameworks, including multi-factor authentication, encryption, logging,
+389 access controls, incident response, vendor oversight, and periodic testing.
+390 “(c) All primary systems necessary to the placement or resolution of internet gaming
+391 wagers shall be located in the United States unless the OLG approves otherwise for good cause
+392 and subject to conditions necessary to protect the public interest and regulatory access.
+393 “(d) An operator shall use OLG-approved geolocation methods and age and identity
+394 verification methods.
+17
+
+395 “(e) An operator and supplier shall maintain records of each wager, transaction,
+396 adjustment, login, withdrawal, deposit, geolocation decision, promotional gaming credit, and
+397 suspicious activity report for a period specified by the OLG, which shall not be less than 3 years.
+398 “(f) The OLG shall have access, directly or indirectly, to the data, records, reports, and
+399 systems necessary to administer and enforce this title.
+400 “(g) The OLG may require independent testing and certification of games, platforms,
+401 systems, random number generators, geolocation systems, and any other components relevant to
+402 integrity and compliance.”.
+403 “Sec. 514. Reciprocal agreements.
+404 “(a) The Executive or the Council may enter into reciprocal agreements with permissible
+405 jurisdictions for the conduct of lawful internet gaming, including pooled liquidity and interstate
+406 or interjurisdictional internet poker, to the extent authorized by federal law.
+407 “(b) A reciprocal agreement may permit:
+408 (1) persons physically located in a permissible jurisdiction to place wagers with
+409 an operator licensed in the District; and
+410 (2) persons physically located in the District to place wagers with a person
+411 licensed in a permissible jurisdiction, subject to the terms of the agreement and applicable law.
+412 “(c) The Executive or the Council may require that reciprocal agreements include
+413 provisions addressing enforcement, revenue allocation, regulatory access, responsible gaming,
+414 anti-money laundering cooperation, dispute resolution, and any other protections the OLG deems
+415 necessary.”.
+416 “Sec. 515. Taxation of internet gaming.
+417 “(a) On or before the 20th day of each month, an operator shall:
+18
+
+418 “(1) File a return, on forms and in the manner prescribed by the OLG, indicating
+419 the amount of its adjusted gross internet gaming revenue for the preceding calendar month; and
+420 “(2) Pay to the District of Columbia Treasurer an amount equal to 25% of the
+421 operator’s adjusted gross internet gaming revenue for the preceding calendar month.
+422 (2)(A) From the tax revenue collected pursuant to subsection (a)(2) of this
+423 section:
+424 (i) The first $500,000 shall be transferred to the Department of Behavioral
+425 Health, or to such District agency or agencies as may be designated by law, for prevention,
+426 education, treatment, referral, and recovery services related to gambling addiction and related
+427 behavioral health needs.
+428 “(b) If adjusted gross internet gaming revenue is negative for a month, the operator may
+429 carry the negative amount forward against subsequent months for not more than 6 months after
+430 the month in which the negative amount occurred.
+431 “(c) All funds owed to the District under this title shall be held in trust within the
+432 boundaries of the District for the District by an operator until the funds are paid to the District of
+433 Columbia Treasurer. An operator shall establish one or more separate bank accounts into which
+434 internet gaming revenue shall be deposited and maintained until such time as the funds are paid
+435 to the District.
+436 “(d) The OLG may allow credits or refunds for refunded or cancelled wagers in a manner
+437 prescribed by rule.
+438 “(e) An operator shall maintain records sufficient to substantiate all figures reported on
+439 tax returns filed under this section and shall make such records available to the OLG upon
+440 request.”.
+19
+
+441 “Sec. 516. License fees and administrative costs.
+442 “(a) License fees collected under this title shall be deposited into the General Fund of the
+443 District of Columbia.
+444 “(b) The administrative and operational cost of the Office of Lottery and Gaming to
+445 implement the provisions shall be funded through appropriations.
+446 “(c) Any annual tax revenue remaining collected pursuant to section 515, after the
+447 allocations required by this title shall be deposited into the General Fund of the District of
+448 Columbia.”.
+449 “Sec. 517. Regulatory assessment for administration
+450 “(a) Each licensed operator shall remit to the District a regulatory assessment equal to 2%
+451 of the operator’s adjusted gross internet gaming revenue.
+452 “(b) Amounts collected pursuant to this section shall be deposited into a dedicated
+453 account within the General Fund and shall be used solely for the administration, regulation, and
+454 enforcement of this title by the Office of Lottery and Gaming.
+455 “(c) The regulatory assessment imposed under this section shall not be considered a tax.
+456 “(d) The assessment shall be reasonably related to the costs of regulating internet gaming
+457 in the District.
+458 “(e) Any amounts collected in excess of the reasonable costs of administration shall
+459 revert to the General Fund at the end of the fiscal year.”.
+460 “Sec. 518. iGaming Community Reinvestment Fund.
+461 “(a) There is established as a special fund the iGaming Community Reinvestment Fund
+462 (“Fund”), which shall be administered by the Chief Financial Officer, or to such District agency
+463 or agencies as may be designated by law, in accordance with this section.
+20
+
+464 “(b) Each licensed operator shall remit to the District a community impact assessment in
+465 an amount equal to 2% of the operator’s adjusted gross internet gaming revenue.
+466 “(c) Amounts collected pursuant to this subsection shall be deposited into the Fund and
+467 shall not be considered part of the tax imposed under section 515.
+468 “(d)(1) Money in the Fund shall be used, subject to authorization in an approved budget
+469 and financial plan, solely for programs, services, and initiatives designed to mitigate the social
+470 and economic impacts of internet gaming.
+471 “(2) The Chief Financial Officer shall transfer money from the Fund, as provided
+472 in an approved budget and financial plan, to the following agencies for the following purposes:
+473 “(A) 30% to the Department of Insurance, Securities, and Banking, for
+474 Debt management, financial counseling, consumer financial protection, and financial literacy
+475 programs and services;
+476 “(B) 30% to the Office of Victim Services and Justice Grants, for
+477 domestic violence, intimate partner violence, survivor services, and family stability programs;
+478 “(C) 10% to the Department of Health, for research and evaluation
+479 services on gambling behavior and gambling addiction;
+480 “(D) 30% to the Department of Employment Services, for youth
+481 development, and training programs related to artificial intelligence, gaming, coding and
+482 software development, and related technology fields.
+483 “(e) The money deposited into the Fund, and any interest earned thereon, shall not revert
+484 to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a
+485 fiscal year, or at any other time.
+21
+
+486 “(f)(1) Not later than 120 days after the end of each fiscal year, the recipient agencies, in
+487 coordination with the Chief Financial Officer and Office of Lottery and Gaming, shall submit to
+488 the Council and publish on a publicly accessible website a report on the Fund.
+489 “(2) The report shall include:
+490 “(A) Total amounts collected and expended;
+491 “(B) Programmatic uses of funds by agency;
+492 “(C) Outcomes and performance metrics, where available; and
+493 “(D) An assessment of the extent to which funded programs mitigate the
+494 impacts of internet gaming.
+495 “(g) The fund shall supplement, and not supplant, existing funding for the purposes
+496 described in this section.
+497 “(h) The Fund shall be accounted for as a special fund in accordance with section § 47-
+498 131 of the District of Columbia Official Code.”.
+499 “Sec. 519. Reporting; confidentiality; public records.
+500 “(a) Not later than 120 days after the end of each fiscal year, the OLG shall submit to the
+501 Council and publish on the Office's website an annual report on internet gaming in the District.
+502 “(b) The annual report shall include, at a minimum:
+503 “(1) The number of licensed operators and suppliers;
+504 “(2) Aggregate internet gaming revenue, tax collections, and license fee
+505 collections;
+506 “(3) Amounts directed to behavioral health purposes and to the Community
+507 Reinvestment Fund;
+508 “(4) Enforcement actions taken under this title;
+22
+
+509 “(5) Complaint trends and dispute-resolution information, in aggregate form;
+510 “(6) Data on voluntary exclusions and the use of responsible gaming tools, in
+511 aggregate form consistent with privacy protections; and
+512 “(7) Operator compliance with CBE plans and local participation commitments.
+513 “(c) The following application-related information shall be public records unless
+514 otherwise protected by law: the name and principal business address of an applicant or licensee;
+515 the names of key persons; the internet gaming brands proposed or approved; and the grant,
+516 denial, suspension, revocation, or nonrenewal of a license.
+517 “(d) Investigative files, security protocols, patron-identifying information, trade secrets,
+518 and confidential commercial or financial information submitted to the OLG shall be protected
+519 from disclosure to the extent permitted by District law.
+520 “(e) Nothing in this section shall prevent the OLG from sharing information with law
+521 enforcement, regulatory agencies, the Department of Small and Local Business Development,
+522 the Attorney General for the District of Columbia, or other governmental entities as authorized
+523 by law.”.
+524 “Sec. 520. Enforcement; unlawful acts; sweepstakes gaming prohibition.
+525 “(a) If the OLG determines, after notice and an opportunity for hearing, that a licensee
+526 has violated this title, a rule or order of the OLG, or a condition of licensure, the OLG may:
+527 “(1) Issue a reprimand or corrective action order;
+528 “(2) Impose a civil fine of not more than $100,000 for each violation;
+529 “(3) Impose a civil fine of not more than $500,000 for violations arising out of the
+530 same transaction, occurrence, pattern, or practice, where the OLG finds such aggregation
+531 appropriate;
+23
+
+532 (4) Suspend, revoke, condition, or refuse to renew a license; and
+533 (5) Require restitution or other remedial measures where authorized by law.
+534 “(b) The OLG may issue cease and desist orders to persons engaged in unlicensed
+535 internet gaming, unlawful sweepstakes gaming, or other conduct prohibited by this title and may
+536 seek injunctive relief and any other appropriate remedy in a court of competent jurisdiction.
+537 “(c) Except as conducted by a licensed operator under this title or otherwise expressly
+538 authorized by District law, a person shall not offer, promote, or conduct sweepstakes gaming, a
+539 dual-currency gaming product, or any other product that mimics or simulates casino-style
+540 gaming, sports wagering, lottery-style gaming, or a substantially similar gambling activity where
+541 a person provides consideration or something of value for the opportunity to win a prize or prize
+542 equivalent.
+543 “(d) For purposes of subsection (c) of this section, consideration may be direct or indirect
+544 and includes the purchase of credits, tokens, entries, subscriptions, access, or any similar item or
+545 service that is part of the ability to participate or continue participating.
+546 “(e) Each day of a violation of subsection (c) of this section shall constitute a separate
+547 violation.
+548 “(f) The remedies in this section are cumulative and not exclusive and do not limit any
+549 authority otherwise available under District law.
+550 “(g) The Attorney General for the District of Columbia may bring a civil action in a court
+551 of competent jurisdiction to enforce this title, including actions for injunctive relief, civil
+552 penalties, restitution, and disgorgement.”.
+553 “Sec. 521. Implementation.
+24
+
+554 “(a) The CFO shall issue proposed and, as appropriate, emergency rules to implement
+555 this title not later than 90 days after the effective date of this act.
+556 “(b) The CFO shall establish an application process not later than 30 days after the
+557 effective date of this act.
+558 “(c) Internet gaming shall not commence until the CFO certifies that the regulatory
+559 framework, technical standards, and integrity controls necessary to protect the public and the
+560 District are in place.
+561 “(d) The CFO shall authorize the launch of internet gaming as soon as practicable, but not
+562 later than 180 days after the effective date of this act, unless the Mayor transmits to the Council a
+563 written determination that additional time is required to ensure public protection, regulatory
+564 readiness, or system integrity.”.
+565 “Sec. 522. Conflict with federal law.
+566 “Nothing in this title shall be construed to authorize noncompliance with any provision of
+567 any federal law or regulation. Notwithstanding any provision in this title, no internet wagering,
+568 or gambling in any form, or the operation of gambling devices shall be allowed on federal
+569 property, where such activity is prohibited by federal law or regulation or is contrary to section
+570 602(a)(3) of the District of Columbia Home Rule Act, approved December 24, 1973 (87
+571 Stat.813; D.C. Official Code § 1–206.02(a)(3)).”.
+572 Sec. 3 Rules.
+573 The Chief Financial Officer of the District of Columbia, pursuant to section 424(d) of the
+574 District of Columbia Home Rule Act, approved April 17, 1995 (109 Stat.14; D.C. Official Code
+575 § 1-204.24d), shall issue rules to implement the provisions of this act.
+576 Sec. 4. Applicability.
+25
+
+577 (a) This act shall apply upon the date of inclusion of its fiscal effect in an approved
+578 budget and financial plan.
+579 (b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an
+580 approved budget and financial plan, and provide notice to the Budget Director of the Council of
+581 the certification
+582 (c)(1) The Budget Director shall cause the notice of the certification to be published in
+583 the District of Columbia Register.
+584 (2) The date of the publication of the notice of the certification shall not affect the
+585 applicability of this act.
+586 Sec. 5. Fiscal impact statement.
+587 The Council adopts the fiscal impact statement in the committee report as the fiscal
+588 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+589 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+590 Sec. 6. Severability.
+591 If any provision of this act or its application to any person or circumstance is held invalid,
+592 the invalidity shall not affect other provisions or applications of this act that can be given effect
+593 without the invalid provision or application, and to this end the provisions of this act are
+594 severable.
+595 Sec. 7. Effective date.
+596 This act shall take effect following approval by the Mayor (or, in the event of veto by the
+597 Mayor, action by the Council to override the veto) and a 60-day period of congressional review
+598 as provided in section 602(c)(2) of the District of Columbia Home Rule Act, approved December
+599 24, 1973 (87 Stat. 788; D.C. Official Code § 1-206.02(c)(2)).
+26

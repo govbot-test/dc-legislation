@@ -1,0 +1,455 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+May 15, 2026
+Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the "Modification Nos. MOO 10 and MOO 11 to Contract No. CW92877 with Avid
+Systems, LLC Approval and Payment Authorization Emergency Act of 2026," and the
+accompanying emergency declaration resolution in the amount of not-to-exceed $10,000,000.
+The legislation will approve Modification Nos. M00l0 and M00l l to Contract No. CW92877 with
+Avid Systems, LLC to provide information technology equipment and software, and to increase
+the not-to-exceed amount for option year four of the contract. In addition, the legislation will
+approve payment for the goods and services received and to be received under the modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modification. In order to facilitate a response to any questions you may have, please have
+your staff contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at
+(202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+
+1 ~~
+2
+3
+4 at the request of the Mayor
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16
+17
+18 To approve, on an emergency basis, Modification Nos. M00l0 and M00l 1 to Contract No.
+19 CW92877 with Avid Systems, LLC, and to authorize payment for the goods and services
+20 received and to be received under the modifications.
+21
+22 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 act may be cited as the "Modification Nos. M00l0 and M00l 1 to Contract No. CW92877 with
+24 Avid Systems, LLC Approval and Payment Authorization Emergency Act of 2026".
+25 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+26 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+27 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+28 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification
+29 Nos. M00lO and M00l 1 to Contract No. CW92877 with Avid Systems, LLC and authorizes
+30 payment in the not-to-exceed amount of $10 million for the goods and services received and to
+3 i be received under the modifications.
+32 Sec. 3. Fiscal impact statement.
+1
+
+33 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+34 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+35 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+36 Sec. 4. Effective date.
+37 This act shall take effect following approval by the Mayor (or in the event of veto by the
+38 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+39 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+40 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+41 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive)
+(A) Contract Number: CW92877
+Proposed Contractor: Avid Systems, LLC
+Proposed Contractor’s Principals: Esther Lazar, Principal Owner
+Contract Amount: Not-to-exceed (NTE) $10,000,000
+Unit and Method of Compensation: Fixed unit prices will occur upon completion of
+work for each individual delivery/task order.
+Term of Contract: February 28, 2026, through February 27, 2027
+Mod 10, exercise option NTE $1M
+Proposed Mod 11, increase option period to $10M.
+Type of Contract: Indefinite Delivery/Indefinite Quantity with
+payment based upon fixed prices.
+Source Selection Method: DC Supply Schedule (DCSS)
+(B) Identifying number of the underlying contract, including the identifiers assigned to the
+underlying contract by the Council for the base period and any subsequent option periods:
+Base Period Amount: NTE $10,000,000
+Council Approval: CA24-0398
+Option Period One Amount: NTE $10,000,000
+Council Approval: CA25-0045
+Option Period Two Amount: NTE $10,000,000
+Council Approval: CA25-0605
+1
+
+Option Period Three Amount: NTE $10,000,000
+Council Approval: CA26-0004
+Option Period Four Amount: NTE $10,000,000
+Council Approval:
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The purpose of this DCSS contract is to facilitate the procurement and acquisition of Information
+Technology (IT), Equipment and Software in support of District agency operations. By leveraging
+pre-negotiated terms and competitive pricing from the federal General Administration Services
+Schedule, this ensures timely, cost-effective, and compliant access to essential IT equipment and
+software-related products.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+DCSS solicitations are open on a continuous basis for Information Technology Equipment and
+Software. The application for Avid Systems LLC, number ITES202127, was submitted on July 8,
+2021. The base year of the contract was fully executed on February 28, 2022. Eligibility for a DCSS
+contract is determined by the applicant’s ability to meet the District’s compliance requirements,
+including business licensing, tax standing, and certification standards.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+None
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+− Office of Contracting and Procurement (OCP) (DCSS) -CW99343- Temporary Support-
+awarded 12-14-25- Option Year Three – contract amount $10,000,000
+− Office of Contracting and Procurement (OCP) (DCSS) -92744-MOBIS- awarded 2-15-26 –
+Option Year Four -contract amount $10,000,000
+− Office of the Technology Chief (OCTO) -CW102248-awarded -9-3-26- Option Year Four -
+contract amount $4,353,406.20
+− Office of the Technology Chief (OCTO) -CW131247-awarded -12-2-25 – Base Year- contract
+amount $34,237.00
+
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Based on a thorough review of the application submitted, the Contracting Officer determined that
+Avid Systems LLC possess the necessary organizational experience, technical expertise, and
+accounting and operational controls to successfully fulfill the requirements of the contract.
+Avid Systems LLC has been providing services to the District since 2004 and has consistently
+maintained a favorable performance record, demonstrating reliability and a strong understanding of
+the District’s operational needs.
+(H) The period of performance associated with the proposed change, including date as of which
+the proposed change is to be made effective:
+February 28, 2026, through February 27, 2027, effective upon Council approval.
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+NTE $1,000,000.
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+NTE $9,000,000
+(K) The date on which the contracting officer was notified of the proposed change:
+February 17, 2026.
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+The Contracting Officer exercised the option at a lower amount than the contractor’s previous fiscal
+years’ spend based on initial expenditure projections for the current fiscal year.
+(M) The reason for the proposed change:
+The Contracting Officer seeks to raise the contract ceiling from $1,000,000 to 10,000,000 to allow
+the contractor to continue providing information technology equipment and software and provision
+for the OCTO and the agencies it supports.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+
+27 DCMR 3601.2 (c)
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+The proposed contractor has confirmed that they have not been found to have violated Section 334a
+of the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics
+Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a, and that they are not currently
+and will not be in violation of D.C. Code § 1-1163.34a.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+Subcontracting is not required for this contract.
+(Q) Performance standards and the expected outcome of the proposed contract:
+The DCSS contracts serve as the primary procurement vehicles for District agencies. These
+contracts are designed to streamline and support recurring procurement needs across agencies. The
+purpose of this DCSS contract is to facilitate the procurement and acquisition of IT equipment and
+software in support of District agency operations.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+NTE $1,000,000.Modification M0010, signed on February 27, 2026, NTE
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Office of the Chief Financial Officer has certified that funding is consistent with the applicable
+financial plan and budget.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+
+The Attorney General for the District of Columbia has reviewed and approved the subject contract.
+Avid Systems LLC has no pending legal claims against the District.
+(U) A certification that the Citywide Clean Hands database indicates that the proposed contractor
+is current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands database report indicates Avid Systems LLC is current with its District
+taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+Avid Systems LLC has certified that it is current with its federal taxes.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+Avid Systems LLC is currently a certified business enterprise; certification number
+LDZXR57009112028
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+Avid Systems LLC is not listed on the Federal or District Excluded Parties List.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination and Findings for Contractor’s Responsibility
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+
+www.ocp.dc.gov
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+www.ocp.dc.gov
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: May 15, 2026 Notice Number: L0016466645
+AVID SYSTEMS, LLC FEIN: **-***0233
+1418 PENNSYLVANIA AVE SE STE 1 Case ID: 18975491
+WCASHINGTON DC 20003-3029
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENTOFTHE DISTRICTOFCOLUMBIA
+OFFICE OFTHECHIEFFINANCIALOFFICER
+GOVERNMENTOPERATIONSCLUSTER.
+OFFICEOFFINANCEAND RESOURCE MANAGEMENT.
+tk k
+bel
+mz
+MEMORANDUM.
+TO: Nancy Hapeman, ChiefProcurementOfficer
+OfficeofContracting and Procurement
+FROM: Alemayehu Awas
+Agency Fiscal omnicef? Awae
+DATE: February 18, 2026
+SUBJECT: Certification ofFundingAvailability forDCSSContracts
+VENDOR: CW92877 -Avid Systems, LLC
+PERIOD: October 1, 2025,through September30, 2026
+This is to certify that the Office of Contracting and Procurement allocated $10,000.00 in its
+FY2026 budget to cover potential costs that may be incurred ifa minimum order is not achieved
+forthe District ofColumbia Supply Schedule (DCSS)contracts.
+Each DCSScontracthasbeen establishedasan indefinite delivery/indefinite quantity(IDIQ)
+contract,and agencies may placeordersagainsteach contract by meansofan individual Task
+Order(TO)ordeliveryorder(DO). Ifno ordersare placed againsta DCSScontract, pursuantto
+the DCSS Terms and Conditions,clause 5, the District guaranteesthe minimum orderforeach
+contract in theamountof$10.00 forthebaseyearand fouroption years. Any add
+placed on the DCSS contracts will be encumbered by theorderingagency priorto issuance.
+Thereare approximately 420 contractorson the DCSS, and it isestimated that $10,000.00would
+besufficienttocoverthe possibility of having to pay $10.00, upon request, to multiple
+contractors.
+441 4"St,N.W. * Suite890 North*Washington,D.C. 20001
+Phone:(202)727-0333 * Fax:(202)727-0659
+
+GOVERNMENTOFTHE DISTRICTOFCOLUMBIA
+OFFICEOFTHECHIEFFINANCIALOFFICER
+GOVERNMENTOPERATIONSCLUSTER
+OFFICE OF FINANCEAND RESOURCEMANAGEMENT.
+kkk
+mz
+Ln|
+MEMORANDUM
+To: Nancy Hapeman, ChiefProcurement Officer
+Office of Contracting and Procurement
+FROM: . Alemayehu Awas
+Agency Fiscal Office clam
+DATE: February 12, 2026
+SUBJECT: Certification ofFunding Availability for DCSS Contracts
+VENDOR: CW92877 -Avid Systems, LLC
+PERIOD: — October 1, 2026, through September 30, 2027
+This is to certify that the Office ofContracting and Procurement will allocate $10,000.00 in its
+FY2027 budget to cover potential costs that may be incurredif a minimum order is not achieved
+for the District ofColumbia Supply Schedule (DCSS) contracts.
+Each DCSS contract has been established asan indefinite delivery/indefinite quantity (IDIQ)
+contract, and agencies may place orders againsteach contract by meansofan individual Task
+Order(TO) ordelivery order(DO).Ifno orders are placedagainst a DCSS contract, pursuantto
+the DCSS Termsand Conditions, clause 5, the District guaranteesthe minimum order foreach
+contract in the amount of$10.00 forthe base year and fouroption years. Any additional orders
+placed on the DCSS contracts will be encumbered by the orderingagency priorto issuance.
+‘Thereare approximately 420 contractors on the DCSS, and it isestimated that $10,000.00 would
+be sufficientto cover the possibility ofhaving to pay $10.00, upon request, to multiple
+contractors,
+AvailabilityofFY 2027 budget is subject to approvalofbudget by the Council and Congress.
+441 4°St,N.W. *Suite890 North * Washington, D.C. 20001
+Phone: (202)727-0333* Fax:(202)727-0659
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: April 14, 2026
+SUBJECT: Approval of Modification No. 0011
+Information Technology Equipment and Software
+Contract No. CW92877
+Contractor: Avid Systems LLC
+Contract Amount: NTE $10,000,000
+This is to Certify that this Office has reviewed the above-referenced Modification and that we
+have found it to be legally sufficient. If you have any questions in this regard, please do not
+hesitate to call me at (202) 724-4018.
+______________________________
+Robert Schildkraut
+400 6th Street NW, Suite 9100, Washington, DC 20001 (202) 727-3400
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW92877 1 1
+2.Amendment/Modification Number 3.Effective Date 4.Requisition/Purchase Request No. 5.Solicitation Caption
+Information Technology
+M0010 2-28-26 Equipment and Software
+6.Issued by: Code 7.Administered by (If other than line 6)
+Office of Contracting and Procurement Office of Contracting and Procurement
+441 4th Street, NW, Suite 330 South 441 4th Street, NW, Suite 330 South
+Washington, DC 20001 Washington, DC 20001
+8.Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+Avid Systems, LLC. 9B. Dated (See Item 11)
+1418 Pennsylvania Avenue SE, Suite 1
+10A. Modification of Contract/Order No
+Washington, DC 20003 X
+CW92877
+Code Facility 10B. Dated (See Item 13)
+2/28/22
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a)By completing Items 8 and 15 and returning __________ copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE
+RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF
+YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or telegram
+makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If Required)
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B.The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR,
+C.This supplemental agreement is entered into pursuant to authority of: 27 DCMR, Chapter 36, Section 3601.2
+X D.Other (Specify type of modification and authority) 27 DCMR, Chapter 20, Section 2008, Exercise of Option
+E.IMPORTANT: Contractor is not is required to sign this document and return one copy to the issuing office.
+14.Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+A. Pursuant to section 3.2 Option to Extend the Term of the Contract, Contract Number CW92877 is hereby modified as
+follows:
+1.The District of Columbia Office of Contracting and Procurement hereby exercises its option to
+extend the term of the contract for the period of February 28, 2026, through February 27, 2027,
+Option Year 4 with a not to exceed contract amount of $1,000,000.
+B. The contractor is bound by Wage Determination No. 2015-4281, rev. 35 dated 12/3/2025 issued by the
+Department of Labor.
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Esther Lazar, CEO
+Camille Christian
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+2/27/2026
+02/25/2026
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW92877 1 1
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+Information Technology
+M0011 See Box 16C Equipment and Software
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Office of Contracting and Procurement
+441 4th Street, NW, Suite 330 South 441 4th Street, NW, Suite 330 South
+Washington, DC 20001 Washington, DC 20001
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+Avid Systems, LLC. 9B. Dated (See Item 11)
+1418 Pennsylvania Avenue SE, Suite 1
+10A. Modification of Contract/Order No
+Washington, DC 20003 X
+CW92877
+Code Facility 10B. Dated (See Item 13)
+2/28/22
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15 and returning __________ copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE
+RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF
+YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or telegram
+makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR,
+C. This supplemental agreement is entered into pursuant to authority of: 27 DCMR, Chapter 36, Section 3601.2
+X D. Other (Specify type of modification and authority) 27 DCMR, Chapter 20, Section 2008, Exercise of Option
+E. IMPORTANT: Contractor is not is required to sign this document and return one copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+A. Pursuant to section 3.2 Option to Extend the Term of the Contract, Contract Number CW92877 is hereby
+modified as follows:
+1. The District of Columbia Office of Contracting and Procurement hereby increases the amount of
+Option Year 4 by $9,000,000 to $10,000,000 for the period of February 28, 2026, through
+February 27, 2027.
+B. The contractor is bound by Wage Determination No. 2015-4281, revision no. 35 dated 12/03/2025 issued
+By The Department of Labor.
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Camille Christian
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+4/30/2026
+(Signature of person authorized to sign) (Signature of Contracting Officer)
