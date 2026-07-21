@@ -46,7 +46,7 @@
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T07:29:58Z"
+        "log_file_created": "2026-07-21T08:02:36Z"
       }
     }
   ],
@@ -94,7 +94,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T07:29:58Z",
-    "text_extraction_latest_update": "2026-07-13T08:45:21.748100Z"
+    "logs_latest_update": "2026-07-21T08:02:36Z",
+    "text_extraction_latest_update": "2026-07-21T06:01:33.543398Z"
   }
 }

@@ -1,0 +1,8 @@
+📊 Text Extraction Summary for dc
+========================================
+
+Total bills:                 1752
+Processed:                   1752
+Successful:                  1752
+Errors:                      0
+Skipped (already processed): 0
