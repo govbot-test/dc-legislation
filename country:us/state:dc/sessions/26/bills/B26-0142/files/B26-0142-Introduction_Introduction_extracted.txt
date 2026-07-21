@@ -1,0 +1,1715 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+February 26, 2025
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. M02, M03, M04, and M05 to Contract No. DCAM-24-
+NC-RFP-0003A with Jerome L. Taylor Trucking, Inc. Approval and Payment Authorization
+Emergency Act of 2025”, and the accompanying emergency declaration resolution.
+The legislation will approve Modification Nos. M02, M03, M04, and M05 to Contract No. DCAM-
+24-NC-RFP-0003A with Jerome L. Taylor Trucking, Inc. to provide waste collection and disposal
+services, and will authorize payment to Jerome L. Taylor Trucking, Inc. for services received and
+to be received under option year one of the contract.
+My administration is available to discuss any questions you may have regarding the proposed
+legislation. In order to facilitate a response to any questions you may have, please contact Delano
+Hunter, Director, DGS, or have your staff contact Eric Njonjo, Interim Chief Procurement Officer,
+DGS, at (202) 727-2800.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Muriel Bowser
+
+1
+2 airman Phil Mendelson
+3 at the request of the Mayor
+4
+5
+6 AB~L
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16 To approve, on an emergency basis, Modification Nos. M02, M03, M04, and M05 to Contract
+17 No. DCAM-24-NC-RFP-0003A with Jerome L. Taylor Trucking, Inc. to provide waste
+18 collection and disposal services, and to authorize payment for the goods and services
+19 received and to be received under the modifications.
+20
+21 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+22 act may be cited as the "Modification Nos. M02, M03, M04, and M05 to Contract No. DCAM-
+23 24-NC-RFP-0003A with Jerome L. Taylor Trucking, Inc. Approval and Payment Authorization
+24 Emergency Act of 2025".
+I
+25 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+26 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+27 requirements of section 202(a) of the Procurement Practices Reform Act of 2010, effective April
+28 8, 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02(a)), the Council approves
+29 Modification Nos. M02, M03, M04, and M05 to Contract No. DCAM-24-NC-RFP-0003A with
+30 Jerome L. Taylor Trucking, Inc. to provide waste collection and disposal services, and authorizes
+31 payment in the not-to-exceed amount of $4,113,054.36 for the goods and services received and
+32 to be received under the modifications.
+33 Sec. 3. Fiscal impact statement.
+
+34 The Council adopts the fiscal statement of the Chief Financial Officer as the fiscal impact
+35 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+36 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+37 Sec. 4. Effective date.
+38 This act shall take effect following approval by the Mayor (or in the event of veto by the
+39 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+40 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+41 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+42 D.C. Official Code § 1-204.12(a)).
+2
+
+Pursuant to Section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Tipping)
+Modification Nos. M02-M04 and Proposed Modification No. M05 to Fully Exercise Option
+Year One of Contract No. DCAM-24-NC-RFP-0003A for Citywide Waste Collection and
+Disposal Services (DGS Managed Properties)
+(A) Contract Number: DCAM-24-NC-RFP-0003A (“Contract”)
+Proposed Contractor: Jerome L. Taylor Trucking, Inc.
+(“Contractor”)
+Modification Nos. M02-M04
+Not-to-Exceed (“NTE”) Amount
+(Partial Exercise of Option Year One): $937,087.38
+Proposed Modification No. M05
+NTE Amount
+(Full Exercise of Option Year One): $4,113,054.36 (increase by $3,175,966.98)
+Term of Contract
+(Partial Exercise of Option Year One): October 1, 2024 through September 30, 2025
+Type of Contract: Firm Fixed Price with a Time and Materials
+Component
+Source Selection Method: Competitive Request for Proposals
+(B) For a contract containing option periods, the contract amount for the base period and
+for each option period. If the contract amount for one or more of the option periods
+differs from the amount for the base period, provide an explanation of the reason for
+the difference:
+Base Period: NTE Amount $4,008,190
+Council Approval: CA25-0616
+Modification No. M01 NTE Amount of
+Base Period: $3,763,014 (reduced by $245,176)
+
+Page 2 of 10
+Modification No. M02-M04 NTE Amount
+(Partial Exercise of Option Year One): $937,087.38
+Proposed Modification No. M05 NTE
+Amount
+(Full Exercise of Option Year One): NTE $4,113,054.36
+Explanation of difference from base period:
+The Contract provides for two types of fixed unit prices based on the type of service to be
+provided: (i) regularly recurring waste collection and disposal services pursuant to the
+Contract’s scope of work (“Basic Services”), priced at a fixed unit rate for each type of Basic
+Service; and (ii) costs incurred in performing on-call, disposal or supplemental hauling
+services against the NTE Owner-Directed Allowance at the request and discretion of the
+Department (“Supplemental Services”, together with the Basic Services, the “Services”)
+priced at a fixed hourly rate for each type of Supplemental Service. The rates for each option
+year include an increase from the fixed unit rates for the preceding year to account for
+inflation. Additionally, the NTE amount for Option Year 001 includes compensation for
+twelve (12) months (or 52-weeks) of Basic Services and Supplemental Services; the NTE
+Amount for the Base Period had included 30-weeks of Basic Services and Supplemental
+Services.
+(C) The goods or services to be provided, the methods of delivering goods or services, and
+any significant program changes reflected in the proposed contract:
+Under the Contract for Citywide Waste (trash and recycling) Collection and Disposal Services
+(DGS Managed Properties), DCAM-24-NC-RFP-0003A (the “Contract”), the Contractor
+provides citywide solid waste (trash and recycling) collection and disposal services, including
+all management, tools, supplies, equipment, storage, vehicles, and labor necessary to perform
+the required services at various facilities located throughout the District of Columbia, as well
+as five (5) collection points in the State of Maryland, requiring front-load, rear-load and roll-
+off containers.
+The Contract provides for two types of services to be performed by the Contractor: (i) Basic
+Services, which include all regularly recurring waste collection and disposal services in
+accordance with the established routine service schedule pursuant to the Contract’s scope of
+work; and (ii) Supplemental (“Time and Material”) Services, which includes but not limited
+to, disposal costs for trailer services (roll-off and compactors), unforeseen emergency
+services, relocation of containers, purchase or repair of containers, on-call disposal or
+supplemental hauling services performed outside of the routine service schedule (Basic
+Services) and performed at the request and discretion of the District. The Contract contains a
+Base Period of 30-weeks from March 4, 2024 through September 30, 2024. The Contract also
+contains up to four (4) one-year option periods. The underlying Contract was deemed
+approved by the Council on March 3, 2024, as CA25-0616 with a NTE amount of $4,008,190.
+Modification No. M01 reduced the total firm-fixed fully loaded price for Basic Services from
+________________________________________________________________________
+Department of General Services 3924 Minnesota Avenue NE, Washington DC 20019
+
+Page 3 of 10
+$3,608,190 by $245,176 to $3,363,014 during the Base Period. This Modification No. M01
+reduced the Base Period’s NTE amount from $4,008,190 by $245,176, to a total aggregate
+NTE amount of $3,763,014.
+Modification No. M02 partially exercised Option Year One, extending the contract’s period
+of performance from October 1, 2024 to November 18, 2024 with a NTE amount of
+$937,087.38. Modification No. M03 extended the contract’s period of performance through
+February 24, 2025 with a NTE amount of zero dollars ($0.00). Modification No. M04
+extended the contract’s period of performance through April 14, 2025 with a NTE amount of
+zero dollars ($0.00). The amount of Modification Nos. M02-M04 were less than $1 million,
+thus Council’s approval was not required.
+Proposed Modification No. M05 will fully exercise Option Year One, increasing the NTE
+amount from $937,087.38 by $3,175,966.98, to a total aggregate NTE amount of
+$4,113,054.36. Proposed Modification No. M05 will authorize the Contractor to continue
+providing citywide solid waste (trash and recycling) collection and disposal services to
+various facilities located throughout the District of Columbia, as well as five (5) collection
+points in the State of Maryland, requiring front-load, rear-load and roll-off containers.
+Proposed Modification No. M05 will extend the contract’s period of performance through
+September 30, 2025. As the combined NTE amount of Modification Nos. M02-M04 and
+proposed Modification No. M05 will exceed $1 million, Council approval is required.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance
+components:
+On July 13, 2023, the Department issued a Request for Proposals (“RFP”) to engage a
+contractor to provide citywide solid waste (trash and recycling) collection and disposal
+services, including all management, tools, supplies, equipment, storage, vehicles, and labor
+necessary to perform the required services at various facilities located throughout the District
+of Columbia, as well as three (3) collection points in the State of Maryland, requiring front-
+load, rear-load and roll-off containers. The solicitation was designated for the Open Market.
+The pre-proposal conference was held on July 17, 2023, at the Marion S. Barry, Jr. Building
+located at 441 4th Street NW, 11th Floor, Room 1012, Washington, DC 20001. The site visit
+was held immediately after the pre-proposal conference, at MPD Headquarters located at 300
+Indiana Avenue NW, Washington, DC 20001.
+The Department issued three (3) addenda to the RFP. Addendum No. 01, issued on July 19,
+2023, incorporated the Pre-Proposal Conference Attendance Roster as Exhibit A; and
+incorporated Pre-Proposal Conference Agenda as Exhibit B. Addendum No. 02, issued on
+July 28, 2023, incorporated Questions and Answers as Exhibit A; deleted in its entirety
+Payment and Performance Bond Requirements; deleted in its entirety Attachment A.9,
+Payment and Performance Bond; deleted and replaced Section C.5.1.1.2; deleted and replaced
+Attachment A.8, Quickbase Vendor Submission Portal Instructions; deleted and replaced
+Section C.5.12, Disincentive Fee; and deleted and replaced Section M.3.1.1(b) – Factor A:
+Relevant Experience, Past Performance, and Capacity. Addendum No. 03, issued on August
+________________________________________________________________________
+Department of General Services 3924 Minnesota Avenue NE, Washington DC 20019
+
+Page 4 of 10
+7, 2023, incorporated enclosed container breakdown to Question No. 17 from Questions and
+Answers issued on July 28, 2023, via Addendum No. 02.
+On the proposal due date, August 11, 2023, three (3) firms (“Offerors”) submitted proposals
+in a timely manner. One (1) of the three (3) offerors did not comply with the RFP
+requirements, and as such were deemed non-responsive.
+Technical Evaluation:
+The remaining responsive proposals were evaluated by a technical evaluation panel (the
+“Panel”) in accordance with the criteria set forth in the RFP. Each proposal was independently
+evaluated utilizing a point scale, certain points of which were for the technical evaluation
+component as follows: (i) relevant experience, past performance, and capacity; (ii) key
+personnel qualifications and staffing strategy; and (iii) project management plan, as discussed
+more fully below.
+The Panel met on September 7, 2023, to develop a consensus technical score. Prior to
+convening the evaluation meeting, each of the Panel members individually completed an
+evaluation of the proposal. In doing so, each Panel member rated each responsive Offeror
+with respect to specific sub-factors in the three (3) categories.
+Pricing Evaluation:
+As outlined in the RFP, certain points were available for price. In addition to the technical
+scoring, responsive Offerors were assigned price points on a sliding scale, with the lowest
+proposed price receiving all of the available points, and the remaining proposal receiving a
+portion of the available points relative to its position in the range established by the highest-
+and lowest price proposals.
+Certified Business Enterprise Preference Points:
+In addition to the price and technical scoring, points were available for each Offeror based on
+its status as a Certified Business Offer (“CBE”) as determined by DSLBD. The responsive
+Offerors were certified and received additional points accordingly.
+Contracting Officer’s Independent Evaluation:
+The Contracting Officer carefully reviewed the Panel’s consensus technical scoring and the
+evaluation process followed by the Panel, including the Panel’s notes, score sheets, and its
+final consensus technical evaluation. In addition, the Contracting Officer conducted an
+independent assessment of each proposal and exercised her independent judgment in
+evaluating the responsive Offerors, after which the Contracting Officer determined that the
+Contractor was the highest ranked Offeror.
+Pursuant to Title 27 DCMR Section 4706.5, the Contracting Officer may request information
+from the contractor and may also consider information available from other sources, including
+the general public, in evaluating a prospective contractor’s responsibility. On October 26,
+2023, the Department issued a clarification on vendor responsibility letter to the highest-
+ranking offeror, Jerome L. Taylor Trucking, Inc., based on a recent article published by a local
+Washington, DC newspaper alleging wrongdoing and unethical behavior between Jerome
+________________________________________________________________________
+Department of General Services 3924 Minnesota Avenue NE, Washington DC 20019
+
+Page 5 of 10
+Taylor and personnel at DC Housing Authority (“DCHA”). Upon examination of the
+information provided by Jerome L. Taylor Trucking, Inc., the Office of General Counsel
+conducted another layer of research and reviewed the Board of Ethics and Government
+Accountability’s (“BEGA”) website for any publications on either DCHA or Jerome L. Taylor
+Trucking Inc. and found none. Based on Jerome L. Taylor Trucking Inc.’s responses to the
+Department’s questions, there is no evidence that Jerome L. Taylor Trucking, Inc. is currently
+being investigated or committed any wrongdoing; thus, Jerome L. Taylor Trucking, Inc. is
+deemed responsible.
+Contract Award:
+After reviewing the evaluation Panel’s consensus technical scoring, conducting an
+independent assessment in evaluating the responsive Offerors, reviewing the underlying
+proposal, documentation and CBE preference points, the Contracting Officer determined that
+the Contractor was the highest ranked Offeror. In addition, the Contracting Officer determined
+that the Contractor is responsible, and that the Contractor’s proposed pricing is fair and
+reasonable. Subsequently, by award memorandum executed December 6, 2023, the
+Department awarded Contract No. DCAM-24-NC-RFP-0003A to the Contractor as such
+award was determined to be the most advantageous to the District.
+(E) A description of any bid protest related to the award of the contract, including whether
+the protest was resolved through litigation, withdrawal of the protest by the protestor,
+or voluntary corrective action by the District. Include the identity of the protestor, the
+grounds alleged in the protest, and any deficiencies identified by the District as a result
+of the protest:
+On September 8, 2023, DGS was served with a written protest addressed to the Department
+and the District of Columbia Contract Appeals Board (“CAB”). The protest, CAB Case No.
+is P-1186, was filed with the Contract Appeals Board on September 7, 2023 by WB Waste.
+On September 11, 2023, the Department sent out notices of protest to the remaining two (2)
+offerors, and further evaluations were halted. On October 3, 2023, WB Waste filed a
+Stipulation of Dismissal with CAB to jointly request with the District that the protest be
+dismissed with prejudice. Accordingly, CAB granted the motion to dismiss with prejudice.
+(F) The background and qualifications of the proposed contractor, including its
+organization, financial stability, personnel, and performance on past or current
+government or private sector contracts with requirements similar to those of the
+proposed contract:
+The Contractor is a Washington, DC based full-service waste collection company providing
+roll-off, front-load, rear-load hauling services in the government, commercial, and
+institutional sectors. The Contractor has provided services to the District’s portfolio of
+properties for more than 20 years for contracts that are similar or larger in scope, size and
+complexity to the Project. The Department reviewed the Contractor’s staffing plan for the
+work contemplated by the Contract and found it sufficient. The Contractor has been
+determined responsible in accordance with 27 DCMR 4706.1.
+________________________________________________________________________
+Department of General Services 3924 Minnesota Avenue NE, Washington DC 20019
+
+Page 6 of 10
+(G) The period of performance associated with the proposed change, including date as of
+which the proposed change is to be made effective:
+The Contract’s period of performance for Option Year One is October 1, 2024, through
+September 30, 2025.
+(H) The value of any work or services performed pursuant to a proposed change for which
+the Council has not provided approval, disaggregated by each proposed change if more
+than one proposed change has been aggregated for Council review:
+On September 11, 2024, the Department executed Modification No. M02, which partially
+exercised Option Year One, extending the term of the Contract through November 18, 2024,
+with a NTE amount of $937,087.38. On November 18, 2024, the Department executed
+Modification No. M03, extending the term of the contract through February 24, 2025 for a
+NTE amount of $0.00. On January 13, 2025, the Department executed Modification No. M04,
+extending the term of the contract through April 14, 2025 for a NTE amount of $0.00.
+(I) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+The Contract award contemplated Option Year One valued at a NTE amount of $7,332,808.46
+(a total NTE of $6,932,808.46 for basic services and a $400,000 not-to-exceed owner-directed
+allowance for supplemental services) pursuant to the Contracting Officer’s determination and
+findings. Based on numerous updates and corrections to the Service Facility Locations and
+Schedule (e.g., the size and quantity of containers, weekly schedule, number of pulls, etc.),
+the Option Year One NTE amount is reduced to $4,113,054.36.
+(J) Date on which the contracting officer was notified of the proposed change:
+September 5, 2024.
+(K) The reason why the proposed change was sent to Council for approval after it is intended
+to take effect:
+During the development of DGS’s FY 2025 budget, local funds were misallocated, resulting
+in an over-allocation to the to the sustainable energy account and under-allocated to the waste
+management account. To correct this, a reprogramming of funds was recommended by the
+Office of the City Administrator to DGS’ Office of the Chief Financial Officer (OCFO).
+Consequently, OCFO retracted its original signed fiscal sufficiency certification following
+DGS’ submission of a passive council package in IQ (WF#727371). DGS promptly withdrew
+the submission to address the issue.
+To avoid lapses in service while addressing the funding misallocation, the Department
+exercised a partial option year via Modification Nos. M02-M04, covering the period funded
+by the FY 2025 budget. Modification Nos. M02-M04 were not previously submitted to
+Council for approval because the total value did not exceed $1 million. Proposed Modification
+________________________________________________________________________
+Department of General Services 3924 Minnesota Avenue NE, Washington DC 20019
+
+Page 7 of 10
+No. M05, which is based on the need to ensure that adequate funding is available for the
+Contractor to continue providing the required citywide solid waste (trash and recycling)
+collection and disposal services through September 30, 2025, will cause the NTE amount of
+the Contract for Option Year One to exceed $1 million; thus, Council approval is required.
+(L) The reason for the proposed change:
+Modification Nos. M02-M04 and proposed Modification No. M05 will fully exercise Option
+Year One with a total NTE amount of $4,113,054.36 and authorize the Contractor to continue
+to provide citywide solid waste (trash and recycling) collection and disposal services to
+various facilities located throughout the District of Columbia, as well as five (5) collection
+points in the State of Maryland, requiring front-load, rear-load and roll-off containers.
+(M) The legal, regulatory, or contractual authority for the proposed change:
+Article 15 of the Department’s Standard Contract Provisions (Goods and Services) provides
+authority for the issuance of modifications. As Modification Nos. M02-M04 and proposed
+Modification No. M05 would fully exercise Option Year One and increase the total NTE
+amount of the Contract for Option Year One by an amount in excess of $1 million, this
+contract action is subject to the requirements of the District of Columbia Home Rule Act,
+codified at D.C. Official Code §1-204.51(b). Thus, Council review and approval of the
+proposed contract action are required under the District of Columbia Home Rule Act, and the
+proposed contract action would be authorized by Council’s enactment of Modification Nos.
+M02-M04 and proposed Modification No. M05 to Contract No. DCAM-24-NC-RFP-0003A
+Approval and Payment Authorization Emergency Act of 2025, under D.C. Official Code § 2-
+352.02.
+(N) A summary of the subcontracting plan required under section 2346 of the Small, Local,
+and Disadvantaged Business Enterprise Development and Assistance Act of 2005, as
+amended, D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the
+subcontracting plan meets the minimum requirements of the Act and the dollar volume
+of the portion of the contract to be subcontracted, expressed both in total dollars and as
+a percentage of the total contract amount:
+The Contractor is a certified business enterprise in accordance with the Act (CBE Number:
+LSDX07981082025). Notwithstanding the foregoing, the Contractor has submitted its
+subcontracting plan as required by law.
+(O) Performance standards and the expected outcome of the proposed contract:
+The Contractor is required to provide citywide solid waste (trash and recycling) collection
+and disposal services to various facilities located throughout the District of Columbia, as well
+as five (5) collection points in the State of Maryland, requiring front-load, rear-load and roll-
+off containers. The Department will continue to monitor the Contractor’s performance to
+ensure consistency with the Contract’s terms and conditions.
+________________________________________________________________________
+Department of General Services 3924 Minnesota Avenue NE, Washington DC 20019
+
+Page 8 of 10
+(P) The amount and date of any expenditure of funds by the District pursuant to the
+contract prior to its submission to the Council for approval:
+On September 11, 2024, via Modification No. M02, the Department partially exercised
+Option Year One, extending the term of the Contract from October 1, 2024 through November
+18, 2024, with a NTE amount of $937,087.38. On November 18, 2024, via Modification No.
+M03, the Department extended the term through February 24, 2025 with an NTE amount of
+$0.00. On January 13, 2025, via Modification No. M04, the Department extended the term
+through April 14, 2025 with an NTE amount of $0.00. The NTE amount of Modification Nos.
+M02-M04 were less than $1 million, thus Council’s approval was not required.
+(Q) A certification that the proposed contract is within the appropriated budget authority
+for the agency for the fiscal year and is consistent with the financial plan and budget
+adopted in accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The aggregate total NTE amount of Modification Nos. M02-M04 and proposed Modification
+No. M05 is within the appropriated budget authority for the agency, for the fiscal year. The
+Agency Fiscal Officer has certified that total aggregate NTE amount of Modification Nos.
+M02-M04 and proposed Modification No. M05 is consistent with the financial plan and
+budget adopted in accordance with D.C. Official Code §§ 47-392.01 and 47-392.02. The
+relevant Fiscal Sufficiency certification accompanies this Council Package.
+(R) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+Modification Nos. M02-M04 and proposed Modification No. M05 have been deemed legally
+sufficient by the District’s Office of the Attorney General. The Contractor does not appear to
+have any currently pending legal claims against the District.
+(S) A certification that Citywide Clean Hands database indicates that the proposed
+contractor is current with its District taxes. If the Citywide Clean Hands Database
+indicates that the proposed contractor is not current with its District taxes, either: (1) a
+certification that the contractor has worked out and is current with a payment schedule
+approved by the District; or (2) a certification that the contractor will be current with
+its District taxes after the District recovers any outstanding debt as provided under D.C.
+Official Code § 2-353.01(b):
+The Citywide Clean Hands database indicates that the Contractor is current with its District
+taxes. The applicable Clean Hands certification for the Contractor accompanies this Council
+Package.
+(T) A certification from the proposed contractor that it is current with its federal taxes, or
+has worked out and is current with a payment schedule approved by the federal
+government:
+The Contractor has certified that it is in compliance with federal tax laws.
+________________________________________________________________________
+Department of General Services 3924 Minnesota Avenue NE, Washington DC 20019
+
+Page 9 of 10
+(U) The status of the proposed contractor as a certified local, small, or disadvantaged
+business enterprise as defined in the Small, Local, and Disadvantaged Business
+Enterprise Development and Assistance Act of 2005, as amended; D.C. Official Code §
+2-218.01 et seq.:
+According to the DSLBD’s website, the Contractor is a certified Local, Small, or
+Disadvantaged Business Enterprise. The Contractor’s CBE Number is LSDX07981082025
+with an expiration date of August 9, 2025.
+(V) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+Not Applicable.
+(W) A statement indicating whether the proposed contractor is currently debarred from
+providing services or goods to the District or federal government, the dates of the
+debarment, and the reasons for debarment:
+The Contractor is not debarred from providing services to the Government of the District of
+Columbia or the Federal Government according to the Office of Contracts and Procurement’s
+Excluded Parties List and the Federal Government’s Excluded Parties List.
+(X) Any determination and findings issues relating to the contract’s formation, including
+any determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Not Applicable.
+(Y) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+Contract award information, Contract and Modification Nos. M01-M04 are available on the
+Department’s website. A copy of the proposed Modification No. M05 (if approved) will be
+made available.
+(Z) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+The original solicitation and any amendments were posted on the Department’s website.
+(AA) A certification that the proposed contractor has been determined not to be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment
+and Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-
+1163.34a; and (2) A certification from the proposed contractor that it currently is not
+and will not be in violation of section 334a of the Board of Ethics and Government
+Accountability Establishment and Comprehensive Ethics Reform Amendment Act of
+________________________________________________________________________
+Department of General Services 3924 Minnesota Avenue NE, Washington DC 20019
+
+Page 10 of 10
+2011, D.C. Official Code § 1-1163.34a:
+Based upon a certification from the Contractor, the Contractor has been determined not to be
+in violation of D.C. Official Code § 1-1163.34a; and will not be in violation of D.C. Official
+Code § 1-1163.34a.
+________________________________________________________________________
+Department of General Services 3924 Minnesota Avenue NE, Washington DC 20019
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: February 4, 2025 Notice Number: L0013175871
+JEROME L. TAYLOR TRUCKING, INC. FEIN: **-***7004
+1421 KENILWORTH AVE NE STE 201 Case ID: 18460161
+WCASHINGTON DC 20019-2731
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+Memorandum
+To: Delano Hunter
+Director
+Henry Wong for AHB
+From: Antoinette Hudson Beckham
+Agency Fiscal Officer
+Reference: Jerome L. Taylor Trucking, Inc.
+Exercise of Option Year One (OY1) –Modification Nos. M02-M04 and Proposed
+Modification No. M05 to Contract Number: DCAM-24-NC-RFP-0003A
+Citywide Waste Collection and Disposal Services (DGS Managed Properties)
+Date: January 2, 2025
+Subject: Fiscal Sufficiency Review
+Modification Nos. M02-M04 and the proposed Modification No. M05 to the Contract for Citywide
+Waste Collection and Disposal Services (DGS Managed Properties) (thereafter, the “Services”)
+with Jerome L. Taylor Trucking, Inc. (the “Contractor”) has a Not-to-Exceed (“NTE) value of
+$4,113,054.36 for Fiscal Year 2025 (a total NTE of $3,713,054.36 for basic services and a
+$400,000 not-to-exceed owner-directed allowance for supplemental services). The Contractor will
+provide the Services covering the period from October 1, 2024 through September 30, 2025.
+As the Agency Fiscal Officer of the Department of General Services (DGS), I hereby acknowledge
+that the District’s FY 2025 Budget has sufficient funds for the proposed contract with Jerome L.
+Taylor Trucking, Inc. in the amount of $4,113,054.36.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+Legal Counsel Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Ben Moskowitz
+Acting Deputy Attorney General
+Legal Counsel Division
+DATE: January 24, 2025
+RE: Legal Sufficiency Review of the “Modification Nos. M02, M03, and M04 and
+Proposed Modification No. M05 to Contract No. DCAM-24-NC-RFP-0003A with
+Jerome L. Taylor Trucking, Inc. Approval and Payment Authorization Emergency
+Act of 2025” and Accompanying Declaration Resolution
+(AE-25-010)
+_____________________________________________________________________________________
+This is to Certify that
+the Office of the Attorney General has reviewed the
+above-referenced legislation and determined that it is legally sufficient. If you have any questions,
+please do not hesitate to call me at (202) 735-7589.
+_________________________________
+Ben Moskowitz
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004 Phone (202) 735-7589 Email:
+benjamin.moskowitz1@dc.gov
+
+1. Contract Number Page of Pages
+MODIFICATION OF CONTRACT
+DCAM-24-NC-RFP-0003A 1 2
+2. Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Contract Caption
+Citywide Waste Collection and Disposal Services (DGS
+M02 1-Oct-2024 TBD Managed Properties)
+6. Issued By:
+Department of General Services Department of General Services
+Contracts and Procurement Division Contracts and Procurement Division
+3924 Minnesota Avenue NE, 5th Floor 3924 Minnesota Avenue NE, 5th Floor
+Washington, DC 20019 Washington, DC 20019
+Attention: Domonique Banks| domonique.banks@dc.gov Attention: Karen Araujo | karen.araujo@dc.gov
+8. Name and Address of Contractor (No. Street, city, country, state and ZIP Code) 9A. Amendment of Solicitation No.
+JEROME L. TAYLOR TRUCKING, INC. 9B. Dated (See Item 11)
+1401 New York Avenue NE
+Washington, DC 20002 10A. Modification of Contract/Order No.
+ATTN: Jerome L. Taylor, President DCAM-24-NC-RFP-0003A
+X
+Tel: (202) 437-5585 | Email: jtaylor@jlttrucking.com 10B. Dated (See Item 13)
+March 4, 2024
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in Item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the
+following methods: (a) By completing Items 8 and 15, and returning 1 copies of the amendment: (b) By acknowledging receipt of this
+amendment on each copy of the offer submitted; or (c) By separate letter or fax which includes a reference to the solicitation and
+amendment number. FAILURE OF YOUR ACKNOWLEDGEMENT TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS
+PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change
+an offer already submitted, such change may be made by letter or fax, provided each letter or telegram makes reference to the
+solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to: (Specify Authority)
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation
+date, etc.) set forth in item 14.
+C. This supplemental agreement is entered into pursuant to authority of:
+D. Other (Specify type of modification and authority) Contract DCAM-24-NC-RFP-0003Aand Title 27 DCMR Section 4727
+X
+E. IMPORTANT: Contractor is not, X is required to sign this document and return 1 copy to the issuing office.
+14. Description of modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+Contract No. DCAM-24-NC-RFP-0003A Citywide Waste Collection and Disposal Services (DGS Managed Properties)
+are hereby modified as follows:
+1.In accordance with Section F.2 Option to Extend the Term of the Contract, the District hereby partially exercises Option Year One (1) for a seven (7)-
+week period starting on October 1, 2024 through November 18, 2024 in accordance with Option Year 1 Price-Cost Schedule (Exhibit A) and Service
+Facility Locations and Schedule (Exhibit B).
+2.CONTRACT RECAP: The Total Firm-Fixed, Fully Loaded Price for Basic Services is $837,087.38. The Annual Supplemental Services Non-Guaranteed
+NTE Owner-Directed Allowance is $100,000. The Total Contract Not-to-Exceed Ceiling for Option Year 1 is $937,087.38.
+3.The US Department of Labor Wage Determination Schedule No. 2015-4282 Rev No. 30 dated July 22, 2024 is hereby incorporated as Exhibit C to
+Modification No. M02. The Contractor agrees and acknowledges that it shall be in compliance with the most current requirements of the US Department
+of Labor Wage Determination Schedule which is applicable on the effective date of the modification. Thus, the Contractor agrees and acknowledges
+that the most current requirements of the US Department of Labor Wage Determination Schedule shall be incorporated into the Contract.
+4.The Contractor agrees and acknowledges that is shall be in compliance with the most current requirements of the District of Columbia Living Wage Act
+of 2006, D.C. Official Code §§ 2-220.01 – 2-220.1, that are applicable on the effective date of the Contract. Thus, the Contractor agrees and
+acknowledges that the most current requirements of the Living Wage Act of 2006 shall be incorporated into the Contract (Exhibit D).
+5.RELEASE: It is mutually agreed that in exchange for this Modification and other consideration, the Contractor hereby releases, waives, settles, and
+holds the Department harmless from any and all actual or potential claims or demands for delays, disruptions, additional work, additional time, additional
+costs, contract extensions, compensation, or liability under any theory, whether known or unknown, that the Contractor may have now or in the future
+against the Department arising from or out of, as a consequences or result of, relating to or in any manner connected with this Modification, the above-
+referenced Services, and the work provided pursuant to the Agreement.
+6.All other Terms and Conditions under Contract No. DCAM-24-NC-RFP-0003A, remain unchanged.
+Except as provided herein, all terms and conditions of the document referenced in Item (9A or 10A) remain unchanged and in full force and effect
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Marc Shaener, Vice President Domonique Banks | Contracting Officer, Supervisory Contract Specialist
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+9/10/2024
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+(Continuation)
+Contract Number Modification No. Page of Pages
+DCAM-24-NC-RFP-0003A M02 1 2
+1. Base Period March 4, 2024 - September 30, 2024
+a. Basic Services (Trash + Recycling) $ 3 ,608,190.00
+b. Annual Supplemental Services Non-Guaranteed NTE Owner-Directed Allowance $ 4 00,000.00
+$ 4 ,008,190.00
+2. Service Schedule Revision & CLINs Increase
+Modification No. 01 a. Basic Services reduced from $3,608,190 by $ (245,176.00)
+TOTAL BASE PERIOD NOT-TO-EXCEED CONTRACT VALUE $ 3 ,763,014.00
+3. Partial Exercise of Option Year 1 October 1, 2024 - November 18, 2024
+Modification No. M02 a. Basic Services (Trash + Recycling) $ 8 37,087.38
+b. Annual Supplemental Services Non-Guaranteed NTE Owner-Directed Allowance $ 1 00,000.00
+$ 9 37,087.38
+TOTAL OPTION YEAR 1 NOT-TO-EXCEED CONTRACT VALUE $ 9 37,087.38
+TOTAL OPTION YEAR 2 NOT-TO-EXCEED CONTRACT VALUE
+TOTAL OPTION YEAR 3 NOT-TO-EXCEED CONTRACT VALUE $ -
+TOTAL OPTION YEAR 4 NOT-TO-EXCEED CONTRACT VALUE $ -
+YEAR-TO-DATE CONTRACT GRAND TOTAL (BASE + OY1 + OY2 + OY3 + OY4) $ 4 ,700,101.38
+
+1. Contract Number Page of Pages
+MODIFICATION OF CONTRACT
+DCAM-24-NC-RFP-0003A 1 2
+2. Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Contract Caption
+Citywide Waste Collection and Disposal Services (DGS
+M03 19-Nov-2024 TBD Managed Properties)
+6. Issued By:
+Department of General Services Department of General Services
+Contracts and Procurement Division Contracts and Procurement Division
+3924 Minnesota Avenue NE, 5th Floor 3924 Minnesota Avenue NE, 5th Floor
+Washington, DC 20019 Washington, DC 20019
+Attention: Domonique Banks| domonique.banks@dc.gov Attention: Karen Araujo | karen.araujo@dc.gov
+8. Name and Address of Contractor (No. Street, city, country, state and ZIP Code) 9A. Amendment of Solicitation No.
+JEROME L. TAYLOR TRUCKING, INC. 9B. Dated (See Item 11)
+1401 New York Avenue NE
+Washington, DC 20002 10A. Modification of Contract/Order No.
+ATTN: Jerome L. Taylor, President DCAM-24-NC-RFP-0003A
+X
+Tel: (202) 437-5585 | Email: jtaylor@jlttrucking.com 10B. Dated (See Item 13)
+March 4, 2024
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in Item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the
+following methods: (a) By completing Items 8 and 15, and returning 1 copies of the amendment: (b) By acknowledging receipt of this
+amendment on each copy of the offer submitted; or (c) By separate letter or fax which includes a reference to the solicitation and
+amendment number. FAILURE OF YOUR ACKNOWLEDGEMENT TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS
+PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change
+an offer already submitted, such change may be made by letter or fax, provided each letter or telegram makes reference to the
+solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to: (Specify Authority)
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation
+date, etc.) set forth in item 14.
+C. This supplemental agreement is entered into pursuant to authority of:
+D. Other (Specify type of modification and authority) Contract DCAM-24-NC-RFP-0003A and Title 27 DCMR Section 4727
+X
+E. IMPORTANT: Contractor is not, X is required to sign this document and return 1 copy to the issuing office.
+14. Description of modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+Contract No. DCAM-24-NC-RFP-0003A Citywide Waste Collection and Disposal Services (DGS Managed Properties)
+are hereby modified as follows:
+1. In accordance with Section F.2 Option to Extend the Term of the Contract, the District hereby exercises an additional portion of Option Year One (1) for a
+fourteen (14)-week period, extending the period through February 24, 2025 at no additional cost ($0.00).
+2. CONTRACT RECAP: The Total Firm-Fixed, Fully Loaded Price for Basic Services is $837,087.38. The Annual Supplemental Services Non-Guaranteed
+NTE Owner-Directed Allowance is $100,000. The Total Contract Not-to-Exceed Ceiling for Option Year 1 is $937,087.38.
+3. RELEASE: It is mutually agreed that in exchange for this Modification and other consideration, the Contractor hereby releases, waives, settles, and holds
+the Department harmless from any and all actual or potential claims or demands for delays, disruptions, additional work, additional time, additional costs,
+contract extensions, compensation, or liability under any theory, whether known or unknown, that the Contractor may have now or in the future against the
+Department arising from or out of, as a consequences or result of, relating to or in any manner connected with this Modification, the above-referenced
+Services, and the work provided pursuant to the Agreement.
+4. All other Terms and Conditions under Contract No. DCAM-24-NC-RFP-0003A, remain unchanged.
+Except as provided herein, all terms and conditions of the document referenced in Item (9A or 10A) remain unchanged and in full force and effect
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Marc Shaener, Vice President Domonique Banks | Contracting Officer, Supervisory Contract Specialist
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+11/18/2024 11/18/2024
+Domonique L. Banks
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+(Continuation)
+Contract Number Modification No. Page of Pages
+DCAM-24-NC-RFP-0003A M03 1 2
+1. Base Period March 4, 2024 - September 30, 2024
+a. Basic Services (Trash + Recycling) $ 3 ,608,190.00
+b. Annual Supplemental Services Non-Guaranteed NTE Owner-Directed Allowance $ 4 00,000.00
+$ 4 ,008,190.00
+2. Service Schedule Revision & CLINs Increase
+Modification No. 01 a. Basic Services reduced from $3,608,190 by $ (245,176.00)
+TOTAL BASE PERIOD NOT-TO-EXCEED CONTRACT VALUE $ 3 ,763,014.00
+3. Partial Exercise of Option Year 1 October 1, 2024 - November 18, 2024
+Modification No. M02 a. Basic Services (Trash + Recycling) $ 8 37,087.38
+b. Annual Supplemental Services Non-Guaranteed NTE Owner-Directed Allowance $ 1 00,000.00
+$ 9 37,087.38
+4. Partial Exercise of Option Year 1 November 19, 2024 - February 24, 2025
+Modification No. M03 a. $0.00 Extension of Services through February 24, 2025 $ -
+$ -
+TOTAL OPTION YEAR 1 NOT-TO-EXCEED CONTRACT VALUE $ 9 37,087.38
+TOTAL OPTION YEAR 2 NOT-TO-EXCEED CONTRACT VALUE $ -
+TOTAL OPTION YEAR 3 NOT-TO-EXCEED CONTRACT VALUE $ -
+TOTAL OPTION YEAR 4 NOT-TO-EXCEED CONTRACT VALUE $ -
+YEAR-TO-DATE CONTRACT GRAND TOTAL (BASE + OY1 + OY2 + OY3 + OY4) $ 4 ,700,101.38
+
+1. Contract Number Page of Pages
+MODIFICATION OF CONTRACT
+DCAM-24-NC-RFP-0003A 1 2
+2. Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Contract Caption
+Citywide Waste Collection and Disposal Services (DGS
+M04 See Block 16C PO718144 Managed Properties)
+6. Issued By:
+Department of General Services Department of General Services
+Contracts and Procurement Division Contracts and Procurement Division
+3924 Minnesota Avenue NE, 5th Floor 3924 Minnesota Avenue NE, 5th Floor
+Washington, DC 20019 Washington, DC 20019
+Attention: Domonique Banks| domonique.banks@dc.gov Attention: Karen Araujo | karen.araujo@dc.gov
+8. Name and Address of Contractor (No. Street, city, country, state and ZIP Code) 9A. Amendment of Solicitation No.
+JEROME L. TAYLOR TRUCKING, INC. 9B. Dated (See Item 11)
+1401 New York Avenue NE
+Washington, DC 20002 10A. Modification of Contract/Order No.
+ATTN: Jerome L. Taylor, President DCAM-24-NC-RFP-0003A
+X
+Tel: (202) 437-5585 | Email: jtaylor@jlttrucking.com 10B. Dated (See Item 13)
+March 4, 2024
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in Item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the
+following methods: (a) By completing Items 8 and 15, and returning 1 copies of the amendment: (b) By acknowledging receipt of this
+amendment on each copy of the offer submitted; or (c) By separate letter or fax which includes a reference to the solicitation and
+amendment number. FAILURE OF YOUR ACKNOWLEDGEMENT TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS
+PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change
+an offer already submitted, such change may be made by letter or fax, provided each letter or telegram makes reference to the
+solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to: (Specify Authority)
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation
+date, etc.) set forth in item 14.
+C. This supplemental agreement is entered into pursuant to authority of:
+D. Other (Specify type of modification and authority) Contract DCAM-24-NC-RFP-0003A and Title 27 DCMR Section 4727
+X
+E. IMPORTANT: Contractor is not, X is required to sign this document and return 1 copy to the issuing office.
+14.Description of modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+Contract No. DCAM-24-NC-RFP-0003A Citywide Waste Collection and Disposal Services (DGS Managed Properties)
+are hereby modified as follows:
+1. In accordance with Section F.2 Option to Extend the Term of the Contract, the District hereby exercises an additional portion of Option Year One (1) for a
+seven (7)-week period, extending the period through April 14, 2025 at no additional cost ($0.00).
+2. CONTRACT RECAP: The Total Firm-Fixed, Fully Loaded Price for Basic Services is $837,087.38. The Annual Supplemental Services Non-Guaranteed
+NTE Owner-Directed Allowance is $100,000. The Total Contract Not-to-Exceed Ceiling for Option Year 1 is $937,087.38.
+3. RELEASE: It is mutually agreed that in exchange for this Modification and other consideration, the Contractor hereby releases, waives, settles, and holds
+the Department harmless from any and all actual or potential claims or demands for delays, disruptions, additional work, additional time, additional costs,
+contract extensions, compensation, or liability under any theory, whether known or unknown, that the Contractor may have now or in the future against the
+Department arising from or out of, as a consequences or result of, relating to or in any manner connected with this Modification, the above-referenced
+Services, and the work provided pursuant to the Agreement.
+4. All other Terms and Conditions under Contract No. DCAM-24-NC-RFP-0003A, remain unchanged.
+Except as provided herein, all terms and conditions of the document referenced in Item (9A or 10A) remain unchanged and in full force and effect
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Marc Shaener, Vice President Domonique Banks | Contracting Officer, Supervisory Contract Specialist
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+01/13/2025
+Domonique L. Banks
+01/13/2024
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+(Continuation)
+Contract Number Modification No. Page of Pages
+DCAM-24-NC-RFP-0003A M04 1 2
+1. Base Period March 4, 2024 - September 30, 2024
+a. Basic Services (Trash + Recycling) $ 3 ,608,190.00
+b. Annual Supplemental Services Non-Guaranteed NTE Owner-Directed Allowance $ 4 00,000.00
+$ 4 ,008,190.00
+2. Service Schedule Revision & CLINs Increase
+Modification No. 01 a. Basic Services reduced from $3,608,190 by $ (245,176.00)
+TOTAL BASE PERIOD NOT-TO-EXCEED CONTRACT VALUE $ 3 ,763,014.00
+3. Partial Exercise of Option Year 1 October 1, 2024 - November 18, 2024
+Modification No. M02 a. Basic Services (Trash + Recycling) $ 8 37,087.38
+b. Annual Supplemental Services Non-Guaranteed NTE Owner-Directed Allowance $ 1 00,000.00
+$ 9 37,087.38
+4. Partial Exercise of Option Year 1 November 19, 2024 - February 24, 2025
+Modification No. M03 a. $0.00 Extension of Services through February 24, 2025 $ -
+$ -
+5. Partial Exercise of Option Year 1 February 25, 2025 - April 14, 2025
+Modification No. M04 a. $0.00 Extension of Services through April 14, 2025 $ -
+$ -
+TOTAL OPTION YEAR 1 NOT-TO-EXCEED CONTRACT VALUE $ 9 37,087.38
+TOTAL OPTION YEAR 2 NOT-TO-EXCEED CONTRACT VALUE $ -
+TOTAL OPTION YEAR 3 NOT-TO-EXCEED CONTRACT VALUE $ -
+YEAR-TO-DATE CONTRACT GRAND TOTAL (BASE + OY1 + OY2 + OY3 + OY4) $ 4 ,700,101.38
+
+1. Contract Number Page of Pages
+MODIFICATION OF CONTRACT
+DCAM-24-NC-RFP-0003A 1 2
+2. Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Contract Caption
+Citywide Waste Collection and Disposal Services (DGS
+M05 15-Apr-2025 PO718144 Managed Properties)
+6. Issued By:
+Department of General Services Department of General Services
+Contracts and Procurement Division Contracts and Procurement Division
+3924 Minnesota Avenue NE, 5th Floor 3924 Minnesota Avenue NE, 5th Floor
+Washington, DC 20019 Washington, DC 20019
+Attention: Domonique Banks| domonique.banks@dc.gov Attention: Karen Araujo | karen.araujo@dc.gov
+8. Name and Address of Contractor (No. Street, city, country, state and ZIP Code) 9A. Amendment of Solicitation No.
+JEROME L. TAYLOR TRUCKING, INC. 9B. Dated (See Item 11)
+1401 New York Avenue NE
+Washington, DC 20002 10A. Modification of Contract/Order No.
+ATTN: Jerome L. Taylor, President DCAM-24-NC-RFP-0003A
+X
+Tel: (202) 437-5585 | Email: jtaylor@jlttrucking.com 10B. Dated (See Item 13)
+March 4, 2024
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in Item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the
+following methods: (a) By completing Items 8 and 15, and returning 1 copies of the amendment: (b) By acknowledging receipt of this
+amendment on each copy of the offer submitted; or (c) By separate letter or fax which includes a reference to the solicitation and
+amendment number. FAILURE OF YOUR ACKNOWLEDGEMENT TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS
+PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change
+an offer already submitted, such change may be made by letter or fax, provided each letter or telegram makes reference to the
+solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to: (Specify Authority)
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation
+date, etc.) set forth in item 14.
+C. This supplemental agreement is entered into pursuant to authority of:
+D. Other (Specify type of modification and authority) Contract DCAM-24-NC-RFP-0003Aand Title 27 DCMR Section 4727
+X
+E. IMPORTANT: Contractor is not, X is required to sign this document and return 1 copy to the issuing office.
+14.Description of modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+Contract No. DCAM-24-NC-RFP-0003A Citywide Waste Collection and Disposal Services (DGS Managed Properties)
+are hereby modified as follows:
+1. The District hereby fully exercises the remaining portion of Option Year One (1) extending the period through September 30, 2025 in accordance with
+Option Year 1 Price-Cost Schedule (Exhibit A) and Service Facility Locations and Schedule (Exhibit B).
+2. The Total Firm-Fixed, Fully Loaded Price for Basic Services is increased from $837,087.38 by $2,875,966.98 to $3,713,054.36. The Annual Supplemental
+Services Non-Guaranteed NTE Owner-Directed Allowance is increased from $100,000 by $300,000 to $400,000.
+3. CONTRACT RECAP: The Total Firm-Fixed, Fully Loaded Price for Basic Services is $3,713,054.36. The Annual Supplemental Services Non-Guaranteed
+NTE Owner-Directed Allowance is $400,000. The Total Contract Not-to-Exceed Ceiling for Option Year 1 is $4,113,054.36.
+4. RELEASE: It is mutually agreed that in exchange for this Modification and other consideration, the Contractor hereby releases, waives, settles, and holds
+the Department harmless from any and all actual or potential claims or demands for delays, disruptions, additional work, additional time, additional costs,
+contract extensions, compensation, or liability under any theory, whether known or unknown, that the Contractor may have now or in the future against the
+Department arising from or out of, as a consequences or result of, relating to or in any manner connected with this Modification, the above-referenced
+Services, and the work provided pursuant to the Agreement.
+5. All other Terms and Conditions under Contract No. DCAM-24-NC-RFP-0003A, remain unchanged.
+Except as provided herein, all terms and conditions of the document referenced in Item (9A or 10A) remain unchanged and in full force and effect
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Marc Shaener, Vice President Domonique Banks | Contracting Officer, Supervisory Contract Specialist
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+02/21/2025
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+(Continuation)
+Contract Number Modification No. Page of Pages
+DCAM-24-NC-RFP-0003A M05 1 2
+1. Base Period March 4, 2024 - September 30, 2024
+a. Basic Services (Trash + Recycling) $ 3 ,608,190.00
+b. Annual Supplemental Services Non-Guaranteed NTE Owner-Directed Allowance $ 4 00,000.00
+$ 4 ,008,190.00
+2. Service Schedule Revision & CLINs Increase
+Modification No. 01 a. Basic Services reduced from $3,608,190 by $ (245,176.00)
+TOTAL BASE PERIOD NOT-TO-EXCEED CONTRACT VALUE $ 3 ,763,014.00
+3. Partial Exercise of Option Year 1 October 1, 2024 - November 18, 2024
+Modification No. M02 a. Basic Services (Trash + Recycling) $ 8 37,087.38
+b. Annual Supplemental Services Non-Guaranteed NTE Owner-Directed Allowance $ 1 00,000.00
+$ 9 37,087.38
+4. Partial Exercise of Option Year 1 November 19, 2024 - February 24, 2025
+Modification No. M03 a. $0.00 Extension of Services through February 24, 2025 $ -
+$ -
+5. Partial Exercise of Option Year 1 February 25, 2025 - April 14, 2025
+Modification No. M04 a. $0.00 Extension of Services through April 14, 2025 $ -
+$ -
+6. Fully Exercise of Option Year 1 April 15, 2025 - September 30, 2025
+Modification No. M05 a. Basic Services (Trash + Recycling) $ 2 ,875,966.98
+b. Annual Supplemental Services Non-Guaranteed NTE Owner-Directed Allowance $ 3 00,000.00
+$ 3 ,175,966.98
+TOTAL OPTION YEAR 1 NOT-TO-EXCEED CONTRACT VALUE $ 4 ,113,054.36
+TOTAL OPTION YEAR 2 NOT-TO-EXCEED CONTRACT VALUE $ -
+TOTAL OPTION YEAR 3 NOT-TO-EXCEED CONTRACT VALUE $ -
+YEAR-TO-DATE CONTRACT GRAND TOTAL (BASE + OY1 + OY2 + OY3 + OY4) $ 7 ,876,068.36
+
+EXHIBIT A
+
+Request for Proposals ("RFP")
+DCAM-24-NC-RFP-0003A
+Citywide Waste Collection and Disposal Services
+Jerome L. Taylor Trucking, Inc.
+EXHIBIT E.4 - PRICE-COST SCHEDULE OFFEROR
+OPTION YEAR 1
+TRASH
+TOTAL
+QTY OF ESTIMATED NO. ESTIMATED
+CLIN DESCRIPTION - CONTAINER SIZE CONTAINERS PULLS FIRM-FIXED UNIT RATE EXTENDED PRICE
+1001 10 YD roll off* 2 14 $ 303.85 $ 4,253.90
+1002 15 YD compactor * 17 720 $ 303.85 $ 2 18,772.00
+1003 2 YD VIP 2 144 $ 55.62 $ 8,009.28
+1004 2 YD 16 1,302 $ 36.05 $ 4 6,937.10
+1005 3 YD (Oct 1 - Nov 18, 2024) 2 42 $ 38.11 $ 1,600.62
+1005 3 YD 4 432 $ 38.11 $ 1 6,463.52
+1006 30 YD compactor* 3 155 $ 303.85 $ 4 7,096.75
+1007 30 YD roll off* 14 558 $ 303.85 $ 1 69,548.30
+1008 4 YD (Oct 1 - Nov 18, 2024) 53 1,001 $ 40.17 $ 4 0,210.17
+1008 4 YD 55 3,480 $ 40.17 $ 1 39,791.60
+1009 4 YD VIP (front load) 4 372 $ 76.22 $ 2 8,353.84
+1010 4 YD VIP (rear load) 16 2,573 $ 86.52 $ 2 22,615.96
+1011 6 YD (Oct 1 - Nov 18, 2024) 49 847 $ 51.50 $ 4 3,620.50
+1011 6 YD 48 2,856 $ 51.50 $ 1 47,084.00
+1012 8 YD 198 17,880 $ 63.86 $ 1 ,141,816.80
+1012A 8 YD SPECIAL (For Scotland, MD) 2 124 $ 80.85 $ 1 0,025.40
+1013 8 YD VIP 2 186 $ 132.87 $ 2 4,713.82
+1014 96 GA (Oct 1 - Nov 18, 2024) 57 1,260 $ 10.30 $ 1 2,978.00
+1014 96 GA 61 4,032 $ 10.30 $ 4 1,529.60
+TOTAL 605 37,978 $ 2,365,421.16
+*For trailer services (roll-off and compactors), the firm-fixed unit rate excludes the disposal costs. Contractor shall be required to submit the original
+scale tickets to the COTR/District for reimbursement against the Owner-Directed Allowance. In no event shall the Contractor be reimbursed without
+proof of the original scale ticket. Scale tickets must be clear and legible (Section C.5.7.2).
+RECYCLING
+TOTAL
+QTY OF ESTIMATED NO. ESTIMATED
+CLIN DESCRIPTION - CONTAINER SIZE CONTAINERS PULLS FIRM-FIXED UNIT RATE EXTENDED PRICE
+1015 15 YD compactor* 15 457 $ 303.85 $ 1 38,859.45
+1016 2 YD VIP 0 0 $ - $ -
+1017 2 YD (Oct 1 - Nov 18, 2024) 21 378 $ 36.05 $ 1 3,626.90
+1017 2 YD 22 1,344 $ 36.05 $ 4 8,451.20
+1018 3 YD 1 31 $ 38.11 $ 1,181.41
+1019 30 YD compactor* 3 93 $ 303.85 $ 2 8,258.05
+1020 30 YD roll off* 3 93 $ 303.85 $ 2 8,258.05
+1021 35 GA (Oct 1 - Nov 18, 2024) 161 1,848 $ 15.45 $ 2 8,551.60
+1021 35 GA 165 6,840 $ 15.45 $ 1 05,678.00
+1022 4 YD 31 1,588 $ 40.17 $ 6 3,789.96
+1023 4 YD VIP (front load) 3 186 $ 76.22 $ 1 4,176.92
+1024 4 YD VIP (rear load) 5 496 $ 86.52 $ 4 2,913.92
+1025 6 YD (Oct 1 - Nov 18, 2024) 47 658 $ 51.50 $ 3 3,887.00
+1025 6 YD 46 2,208 $ 51.50 $ 1 13,712.00
+1026 8 YD 146 9,348 $ 62.83 $ 5 87,334.84
+1026A 8 YD SPECIAL (For Scotland, MD) NEW 1 31 $ 79.80 $ 2,473.80
+1027 96 GA (Oct 1 - Nov 18, 2024) 138 2,191 $ 10.30 $ 2 2,567.30
+1027 96 GA 145 7,176 $ 10.30 $ 7 3,912.80
+TOTAL 953 34,966 $ 1,347,633.20
+*For trailer services (roll-off and compactors), the firm-fixed unit rate excludes the disposal costs. Contractor shall be required to submit the original
+scale tickets to the COTR/District for reimbursement against the Owner-Directed Allowance. In no event shall the Contractor be reimbursed without
+proof of the original scale ticket. Scale tickets must be clear and legible (Section C.5.7.2).
+TOTAL COST BASIC SERVICES (TRASH + RECYCLING) $ 3,713,054.36
+
+SUPPLEMENTAL SERVICES - TIME & MATERIALS
+FIRM-FIXED HOURLY ESTIMATED
+CLIN DESCRIPTION - LABOR CATEGORIES UNIT EST. QTY LABOR RATE EXTENDED PRICE
+1028 Machinery Maintenance Mechanic (23530) HRLY 1 $ 257.50 $ 257.50
+1029 Machinist, Maintenance (23550) HRLY 1 $ 206.00 $ 206.00
+1030 Maintenance Trades Helper (23580) HRLY 1 $ 180.25 $ 180.25
+1031 Painter, Maintenance (23760) HRLY 1 $ 180.25 $ 180.25
+1032 Sheet - Metal Worker, Maintenance (23890) HRLY 1 $ 180.25 $ 180.25
+1033 Welder, Combination, Maintenance (23960) HRLY 1 $ 180.25 $ 180.25
+TOTAL $ 1,184.50
+SUPPLEMENTAL SERVICES - FLAT RATE
+ESTIMATED ESTIMATED
+CLIN DESCRIPTION UNIT QUANTITY FIRM-FIXED FLAT RATE EXTENDED PRICE
+1034 Container Relocation (DC Locations) FLAT RATE 1 $ 231.75 $ 231.75
+1035 Container Relocation (MD Locations) FLAT RATE 1 $ 283.25 $ 283.25
+1036 Container Replacement Fee 96 GA FLAT RATE 1 $ 257.50 $ 257.50
+1037 Container Replacement Fee 2 YD FLAT RATE 1 $ 1,287.50 $ 1,287.50
+1038 Container Replacement Fee 3 YD FLAT RATE 1 $ 1,287.50 $ 1,287.50
+1039 Container Replacement Fee 4 YD FLAT RATE 1 $ 1,287.50 $ 1,287.50
+1040 Container Replacement Fee 6 YD FLAT RATE 1 $ 1,287.50 $ 1,287.50
+1041 Container Replacement Fee 8 YD FLAT RATE 1 $ 1,287.50 $ 1,287.50
+TOTAL $ 7,210.00
+SUPPLEMENTAL SERVICES - CONTAINER SIZE
+TOTAL EST. NO. ESTIMATED
+CLIN DESCRIPTION OF ITEMS EST. QTY OF PULLS FIRM-FIXED UNIT RATE EXTENDED PRICE
+1042 Trash Container 35 GA 1 1 $ 56.65 $ 56.65
+1043 Recycling Container 10 YD 1 1 $ 358.44 $ 358.44
+TOTAL $ 415.09
+SUPPLEMENTAL SERVICES NON-GUARANTEED NTE OWNER-DIRECTED ALLOWANCE $ 400,000.00
+GRAND TOTAL $ 4 ,113,054.36
+
+EXHIBIT B
+
+SIZE OF NUMBER # TOTAL
+Service CONTAINERS NO. OF WEEKLY WEEKLY EST.NO. OF PULLS (24- FIRM FIXED PRICE EXTENDED NTE
+Agency SERVICE ACTIVITY LOCATIONS Status Specialty Needs ADDRESS City Quadrant Zip code WARD (CU. YDS.) CONTAINERS SCHEDULE PULLS WEEKS*) RATE PRICE BODY STYLE Unit Ownership NOTES
+DACL TRASH ROUTINE Andrus House Adult Group Home Active 2635 18TH STREET NE WDC NE 20018 5 96 GA 2 M/W/F 3 144 $ 1 0.30 $ 1 ,483.20 Rear End Loading VENDOR
+DACL RECYCLING ROUTINE Andrus House Adult Group Home Active 2635 18TH STREET NE WDC NE 20018 5 96 GA 1 T 1 24 $ 1 0.30 $ 2 47.20 Rear End Loading VENDOR
+DACL TRASH ROUTINE DCOA House of Togetherness Adult Group Home Active 1835 EVARTS STREET NE WDC NE 20018 5 96 GA 2 M/W/F 3 144 $ 1 0.30 $ 1 ,483.20 Rear End Loading VENDOR
+DACL RECYCLING ROUTINE DCOA House of Togetherness Adult Group Home Active 1835 EVARTS STREET NE WDC NE 20018 5 96 GA 1 M/TH 2 48 $ 1 0.30 $ 4 94.40 Rear End Loading VENDOR
+DACL TRASH ROUTINE Department of Aging and Community Living (DACL) Headquarters Active 500 K STREET NE WDC NE 20002 6 6 YD 1 T/TH/S 3 72 $ 5 1.50 $ 3 ,708.00 Front End Loading DISTRICT-OWNED
+DACL RECYCLING ROUTINE Department of Aging and Community Living (DACL) Headquarters Active 500 K STREET NE WDC NE 20002 6 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DACL TRASH ROUTINE Pleasant Hill Adult Group Home Active 2501 18TH STREET NE WDC NE 20018 5 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Rear End Loading VENDOR
+DACL RECYCLING ROUTINE Pleasant Hill Adult Group Home Active 2501 18TH STREET NE WDC NE 20018 5 96 GA 4 M/TH 2 192 $ 10.30 $ 1 ,977.60 Rear End Loading VENDOR
+DACL TRASH ROUTINE WARD 1 - Bernice Fonteneau Senior Center Wellness Center Active 3531 GEORGIA AVENUE NW WDC NW 20010 1 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Rear End Loading VENDOR
+DACL RECYCLING ROUTINE WARD 1 - Bernice Fonteneau Senior Wellnes Center Active 3531 GEORGIA AVENUE NW WDC NW 20010 1 2 YD 1 M/TH 2 48 $ 36.05 $ 1 ,730.40 Rear End Loading VENDOR
+DACL TRASH ROUTINE WARD 4 - Hattie Holmes - Senior Center Wellness Center Active 324 KENNEDY STREET NW WDC NW 20011 4 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Front End Loading DISTRICT-OWNED
+DACL RECYCLING ROUTINE WARD 4 - Hattie Holmes - Senior Center Wellness Center Active 324 KENNEDY STREET NW WDC NW 20011 4 2 YD 1 T/F 2 48 $ 36.05 $ 1 ,730.40 Rear End Loading VENDOR
+DACL TRASH ROUTINE WARD 5 - Model Cities Senior Center Wellness Center Active 1901 EVARTS STREET NE WDC NE 20018 5 6 YD 1 T/TH/S 3 72 $ 51.50 $ 3 ,708.00 Front End Loading VENDOR
+DACL RECYCLING ROUTINE WARD 5 - Model Cities Senior Center Wellness Center Active 1901 EVARTS STREET NE WDC NE 20018 5 96 GA 2 T/TH 3 144 $ 10.30 $ 1 ,483.20 Rear End Loading VENDOR
+DACL TRASH ROUTINE WARD 6 - Hayes Senior Center Wellness Center Active 500 K STREET NE WDC NE 20002 6 96 GA 2 T/TH/S 3 144 $ 10.30 $ 1 ,483.20 Rear End Loading VENDOR
+DACL RECYCLING ROUTINE WARD 6 - Hayes Senior Center Wellness Center Active 500 K STREET NE WDC NE 20002 6 2 YD 1 T/F 2 48 $ 36.05 $ 1 ,730.40 Front End Loading VENDOR
+DACL TRASH ROUTINE WARD 7 - Washington Seniors Center Wellness Center Active 3001 ALABAMA AVENUE SE WDC SE 20020 7 8 YD 1 W/F 2 48 $ 63.86 $ 3 ,065.28 Front End Loading DISTRICT-OWNED
+DACL RECYCLING ROUTINE WARD 7 - Washington Seniors Center Wellness Center Active 3001 ALABAMA AVENUE SE WDC SE 20020 7 8 YD 1 W/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DACL TRASH ROUTINE WARD 8 - Congress Height Senior Center Wellness Center Active 3500 MARTIN LUTHER KING JR AVENUE SE WDC SE 20032 8 8 YD 1 W/F 2 48 $ 63.86 $ 3 ,065.28 Front End Loading DISTRICT-OWNED
+DACL RECYCLING ROUTINE WARD 8 - Congress Height Senior Center Wellness Center Active 3500 MARTIN LUTHER KING JR AVENUE SE WDC SE 20032 8 6 YD 1 W/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DCNG TRASH ROUTINE Capital Guardian Youth Challenge Academy -DC National Guard Academy - Laurel MD Active 3201 Oak Hill Dr, Laurel, MD Laurel, MD N/A 20724 N/A 8 YD 6 M/W/F 3 432 $ 63.86 $ 2 7,587.52 Front End Loading VENDOR
+DCNG RECYCLING ROUTINE Capital Guardian Youth Challenge Academy -DC National Guard Academy - Laurel MD Active 3201 Oak Hill Drive Laurel MD Laurel, MD N/A 20724 N/A 8 YD 2 T/F 2 96 $ 62.83 $ 6 ,031.68 Front End Loading VENDOR
+DCPS TRASH ROUTINE Adams Place - DCPS Active summ se e a r s r o e n a a d l iness/ 2000 ADAMS PLACE NE WDC NE 20018 5 30 YD roll off 2 Seasonal 1 48 $ 303.85 $ 1 4,584.80 Trailer service VENDOR Disposal Cost Allowance
+DCPS TRASH ROUTINE Adams Place - DCPS Active 2000 ADAMS PLACE NE WDC NE 20018 5 30 YD roll off 1 M 1 24 $ 303.85 $ 7 ,292.40 Trailer service VENDOR Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Adams Place - DCPS (CARDBOARD ONLY) Active readin s e u s m s/ m se e a r sonal 2000 ADAMS PLACE NE WDC NE 20018 5 30 YD roll off 2 Seasonal 1 48 $ 303.85 $ 1 4,584.80 Trailer service VENDOR Disposal Cost Allowance
+DCPS TRASH ROUTINE Amidon-Bowen Elementary School Active 401 I STREET SW WDC SW 20024 6 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Amidon-Bowen Elementary School Active 401 I STREET SW WDC SW 20024 6 8 YD 1 T/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Anacostia High School Active 1601 16TH STREET SE WDC SE 20020 8 8 YD 2 M/W/F 3 144 $ 63.86 $ 9 ,195.84 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Anacostia High School Active 1601 16TH STREET SE WDC SE 20020 8 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Ballou High School Active 3401 4TH STREET SE WDC SE 20032 8 15 YD compactor 1 TH 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Ballou High School Active 3401 4TH STREET SE WDC SE 20032 8 15 YD compactor 1 TH 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS TRASH ROUTINE Bancroft Elementary School Active 1755 NEWTON STREET NW WDC NW 20010 1 4 YD VIP (rear load) 2 M/T/W/TH/F 5 240 $ 86.52 $ 2 0,764.80 Rear End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Bancroft Elementary School Active 1755 NEWTON STREET NW WDC NW 20010 1 4 YD VIP (rear load) 1 M/TH 2 48 $ 86.52 $ 4 ,152.96 Rear End Loading DISTRICT-OWNED
+DCPS TRASH ROUTINE Bard High School/Early College DC Active 1351 ALABAMA AVENUE SE WDC SE 20032 8 15 YD compactor 1 F 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Bard High School/Early College DC Active 1351 ALABAMA AVENUE SE WDC SE 20032 8 15 YD compactor 1 F 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS TRASH ROUTINE Barnard Elementary School Active 430 DECATUR STREET NW WDC NW 20011 4 8 YD 2 M/W/F 3 144 $ 63.86 $ 9 ,195.84 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Barnard Elementary School Active 430 DECATUR STREET NW WDC NW 20011 4 8 YD 2 M/TH 2 96 $ 62.83 $ 6 ,031.68 Front End Loading VENDOR
+DCPS TRASH ROUTINE Beers Elementary School Active 3600 ALABAMA AVENUE SE WDC SE 20020 7 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Beers Elementary School Active 3600 ALABAMA AVENUE SE WDC SE 20020 7 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Benjamin Banneker High School Active 1600 9TH STREET NW WDC NW 20001 2 15 YD compactor 1 F 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Benjamin Banneker High School Active 1600 9TH STREET NW WDC NW 20001 2 15 YD compactor 1 F 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Benjamin Banneker High School (Add as of Nov. 19, 2024) Active Litter can services 1600 9TH STREET NW WDC NW 20001 2 35 GA 2 M/TH/F 3 144 $ 15.45 $ 2 ,224.80 Trailer service DISTRICT-OWNED Effective November 19, 2024
+DCPS TRASH ROUTINE Brent Elementary School Active 301 NORTH CAROLINA AVENUE SE WDC SE 20003 6 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Brent Elementary School Active 301 NORTH CAROLINA AVENUE SE WDC SE 20003 6 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Brightwood Elementary School Active 1300 NICHOLSON STREET NW WDC NW 20011 4 8 YD 2 M/W/F 3 144 $ 63.86 $ 9 ,195.84 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Brightwood Elementary School Active 1300 NICHOLSON STREET NW WDC NW 20011 4 8 YD 2 M/W/F 3 144 $ 62.83 $ 9 ,047.52 Front End Loading VENDOR
+DCPS TRASH ROUTINE Brookland Middle School Active 1150 MICHIGAN AVENUE NE WDC NE 20017 5 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Brookland Middle School Active 1150 MICHIGAN AVENUE NE WDC NE 20017 5 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Browne Education Campus Active 850 26TH STREET NE WDC NE 20002 5 8 YD 1 M/T/W/TH/F 5 120 $ 63.86 $ 7 ,663.20 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Browne Education Campus Active 850 26TH STREET NE WDC NE 20002 5 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Bruce-Monroe Elementary School @ Park View Active 3560 WARDER STREET NW WDC NW 20010 1 4 YD VIP (rear load) 1 M/T/W/TH/F 5 120 $ 86.52 $ 1 0,382.40 Rear End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Bruce-Monroe Elementary School @ Park View Active 3560 WARDER STREET NW WDC NW 20010 1 4 YD VIP (rear load) 1 M/T/W/TH/F 5 120 $ 86.52 $ 1 0,382.40 Rear End Loading DISTRICT-OWNED
+DCPS TRASH ROUTINE Bunker Hill Elementary School Active 1401 MICHIGAN AVENUE NE WDC NE 20017 5 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Bunker Hill Elementary School Active 1401 MICHIGAN AVENUE NE WDC NE 20017 5 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Burroughs Elementary School Active 1820 MONROE STREET NE WDC NE 20018 5 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED Effective November 19, 2024, change collection to M/W/F
+DCPS RECYCLING ROUTINE Burroughs Elementary School Active 1820 MONROE STREET NE WDC NE 20018 5 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Burrville Elementary School Active 801 DIVISION AVENUE NE WDC NE 20019 7 8 YD 1 M/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Burrville Elementary School Active 801 DIVISION AVENUE NE WDC NE 20019 7 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE C.W. Harris Elementary School Active 301 53RD STREET SE WDC SE 20019 7 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+
+DCPS RECYCLING ROUTINE C.W. Harris Elementary School Active 301 53RD STREET SE WDC SE 20019 7 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Capitol Hill Montessori @ Logan Active 215 G STREET NE WDC NE 20002 6 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Capitol Hill Montessori @ Logan Active 215 G STREET NE WDC NE 20002 6 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Cardozo High School Active 1200 CLIFTON STREET NW WDC NW 20009 1 15 YD compactor 1 M/TH 2 48 $ 303.85 $ 1 4,584.80 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Cardozo High School Active 1200 CLIFTON STREET NW WDC NW 20009 1 15 YD compactor 1 M 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS TRASH ROUTINE Cleveland Elementary School Active 1825 8TH STREET NW WDC NW 20001 1 96 GA 6 M/W/F 3 432 $ 10.30 $ 4 ,449.60 Rear End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Cleveland Elementary School Active 1825 8TH STREET NW WDC NW 20001 1 96 GA 4 M/T/W/TH/F 2 192 $ 10.30 $ 1 ,977.60 Front End Loading VENDOR construction next door
+DCPS TRASH ROUTINE Columbia Heights Education Campus Active 3101 16TH STREET NW WDC NW 20010 1 8 YD 2 M/T/W/TH/F 5 240 $ 63.86 $ 1 5,326.40 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Columbia Heights Education Campus Active 3101 16TH STREET NW WDC NW 20010 1 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Coolidge High School & Ida B. Wells Middle School Active 6315 5TH STREET NW WDC NW 20011 4 15 YD compactor 1 M/TH 2 48 $ 303.85 $ 1 4,584.80 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Coolidge High School & Ida B. Wells Middle School Active 6315 5TH STREET NW WDC NW 20011 4 15 YD compactor 1 M 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS TRASH ROUTINE Davis Elementary School Active 4430 H STREET SE WDC SE 20019 7 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Davis Elementary School Active 4430 H STREET SE WDC SE 20019 7 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE DCPS Security Office Active 3525 V STREET NE WDC NE 20018 5 6 YD 1 T/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE DCPS Security Office Active 3525 V STREET NE WDC NE 20018 5 6 YD 1 T/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DCPS TRASH ROUTINE Deal Middle School Active 3815 FORT DRIVE NW WDC NW 20016 3 8 YD 2 M/W/F 3 144 $ 63.86 $ 9 ,195.84 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Deal Middle School Active 3815 FORT DRIVE NW WDC NW 20016 3 8 YD 2 M/TH 2 96 $ 62.83 $ 6 ,031.68 Front End Loading VENDOR
+DCPS TRASH ROUTINE Dorothy I. Height Elementary School Active 1300 ALLISON STREET NW WDC NW 20011 4 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Dorothy I. Height Elementary School Active 1300 ALLISON STREET NW WDC NW 20011 4 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Drew Elementary School Active 5600 EADS STREET NE WDC NE 20019 7 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Drew Elementary School Active 5600 EADS STREET NE WDC NE 20019 7 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Duke Ellington High School Active 3500 R STREET NW WDC NW 20007 2 30 YD compactor 1 W 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Duke Ellington High School Active 3500 R STREET NW WDC NW 20007 2 30 YD compactor 1 W 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS TRASH ROUTINE Dunbar High School Active 101 N STREET NW WDC NW 20001 5 15 YD compactor 1 F 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Dunbar High School Active 101 N STREET NW WDC NW 20001 5 15 YD compactor 1 F 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS TRASH ROUTINE Eastern High School Active 1700 EAST CAPITOL STREET NE WDC NE 20003 7 8 YD 2 T/TH/S 3 144 $ 63.86 $ 9 ,195.84 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Eastern High School Active 1700 EAST CAPITOL STREET NE WDC NE 20003 7 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Eaton Elementary School Active 3301 LOWELL STREET NW WDC NW 20008 3 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Eaton Elementary School Active 3301 LOWELL STREET NW WDC NW 20008 3 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Eliot-Hine Middle School Active 1830 CONSTITUTION AVENUE NE WDC NE 20002 7 8 YD 2 T/TH/S 3 144 $ 63.86 $ 9 ,195.84 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Eliot-Hine Middle School Active 1830 CONSTITUTION AVENUE NE WDC NE 20002 7 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Excel Academy Active 2501 MARTIN LUTHER KING JR AVENUE SE WDC SE 20020 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Excel Academy Active 2501 MARTIN LUTHER KING JR AVENUE SE WDC SE 20020 8 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Garnet-Patterson STAY Academy Active 2001 10TH STREET NW WDC NW 20001 1 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Garnett-Patterson STAY Academy Active 2001 10TH STREET NW WDC NW 20001 1 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Garrison Elementary School Active 1200 S STREET NW WDC NW 20009 2 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Garrison Elementary School Active 1200 S STREET NW WDC NW 20009 2 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Garrison Elementary School (Add effective Nov 19, 2024) Active Litter can services 1200 S STREET NW WDC NW 20009 2 35 GA 3 M/TH/S 3 216 $ 15.45 $ 3 ,337.20 Front End Loading VENDOR Effective November 19, 2024
+DCPS TRASH ROUTINE H.D. Cooke Elementary School Active 2525 17TH STREET NW WDC NW 20009 1 8 YD 1 M/T/W/TH/F 5 120 $ 63.86 $ 7 ,663.20 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE H.D. Cooke Elementary School Active 2525 17TH STREET NW WDC NW 20009 1 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE H.D. Woodson High School Active 540 55TH STREET NE WDC NE 20019 7 8 YD 2 T/TH/S 3 144 $ 63.86 $ 9 ,195.84 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE H.D. Woodson High School Active 540 55TH STREET NE WDC NE 20019 7 8 YD 2 T/F 2 96 $ 62.83 $ 6 ,031.68 Front End Loading VENDOR
+DCPS TRASH ROUTINE Hardy Middle School Active 1819 35TH STREET NW WDC NW 20007 2 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Hardy Middle School Active 1819 35TH STREET NW WDC NW 20007 2 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Hart Middle School Active 601 MISSISSIPPI AVENUE SE WDC SE 20032 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Hart Middle School Active 601 MISSISSIPPI AVENUE SE WDC SE 20032 8 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Hearst Elementary School Active 3950 37TH STREET NW WDC NW 20008 3 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Hearst Elementary School Active 3950 37TH STREET NW WDC NW 20008 3 6 YD 1 M/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DCPS TRASH ROUTINE Hendley Elementary School Active 425 CHESAPEAKE STREET SE WDC SE 20032 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Hendley Elementary School Active 425 CHESAPEAKE STREET SE WDC SE 20032 8 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Houston Elementary School Active 1100 50TH PLACE NE WDC NE 20019 7 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Houston Elementary School Active 1100 50TH PLACE NE WDC NE 20019 7 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Hyde-Addison Elementary School Active 3219 O STREET NW WDC NW 20007 2 4 YD VIP (rear load) 1 M/W/F 3 72 $ 86.52 $ 6 ,229.44 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Hyde-Addison Elementary School Active 3219 O STREET NW WDC NW 20007 2 4 YD VIP (rear load) 1 M/TH 2 48 $ 86.52 $ 4 ,152.96 Rear End Loading DISTRICT-OWNED
+DCPS TRASH ROUTINE J.O. Wilson Elementary School Active 660 K STREET NE WDC NE 20002 6 8 YD 2 M/W/F 3 144 $ 63.86 $ 9 ,195.84 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE J.O. Wilson Elementary School Active 660 K STREET NE WDC NE 20002 6 6 YD 2 M/TH 2 96 $ 51.50 $ 4 ,944.00 Front End Loading VENDOR
+DCPS TRASH ROUTINE Jackson-Reed High School Active 3950 CHESAPEAKE STREET NW WDC NW 20016 3 15 YD compactor 1 T 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED D co is ll p e o c s t a io l n C o d s a t t e A : l l T o u w e a s n d c a e y . Reducing service to 1x week, effective 11/19/24. New
+DCPS RECYCLING ROUTINE Jackson-Reed High School Active 3950 CHESAPEAKE STREET NW WDC NW 20016 3 15 YD compactor 1 T 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED D 11 is / p 1 o 9 s / a 2 l 4 C . o N s e t w A l c lo o w lle a c n t c io e. n R d e a d t u e c : i T n u g e s s e d r a v y ice to 1x EVERY OTHER WEEK effective
+DCPS TRASH ROUTINE Janney Elementary School Active 4130 ALBEMARLE STREET NW WDC NW 20016 3 8 YD 1 M/T/W/TH/F 5 120 $ 63.86 $ 7 ,663.20 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Janney Elementary School Active 4130 ALBEMARLE STREET NW WDC NW 20016 3 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Jefferson Middle School Active 801 7TH STREET SW WDC SW 20024 6 15 YD compactor 1 TH 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Jefferson Middle School Active 801 7TH STREET SW WDC SW 20024 6 15 YD compactor 1 TH 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+
+DCPS TRASH ROUTINE John Lewis Elementary School Active 1335 FARRAGUT STREET NW WDC NW 20011 4 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE John Lewis Elementary School Active 1335 FARRAGUT STREET NW WDC NW 20011 4 8 YD 1 M/W/F 3 72 $ 62.83 $ 4 ,523.76 Front End Loading VENDOR
+DCPS TRASH ROUTINE Johnson Middle School Active 1400 BRUCE PLACE SE WDC SE 20020 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Johnson Middle School Active 1400 BRUCE PLACE SE WDC SE 20020 8 6 YD 1 T/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DCPS TRASH ROUTINE Kelly Miller Middle School Active 301 49TH STREET NE WDC NE 20019 7 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Kelly Miller Middle School Active 301 49TH STREET NE WDC NE 20019 7 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Kenilworth Swing Space Active 1300 44TH STREET NE WDC NE 20019 7 8 YD 1 T/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Kenilworth Swing Space Active 1300 44TH STREET NE WDC NE 20019 7 8 YD 1 T/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Ketcham Elementary School Active 1919 15TH STREET SE WDC SE 20020 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Ketcham Elementary School Active 1919 15TH STREET SE WDC SE 20020 8 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Key Elementary School Active 5001 DANA PLACE NW WDC NW 20016 3 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Key Elementary School Active 5001 DANA PLACE NW WDC NW 20016 3 6 YD 1 T/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DCPS TRASH ROUTINE Kimball Elementary School Active 3375 Minnesota Avenue, SE WDC SE 20018 7 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Kimball Elementary School Active 3375 Minnesota Avenue, SE WDC SE 20019 7 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE King Elementary School Active 3200 6TH STREET SE WDC SE 20032 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE King Elementary School Active 3200 6TH STREET SE WDC SE 20032 8 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Kramer Middle School Active 1700 Q STREET SE WDC SE 20020 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Kramer Middle School Active 1700 Q STREET SE WDC SE 20020 8 6 YD 1 M/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DCPS TRASH ROUTINE Lafayette Elementary School Active 5701 BROAD BRANCH ROAD NW WDC NW 20015 4 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Lafayette Elementary School Active 5701 BROAD BRANCH ROAD NW WDC NW 20015 4 6 YD 1 T/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DCPS TRASH ROUTINE Langdon Elementary School Active 1900 EVARTS STREET NE WDC NE 20018 5 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Langdon Elementary School Active 1900 EVARTS STREET NE WDC NE 20018 5 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Langley Elementary School Active 101 T STREET NE WDC NE 20002 5 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Langley Elementary School Active 101 T STREET NE WDC NE 20002 5 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE LaSalle-Backus Elementary School Active 501 RIGGS ROAD NE WDC NE 20011 4 8 YD 1 T/TH/F/S 4 96 $ 63.86 $ 6 ,130.56 Front End Loading DISTRICT-OWNED Increase trash collection by 1-day. Effective 11/19/24
+DCPS RECYCLING ROUTINE LaSalle-Backus Elementary School Active 501 RIGGS ROAD NE WDC NE 20011 4 8 YD 2 T/TH/F 3 144 $ 62.83 $ 9 ,047.52 Rear End Loading VENDOR Increase recycling collection by 1-day. Changed days of schedule. Effective 11/19/24
+DCPS TRASH ROUTINE Lawrence E. Boone Elementary School Active 2200 MINNESOTA AVENUE SE WDC SE 20020 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Lawrence E. Boone Elementary School Active 2200 MINNESOTA AVENUE SE WDC SE 20020 8 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Leckie Elementary School Active 4201 MARTIN LUTHER KING JR AVENUE SW WDC SW 20032 8 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Leckie Elementary School Active 4201 MARTIN LUTHER KING JR AVENUE SW WDC SW 20032 8 8 YD 1 T/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Ludlow-Taylor Elementary School Active 659 G STREET NE WDC NE 20002 6 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Ludlow-Taylor Elementary School Active 659 G STREET NE WDC NE 20002 6 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Luke C. Moore High School Active 1001 MONROE STREET NE WDC NE 20017 5 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Luke C. Moore High School Active 1001 MONROE STREET NE WDC NE 20017 5 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE MacArthur High School Active 4530 MACARTHUR BOULEVARD NW WDC NW 20007 3 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE MacArthur High School Active 4530 MACARTHUR BOULEVARD NW WDC NW 20007 3 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE MacFarland Middle School Active 4400 IOWA AVENUE NW WDC NW 20011 4 15 YD compactor 1 W 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE MacFarland Middle School Active 4400 IOWA AVENUE NW WDC NW 20011 4 15 YD compactor 1 W 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS TRASH ROUTINE Malcolm X Elementary School Active 1500 MISSISSIPPI AVENUE SE WDC SE 20032 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Malcolm X Elementary School @ Green Active 1500 MISSISSIPPI AVENUE SE WDC SE 20032 8 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Mann Elementary School Active 4430 NEWARK STREET NW WDC NW 20016 3 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Mann Elementary School Active 4430 NEWARK STREET NW WDC NW 20016 3 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE McKinley Technology High School Active 151 T STREET NE WDC NE 20002 5 8 YD 2 T/TH/S 3 144 $ 63.86 $ 9 ,195.84 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE McKinley Technology High School Active 151 T STREET NE WDC NE 20002 5 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Meyer Swing Space Active 2501 11TH STREET NW WDC NW 20001 1 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Meyer Swing Space Active 2501 11TH STREET NW WDC NW 20001 1 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Military Road Early Learning Center Active 1375 MISSOURI AVENUE NW WDC NW 20011 4 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Military Road Early Learning Center Active 1375 MISSOURI AVENUE NW WDC NW 20011 4 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Miner Elementary School Active 601 15TH STREET NE WDC NE 20002 7 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Miner Elementary School Active 601 15TH STREET NE WDC NE 20002 7 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Moten Elementary School Active 1565 MORRIS ROAD SE WDC SE 20020 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Moten Elementary School Active 1565 MORRIS ROAD SE WDC SE 20020 8 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Murch Elementary School Active 4810 36TH STREET NW WDC NW 20008 3 4 YD VIP (front load) 1 M/W/F 3 72 $ 76.22 $ 5 ,487.84 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Murch Elementary School Active 4810 36TH STREET NW WDC NW 20008 3 4 YD VIP (front load) 1 M/TH 2 48 $ 76.22 $ 3 ,658.56 Front End Loading DISTRICT-OWNED
+DCPS TRASH ROUTINE Murch Elementary School Active 4810 36TH STREET NW WDC NW 20008 3 4 YD VIP (rear load) 1 M/W/F 3 72 $ 86.52 $ 6 ,229.44 Rear End Loading
+DCPS RECYCLING ROUTINE Murch Elementary School Active 4810 36TH STREET NW WDC NW 20008 3 4 YD VIP (front load) 1 M/TH 2 48 $ 76.22 $ 3 ,658.56 Rear End Loading
+DCPS TRASH ROUTINE Nalle Elementary School Active 219 50TH STREET SE WDC SE 20019 7 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Nalle Elementary School Active 219 50TH STREET SE WDC SE 20019 7 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Noyes Elementary School Active 2725 10TH STREET NE WDC NE 20018 5 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Noyes Elementary School Active 2725 10TH STREET NE WDC NE 20018 5 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Old Banneker High School Swing Space Active 800 EUCLID STREET NW WDC NW 20001 1 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Oyster-Adams Bilingual School (Oyster Elementary) Active 2801 CALVERT STREET NW WDC NW 20008 3 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+
+DCPS RECYCLING ROUTINE Oyster-Adams Bilingual School (Oyster Elementary) Active 2801 CALVERT STREET NW WDC NW 20008 3 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Patterson Elementary School Active 4399 SOUTH CAPITOL TERRACE SW WDC SW 20032 8 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Patterson Elementary School Active 4399 SOUTH CAPITOL TERRACE SW WDC SW 20032 8 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Payne Elementary School Active 1445 C STREET SE WDC SE 20003 6 6 YD 1 M/W/F 3 72 $ 51.50 $ 3 ,708.00 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Payne Elementary School Active 1445 C STREET SE WDC SE 20003 6 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Peabody Elementary School Active 425 C STREET NE WDC NE 20002 6 6 YD 1 M/W/F 3 72 $ 51.50 $ 3 ,708.00 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Peabody Elementary School Active 425 C STREET NE WDC NE 20002 6 4 YD 1 M/TH 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+DCPS TRASH ROUTINE Phelps High School Active 704 26TH STREET NE WDC NE 20002 5 8 YD 1 M/T/W/TH/F 5 120 $ 63.86 $ 7 ,663.20 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Phelps High School Active 704 26TH STREET NE WDC NE 20002 5 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Plummer Elementary School Active 4601 TEXAS AVENUE SE WDC SE 20019 7 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Plummer Elementary School Active 4601 TEXAS AVENUE SE WDC SE 20019 7 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Powell Elementary School Active 1350 UPSHUR STREET NW WDC NW 20011 4 8 YD 1 M/T/W/TH/F 5 120 $ 63.86 $ 7 ,663.20 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Powell Elementary School Active 1350 UPSHUR STREET NW WDC NW 20011 4 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Randle Highlands Elementary School Active 1650 30TH STREET SE WDC SE 20020 7 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Randle Highlands Elementary School Active 1650 30TH STREET SE WDC SE 20020 7 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Raymond Elementary School Active 915 SPRING ROAD NW WDC NW 20010 4 15 YD compactor 1 M 3 72 $ 303.85 $ 2 1,877.20 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Raymond Elementary School Active 915 SPRING ROAD NW WDC NW 20010 4 15 YD compactor 1 Every other M 1 12 $ 303.85 $ 3 ,646.20 Trailer service VENDOR Disposal Cost Allowance
+DCPS TRASH ROUTINE River Terrace Education Campus Active 405 ANACOSTIA AVENUE NE WDC NE 20019 7 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE River Terrace Education Campus Active 405 ANACOSTIA AVENUE NE WDC NE 20019 7 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DCPS TRASH ROUTINE Ron Brown College Preparatory High Active 4800 MEADE STREET NE WDC NE 20019 7 15 YD compactor 1 T/F 2 48 $ 303.85 $ 1 4,584.80 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Ron Brown College Preparatory High Active 4800 MEADE STREET NE WDC NE 20019 7 15 YD compactor 1 W 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS TRASH ROUTINE Roosevelt High School Active 4301 13TH STREET NW WDC NW 20011 4 15 YD compactor 1 M 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Roosevelt High School Active 4301 13TH STREET NW WDC NW 20011 4 15 YD compactor 1 M 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS TRASH ROUTINE Ross Elementary School Active 1730 R STREET NW WDC NW 20009 2 4 YD VIP (front load) 1 M/W/F 3 72 $ 76.22 $ 5 ,487.84 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Ross Elementary School Active Dumpster on wheels 1730 R STREET NW WDC NW 20009 2 4 YD 1 T/F 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+DCPS TRASH ROUTINE Savoy Elementary School Active 2400 SHANNON PLACE SE WDC SE 20020 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Savoy Elementary School Active 2400 SHANNON PLACE SE WDC SE 20020 8 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE School-Within-School @ Goding Active 920 F STREET NE WDC NE 20002 6 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE School Within a School @ Goding Active 920 F STREET NE WDC NE 20002 6 6 YD 1 T/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DCPS TRASH ROUTINE Old Banneker High School Swing Space Active 800 EUCLID STREET NW WDC NW 20001 1 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS TRASH ROUTINE School Without Walls High School Active 2130 G STREET NW WDC NW 20037 2 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE School Without Walls High School Active 2130 G STREET NW WDC NW 20037 2 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Seaton Elementary School Active 1503 10TH STREET NW WDC NW 20001 2 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Seaton Elementary School Active 1503 10TH STREET NW WDC NW 20001 2 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Sharpe Health Swing Space Active 4300 13TH STREET NW WDC NW 20011 4 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Sharpe Health Swing Space Active 4300 13TH STREET NW WDC NW 20011 4 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Shepherd Elementary School Active 7800 14TH STREET NW WDC NW 20012 4 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Shepherd Elementary School Active 7800 14TH STREET NW WDC NW 20012 4 6 YD 1 T/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DCPS TRASH ROUTINE Simon Elementary School Active 401 MISSISSIPPI AVENUE SE WDC SE 20032 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Simon Elementary School Active 401 MISSISSIPPI AVENUE SE WDC SE 20032 8 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Smothers Elementary School Active 4400 BROOKS STREET NE WDC NE 20019 7 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Smothers Elementary School Active 4400 BROOKS STREET NE WDC NE 20019 7 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Sousa Middle School Active 3650 ELY PLACE SE WDC SE 20019 7 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Sousa Middle School Active 3650 ELY PLACE SE WDC SE 20019 7 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Spingarn Field Active 2500 BENNING ROAD NE WDC NE 20002 5 4 YD 3 W 1 72 $ 40.17 $ 2 ,892.24 Front End Loading DISTRICT-OWNED Change requirement from 1-8YD to 3-4YD dumpsters. Effective 11/19/24
+DCPS TRASH ROUTINE Stanton Elementary School Active 2701 NAYLOR ROAD SE WDC SE 20020 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Stanton Elementary School Active 2701 NAYLOR ROAD SE WDC SE 20020 8 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Stoddert Elementary School Active 4001 CALVERT STREET NW WDC NW 20007 3 6 YD 2 M/W/F 3 144 $ 51.50 $ 7 ,416.00 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Stoddert Elementary School Active 4001 CALVERT STREET NW WDC NW 20007 3 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Stuart-Hobson Middle School Active 410 E STREET NE WDC NE 20002 6 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Stuart-Hobson Middle School Active 410 E STREET NE WDC NE 20002 6 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DCPS TRASH ROUTINE Takoma Elementary School Active 7010 PINEY BRANCH ROAD NW WDC NW 20012 4 8 YD 1 M/T/W/TH/F 5 120 $ 63.86 $ 7 ,663.20 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Takoma Elementary School Active 7010 PINEY BRANCH ROAD NW WDC NW 20012 4 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Thaddeus Stevens Early Learning Center Active 1050 21ST STREET NW WDC NW 20036 2 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Thaddeus Stevens Early Learning Center Active 1050 21ST STREET NW WDC NW 20036 2 2 YD 1 M/TH 2 48 $ 36.05 $ 1 ,730.40 Rear End Loading VENDOR
+DCPS TRASH ROUTINE Thomas Elementary School Active 650 ANACOSTIA AVENUE NE WDC NE 20019 7 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Thomas Elementary School Active 650 ANACOSTIA AVENUE NE WDC NE 20019 7 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Thomson Elementary School Active 1200 L STREET NW WDC NW 20005 2 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Thomson Elementary School Active 1200 L STREET NW WDC NW 20005 2 6 YD 1 M/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DCPS TRASH ROUTINE Truesdell Elementary School Active 800 INGRAHAM STREET NW WDC NW 20011 4 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Truesdell Elementary School Active 800 INGRAHAM STREET NW WDC NW 20011 4 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Tubman Elementary School Active 3101 13TH STREET NW WDC NW 20010 1 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+
+DCPS RECYCLING ROUTINE Tubman Elementary School Active 3101 13TH STREET NW WDC NW 20010 1 6 YD 1 M/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DCPS TRASH ROUTINE Turner Elementary School Active 3264 STANTON ROAD SE WDC SE 20020 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Turner Elementary School Active 3264 STANTON ROAD SE WDC SE 20020 8 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Shirley Chisholm ES (formerly Tyler Elementary School) Active 1001 G STREET SE WDC SE 20003 6 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Shirley Chisholm ES (formerly Tyler Elementary School) Active 1001 G STREET SE WDC SE 20003 6 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Van Ness Elementary School Active 1150 5TH STREET SE WDC SE 20003 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Van Ness Elementary School Active 1150 5TH STREET SE WDC SE 20003 8 8 YD 1 W/S 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Walker-Jones Education Campus Active 1125 NEW JERSEY AVENUE NW WDC NW 20001 6 15 YD compactor 1 F 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Walker-Jones Education Campus Active 1125 NEW JERSEY AVENUE NW WDC NW 20001 6 15 YD compactor 1 F 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS TRASH ROUTINE Ward 6 Swing Space Active 810 26TH STREET NE WDC NE 20002 5 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Ward 6 Swing Space Active 810 26TH STREET NE WDC NE 20002 5 8 YD 1 T/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Watkins Elementary School Active 420 12TH STREET SE WDC SE 20003 6 4 YD VIP (rear load) 1 M/W/F 3 72 $ 86.52 $ 6 ,229.44 Rear End Loading VENDOR
+DCPS RECYCLING ROUTINE Watkins Elementary School Active 420 12TH STREET SE WDC SE 20003 6 4 YD VIP (rear load) 1 M/TH 2 48 $ 86.52 $ 4 ,152.96 Rear End Loading DISTRICT-OWNED
+DCPS TRASH ROUTINE Wheatley Education Campus Active 1299 NEAL STREET NE WDC NE 20002 5 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Wheatley Education Campus Active 1299 NEAL STREET NE WDC NE 20002 5 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Whittier Elementary School Active 6201 5TH STREET NW WDC NW 20011 4 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DCPS RECYCLING ROUTINE Whittier Elementary School Active 6201 5TH STREET NW WDC NW 20011 4 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE Maury Elementary School Active 1250 CONSTITUTION AVENUE NE WDC NE 20002 6 15 YD compactor 1 S 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS RECYCLING ROUTINE Maury Elementary School Active 1250 CONSTITUTION AVENUE NE WDC NE 20002 6 15 YD compactor 1 S 1 24 $ 303.85 $ 7 ,292.40 Trailer service DISTRICT-OWNED Disposal Cost Allowance
+DCPS TRASH ROUTINE Whitlock Elementary School (forrmerly Aiton ES) Active 533 48TH PLACE NE WDC NE 20019 7 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Whitlock Elementary School (formeryly Aiton ES) Active 533 48TH PLACE NE WDC NE 20019 7 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DCPS TRASH ROUTINE School Without Walls @ Francis-Stevens Active 2425 N STREET NW WDC NW 20037 2 15 YD compactor 1 M 1 24 $ 303.85 $ 7 ,292.40 Trailer service VENDOR Disposal Cost Allowance
+DCPS RECYCLING ROUTINE School Without Walls @ Francis-Stevens Active 2425 N STREET NW WDC NW 20037 2 15 YD compactor 1 M 1 24 $ 303.85 $ 7 ,292.40 Trailer service VENDOR Disposal Cost Allowance
+DCPS TRASH ROUTINE Garfield Elementary School Active 2435 ALABAMA AVENUE SE WDC SE 20020 8 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DCPS RECYCLING ROUTINE Garfield Elementary School Active 2435 ALABAMA AVENUE SE WDC SE 20020 8 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DDOT TRASH ROUTINE DDOT - 350 McMillan rename DDOT Annex 9 Active 350 MCMILLAN DRIVE NW WDC NW 20001 1 8 YD 2 M/W/F 3 144 $ 63.86 $ 9 ,195.84 Front End Loading DISTRICT-OWNED
+DDOT RECYCLING ROUTINE DDOT - 350 McMillan rename DDOT Annex 9 Active 350 MCMILLAN DRIVE NW WDC NW 20001 1 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DDOT RECYCLING ROUTINE DDOT - 7 trailers Active 1403 W STREET NE WDC NE 20018 5 6 YD 1 M/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DDOT TRASH ROUTINE DDOT - 7 trailers Active 1403 W STREET NE WDC NE 20018 5 6 YD 2 M/T/W/TH/F 5 240 $ 51.50 $ 1 2,360.00 Front End Loading DISTRICT-OWNED
+DDOT TRASH ROUTINE DDOT - Street Car Barn Active 2550 BENNING ROAD NE WDC NE 20002 5 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading DISTRICT-OWNED
+DDOT RECYCLING ROUTINE DDOT - Street Car Barn Active 2550 BENNING ROAD NE WDC NE 20002 5 96 GA 2 T/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+DDOT TRASH ROUTINE DDOT IT Support Active 1735 15TH STREET NE WDC NE 20002 5 6 YD 1 W/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading DISTRICT-OWNED
+DDOT RECYCLING ROUTINE DDOT IT Support Active 1735 15TH STREET NE WDC NE 20002 5 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DDOT TRASH ROUTINE DDOT - TSA Sign Active 1338 G STREET SE WDC SE 20003 6 6 YD 1 M/T/W/TH/F 5 120 $ 51.50 $ 6 ,180.00 Front End Loading VENDOR
+DDOT RECYCLING ROUTINE DDOT - TSA Sign Active 1338 G STREET SE WDC SE 20003 6 6 YD 1 T/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DDOT TRASH ROUTINE DDOT IPMA QA\QC Division Active Concret L e o a & d Asphalt 350 MCMILLAN DRIVE NW WDC NW 20001 1 10 YD roll off 1 Monthly 1 5 $ 303.85 $ 1 ,519.25 Trailer service Vendor Disposal Cost Allowance
+DDOT TRASH ROUTINE DDOT -Street Car depot Active 2860 SOUTH CAPITOL STREET SE WDC SE 20032 8 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DDOT TRASH ROUTINE DDOT -Maintenance - 414 Farragut Active 414 FARRAGUT STREET NE WDC NE 20011 5 6 YD 1 T/TH/S 3 72 $ 51.50 $ 3 ,708.00 Front End Loading DISTRICT-OWNED
+DDOT RECYCLING ROUTINE DDOT -Maintenance - 414 Farragut Active 414 FARRAGUT STREET NE WDC NE 20011 5 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DDOT RECYCLING ROUTINE DDOT -Street Car depot Active 2860 SOUTH CAPITOL STREET SE WDC SE 20032 8 6 YD 1 T/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DGS TRASH ROUTINE Adams Place - DGS Active 2200 ADAMS PLACE NE WDC NE 20018 5 30 YD roll off 2 T/TH 2 96 $ 303.85 $ 2 9,169.60 Trailer service VENDOR Disposal Cost Allowance
+DGS TRASH ROUTINE CCNV Shelter Active 425 2ND STREET NW WDC NW 20001 6 30 YD compactor 1 M/W/F 3 72 $ 303.85 $ 2 1,877.20 Trailer service VENDOR Disposal Cost Allowance.
+DGS TRASH ROUTINE CCNV Shelter Active 425 2ND STREET NW WDC NW 20001 6 30 YD roll off 1 M/W/F 3 72 $ 303.85 $ 2 1,877.20 Trailer service VENDOR Disposal Cost Allowance.
+DGS RECYCLING ROUTINE DGS BPO Warehouse Active Cardboard only 1325 S STREET NW WDC NW 20009 1 6 YD 2 M/TH 2 96 $ 51.50 $ 4 ,944.00 Front End Loading VENDOR
+DGS TRASH ROUTINE DGS BPO Warehouse Active 1325 S STREET NW WDC NW 20009 1 30 YD roll off 1 T/F 2 48 $ 303.85 $ 1 4,584.80 Trailer service VENDOR Disposal Cost Allowance
+DGS RECYCLING ROUTINE DCGH Bldg. 24 - Women Shelter (Old Medical Examiner's Bldg.) DGS DCGH Warehous Active 1900 MASSACHUSETTS AVENUE SE WDC SE 20003 7 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DGS TRASH ROUTINE DGS BPO Warehouse Active 1325 S STREET NW WDC NW 20009 1 8 YD 2 M/TH 2 96 $ 63.86 $ 6 ,130.56 Front End Loading DISTRICT-OWNED
+DGS TRASH ROUTINE DGS DCGH Powerplant/DGS Building Active 1900 MASSACHUSETTS AVENUE SE WDC SE 20003 7 6 YD 1 M/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DGS RECYCLING ROUTINE Emery School Active 1720 1ST STREET NE WDC NE 20002 5 8 YD 1 W/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DGS TRASH ROUTINE Emery School Active 1720 1ST STREET NE WDC NE 20002 5 8 YD 1 W/F 2 48 $ 63.86 $ 3 ,065.28 Front End Loading DISTRICT-OWNED
+DGS TRASH ROUTINE Henry Daly Building Active 300 INDIANA AVENUE NW WDC NW 20001 6 96 GA 8 M/TH 2 384 $ 10.30 $ 3 ,955.20 Rear End Loading VENDOR M de o c d o i m fy m se is r s v i i o c n e e s d c . hedule to Mon/Thurs effective 11/19/24. Building getting
+DGS RECYCLING ROUTINE Henry Daly Building Active 300 INDIANA AVENUE NW WDC NW 20001 6 96 GA 8 M/TH 2 384 $ 10.30 $ 3 ,955.20 Rear End Loading VENDOR M de o c d o i m fy m se is r s v i i o c n e e s d c . hedule to Mon/Thurs effective 11/19/24. Building getting
+DHS TRASH ROUTINE 801 East Shelter Active 2700 MARTIN LUTHER KING JR AVENUE SE WDC SE 20032 8 30 YD compactor 1 S 1 24 $ 303.85 $ 7 ,292.40 Trailer service VENDOR Disposal Cost Allowance
+DHS RECYCLING ROUTINE 801 East Shelter Active 2700 MARTIN LUTHER KING JR AVENUE SE WDC SE 20032 8 30 YD compactor 1 S 1 24 $ 303.85 $ 7 ,292.40 Trailer service VENDOR Disposal Cost Allowance
+DHS RECYCLING ROUTINE Adams Place Shelter Active 2210 ADAMS PLACE NE WDC NE 20018 5 8 YD 1 M/T/W/TH/F/S 6 144 $ 62.83 $ 9 ,047.52 Front End Loading VENDOR
+DHS TRASH ROUTINE Blair Shelter (low barrier emergency) Active 635 I STREET NE WDC NE 20002 6 6 YD 1 T/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading DISTRICT-OWNED
+DHS TRASH ROUTINE Blair Shelter (low barrier emergency) Active 635 I STREET NE WDC NE 20002 6 8 YD 1 M/T/W/TH/F/S 6 144 $ 63.86 $ 9 ,195.84 Front End Loading VENDOR
+DHS RECYCLING ROUTINE Blair Shelter (low barrier emergency) Active 635 I STREET NE WDC NE 20002 6 6 YD 1 T/W 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DHS TRASH ROUTINE Coalition for the Homeless (Add effective Nov 19, 2024) Active 1131 SPRING ROAD NW WDC NW 20010 4 96 GA 4 M/W/F 3 288 $ 10.30 $ 2 ,966.40 Rear End Loading VENDOR Add Location Effective 11/19/24
+DHS RECYCLING ROUTINE Coalition for the Homeless (Add effective Nov 19, 2024) Active 1131 SPRING ROAD NW WDC NW 20010 4 96 GA 3 T/F 2 144 $ 10.30 $ 1 ,483.20 Rear End Loading VENDOR Add Location Effective 11/19/24
+DHS RECYCLING ROUTINE DGS-37th Street - Emergency Housing - Family Shelter Active 342 37TH STREET SE WDC SE 20019 7 96 GA 3 M/TH 2 144 $ 10.30 $ 1 ,483.20 Rear End Loading VENDOR
+DHS TRASH ROUTINE DGS-37th Street,- Emergency Housing - Family Shelter Active 342 37TH STREET SE WDC SE 20019 7 96 GA 5 M/TH 2 240 $ 10.30 $ 2 ,472.00 Rear End Loading VENDOR
+
+DHS RECYCLING ROUTINE DGS-Naylor Road - Family Shelter Active 2601 NAYLOR ROAD SE WDC SE 20020 8 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DHS TRASH ROUTINE Adams Place Shelter Active 2210 ADAMS PLACE NE WDC NE 20018 5 8 YD 2 M/T/W/TH/F/S 6 288 $ 63.86 $ 1 8,391.68 Front End Loading DISTRICT-OWNED
+DHS TRASH ROUTINE DGS-Naylor Road - Family Shelter Active 2601 NAYLOR ROAD SE WDC SE 20020 8 8 YD 1 M/T/W/TH/F/S 6 144 $ 63.86 $ 9 ,195.84 Front End Loading VENDOR
+DHS RECYCLING ROUTINE DHS Warehouse Active 4 DC VILLAGE LANE SW WDC SW 20032 8 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DHS TRASH ROUTINE DHS Warehouse Active 4 DC VILLAGE LANE SW WDC SW 20032 8 8 YD 1 W/F 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DHS TRASH ROUTINE Emery House Shelter Active 1725 LINCOLN ROAD NE WDC NE 20002 5 6 YD 1 M/T/W/TH/F/S 6 144 $ 51.50 $ 7 ,416.00 Front End Loading DISTRICT-OWNED
+DHS RECYCLING ROUTINE Emery House Shelter Active 1725 LINCOLN ROAD NE WDC NE 20002 5 6 YD 1 M/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DHS TRASH ROUTINE Girard Street Shelter Active 1413 GIRARD STREET NW WDC NW 20009 1 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Front End Loading VENDOR
+DHS RECYCLING ROUTINE Girard Street Shelter Active 1413 GIRARD STREET NW WDC NW 20009 1 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DHS TRASH ROUTINE Harbor Light Center Active 2100 NEW YORK AVENUE NE WDC NE 20002 5 8 YD 2 M/T/W/TH/F/S 6 288 $ 63.86 $ 1 8,391.68 Front End Loading DISTRICT-OWNED
+DHS RECYCLING ROUTINE Harbor Light Center Active 2100 NEW YORK AVENUE NE WDC NE 20002 5 8 YD 2 T/TH 2 96 $ 62.83 $ 6 ,031.68 Front End Loading VENDOR
+DHS TRASH ROUTINE House of Ruth Active 651 10TH STREET NE WDC NE 20002 6 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Rear End Loading VENDOR
+DHS RECYCLING ROUTINE House of Ruth Shelter Active 651 10TH STREET NE WDC NE 20002 6 96 GA 4 M/TH 2 192 $ 10.30 $ 1 ,977.60 Rear End Loading VENDOR
+DHS TRASH ROUTINE New Endeavors Women Shelter Active 611 N STREET NW WDC NW 20001 2 4 YD 1 M/T/W/TH/F/S 6 144 $ 40.17 $ 5 ,784.48 Front End Loading DISTRICT-OWNED
+DHS TRASH ROUTINE La Casa Men Shelter Active Dumpster on wheels 1436 IRVING STREET NW WDC NW 20010 1 4 YD 2 M/W/F 3 144 $ 40.17 $ 5 ,784.48 Rear End Loading VENDOR
+DHS RECYCLING ROUTINE La Casa Men Shelter Active Dumpster on wheels 1436 IRVING STREET NW WDC NW 20010 1 2 YD 1 T/F 2 48 $ 36.05 $ 1 ,730.40 Rear End Loading VENDOR
+DHS RECYCLING ROUTINE New Endeavors Women Shelter Active 611 N STREET NW WDC NW 20001 2 96 GA 3 M/T/W/TH/F 5 360 $ 10.30 $ 3 ,708.00 Rear End Loading VENDOR
+DHS TRASH ROUTINE New York Avenue Shelter Active 1355-57 New York Avenue, NE WDC NE 20018 6 8 YD 2 M/T/W/TH/F/S 6 288 $ 63.86 $ 1 8,391.68 Front End Loading DISTRICT-OWNED
+DHS RECYCLING ROUTINE New York Avenue Shelter Active Cardboar s d lo o t) nly (front 1355-57 New York Avenue, NE WDC NE 20002 6 8 YD 1 M/T/W/TH/F/S 6 144 $ 62.83 $ 9 ,047.52 Front End Loading VENDOR
+DHS TRASH ROUTINE Pat Handy - Women Shelter (Add Effective Nov 19, 2024) Active 810 5TH STREET NW WDC NW 20001 2 3 YD 2 M/T/W/TH/F/S 6 288 $ 38.11 $ 1 0,975.68 Front End Loading DISTRICT-OWNED Add location; Active as of 11/19/24
+DHS RECYCLING ROUTINE Pat Handy - Women Shelter (Add Effective Nov 19, 2024) Active 810 5TH STREET NW WDC NW 20001 2 96 GA 4 W 1 96 $ 10.30 $ 9 88.80 Front End Loading DISTRICT-OWNED Add location; Active as of 11/19/24
+DHS TRASH ROUTINE T 2 h 0 e 2 4 A ) ston - Ward 2 - DHS Transitional Housing/STFH Facility (Add Effective Nov 19, Active On wheels 1129 NEW HAMPSHIRE AVENUE, NW WDC NW 20037 2 2 YD VIP 2 M/W/F 3 144 $ 55.62 $ 8 ,009.28 Front End Loading DISTRICT-OWNED Adding DHS requirement on 11/19/24.
+DHS RECYCLING ROUTINE T 2 h 0 e 2 4 A ) ston - Ward 2 - DHS Transitional Housing/STFH Facility (Add Effective Nov 19, Active On wheels 1129 NEW HAMPSHIRE AVENUE, NW WDC NW 20037 2 2 YD 1 M/TH 2 48 $ 36.05 $ 1 ,730.40 Rear End Loading DISTRICT-OWNED Adding DHS requirement on 11/19/24.
+DHS TRASH ROUTINE The Sterling - Ward 5 - DHS Transitional Housing/STFH Facility Active 1700 RHODE ISLAND AVENUE NE WDC NE 20018 5 4 YD VIP (rear load) 2 M/T/W/TH/F/S 6 288 $ 86.52 $ 2 4,917.76 Rear End Loading DISTRICT-OWNED Update location name
+DHS RECYCLING ROUTINE The Sterling - Ward 5 - DHS Transitional Housing/STFH Facility Active 1700 RHODE ISLAND AVENUE NE WDC NE 20018 5 2 YD 1 T/TH 2 48 $ 36.05 $ 1 ,730.40 Rear End Loading VENDOR Update location name
+DHS TRASH ROUTINE The Aya STFH Facility Active 850 DELAWARE AVENUE SW WDC SW 20024 6 4 YD VIP (rear load) 2 M/T/W/TH/F/S 6 288 $ 86.52 $ 2 4,917.76 Rear End Loading DISTRICT-OWNED
+DHS RECYCLING ROUTINE The Aya STFH Facility Active 850 DELAWARE AVENUE SW WDC SW 20024 6 96 GA 2 T/F 2 96 $ 10.30 $ 9 88.80 Rear End Loading DISTRICT-OWNED
+DHS TRASH ROUTINE The Brooks STFH Facility Active 3318 Idaho Avenue, NW WDC NW 20018 3 4 YD 2 M/T/W/TH/F/S 6 288 $ 40.17 $ 1 1,568.96 Rear End Loading VENDOR
+DHS RECYCLING ROUTINE The Brooks STFH Facility Active Cardboard 3318 Idaho Avenue, NW WDC NW 20016 3 2 YD 1 M/T/W/TH/F/S 6 144 $ 36.05 $ 5 ,191.20 Rear End Loading VENDOR
+DHS TRASH ROUTINE The Horizon - Ward 7 - DHS Transitional Housing Active 5004 D STREET SE WDC SE 20019 7 4 YD VIP (rear load) 2 M/T/W/TH/F/S 6 288 $ 86.52 $ 2 4,917.76 Rear End Loading DISTRICT-OWNED
+DHS RECYCLING ROUTINE The Horizon - Ward 7 - DHS Transitional Housing Active 5004 D STREET SE WDC SE 20019 7 96 GA 4 M/T/W/TH/F/S 6 576 $ 10.30 $ 5 ,932.80 Rear End Loading DISTRICT-OWNED
+DHS TRASH ROUTINE The Terrell - Ward 1 DHS Transitional Housing Active 1400 CLIFTON STREET NW WDC NW 20009 1 2 YD 2 M/T/W/TH/F/S 6 288 $ 36.05 $ 1 0,382.40 Rear End Loading VENDOR
+DHS RECYCLING ROUTINE The Terrell - Ward 1 DHS Transitional Housing Active 1400 CLIFTON STREET NW WDC NW 20009 1 2 YD 1 T/TH 2 48 $ 36.05 $ 1 ,730.40 Rear End Loading VENDOR
+DHS TRASH ROUTINE The Kennedy - Ward 4 - DHS Transitional Housing Active 5505 5TH STREET NW WDC NW 20011 4 4 YD VIP (front load) 1 M/W/F 3 72 $ 76.22 $ 5 ,487.84 Front End Loading DISTRICT-OWNED
+DHS RECYCLING ROUTINE The Kennedy - Ward 4 - DHS Transitional Housing Active 5505 5TH STREET NW WDC NW 20011 4 4 YD VIP (front load) 1 M/TH 2 48 $ 76.22 $ 3 ,658.56 Front End Loading DISTRICT-OWNED
+DHS TRASH ROUTINE The Triumph - Ward 8 - DHS Transitional Housing Active 4225 6TH STREET SE WDC SE 20032 8 4 YD VIP (rear load) 3 M/T/W/TH/F/S 6 432 $ 86.52 $ 3 7,376.64 Rear End Loading DISTRICT-OWNED
+DHS RECYCLING ROUTINE WJ Rolark DHS STFH Facility Active 4300 12TH STREET SE WDC SE 20032 8 4 YD 1 T/ TH 2 48 $ 40.17 $ 1 ,928.16 Front End Loading DISTRICT-OWNED
+DHS RECYCLING ROUTINE The Triumph - Ward 8 - DHS Transitional Housing Active 4225 6TH STREET SE WDC SE 20032 8 2 YD 3 M/T/W/TH/F/S 6 432 $ 36.05 $ 1 5,573.60 Rear End Loading DISTRICT-OWNED
+DHS TRASH ROUTINE WJ Rolark DHS STFH Facility Active 4300 12TH STREET SE WDC SE 20032 8 4 YD VIP (front load) 1 T/TH/S 3 72 $ 76.22 $ 5 ,487.84 Front End Loading DISTRICT-OWNED
+DHS TRASH ROUTINE D W C a G re H h B o l u d s g e . 24 - Women Shelter (Old Medical Examiner's Bldg.)DGS DCGH Active 1900 MASSACHUSETTS AVENUE SE WDC SE 20003 7 8 YD 1 M/T/W/TH/F/S 6 144 $ 63.86 $ 9 ,195.84 Front End Loading VENDOR
+DMPED TRASH ROUTINE Rise Demonstration Center Active 2730 MARTIN LUTHER KING JR AVENUE SE WDC SE 20032 8 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DMPED RECYCLING ROUTINE Rise Demonstration Center Active 2730 MARTIN LUTHER KING JR AVENUE SE WDC SE 20032 8 2 YD 1 T/F 2 48 $ 36.05 $ 1 ,730.40 Rear End Loading VENDOR
+DMV TRASH ROUTINE CDL Road Skills Testing Active 3000 Pensy Drive, Landover, MD (WMATA) (L) Landover, MD N/A 20018 N/A 4 YD 1 M/TH 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+DMV RECYCLING ROUTINE DMV Service Center Benning Road Active 4525 BENNING ROAD SE WDC SE 20019 7 4 YD 1 T/F 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+DMV RECYCLING ROUTINE CDL Road Skills Testing Active 3000 Pensy Drive, Landover, MD (WMATA) (L) Landover, MD N/A 20785 N/A 4 YD 1 Monthly 1 5 $ 40.17 $ 2 00.85 Front End Loading VENDOR
+DMV TRASH ROUTINE DMV Service Center Benning Road Active 4525 BENNING ROAD SE WDC SE 20019 7 4 YD 1 M/TH 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+DOES RECYCLING ROUTINE DC Infrastructure Academy (DCIA) (DOES) (FORMERLY Wilkinson Elementary) Active 2330 POMEROY ROAD SE WDC SE 20020 8 6 YD 1 M/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DOES TRASH ROUTINE DC Infrastructure Academy (DCIA) (DOES) (FORMERLY Wilkinson Elementary) Active 2330 POMEROY ROAD SE WDC SE 20020 8 6 YD 1 M/W/F 3 72 $ 51.50 $ 3 ,708.00 Front End Loading VENDOR
+DOH TRASH ROUTINE DC Animal Shelter Active 1201 NEW YORK AVENUE NE WDC NE 20002 5 8 YD 1 T/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading DISTRICT-OWNED
+DOH RECYCLING ROUTINE DC Animal Shelter Active 1201 NEW YORK AVENUE NE WDC NE 20002 5 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DOH TRASH ROUTINE DOH Chest Clinic DCGH (Servicing Bldgs. #15) Active 1900 MASSACHUSETTS AVENUE SE WDC SE 20003 7 6 YD 1 T/Th 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DOH RECYCLING ROUTINE DOH Chest Clinic DCGH (Servicing Bldgs. #15) Active 1900 MASSACHUSETTS AVENUE SE WDC SE 20003 7 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Edgewood Recreation Center Active 301 FRANKLIN STREET NE WDC NE 20002 5 2 YD 2 M/TH 2 96 $ 36.05 $ 3 ,460.80 Rear End Loading VENDOR
+DPR TRASH ROUTINE Edgewood Recreation Center Active 301 FRANKLIN STREET NE WDC NE 20002 5 2 YD 2 T/TH 2 96 $ 36.05 $ 3 ,460.80 Rear End Loading VENDOR
+DPR TRASH ROUTINE Fort Stevens Recreation Center Active 1327 VAN BUREN STREET NW WDC NW 20012 4 4 YD 2 M/T/W/TH/F 5 240 $ 40.17 $ 9 ,640.80 Front End Loading VENDOR
+DPR TRASH ROUTINE Hamilton Recreation Center Active 1340 HAMILTON STREET NW WDC NW 20011 4 96 GA 1 M/W/F 3 72 $ 10.30 $ 7 41.60 Rear End Loading VENDOR
+DPR TRASH ROUTINE King Greenleaf Recreation Center Active 201 N STREET SW WDC SW 20024 6 8 YD 2 M/TH 2 96 $ 63.86 $ 6 ,130.56 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Lederer Garden Active 4801 NANNIE HELEN BURROUGHS AVENUE NE WDC NE 20019 7 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+DPR TRASH ROUTINE Lederer Garden Active 4801 NANNIE HELEN BURROUGHS AVENUE NE WDC NE 20019 7 4 YD 1 T/TH 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Benjamin Banneker Recreation Center Active 2500 GEORGIA AVENUE NW WDC NW 20001 1 8 YD 1 T/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR RECYCLING ROUTINE 19th & Lamond Street, NW Active Litter can services 19th & Lamond Street, NW WDC NW 20001 1 35 GA 1 M/TH 2 48 $ 15.45 $ 7 41.60 Rear loading / hand pull DISTRICT-OWNED
+DPR RECYCLING ROUTINE 3rd and I Street Park, SW Active Litter can services 300 I STREET SW WDC SW 20024 6 35 GA 1 W 1 24 $ 15.45 $ 3 70.80 Rear loading / hand pull DISTRICT-OWNED
+
+DPR TRASH ROUTINE Anacostia Recreation Center Active 1800 ANACOSTIA DRIVE SE WDC SE 20020 8 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR 1929 15th Street, SE (March / April 2025) - ADDRESS WILL CHANGE IN MID OY1
+DPR RECYCLING ROUTINE Anacostia Recreation Center Active 1800 ANACOSTIA DRIVE SE WDC SE 20020 8 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR 1929 15th Street, SE (March / April 2025) - ADDRESS WILL CHANGE IN MID OY1
+DPR TRASH ROUTINE Arboretum Recreation Center Active 2412 RAND PLACE NE WDC NE 20002 5 96 GA 6 T/TH 2 288 $ 10.30 $ 2 ,966.40 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Bald Eagle Recreation Center Active 100 JOLIET STREET SW WDC SW 20032 8 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR TRASH ROUTINE Barry Farms Recreation Center Active 1230 SUMNER ROAD SE WDC SE 20020 8 4 YD 2 T/TH 2 96 $ 40.17 $ 3 ,856.32 Front End Loading VENDOR PROGRAM WILL REVISIT SERVICE SCHEDULE WITH DPR DURING OY1
+DPR RECYCLING ROUTINE Barry Farms Recreation Center Active On wheels 1230 SUMNER ROAD SE WDC SE 20020 8 4 YD 1 T/TH 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR PROGRAM WILL REVISIT SERVICE SCHEDULE WITH DPR DURING OY1
+DPR RECYCLING ROUTINE Arboretum Recreation Center Active 2412 RAND PLACE NE WDC NE 20002 5 96 GA 4 T 1 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+DPR TRASH ROUTINE Bald Eagle Recreation Center Active 100 JOLIET STREET SW WDC SW 20032 8 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR TRASH ROUTINE Benjamin Banneker Recreation Center Active 2500 GEORGIA AVENUE NW WDC NW 20001 1 8 YD 1 T/TH 4 96 $ 63.86 $ 6 ,130.56 Front End Loading DISTRICT-OWNED
+DPR RECYCLING ROUTINE Benning Stoddert Community Center Active 100 STODDERT PLACE SE WDC SE 20019 7 4 YD 1 T/TH 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+DPR TRASH ROUTINE Benning Stoddert Community Center Active 100 STODDERT PLACE SE WDC SE 20019 7 8 YD 1 M/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPR TRASH ROUTINE Brentwood Recreation Center Active 2311 14TH STREET NE WDC NE 20018 5 96 GA 2 M/W/F 3 144 $ 10.30 $ 1 ,483.20 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Benjamin Banneker Recreation Center Active Litter can services 2500 GEORGIA AVENUE NW WDC NW 20001 1 35 GA 5 M/TH 2 240 $ 15.45 $ 3 ,708.00 Rear loading / hand pull DISTRICT-OWNED
+DPR RECYCLING ROUTINE Brentwood Recreation Center Active 2311 14TH STREET NE WDC NE 20018 5 96 GA 1 M/TH 2 48 $ 10.30 $ 4 94.40 Rear End Loading VENDOR
+DPR TRASH ROUTINE Camp Riverview Active Seasonal 49000 Cornfield Harbor Road Scotland, MD N/A 20687 0 8 YD (SPECIAL) 2 F 2 96 $ 80.85 $ 7 ,761.60 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Camp Riverview Active Seasonal 49000 Cornfield Harbor Road Scotland, MD N/A 20687 0 8 YD (SPECIAL) 1 F 1 24 $ 79.80 $ 1 ,915.20 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Brentwood Recreation Center Active Litter can services 2311 14TH STREET NE WDC NE 20018 5 35 GA 2 TH 1 48 $ 15.45 $ 7 41.60 Rear loading / hand pull DISTRICT-OWNED
+DPR RECYCLING ROUTINE Chevy Chase Community Center Active Litter can services 5601 CONNECTICUT AVENUE NW WDC NW 20015 3 35 GA 1 M/TH 2 48 $ 15.45 $ 7 41.60 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Chevy Chase Community Center Active 5601 CONNECTICUT AVENUE NW WDC NW 20015 3 4 YD 1 M/TH 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+DPR TRASH ROUTINE Chevy Chase Recreation Center Active 5500 41ST STREET NW WDC NW 20015 3 96 GA 2 M/T/W/TH/F 5 240 $ 10.30 $ 2 ,472.00 Rear End Loading VENDOR
+DPR TRASH ROUTINE Chevy Chase Community Center Active 5601 CONNECTICUT AVENUE NW WDC NW 20015 3 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Rear End Loading VENDOR
+DPR TRASH ROUTINE Chuck Brown & Langdon Park Community Center Active 2901 20TH STREET NE WDC NE 20018 5 8 YD 1 M/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Chuck Brown & Langdon Park Community Center Active 2901 20TH STREET NE WDC NE 20018 5 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR No dedicated can for the Memorial site. (Cans are shared w/community center)
+DPR TRASH ROUTINE Columbia Heights Recreation Center Active 1480 GIRARD STREET NW WDC NW 20009 1 96 GA 3 M/T/W/TH/F 5 360 $ 10.30 $ 3 ,708.00 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Chevy Chase Recreation Center Active 5500 41ST STREET NW WDC NW 20015 3 96 GA 2 T/F 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Columbia Heights Recreation Center Active Litter can services 1480 GIRARD STREET NW WDC NW 20009 1 35 GA 3 M/TH 2 144 $ 15.45 $ 2 ,224.80 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Congress Heights Recreation Center Active 611 ALABAMA AVENUE SE WDC SE 20032 20018 8 8 YD 1 T/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Congress Heights Recreation Center Active 611 ALABAMA AVENUE SE WDC SE 20032 8 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Congress Heights Recreation Center Active Litter can services 611 ALABAMA AVENUE SE WDC SE 20032 8 35 GA 5 W 1 120 $ 15.45 $ 1 ,854.00 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Deanwood Recreation Center Active 1350 49TH STREET NE WDC NE 20019 7 8 YD 1 T/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Deanwood Recreation Center Active 1350 49TH STREET NE WDC NE 20019 7 6 YD 4 T/F 2 192 $ 51.50 $ 9 ,888.00 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Columbia Heights Recreation Center Active 1480 GIRARD STREET NW WDC NW 20009 1 96 GA 3 T/F 2 144 $ 10.30 $ 1 ,483.20 Rear End Loading VENDOR
+DPR TRASH ROUTINE Douglas Community Center Active 2100 Stanton Terrace, SE WDC SE 20018 8 8 YD 1 T/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Douglas Community Center Active Litter can services 2099 Stanton Terrace, SE WDC SE 20020 8 35 GA 2 W 1 48 $ 15.45 $ 7 41.60 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Douglas Community Center Active 2100 Stanton Terrace, SE WDC SE 20020 8 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR TRASH ROUTINE Duke Ellington School of the Arts (field) Active 1700 38TH STREET NW WDC NW 20007 2 4 YD 1 T 1 24 $ 40.17 $ 9 64.08 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Edgewood Recreation Center Active Litter can services 301 FRANKLIN STREET NE WDC NE 20002 5 35 GA 7 TH 1 168 $ 15.45 $ 2 ,595.60 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Ellington School of the Arts (field) Active 1700 38TH STREET NW WDC NW 20007 2 4 YD 1 T 1 24 $ 40.17 $ 9 64.08 Front End Loading VENDOR
+DPR TRASH ROUTINE Emery Recreation Center Active 5701 GEORGIA AVENUE NW WDC NW 20011 4 6 YD 1 T/TH/S 3 72 $ 51.50 $ 3 ,708.00 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Emery Recreation Center Active 5701 GEORGIA AVENUE NW WDC NW 20011 4 4 YD 1 T/F 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+DPR TRASH ROUTINE Ferebee Hope Recreation Center Active 3999 8TH STREET SE WDC SE 20032 8 8 YD 1 T/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Ferebee Hope Recreation Center Active 3999 8TH STREET SE WDC SE 20032 8 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR RECYCLING ROUTINE FOREST HILL Active Litter can services 3200 CHESAPEAKE STREET NW WDC NW 20016 3 35 GA 4 M/TH 2 192 $ 15.45 $ 2 ,966.40 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Fort Davis Recreation Active 1400 41ST STREET SE WDC SE 20020 7 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR TRASH ROUTINE Fort Greble Recreation Center Active 250 Elmira Street, SW WDC SW 20018 8 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Fort Greble Recreation Center Active 250 Elmira Street, SW WDC SW 20032 8 4 YD 1 T/F 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Fort Lincoln Recreation Center (Theodore Hagan Cultural Center) Active 3100 FORT LINCOLN DRIVE NE WDC NE 20018 5 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR TRASH ROUTINE Fort Lincoln Recreation Center (Theodore Hagan Cultural Center) & Pool Active Seasonal 3100 FORT LINCOLN DRIVE NE WDC NE 20018 5 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Fort Stanton Recreation Center Active 1812 ERIE STREET SE WDC SE 20020 8 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR TRASH ROUTINE Fort Stanton Recreation Center & Pool Active Seasonal 1812 ERIE STREET SE WDC SE 20020 8 8 YD 1 T/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Fort Stevens Recreation Center Active Litter can services 1327 VAN BUREN STREET NW WDC NW 20012 4 35 GA 4 M/TH 2 192 $ 15.45 $ 2 ,966.40 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Fort Stevens Recreation Center Active Dumpster on wheels 1327 VAN BUREN STREET NW WDC NW 20012 4 2 YD 1 TH 1 24 $ 36.05 $ 8 65.20 Rear End Loading VENDOR
+DPR TRASH ROUTINE Francis Pool Active Seasonal 2435 N STREET NW WDC NW 20037 2 6 YD 1 M/W/F 3 72 $ 51.50 $ 3 ,708.00 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Francis Pool Active Seasonal 2435 N STREET NW WDC NW 20037 2 6 YD 1 M/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Friendship Recreation Center Active Litter can services 4500 VAN NESS STREET NW WDC NW 20016 3 35 GA 4 M/TH 2 192 $ 15.45 $ 2 ,966.40 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Friendship Recreation Center Active 4500 VAN NESS STREET NW WDC NW 20016 3 3 YD 1 M/W/F 3 72 $ 38.11 $ 2 ,743.92 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Friendship Recreation Center Active Dumpster on wheels 4500 VAN NESS STREET NW WDC NW 20016 3 3 YD 1 TH 1 24 $ 38.11 $ 9 14.64 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Gage-Eckington Dog Park Active Litter can services 286 V Street, NW WDC NW 20001 1 35 GA 2 M/TH 2 96 $ 15.45 $ 1 ,483.20 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Guy Mason Community Center Active Litter can services 3600 Calvert Street, NW WDC NW 20007 3 35 GA 5 M/TH 2 240 $ 15.45 $ 3 ,708.00 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Guy Mason Community Center Active 3600 CALVERT STREET NW WDC NW 20007 3 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Hamilton Recreation Center Active Litter can services 1340 HAMILTON STREET NW WDC NW 20011 4 35 GA 1 M/TH 2 48 $ 15.45 $ 7 41.60 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Guy Mason Community Center Active 3600 CALVERT STREET NW WDC NW 20007 3 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+
+DPR RECYCLING ROUTINE Hardy Recreation Center Active Litter can services 4500 Q Street, NW WDC NW 20007 3 35 GA 5 M/TH 2 240 $ 15.45 $ 3 ,708.00 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Hardy Recreation Center Active 4500 Q Street, NW WDC NW 20018 3 4 YD 1 T/TH 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Hardy Recreation Center Active 4500 Q Street, NW WDC NE 20007 3 4 YD 1 T/TH 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Harrison Recreation Center Active Litter can services 1330 V STREET NW WDC NW 20009 1 35 GA 2 M/TH 2 96 $ 15.45 $ 1 ,483.20 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Harrison Recreation Center Active 1330 V STREET NW WDC NW 20009 1 8 YD 1 T/F 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Harrison Recreation Center Active 1330 V STREET NW WDC NW 20009 1 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR RECYCLING ROUTINE HARRY THOMAS Active Litter can services 1743 LINCOLN ROAD NE WDC NE 20002 5 35 GA 3 TH 1 72 $ 15.45 $ 1 ,112.40 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Harry Thomas Recreation Center Active 1743 LINCOLN ROAD NE WDC NE 20002 5 4 YD 1 T/TH 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Harry Thomas Recreation Center Active 1743 LINCOLN ROAD NE WDC NE 20002 5 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR RECYCLING ROUTINE HEARST RECREATION CENTER Active Litter can services 3950 37TH STREET NW WDC NW 20008 3 35 GA 7 M/TH 2 336 $ 15.45 $ 5 ,191.20 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Hillcrest Recreation Center Active Litter can services 3100 DENVER STREET SE WDC SE 20020 7 35 GA 1 W 1 24 $ 15.45 $ 3 70.80 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Hillcrest Recreation Center Active 3100 DENVER STREET SE WDC SE 20020 7 4 YD 1 T/TH 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Hillcrest Recreation Center Active 3100 DENVER STREET SE WDC SE 20020 7 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR TRASH ROUTINE Jelleff Community Center Active 3265 S STREET NW WDC NW 20007 2 4 YD 1 T/TH/S 3 72 $ 40.17 $ 2 ,892.24 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Jelleff Community Center Active 3265 S STREET NW WDC NW 20007 2 2 YD 1 F 1 24 $ 36.05 $ 8 65.20 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Joe Cole Recreation Center Active Litter can services 1299 NEAL STREET NE WDC NE 20002 5 35 GA 1 TH 1 24 $ 15.45 $ 3 70.80 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Joseph (Joe) Cole Recreation Center Active 1299 NEAL STREET NE WDC NE 20002 5 4 YD 1 T/TH/S 3 72 $ 40.17 $ 2 ,892.24 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Joseph (Joe) Cole Recreation Center Active Enclou a s l r l e e y a w va a i y lable in 1299 NEAL STREET NE WDC NE 20002 5 96 GA 2 T 1 48 $ 10.30 $ 4 94.40 Rear End Loading VENDOR
+DPR TRASH ROUTINE Joy Evans Recreation Center Active 555 L STREET SE**(see notes) WDC SE 20003 8 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Rear End Loading VENDOR 5 w 5 il 5 l b L e S m TR o E v E e T d S t E o i 3 s 0 t 3 h 0 e G sw S i t n , g S s E p i a n c S e e . p T t h e is m n b o e t r e 2 s 0 e 2 r 4 ve . s as a reminder that the Joy Evans
+DPR RECYCLING ROUTINE Joy Evans Recreation Center Active 555 L STREET SE WDC SE 20003 8 4 YD 1 TH 1 24 $ 40.17 $ 9 64.08 Rear End Loading VENDOR 5 w 5 il 6 l b L e S m TR o E v E e T d S t E o i 3 s 0 t 3 h 0 e G sw S i t n , g S s E p i a n c S e e . p T t h e is m n b o e t r e 2 s 0 e 2 r 4 ve . s as a reminder that the Joy Evans
+DPR RECYCLING ROUTINE Kalorama Recreation Center Active Litter can services 1875 COLUMBIA ROAD NW WDC NW 20009 1 35 GA 2 M/TH 2 96 $ 15.45 $ 1 ,483.20 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Kalorama Recreation Center Active 1875 COLUMBIA ROAD NW WDC NW 20009 1 96 GA 4 M/W/F 3 288 $ 10.30 $ 2 ,966.40 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Kalorama Recreation Center Active 1875 COLUMBIA ROAD NW WDC NW 20009 1 96 GA 4 M/TH 2 192 $ 10.30 $ 1 ,977.60 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Kelly Miller Park Active Litter can services 4900 BROOKS STREET NE WDC NE 20019 7 35 GA 2 TH 1 48 $ 15.45 $ 7 41.60 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Kenilworth Recreation Center Active 4300 ANACOSTIA AVENUE NE WDC NE 20019 7 4 YD 1 T/F 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Kenilworth Recreation Center Active Litter can services 4321 ORD STREET NE WDC NE 20019 7 35 GA 1 TH 1 24 $ 15.45 $ 3 70.80 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Kenilworth Recreation Center Active 4321 ORD STREET NE WDC NE 20019 7 8 YD 2 T/TH 2 96 $ 63.86 $ 6 ,130.56 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Kennedy Recreation Center Active Litter can services 1401 7TH STREET NW WDC NW 20001 2 35 GA 4 M/TH 2 192 $ 15.45 $ 2 ,966.40 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Kennedy Recreation Center Active 1401 7TH STREET NW WDC NW 20001 2 8 YD 1 T/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Kennedy Recreation Center Active 1401 7TH STREET NW WDC NW 20001 2 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR RECYCLING ROUTINE King Greenleaf Recreation Center Active Litter can services 201 N STREET SW WDC SW 20024 6 35 GA 3 W 1 72 $ 15.45 $ 1 ,112.40 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE King Greenleaf Recreation Center Active 201 N STREET SW WDC SW 20024 6 6 YD 1 T/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Lafayette Recreation Center Active Litter can services 5900 33RD STREET NW WDC NW 20015 4 35 GA 3 M/TH 2 144 $ 15.45 $ 2 ,224.80 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Lafayette Recreation Center Active 5900 33RD STREET NW WDC NW 20015 4 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Lafayette Recreation Center Active 5900 33RD STREET NW WDC NW 20015 4 6 YD 1 T/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR TRASH ROUTINE Lamond Recreation Center Active 20 TUCKERMAN STREET NW WDC NW 20011 4 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Rear End Loading VENDOR
+DPR TRASH ROUTINE Langdon Park Pool Active Seasonal 2860 MILLS AVENUE NE WDC NE 20018 5 6 YD 1 M/W/F 3 72 $ 51.50 $ 3 ,708.00 Front End Loading VENDOR No dedicated can for the Memorial site. (Cans are shared w/community center)
+DPR RECYCLING ROUTINE Lamond Recreation Center Active On wheels 20 TUCKERMAN STREET NW WDC NW 20011 4 2 YD 1 TH 1 24 $ 36.05 $ 8 65.20 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE LANSBURGH PARK Active Litter can services 1098 DELAWARE AVENUE SW WDC SW 20024 6 35 GA 3 W 1 72 $ 15.45 $ 1 ,112.40 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Ledroit Park Active Litter can services 2025 3RD STREET NW WDC NW 20002 1 35 GA 1 M/TH 2 48 $ 15.45 $ 7 41.60 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Macomb Recreation Center Active 3409 MACOMB STREET NW WDC NW 20016 3 96 GA 3 M/T/W/TH/F 5 360 $ 10.30 $ 3 ,708.00 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Lorenzo Allen Memorial Park Active Litter can services 5101-5199 9TH STREET NW WDC NW 20011 4 35 GA 3 M/TH 2 144 $ 15.45 $ 2 ,224.80 Rear loading / hand pull VENDOR This is a triangle park
+DPR RECYCLING ROUTINE Macomb Recreation Center Active 3409 MACOMB STREET NW WDC NW 20016 3 96 GA 3 M/TH 2 144 $ 10.30 $ 1 ,483.20 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Macomb Recreation Center Active Litter can services 3409 MACOMB STREET NW WDC NW 20016 3 35 GA 2 M/TH 2 96 $ 15.45 $ 1 ,483.20 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Malcolm X Opportunity Center Active 1351 ALABAMA AVENUE SE WDC SE 20032 8 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR TRASH ROUTINE Marie Reed Elementary & Recreation Center Active 2201 18TH STREET NW WDC NW 20009 1 4 YD VIP (rear load) 1 M/T/W/TH/F 5 120 $ 86.52 $ 1 0,382.40 Front End Loading VENDOR
+DPR TRASH ROUTINE Malcolm X Recreation Center Active 1351 ALABAMA AVENUE SE WDC SE 20032 8 8 YD 1 T/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Marie Reed Elementary & Recreation Center Active 2201 18TH STREET NW WDC NW 20009 1 4 YD VIP (rear load) 1 M/T/W/TH/F 5 120 $ 86.52 $ 1 0,382.40 Front End Loading VENDOR
+DPR TRASH ROUTINE Marvin Gaye Recreation Center Active 6201 BANKS PLACE NE WDC NE 20018 7 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR TRASH ROUTINE Marvin Gaye Park Active 5200 FOOTE STREET NE WDC NE 20019 7 8 YD 1 T/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Marvin Gaye Recreation Center Active 6201 BANKS PLACE NE WDC NE 20019 7 6 YD 1 M/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Marvin Gaye Recreation Center Active Litter can services 6201 BANKS PLACE NE WDC NE 20019 7 35 GA 3 TH 1 72 $ 15.45 $ 1 ,112.40 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Mitchell Park Active 1801 23RD STREET NW WDC NW 20008 2 8 YD 2 T/TH 2 96 $ 63.86 $ 6 ,130.56 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Mitchell Park Active 1801 23RD STREET NW WDC NW 20008 2 2 YD 1 F 1 24 $ 36.05 $ 8 65.20 Rear End Loading VENDOR
+DPR TRASH ROUTINE North Michigan Park Rec Ctr Active 1333 EMERSON STREET NE WDC NE 20017 5 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE North Michigan Park Recreation Center Active 1333 EMERSON STREET NE WDC NE 20017 5 4 YD 1 M/TH 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+DPR TRASH ROUTINE Oxon Run Pool Active Seasonal 501 MISSISSIPPI AVENUE SE WDC SE 20032 8 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Oxon Run Pool Active Seasonal 501 MISSISSIPPI AVENUE SE WDC SE 20032 8 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Oxon Run Pool Playground Active Litter can services 501 MISSISSIPPI AVENUE SE WDC SE 20032 8 35 GA 1 W 1 24 $ 15.45 $ 3 70.80 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Palisades Community Center Active Litter can services 5200 SHERIER PLACE NW WDC NW 20016 3 35 GA 4 M/TH 2 192 $ 15.45 $ 2 ,966.40 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Palisades Community Center Active 5200 SHERIER PLACE NW WDC NW 20016 3 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Palisades Community Center Active 5200 SHERIER PLACE NW WDC NW 20016 3 4 YD 1 TH 1 24 $ 40.17 $ 9 64.08 Rear End Loading VENDOR
+
+DPR TRASH ROUTINE Parkview Community Center Active 693 OTIS PLACE NW WDC NW 20010 1 3 YD 1 M/W/F 3 72 $ 38.11 $ 2 ,743.92 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Parkview Community Center Active 693 OTIS PLACE NW WDC NW 20010 1 4 YD 1 F 1 24 $ 40.17 $ 9 64.08 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE PETWORTH MEDITATION GARDEN Active Litter can services 13th Street and Quincy Street, NW WDC NW 20011 4 35 GA 1 M/TH 2 48 $ 15.45 $ 7 41.60 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Powell Playground Active Litter can services 3149 16TH STREET NW WDC NW 20010 1 35 GA 2 M/TH 2 96 $ 15.45 $ 1 ,483.20 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Randall Recreation Center Active Litter can services 820 SOUTH CAPITOL STREET SW WDC SW 20024 6 35 GA 2 W 1 48 $ 15.45 $ 7 41.60 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Randall Recreation Center Active 820 SOUTH CAPITOL STREET SW WDC SW 20024 6 8 YD 1 T/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Randall Recreation Center Active 820 SOUTH CAPITOL STREET SW WDC SW 20024 6 8 YD 1 T/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR TRASH ROUTINE Ridge Recreation Center Active 800 RIDGE ROAD SE WDC SE 20019 7 4 YD 1 T/TH 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Ridge Recreation Center Active 800 RIDGE ROAD SE WDC SE 20019 7 4 YD 1 T/TH 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Ridge Recreation Center Active Litter can services 830 RIDGE ROAD SE WDC SE 20019 7 35 GA 5 W 1 120 $ 15.45 $ 1 ,854.00 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Riggs LaSalle Recreation Center Active 501 RIGGS ROAD NE WDC NE 20011 4 4 YD 1 T/TH 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Riggs LaSalle Recreation Center Active 501 RIGGS ROAD NE WDC NE 20011 4 4 YD 1 T/TH 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Riggs LaSalle Recreation Center Active Litter can services 501 RIGGS ROAD NE WDC NE 20011 4 35 GA 1 TH 1 24 $ 15.45 $ 3 70.80 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Rita Bright Community Center Active 2500 14TH STREET NW WDC NW 20009 1 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Rita Bright Community Center Active 2500 14TH STREET NW WDC NW 20009 1 4 YD 1 M/TH 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Rose Park Recreation Center Active Litter can services 2609 Dumbarton Street, NW WDC NW 20007 2 35 GA 5 M/TH 2 240 $ 15.45 $ 3 ,708.00 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Rose Park Recreation Center Active 2609 Dumbarton Street, NW WDC NW 20018 2 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Rose Park Recreation Center Active 2610 Dumbarton Street, NW WDC NW 20007 2 4 YD 1 M/TH 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+DPR TRASH ROUTINE Rosedale Recreation Center Active On wheels 1701 GALES STREET NE WDC NE 20002 7 4 YD 2 T/TH 2 96 $ 40.17 $ 3 ,856.32 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Rosedale Recreation Center Active 1701 GALES STREET NE WDC NE 20002 7 96 GA 4 T 1 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Shaw Dog Park Active Litter can services 1673 11th Street, NW WDC NW 20001 2 35 GA 1 M/TH/S 3 72 $ 15.45 $ 1 ,112.40 Rear loading / hand pull DISTRICT-OWNED Increasing service by 1 more day. Effective 11/19/24
+DPR RECYCLING ROUTINE Shaw Basketball Courts (Add effective Nov 19, 2024) Active Litter can services 1615 11th Street, NW WDC NW 20001 2 35 GA 2 M/TH/S 3 144 $ 15.45 $ 2 ,224.80 Rear loading / hand pull DISTRICT-OWNED Add effective 11/19/2024
+DPR RECYCLING ROUTINE Shaw Skate Park (Add effective Nov 19, 2024) Active Litter can services 1610 11th Street, NW WDC NW 20001 2 35 GA 1 M/TH/S 3 72 $ 15.45 $ 1 ,112.40 Rear loading / hand pull DISTRICT-OWNED Add effective 11/19/2024
+DPR RECYCLING ROUTINE Shepherd Field Community Center Active Litter can services 7800 14TH STREET NW WDC NW 20012 4 35 GA 2 M/TH 2 96 $ 15.45 $ 1 ,483.20 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Sherwood Recreation Center Active 640 10TH STREET NE WDC NE 20002 6 4 YD 1 M/T/W/TH/F/S 6 144 $ 40.17 $ 5 ,784.48 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Sherwood Recreation Center Active 640 10TH STREET NE WDC NE 20002 6 2 YD 1 M/TH 2 48 $ 36.05 $ 1 ,730.40 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Sherwood Recreation Center Active Litter can services 640 10TH STREET NE WDC NE 20002 6 35 GA 2 TH 1 48 $ 15.45 $ 7 41.60 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Southeast Tennis & Learning Active 701 MISSISSIPPI AVENUE SE WDC SE 20032 8 8 YD 1 T/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Southeast Tennis & Learning Active 701 MISSISSIPPI AVENUE SE WDC SE 20032 8 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Stead Recreation Center Active Litter can services 1625 P STREET NW WDC NW 20036 2 35 GA 4 M/TH 2 192 $ 15.45 $ 2 ,966.40 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Stead Recreation Center Active 1625 P STREET NW WDC NW 20036 2 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Stead Recreation Center Active 1625 P STREET NW WDC NW 20036 2 4 YD 1 M/TH 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+School and recreation center are located in the same building. Not to be confused
+DPR TRASH ROUTINE Stoddert Recreation Center Active 4001B Calvert Street, NW WDC NW 20018 3 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR with Woody Park (formerly Benning-Stoddert Community Center at 5100 Southern
+Avenue SE
+DPR RECYCLING ROUTINE Takoma Park Playground Active Litter can services 300 VAN BUREN STREET NW WDC NW 20012 4 35 GA 4 M/TH 2 192 $ 15.45 $ 2 ,966.40 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Takoma Recreation Center & Pool Active Seasonal 300 VAN BUREN STREET NW WDC NW 20012 4 8 YD 1 T/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Takoma Recreation Center & Pool Active Seasonal 300 VAN BUREN STREET NW WDC NW 20012 4 6 YD 1 T/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Trinidad Recreation Center Active Litter can services 1310 CHILDRESS STREET NE WDC NE 20002 5 35 GA 4 TH 1 96 $ 15.45 $ 1 ,483.20 Rear loading / hand pull VENDOR
+DPR RECYCLING ROUTINE Trinidad Recreation Center Active 1310 CHILDRESS STREET NE WDC NE 20002 5 6 YD 1 M/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR TRASH ROUTINE Trinidad Recreation Center Active 1310 CHILDRESS STREET NE WDC NE 20002 5 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Turkey Thicket Community Center Active 1100 MICHIGAN AVENUE NE WDC NE 20017 5 6 YD 1 T/f 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Turkey Thicket Community Center Active Litter can services 1100 MICHIGAN AVENUE NE WDC NE 20017 5 35 GA 4 TH 1 96 $ 15.45 $ 1 ,483.20 Rear loading / hand pull VENDOR
+DPR TRASH ROUTINE Turkey Thicket Community Center Active 1100 MICHIGAN AVENUE NE WDC NE 20017 5 8 YD 2 M/W/F 3 144 $ 63.86 $ 9 ,195.84 Front End Loading VENDOR
+DPR TRASH ROUTINE Upshur Recreation Center Active 4300 ARKANSAS AVENUE NW WDC NW 20011 4 4 YD 1 M/W/F 3 72 $ 40.17 $ 2 ,892.24 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Upshur Recreation Center Active 4300 ARKANSAS AVENUE NW WDC NW 20011 4 4 YD 1 M/TH 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+DPR TRASH ROUTINE Volta / Georgetown Recreation Center Active 1555 34TH STREET NW WDC NW 20007 2 96 GA 2 M/W/F 3 144 $ 10.30 $ 1 ,483.20 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE Volta / Georgetown Recreation Center Active 1555 34TH STREET NW WDC NW 20007 2 6 YD 1 M/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR TRASH ROUTINE William H. Rumsey Aquatic Facility Active 635 NORTH CAROLINA AVENUE SE WDC SE 20003 6 96 GA 3 M 1 72 $ 10.30 $ 7 41.60 Rear End Loading VENDOR
+DPR RECYCLING ROUTINE William H. Rumsey Aquatic Facility Active 635 NORTH CAROLINA AVENUE SE WDC SE 20003 6 96 GA 3 M 1 72 $ 10.30 $ 7 41.60 Rear End Loading VENDOR
+DPR TRASH ROUTINE Wilson Aquatic Center Active 4551 FORT DRIVE NW WDC NW 20016 3 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Wilson Aquatic Center Active 4551 FORT DRIVE NW WDC NW 20016 3 6 YD 1 T/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+DPR TRASH ROUTINE Woody Park Community Center Active 5100 SOUTHERN AVENUE SE WDC SE 20019 7 8 YD 1 T/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Woody Park Community Center Active 5100 SOUTHERN AVENUE SE WDC SE 20019 7 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPR RECYCLING ROUTINE Taft Dwight Mosley Field Active Litter can services 1800 PERRY STREET NE WDC NE 20018 5 35 GA 1 TH 1 24 $ 15.45 $ 3 70.80 Rear loading / hand pull VENDOR Change name to TAFT DWIGHT MOSELY FIELD. Effective 11/19/24
+DPR RECYCLING ROUTINE DPR Warehouse Active 2424 EVARTS STREET NE WDC NE 20018 5 30 YD roll off 1 M 1 24 $ 303.85 $ 7 ,292.40 Trailer service VENDOR Disposal Cost Allowance
+DPR RECYCLING ROUTINE Eastern Market Park Active Litter can services 900 D STREET SE WDC SE 20003 6 35 GA 8 W/S 2 384 $ 15.45 $ 5 ,932.80 Rear loading / hand pull DISTRICT-OWNED
+DPR RECYCLING ROUTINE Carter Woodson Park Active Litter can services 900 RHODE ISLAND AVENUE NW WDC NW 20001 2 35 GA 2 M/TH 2 96 $ 15.45 $ 1 ,483.20 Rear loading / hand pull DISTRICT-OWNED
+DPR RECYCLING ROUTINE Reservoir Park Active Litter can services 10 Lower Service Court NW WDC NW 20001 5 35 GA 4 M/TH 2 192 $ 15.45 $ 2 ,966.40 Rear loading / hand pull DISTRICT-OWNED T R h e i s s e s rv it o e i r i s r e a s s e so rv c e ia n te o d w t n o e P w a r d c e e v l e 2 l 5 o 0 p 1 m 1 e s n t t S c t o N m W pl . e P x a o r f c f e N l w or a t s h p C a a r p t i o to f l t h St e N M W cMillan
+DPR RECYCLING ROUTINE W Street Park Active Litter can services W Street and 48th Street NW WDC NW 20007 3 35 GA 4 M/TH 2 192 $ 15.45 $ 2 ,966.40 Rear loading / hand pull DISTRICT-OWNED T R h e i s s e s rv it o e i r i s r e a s s e so rv c e ia n te o d w t n o e P w a r d c e e v l e 2 l 5 o 0 p 1 m 1 e s n t t S c t o N m W pl . e P x a o r f c f e N l w or a t s h p C a a r p t i o to f l t h St e N M W cMillan
+DPR TRASH ROUTINE Reservoir Park Active 10 Lower Service Court NW WDC NW 20001 5 96 GA 4 M/TH 2 192 $ 10.30 $ 1 ,977.60 Rear End Loading DISTRICT-OWNED T R h e i s s e s rv it o e i r i s r e a s s e so rv c e ia n te o d w t n o e P w a r d c e e v l e 2 l 5 o 0 p 1 m 1 e s n t t S c t o N m W pl . e P x a o r f c f e N l w or a t s h p C a a r p t i o to f l t h St e N M W cMillan
+DPR TRASH ROUTINE Reservoir Park Active On wheels 10 Lower Service Court NW WDC NW 20001 5 2 YD 4 M/W/S 3 288 $ 36.05 $ 1 0,382.40 Rear End Loading DISTRICT-OWNED T R h e i s s e s rv it o e i r i s r e a s s e so rv c e ia n te o d w t n o e P w a r d c e e v l e 2 l 5 o 0 p 1 m 1 e s n t t S c t o N m W pl . e P x a o r f c f e N l w or a t s h p C a a r p t i o to f l t h St e N M W cMillan
+DPR RECYCLING ROUTINE Reservoir Park Active 10 Lower Service Court NW WDC NW 20001 5 96 GA 3 M/TH 2 144 $ 10.30 $ 1 ,483.20 Rear End Loading DISTRICT-OWNED T R h e i s s e s rv it o e i r i s r e a s s e so rv c e ia n te o d w t n o e P w a r d c e e v l e 2 l 5 o 0 p 1 m 1 e s n t t S c t o N m W pl . e P x a o r f c f e N l w or a t s h p C a a r p t i o to f l t h St e N M W cMillan
+DPR RECYCLING ROUTINE Mitchell Park Active Litter can services 1801 23RD STREET NW WDC NW 20008 2 35 GA 2 M/TH 2 96 $ 15.45 $ 1 ,483.20 Rear loading / hand pull DISTRICT-OWNED
+
+DPW TRASH ROUTINE DPW - Golden Triangle (8 yd VIP svc) Active 900 19TH STREET NW WDC NW 20006 2 8 YD VIP 1 M/W/F 3 72 $ 132.87 $ 9 ,566.64 Front End Loading VENDOR
+DPW TRASH ROUTINE DPW - Okie Street Trailer Active 1431 OKIE STREET NE WDC NE 20002 5 6 YD 1 T/TH/S 3 72 $ 51.50 $ 3 ,708.00 Front End Loading VENDOR
+DPW TRASH ROUTINE DPW - Golden Triangle (8 yd VIP svc) on call Active 919 18TH STREET NW WDC NW 20006 2 8 YD VIP 1 M/W/F 3 72 $ 132.87 $ 9 ,566.64 Front End Loading VENDOR
+DPW RECYCLING ROUTINE DPW - Okie Street Trailer Active 1431 OKIE STREET NE WDC NE 20002 5 8 YD 1 T/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPW RECYCLING ROUTINE DPW - SWAMA Trailer Active 1725 FENWICK STREET NE WDC NE 20002 5 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPW TRASH ROUTINE DPW - SWAMA Trailer Active 1725 FENWICK STREET NE WDC NE 20018 5 8 YD 1 M/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+DPW TRASH ROUTINE DPW Bryant Street Active 201 BRYANT STREET NW WDC NW 20001 1 6 YD 1 W 1 24 $ 51.50 $ 1 ,236.00 Front End Loading VENDOR
+DPW RECYCLING ROUTINE DPW Bryant Street yard Active 200 BRYANT STREET NW WDC NW 20001 1 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPW TRASH ROUTINE DPW Fleet Active 1827-33 West Virginia Avenue, NE WDC NE 20018 5 6 YD 1 M/T/W/TH/F 5 120 $ 51.50 $ 6 ,180.00 Front End Loading VENDOR
+DPW TRASH ROUTINE DPW Parking Enforcement Active 1725 15TH STREET NE WDC NE 20002 5 8 YD 2 T/TH/S 3 144 $ 63.86 $ 9 ,195.84 Front End Loading VENDOR
+DPW RECYCLING ROUTINE DPW Fleet Active Cardboard only 1827-33 West Virginia Avenue, NE WDC NE 20002 5 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPW RECYCLING ROUTINE DPW Parking Enforcement Active 1725 15TH STREET NE WDC NE 20002 5 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+DPW TRASH ROUTINE Impoundment -DPW Active 5001 SHEPHERD PARKWAY SW WDC SW 20018 8 4 YD 1 M/F 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+DPW TRASH ROUTINE Impoundment -DPW Active 5001 SHEPHERD PARKWAY SW WDC SW 20018 8 30 YD roll off 1 Monthly 1 5 $ 303.85 $ 1 ,519.25 Trailer service VENDOR Disposal Cost Allowance
+DPW RECYCLING ROUTINE Impoundment -DPW Active 5001 SHEPHERD PARKWAY SW WDC SW 20032 8 4 YD 1 T 1 24 $ 40.17 $ 9 64.08 Front End Loading VENDOR
+DPW TRASH ROUTINE DPW South Inspection Active 1001 HALF STREET SW WDC SW 20024 6 6 YD 1 W 1 24 $ 51.50 $ 1 ,236.00 Front End Loading VENDOR
+DPW TRASH ROUTINE DPW Impound Lot at Reed Street NE Active On wheels 2641 Reed Street NE WDC NE 20018 5 2 YD 1 T 1 24 $ 36.05 $ 8 65.20 Rear End Loading VENDOR
+DYRS TRASH ROUTINE DYRS Youth Service Center (Correctional Detention Facility) Active 1000 MOUNT OLIVET ROAD NE WDC NE 20002 5 15 YD compactor 1 M/TH 2 48 $ 303.85 $ 1 4,584.80 Trailer service VENDOR Disposal Cost Allowance
+DYRS RECYCLING ROUTINE New Beginnings Youth Detention Facility - Laurel MD Active 8400 River Road, Laurel, MD Laurel, MD N/A 20724 N/A 8 YD 2 T/F 2 96 $ 62.83 $ 6 ,031.68 Front End Loading VENDOR
+DYRS TRASH ROUTINE New Beginnings Youth Detention Facility - Laurel MD Active 8401 River Road, Laurel, MD Laurel, MD N/A 20018 N/A 8 YD 2 M/T/W/TH/F 5 240 $ 63.86 $ 1 5,326.40 Front End Loading VENDOR
+DYRS RECYCLING ROUTINE DYRS Youth Service Center (Correctional Detention Facility) Active 1000 MOUNT OLIVET ROAD NE WDC NE 20002 5 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+EM TRASH ROUTINE Eastern Market Active seasonal 225 7TH STREET SE WDC SE 20003 6 8 YD 1 SUN 1 24 $ 63.86 $ 1 ,532.64 Front End Loading VENDOR seasonal only
+EM RECYCLING ROUTINE Eastern Market Active Vendor provided 225 7TH STREET SE WDC SE 20003 6 30 YD compactor 1 T 1 24 $ 303.85 $ 7 ,292.40 Trailer service VENDOR Disposal Cost Allowance
+EM TRASH ROUTINE Eastern Market Active 225 7TH STREET SE WDC SE 20003 6 8 YD 2 M/W/TH/F/S 5 240 $ 63.86 $ 1 5,326.40 Front End Loading VENDOR
+EOM TRASH ROUTINE DC Office of Neighborhood Safety and Engagement (ONSE) Active 100 42ND STREET NE WDC NE 20019 7 8 YD 1 M/TH 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+EOM RECYCLING ROUTINE DC Office of Neighborhood Safety and Engagement (ONSE) Active 100 42ND STREET NE WDC NE 20019 7 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #24 Active 5101 GEORGIA AVENUE NW WDC NW 20011 4 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Fire & EMS PSCC Active 310 MCMILLAN DRIVE NW WDC NW 20001 1 8 YD 1 W/F 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Fire & EMS PSCC Active 310 MCMILLAN DRIVE NW WDC NW 20001 1 8 YD 1 M/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #02 Active 500 F STREET NW WDC NW 20001 2 6 YD 1 T 1 24 $ 51.50 $ 1 ,236.00 Front End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #03 Active 439 NEW JERSEY AVENUE NW WDC NW 20001 6 2 YD 1 W 1 24 $ 36.05 $ 8 65.20 Rear End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #02 Active 500 F STREET NW WDC NW 20001 2 96 GA 2 T/F 1 48 $ 10.30 $ 4 94.40 Rear End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #03 Active 439 NEW JERSEY AVENUE NW WDC NW 20001 6 96 GA 2 W 1 48 $ 10.30 $ 4 94.40 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #04 Active 2531 SHERMAN AVENUE NW WDC NW 20001 1 8 YD 1 W 1 24 $ 63.86 $ 1 ,532.64 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #04 Active 2531 SHERMAN AVENUE NW WDC NW 20001 1 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #05 Active Dumpster on wheels 3412 DENT PLACE NW WDC NW 20007 2 4 YD 1 TH/S 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #05 Active 3412 DENT PLACE NW WDC NW 20007 2 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #06 Active 1300 NEW JERSEY AVENUE NW WDC NW 20001 2 8 YD 1 T/Th 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #06 Active 1300 NEW JERSEY AVENUE NW WDC NW 20001 2 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #07 (Fleet Maintenance) Active 1103 HALF STREET SW WDC SW 20024 6 96 GA 2 T/F 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #07 (Fleet Maintenance) Active 1103 HALF STREET SW WDC SW 20024 6 30 YD roll off 1 TH/S 2 48 $ 303.85 $ 1 4,584.80 Trailer service VENDOR Disposal Cost Allowance
+FEMS TRASH ROUTINE Engine Co #07 (Fleet Maintenance) Active 1103 HALF STREET SW WDC SW 20024 6 8 YD 1 T/Th 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #08 Active 1520 C STREET SE WDC SE 20003 7 4 YD 1 T/S 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #08 Active 1520 C STREET SE WDC SE 20003 7 96 GA 2 T/F 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #09 Active 1617 U STREET NW WDC NW 20009 1 8 YD 1 W 1 24 $ 63.86 $ 1 ,532.64 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #09 Active 1617 U STREET NW WDC NW 20009 1 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #10 Active 1342 FLORIDA AVENUE NE WDC NE 20002 5 8 YD 1 T 1 24 $ 63.86 $ 1 ,532.64 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #10 Active 1342 FLORIDA AVENUE NE WDC NE 20002 5 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #11 Active 3420 14TH STREET NW WDC NW 20010 1 8 YD 1 W 1 24 $ 63.86 $ 1 ,532.64 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #11 Active 3420 14TH STREET NW WDC NW 20010 1 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #12 Active 2225 5TH STREET NE WDC NE 20002 5 8 YD 1 T 1 24 $ 63.86 $ 1 ,532.64 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #12 Active 2225 5TH STREET NE WDC NE 20002 5 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #14 Active 4801 NORTH CAPITOL STREET NE WDC NE 20011 5 96 GA 2 W 1 48 $ 10.30 $ 4 94.40 Rear End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #13 Active 501 4th STREET SW WDC SW 200024 6 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR Admin correction. Address changed to 501 4th St SW
+FEMS TRASH ROUTINE Engine Co #14 Active 4801 NORTH CAPITOL STREET NE WDC NE 20011 5 6 YD 1 W 1 24 $ 51.50 $ 1 ,236.00 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #15 Active 2101 14TH STREET SE WDC SE 20020 8 96 GA 2 T/F 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #15 Active 2101 14TH STREET SE WDC SE 20020 8 8 YD 1 T/S 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #16 Active 1018 13TH STREET NW WDC NW 20005 2 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #16 Active 1018 13TH STREET NW WDC NW 20005 2 6 YD 1 W/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #17 Active 1720 Monroe Street, NE WDC NE 20018 5 96 GA 1 M/TH 2 48 $ 10.30 $ 4 94.40 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #18 Active 414 8TH STREET SE WDC SE 20003 6 2 YD 1 M/T/TH/F 4 96 $ 36.05 $ 3 ,460.80 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #18 Active 414 8TH STREET SE WDC SE 20003 6 96 GA 2 T/F 6 288 $ 10.30 $ 2 ,966.40 Front End Loading VENDOR
+
+FEMS RECYCLING ROUTINE Engine Co #19 Active 2813 PENNSYLVANIA AVENUE SE WDC SE 20020 7 96 GA 2 T/F 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #17 Active 1720 Monroe Street, NE WDC NE 20018 5 4 YD 1 T/S 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #20 Active 4300 WISCONSIN AVENUE NW WDC NW 20016 3 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #19 Active 2813 PENNSYLVANIA AVENUE SE WDC SE 20018 7 8 YD 1 T/S 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #21 Active 1763 LANIER PLACE NW WDC NW 20009 1 2 YD 1 W 1 24 $ 36.05 $ 8 65.20 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #20 Active 4300 WISCONSIN AVENUE NW WDC NW 20016 3 4 YD 1 TH/S 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #21 Active 1763 LANIER PLACE NW WDC NW 20009 1 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #22 (New) Active 6825 GEORGIA AVENUE NW WDC NW 20012 4 96 GA 1 T/F 2 48 $ 10.30 $ 4 94.40 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #22 (New) Active 6825 GEORGIA AVENUE NW WDC NW 20012 4 4 YD 1 M/TH 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #22 (Old 22 - Training Center) Active 5760 GEORGIA AVENUE NW WDC NW 20011 4 4 YD 1 W/F 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #23 Active 2119 G STREET NW WDC NW 20037 2 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #22 (Old 22 - Training Center) Active 5760 GEORGIA AVENUE NW WDC NW 20011 4 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #23 Active 2119 G STREET NW WDC NW 20037 2 4 YD 1 M/TH 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #24 Active 5101 GEORGIA AVENUE NW WDC NW 20011 4 8 YD 1 T 1 24 $ 63.86 $ 1 ,532.64 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #25 Active 3203 MARTIN LUTHER KING JR AVENUE SE WDC SE 20032 8 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #25 Active 3203 MARTIN LUTHER KING JR AVENUE SE WDC SE 20032 8 8 YD 1 T/S 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #26 Active 1340 RHODE ISLAND AVENUE NE WDC NE 20018 5 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #26 Active 1340 RHODE ISLAND AVENUE NE WDC NE 20018 5 8 YD 1 T 1 24 $ 63.86 $ 1 ,532.64 Front End Loading VENDOR Change unit size from 4YD to 8YD effective 11/19/24
+FEMS RECYCLING ROUTINE Engine Co #27 Active 4201 MINNESOTA AVENUE NE WDC NE 20019 7 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #28 Active 3522 CONNECTICUT AVENUE NW WDC NW 20008 3 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #27 Active 4409 MINNESOTA AVENUE NE WDC NE 20019 7 4 YD 1 TH/S 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #28 Active 3522 CONNECTICUT AVENUE NW WDC NW 20008 3 4 YD 1 TH/S 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #29 Active 4811 MACARTHUR BOULEVARD NW WDC NW 20007 3 6 YD 1 T 1 24 $ 51.50 $ 1 ,236.00 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #29 Active 4811 MACARTHUR BOULEVARD NW WDC NW 20007 3 96 GA 1 T 1 24 $ 10.30 $ 2 47.20 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #30 Active 50 49TH STREET NE WDC NE 20019 7 6 YD 1 TH/S 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #30 Active 50 49TH STREET NE WDC NE 20019 7 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #31 Active 4930 CONNECTICUT AVENUE NW WDC NW 20008 3 96 GA 2 M/TH 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #32 Active 2425 IRVING STREET SE WDC SE 20020 8 96 GA 2 T/F 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #31 Active 4930 CONNECTICUT AVENUE NW WDC NW 20008 3 4 YD 1 TH/S 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #32 Active 2425 IRVING STREET SE WDC SE 20020 8 6 YD 1 T/S 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Engine Co #33 Active 101 ATLANTIC STREET SE WDC SE 20032 8 96 GA 2 T/F 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Engine Co #33 Active 101 ATLANTIC STREET SE WDC SE 20032 8 8 YD 1 T/S 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+FEMS TRASH ROUTINE FIRE/EMS Special Operations Division Active 2215 ADAMS PLACE NE WDC NE 20018 5 8 YD 1 T/S 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+FEMS TRASH ROUTINE FIRE/EMS Training Academy Active Concrete Load 4600 SHEPHERD PARKWAY SW WDC SW 20032 8 10 YD roll off 1 Monthly 1 5 $ 303.85 $ 1 ,519.25 Trailer service Vendor Disposal Cost Allowance
+FEMS RECYCLING ROUTINE FIRE/EMS Special Operations Division Active 2215 ADAMS PLACE NE WDC NE 20018 5 8 YD 1 T/S 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+FEMS TRASH ROUTINE FIRE/EMS Training Academy Active 4600 SHEPHERD PARKWAY SW WDC SW 20032 8 30 YD roll off 2 Weekly 1 48 $ 303.85 $ 1 4,584.80 Trailer service VENDOR Disposal Cost Allowance
+FEMS TRASH ROUTINE FIRE/EMS Training Academy Active 4600 SHEPHERD PARKWAY SW WDC SW 20032 8 8 YD 1 W/F 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE FIRE/EMS Training Academy Active 4600 SHEPHERD PARKWAY SW WDC SW 20032 8 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Warehouse (FIRE/EMS & Rescue) Active 3180 V STREET NE WDC NE 20018 5 6 YD 2 T/F 2 96 $ 51.50 $ 4 ,944.00 Front End Loading VENDOR
+FEMS RECYCLING ROUTINE Harbor Patrol Active 550 WATER STREET SW WDC SW 20024 6 96 GA 2 T/F 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+FEMS TRASH ROUTINE Warehouse (FIRE/EMS) Active 3180 V STREET NE WDC NE 20018 5 30 YD roll off 1 T 1 24 $ 303.85 $ 7 ,292.40 Trailer service VENDOR Disposal Cost Allowance
+FEMS TRASH ROUTINE Warehouse (FIRE/EMS) Active 3180 V STREET NE WDC NE 20018 5 96 GA 2 T/F 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+MPD TRASH ROUTINE 1st District Headquarters (Bowen) Active 101 M STREET SW WDC SW 20024 6 8 YD 1 T 1 24 $ 63.86 $ 1 ,532.64 Front End Loading VENDOR
+MPD TRASH ROUTINE 1st District Substation Active 500 E STREET SE WDC SE 20003 6 2 YD 1 T 1 24 $ 36.05 $ 8 65.20 Rear End Loading VENDOR
+MPD RECYCLING ROUTINE 1st District Substation Active 500 E STREET SE WDC SE 20003 6 96 GA 1 T 1 24 $ 10.30 $ 2 47.20 Rear End Loading VENDOR
+MPD RECYCLING ROUTINE 1st District Headquarters (Bowen) Active 101 M STREET SW WDC SW 20024 6 8 YD 1 T 1 24 $ 62.83 $ 1 ,507.92 Front End Loading VENDOR
+MPD RECYCLING ROUTINE 2nd District Headquarters Active 3320 IDAHO AVENUE NW WDC NW 20016 3 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+MPD TRASH ROUTINE 2nd District Headquarters Active 3320 IDAHO AVENUE NW WDC NW 20016 3 8 YD 1 TH/S 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+MPD TRASH ROUTINE 3rd District Headquarters Active 1620 V STREET NW WDC NW 20009 1 8 YD 1 W/F 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+MPD RECYCLING ROUTINE 3rd District Headquarters Active 1620 V STREET NW WDC NW 20009 1 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+MPD TRASH ROUTINE 4th District Headquarters Active 6001 GEORGIA AVENUE NW WDC NW 20011 4 8 YD 1 W/F 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+MPD TRASH ROUTINE 4th District Substation Active 750 PARK ROAD NW WDC NW 20010 1 2 YD 1 W/F 2 48 $ 36.05 $ 1 ,730.40 Rear End Loading VENDOR
+MPD RECYCLING ROUTINE 4th District Substation Active 750 PARK ROAD NW WDC NW 20010 1 96 GA 1 T/F 2 48 $ 10.30 $ 4 94.40 Rear End Loading VENDOR
+MPD RECYCLING ROUTINE 4th District Headquarters Active 6001 GEORGIA AVENUE NW WDC NW 20011 4 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+MPD TRASH ROUTINE 5th District Headquarters Active 1805 BLADENSBURG ROAD NE WDC NE 20002 5 8 YD 1 M/W/F 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+MPD RECYCLING ROUTINE 5th District Headquarters Active 1805 BLADENSBURG ROAD NE WDC NE 20002 5 4 YD 1 T/F 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+MPD TRASH ROUTINE 6th District Substation Active 2701 PENNSYLVANIA AVENUE SE WDC SE 20020 7 8 YD 1 W/F 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+MPD TRASH ROUTINE 6th DistrictHeadquarters at Merritt Active 5002 HAYES STREET NE WDC NE 20019 7 8 YD 1 T/Th 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+MPD RECYCLING ROUTINE 6th DistrictHeadquarters at Merritt Active 5002 HAYES STREET NE WDC NE 20019 7 8 YD 1 T/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+MPD RECYCLING ROUTINE 6th District Substation Active 2701 PENNSYLVANIA AVENUE SE WDC SE 20020 7 8 YD 1 T/F 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+MPD TRASH ROUTINE 7th District Station Active 2455 ALABAMA AVENUE SE WDC SE 20020 8 8 YD 1 W 1 24 $ 63.86 $ 1 ,532.64 Front End Loading VENDOR
+MPD RECYCLING ROUTINE 7th District Station Active 2455 ALABAMA AVENUE SE WDC SE 20020 8 8 YD 1 W 1 24 $ 62.83 $ 1 ,507.92 Front End Loading VENDOR
+
+MPD TRASH ROUTINE Crash Investigation Unity Active 501 NEW YORK AVENUE NW WDC NW 20001 2 6 YD 1 M/W/F 3 72 $ 51.50 $ 3 ,708.00 Front End Loading VENDOR
+MPD RECYCLING ROUTINE Crash Investigation Unity Active 501 NEW YORK AVENUE NW WDC NW 20001 2 6 YD 1 M/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+MPD TRASH ROUTINE Harbor Patrol Active 550 WATER STREET SW WDC SW 20024 6 6 YD 1 TH/S 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+MPD TRASH ROUTINE Impoundment -MPD Active 5000 Blue Plains Drive, SW WDC SW 20018 8 4 YD 1 F 1 24 $ 40.17 $ 9 64.08 Front End Loading VENDOR
+MPD TRASH ROUTINE Impoundment -MPD Active 5000 Blue Plains Drive, SW WDC SW 20018 8 30 YD roll off 1 Monthly 1 5 $ 303.85 $ 1 ,519.25 Trailer service VENDOR Disposal Cost Allowance
+MPD RECYCLING ROUTINE Impoundment -MPD Active 5000 Blue Plains Drive, SW WDC SW 20032 8 4 YD 1 F 1 24 $ 40.17 $ 9 64.08 Front End Loading VENDOR
+MPD TRASH ROUTINE MPD - PSSSB (Patrol Svc Bureau) Active 801 SHEPHERD STREET NW WDC NW 20011 4 8 YD 1 W/F 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+MPD RECYCLING ROUTINE MPD ERT Active 3 DC VILLAGE LANE SW WDC SW 20032 8 2 YD 1 T/F 2 48 $ 36.05 $ 1 ,730.40 Rear End Loading VENDOR
+MPD RECYCLING ROUTINE MPD - PSSSB (Patrol Svc Bureau) Active 801 SHEPHERD STREET NW WDC NW 20011 4 2 YD 1 T/F 2 48 $ 36.05 $ 1 ,730.40 Rear End Loading VENDOR
+MPD TRASH ROUTINE MPD Evidence Warehouse Active 17 DC VILLAGE LANE SW WDC SW 20032 8 15 YD compactor 1 T 1 24 $ 303.85 $ 7 ,292.40 Trailer service VENDOR Disposal Cost Allowance
+MPD TRASH ROUTINE MPD ERT Active 3 DC VILLAGE LANE SW WDC SW 20032 8 6 YD 1 W/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+MPD TRASH ROUTINE MPD Evidence Warehouse parking lot west Active 17 DC VILLAGE LANE SW WDC SW 20032 8 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+MPD TRASH ROUTINE MPD Fleet Services Active 2175 WEST VIRGINIA AVENUE NE WDC NE 20002 5 6 YD 1 W/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+MPD TRASH ROUTINE MPD Training Academy, Range, Tactical, Canine and Bomb Squat Active 4665 BLUE PLAINS DRIVE SW WDC SW 20032 8 8 YD 2 W/F 2 96 $ 63.86 $ 6 ,130.56 Front End Loading VENDOR
+MPD RECYCLING ROUTINE MPD Training Academy, Range, Tactical, Canine and Bomb Squat Active 4665 BLUE PLAINS DRIVE SW WDC SW 20032 8 8 YD 2 W/F 2 96 $ 62.83 $ 6 ,031.68 Front End Loading VENDOR
+MPD RECYCLING ROUTINE MPD Fleet Services Active 2175 WEST VIRGINIA AVENUE NE WDC NE 20002 5 6 YD 1 W/F 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+MPD TRASH ROUTINE NSID/ESB/ATEAU Active 2850 NEW YORK AVENUE NE WDC NE 20002 5 6 YD 1 T/TH/S 3 72 $ 51.50 $ 3 ,708.00 Front End Loading VENDOR
+MPD TRASH ROUTINE Recruiting, Old Residential Services, and Pharmacy Active 1 A&B DC Village Lane, SW WDC SW 20018 8 4 YD 1 T/F 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+MPD RECYCLING ROUTINE Recruiting, Old Residential Services, and Pharmacy Active 1 A&B DC Village Lane, SW WDC SW 20032 8 4 YD 1 T/F 2 48 $ 40.17 $ 1 ,928.16 Rear End Loading VENDOR
+MPD RECYCLING ROUTINE NSID/ESB/ATEAU Active 2850 NEW YORK AVENUE NE WDC NE 20002 5 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+MPD TRASH ROUTINE Youth Division (Bundy Bldg.) Active 429 O STREET NW WDC NW 20001 2 8 YD 1 M/T/W/TH/F 5 120 $ 63.86 $ 7 ,663.20 Front End Loading VENDOR
+MPD RECYCLING ROUTINE Youth Division (Bundy Bldg.) Active 429 O STREET NW WDC NW 20001 2 6 YD 1 M/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+OCME TRASH ROUTINE OCME Active 7 DC VILLAGE LANE SW WDC SW 20032 8 8 YD 1 W/F 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+OCME RECYCLING ROUTINE OCME Active 7 DC VILLAGE LANE SW WDC SW 20032 8 8 YD 1 TH 1 24 $ 62.83 $ 1 ,507.92 Front End Loading VENDOR
+OCP TRASH ROUTINE OCP Oak Hill WAREHOUSE Active 8300 Riverton Road Laurel, MD N/A 20724 N/A 30 YD roll off 1 Eve o r n y T o u t e h s e d r a w y e s ek 1 13 $ 303.85 $ 3 ,950.05 Trailer service VENDOR Disposal Cost Allowance
+OCP TRASH ROUTINE OCP WAREHOUSE (1) Active 3330 V STREET NE WDC NE 20018 5 6 YD 1 F 1 24 $ 51.50 $ 1 ,236.00 Front End Loading VENDOR
+OCP RECYCLING ROUTINE OCP WAREHOUSE (1) Active 3330 V STREET NE WDC NE 20018 5 4 YD 1 F 1 24 $ 40.17 $ 9 64.08 Rear End Loading VENDOR
+OCP TRASH ROUTINE OCP WAREHOUSE (2) Active 3525 V STREET NE WDC NE 20018 5 6 YD 1 F 1 24 $ 51.50 $ 1 ,236.00 Front End Loading VENDOR
+OCP TRASH ROUTINE OCP WAREHOUSE (3) Active 3370 V STREET NE WDC NE 20018 5 6 YD 1 F 1 24 $ 51.50 $ 1 ,236.00 Front End Loading VENDOR
+OCP RECYCLING ROUTINE OCP WAREHOUSE (3) Active 3370 V STREET NE WDC NE 20018 5 4 YD 1 F 1 24 $ 40.17 $ 9 64.08 Rear End Loading VENDOR
+OCP TRASH ROUTINE OCP WAREHOUSE (4) Active 3335 V STREET NE WDC NE 20018 5 4 YD 1 F 1 24 $ 40.17 $ 9 64.08 Rear End Loading VENDOR
+OCP RECYCLING ROUTINE OCP WAREHOUSE (4) Active 3335 V STREET NE WDC NE 20018 5 4 YD 1 F 1 24 $ 40.17 $ 9 64.08 Rear End Loading VENDOR
+OCTO TRASH ROUTINE OCTO Warehouse (Lease) Active 2900 V STREET NE WDC NE 20018 5 6 YD 1 T/TH/S 3 72 $ 51.50 $ 3 ,708.00 Front End Loading VENDOR
+OCTO RECYCLING ROUTINE OCTO Warehouse (Lease) Active 2900 V STREET NE WDC NE 20018 5 6 YD 1 T/TH 2 48 $ 51.50 $ 2 ,472.00 Front End Loading VENDOR
+OS TRASH ROUTINE DC Records Center Active 1300 NAYLOR COURT NW WDC NW 20001 2 2 YD 2 T/F 2 96 $ 36.05 $ 3 ,460.80 Rear End Loading VENDOR
+OS RECYCLING ROUTINE DC Records Center Active 1300 NAYLOR COURT NW WDC NW 20001 2 96 GA 2 T/F 2 96 $ 10.30 $ 9 88.80 Rear End Loading VENDOR
+OSSE TRASH ROUTINE OSSE Bus Terminal - 1345 New York Ave Active 1345 NEW YORK AVENUE NE WDC NE 20002 5 8 YD 1 T/Th 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+OSSE RECYCLING ROUTINE OSSE Bus Terminal - 1345 New York Ave Active 1345 NEW YORK AVENUE NE WDC NE 20002 5 4 YD 1 T/TH 2 48 $ 40.17 $ 1 ,928.16 Front End Loading VENDOR
+OSSE TRASH ROUTINE OSSE Bus Terminal - 2115 5th Street, NE Active 2115 5TH STREET NE WDC NE 20002 5 8 YD 1 T/Th 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+OSSE RECYCLING ROUTINE OSSE Bus Terminal - 2115 5th Street, NE Active 2115 5TH STREET NE WDC NE 20002 5 8 YD 1 T/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+OSSE TRASH ROUTINE OSSE Bus Terminal - Adams Place Active 2000 ADAMS PLACE NE WDC NE 20018 5 8 YD 1 T/Th 2 48 $ 63.86 $ 3 ,065.28 Front End Loading VENDOR
+OSSE RECYCLING ROUTINE OSSE Bus Terminal - Adams Place Active 2000 ADAMS PLACE NE WDC NE 20018 5 8 YD 1 T/TH 2 48 $ 62.83 $ 3 ,015.84 Front End Loading VENDOR
+OSSE TRASH ROUTINE OSSE Bus Terminal - SW DC Village Active 4 DC VILLAGE LANE SW WDC SW 20032 8 8 YD 1 T/TH/S 3 72 $ 63.86 $ 4 ,597.92 Front End Loading VENDOR
+DPR RECYCLING ROUTINE 14th and Oak Streets Triangle Park (Ward 1) Active Litter can services 3480 14TH STREET NW WDC NW 20010 1 35 GA 1 M/TH 2 48 $ 15.45 $ 7 41.60 Rear End Loading DISTRICT-OWNED
+DHS TRASH HYPOTHERMIA 2601 Naylor Road - Hypothermia site Active 2601 NAYLOR ROAD, SE WDC SE 20020 8 8 YD 2 M/T/W/TH/F/S 6 84 $ 62.83 $ 5 ,277.72 Front End Loading VENDOR C Pe h r a f r o g r e m a a s n S c u e p 1 p 1 le /1 m 9 e / n 2 t 4 a l t h S r e u r v 4 ic / e 1 s 5 . / T 2 h 4 is is not a Basic/Routine Service. Period of
+DHS TRASH HYPOTHERMIA 2603 Naylor Road - Hypothermia site Active 2603 NAYLOR ROAD, SE WDC SE 20020 8 8 YD 2 M/T/W/TH/F/S 6 84 $ 62.83 $ 5 ,277.72 Front End Loading VENDOR C Pe h r a f r o g r e m a a s n S c u e p 1 p 1 le /1 m 9 e / n 2 t 4 a l t h S r e u r v 4 ic / e 1 s 5 . / T 2 h 5 is is not a Basic/Routine Service. Period of
+DHS TRASH HYPOTHERMIA Adams Place Shelter Active 2210 ADAMS PLACE, NE WDC NE 20018 5 30 YD 1 TH 1 7 $ 303.85 $ 2 ,126.95 Trailer service VENDOR D ba is s p ic o / s r a o l u C ti o n s e t s A e ll r o v w ic a e n . c P e e . r C io h d a r o g f e P a e s r f a o r s m up a p n l c e e m 1 e 1 n / t 1 a 9 l / s 2 e 4 r v t i h c r e u . T 4 h /1 is 5 i / s 2 n 4 o . t a
+DHS TRASH HYPOTHERMIA Federal City Shelter Active 425 2nd STREET, NW WDC NW 20001 6 30 YD 1 M/F 2 14 $ 303.85 $ 4 ,253.90 Trailer service VENDOR D ba is s p ic o / s r a o l u C ti o n s e t s A e ll r o v w ic a e n . c P e e . r C io h d a r o g f e P a e s r f a o r s m up a p n l c e e m 1 e 1 n / t 1 a 9 l / s 2 e 4 r v t i h c r e u . T 4 h /1 is 5 i / s 2 n 4 o . t a

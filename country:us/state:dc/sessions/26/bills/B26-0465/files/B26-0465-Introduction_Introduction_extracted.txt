@@ -1,0 +1,255 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1
+2
+3 ___________________________
+4 Councilmember Anita Bonds
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14 A BILL
+15 ______
+16
+17 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+18 _______________
+19
+20 To amend the Advisory Neighborhood Councils Act of 1975 to require the Board of Elections to
+21 oversee the filling of a vacancy in an Advisory Neighborhood Commission, to clarify
+22 when the Board shall deem a vacancy to have occurred, to clarify the term of a
+23 Commissioner filling a vacancy, to prohibit the circulator of a candidate petition form
+24 from altering signer information, to require the Board to publish a list a candidates who
+25 qualify to fill a vacancy, to require the Board to issue a final determination of vacancy
+26 upon review of a request by the Advisory Neighborhood Commission or Office of
+27 Advisory Neighborhood Commissions that a vacancy exists or that a Commissioner no
+28 longer meets the qualifications for office, and to allow an Advisory Neighborhood to
+29 meet to fill a vacancy without meeting quorum; to repeal the Supplementary
+30 Neighborhood Commissions Act; and to amend the District of Columbia Election Code
+31 of 1955 to require the Board of Elections to oversee the filling of vacancies in Advisory
+32 Neighborhood Commissions.
+33
+34 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+35 act may be cited as the “Board of Elections Certification of ANC Vacancies Amendment Act of
+36 2025”.
+37 Sec. 2. The Advisory Neighborhood Councils Act of 1975, effective October 10, 1975
+38 (D.C. Law 1-21; D.C. Official Code § 1-309.01 et seq.), is amended as follows:
+39 (a) Section 8 is amended as follows:
+40 (1) Subsection (a) is amended to read as follows:
+1
+
+41 “(a) General elections of members of Advisory Neighborhood Commissions shall take
+42 place on the 1st Tuesday after the 1st Monday in November of each even-numbered calendar
+43 year.”.
+44 (2) Subsection (b) is amended as follows:
+45 (A) Paragraph (1) is amended to read as follows:
+46 “(1) Each member of an Advisory Neighborhood Commission elected in a general
+47 election shall serve for a term of 2 years which shall begin at noon on the 2nd day of January
+48 next following the date of election of such member. A member of an Advisory Neighborhood
+49 Commission filling a vacancy shall serve the remainder of the unexpired term beginning at noon
+50 on the day after the date the Board certifies the election or appointment of such member.”.
+51 (B) Paragraph (3) is repealed.
+52 (3) Subsection (d) is amended as follows:
+53 (A) Paragraph (1) is amended by striking the word “exists” and inserting
+54 the word “occurs” in its place.
+55 (B) Paragraphs (2) and (3) are amended to read as follows:
+56 “(2) For the purposes of this section, a vacancy is deemed to occur upon the
+57 effective date of a notice of resignation or when the Board receives a notice of resignation,
+58 whichever is later, or when the Board issues a final determination that a Commissioner no longer
+59 meets the qualifications set forth in section 6(a). The Board shall publish notice of the vacancy in
+60 the District of Columbia Register within 15 business days after the Board receives the notice of
+61 resignation or issues a final determination that a Commissioner no longer meets the
+62 qualifications set forth in section 6(a).
+2
+
+63 “(3) Except when a vacancy occurs within the 6-month period prior to a general
+64 election, within 60 business days after the date that the Board publishes notice of a vacancy, the
+65 affected Advisory Neighborhood Commission shall hold a public meeting to fill the vacancy
+66 pursuant to paragraph (6) of this subsection.”.
+67 (C) Paragraph (5) is amended by striking the phrase “until a successor has
+68 been certified and sworn in pursuant to subsection (b) of this section.” and inserting the phrase
+69 “serve for the remainder of the term.” in its place.
+70 (D) Paragraph (6) is amended to read as follows:
+71 “(6)(A) Within 5 business days after the date that the Board publishes the notice
+72 of vacancy in the District of Columbia Register, the Board shall make available petitions for the
+73 purpose of obtaining the signatures of registered qualified electors within the affected single-
+74 member district.
+75 “(B) The petition form shall:
+76 “(i) Be made available electronically to any person who files a
+77 Declaration of Candidacy with the Board and is confirmed by the Board to be a registered
+78 qualified elector residing in the affected single-member district.
+79 “(ii) Include an affidavit to be signed and dated by the circulator of
+80 the petition indicating that they witnessed each signature and did not write, alter, correct, clarify,
+81 or obscure any information about the signer of the petition after the signer affixed their signature
+82 to the petition.
+83 “(iii) Include a notice that the signature line must be completed in
+84 full by a registered qualified elector residing in the affected single-member district and any
+85 misrepresentation of name or address may result in a civil fine or criminal prosecution.
+3
+
+86 “(C) Within 20 business days after the date that the Board makes the
+87 petitions available, persons interested in filling the vacancy shall submit a petition to the Board
+88 that contains the signatures of at least 25 registered qualified electors within the affected single-
+89 member district. Within one business day after petitions are due, the Board shall publish on its
+90 website a list of names of persons who submitted petitions and instructions for challenging a
+91 petition. After a 5-business-day challenge period, the Board shall publish on its website a list of
+92 the names of persons who submitted petitions who qualify for membership on the affected
+93 Advisory Neighborhood Commission.
+94 “(D) If there is only one person qualified to fill the vacancy within the
+95 affected single-member district, the vacancy shall be deemed filled by the qualified person and
+96 the Board shall certify the filling of the vacancy by publication in the District of Columbia
+97 Register.
+98 “(E)(i) If more than one candidate qualifies to fill the vacancy, the affected
+99 Advisory Neighborhood Commission shall hold a public meeting to fill the vacancy. The
+100 meeting may be held as a special meeting or as a regularly scheduled meeting, provided at least 2
+101 Commissioners are present. The affected Advisory Neighborhood Commission shall notify all
+102 qualified candidates at least 15 business days in advance of the meeting and shall post notice of
+103 the meeting on their website.
+104 “(ii) Each candidate qualified to fill the vacancy shall be afforded
+105 at least 10 minutes to address the Commission, after which the Commissioners shall vote in open
+106 session to select a candidate. A representative of the Board of Elections shall oversee voting and
+107 declare the winner. In the event of a tie vote, the representative shall select a winner by casting
+4
+
+108 lots. The Board shall certify the filling of a vacancy pursuant to this subparagraph by publishing
+109 notice in the District of Columbia Register.
+110 “(iii) Notwithstanding sub-subparagraph (i) of this subparagraph,
+111 if the affected single-member district contains the Central Detention Facility and Correctional
+112 Treatment Facility, the Board, in consultation with the OANC and the affected Advisory
+113 Neighborhood Commission, shall make in-person voting available to qualified registered electors
+114 within the single-member district who are not in the care and custody of the Department of
+115 Corrections, and the Department of Corrections, in consultation with the Board, shall make
+116 voting available to registered qualified electors in its care and custody, including by distributing
+117 ballots to registered qualified electors listed as voters in the single-member district on the voter
+118 registration list provided by the Board, collecting the ballots, and transmitting the ballots to the
+119 Board.”.
+120 (4) Subsection (e) is repealed.
+121 (5) Subsection (f) is amended to read as follows:
+122 “(f)(1) A member of an Advisory Neighborhood Commission who resigns from the
+123 single-member district which the member represents shall submit a letter of resignation to the
+124 Board and a copy of the letter to the Council, the Mayor, the OANC, the Chairperson of the
+125 member’s Advisory Neighborhood Commission, and the Vice Chairperson of the member’s
+126 Advisory Neighborhood Commission. The resignation letter shall be sworn, state that it is
+127 irrevocable, and give the date that the resignation shall become effective, which shall be not
+128 more than 60 business days after the date the Commissioner submits the letter to the Board. The
+129 resignation letter may be submitted electronically provided the Commissioner uses the email
+130 address submitted in the declaration of candidacy. The Board shall publish notice of the vacancy
+5
+
+131 and proceed to fill the vacancy as provided in subsection (d) of this section. A candidate who
+132 fills a vacancy created by resignation shall begin their term no sooner than the effective date of
+133 the resignation as indicated in the letter of resignation.
+134 “(2) An Advisory Neighborhood Commission or the OANC may request the
+135 Board declare a vacancy based on its own determination that a vacancy exists or that a
+136 Commissioner no longer meets the qualifications for office under section (6)(a). The request
+137 shall include evidence in support of the allegation and shall be sent to the Board of Elections. A
+138 copy of the request shall be sent to the Council, the Mayor, and the Commissioner who is the
+139 subject of the allegation.
+140 “(3)(A)(i) Within 3 business days after receiving a request filed pursuant to
+141 paragraph (2) of this subsection, the Board shall notify the Commissioner by certified mail of the
+142 request for a vacancy determination. The notification shall include a copy of the request, the
+143 deadline for challenging the request, and the date of a public meeting at which the Board intends
+144 to issue a final determination. The Board shall also publish notice of the challenge period and
+145 date of the public meeting on its website.
+146 “(ii) The Commissioner who is the subject of a request filed
+147 pursuant to paragraph (2) of this subsection may challenge the request by submitting a written
+148 statement specifying the alleged errors of law and fact in the request within 15 days after the date
+149 the Board publishes notice on its website.
+150 “(iii) The Board shall send a copy of any challenge received to the
+151 OANC and the affected Advisory Neighborhood Commission.
+152 “(B) The Board shall issue a final determination at a public meeting held
+153 not more than 30 business days after the challenge period has ended. The Board shall notify the
+6
+
+154 requestor and the Commissioner who is the subject of the request of the date of the meeting at
+155 least 15 days in advance of the meeting and shall publish notice of the meeting on its website.
+156 “(C) Within 5 business days after the issuance of the final determination of
+157 the Board on the request, either the petitioner or the Commissioner who is the subject of the
+158 request may apply to the District of Columbia Court of Appeals for a review of such
+159 determination.
+160 “(D) The District of Columbia Court of Appeals shall expedite
+161 consideration of the determination.
+162 “(4) The Board shall issue a notice of vacancy without regard to paragraphs (1) or
+163 (2) of this subsection when:
+164 “(A) The office of a Commissioner remains vacant after a general or
+165 special election.
+166 “(B) The Board determines, through its established procedures for the
+167 maintenance of the voter registration roll, that a Commissioner is no longer a qualified elector
+168 actually residing in the single-member district from which the Commissioner was elected;
+169 provided, the affected commissioner has an opportunity to challenge the Board’s determination
+170 as follows:
+171 “(i) The Board shall notify the Commissioner by certified mail of
+172 the residency determination and shall submit a copy of the notice to the affected Advisory
+173 Neighborhood Commission and the OANC;
+174 “(ii) The Commissioner may challenge the validity of the
+175 determination by submitting a written statement specifying the alleged errors of law and fact of
+176 the Board’s determination within 15 business days after the issuance of the determination;
+7
+
+177 “(iii) The Board shall issue a final determination of vacancy at a
+178 public meeting held not more than 30 days after the challenge period has ended; and
+179 “(iv) Within 5 business days after the issuance of the final
+180 determination, the Commissioner who is the subject of the determination may apply to the
+181 District of Columbia Court of Appeals for a review of such determination.”
+182 “(v) The District of Columbia Court of Appeals shall expedite
+183 consideration of the determination.”.
+184 (6) Subsection (h) is amended to read as follows:
+185 “(h)(1) The Board shall maintain a list of the names, a current telephone number, and
+186 home addresses of all members of the Advisory Neighborhood Commissions, and shall transmit
+187 that list to the OANC each month.
+188 “(2) The Board and the OANC shall not publicly release the social security
+189 numbers, personal electronic-mail addresses, or personal telephone numbers of the
+190 Commissioners, except that the OANC may release the personal electronic-mail address or
+191 personal telephone number upon the consent of the Commissioner.
+192 “(3) The list required pursuant to paragraph (1) of this subsection shall be
+193 provided by the OANC to the Alcoholic Beverage and Cannabis Board, the Historic Preservation
+194 Review Board, the Redevelopment Land Agency, the Zoning Commission and the Board of
+195 Zoning Adjustment, and to any other District government entity that requests it.
+196 “(4) Any change to the list required pursuant to paragraph (1) of this subsection,
+197 which may be due to resignation, election, moving, or for any other reason, shall be reported by
+198 the OANC, within 10 business days of receipt, to the Alcoholic Beverage and Cannabis Board,
+199 the Historic Preservation Review Board, the Redevelopment Land Agency, the Zoning
+8
+
+200 Commission and the Board of Zoning Adjustment, and to any other District government entity
+201 that requests it.”.
+202 (7) A new subsection (i) is added to read as follows:
+203 “(i) The Board shall post all notices required to be published in the Register pursuant to
+204 this section on its website.”.
+205 (b) Section 14(b) is amended by adding a new paragraph (1D) to read as follows:
+206 “(1D) Notwithstanding paragraph (1), a quorum shall not be required for the
+207 purposes of filling a vacancy pursuant to section 8.”.
+208 Sec. 3. The Supplementary Neighborhood Commissions Act, effective June 19, 1976
+209 (D.C. Law 1-72; D.C. Official Code § 1-309.31 et seq.), is repealed.
+210 Sec. 4. Section 5(a) of the District of Columbia Election Code of 1955, approved August
+211 12, 1955 (69 Stat. 699; D.C. Official Code § 1-1001.05(a)), is amended as follows:
+212 (a) Paragraph (14) is amended by striking the phrase “and provide for the registration of
+213 any political party seeking to nominate directly candidates in any general or special election.”
+214 and inserting the phrase “provide for the registration of any political party seeking to nominate
+215 directly candidates in any general or special election; and oversee the filling vacancies in an
+216 Advisory Neighborhood Commission.” in its place.
+217 (b) A new paragraph (22) to read as follows:
+218 “(22) Oversee the filling of vacancies in an Advisory Neighborhood Commission
+219 according to the procedures set forth in section 8 of the Advisory Neighborhood Councils Act of
+220 1975, effective October 10, 1975 (D.C. Law 1-21; D.C. Official Code § 1-309.06).”.
+221 Sec. 5. Fiscal impact statement.
+222 The Council adopts the fiscal impact statement in the committee report as the fiscal
+9
+
+223 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+224 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+225 Sec. 6. Effective date.
+226 This act shall take effect following approval by the Mayor (or in the event of veto by
+227 the Mayor, action by the Council to override the veto) and a 30-day period of Congressional
+228 review as provided in section 602(c)(l) of the District of Columbia Home Rule Act, approved
+229 December 24, 1973 (87 Stat. 813; D.C. Official Code §1-206.02(c)(l)).
+10

@@ -1,0 +1,297 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 _____________________________ _____________________________
+2 Councilmember Christina Henderson Chairman Phil Mendelson
+3
+4
+5 _____________________________
+6 Councilmember Zachary Parker
+7
+8 A BILL
+9
+10 ________________
+11
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+13
+14 ___________________________
+15
+16
+17 To amend the Day Care Policy Act of 1979 to update the minimum salaries child development
+18 facilities must pay assistant and lead teachers beginning in January 2025 to participate in
+19 the Early Childhood Educator Pay Equity Program.
+20
+21 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+22 act may be cited as the “Early Childhood Educator Pay Scales Amendment Act of 2025”.
+23 Sec. 2. The Day Care Policy Act of 1979, effective September 19, 1979 (D.C. Law 3-16;
+24 D.C. Official Code § 4-401 et seq.), is amended as follows:
+25 (a) Section 2 (D.C. Official Code § 4-401) is amended as follows:
+26 (1) Paragraph (1)(B) is amended by striking the phrase “an expanded child
+27 development home” and inserting the phrase “a child development home or an expanded child
+28 development home” in its place.
+29 (2) Paragraph (1D) is amended to read as follows:
+30 “(1D) The term “CDA” means a child development associate credential
+31 recognized by the Council for Professional Recognition and accepted by the Department to
+1
+
+32 demonstrate competency as a caregiver for young children or a state-awarded certificate that
+33 meets or exceeds the requirements for a child development associate creden tial, as defined by
+34 the Department.”.
+35 (3) A new paragraph (3A-i) is added to read as follows:
+36 “(3A-i) The term “Community-based organization” means a Head Start or early
+37 childhood education program operated by a nonprofit entity, faith-based organization, or other
+38 entity that participates in federally funded early childhood programs.”.
+39 (4) Paragraph (4) is amended by striking the phrase “the the” and inserting the
+40 word “the” in its place.
+41 (5) Paragraph (4A) is amended by striking the phrase “section 5102 of the Early
+42 Childhood Educator Pay Equity Fund Establishment Act of 2021, effective November 13, 2021
+43 (D.C. Law 24-45; D.C. Official Code § 1-325.431)” and inserting the phrase “section 11b” in its
+44 place.
+45 (6) Paragraph (4B) is amended by striking the phrase “education.” and inserting
+46 the phrase “education or a related field, as identified by the Department’s regulations governing
+47 the qualifications of child development facility lead teachers and assistant teachers.”.
+48 (7) Paragraph (4C) is amended by striking the phrase “section 11b(b)-(c)” and
+49 inserting the phrase “section 11b” in its place.
+50 (8) A new paragraph (5C-i) is added to read as follows:
+51 “(5C-i) The term “Subsidy” means supplemental payments made by the Mayor
+52 pursuant to section 5a.”.
+2
+
+53 (9) Paragraph (6) is repealed.
+54 (b) Section 11a (D.C. Official Code § 4-410.01) is amended as follows:
+55 (1) Subsection (b) is repealed.
+56 (2) The lead-in language in subsection (c) is amended to read as follows:
+57 “(c) By February 1, 2024, and on a triennial basis thereafter, OSSE shall conduct a cost
+58 modeling analysis to estimate the costs of care for child development facilities in the District,
+59 which shall incorporate the cost of implementing the ECE salary scale established and updated
+60 pursuant to section 11b, and submit a report to the Council that includes:”.
+61 (b) Section 11b (D.C. Official Code § 4-410.02) is amended as follows:
+62 (1) Subsection (b) is amended to read as follows:
+63 “(b) From October 1, 2024, through December 31, 2024, child development facilities that
+64 enter or have entered into a contract or agreement with the Department to receive monies from
+65 the Early Childhood Educator Pay Equity Fund shall use such monies to pay, at minimum, the
+66 salaries for assistant and lead teachers listed in tables 1 and 2 of this subsection:
+Table 1: Assistant Teacher Minimum Salaries
+Credential Level Minimum salary
+Less than a CDA $43,865/year
+CDA $51,006/year
+Associate $54,262/year
+67
+Table 2: Lead Teacher Minimum Salaries
+3
+
+Credential Level Minimum salary
+CDA or 48 credit hours with greater than or equal to 15 credit hours $54,262/year
+in ECE
+Associate in ECE or Associate’s with greater than or equal to 24 $63,838/year
+credit hours in ECE
+Bachelor’s in ECE or Bachelor’s with greater than or equal to 24 $75,103/year
+credit hours in ECE
+68 .”.
+69 (2) New subsections (b-1) and (b-2) are added to read as follows:
+70 “(b-1) Beginning January 1, 2025, except as provided for by subsection (d)(1)(C) of this
+71 section, child development facilities that enter or have entered into a contract or agreement with
+72 the Department to receive monies from the Early Childhood Educator Pay Equity Fund shall use
+73 such monies to pay, at minimum, the salaries for assistant and lead teachers listed in tables 1 and
+74 2 of this subsection:
+75
+Table 1: Assistant Teacher Minimum Salaries
+Credential Level Minimum Salary
+CDA $51,006/year
+($24.52/hour)
+4
+
+Associate degree or higher or 60 hours of college-level $54,262/year
+coursework in any field ($26.09/hour)
+76
+Table 2: Lead Teacher Minimum Salaries
+Credential Level Minimum Salary
+Child development center teacher or expanded child development $51,006/year
+home caregiver with a CDA ($24.52/hour)
+Child development home caregiver with a CDA $54,262/year
+($26.09/hour)
+Associate in ECE; associate with at least 12 credit hours in ECE; $63,838/year
+60 college credit hours with at least 12 credit hours in ECE ($30.69/hour)
+Bachelor’s or higher in ECE; or Bachelor’s with at least 12 credit $75,103/year
+hours in ECE ($36.11/hour)
+77
+78 “(b-2) The Department shall issue guidance to assist child development facilities with
+79 aligning the minimum salary requirements in subsections (b) and (b-1) of this section with the
+80 qualifications for child development facility assistant and lead teachers it has established by
+81 regulation.”.
+82 (3) Subsection (c)(1) is amended by striking the phrase “updates to Tables 1 and 2
+83 to” and inserting the phrase “updates, as appropriate, to tables 1 and 2 in subsection (b-1) of this
+84 section to” in its place.
+5
+
+85 (4) Subsection (d)(1)(B) is amended by striking the period “.” and inserting “; or”
+86 in its place.
+87 (5) A new paragraph (C) is added to read as follows:
+88 “(C)(i) Reduce Assistant Teacher Minimum Salaries and Lead Teacher
+89 Minimum Salaries pursuant to b-1.
+90 “(ii) The Mayor, pursuant to Title I of the District of Columbia
+91 Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1024; D.C. Official Code §
+92 2-501 et seq.), may issue rules to implement this subparagraph.”
+93 (6) A new subsection (e) is added to read as follows:
+94 “(e) The Chief Financial Officer shall submit a report to the Council on a quarterly basis
+95 indicating the fiscal year expenditures from the Early Childhood Educator Pay Equity Fund
+96 (“Fund”) to date and the total amount of funds remaining in the Fund.”.
+97 (c) Section 11d (D.C. Official Code § 4-410.04) is revived and amended to read as
+98 follows:
+99 “Sec. 11d. Early Childhood Educator Pay Equity Fund.
+100 “(a) There is established as a special fund the Early Childhood Educator Pay Equity Fund
+101 (“Fund”), which shall be administered by the Department in accordance with subsection (c) of
+102 this section.
+103 “(b) The following funds shall be deposited into the Fund:
+104 “(1) In Fiscal Year 2022, $53,920,878 in local funds;
+105 “(2) In Fiscal Year 2023, $72,889,092 in local funds;
+6
+
+106 “(3) In Fiscal Year 2024, $69,508,332 in local funds;
+107 “(4) In Fiscal Year 2025, and annually thereafter, $70,000,000 in local funds; and
+108 “(5) Any additional appropriated funds.
+109 “(c)The Fund shall be used to:
+110 “(1) Support the implementation of the Early Childhood Educator Pay Equity
+111 Program.
+112 “(2) Subject to appropriations, reduce health insurance premiums paid by child
+113 development facilities, or employees of child development facilities eligible to receive the
+114 minimum salaries listed in section 11b, pursuant to an agreement with the DC Health Benefit
+115 Exchange.
+116 “(3)(A) Pay the Department administrative costs related to implementing the
+117 Early Childhood Educator Pay Equity Program, which may include:
+118 “(i) Personnel and associated non-personnel costs;
+119 “(ii) Grantee or contractor costs related to distributing Fund
+120 monies; and
+121 “(iii) Costs related to providing technical assistance to child
+122 development facilities.
+123 “(B) Administrative costs authorized to be paid pursuant to subparagraph
+124 (A) of this paragraph shall not exceed 5% of the annual amount deposited in the Fund.
+7
+
+125 “(d)(1) Money deposited into the Fund but not expended in a fiscal year shall not revert
+126 to the unassigned fund balance of the General Fund of the District of Columbia at the end of a
+127 fiscal year, or at any time.
+128 “(2) Subject to authorization in an approved budget and financial plan, any funds
+129 appropriated in the Fund shall be continually available without regard to fiscal year limitation.
+130 “(e) Unless otherwise prohibited by federal law, lump-sum payments an individual
+131 receives from the Fund shall not be counted as income or assets:
+132 “(1) For the purposes of determining eligibility or calculating benefits Under the
+133 District of Columbia Public Assistance Act of 1982, effective April 6, 1982 (D.C. Law 4-101,
+134 D.C. Official Code § 4-201.01 et seq.) and
+135 “(2) For the purpose of determining eligibility or calculating benefits for the
+136 following benefit programs:
+137 “(A) D.C. HealthCare Alliance, referenced in Section 8(2) of the
+138 Department of Health Care Finance Establishment Act of 2007, effective February 27, 2008
+139 (D.C. Law 17-109; D.C. Official Code § 7-771.07(2));
+140 “(B) Educational scholarships the District administers with local funds;
+141 “(C) Home Purchase Assistance Program, referenced in section 3a of the
+142 Home Purchase Assistance Fund Act of 1978, effective July 1, 2016 (D.C. Law 21-139; D.C.
+143 Official Code § 42-2602.01);
+8
+
+144 “(D) Housing subsidy vouchers issued through the Rent Supplement
+145 Program, established by section 26 of the District of Columbia Housing Authority Act of 1999,
+146 effective March 2, 2007 (D.C. Law 16-192; D.C. Official Code § 6-226);
+147 “(E) Grandparent Caregiver Program established by section 102 of the
+148 Grandparent Caregivers Pilot Program Establishment Act of 2005, effective March 8, 2006 (D.C.
+149 Law 16-69; D.C. Official Code § 4-251.02);
+150 “(F) Close Relative Caregiver Program, established by section 102 of the
+151 Close Relative Caregiver Subsidy Pilot Program Establishment Amendment Act of 2019,
+152 effective November 26, 2019 (D.C. Law 23-32; D.C. Official Code § 4-251.22); and
+153 “(G) Other District government benefit programs administered with local
+154 funds, including Strong Families, Strong Futures.”.
+155 (e) A new section 15c is added to read as follows:
+156 “Sec. 15c. Early Childhood Educator Equitable Compensation Task Force establishment.
+157 “(a)(1) There is established by the Council an Early Childhood Educator Equitable
+158 Compensation Task Force (“Task Force”) to provide recommendations on how to implement an
+159 employee compensation scale for child development facilities.
+160 “(2) Following the submission of the report required pursuant to subsection (c)(3)
+161 of this section, the Task Force shall reconvene every 4th calendar year, or as deemed necessary
+162 by the Chairman of the Council.
+9
+
+163 “(b)(1) The Task Force shall be comprised of the Chairman of the Council, or his or her
+164 designee, the State Superintendent of Education, or his or her designee, and 12 District residents,
+165 appointed by the Chairman, representing the following entities or groups:
+166 “(A) Families whose children are receiving or have received childcare
+167 services from an early childhood development provider in the District;
+168 “(B) Community-based organizations;
+169 “(C) Early childhood advocacy organizations;
+170 “(D) Operators of child development facilities who participate in the
+171 childcare subsidy program;
+172 “(E) Operators of child development facilities who do not currently
+173 participate in the childcare subsidy program;
+174 “(F) Operators of home-based child development facilities;
+175 “(G) Employees of child development facilities; and
+176 “(H) An individual with an expertise in economics or policy, who has an
+177 understanding of the District’s early childhood development and education sector.
+178 “(3) At least 2 members of the Task Force shall be employees of child
+179 development facilities.
+180 “(4) The Chairman, or his or her designee, shall serve as the Chairperson of the
+181 Task Force.
+182 “(c) The Task Force shall:
+10
+
+183 “(1) Review the findings and recommendations of the Early Childhood Educator
+184 Compensation in the Washington Region study completed by the Urban Institute and any
+185 completed employee compensation scale and other relevant materials provided by the Office of
+186 the State Superintendent of Education;
+187 “(2) Submit a report to the Mayor and Council by January 15, 2022 that:
+188 “(A) Assesses the potential impact of implementing an employee
+189 compensation scale on early childhood development providers that:
+190 “(i) Do not provide childcare services to children eligible for
+191 subsidy; or
+192 “(ii) Serve a minimum number of children who receive subsidy;
+193 “(B) Proposes an employee compensation scale for early childhood
+194 development providers that accounts for employee role, credentials, and experience; and
+195 “(C) Provides recommendations for implementing the employee
+196 compensation scale, which at a minimum considers:
+197 “(i) Equitable implementation that accounts for different staffing
+198 models, types, and sizes of early childhood development facilities;
+199 “(ii) Long-term implications of the District providing funding to
+200 early childhood providers to implement the pay scale, including how to allocate funds for new
+201 early childhood development facilities that open after legislation is enacted; provided, that
+202 recommendations do not exceed the $70 million appropriated in the Early Childhood Educator
+203 Pay Equity Fund, plus any amounts adjusted for inflation in years beyond Fiscal Year 2023; and
+11
+
+204 “(iii) Oversight, reporting, and accountability mechanisms for the
+205 use of funds allocated to early childhood development providers from the Early Childhood
+206 Educator Pay Equity Fund; and
+207 “(3) Following the adoption of the Fiscal Year 2025 budget and financial plan,
+208 submit a report to the Mayor and Council by September 30, 2024, that:
+209 “(A) Recommends changes to the Early Childhood Educator Pay Equity
+210 Program established pursuant to section 3(b), including recommendations for limiting fiscal
+211 pressures on the Early Childhood Educator Pay Equity Program through Fiscal Year 2028;
+212 “(B) Proposes a new compensation scale for employees of childhood
+213 development facilities that takes into account the compensation and benefits of individuals
+214 employed by the District of Columbia Public Schools and District public charter schools who
+215 teach pre-kindergarten and kindergarten; and
+216 “(C) Provides additional recommendations for the allocation of monies
+217 available in the Early Childhood Educator Pay Equity Fund.
+218 “(d) The composition of the Task Force shall be the same as the composition of the Early
+219 Childhood Educator Equitable Compensation Task Force established pursuant to the Early
+220 Childhood Educator Equitable Compensation Task Force Act of 2021, effective November 13,
+221 2021 (D.C. Law 24-45, D.C. Official Code § 38-2241 et seq.).”.
+222 Sec. 3. The Early Childhood Pay Equity Fund Establishment Act of 2021, effective
+223 November 13, 2021 (D.C. Law 24-45; D.C. Official Code § 1-325-431), is repealed.
+12
+
+224 Sec. 4. The Early Childhood Educator Equitable Compensation Task Force Act of 2021,
+225 effective November 13, 2021 (D.C. Law 24-45, D.C. Official Code § 38-2241 et seq.), is
+226 repealed.
+227 Sec. 5. Fiscal impact statement.
+228 The Council adopts the fiscal impact statement in the committee report as the fiscal
+229 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+230 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+231 Sec. 6. Effective date.
+232 This act shall take effect following approval by the Mayor (or in the event of veto by the
+233 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+234 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+235 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+13

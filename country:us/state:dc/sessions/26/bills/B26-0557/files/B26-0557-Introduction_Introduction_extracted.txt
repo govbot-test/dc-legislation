@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+________________________
+Councilmember Brooke Pinto
+A BILL
+_________________________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+_________________________
+1 To amend, on an emergency basis, section 205 of the Clemency Board Establishment Act of
+2 2018 to authorize the Clemency Board to, for applicants seeking a pardon, grant a waiver
+3 of the 5-year waiting period.
+4
+5 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+6 act may be cited as the “Clemency Board Waiver Authority Emergency Amendment Act of
+7 2026”.
+8 Sec. 2. Section 205 of the Clemency Board Establishment Act of 2018, effective
+9 December 13, 2018 (D.C. Law 22-197; D.C. Official Code § 24-481.05), is amended by adding a
+10 new subsection (f) to read as follows:
+11 “(f) The Board may, upon written request of the applicant, grant a waiver of the
+12 requirements of subsection (c)(1) of this section; provided, that:
+13 “(1) The Board shall only grant a waiver under this subsection where the Board is
+14 in receipt of notice from the Office of the Pardon Attorney that the Pardon Attorney or the
+15 President of the United States has provided the applicant with a waiver of the 5-year requirement
+16 pursuant to § 9-140.112 of the Department of Justice Manual;
+17 “(2) The Board may decline to grant a waiver under this subsection even when the
+18 Board is in receipt of the notice described in paragraph (1) of this subsection;
+
+19 “(3) The Board shall not grant a waiver under this subsection when the applicant
+20 is on probation, parole, or supervised release;
+21 “(4) The Board may request additional information from the applicant to support
+22 their request for a waiver of subsection (c)(1) of this section, which may include a request to
+23 meet with the applicant to discuss their waiver request;
+24 “(5) The Board shall provide the applicant with written notice of the Board’s
+25 decision to grant or deny a waiver request pursuant to this subsection; and
+26 “(6) Prior to the Board making a determination whether to grant a request for a
+27 waiver pursuant to this subsection, the applicant’s application shall be deferred until a
+28 determination is made.”.
+29 Sec. 3. Fiscal impact statement.
+30 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+31 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+32 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+33 Sec. 4. Effective date.
+34 This act shall take effect following approval by the Mayor (or in the event of veto by the
+35 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+36 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+37 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+38 D.C. Official Code § 1-204.12(a)).

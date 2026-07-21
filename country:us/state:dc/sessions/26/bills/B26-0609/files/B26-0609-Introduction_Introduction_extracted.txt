@@ -1,0 +1,748 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+February 26, 2026
+‘The Honorable Phil Mendelson
+Chairman
+Council ofthe District ofColumbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+DearChairman Mendelson:
+Enclosed for consideration and adoption by the Council ofthe District of Columbia is the “Supporting
+Local Business Enterprises Emergency Declaration Resolution of2026,” the “Supporting Local Business
+Enterprises Emergency AmendmentActof2026,” the“Supporting Local Business EnterprisesTemporary
+Amendment Act of2026,” and the“Supporting Local Business Enterprises Amendment Act of 2026.”
+The resolution and accompanying emergency, temporary and permanent bills amend the Small and
+Certified Business Enterprise Development and Assistance Act of 2005 (“CBE Act”), by clarifying the
+qualifications for certain certified business enterprise (“CBE”) categories, enhancing existing penalties,
+clarifying relevant contracting and subcontracting requirements, and establishing invoicing and payment
+requirements.
+More specifically,theseamendments: (1)proposea new penalty structurethatwould requireabeneficiary
+to pay the difference between the dollar amount it was required to subcontract to CBEs and the actual
+dollar amount subcontracted to CBEs; (2) prohibit beneficiaries from subcontracting any of their 35%
+spending goal to an enterprise in which the beneficiary has an ownership interest; (3) waive developer,
+acquis it ion, and general contractor fees that, when totaled, are unreasonably disproportionate to the
+percentage of its equity investment in the project; (4) establish uniform hearing procedures for
+enforcement actions under the CBE Act; (5) expand the definition of beneficiary to include non-profit
+entities; (6) require beneficiariesto invoicethe District forundisputed work performed on a government
+assisted project every 30 days, and following receipt of payment by the District, topay subcontractors for
+work properly invoiced and satisfactorily performed; (7) require applicants for certification as a local
+business enterprise to be independently owned and operated: (8) require each CBE holdingan interest in
+a certifiedjoint venture that is selected as a beneficiary to perform a percentage ofthe work that isequal
+to orgreaterthan its percentage interest in thejoint venture.
+Thesechanges will strengthen the Distriet’sCBE laws and help strengthenthe local businesscommunity.
+urge the Council totake prompt and favorableactionon the enclosed legislation.
+Sincerely,
+5
+
+1
+2
+3
+4
+5 at the request of the Mayor
+6
+7
+8 A BILL
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12
+13 To amend the Small and Certified Business Enterprise Development and Assistance Act of 2005
+14 to require a business applying for certification as a local business enterprise to be
+15 independently owned and operated, to establish uniform hearing procedures for
+16 enforcement actions, to expand the scope of the Department of Small and Local Business
+17 Development's complaint hotline, to add penalties for any business enterprise that
+18 violates the act, to include non-profit entities as beneficiaries subject to certified business
+19 enterprise subcontracting and reporting requirements, to establish minimum and
+20 maximum periods of revocations for violations under the act, to require a delta-based
+21 shortfall payment for beneficiaries who fail to show commercially reasonable best efforts
+22 to meet subcontracting requirements, to prevent a beneficiary from fulfilling
+23 subcontracting requirements by hiring a certified business enterprise in which it has an
+24 ownership interest, to limit eligibility requirements for equity sponsors to prevent
+25 conflicts of interest, to protect equity sponsors from bearing disproportionate project
+26 costs on projects and protect equity sponsor voting rights, to clarify contracting and
+27 subcontracting requirements for certified business enterprise beneficiaries, to eliminate
+28 moot Department reporting requirements, to establish certification procedures during a
+29 public health emergency, and to repeal the Living Wage Certification Program, Triennial
+30 Review of Program and Subchapter, and Volunteer Corp of Executives and Entrepreneurs
+31 provisions of the Act; and to amend the Quick Payment Act to impose invoice
+32 submission timing requirements on beneficiaries and to authorize fines and other
+33 penalties for failure to comply with the invoicing requirements.
+34
+35 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+36 act may be cited as the "Supporting Local Business Enterprises Amendment Act of 2026".
+
+37 Sec. 2. The Small and Certified Business Enterprise Development and Assistance Act of
+38 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.01 et seq.), is
+39 amended as follows:
+40 (a) The table of contents is amended as follows:
+41 (1) The section designation for section 2315 is amended to read as follows:
+42 “Sec. 2315. Living Wage Certification Program. [Repealed]”.
+43 (2) The section designation for section 2337 is amended to read as follows:
+44 “Sec. 2337. Local business enterprise with its principal office located in an enterprise
+45 zone.”.
+46 (3) The section designation for section 2346 is amended to read as follows:
+47 “Sec. 2346. Performance and subcontracting requirements for government-assisted
+48 projects; subcontracting plans.”.
+49 (4) A new section designation is added to read as follows:
+50 “Sec. 2361a. Certificate of registration during a public health emergency.”.
+51 (5) The section designation for section 2367 is amended to read as follows:
+52 “Sec. 2367. Establishment of the Volunteer Corp of Executives and Entrepreneurs.
+53 [Repealed]”.
+54 (6) The section designation for section 2371 is amended to read as follows:
+55 “Sec. 2371. Triennial review of program and subchapter. [Repealed]”.
+56 (b) Section 2302 (D.C. Official Code § 2-218.02) is amended as follows:
+57 (1) Paragraph (1B) is amended to read as follows:
+58 “(1B) “Beneficiary” means a business enterprise, not-for-profit business, or other
+59 person that is the prime contractor or developer on a government-assisted project.”.
+2
+
+60 (2) Paragraph (7) is amended to read as follows:
+61 “(7) “Economically disadvantaged individual” means an individual who owns at
+62 least a 51% interest in a business enterprise and whose personal net worth does not exceed the
+63 limit set forth in 49 CFR § 26.68.”.
+64 (3) Paragraph (8) is amended to read as follows:
+65 “(8) “Enterprise zone” means a census tract(s) within the District of Columbia
+66 that has a poverty rate of 10 percent or more as provided by the U.S. Census Bureau.”.
+67 (4) Paragraph (8A) is amended to read as follows:
+68 “(8A) “Equity impact enterprise” means a business enterprise that is a resident-
+69 owned business, small business enterprise, and disadvantaged business enterprise.”.
+70 (5) A new paragraph (8B) is added to read as follows:
+71 “(8B) “Equity sponsor” means a small investor, a disadvantaged investor, or a
+72 certified equity participant.”.
+73 (6) A new paragraph (9-1) is added to read as follows:
+74 “(9-1) “Formal complaint” means a complaint that is submitted to the
+75 Department in writing, sworn to by the complainant, and notarized.”.
+76 (7) A new paragraph (10A) is added to read as follows:
+77 “(10A) “Informal complaint” means any complaint other than a formal complaint,
+78 and includes complaints submitted in person, by email, by telephone, or through the
+79 Department’s complaint hotline.”.
+80 (8) A new paragraph (10B) is added to read as follows:
+81 “(10B) “Independently owned and operated” means, with respect to a business,
+82 that the ownership interests, management, and operation of the business are not subject to
+3
+
+83 control, restriction, modification, or limitation by a person with no official role in the business.
+84 There is a rebuttable presumption that a business is not independently owned and operated if:
+85 “(A) A person with no official role in the business owns or controls 50%
+86 or more of the voting stock; or
+87 “(B) One or more owners, general partners, directors, officers, or members
+88 of another business controls or has the power to control or has the ability to control, veto,
+89 approve, deny, amend or change the course of the day-to-day operations of the business, the
+90 business’s board of directors, or owner of the business.”.
+91 (9) Paragraph (11) is amended to read as follows:
+92 “(11) “Joint venture” means 2 or more persons that combine their property,
+93 capital, efforts, skills, or knowledge to carry out a single project.”.
+94 (10) Paragraph (13A) is amended to read as follows:
+95 “(13A) “Material change” means a change in:
+96 “(A) A business’s ownership;
+97 “(B) The address of a business’s principal office;
+98 “(C) A business’s size, if the business is certified as a small business
+99 enterprise; and
+100 “(D) Any other characteristic of the business that affects whether the
+101 business continues to qualify for certification under a CBE category under which the business
+102 enterprise is certified.”.
+103 (11) Paragraph (13B) is redesignated as paragraph (13D).
+104 (12) New paragraphs (13B) and (13C) are added to read as follows:
+4
+
+105 “(13B) “Person” means any individual, firm, partnership, general partner of a
+106 partnership, limited liability company, registered limited liability partnership, foreign limited
+107 liability partnership, association, corporation, unincorporated business, company, syndicate,
+108 estate, trust, business trust, trustee, trustee in bankruptcy, receiver, executor, administrator,
+109 assignee, fiduciary, or entity of any kind.
+110 “(13C) “Principal office” means the location where the primary operational,
+111 financial, and recordkeeping functions of the business occur.”.
+112 (13) Paragraph (15) is amended to read as follows:
+113 “(15) "Resident-owned business" means a local business enterprise in which more
+114 than 50% of the ownership interest is owned by an individual who is, or individuals who are:
+115 “(A) Domiciled in the District of Columbia; and
+116 “(B) Subject to personal income tax under District law as a full-year
+117 resident, or as full-year residents, of the District of Columbia.”.
+118 (c) Section 2315 (D.C. Official Code § 2-218.15) is repealed.
+119 (d) Section 2331 (D.C. Official Code § 2-218.31) is amended by adding a new paragraph
+120 (1A) to read as follows:
+121 “(1A)(A) Is:
+122 “(i) Independently owned and operated;
+123 “(ii) More than 50% owned, operated, and controlled by a District-
+124 based enterprise or not-for-profit business; or
+125 “(iii) Owned by a non-District-based business enterprise that is
+126 more than 50% owned by District residents;”.
+127 (e) Section 2332 (D.C. Official Code § 2-218.32) is amended as follows:
+5
+
+128 (1) Subsection (a) is amended as follows:
+129 (A) Paragraph (1)(A) is amended by striking the semicolon and inserting
+130 the phrase “; and” in its place.
+131 (B) Paragraph (2) is repealed.
+132 (2) Subsections (b) and (c) are repealed.
+133 (f) Section 2333 (D.C. Official Code § 2-218.33) is amended as follows:
+134 (1) Subsection (a)(2)(A) is amended by striking the phrase “; or” and inserting a
+135 period in its place.
+136 (2) Subsection (b) is repealed.
+137 (g) Section 2337 (D.C. Official Code § 2–218.37) is amended to read as follows:
+138 “Sec. 2337. Local business enterprise with its principal office located in an enterprise
+139 zone.
+140 “A local business enterprise shall be eligible for certification as a local business
+141 enterprise with its principal office located in an enterprise zone if its principal office is located in
+142 an enterprise zone as defined by section 2302(8).”.
+143 (h) Section 2338 (D.C. Official Code § 2-218.38) is amended as follows:
+144 (1) Paragraph (2) is amended by striking the semicolon and inserting the phrase “;
+145 and” in its place.
+146 (2) Paragraph (3) is amended by striking the phrase “; and” and inserting a period
+147 in its place.
+148 (3) Paragraph (4) is repealed.
+149 (i) Section 2346 (D.C. Official Code § 2-218.46) is amended as follows:
+6
+
+150 (1) The section heading is amended by striking the phrase “construction and non-
+151 construction contracts” and inserting the phrase “government-assisted projects” in its place.
+152 (2) Subsection (a)(3) is amended to read as follows:
+153 “(3) A local business enterprise shall not be subject to the requirements in
+154 paragraph (1) or (2) of this subsection.”.
+155 (3) Subsection (b) is amended as follows:
+156 (A) Paragraph (1)(A) is amended to read as follows:
+157 “(A)(i) This paragraph applies to each contract for a government-assisted
+158 project for which a certified business enterprise was selected as a beneficiary and was:
+159 “(I) Granted points or a price reduction pursuant to section
+160 2343; or
+161 “(II) Selected through a set-aside program under this
+162 subpart.
+163 “(ii) If the contract for the government-assisted project is valued at
+164 or over $1 million:
+165 “(I) The certified business enterprise shall perform at least
+166 35% of the work on the contract with its own organization and resources; and
+167 “(II) If the certified business enterprise subcontracts, at
+168 least 35% of the dollar volume of the overall subcontract shall be subcontracted with certified
+169 business enterprises.
+170 “(iii) If the project is valued at less than $1 million:
+171 “(I) The certified business enterprise shall perform at least
+172 50% of the work on the contract with its own organization and resources; and
+7
+
+173 “(II) If the certified business enterprise subcontracts, at
+174 least 35% of the dollar volume of the overall subcontracting amount shall be subcontracted with
+175 certified business enterprises.”.
+176 (B) Paragraph (2)(A) is amended to read as follows:
+177 “(A) For each government-assisted project for which a certified joint
+178 venture is selected as a beneficiary and is granted points or a price reduction pursuant to section
+179 2343, selected through a set-aside program under this part, or conferred a procurement
+180 preference for being a certified business enterprise:
+181 “(i) Each certified business enterprise holding a majority or
+182 minority interest in the certified joint venture shall, with its own organization and resources,
+183 perform a percentage of the work equal to or greater than its percentage interest in the joint
+184 venture.
+185 “(ii) If the certified joint venture subcontracts, at least 35% of the
+186 dollar volume of the subcontract shall be subcontracted with qualified certified business
+187 enterprises.”.
+188 (4) Subsection (b-1) is amended by striking the phrase “subsections (a) and (b) of
+189 this subsection” and inserting the phrase “subsections (a) and (b) of this section” in its place.
+190 (5) Subsection (c) is repealed.
+191 (6) A new subsection (c-1) is added to read as follows:
+192 “(c-1) Any dollar volume of a contract for a government-assisted project that is
+193 subcontracted to a certified business enterprise in which a beneficiary of that contract has an
+194 ownership or financial interest shall not count toward the fulfillment of the 35% dollar volume
+195 subcontracting requirement set forth in this section.”.
+8
+
+196 (7) Subsection (d)(3) is amended by striking the word “District” and inserting the
+197 phrase “procurement authority” in its place.
+198 (8) Subsection (h) is repealed.
+199 (9) Subsection (i) is amended as follows:
+200 (A) Paragraph (1) is amended by striking the phrase “A beneficiary” and
+201 inserting the phrase “A beneficiary on a government-assisted project subject to subcontracting
+202 requirements under subsections (a), (b), or (b-1) of this section” in its place.
+203 (B) A new paragraph (1A) is added to read as follows:
+204 “(1A) The initial quarterly report filed by the beneficiary shall include a copy of
+205 the subcontracting plan.”
+206 (C) New paragraphs (3) and (4) are added to read as follows:
+207 “(3) A subcontractor identified on a beneficiary’s subcontracting plan shall not
+208 commence performance on the subcontract until the subcontract has been executed. The
+209 beneficiary shall not receive credit for monies paid to a certified business enterprise
+210 subcontractor for work performed on the government-assisted project before the subcontract
+211 agreement was executed.
+212 “(4) If a beneficiary fails to submit copies of the executed subcontracts within 30
+213 calendar days of execution to the Department, the beneficiary’s failure shall render voidable by
+214 the District any underlying contract with the beneficiary for that project.”.
+215 (j) Section 2349a(a) (D.C. Official Code § 2-218.49a(a)) is amended as follows:
+216 (1) A new paragraph (1A) is added to read as follows:
+217 “(1A) An investment of a small investor, disadvantaged investor, or certified
+218 equity participant shall not count toward the 20% equity requirement set forth in paragraph (1) of
+9
+
+219 this subsection if the beneficiary for the project and either the small investor, disadvantaged
+220 investor, or certified equity participant stand in any of the following relationships with one
+221 another:
+222 “(A) One stands in an employee-employer relationship to the other;
+223 “(B) One has an ownership or financial interest in the other; or
+224 “(C) One has a fiduciary duty to the other.”.
+225 (2) New paragraphs (4), (5), and (6) are added to read as follows:
+226 “(4) An equity sponsor for a government-assisted project shall not be required to
+227 pay developer fees, acquisition fees, or general contractor fees that, when totaled, are
+228 unreasonably disproportionate to the percentage of its equity investment in the project.
+229 “(5) An equity sponsor for a government-assisted project shall have voting rights
+230 pertaining to personnel and managerial decisions on a covered project that are commensurate
+231 with its percentage of equity investment.
+232 “(6) The Mayor shall issue rules, pursuant to section 2372, specifying:
+233 “(A) The maximum ratio between the percentage of total fees an equity
+234 sponsor is required to pay and the percentage of its equity investment, before those fees become
+235 unreasonably disproportionate for purposes of paragraph (4) of this subsection; and
+236 “(B) The minimum ratio, between an equity sponsor’s percentage of total
+237 voting rights and the percentage of its equity investment in the project, that makes the sponsor’s
+238 voting rights commensurate with its percentage of equity investment for purposes of paragraph
+239 (5) of this subsection.”.
+240 (k) Section 2354(a), (b), and (c)(2) (D.C. Official Code § 2-218.54(a), (b), and (c)(2)) are
+241 repealed.
+10
+
+242 (l) Section 2361 (D.C. Official Code § 2-218.61) is amended as follows:
+243 (1) A new subsection (c-1) is added to read as follows:
+244 “(c-1) If the Department denies an application for certification, the Department shall not
+245 accept, review, or evaluate any of the following for a period of 6 months from the date the
+246 applicant receives notice of the decision to deny the application:
+247 “(1) Amendments to the denied application; or
+248 “(2) A new certification application from the applicant, its agent(s),
+249 representative(s), or other members of the public on the applicant's behalf.”.
+250 (2) A new subsection (f) is added to read as follows:
+251 “(f)(1) Within 90 days after the effective date of the 2025 Act, a business enterprise
+252 certified by the Department as of the day before the 2025 Act’s effective date shall notify the
+253 Department in writing if it determines that it no longer qualifies for certification under any of the
+254 designations under sections 2331 through 2339a of the Act.
+255 “(2) An application required by this subsection shall contain the information
+256 required by subsection (b) of this section; provided, that the Department may by rule clarify the
+257 documents or information required to be submitted with the application.
+258 “(3) The Department shall deny the application of a certified business enterprise
+259 filed pursuant to paragraph (1) of this subsection if:
+260 “(A) The business enterprise timely filed the application and the
+261 Department determines that the business no longer meets the requirements for certification under
+262 this act; or
+263 “(B) The business enterprise did not timely file the application.
+11
+
+264 “(4) A businessenterprise whose application is denied under paragraph (3) of this
+265 subsection shall nonetheless be treated as a certified business enterprise for the purpose of the
+266 following contracts, including with respect to the contracting, subcontracting, and procurement
+267 requirements of this act, as well as any applicable subcontractor credit described in this act, so
+268 long as the business enterprise remains in compliance with the other provisions of this act:
+269 “(A) Any contract between the business enterprise and the District that
+270 was executed before the effective date of 2025 Act; and
+271 “(B) Any contract executed before the effective date of the 2025 Act on
+272 which the business enterprise was included as a subcontractor on a subcontracting plan.”
+273 “(5) For the purpose of this section, the phrase “2025 Act” refers to the
+274 Supporting Local Business Enterprises Amendment Act of 2025, introduced on ____ (Bill 25-
+275 __).”.
+276 (m) A new section 2361a is added to read as follows:
+277 “Sec. 2361a. Certificate of registration during a public health emergency.
+278 “(a) During a public health emergency declared by the Mayor pursuant to section 5a of
+279 the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law
+280 14-194; D.C. Official Code § 7-2304.01):
+281 “(1) A business enterprise that satisfies all elements of section 2331 other than
+282 section 2331(2) shall still be eligible for certification or subsequent certification as provided in
+283 section 2361 if:
+284 “(A) The business enterprise demonstrates that its chief executive officer
+285 and highest-level managerial employees are restricted, by statute, regulation, Mayor’s Order, or
+12
+
+286 decision of the business, from working in the business enterprise’s principal office due to the
+287 declared public health emergency; and
+288 “(B) The principal office maintained by the business enterprise in the
+289 District is either:
+290 “(i) A brick-and-mortar dedicated office space leased or owned by
+291 the business enterprise; or
+292 “(ii) A leased or owned dwelling in which the majority owner of
+293 the business enterprise resides.
+294 “(2) A business enterprise certified pursuant to paragraph (1) of this subsection
+295 shall be eligible for subsequent certification pursuant to section 2361(c-1) during the public
+296 health emergency if it either:
+297 “(A) Files a no-change affidavit, pursuant to section 2361(c-1), attesting
+298 that there has been no material change in the business enterprise’s business status and that the
+299 business enterprise continues to satisfy the requirements of paragraph (1) of this subsection; or
+300 “(B) Demonstrates that the business enterprise satisfies section 2331.
+301 “(b) A business enterprise certified pursuant to paragraph (a)(1) of this section shall be
+302 eligible for subsequent certification after the public health emergency has ended so long as the
+303 business enterprise demonstrates that it satisfies section 2331.
+304 “(c) Notwithstanding section 2361(d), a certificate of registration issued during a public
+305 health emergency to a business enterprise shall expire 1 year after the date of approval of the
+306 application if the business enterprise did not demonstrate its compliance with section 2331(2).”.
+307 (n) Section 2363 (D.C. Official Code § 2-218.63) is amended as follows:
+308 (1) Subsection (a) is amended as follows:
+13
+
+309 (A) Paragraph (3) is amended as follows:
+310 (i) Subparagraph (B) is amended by striking the word “city” and
+311 inserting the phrase “District government” in its place.
+312 (ii) Subparagraph (C) is amended as follows:
+313 (I) Sub-subparagraph (iii) is amended by striking the word
+314 “Made” and inserting the phrase “Willfully made” in its place.
+315 (II) Sub-subparagraph (iv) is amended to read as follows:
+316 “(iv) Used a document that the person knows to contain a false
+317 statement or entry; or”.
+318 (III) A new sub-subparagraph (v) is added to read as
+319 follows:
+320 “(v) Willfully omitted a material fact in a submission to the
+321 Department.”.
+322 (iii) Subparagraph (H) is amended to read as follows:
+323 “(H) Failed to operate and manage a certified joint venture in
+324 accordance with section 2339; provided, that, if the joint venture demonstrates that the failure to
+325 operate and manage the joint venture in accordance with the joint venture application was
+326 necessary due to unforeseen business or operational issues, the failure shall not be a violation of
+327 this act.”.
+328 (ii) Subparagraph (I) is amended as follows:
+329 (I) Strike the word “submits” and insert the word
+330 “submitted” in its place.
+14
+
+331 (II) Strike the word “violates” and insert the word
+332 “violated” in its place.
+333 (iii) Subparagraph (J) is amended by striking the period at the end
+334 and inserting the phrase “; or” in its place.
+335 (B) A new paragraph (4) is added to read as follows:
+336 “(4) A business enterprise:
+337 “(A) Willfully obstructed or impeded, or attempted to obstruct or impede,
+338 a District government official or employee investigating the qualifications of a business
+339 enterprise that has requested certification; or
+340 “(B) In any certified business enterprise matter administered under this
+341 act:
+342 “(i) Fraudulently obtained, attempted to obtain, or aided another
+343 person in fraudulently obtaining or attempting to obtain, public moneys to which the person is
+344 not entitled;
+345 “(ii) Willfully falsified, concealed, or covered up a material fact by
+346 any scheme or device;
+347 “(iii) Willfully made a materially false statement or representation;
+348 “(iv) Knowingly used a document that contains a false statement or
+349 entry; or
+350 “(v) Willfully omitted a material fact in a submission to the
+351 Department.”.
+352 (2) Subsection (b) is amended by striking the phrase “an individual or business”
+353 and inserting the phrase “a person” in its place.
+15
+
+354 (3) Subsection (c) is amended as follows:
+355 (A) The lead-in language is amended to read as follows:
+356 “(c) If the Department determines, in accordance with procedures set forth in subsection
+357 (g) of this section, that a person:”.
+358 (B) Paragraph (1) is amended as follows:
+359 (i) Strike the phrase “Department shall:” and insert the phrase
+360 “Department shall, to the extent consistent with applicable law:” in its place.
+361 (ii) Subparagraph (C) is amended as follows:
+362 (I) Sub-subparagraph (i) is amended to read as follows:
+363 “(i) Assess a civil penalty of not more than $25,000 for the third
+364 and any subsequent offense.”.
+365 (II) Sub-subparagraph (ii) is repealed.
+366 (iii) Subparagraph (C-1) is amended by striking the phrase
+367 “Department shall assess” and insert the phrase “Department shall, to the extent consistent with
+368 applicable law, assess” in its place.
+369 (C) Paragraph (2) is amended to read as follows:
+370 “(2) Has committed a violation of subsection (a)(2) or (a)(3) of this section and is
+371 a certified business enterprise or certified joint venture, the Department shall suspend or revoke
+372 its certification;”.
+373 (D) Paragraph (3) is repealed.
+374 (E) Paragraph (4) is amended to read as follows:
+375 “(4) Has failed to use commercially reasonably best efforts to meet the subcontracting
+376 requirements established in section 2346 of the Act, the Department, notwithstanding the
+16
+
+377 enforcement actions in paragraph (1) of this subsection, shall require a shortfall payment equal
+378 the difference between the dollar volume the beneficiary or certified joint venture was required
+379 to subcontract to certified business enterprises and the actual dollar volume subcontracted to
+380 certified business enterprises. For the purposes of this paragraph, the term “commercially
+381 reasonable best efforts” shall require that the beneficiary or certified joint venture take all actions
+382 that a similarly situated beneficiary or certified joint venture would take to accomplish the goal;
+383 provided, that the beneficiary or certified joint venture shall not be required to expend amounts
+384 that are disproportionate to the benefit being obtained;”.
+385 (F) Paragraph (5) is amended as follows:
+386 (i) Strike the phrase “Department shall assess” and insert the
+387 phrase “Department shall, to the extent consistent with applicable law, assess”
+388 (i) Strike the period at the end and insert the phrase “; and” in its
+389 place.
+390 (G) A new paragraph (6) is added to read as follows:
+391 “(6) Ceases to meet the requirements of a particular category of certification and
+392 is a certified business enterprise, the Department may change the business enterprise’s certificate
+393 of registration by removing the category of certification for which the business enterprise no
+394 longer meets the requirements of certification; provided, that this paragraph shall not apply if a
+395 certified business enterprise ceases to qualify as a local business enterprise.”.
+396 (4) New subsections (d-1) and (d-2) are added to read as follows:
+397 “(d-1) The Department may refer matters to the Office of Contracting and Procurement,
+398 including matters involving agencies not subject to the Office of Contracting and Procurement’s
+399 authority pursuant to section 201(b) of the Procurement Practices Reform Act of 2010, effective
+17
+
+400 April 8, 2011 (D.C. Law 18-371; D.C. Official Code § 2-352.01(b)), for investigation. If the
+401 Office of Contracting and Procurement through its hearing procedures determines that a
+402 beneficiary, business enterprise, or certified joint venture has committed more than 2 violations
+403 of subsection (a)(1) of this section, or any violations of subsections (a)(3) or (a)(4) of this
+404 section, the beneficiary, business enterprise, or certified joint venture shall be:
+405 “(1) Debarred from consideration of award of contracts or subcontracts with the
+406 District government for a period of no more than 5 years; and
+407 “(2) Deemed ineligible from consideration for government-assisted projects with
+408 the District government for a period of no more than 5 years.
+409 “(d-2) The Department may refer any suspected violation of this section to the Attorney
+410 General for the District of Columbia, who may bring a civil action in the Superior Court of the
+411 District of Columbia against any person, including the directors or officers of a business
+412 enterprise, alleged to have committed the violation. A person alleged to have violated subsection
+413 (a)(3) or (a)(4) of this section shall be subject to civil penalties of $100,000, or triple the profit
+414 earned by the person on all contracts awarded, whichever is greater.”.
+415 (5) Subsection (e) is amended as follows:
+416 (A) Paragraphs (1) through (3) are amended to read as follows:
+417 “(1) Any person may file with the Department a formal or informal complaint
+418 alleging a violation of this act. The Department shall maintain a hotline for the filing of informal
+419 complaints.
+420 “(2) The Department shall investigate each formal or informal complaint filed
+421 with it, except as provided in paragraph (3) of this subsection.
+422 “(3) The Department may dismiss a complaint without conducting an
+18
+
+423 investigation if the Department determines that the complaint is frivolous or otherwise without
+424 merit. If the Department dismisses a formal complaint as frivolous or otherwise without merit,
+425 the Department shall prepare a report documenting the following:
+426 “(A) A statement detailing the formal complaint, including the name,
+427 address, and telephone number of the person filing the complaint;
+428 “(B) The name of the person or certified joint venture alleged to be in
+429 violation of this act;
+430 “(C) The facts and law considered in rendering the determination; and
+431 “(D) Any other information considered in rendering the determination.”.
+432 (B) Paragraph (4) is repealed.
+433 (C) New paragraphs (5) and (6) are added to read as follows:
+434 “(5) After the completion of an investigation conducted pursuant to this
+435 subsection, the Department shall, as it deems appropriate, take any enforcement action available
+436 under this act..
+437 “(6) The Department shall maintain a record listing all formal complaints, which
+438 shall contain the following information:
+439 “(A) The name of the person alleged to be in violation of this act;
+440 “(B) The date the formal complaint was made to the Department; and
+441 “(C) A description of the formal complaint.”.
+442 (6) Subsection (f) is repealed.
+443 (7) Subsection (g) is amended to read as follows:
+444 “(g)(1) Except as provided in paragraph (8) of this subsection, before issuing a civil
+445 penalty to, or denying, suspending, changing, or revoking a certification of a business enterprise
+19
+
+446 or a certified joint venture, the Department shall issue a notice of determination to the person or
+447 certified joint venture. The notice of determination shall describe the basis for the Department’s
+448 determination; the proposed penalty, if any; and the process and timeline by which the person or
+449 certified joint venture may request a hearing.
+450 “(2) The person, or the certified representative if the notice of determination is
+451 issued to a joint venture, may request a hearing before the Office of Administrative Hearings,
+452 pursuant to paragraph (3) of this subsection, within 10 calendar days after receiving the notice. If
+453 the person or certified joint venture does not request a hearing within that time, the civil penalty,
+454 denial, suspension, change, or revocation shall become final.
+455 “(3) If a hearing is requested, the Office of Administrative Hearings shall consider
+456 the matter pursuant to section 19 of the Office of Administrative Hearings Establishment Act
+457 of 2001, effective March 6, 2002 (D.C. Law 14-76; D.C. Official Code § 2-1831.16), and the
+458 rules promulgated thereunder. The Department shall bear the burden of establishing the reason
+459 for the civil penalty, change, denial, suspension, or revocation by a preponderance of the
+460 evidence.
+461 “(4) The decision of the Office of Administrative Hearings shall be the final
+462 administrative decision for purpose of judicial review.
+463 “(5) Notice of a final suspension or revocation of a certification shall be published
+464 on the Department’s website.
+465 “(6) A business enterprise or joint venture whose certification has been revoked
+466 shall not be eligible to apply for a new certification from the Department until 36 months after
+467 the date that the revocation became final.
+468 “(7)(A) The Department may at any time, upon motion by a business enterprise or
+20
+
+469 joint venture whose certification has been suspended or revoked, remove the suspension or
+470 reissue a certification, if the Department determines that it is in the District government's interest
+471 to remove the suspension or reissue the certification before the end of the 36-month period and
+472 such removal or reissuance does not endanger the health, safety, or welfare of the general public.
+473 “(B) In determining whether to remove a suspension or reissuance a
+474 certification, the Department shall consider in part whether the business enterprise or joint
+475 venture submitted satisfactory proof that conditions within, or actions by, the business enterprise
+476 or joint venture that led to the suspension or revocation have been corrected.
+477 “(C) A business enterprise or joint venture whose certification is reissued
+478 shall cease to be subject to the 36-month waiting period established in paragraph (6) of this
+479 subsection.
+480 “(8)(A) If, after an investigation, the Department determines that a business
+481 enterprise or joint venture certified under this act has violated any provision of this act in such a
+482 manner as to present an imminent danger to the health, safety, or welfare of any person or the
+483 general public, and that a summary suspension is necessary and appropriate to respond to that
+484 imminent danger, the Department may summarily suspend the certification of the business
+485 enterprise or joint venture upon issuing the notice of determination described in paragraph (1) of
+486 this subsection.
+487 “(B) The notice of determination shall inform the business enterprise or
+488 joint venture of the reason for the summary suspension and the right to request a hearing before
+489 the Office of Administrative Hearings pursuant to paragraph (1) of this subsection.
+490 “(C) If a business enterprise or joint venture timely requests a hearing on a
+491 summary suspension, the Office of Administrative Hearings shall conduct the hearing within 14
+21
+
+492 days after receiving the request, unless the Office of Administrative Hearings and the business
+493 enterprise or joint venture agree to a longer period of time, and shall issue a decision within 14
+494 days after the record for the hearing closes.”.
+495 (o) Section 2367 (D.C. Official Code § 2-218.67) is repealed.
+496 (p) Section 2371 (D.C. Official Code § 2-218.71) is repealed.
+497 (q) Section 2375(c)(2) (D.C. Official Code § 2-218.75(c)(2)) is amended by striking the
+498 phrase “pursuant to section 2363(c)” and inserting the phrase “pursuant to section 2363(d-2)” in
+499 its place.
+500 Sec. 3. Section 3 of the District of Columbia Government Quick Payment Act of 1984,
+501 effective March 15, 1985 (D.C. Law 5-164; D.C. Official Code 2-221.02), is amended as
+502 follows:
+503 (a) Subsection (d) is amended by adding a new paragraph (1A) to read as follows:
+504 “(1A) A clause requiring a beneficiary performing work on a government-assisted
+505 project for which a certified business enterprise (“CBE”) is utilized to meet the subcontracting
+506 requirements pursuant to section 2346 of the Small and Certified Business Enterprise
+507 Development and Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C.
+508 Official Code § 2-218.46), to submit an invoice to the District agency every 30 calendar days for
+509 work by the CBE subcontractor that, in the beneficiary’s judgment, the subcontractor has
+510 satisfactorily performed and properly invoiced, with the first invoice due to the District no later
+511 than 35 calendar days after the certified business enterprise submits its initial invoice to the
+512 beneficiary, unless the beneficiary’s contract with the District requires a different payment
+513 timeline or deliverable;”.
+514 (b) A new subsection (g) is added to read as follows:
+22
+
+515 “(g) The Mayor may impose a fine, or another penalty authorized by this act, on a
+516 contractor, including a beneficiary, for failure to comply with a provision of this section or a
+517 contract clause required by this section. The processes for determining the amount of the fine
+518 and imposing the fine shall be established by the Mayor by rule issued pursuant to Title I of the
+519 District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204;
+520 D.C. Official Code § 2-501 et seq.).”.
+521 Sec. 4. The Certified Business Enterprise Program Compliance and Enforcement Support
+522 Temporary Amendment Act of 2025, effective August 16, 2025 (D.C. Law 26-25; 72 DCR
+523 7536), is repealed.
+524 Sec. 5. Fiscal impact statement.
+525 The Council adopts the fiscal impact statement in the committee report as the fiscal
+526 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+527 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+528 Sec. 6. Effective date.
+529 The act shall take effect following approval by the Mayor (or in the event of veto by the
+530 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+531 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+532 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+533 Columbia Register.
+23
+
+Government of the District of Columbia
+Office of the Chief Financial Officer
+Glen Lee
+Chief Financial Officer
+MEMORANDUM
+TO: The Honorable Phil Mendelson
+Chairman, Council of the District of Columbia
+FROM: Glen Lee
+Chief Financial Officer
+DATE: February 17, 2026
+SUBJECT: Fiscal Impact Statement – Supporting Local Business Enterprises
+Emergency Amendment Act of 2026
+REFERENCE: Draft Bill as provided to the Office of Revenue Analysis on February 12,
+2026
+Conclusion
+Funds are sufficient in the fiscal year 2026 through fiscal year 2029 budget and financial plan to
+implement the bill.
+Background
+The Department of Small and Local Business Development (DSLBD) supports the growth and
+development of the District’s small businesses through education, grants, certification programs, and
+enforcement of contracting laws related to small business participation. DSLBD also runs the
+Certified Business Enterprise (CBE) program. District-based businesses that meet specified criteria
+regarding ownership, size, and physical location can qualify as CBEs. Organizations certified as CBEs
+receive preference in District contracting or procurement actions.
+The bill makes several changes to DSLBD’s business enterprise certification programs and CBE
+program and would permanently modify the process to appeal a CBE determination or file a
+complaint. These changes are currently in effect on a temporary basis.1 The bill repeals the existing
+1 These provisions are in effect on a temporary basis until March 29, 2026, via the Certified Business
+Enterprise Program Compliance and Enforcement Support Temporary Amendment Act of 2025, effective
+August 16, 2025 (D.C. Law 26-25; 72 DCR 7536).
+1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727-2476
+www.cfo.dc.gov
+
+The Honorable Phil Mendelson
+FIS: “Supporting Local Business Enterprises Emergency Amendment Act of 2026,” Draft Bill as provided to
+the Office of Revenue Analysis on February 12, 2026
+temporary legislation in favor of this emergency bill and its accompanying temporary and permanent
+versions.
+Within the CBE category, DSLBD also certifies businesses in several categories that qualify the
+business for additional priority in contracting actions (via point scoring or percentage reduction in
+price)2, including Small Business Enterprises, Local Business Enterprises, Disadvantaged Business
+Enterprises, and Equity Impact Enterprises. The bill changes the definition for many of these
+additional subcategories and outlines how existing CBEs will be treated if they no longer meet the
+criteria for CBEs set out in the bill.
+The bill expands the CBE designation (that applies to prime contractors or developers on
+government-assisted contracts) to include not-for-profit entities. Under current law, only for-profit
+entities qualify as CBEs. The bill also establishes the process for waiving certain CBE criteria during
+a public health emergency if its high-level employees (that would otherwise be required to be in their
+offices in the District) are restricted from working in the office.
+In disposing of excess real property owned by the District, the Mayor may require that the developer
+contract with certified local business for equity investment in the project (an “equity sponsor”). The
+bill further defines equity sponsor for these purposes to include a small investor, disadvantaged
+investor, or certified equity participant. The bill prohibits the developer from charging fees to the
+equity sponsor that are unreasonably large relative to the equity investment, and it requires the
+Mayor to issue rules implementing this section.
+Disadvantaged Business Enterprises must be local business enterprises that are more than 50
+percent owned, operated, and controlled by socially and economically disadvantaged individuals.
+The bill redefines Disadvantaged Business Enterprises to be those held by individuals whose
+personal net worth is at or below the level qualifying for the federal Disadvantaged Business
+Enterprise program.
+The bill revises the definition of Small Business Enterprises to match the federal definition of “small
+business concern” or have gross receipts below a certain level.
+The bill revises the certification for Local Business Enterprises. Local Business Enterprises are those
+that are independently owned and operated and either 1) more than 50 percent owned and
+controlled by a District-based enterprise or not-for-profit business, or 2) owned by a non-district
+business enterprise that itself is more than 50 percent owned by District residents.
+The bill eliminates the Living Wage Certification Program (the “Program”) that was established to
+certify businesses that pay their employees a living wage3. These businesses could then advertise
+their designation as a living wage employer under the Program. The Program was never established
+or funded. The bill also repeals a reporting requirement.
+The bill changes the hearing procedures for persons wishing to protest a DSLBD determination or
+penalty, removing a requirement that DSLBD hold an internal hearing before the applicant or entity
+can appeal to the Office of Administrative Hearings, and increases the civil penalty amounts for
+2 Slide 1 (dc.gov)
+3 Living Wage Certification Grant Program Amendment Act of 2018, effective October 30, 2018 (D.C. Law 22-
+168; D.C. Official Code § 2-218.15).
+Page 2 of 3
+
+The Honorable Phil Mendelson
+FIS: “Supporting Local Business Enterprises Emergency Amendment Act of 2026,” Draft Bill as provided to
+the Office of Revenue Analysis on February 12, 2026
+entities that are found to have violated certain of the contracting and subcontracting requirements
+set out in the law. The bill also permits both formal and informal complaints and more explicitly lays
+out DSLBD’s process after conducting an investigation of a formal complaint, including timeframes.
+Finally, the bill eliminates the Volunteer Corps of Executives and Entrepreneurs, which was designed
+to provide mentoring and network opportunities to Certified Business Enterprises. The Volunteer
+Corps was never established.
+Financial Plan Impact
+Funds are sufficient in the fiscal year 2026 through fiscal year 2029 budget and financial plan to
+implement the bill. Costs related to changing these definitions were absorbed during the
+implementation of previous emergency and temporary legislation.4 Therefore, there is no additional
+cost associated with this emergency bill or its accompanying temporary and permanent versions. As
+the Living Wage Certification Program and the Volunteer Corps were never operational, their repeal
+has no impact on the budget and financial plan.
+4 The Local Business Enterprise Clarification Emergency Amendment Act of 2022, effective April 25, 2022
+through July 24, 2022 (D.C. Act 24-382; 69 DCR 4037), the Local Business Enterprise Clarification Emergency
+Amendment Act of 2023, effective February 27, 2023 through May 28, 2023 (D.C. Act 25-37; 70 DCR 2984)
+and the Local Business Enterprise Clarification Temporary Amendment Act of 2023, effective May 25, 2023
+through Jan 5, 2024 (D.C. Act A25-55; 70 DCR 8446).
+Page 3 of 3
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+BRIAN L. SCHWALB
+ATTORNEY GENERAL
+LEGAL COUNSEL DIVISION
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal Counsel Division
+DATE: September 19, 2025
+SUBJECT: Legal Sufficiency Review of Draft “Supporting Local Business Enterprises
+Amendment Act of 2025”
+(AE-24-247 B)
+_____________________________________________________________________________________
+This is to Certify that
+this Office has reviewed the above-referenced draft
+legislation and found it to be legally sufficient. If you have any questions in this regard, please do
+not hesitate to call me at (202) 262-6402.
+_________________________________
+Adele El-Khouri
+3

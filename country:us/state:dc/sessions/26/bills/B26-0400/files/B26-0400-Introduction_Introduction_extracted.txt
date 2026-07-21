@@ -1,0 +1,113 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2 ________________________________ ________________________________
+3 Councilmember Anita Bonds Councilmember Zachary Parker
+4
+5
+6
+7 A BILL
+8
+9 _________________________
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13 _________________________
+14
+15
+16 To amend Chapter 23 of Title 16 of the District of Columbia Official Code to consolidate,
+17 standardize, and update the statutory definition of neglect; To amend Title 1 of the
+18 Prevention of Child Abuse and Neglect Act of 1977 to clarify that the Child and Family
+19 Services Agency shall not use a parent or guardian’s eligibility for or use of public
+20 benefits as the sole evidence that parental failure is unrelated to neglect and to clarify that
+21 homelessness or lack of stable housing shall not be used as sole evidence of neglect.
+22
+23 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+24 act may be cited as the “Statutory Neglect Amendment Act of 2025.”
+25 Sec. 2. Chapter 23 of Title 16 of the District of Columbia Official Code is amended as
+26 follows:
+27 (a) Section 16-2301(9)(A) is amended to read as follows:
+28 “(A) The term “neglected child” means a child:
+29 “(i) who has been abused by their parent, guardian, or custodian, or whose parent,
+30 guardian, or custodian has failed to take actions that are reasonable under the circumstances to
+31 protect the child from abuse;
+32 “(ii) who is suffering or there is a substantial risk that the child will suffer serious
+33 physical, mental or emotional harm or illness, based on consideration of the totality of the
+34 circumstances, as a result of any of the following:
+
+35 “(I) The failure of the child’s parent, guardian, or custodian to plan for or
+36 provide adequate supervision for the child, after considering such factors as the child's age,
+37 mental ability, physical condition, and environment; or
+38 “(II) The failure of the child’s parent, guardian, or custodian to plan for or
+39 provide the child with adequate food, clothing, or shelter; education; or treatment or care
+40 necessary for the child’s physical or mental health, provided the failure is not due solely to lack
+41 of financial means, demonstrated by reasonable efforts by the Child and Family Services Agency
+42 pursuant to §4–1301.09a.
+43 “(iii) who has been abandoned;
+44 “(iv) whose parent, guardian, or custodian refuses, is unavailable, or is unable to
+45 continue providing for or assuming the child’s care, control, or subsistence;
+46 “(v) who is in imminent danger of being abused and another child living in the
+47 same household or under the care of the same parent, guardian, or custodian has been abused;
+48 “(vi) who is born dependent on a controlled substance or has a significant
+49 presence of a controlled substance their system at birth;
+50 “(vii) in whose body there is a controlled substance as a direct and foreseeable
+51 consequence of the acts or omissions of the child’s parent, guardian, or custodian;
+52 “(viii) who is regularly exposed to illegal drug-related activity in the home;
+53 “(ix) who has been subjected to, or is in imminent danger of being subjected to,
+54 female genital mutilation pursuant to § 22-1431(b); or
+55 “(x) whose parent, guardian, or custodian can give no satisfactory explanation for
+56 evidence of illness or injury to the child.”.
+57 (b) Section 16-2301(23)(A) is amended to read as follows:
+
+58 “(A) The term “abused” when used with reference to a child, means:
+59 “(i) infliction of physical injury;
+60 “(ii) infliction of mental injury;
+61 “(iii) sexual abuse or exploitation;
+62 “(iv) exposure to domestic violence as defined by section § 4-551;
+63 “(v) mistreatment of the child by withholding adequate food, clothing, shelter, or
+64 medical care;
+65 “(vi) interfering with a child's breathing; or
+66 “(vii) threatening a child with a firearm, a knife, or any of the prohibited weapons
+67 described in § 22-4514.”.
+68 (c) Section 16-2301(23)(B)(i) is amended to read as follows:
+69 “(i) For the purposes of this subchapter, the term “abuse” does not include physical
+70 discipline administered by a parent, guardian, or custodian to their child, provided that the child
+71 is at least 3 years of age, and the physical discipline is reasonable in manner and moderate in
+72 degree.”.
+73 (d) A new Section 16-2301(52) is added to read as follows:
+74 “(52)(A) The term “abandoned” means a child:
+75 “(I) whose parent, guardian, or legal custodian has not made reasonable
+76 efforts to maintain a parental relationship with the child for a period of at least four (4) months;
+77 or
+78 “(II) who has resided in a hospital located in the District of Columbia for
+79 at least 10 days following the birth of the child and the parent of the child did not undertake any
+80 action or make any effort to maintain a parental relationship or contact with the child or hospital.
+
+81 “(B) A child who is surrendered pursuant to the District’s Safe Haven law as pursuant to
+82 § 4–1451 shall not be considered abandoned.”.
+83 (c) Paragraph (24) is stricken.
+84 Sec. 3. Title 1 of the Prevention of Child Abuse and Neglect Act of 1977, effective
+85 September 23, 1977 (D.C. Law 2-22; D.C. Official Code § 4-1301.04 et seq.), is amended as
+86 follows:
+87 (a) New subsections 106(b-1) and 106(b-2) are added to read as follows:
+88 “(b-1) A finding by the Agency of a parent or guardian’s eligibility for or receipt of
+89 public benefits shall not be used by the Agency as the sole basis to establish that parental failure
+90 is unrelated to a lack of financial means under §16-2301(9)(A)(ii).
+91 “(b-2) Homelessness or lack of stable housing shall not be used by the Agency as the sole
+92 basis for substantiating neglect under § 16-2301(9)(A).”
+93 Sec. 3. Fiscal impact statement.
+94 The Council adopts the fiscal impact statement in the committee report as the fiscal
+95 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+96 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+97 Sec. 4. Effective date.
+98 This act shall take effect after approval by the Mayor (or in the event of veto by the
+99 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+100 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+101 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+102 Columbia Register.

@@ -1,0 +1,512 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+OFFICE OF COUNCILMEMBER BROOKE PINTO
+THE JOHN A. WILSON BUILDING
+1350 PENNSYLVANIA AVENUE, N.W., SUITE 106
+WASHINGTON, D.C. 20004
+November 17, 2025
+Nyasha Howard, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, N.W.
+Washington, DC 20004
+Dear Secretary Howard,
+Today, I am introducing the Apprenticeships and Credentials as Pathways to Prosperity Act of 2025. Please find
+enclosed a signed copy of the legislation.
+As we plan for the future and seek to diversify the District’s economy, we must focus on developing and
+supporting District residents for our future workforce. This bill will create more opportunities for residents to gain
+the training and education necessary to find lasting, stable, and well-paid careers. As we transform our workforce
+and continue to make the District even more attractive to high-growth industries––including technology,
+healthcare, education, hospitality, and construction––we will in turn transform our tax base, as residents earn
+higher incomes and more businesses are attracted to the District. Many residents face financial barriers to
+obtaining the job and career training they need to access these industries—not only finding a way to pay for the
+cost of tuition, but also meeting their basic living expenses while in school or receiving training. Apprenticeships
+in particular are a strong but currently underutilized tool in the District. Construction trades make the most use of
+this training pathway, but apprenticeships can be more widely implemented in many other industries.
+This bill creates local talent pathways, through apprenticeships and support to earn degrees and other credentials,
+to high-growth and high-demand sectors in the District for D.C. high school graduates and other residents. The
+program targets the following high-growth, high-demand industries: computer science and information
+technology, early childhood education, healthcare, hospitality, and construction management. Participants will
+receive zero-interest forgivable loans to cover tuition or costs of related instruction, supplemental support for
+participants with dependent children, payment for on-the-job training, job placement support, and supportive
+programming including job skills training, mentorship, and financial counseling.
+Should you have any questions about this legislation, please contact my Committee and Legislative Director, Linn
+Groft, at lgroft@dccouncil.gov.
+Thank you,
+Brooke Pinto
+Councilmember, Ward 2
+Chairwoman, Committee on the Judiciary and Public Safety
+Council of the District of Columbia
+
+__________________________
+Councilmember Brooke Pinto
+A BILL
+__________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+_________________
+1 To establish the Pathways to Prosperity Program to provide zero-interest forgivable loans for
+2 tuition and living expenses, to establish a non-lapsing fund to support the program, to
+3 establish eligibility criteria and conditions of participation, and to authorize the Mayor to
+4 issue rules to implement this act.
+5
+6 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+7 Act may be cited as the “Apprenticeships and Credentials as Pathways to Prosperity Act of
+8 2025”.
+9
+10 Sec. 2. Definitions.
+11 For the purposes of this act, the term:
+12 (1) “Academic year” shall have the same meaning as provided in 20 U.S.C. §
+13 1088(a)(2).
+14 (2) “AMI” means the area median income for a household in the Washington
+15 Metropolitan Statistical Area as set forth in the periodic calculation provided by the U.S.
+16 Department of Housing and Urban Development (“HUD”), adjusted for family size, without
+17 regard to any adjustments made by HUD for the purposes of the programs it administers.
+18 (3) “Applicant” means a person who has submitted a Program application during
+19 the current application cycle.
+20 (4) “Apprentice” has the same meaning as provided in D.C. Official Code § 32-
+21 1407.
+1
+
+22 (5) “Apprenticeship” means an apprenticeship program that is registered with the
+23 Apprenticeship Council.
+24 (6) “DC TAG” means the tuition assistance grant program established
+25 pursuant to the District of Columbia College Access Act of 1999, approved November 12,
+26 1999 (113 Stat. 1323; D.C. Official Code § 38-2701 et seq.) and administered by the Office
+27 of the State Superintendent of Education.
+28 (7) “Eligible non-tuition expenses” means non-tuition costs associated with
+29 attending an institution of higher education, including housing, meals, healthcare,
+30 transportation, childcare, other costs of attendance, and other uses as determined by the
+31 Mayor through rulemaking.
+32 (8) “Fund” means the Pathways to Prosperity Fund established by section 4 of
+33 this act.
+34 (9) “Graduate” means a participant who has completed the academic
+35 program or apprenticeship program and the requirement of living and working in the
+36 District as required under section 5(a)(5) of this act.
+37 (10) “Industry-recognized credential” means a nationally recognized, transferable
+38 credential within the industry in which an apprentice is employed that is conferred upon the
+39 apprentice upon or before the apprentice’s completion of the apprenticeship.
+40 (11) “Living loan” means a zero-interest forgivable loan to students to be used for
+41 eligible non-tuition expenses.
+42 (12) “Participant” means a student or apprentice in the Program.
+43 (13) “Participating employer” means an employer in a target industry who
+44 employs students or apprentices as an approved employer under this act.
+2
+
+45 (14) “Participating institution” means the University of the District of Columbia
+46 (UDC), University of the District of Columbia Community College (“UDC-CC”), Workforce
+47 Development of Lifelong Learning (“WDLL”), or any accredited nonprofit postsecondary
+48 institution or related-instruction provider approved by the Deputy Mayor for Education
+49 (“DME”).
+50 (15) “Program” means the Pathways to Prosperity Program established by this act
+51 and includes both the degree and apprenticeship pathways.
+52 (16) “Recognized equivalent of a secondary school diploma” means a general
+53 equivalency degree (“GED”) or other recognized equivalent as determined by the Mayor
+54 through rulemaking.
+55 (17) “Related instruction” means the required academic or technical instruction
+56 provided to an apprentice by a participating institution in compliance with the apprenticeship
+57 approved by the Apprenticeship Council.
+58 (18) “Related instruction loan” means a zero-interest forgivable loan supporting
+59 related-instruction costs.
+60 (19) “Satisfactory academic progress” means maintaining an academic
+61 standing consistent with the requirements for graduation, as determined by the participating
+62 institution.
+63 (20) “Student” means a person accepted to participate in the degree pathway of
+64 the Program.
+65 (21) “Target field of study” means an undergraduate program that is necessary for
+66 employment in a target industry.
+67 (22) “Target industry” means Computer Science, Information Technology,
+3
+
+68 Construction Management, Early Childhood Education, Hospitality, and Healthcare, and any
+69 other industries identified by the DME.
+70 (23) “Tuition loan” means a zero-interest forgivable loan to be used for the tuition
+71 and tuition-related expenses required to pursue a target field of study at a participating
+72 institution.
+73 (24) “Tuition-related expenses” means:
+74 (i) Required student fees;
+75 (ii) Textbooks; and
+76 (iii) Supplies and equipment required by or for courses.
+77 (25) “Working in the District” means employment in which the participant’s
+78 primary work location is in the District, or duties are substantially performed in the District, or
+79 the employer withholds DC income tax.
+80 Sec. 3. Establishment and Administration of Pathways to Prosperity.
+81 (a) There is established the Pathways to Prosperity program (“Program”), the purpose
+82 of which is to:
+83 (1) Develop resident talent in high-growth and high-demand industries;
+84 (2) Reduce financial barriers to higher education and training;
+85 (3) Expand apprenticeships and degree-based workforce pipelines; and
+86 (4) Strengthen employer hiring and retention of District residents.
+87 (b) To accomplish the purposes set out in subsection (a), the Program shall:
+88 (1) Establish, maintain, and administer the Pathways to Prosperity Fund;
+89 (2) Establish a degree program through which students pursue secondary degrees
+90 in target fields of study at participating institutions and receive jobs in target industries upon
+4
+
+91 graduation from the academic program;
+92 (3) Establish an apprenticeship program through which apprentices receive on-
+93 the-job training from employers in target industries and related instruction at UDC or other
+94 participating institutions;
+95 (4) Provide:
+96 (A) Supportive programming to participants;
+97 (B) Zero-interest forgivable loans for tuition and fees not covered by
+98 non-loan assistance; and
+99 (C) Zero-interest forgivable loans to support additional costs associated
+100 with higher education and living expenses; and
+101 (5) Establish and maintain a process for reporting the data required by section 11
+102 of this Act.
+103 (c)(l) Except as provided in paragraphs (2) and (3) of this subsection, the Deputy Mayor
+104 for Education (“DME”) shall administer the Program.
+105 (2) The DME shall establish an office to develop and manage the Program. This
+106 office shall be responsible for:
+107 (A) Providing Program support services to applicants, participants,
+108 participating employers, and participating institutions, including developing supporting materials
+109 and resources;
+110 (B) Monitoring compliance with Program requirements;
+111 (C) Coordinating between relevant entities involved in the Program,
+112 including the Apprenticeship Council, UDC, participating employers, and participating
+113 institutions;
+5
+
+114 (D) Providing opportunities for students engaged in the Career and
+115 Technical Education program at high schools in the District to connect with the Program; and
+116 (E) Collecting the data required by section 11 of this Act.
+117 (3) If the Mayor determines that it would result in more efficient administration,
+118 the Mayor may enter into a grant, contract, or cooperative agreement with another public entity
+119 or with a not-for-profit private entity, which may include participating institutions, to administer
+120 part or all of the Program; provided, that the entity selected has a minimum of 5 years of
+121 experience in the component of the Program that the entity is administering.
+122 (4) Notwithstanding paragraph (3) of this subsection, the Mayor shall provide or
+123 enter into a contract or cooperative agreement with a public or private employer to provide
+124 industry- or company-specific career guidance and opportunities, including mentorship,
+125 internships, fellowships, apprenticeships, or job placements, in addition to required supportive
+126 programming.
+127 (d) The Mayor shall enter into a memorandum of understanding or similar cooperative
+128 agreement governing the partnership with each participating institution. The memorandum shall
+129 provide for the administration of the Program at each participating institution, including the
+130 tuition loan, the living loan, and required supportive programming. The memorandum may
+131 provide for additional requirements at the Mayor’s discretion, including further supportive
+132 programming.
+133 Sec. 4. Establishment of the Pathways to Prosperity Fund.
+134 (a) There is established as a special fund the Pathways to Prosperity Fund (“Fund”),
+135 which shall be administered by the Mayor in accordance with this section.
+136 (b) The Fund shall consist of revenue from the following sources:
+6
+
+137 (1) Annual appropriations;
+138 (2) Federal, private, or philanthropic grants;
+139 (3) Loan repayments;
+140 (4) Gifts and donations.
+141 (c) Except as provided in subsection (d) of this section, the Fund shall be used solely for
+142 the purposes of this Act for:
+143 (1) Loans issued under the Program;
+144 (2) Supportive programming; and
+145 (3) Data systems and reporting.
+146 (d) The Mayor may use not more than 5% of the funds deposited into the Fund to pay the
+147 administrative expenses of the Program for the fiscal year.
+148 (e)(1) The money deposited in the Fund, and any interest earned, shall not revert to the
+149 unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal
+150 year, or at any other time.
+151 (2) Subject to authorization in an approved budget and financial plan, any funds
+152 appropriated in the Fund shall be continually available without regard to fiscal year limitation.
+153 Sec. 5. Pathways to Prosperity eligibility.
+154 (a) An individual shall be eligible for the Program if the individual:
+155 (1)(A) Has been a resident of the District of Columbia for at least 12 consecutive
+156 months prior to the application date, or
+157 (B) Graduated, or will graduate from, a District of Columbia secondary
+158 school or home school program during the current calendar year or within 3 years prior;
+159 (2) Has an annual household taxable income of no more than 80% of AMI;
+7
+
+160 (3) Has not already completed an associate or bachelor’s degree at an institution
+161 of higher education or wishes to change careers or pursue education opportunities that will
+162 provide a more sustainable income;
+163 (4) Commits to pursuing a field of study and career in a target industry;
+164 (5) Commits to working and living in the District for at least 2 years immediately
+165 following Program completion; and
+166 (6) Meets any other requirements determined by the Mayor to be necessary or
+167 appropriate, as set forth in rulemaking.
+168 (b) Notwithstanding the requirements of subsection (a)(1) and (a)(2), an individual in the
+169 District’s foster care system who was placed outside the District by the foster care system who
+170 meets all other eligibility requirements of this section shall be deemed eligible to participate in
+171 the Program so long as the individual resides in the District for the duration of the individual’s
+172 participation in the Program.
+173 (c) Notwithstanding the requirements of subsection (a)(1), a District resident released
+174 from the custody of the District of Columbia Department of Corrections, the District Department
+175 of Youth Rehabilitation Services, or the Federal Bureau of Prisons within the 12 months
+176 preceding the application date who meets all other eligibility requirements of this section shall be
+177 deemed eligible to participate in the Program so long as the individual resides in the District for
+178 the duration of the individual’s participation in the Program.
+179 (d) No individual shall be prohibited from participating in any aspect of the Program for
+180 which they are otherwise qualified due to the individual’s criminal history; provided that the
+181 individual shall receive counseling, pursuant to section 9(e) of this Act, as to any criminal history
+182 restrictions that may exist in the job or career path they are interested in pursuing.
+8
+
+183 (e) An individual who has experienced homelessness in the District during the 12 months
+184 prior to the individual’s application date may meet the requirements of subsection (a)(1) by self-
+185 certification that the individual resided in the District during the required period.
+186 Sec. 6. Conditions of participation.
+187 (a)(1) Individuals shall re-certify eligibility each academic year during which they
+188 participate in the Program.
+189 (2) To maintain Program eligibility an individual shall meet all requirements
+190 established in section 5 and:
+191 (A) Apply for federal financial aid, if eligible, and provide proof to the
+192 Mayor of the application for and the acceptance or denial of federal financial aid.
+193 (B) Maintain at least half-time status at a participating institution;
+194 (C) Maintain satisfactory academic progress at a participating institution
+195 or satisfactory progress in an apprenticeship;
+196 (D) Participate in supportive programming as required by UDC or another
+197 participating institution;
+198 (E) Continue to be a resident of the District throughout participation in the
+199 Program;
+200 (F) Maintain a commitment to living and working in the District as
+201 required under section 5(a)(5) of this act;
+202 (G) Meet any other requirements determined by the Mayor to be necessary
+203 or appropriate, as set forth in rulemaking.
+204 (c) An institution of higher education may waive the requirements in subsection (b)(2)
+205 based on undue hardship because a student has:
+9
+
+206 (1) Experienced the death of a relative;
+207 (2) A personal injury or illness; or
+208 (3) Another special circumstance as determined by the institution of higher
+209 education to warrant a waiver;
+210 (4) Provided, that the waiver shall be subject to approval by the DME.
+211 Sec. 7. Degree pathway.
+212 (a)(1) The Program shall provide a tuition loan to each student. The funds for the tuition
+213 loan shall be drawn from the Fund and disbursed by the DME. The tuition loan shall be
+214 forgivable upon completion of the conditions in section 10 of this Act.
+215 (2) Since the Program loans shall cover the full cost of tuition and living
+216 expenses, participants shall not apply for other student loans.
+217 (3) The tuition loan shall not exceed the lesser of:
+218 (A) The published full-time undergraduate tuition, books, and mandatory
+219 fees charged by the University of the District of Columbia and
+220 (B) The published tuition and mandatory fees of the participating
+221 institution, whichever amount is lower.
+222 (4) For students attending a participating institution other than UDC, the Program
+223 may cover tuition, books and mandatory fees above UDC’s published tuition only if:
+224 (A) Federal Pell Grants, DC TAG, institutional aid, and private
+225 scholarships have been applied first; and
+226 (B) The remaining amount to be covered does not exceed 20% above the
+227 equivalent full-time tuition at UDC, unless waived by DME based on program necessity.
+228
+10
+
+229 (b) The Program shall provide a living loan to each student. The funds for the living loan
+230 shall be drawn from the Fund and disbursed by the DME.
+231 (1)(A) The living loan shall be equal to the difference between the tuition loan
+232 and the participating institution’s published cost of attendance.
+233 (B) The DME shall establish annual maximum living-expense caps based
+234 on UDC’s standard student budget.
+235 (2) The living loan shall be increased by $5,000 per year for each dependent child
+236 in the participant’s household to assist students who are parents or guardians of dependent
+237 children. Eligibility for District public benefits shall not be affected by the receipt of this
+238 funding.
+239 (3) The living loan shall be forgivable upon completion of the conditions in
+240 section 10 of this Act.
+241 (c) Tuition loans and living loans shall be counted as the last dollar after all other
+242 scholarships and grants, including DC TAG, and before a recipient’s private or federal student
+243 loans.
+244 (d) UDC and UDC-CC are approved as participating institutions and shall:
+245 (1) Provide a list of existing majors, minors, or certificates qualifying as target
+246 fields of study to the DME;
+247 (2) Develop and maintain employer partnerships;
+248 (3) Administer tuition loans and living loans according to subsections (b) and (c)
+249 of this section;
+250 (4) Provide supportive programming to students in accordance with section 9 of
+251 this Act; and
+11
+
+252 (5) Facilitate job placement for students with employers upon graduation.
+253 (e) Participating employers shall:
+254 (1) Sign a written agreement with the DME;
+255 (2) Commit to hire graduates for at least 2 years, provided that the individual
+256 remains eligible for employment and remains in good standing; and
+257 (3) Provide DC-based employment.
+258 Sec. 8. Apprenticeship pathway.
+259 (a) The Program shall facilitate the creation of apprenticeships in target industries and
+260 provide apprentices with industry-recognized credentials upon completion of the apprenticeship.
+261 Apprenticeships shall meet federal and DC Apprenticeship Council standards.
+262 (b) Participating employers in the apprenticeship pathway shall:
+263 (1) Develop related instruction curriculum with UDC, WDLL, and other
+264 participating institutions;
+265 (2) Register apprenticeships with the Apprenticeship Council;
+266 (3) Provide on-the-job training to apprentices;
+267 (4) Pay apprentices at least District minimum wage for hours spent both in on-the-
+268 job training and in required related instruction settings;
+269 (5) Commit to hiring apprentices upon Program completion for at least two years,
+270 provided that the individual remains eligible for employment and remains in good standing;
+271 (6) Meet progressive wage schedules aligned to federal apprenticeship standards;
+272 and
+273 (7) Comply with data and reporting requirements of this act.
+274 (c) The Program shall provide a related instruction loan to each apprentice. The funds for
+12
+
+275 the related instruction loan shall be drawn from the Fund and disbursed by the DME. The related
+276 instruction loan shall be forgivable upon completion of the conditions in section 10 of this Act.
+277 (1) The related instruction loan shall be increased by $5,000 per year for each
+278 dependent child in the participant’s household to assist apprentices who are parents or guardians
+279 of dependent children. Eligibility for District public benefits shall not be affected by the receipt
+280 of this funding.
+281 (2) Related instruction loans shall be counted as the last dollar after all other
+282 scholarships and grants, including DC TAG, and before an apprentice’s private or federal student
+283 loans.
+284 (3) The related instruction loan shall not exceed the lesser of:
+285 (A) The published per-credit tuition rate at UDC for Workforce
+286 Development/UDC-CC coursework, multiplied by the number of credits required for the related
+287 instruction and
+288 (B) The published tuition charges of the participating related instruction
+289 provider, whichever is lower.
+290 (4) For technical apprenticeships requiring specialized instruction (e.g., aviation
+291 maintenance, allied health, IT/cybersecurity), DME may authorize payments up to 25% above
+292 UDC’s published rate, provided that:
+293 (A) No comparable instruction is available at UDC, UDC-CC or the
+294 participating institution; and
+295 (B) The employer or intermediary demonstrates inability to absorb the
+296 cost.
+297 (d) Participating institutions shall provide:
+13
+
+298 (1) Curriculum development for related instruction in partnership with target
+299 industry employers;
+300 (2) Related instruction to apprentices; and
+301 (3) Administrative services.
+302 (e) The employer shall pay wages for apprentices for on-the-job training. The Program
+303 may provide a subsidy to support wages for apprentices for time spent on related instruction, as
+304 determined by the DME.
+305 Sec. 9. Supportive programming.
+306 (a) The Program shall provide supportive programming for Program applicants and
+307 participants. The DME may enter into a memorandum of understanding with UDC and any other
+308 participating institution for administration of supportive programming.
+309 (b) Supportive programming for applicants shall include:
+310 (1) Career exploration and industry orientation, the purpose of which shall be to
+311 provide applicants with exposure to each target industry to help applicants determine their area
+312 of interest.
+313 (A) The experience shall include for each target industry:
+314 (i) An informational session about the industry, including potential
+315 career paths within it and what skills are necessary for each;
+316 (ii) A tour or shadow experience in an industry space; and
+317 (iii) An opportunity for applicants to ask questions of a current
+318 industry employee.
+319 (B) The experience shall take place no less than one month prior to the
+320 Program application deadline.
+14
+
+321 (2) Program, school, and financial aid application counseling. Program
+322 application counseling shall include counseling on:
+323 (1) Career path selection; and
+324 (2) The availability of financial supports for childcare and out-of-school time
+325 options.
+326 (c) Supportive programming for participants shall run for the duration of the participants’
+327 participation in the Program, including the period during which the participants are required to
+328 live and work in the District as required under section 5(a)(5) of this act, and shall include:
+329 (1) Program, school, and financial aid application counseling, to include where
+330 applicable:
+331 (i) Counseling regarding credit transfer from other educational institutions;
+332 (ii) Counseling regarding applications for loans or external funding;
+333 (iii) Counseling regarding the additional assistance for participants with
+334 dependent children provided in sections (7)(b)(2) and (8)(c)(1) of this Act and other childcare
+335 assistance and public benefit program eligibility; and
+336 (iv) Counseling regarding financial planning;
+337 (2) Course of study and career counseling, to include career path advising;
+338 (3) Academic coaching or mentoring;
+339 (3) Financial management and planning;
+340 (4) Childcare and public-benefits navigation;
+341 (5) Job coaching and placement services, to include job readiness and
+342 interpersonal skills training; and
+343 (6) For applicants and participants with a criminal history, counseling regarding
+15
+
+344 reentry services, where relevant, and any potential effects of the individual’s criminal record on
+345 career path selection.
+346 Sec. 10. Loan forgiveness.
+347 (a) For the purpose of this section, “program loans” shall mean the tuition loan, the living
+348 loan, and the related instruction loan.
+349 (b) Program loans shall accrue zero interest.
+350 (c) All program loans issued under this act shall comply with the funding limits
+351 established in Sections 7 and 8. The DME shall:
+352 (1) Verify that no tuition or related-instruction loan exceeds the UDC-based
+353 maximums;
+354 (2) Annually update UDC tuition benchmarks and adjust loan limits accordingly;
+355 and
+356 (3) Publish maximum allowable loan amounts each fiscal year.
+357 (d) Participants shall be eligible for forgiveness of program loans upon completion of the
+358 following conditions:
+359 (1) Successful completion of the academic program or apprenticeship;
+360 (2) Living and working in the District as required under section 5(a)(5) of this act;
+361 and
+362 (3) Fulfillment of the conditions of participation as provided in section 6 of this
+363 Act for the duration of participation in the Program.
+364 (e) Participants shall be eligible for graduated loan forgiveness.
+365 (1) 50% loan forgiveness shall be granted after one year of DC employment and
+366 residency.
+16
+
+367 (2) 100% loan forgiveness shall be granted after living and working in the District
+368 for the full duration required under section 5(a)(5) of this act.
+369 (3) Additional hardship-based pro-rated forgiveness may be approved by DME.
+370 (f) Participants who do not meet the requirements for loan forgiveness shall:
+371 (1) Repay the loan over a period not to exceed 10 years;
+372 (2) Receive a standardized, income-sensitive repayment plan;
+373 (3) Be eligible for rehabilitation to restore forgiveness eligibility.
+374 (g) The DME may waive any the requirements of subsection (c) of this section on an
+375 individual basis if a participant demonstrates a personal or familial hardship to the DME such
+376 that the DME determines a waiver of the requirement is necessary. If a participant demonstrates
+377 a hardship that would permit the student to take a leave of absence from the participant’s
+378 academic program under the rules of the participating institution, then the participant may return
+379 to the Program upon the participant’s return to the academic program as funding is available.
+380 (e) Additional exceptions to the conditions of this section must be approved by the DME.
+381 Sec. 11. Data sharing and reporting.
+382 (a) DME may enter into agreements allowing secure sharing of data between UDC,
+383 OSSE, DOES, Apprenticeship Council, employers, and institutions, consistent with FERPA and
+384 DC law.
+385 (b) The Mayor shall submit a report on the Program to the Council by December 1st of
+386 every year. The report shall include:
+387 (1) Application, acceptance, and enrollment data;
+388 (2) Demographics;
+389 (3) Employer participation and compliance;
+17
+
+390 (4) Apprenticeship wage progression;
+391 (5) Loan issuance and forgiveness data;
+392 (6) Longitudinal employment and wage outcomes (5-year tracking);
+393 (7) Program return on investment and recommendations for improvement;
+394 (8) Description of supportive programming provided during each stage of the
+395 program;
+396 (9) Financial data related to the Fund; and
+397 (10) Any other data the DME may deem relevant.
+398 Sec. 12. Rules.
+399 The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act,
+400 approved October 21, 1968 (82 Stat. 1204; DC Official Code § 2-501 et seq.), shall issue rules
+401 within 180 days to implement the provisions of this Act including:
+402 (a) Eligibility;
+403 (b) Program operations;
+404 (c) Employer compliance;
+405 (d) Forgiveness procedures;
+406 (e) Data-sharing systems;
+407 (f) Outreach and marketing requirements;
+408 (g) Quality assurance for nontraditional providers; and
+409 (h) Equity benchmarks.
+410 Sec. 13. Applicability.
+411 This Act shall apply upon the inclusion of its fiscal effect in an approved budget and
+412 financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in
+18
+
+413 a certification published by the Council in the District of Columbia Register.
+414 Sec. 14. Fiscal impact statement.
+415 The Council adopts the fiscal impact statement in the committee report as the fiscal
+416 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+417 approved October 16, 2006 (12 Stat. 2038; DC Official Code § 1-301.47a).
+418 Sec. 15. Effective date.
+419 This Act shall take effect following approval by the Mayor (or in the event of veto by the
+420 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+421 provided in section 602(c)(l) of the District of Columbia Home Rule Act, approved December
+422 24, 1973 (87 Stat. 813; DC Official Code § l-206.02(c)(l)), and publication in the District of
+423 Columbia Register.
+19

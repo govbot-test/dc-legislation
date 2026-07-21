@@ -1,0 +1,229 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3
+4 26-46
+5
+6
+7 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+8
+9 ___________
+10
+11
+12 To amend section 8f of the Homeless Services Reform Act of 2005 to require specific
+13 documentation from tenants establishing eligibility for Emergency Rental Assistance
+14 Funds, to clarify the definition of a qualifying emergency situation, and to require the
+15 Mayor to issue regulations implementing the amended provisions of that section; and to
+16 amend section 501 of the Rental Housing Act of 1985 to permit a court to enter a stay,
+17 rather than require a court to enter a stay, when a tenant submits documentation to the court
+18 demonstrating that the tenant has a pending Emergency Rental Assistance Program
+19 application, to require housing providers to reschedule evictions in certain circumstances
+20 involving pending and approved Emergency Rental Assistance Program applications, and
+21 to create an affirmative defense in eviction cases on the basis of housing providers’
+22 noncompliance with the Emergency Rental Assistance Program application process.
+23
+24 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+25 act may be cited as the “Emergency Rental Assistance Program Reform Amendment Act of 2025”.
+26 Sec. 2. Section 8f of the Homeless Services Reform Act of 2005, effective March 10, 2023
+27 (D.C. Law 24-287; D.C. Official Code § 4-753.08), is amended as follows:
+28 (a) Subsection (a) is amended as follows:
+29 (1) Paragraph (2)(A) is amended as follows:
+30 (A) The lead-in language is amended to read as follows:
+1
+
+ENGROSSED ORIGINAL
+31 “(2)(A) To qualify for Emergency Rental Assistance Funds, an applicant unit shall
+32 be required to document:”.
+33 (B) Sub-subparagraph (iv) is amended by striking the phrase “; and” and
+34 inserting a semicolon in its place.
+35 (C) Sub-subparagraph (v) is amended by striking the phrase “for payment.”
+36 and inserting the phrase “for payment; and” in its place.
+37 (D) A new sub-subparagraph (vi) is added to read as follows:
+38 “(vi) The nature of the emergency situation; provided, that if the
+39 nature of the emergency situation precludes documentation, an unsworn declaration made under
+40 penalty of perjury explaining both the emergency situation and the reason why the applicant unit
+41 does not possess documentation regarding the nature of the emergency situation may be considered
+42 sufficient documentation of proof for this element of an application.”.
+43 (2) Paragraph (3) is repealed.
+44 (b) Subsection (d)(3) is amended to read as follows:
+45 “(3) “Emergency situation” means a situation in which immediate action is
+46 necessary to avoid homelessness or eviction, to re-establish a rental home, or otherwise to prevent
+47 displacement from a rental home, which is the result of an unforeseen or unusual event, such as
+48 the loss of a job or high medical costs, that impacts the applicant unit’s ability to pay rent and that
+49 cannot be resolved without financial assistance.”.
+50 (c) A new subsection (e) is added to read as follows:
+2
+
+ENGROSSED ORIGINAL
+51 “(e) The Mayor shall issue regulations implementing the provisions of section 2 of the
+52 Emergency Rental Assistance Program Reform Amendment Act of 2025, as introduced on January
+53 13, 2025 (Bill 26-46).”.
+54 Sec. 3. Section 501 of the Rental Housing Act of 1985, effective July 17, 1985 (D.C. Law
+55 6-10; D.C. Official Code § 42-3505.01), is amended as follows:
+56 (a) Subsection (r) is amended to read as follows:
+57 “(r)(1) The court may stay any proceeding adjudicating a claim brought by a housing
+58 provider to recover possession of a rental unit for nonpayment of rent if a tenant submits
+59 documentation to the court demonstrating that he or she has a pending Emergency Rental
+60 Assistance Program (“ERAP”) application; provided, that the court may stay a proceeding under
+61 this subsection only once during the pendency of the case.
+62 “(2) Paragraph (1) of this subsection shall not be construed to limit a court’s
+63 discretion to extend or continue a stay.
+64 “(3) When an eviction based solely on a claim for nonpayment of rent has been
+65 authorized by the court and the tenant notifies the housing provider, no later than 48 hours prior to
+66 the scheduled date and time of the eviction, that the tenant has an approved ERAP application that
+67 would pay the full amount indicated in the Notice to Tenant of Payment Required to Avoid
+68 Eviction, the housing provider shall reschedule the eviction for a date no earlier than 3 weeks from
+69 the scheduled eviction date.
+3
+
+ENGROSSED ORIGINAL
+70 “(4) When an eviction based solely on a claim for nonpayment of rent has been
+71 authorized by the court and a tenant notifies the housing provider that the tenant has a pending
+72 ERAP application no later than 48 hours prior to the scheduled date and time of the eviction, the
+73 housing provider shall reschedule the eviction for a date no earlier than 3 weeks from the scheduled
+74 eviction date, provided that the tenant provides the housing provider with documentation
+75 establishing all of the following:
+76 “(A) The submission of the tenant’s ERAP application;
+77 “(B) That, if the tenant’s application was approved, ERAP would pay the
+78 full amount indicated in the Notice to Tenant of Payment Required to Avoid Eviction; and
+79 “(C) That, from the date the housing provider complained for possession in
+80 the matter that was the basis for the relevant judgment of possession to the date of the entry of a
+81 judgment for possession, the ERAP application was closed.
+82 “(5) A housing provider shall not be required to reschedule an eviction under
+83 paragraph (4) of this subsection more than once.”.
+84 (a) Subsection (r) is amended to read as follows:
+85 “(r)(1) The court may stay any proceeding adjudicating a claim brought by a housing
+86 provider to recover possession of a rental unit for nonpayment of rent if a tenant submits
+87 documentation to the court demonstrating that he or she has a pending Emergency Rental
+88 Assistance Program (“ERAP”) application; provided, that the court may stay a proceeding under
+89 this subsection only once during the pendency of the case.
+4
+
+ENGROSSED ORIGINAL
+90 “(2) Paragraph (1) of this subsection shall not be construed to limit a court’s
+91 discretion to extend or continue a stay.
+92 “(3) When an eviction based solely on a claim for nonpayment of rent has been
+93 authorized by the court and the tenant notifies the housing provider, no later than 48 hours prior to
+94 the scheduled date and time of the eviction, that the tenant has an approved ERAP application that
+95 would pay the full amount necessary to redeem the tenancy, the housing provider shall cancel the
+96 eviction. If the housing provider then reschedules the eviction, the housing provider shall
+97 reschedule the eviction for a date no sooner than 3 weeks from the earlier-scheduled eviction date.
+98 “(4) When an eviction based solely on a claim for nonpayment of rent has been
+99 authorized by the court and the tenant notifies the housing provider that the tenant has a pending
+100 ERAP application no later than 48 hours prior to the scheduled date and time of the eviction, the
+101 housing provider shall cancel the eviction. If the housing provider then reschedules the eviction,
+102 the housing provider shall reschedule the eviction for a date no sooner than 3 weeks from the
+103 earlier-scheduled eviction date.
+104 “(5) A housing provider shall only be required to cancel an eviction under paragraph
+105 (4) of this subsection if the tenant provides the housing provider with documentation establishing
+106 all of the following:
+107 “(A) The submission of the tenant’s ERAP application;
+108 “(B) That, if the tenant’s application was approved, ERAP would pay the
+109 full amount necessary to redeem the tenancy; and
+5
+
+ENGROSSED ORIGINAL
+110 “(C) That, from the date the housing provider complained for possession in
+111 the matter that was the basis for the relevant judgment of possession to the date of the entry of a
+112 judgment for possession, the ERAP application portal was closed.
+113 “(6) A housing provider shall not be required to cancel an eviction under paragraph
+114 (4) of this subsection more than once.
+115 “(7) A housing provider that cancels an eviction under paragraphs (3) or (4) of this
+116 section shall have leave to file an alias writ (“writ”), and no further leave of court shall be required
+117 for the next-requested issuance of a writ following the cancellation of the originally scheduled
+118 eviction. This subsection shall not apply if a judgment is permanently stayed by a tenant’s
+119 redemption of a tenancy.”.
+120 (b) New subsections (s) and (t) are added to read as follows:
+121 “(s) In any proceeding adjudicating a claim brought by a housing provider to recover
+122 possession of a rental unit for nonpayment of rent in which the tenant alleges, at or before an initial
+123 hearing, that a housing provider is withholding documents or information necessary for a tenant’s
+124 perfection of an ERAP application, the court may order the housing provider to:
+125 “(1) Comply with all pending requests for documents or information necessary to
+126 perfect the tenant’s ERAP application; and
+127 “(2) Provide the court with evidence of the housing provider’s compliance under
+128 paragraph (1) of this subsection either:
+129 “(A) Within 30 days after the court’s order; or
+6
+
+ENGROSSED ORIGINAL
+130 “(B) At the next-scheduled hearing, whichever is sooner.
+131 “(t)(1) In any proceeding adjudicating a claim brought by a housing provider to recover
+132 possession of a rental unit for nonpayment of rent in which the court finds that the housing provider
+133 failed to provide documents or information necessary to perfect a tenant’s ERAP application for
+134 more than 30 days after receiving a request for the documents or information, the court shall order
+135 that the amount of rent that would have been redeemed by a successful ERAP application be
+136 deemed waived and shall not be recoverable by the housing provider.
+137 “(2) The court shall not waive rent under paragraph (1) of this subsection if the
+138 housing provider shows that:
+139 “(A) Compliance with a request for documents or information necessary to
+140 perfect an ERAP application was delayed by a third party not under the control of the housing
+141 provider;
+142 “(B) Good cause otherwise exists for the housing provider’s non-
+143 compliance; or
+144 “(C) The housing provider has, since the date of the relevant request for
+145 documents or information, received payment from ERAP on behalf of the tenant.
+146 “(3) A waiver of rent under paragraph (1) of this subsection shall apply to any future
+147 proceeding in which the housing provider seeks:
+148 “(A) The recovery of possession of the rental unit the rent for which was
+149 the subject of the housing provider’s initial complaint for possession; or
+7
+
+ENGROSSED ORIGINAL
+150 “(B) A money judgment for the waived rent.
+151 “(4) Nothing in this subsection shall limit a tenant’s ability to assert any defense to
+152 an outstanding rent balance sought by a housing provider.”.
+153 (b) New subsections (s) and (t) are added to read as follows:
+154 “(s) In any matter adjudicating a claim brought by a housing provider to recover possession
+155 of a rental unit for nonpayment of rent in which the tenant alleges, at or before an initial hearing,
+156 that the housing provider is withholding payment information requested by an ERAP provider,
+157 including any W-9 form, basic business license, proof of Social Security Number, or rent ledger
+158 requested by an ERAP provider, necessary for the tenant’s perfection of an ERAP application, the
+159 court may order the housing provider to comply with any pending requests for the payment
+160 information from an ERAP provider.
+161 “(t)(1) In any matter adjudicating a claim brought by a housing provider to recover
+162 possession of a rental unit for nonpayment of rent in which the court finds at trial that the housing
+163 provider failed to provide the payment information described in subsection (s) of this section for
+164 more than 45 days after receiving a request for the payment information from an ERAP provider,
+165 the court shall order that the amount of rent that would have been redeemed by a successful ERAP
+166 application be deemed waived and shall not be recoverable by the housing provider.
+167 “(2) The court shall not waive rent under paragraph (1) of this subsection if the
+168 housing provider shows that:
+8
+
+ENGROSSED ORIGINAL
+169 “(A) Compliance with a request for payment information necessary to
+170 perfect an ERAP application was delayed by a third party not under the control of the housing
+171 provider;
+172 “(B) Good cause otherwise exists for the housing provider’s non-
+173 compliance; or
+174 “(C) The housing provider has, since the date of the relevant request for
+175 payment information, received payment from ERAP on behalf of the tenant.
+176 “(3) A waiver of rent under paragraph (1) of this subsection shall apply to any future
+177 proceeding in which the housing provider seeks:
+178 “(A) The recovery of possession of the rental unit the rent for which was
+179 the subject of the housing provider’s initial complaint for possession; or
+180 “(B) A money judgment for the waived rent.
+181 “(4) Nothing in this subsection shall limit a tenant’s ability to assert any defense to
+182 an outstanding rent balance sought by a housing provider.”.
+183 Sec. 4. Fiscal impact statement.
+184 The Council adopts the fiscal impact statement in the committee report as the fiscal impact
+185 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+186 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+187 Sec. 5. Effective date.
+9
+
+ENGROSSED ORIGINAL
+188 This act shall take effect following approval by the Mayor (or in the event of veto by the
+189 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+190 provided in sections 602(c)(1) of the District of Columbia Home Rule Act, approved December
+191 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+192 Columbia Register.
+10

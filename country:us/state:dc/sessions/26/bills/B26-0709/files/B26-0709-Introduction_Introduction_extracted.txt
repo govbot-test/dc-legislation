@@ -1,0 +1,734 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+June 24, 2026
+Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. M009, M011, M012, and M012A to Contract No.
+DCRL-2024-D-0073 with All Pro All Services Approval and Payment Authorization Emergency
+Act of 2026,” and the accompanying emergency declaration resolution, not-to-exceed $3,914,025.
+The legislation will approve Modification Nos. M009, M0l 1, M012, and M012A to Contract No.
+DCRL-2024-D-0073 with All Pro All Services for school transportation services. In addition, the
+legislation will approve payment for the goods and services received and to be received under the
+modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modifications. In order to facilitate a response to any questions you may have, please have
+your staff contact Ebony Terrell, Agency Chief Contracting Officer, Child and Family Services
+Agency, at (202) 724-7415.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+
+~
+1
+2
+3
+4 at the request of the Mayor
+5
+6
+7
+8
+9 A BILL
+10
+11
+12
+13
+14 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+15
+16
+17
+18
+19 To declare the existence of an emergency with respect to the need to approve Modification Nos.
+20 M009, M0l 1, M012, andM012A to Contract No. DCRL-2024-D-0073 with All Pro All Services
+21 to provide school transportation services during the base year, and to authorize payment for the
+22 services received under these modifications.
+23
+24 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, that this
+25 act may be cited as the "Modification Nos. M009, M0l 1, M012, and M012A to Contract No.
+26 DCRL-2024-D-0073 with All Pro All Services Approval and Payment Authorization Emergency
+27 Act of 2026".
+28 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+29 December 24, 1973 (87 Stat. 803; D.C. Official Code § 1-204.51), and notwithstanding the
+30 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+31 2011 (D.C. Law 18-371; D.C. Official Code § 2-352.02), the Council approves Modification
+32 Nos. M009, M0l 1, M012, and M012A to Contract No. DCRL-2024-D-0073 with All Pro All
+33 Services to provide school transportation services in the total not-to-exceed amount of
+34 $3,914,025 for services received under these modifications.
+
+35 Sec. 3. The Council adopts the fiscal impact statement provided by the Chief Financial
+36 Officer as the fiscal impact statement required by section 4a of the General Legislative
+37 Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-
+38 301.47a).
+39 Sec. 4. This act shall take effect following approval by the Mayor (or in the event of
+40 veto by the Mayor, action by the Council to override that veto), and shall remain in effect for no
+41 longer than 90 days, as provided for emergency acts of the Council of the District of Columbia
+42 in section 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87
+43 Stat. 788; D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Standard, tipping, retroactive without changes, and multiyear)
+(A) Contract Number: DCRL-2024-C-0073
+Proposed Contractor: All Pro All Services (APAS)
+Proposed Contractor’s Principals: Ernest Highsmith Jr.
+President/CEO
+Howard Person
+Vice President/CFO
+Contract Amount (Option Period 1): Not-to-exceed $3,914,025 (Option Period 1)
+Unit and Method of Compensation: The contractor will be compensated based on the fixed unit
+rates per trip as set forth in Section B.4, Price Schedule.
+Term of Contract: August 7, 2025 through August 6, 2026
+Type of Contract: Fixed Unit Price
+Source Selection Method: Invitation for Bid (IFB)
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: $2,965,620 NTE
+CA25-1072-Definitized Contract
+Option Period 1 Amount: $3,914,025 NTE
+CA26-0166-Exercise of Option Year 1
+CA26-TBD- Modification of Contract
+1
+
+Option Period 2 Amount: $1,619,000 NTE
+Explanation of difference from base period (if applicable): Original Bid Price
+Option Period 3 Amount: $1,619,000 NTE
+Explanation of difference from base period (if applicable): Original Bid Price
+Option Period 4 Amount: $1,619,000 NTE
+Explanation of difference from base period (if applicable): Original Bid Price
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The District of Columbia, Child and Family Services Agency is seeking the proposed contractor,
+APAS, to provide all the necessary labor, personnel, equipment, materials, facility(s) and any other
+items necessary for School Transportation Services for clients of CFSA.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+School Transportation Services FY24-25 (IFB) Number DCRL-2024-B-0073, was issued in the
+open market via the Office of Contracting and Procurement’s (OCP’s) e-sourcing system on June
+28, 2024. The closing date and time for proposals was set for July 5, 2024 at 2:00 PM E.D.T. Two
+previous pre-bid conferences were held and thereby it was determined that a limited number of
+questions would be responded to given the necessity to get this project bid prior to the start of the
+school year of August 12, 2024.
+On July 2, 2024 the Agency Chief Contracting Officer (ACCO) extended the closing date to July
+10, 2024 at 2:00 PM E.D.T by way of Amendment A001, which was posted to the e-sourcing
+system. Amendment A002 dated July 5, 2024 was issued by the ACCO to give guidance on
+question submittal and response deadlines and provided potential bidders a copy of the pre-bid
+conference meeting via the e-sourcing system. Amendment A003 dated July 8, 2024 was issued to
+respond to questions.
+The solicitation closed on July 12, 2024 with five (5) bids received. The procedures set forth in 27
+DCMR §1540 and 1541 were followed to determine bidder’s responsiveness to the solicitation and
+were responsible for the work to be performed. Upon evaluation of all bids, it was determined that
+three of the five bids were non-responsive to the solicitation and were notified that their bids were
+rejected. The remaining bids were determined to be responsive, however, their responsibility was in
+question as CFSA had never conducted business with the firms.
+Site visits were arranged with the two remaining bidders and information pertinent to the
+solicitation was requested for review. Both bidders submitted the data in a timely manner and the
+sites were conducted consecutively on July 19, 2024. The lowest bidder was determined non-
+responsible due to the following:
+2
+
+1) The company’s fleet was inadequate and/or in disrepair.
+2) Vendor did not possess the experience required to handle the requirements of the contract.
+3) There was not a viable communication system for constant contact with CFSA employees who
+are tasked with ensuring security and well-being of youth in their care.
+4) No visible security measures observed for the company’s vehicular fleet.
+The remaining bidder’s site visit determined they were capable of performing the contract as
+written. However, the unit prices were considered higher than that researched in the marketplace
+and the ACCO issued a D&F to cancel and negotiate with the only responsive and responsible
+bidder, APAS on July 24, 2024. APAS submitted a revised price schedule and it was accepted and a
+letter contract was issued on August 7, 2024. The contract was definitized on November 7, 2024.
+This contract action is to obtain approval from the Council for Modification No. M009 (funding
+increase of $629,640 that was approved on 01/27/2026, Modification M011 (funding increase of
+$370,200 that was approved 03/03/2026) and Modification No. M012 (funding increase $1,295,185
+that was approved 05/06/2026) for an anticipated increase of the contract to over $1 million due to
+increased ridership and unanticipated late charges.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+None.
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+DC Agency Contract No. Contract Title
+Operations-Production Support
+Health (DOH) CW10 0196
+Operations-Production Support
+State Superintendent of Education Alternative/Private Transportation
+CW110210
+(OSSE) Services for eligible DOT students
+Cable Television, Film, Music
+CW100196 Production Contract Support
+and Entertainment (OFTE)
+For-Hire Vehicles (DFHV) CW115997 Motor Vehicle Operators
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+1. APAS is a private for-profit organization located in Washington, DC with its fleet
+maintained in District Heights, Maryland. The company was incorporated in 2011. The
+information submitted during the responsibility determination shows the availability of staff,
+3
+
+facilities and necessary licenses to provide the services required and therefore have been
+deemed qualified, responsive and responsible.
+2. APAS has been a transportation provider since 2022 for both children and adults .
+3. APAS has the experience required and the ability to deliver daily transportation needs of
+CFSA foster clients as required by various agencies within the District government. APAS
+currently provides transportation services to other agencies within the District government,
+including the Office of the State Superintendent of Education (OSSE) and the Department
+of For-Hire Vehicles (DFHV).
+4. APAS has configured a team of drivers and aides to facilitate the transportation needs of
+CFSA’s clients to and from school throughout the performance of this contract.
+5. APAS has a satisfactory record of performance based upon the reference inquiries from their
+responsibility determination conducted by our office from OSSE and DFHV. Also, APAS
+has performed satisfactory in their base year of this contract.
+(H) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+APAS is a Certified Business Enterprise (CBE) certified by the Department of Small and Local
+Business Development (DSLBD) and performs 100% of the contract work with its own workforce.
+(I) Performance standards and the expected outcome of the proposed contract:
+The performance standards for the contract are set forth in the contract. The Contractor is expected
+to provide all supervision, personnel, licenses, insurance, equipment, fuel, and operating supplies
+required to perform the transportation services for approximately 40 - 60 CFSA clients daily,
+however the number could increase to as high as 75. The transportation services may be a hybrid
+model of one-to-one and pool transportation services. To ensure youth are transported to school on
+time, the transportation provider shall mainly utilize a one-to-one method for transportation.
+However, for multiple youth being transported from and to the same location (example: siblings in
+same household), a pool method may be utilized. The Contractor shall comply with all required
+Federal, State, District or Municipal regulations that are required to perform transportation services
+during the term of the contract. The Contractor shall possess, for those vehicles operating outside of
+Washington DC; Baltimore City, and Baltimore, Charles, and Montgomery and Prince George’s
+Counties in Maryland and Arlington and Fairfax Counties in Virginia, an authority to operate as a
+carrier of passengers by motor vehicles in Intra-State Commerce by the Public Services
+Commission (PSC) of Maryland. The Contractor shall provide at contract initiation and maintain
+throughout the term of this Contract a PSC Certificate, which attests to its authority to engage in the
+business of transportation of children, ages three (3) through twenty-one (21).
+4
+
+The Contractor is expected to comply with all federal and District laws, regulations and standards
+governing child welfare, including those established by the Agency and under the Adoptions and
+Safe Families Act. The Contractor is also expected to comply with all Health Insurance Portability
+and Accountability Act of l996 (HIPAA) requirements.
+(J) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+A Modification numbered M009 in the amount of $629,640 and a Modification numbered M011 in
+the amount of $370,200.
+(K) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Agency Chief Fiscal Officer certified on May 6, 2026, that the agency has in its approved
+budget for fiscal year 2026, sufficient funds to meet the obligations of the proposed contract.
+(L) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The District of Columbia, Office of the Attorney General (OAG) has certified that the proposed
+contract is legally sufficient. The contractor has no pending legal claims against the District.
+(M) A certification that Citywide Clean Hands database indicates that the proposed contractor is
+current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands dated May 6, 2026, indicates that APAS is current with its District
+taxes.
+(N) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+The contractor, APAS, has certified that it is current with its federal taxes in accordance with the
+signed Bidder/Offeror Certification dated March 27, 2026.
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+5
+
+(P) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended; D.C. Official Code § 2-218.01 et seq.:
+APAS is a CBE certified by the DSLBD. Their certification number is LSDZRE1480102028 and it
+does not expire until October 7, 2028.
+(Q) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None
+(R) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+APAS is not currently debarred from contracting with the District or Federal Government based on
+searches on the OCP EPLS database, The Office of the Inspector General (U.S. Department of
+Health and Human Services) and the System for Award Management (SAM) Search database,
+dated May 8, 2026.
+(S) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+The following Determination and Finding, dated December 12, 2023, apply to the contract’s
+formation:
+1. D&F for Price Reasonableness
+2. D&F for Contractor Responsibility
+(T) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+The executed contracts will be posted on the Office of Contracting and Procurement’s (OCP)
+website at: www.ocp.dc.gov
+(U) Where the original solicitation, and any amendments or modifications, will be made available
+online:
+OCP website, www.ocp.dc.gov
+E Sourcing, DOC725845
+6
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: May 6, 2026 Notice Number: L0016561585
+ALL PRO ALL SERVICES FEIN: **-***2061
+5044 HANNA PL SE Case ID: 18974035
+WCASHINGTON DC 20019-5818
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Child and Family Services Agency
+Office of Finance
+MEMORANDUM
+TO: Tanya T. Trice
+Director
+Child and Family Services Agency
+FROM: Justin Kopca
+Agency Fiscal Officer
+Child and Family Services Agency
+DATE:
+SUBJECT: Certification of Funds Availability
+Total Contract Value: $3,914,025.00
+The Office of the Chief Financial Officer hereby certifies that the sum of $3,914,025.00 is included
+in the District’s Plan for Fiscal Year 2026 to fund the costs associated with CFSA’s contract with
+All Pro All Services (APAS), for School Transportation Services. This certification supports
+APAS’s contract during the period from August 7, 2025 through August 6, 2026. The fund
+allocation is as follows:
+Vendor: All Pro All Services Contract #: DCRL-2024-D-0073
+Council approved –CA26-0166
+Fiscal Year 2025/2026 Funding: 08/07/2025 through 08/06/2026
+Sub- Cost
+Agency Project Award Account Fund Program Amount
+Task Center
+RL0 N/A 000000 00.00 7141009 1010001 700270 70409 $1,619,000
+FY 2025 Contract Total $1,619,000
+1
+
+Modification M009 increased funding
+Funding approval via CABWB-351 dated 01/26/2026
+Sub- Cost
+Agency Project Award Account Fund Program Amount
+Task Center
+RL0 N/A 000000 00.00 7141009 1010001 700270 70409 $629,640.00
+FY 2026 Contract Total $629,640.00
+Modification M011 – Increased Funding
+Approved 03/03/2026
+Sub- Cost
+Agency Project Award Account Fund Program Amount
+Task Center
+RL0 N/A 000000 00.00 7141009 1010001 700270 70409 $370,200.00
+FY 2026 Contract Total $370,200.00
+Proposed Modification M012
+Sub-
+Agency Project Award Account Fund Program Cost Center Amount
+Task
+RL0 N/A 000000 00.00 7141009 1010001 700270 70409 1,295,185.00
+FY 2026 Contract Total $1,295,185.00
+Upon approval of the District’s Local Budget and Financial Plan by the Council and the Mayor
+and completion of the thirty-day Congressional layover, funds will be sufficient to pay for fees
+and costs associated with the contract. There is no fiscal impact associated with the contract.
+Should you have any questions, please contact me at 202-727-7676.
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: June 2, 2026
+SUBJECT: Approval of Contract Award over One Million Dollars
+Contractor: All Pro All Services
+Contract Number: DCRL-2024-D-0073
+Contract Amount: NTE $3,914,025
+This is to Certify that this Office has reviewed the above-referenced Contract. To the extent OAG
+is being requested to review the contents of the contract action the contents are found to be legally
+sufficient. The process used to enter in this contract violated the requirements of DC Code § 2–
+352.02. (Criteria for Council review of multiyear contracts and contracts in excess of $1 million)
+because option year one of the contract was increased by more than $1,000,0000 during a twelve-
+month period, before receiving Council approval.
+If you have any questions in this regard, please do not hesitate to call me at (202) 724-4018.
+______________________________
+Robert Schildkraut
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT DCRL-2024-D-0073 1 2
+2.Amendment/Modification 3.Effective Date 4.Requisition/Purchase 5.Solicitation Caption
+Number Request No.
+School Transportation
+M009 See Box 16C CAPWB-351
+Services
+6. Issued by: Code RL0 7.Administered by (If other than line 6)
+Government of the District of Columbia Government of the District of Columbia
+Child and Family Services Agency Child and Family Services Agency
+Contracts and Procurement Administration Office of Well Being
+200 I Street, S.E., Suite 2031 200 I Street, SE
+Washington, DC 20003 Washington, DC 20003
+8.Name and Address of Contractor (No. street, city, county, 9A. Amendment of Solicitation No.
+state and zip code)
+9B. Dated (See Item 11)
+All Pro All Services
+10A. Modification of Contract/Order No.
+5044 Hanna Place SE
+Washington, DC 20032 X DCRL-2024-D-0073
+Ernest Highsmith Jr., President/CEO
+10B. Dated (See Item 13)
+Code Facility
+August 7, 2024
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above-numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:(a)
+By completing Items 8 and 15, and returning __________ copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT
+TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN
+REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made in accordance with the
+solicitation and is received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If Required)
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACT/ORDERS ,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 3601.3,Unilateral Contract Modifications
+X The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B.The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation
+data etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C.This supplemental agreement is entered into pursuant to authority of:
+D.Other (Specify type of modification and authority)
+E.IMPORTANT: Contractor is not is required to sign this document.
+14.Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+A. Pursuant to Article 15, Changes clause of the Standard Contract Provisions dated July 2010 and 27
+DCMR section 3601.2, the following changes are being made:
+1. DELETE Section B.4.2 OPTION YEAR ONE in its entirety and REPLACE with Section B.4.2R
+OPTION YEAR ONE–Price Schedule for the period August 7, 2025 through August 6, 2026.
+(continued on page two)
+Except as provided herein, all other terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and
+effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Ebony C. Terrell
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+All Pro All Services
+(Signature of Contracting Officer)
+(Signature of person authorized to sign)
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT DCRL-2024-D-0073 2 2
+2.Amendment/Modification 3.Effective Date 4.Requisition/Purchase 5.Solicitation Caption
+Number Request No.
+School Transportation
+M009 See Box 16C CAPWB-351
+Services
+2. The purpose of this modification is as follows:
+CLIN 1001 - Increase Quantity Maximum trips by 800 trips
+CLIN 1002 – Increase Quantity Maximum trips by 1112 trips
+CLIN 1003 – Increase Quantity Maximum trips by 49 trips
+CLIN 1004 – Increase No Show NTE by $59,760.00
+B.4.2R OPTION YEAR ONE
+Minimum Maximum
+Contract Line Quantity Quantity
+Total Price Total Price
+Item No. Item Description Price Per Unit Minimum Maximum
+(Unit price x (Unit price x
+(CLIN) (trips) (trips)
+min qty) Max qty)
+Not-to-Exceed
+1001 Trips under 14 miles $250.00 per trip 20 $5,000.00 3200
+$800,000.00
+Not-To-Exceed
+1002 Trips over 14 miles $315.00 per trip 30 $9,450.00 3712
+$1,169,280.00
+Trips over 30 miles Not-To-Exceed
+1003 $400.00 per trip 40 $16,000.00 549
+$ 219,600.00
+Not-To-Exceed
+1004 Client No Show Price per No Show $240.00
+$ 59,760.00
+OPTION YEAR NO. 1TOTAL NOT-TO-EXCEED $2,248,640.00
+B. All other terms and conditions of this contract remain unchanged and in full force and effect.
+
+I
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION/ MODIFICATION OF CONTRACT , DCRL-2024-D-0073 I 1 I 2
+2. AmendmenUModification 3. Effective Date 4.Requisition/Purchase 5. Solicitation Caption
+Number Request No.
+Funding Certification School Transportation
+M011 See Box 16C
+dated 3/3/26 Services
+I
+6. Issued by: Code RLO 7. Administered by (If other than line 6)
+Government of the District of Columbia Government of the District of Columbia
+Child and Family Services Agency Child and Family Services Agency
+Contracts and Procurement Administration Office of Well Being
+200 I Street, S.E., Suite 2031 200 I Street, SE
+Washington, DC 20003 Washington, DC 20003
+8. Name and Address of Contractor (No. street, city, county, 9A. Amendment of Solicitation No.
+state and zip code)
+9B. Dated (See Item 11)
+All Pro All Services
+1O A. Modification of ContracUOrder No.
+5044 Hanna Place SE
+Washington, DC 20032 X DCRL-2024-0-0073
+Ernest Highsmith Jr., President/CEO
+1O B. Dated (See Item 13)
+Code Facility August 7, 2024
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+D
+0The above-numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:(a)
+By completing Items 8 and 15, and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the ofter
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT
+TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN
+REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an ofter already submitted, such may be made in accordance with the
+solicitation and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACT/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 3601.3, Unilateral Contract Modifications
+X The changes set forth in Item 14 are made in the contracUorder no. in item 1O A.
+B. The above numbered contracUorder is modified to reflect the administrative changes (such as changes in paying office, appropriation
+data etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C. This supplemental agreement is entered into pursuant to authority of:
+D. Other (Specify type of modification and authority)
+E. IMPORTANT: D !ZI
+Contractor is not is required to sign this document.
+14. Description of AmendmenUModification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+A. Pursuant to Article 15, Changes clause of the Standard Contract Provisions dated July 2010 and 27
+DCMR section 3601.2, the following changes are being made:
+1. DELETE Section 8.4.2R OPTION YEAR ONE in its entirety and REPLACE with Section
+8.4.2RR OPTION YEAR ONE-Price Schedule for the period August 7, 2025 through August 6,
+2026.
+(c ontinued on paqe two)
+Except as provided herein, all other terms and conditions of the document is referenced in Item 9A or 1O A remain unchanged and in full force and
+effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Ebony C. Terrell
+15B. Name of Contractor 15C. Date Signed 16C. ate Si ed
+f o/
+I: - b 11u lf 3/3 /c)p
+(Signature of person authorized to sign) 166. D.01ricto1c , ;r;, 1L�1 1 A1s;f 'C ontracting Officer)
+I
+()
+
+1.Contract Number I PaQe of PaQes
+AMENDMENT OF SOLICITATION/ MODIFICATION OF CONTRACT 1 DCRL-2024-D-0073 I 2 I 2
+2.AmendmenUModification 3. Effective Date 4. Requisition/Purchase 5.Solicitation Caption
+Number RFequunedsti nNgo. Certification
+M011 See Box 16C School Transportation Services
+dated 3/3/26
+2. The purpose of this modification is as follows:
+CLIN 1001 -Increase Quantity Maximum trips by 349 trips
+CLIN 1002 -Increase Quantity Maximum trips by 450 trips
+CLIN 1003 -Increase Quantity Maximum trips by 200 trips
+CLIN 1004 -Increase No Show NTE by $61,200.00
+Minimum Maximum
+Contract Line Quantity Quantity
+Total Price Total Price
+Item No. Item Description Price Per Unit Minimum Maximum
+(Unit price x (Unit price x
+(CLIN) (trips) (trips)
+min qty) Max qty)
+Not-to-Exceed
+1001 Trips under 14 miles $250.00 per trip 20 $5,000.00 3200
+$887,250.00
+Not-To-Exceed
+1002 Trips over 14 miles $315.00 per trip 30 $9,450.00 3712
+$1,311,030.00
+Trips over 30 miles Not-To-Exceed
+1003 $400.00 per trip 40 $16,000.00 549
+$ 299,600.00
+Not-To-Exceed
+1004 Client No Show Price per No Show $240.00
+$ 120,960.00
+OPTION YEAR NO. 1 TOTAL NOT-TO-EXCEED $2,618,840.00
+The contract increased from $2,248,640 by $370,200 to a contract total amount of NTE $2,618,840.
+B. All other terms and conditions of this contract remain unchanged and in full force and effect.
+
+Docusign EnvelopeID: 2CABIAZE-D9AD-8156-814B-30488FEAADBD
+7. Conrad Number PaofgPagees
+AMENDMENTOF SOLICITATION / MODIFICATION OF CONTRACT DcRL-2024-p-0073 [4 [ 14
+‘2. Amendment/ModificationNumber ‘3.EffectiveDate ‘4. Requisition/Purchase 5. SolicitationCaption
+Motz See 16C FpunediangsCeerieatonapproved] ‘SScchhoooollTTransportation
+Saeedoy ‘Code [RID 7 Aaministredby(tothetan Tne6)
+Governmentof the District of Columbia Government of the District of Columbia
+Child and Family Services Agency Child and Family Services Agency
+Contracts and ProcurementAdministration Office of Well Being
+200 | Street, S.E., Suite 2031 200 | Street, SE
+Washington, DC 20003 Washington, DC 20003
+, Nameand AddressofContractor(No. street, city, county, 9A.AmendmentofSokcation No_
+state andzipcode) ‘9B. Dated (SeeItem11)
+All Pro All Services TOR.MedicationofContraclOrderNo.
+5044 Hanna Place SE
+Washington, DC 20032 X| DCRL-2024-D-0073
+Ernest Highsmith Jr., President/CEO
+705, Dated (SeeTem 73)
+C ove Fecitiy ‘ugust7,2024
+Ti THISITEMONLYAPPLIES TOAMENDMENTSOFSOLICITATIONS
+Liteabove-numbered solictatioins amendedas etforthinitem 14. ThehouranddatespecifiedforreceiptofOfesisextended.C] isnotextended.Offersmust
+acknowledge recepofisamendment protothehouranddaepected inteslainoras amended,byone ofthefolowingmethods)Bycompetingtems8
+Band". andreturang ‘opie f teamendment: ()Byacknowledgingrecipof hsamendmentoneachcopyoftheofrsubmitedor(6)BYseparate
+[eterorfoxwhic incadesarerecetothesotctaon andamendmentnumber. FAILUREOFYOURACKNOWLEDGMENTTOBERECEIVEDATTHEPLAGE
+DESIGNATED FORTHEREGEIPTOFOFFERSPRIORTOTHEHOURANDDATESPECIFIED MAYRESULTINREJECTIONOFYOUROFFER. by wreofis
+fmendmentyoudesfo changeanfearedysubmited, such mayBemage inaccordancewitthesoaanisecsvedpor hepeningNourandSate
+sported
+12. Accountingand AppropriationData(WRequired)
+13. THISITEMAPPLIES ONLYTOMODIFICATIONSOFCONTRACTIORDERS,
+ITMODIFIESTHECONTRACTIORDERNO.ASDESCRIBEDINITEM14
+‘A Thischangeorderisissuedpursuantto(SpecifyAuthority: 27DEMR, Chapter3601.3, UniiateralContractModifications
+‘The changessetforthin Item14aremadeinthecontract/orderno. initem0A.
+x BBThe abovenumberedcontract/orderismodifietodreflecttheadministrativechanges(suchaschanges inpayingoffice,appropriationdata
+‘oc.setforthin tem 14, pursuaotnhte authorityof 27 DCMR,Chapter36,Section 3601.2
+‘C.Thissupplemental agreementisenteredintopursuatnotauthorityof
+D.Other(Specitytypeofmodificationandauthority)
+E. IMPORTANT: Contracitsor not_LJ isBd requiredtosignthisdocument
+74. Description ofAmendmentModificaon (Organized by UCFSection headings, including solctation/contradisubjectmatterwherefeasible)
+Pursuantto Article 15, Changes clause ofthe Standard Contract Provisions dated July 2010 and 27
+DCMR Section 3601.2, the following changes are being made:
+1. This modifcation is to incorporate additional funding in the amount of $4;295,895.00of the
+option year one contract (8/7/2025 through 8/6/2026). $1,295,185.00
+2. All other clauses of Contract No. DCRL-2024-D-0073 remain unchanged. ek
+Exceptas providedherein,allothertermsandconditionsofthedocumentisreferencedintem9Aor10Aremainunchangedandinfullforceand
+ffect.
+1A. NameandTileofSigner (Type orprint) TGA, NaofCmontraecting Officer
+Ernest Highsmith Jr. CeO/President EbonyC.Terrell
+5B. Namea T5C.DateSigned |148. Digit of Columpy T6C.DateSigned
+Au Pro altsecdites** — nay 5, 2026 Ebony C Cerrel May 6, 2026
+(Signeofparsonautora son) (aofmContatcirgOfer
+boxsicn ARKZ3ZW9-4ZKWZVWQ
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT DCRL-2024-D-0073 1 2
+2.Amendment/Modification 3.Effective Date 4.Requisition/Purchase 5.Solicitation Caption
+Number Request No.
+Funding Certification School Transportation
+M012A See Box 16C
+dated 5/5/2026 Services
+6. Issued by: Code RL0 7.Administered by (If other than line 6)
+Government of the District of Columbia Government of the District of Columbia
+Child and Family Services Agency Child and Family Services Agency
+Contracts and Procurement Administration Office of Well Being
+200 I Street, S.E., Suite 2031 200 I Street, SE
+Washington, DC 20003 Washington, DC 20003
+8.Name and Address of Contractor (No. street, city, county, 9A. Amendment of Solicitation No.
+state and zip code)
+9B. Dated (See Item 11)
+All Pro All Services
+10A. Modification of Contract/Order No.
+5044 Hanna Place SE
+Washington, DC 20032 X DCRL-2024-D-0073
+Ernest Highsmith Jr., President/CEO
+10B. Dated (See Item 13)
+Code Facility
+August 7, 2024
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above-numberedsolicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:(a)
+By completing Items 8 and 15, and returning __________ copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT
+TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN
+REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made in accordance with the
+solicitation and is received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If Required)
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACT/ORDERS ,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 3601.3,UnilateralContract Modifications
+X The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B.The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation
+data etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C.This supplemental agreement is entered into pursuant to authority of:
+D.Other (Specify type of modification and authority)
+E.IMPORTANT: Contractor is not is required to sign this document.
+14.Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+A. Pursuant to Article 15, Changes clause of the Standard Contract Provisions dated July 2010 and 27
+DCMR section 3601.2, the following changes are being made:
+1. DELETE Section B.4.2R OPTION YEAR ONE in its entirety and REPLACE with Section
+B.4.2RRR OPTION YEAR ONE–Price Schedule for the period August 7, 2025 through August 6,
+2026. T his modification inserts the price schedule for M012, signed 5/6/2026.
+(continued on page two)
+Except as provided herein, all other terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and
+effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Ebony C. Terrell
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+All Pro All Services
+(Signature of Contracting Officer)
+(Signature of person authorized to sign)
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT DCRL-2024-D-0073 2 2
+2.Amendment/Modification 3.Effective Date 4.Requisition/Purchase 5.Solicitation Caption
+Number Request No.
+Funding Certification
+M012 See Box 16C School Transportation Services
+dated 5/5/20266
+2. The purpose of this modification is as follows:
+CLIN 1001 - Increase Quantity Maximum trips by 2200trips
+CLIN 1002– Increase Quantity Maximum trips by 1986trips
+CLIN 1003– Increased Quantity Maximum trips by 290trips
+Minimum
+Contract
+Price Quantity Total Quantity Maximum Total Price
+Line
+Item Description Per Minimum Price Maximum
+Item No.
+Unit (trips) (Unit price (trips)
+(CLIN) (Unit price x Max qty)
+x min qty)
+$250.00 Not-to-Exceed
+Trips under 14
+1001 per 20 $5,000.00 5749
+miles trip $1,395,000.00
+$315.00 Not-To-Exceed
+1002 Trips over 14 miles per 30 $9,450.00 6675
+trip $2,102,625.00
+$400.00 Not-To-Exceed
+1003 Trips over 30 miles per 40 $16,000.00 888
+trip $355,200.00
+Not-To-Exceed
+1004 Client No Show Price per No Show $240.00
+$61,200.00
+OPTION YEAR NO. 1 TOTAL NOT-TO-EXCEED $3,914,025.00
+B. All other terms and conditions of this contract remain unchanged and in full force and effect.

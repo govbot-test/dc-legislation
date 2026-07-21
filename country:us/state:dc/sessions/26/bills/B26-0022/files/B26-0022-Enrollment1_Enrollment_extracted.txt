@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENROLLED ORIGINAL
+AN ACT
+___________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+___________
+To amend the Insurance Trade and Economic Development Amendment Act of 2000 to prohibit
+insurers from taking certain actions based solely on an individual’s status as a living
+donor.
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+act may be cited as the “Living Donor Protection Amendment Act of 2025”.
+Sec. 2. The Insurance Trade and Economic Development Amendment Act of 2000,
+effective April 3, 2001 (D.C. Law 13-265; D.C. Official Code § 31-2231.01 et seq.), is amended
+as follows:
+(a) Section 101 (D.C. Official Code § 31-2231.01) is amended as follows:
+(1) New paragraphs (7A) and (7B) are added to read as follows:
+“(7A) “Living donor” means an individual who has donated all, or part, of an
+organ or tissue and is not deceased.
+“(7B) “Organ” means a human eye, kidney, liver, heart, lung, pancreas,
+esophagus, stomach, small or large intestine, a portion of the gastrointestinal tract, or another
+part of the human body designated by the Commissioner by rule.”.
+(2) A new paragraph (8A) is added to read as follows:
+“(8A) “Tissue” means a portion of the human body other than an organ, including
+skin, bone, bone marrow, a heart valve, a spermatozoon, an ova, an artery, a vein, a tendon, a
+ligament, blood, blood derivatives, a pituitary gland, fluid, or another portion of the human body
+designated by the Commissioner by rule.”.
+(b) Section 111 (D.C. Official Code § 31-2231.11) is amended by adding a new
+subsection (c-1) to read as follows:
+“(c-1)(1) Notwithstanding any other provision in this act, no insurer shall deny coverage,
+cancel coverage, or refuse to issue, determine the price or premium for, or otherwise vary any
+term or condition of a life insurance policy, disability insurance policy, or long-term care
+insurance policy for an individual based solely on, and without any actual, unique, and material
+actuarial risks related to, the status of the individual as a living donor.
+1
+
+ENROLLED ORIGINAL
+“(2) Paragraph (1) of this subsection shall apply to life insurance policies,
+disability insurance policies, and long-term care insurance policies delivered or issued for
+delivery after January 1, 2026.”.
+Sec. 3. Fiscal impact statement.
+The Council adopts the fiscal impact statement in the committee report as the fiscal
+impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+Sec. 4. Effective date.
+This act shall take effect following approval by the Mayor (or in the event of veto by the
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+24, 1973 (87 Stat. 813; D.C. Code § 1-206(c)(1)).
+___________________________________
+Chairman
+Council of the District of Columbia
+_________________________________
+Mayor
+District of Columbia
+2

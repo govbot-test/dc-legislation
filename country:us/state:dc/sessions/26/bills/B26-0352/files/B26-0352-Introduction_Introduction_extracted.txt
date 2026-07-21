@@ -1,0 +1,822 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 __________________________________
+2 Chairman Phil Mendelson
+3
+4
+5 A BILL
+6
+7 _________
+8
+9 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+10
+11 _____________
+12
+13
+14 To authorize, on an emergency basis, bond issuances, to establish special funds, to authorize the
+15 Mayor to enter into lease agreements, a development and financing agreement, and other
+16 related agreements, and to establish conditions on the expenditure of funds to facilitate
+17 redevelopment and management of the approximately 180 acres of waterfront property
+18 located at the former RFK Memorial Stadium site.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the “Robert F. Kennedy Campus Redevelopment Emergency Act of 2025”.
+22 Sec. 2. Definitions.
+23 For the purposes of this act, the term:
+24 (1) “Authorized delegate” means the Deputy Mayor for Planning and Economic
+25 Development, the Chief Financial Officer, the Treasurer, or any officer or employee of the
+26 executive office of the Mayor to whom the Mayor has delegated any of the Mayor’s functions
+1
+
+27 under this act pursuant to section 422(6) of the Home Rule Act (D.C. Official Code § 1-
+28 204.22(6)).
+29 (2) “Bonds” means District revenue bonds, notes, or other obligations (including
+30 refunding bonds, notes, and other obligations) in one or more series, authorized to be issued
+31 pursuant to section 490 of the Home Rule Act (D.C. Official Code § 1-204.90) and this act.
+32 (3) “Chief Financial Officer” means the Chief Financial Officer established by
+33 section 424(a)(1) of the Home Rule Act (D.C. Official Code § 1-204.24a(a)).
+34 (4) “Closing documents” means all documents and agreements, other than
+35 Financing Documents, that may be necessary and appropriate to issue, sell, and deliver the
+36 bonds, and includes agreements, certificates, letters, opinions, forms, receipts, and other similar
+37 instruments.
+38 (5) “Commanders Event” means any Commanders Home Game, any NFL
+39 Sponsored Event, and any other event at the Stadium that is not a District Event and that is
+40 attended by 5,000 or more visitors, including any unticketed such event.
+41 (6) “Declaration of Covenants” means the Declaration of Covenants Regarding
+42 the Transfer of Jurisdiction of the Robert F. Kennedy Memorial Stadium Campus (Reservation
+43 343F), dated as of January 14, 2025, and recorded in the land records of the District of Columbia
+44 on February 4, 2025, as Instrument No. 2025012660.
+45 (7) “Debt service” means principal, premium, if any, and interest on the bonds.
+2
+
+46 (8) “Developer” means Pro-Football LLC, or affiliates or designees of Pro-
+47 Football LLC approved by the Mayor.
+48 (9) “Development and Financing Agreement” means the agreement governing the
+49 terms and conditions of the District’s funding for the RFK Campus and the Developer’s
+50 obligation to construct the Stadium Project.
+51 (10) “Development Site” means the portions of the RFK Campus that are the
+52 subject of the Term Sheet.
+53 (11) “District Event” means a complimentary Stadium use for a District-
+54 sponsored, non-commercial public or community event, such as a graduation, high school
+55 football game, or similar use, even if such event charges fees for attendance.
+56 (12) “Financing documents” means the documents that relate to the financing or
+57 refinancing of transactions to be effectuated through the issuance, sale, and delivery of the
+58 bonds, including any offering document, and any required supplements to any such documents.
+59 (13) “Home Rule Act” means the District of Columbia Home Rule Act, approved
+60 December 24, 1973 (87 Stat. 774; D.C. Official Code § 1-201.01 et seq.).
+61 (14) “Net parking revenues” means all parking revenues collected at the Parking
+62 Facilities less 15% for operating costs.
+3
+
+63 (15) “Parking Facilities” means the parking facilities constructed pursuant to the
+64 Development and Financing Agreement.
+65 (16) “Personal seat license” means a license, location right, or other similar
+66 instrument for seats in the Stadium issued to a person for the right to purchase season tickets to
+67 games and tickets to other events at the Stadium.
+68 (17) “RFK Campus” means the parcels of land that are the subject of the Transfer
+69 of Jurisdiction Plat recorded in the Surveyor’s Office of the District of Columbia on February 5,
+70 2025, on page 13 of subdivision book 223, together with any public streets within or adjacent to
+71 such parcels that may be closed from time to time.
+72 (18) “RFK Campus Infrastructure Fund” means the RFK Campus Infrastructure
+73 Fund established by section 2052 of the RFK Campus Infrastructure Fund Establishment Act of
+74 2025, passed on 2nd reading on July 28, 2025 (Enrolled version of Bill 26-265).
+75 (19) “RFK Campus Infrastructure Project” means:
+76 (A) The financing, refinancing, or reimbursing of costs incurred in the
+77 development, design, and construction of the horizontal improvements and eligible capital costs
+78 as defined in the Term Sheet;
+79 (B) The funding of any required deposit to a debt service reserve fund or
+80 capitalized interest for the bonds issued pursuant to section 15(a); and
+4
+
+81 (C) The payment of certain costs of issuance of the bonds issued pursuant
+82 to section 15(a), such as fees and premiums for any bond issuance or credit enhancement.
+83 (20) “RFK Campus Parking Facilities Fund” means the RFK Campus Parking
+84 Facilities Fund established by section 12.
+85 (21) “RFK Campus Parking Facilities Project” means:
+86 (A) The financing, refinancing, or reimbursing of costs incurred in the
+87 development, design, and construction of the Parking Facilities that serve the Stadium on the
+88 RFK Campus and horizontal improvements and eligible capital costs as defined in the Term
+89 Sheet;
+90 (B) The funding of any required deposit to a debt service reserve fund or
+91 capitalized interest for the bonds issued pursuant to section 15(b); and
+92 (C) The payment of certain costs of issuance of the bonds issued pursuant
+93 to section 15(b), such as fees and premiums for any bond issuance or credit enhancement.
+94 (22) “Sportsplex” means a public sports and recreation facility to be developed on
+95 the Development Site.
+96 (23) “Stadium” means the stadium to be constructed by the Developer and owned
+97 by the District on a portion of the Development Site, as described in the Term Sheet.
+5
+
+98 (24) “Stadium Event Day” means the Stadium Event Day Interval on each day on
+99 which any Commanders Event is scheduled to be held at all or any part of the Stadium (including
+100 periods after midnight for any such Commanders Event that extends past that hour).
+101 (25) “Stadium Event Day Interval” means the period beginning 10 hours before
+102 the scheduled start time for commencement of any Commanders Event and terminating 4 hours
+103 following the conclusion of such Commanders Event.
+104 (26) “Stadium Maintenance Fund” means the special fund established by section
+105 13.
+106 (27) “Stadium Project” means the development on a portion of the Development
+107 Site to include the construction of the Stadium, the Parking Facilities, administrative offices, and
+108 other ancillary improvements by the Developer, as described in the Term Sheet.
+109 (28) “Stadium seat right” means the right to sell, license, or otherwise transfer
+110 certain rights to use and occupy seats in the Stadium, including a personal seat license.
+111 (29) “Term Sheet” means the Term Sheet for the Redevelopment of a Portion of
+112 the RFK Stadium Campus between the District and Pro-Football LLC, dated April 28, 2025, that
+113 memorializes the terms of the disposition and development of the Development Site.
+114 (30) “Transportation Improvement Fund” means the special fund established by
+115 section 9u of the Department of Transportation Establishment Act of 2002, as approved by the
+116 Committee of the Whole on August 1, 2025 (Committee print of Bill 26-288).
+6
+
+117 Sec. 3. Findings.
+118 (a) The RFK Campus consists of approximately 180 acres of waterfront property located
+119 in the District within Reservation 343F, as shown on the transfer of jurisdiction plat recorded in
+120 the Surveyor’s Office on February 5, 2025, on page 13 of subdivision book 223. The District has
+121 been unable to redevelop the site over the last decade due to federal restrictions on development
+122 at the site, and the site has remained vacant, blighted, and fallow. Over the course of the last
+123 decade, the District has worked to gain broader control of the site and to remove the federal
+124 development restrictions so that a new, multi-use future for the area could be realized.
+125 (b) With bipartisan support from Congress, the President signed the D.C. Robert F.
+126 Kennedy Memorial Stadium Campus Revitalization Act, approved on January 6, 2025 (Pub. L.
+127 No. 118-274; 138 Stat. 3234), into law. Pursuant to this law, the National Park Service
+128 transferred administrative jurisdiction over the RFK Campus to the District. The Council
+129 approved the transfer of jurisdiction pursuant to the Transfer of Jurisdiction Over the Robert F.
+130 Kennedy Memorial Stadium Campus Emergency Approval Resolution of 2025, effective
+131 February 4, 2025 (Res. 26-16; 72 DCR 1436).
+132 (c) The District now has a once-in-a-generation opportunity to continue to revitalize the
+133 Anacostia Waterfront, catalyze growth, and develop a vibrant, mixed-use development featuring
+134 community sports, professional sports, public recreation, public park space, and cultural
+7
+
+135 amenities. The development will provide the District with significant economic, cultural, social,
+136 and financial benefits.
+137 (d) Since gaining administrative jurisdiction over the RFK Campus, the District
+138 government has undertaken a comprehensive public engagement process, considering the
+139 specific interests of communities near the RFK Campus; economic development opportunities;
+140 the capacity of the campus to generate jobs for District residents and opportunities for District
+141 businesses; park, open space, and recreational options; river access options; potential community
+142 amenities; opportunities to create new housing units; and environmental and historical factors,
+143 among other considerations, to determine the best uses for the site.
+144 (e) Considering the public input received, the existing infrastructure of the campus, and
+145 the possibility of a catalytic investment in the District, it was determined that the construction
+146 and operation of a new first-class, state-of-the-art, sports stadium with supporting facilities,
+147 including parking, and infrastructure, for use by the professional football franchise owned by
+148 Pro-Football LLC, and an adjacent Sportsplex would be of considerable public benefit to the
+149 District as the first stage of the redevelopment and revitalization of the entire campus.
+150 (f) To ensure delivery of the Stadium, supporting facilities, and Sportsplex by 2030, a
+151 limited zoning exemption is necessary for portions of the RFK Campus.
+152 (g) Planning for other residential and commercial development at the RFK Campus, in
+153 addition to other uses permitted by the transfer of jurisdiction and the Declaration of Covenants,
+8
+
+154 will continue as the Stadium and Sportsplex projects move forward, and will inform the
+155 Comprehensive Plan rewrite (DC 2050).
+156 (h) The District intends for the comprehensive redevelopment of the RFK Campus to
+157 create a vibrant, multi-use community and destination that will create new jobs, business
+158 opportunities, housing, community amenities, and neighborhood-serving retail and achieve the 5
+159 Anacostia Waterfront Framework Plan themes: (1) a clean and active river, (2) gaining access to,
+160 along, and across the river, (3) a great riverfront park system, (4) a riverfront of distinct places
+161 and cultural destinations, and (5) building and sustaining strong waterfront neighborhoods.
+162 (i) The District and Developer have entered into the Term Sheet for the development of
+163 the Stadium and supporting facilities and the redevelopment of a portion of the RFK Campus
+164 that sets forth the terms and conditions upon which the parties are willing to undertake the
+165 projects.
+166 (j) The Commanders have made additional commitments regarding the redevelopment of
+167 the RFK Campus in a July 29, 2025, letter to the Council.
+168 (k) The construction, development, and revitalization of the RFK Campus and the public
+169 ownership of the Stadium, for use for athletic and entertainment events, is a municipal use that is
+170 in the interest of, and for the benefit of, District residents because such a publicly-owned
+171 Stadium will contribute to the social and economic well-being of District residents and
+172 significantly enhance economic development and employment opportunities in the District.
+9
+
+173 (l) To further that interest, it is appropriate for the District to take certain actions with
+174 respect to the redevelopment of the RFK Campus, as further set forth in this act.
+175 Sec. 4. Development and Financing Agreement.
+176 (a) Neither the Procurement Practices Reform Act of 2010, effective April 8, 2011 (D.C.
+177 Law 18-371; D.C. Official Code § 2-351.01 et seq.), nor the Public-Private Partnership Act of
+178 2014, effective March 11, 2015 (D.C. Law 20-228; D.C. Official Code § 2-271.01 et seq.), shall
+179 apply to the Development and Financing Agreement nor any agreement the Mayor may enter
+180 into under the Term Sheet; provided, that the Development and Financing Agreement contains
+181 those terms required as a precondition for the expenditure of District funds pursuant to section
+182 6(a).
+183 (b) Nothing in this section shall be construed to purport to waive section 451 of the Home
+184 Rule Act (D.C. Official Code § 1-204.51).
+185 (c) Notwithstanding the dollar value of government assistance to be received pursuant to
+186 the Development and Financing Agreement, the following statutory provisions shall apply to the
+187 construction obligations of the Developer under the Development and Financing Agreement:
+188 (1) Sections 2, 4(a), (b), (c), (e)(1), (1C), (2), (3), (4), and (5), and 4a of the First
+189 Source Employment Agreement Act of 1984 (“First Source Act”), effective June 29, 1984 (D.C.
+190 Law 5-93; D.C. Official Code §§ 2-219.01, 2-219.03(a), (b), (c), (e)(1), (1C), (2), (3), (4), and
+10
+
+191 (5), and 2-219.03a), with residents of Wards 7 and 8 receiving a hiring preference for at least
+192 20% of the new jobs created in connection with the Stadium Project;
+193 (2) Section 5 of the Amendments to An Act To Provide for Voluntary
+194 Apprenticeship in the District of Columbia Act of 1978, effective March 6, 1979 (D.C. Law 2-
+195 156; D.C. Official Code § 32-1431); and
+196 (3) The Small and Certified Business Enterprise Development and Assistance Act
+197 of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.01 et seq.),
+198 except that the Developer shall require at least 20% equity and 20% development participation of
+199 Certified Business Enterprises and 40%, with a goal of 50%, of the adjusted development
+200 budget, as reflected in the Development and Finance Agreement, shall be subcontracted to small
+201 business enterprises, or if there are insufficient qualified small business enterprises to completely
+202 fulfill the 40% requirement, or the 50% goal, then the subcontracting requirement or goal may be
+203 satisfied by subcontracting up to 50% of the dollar volume of the contract to any qualified
+204 certified business enterprises, with a preference for at least 10% of the certified business
+205 enterprises located in, by order of priority, Wards 7, 8, 5, and 6; provided that all reasonable
+206 efforts shall be made to ensure that qualified small business enterprises are significant
+207 participants in the overall subcontracting work.
+208
+11
+
+209 Sec. 5. Lease of the Development Site; easements over the RFK Campus; sale of Stadium
+210 Seat Rights.
+211 (a) Section 1(a)(1) of An Act Authorizing the sale of certain real estate in the District of
+212 Columbia no longer required for public purposes, approved August 5, 1939 (53 Stat. 1211; D.C.
+213 Official Code § 10-801(a)(1)), is amended by striking phrase “owned in fee simple by the
+214 District” and inserting the phrase “owned in fee simple by the District or, in the case of real
+215 property disposed of by lease, under the jurisdiction of the District” in its place.
+216 (b) Section 1(c) of An Act To grant additional powers to the Commissioners of the
+217 District of Columbia, and for other purposes, approved December 20, 1944 (58 Stat. 819; D.C.
+218 Official Code § 1-301.01(c)), is amended as follows:
+219 (1) The existing text is designated as paragraph (1).
+220 (2) A new paragraph (2) is added to read as follows:
+221 “(2) The Mayor may not exercise his or her authority under this subsection with
+222 respect to the parcels of land that are the subject of the Transfer of Jurisdiction Plat recorded in
+223 the Surveyor’s Office of the District of Columbia on February 5, 2025, on page 13 of subdivision
+224 book 223, together with any public streets within or adjacent to such parcels that may be closed
+225 from time to time; except, that the Mayor may lease such parcels, on the condition that the
+226 preconditions for the issuance of bonds set forth in section 6 have been met.
+12
+
+227 (c) Notwithstanding An Act Authorizing the sale of certain real estate in the District of
+228 Columbia no longer required for public purposes, approved August 5, 1939 (53 Stat. 1211; D.C.
+229 Official Code § 10-801 et seq.), the Mayor may:
+230 (1) Dispose of the Development Site by lease pursuant to the terms of the Term
+231 Sheet; provided, that the preconditions for the issuance of bonds set forth in section 6 have been
+232 met;
+233 (2) Sell Stadium Seat Rights to the Developer pursuant to the terms of the Term
+234 Sheet; and
+235 (3) Grant easements over the RFK Campus to such persons as the Mayor
+236 determines appropriate in furtherance of the redevelopment of the RFK Campus; provided, that
+237 the preconditions for the expenditure of funds set forth in section 6 have been met.
+238 Sec. 6. Conditions for Expenditure of District Funds.
+239 No bonds may be issued pursuant to this act or the proceeds of those bonds expended,
+240 unless the following conditions have been met:
+241 (a) The Development and Financing Agreement entered into pursuant to section 4 shall
+242 include terms imposing the following requirements:
+243 (1) Subject to capital reserves described in any capital improvements plan with
+244 respect to the Parking Facilities, the District shall have the right to all net parking revenues
+13
+
+245 arising from or related to the use, occupancy, or operation of the Parking Facilities other than
+246 during Stadium Event Days;
+247 (2) The Developer and the District shall enter into one or more parking operations
+248 agreement regarding operations of the Parking Facilities, including a capital improvements plan.
+249 (3) The Washington Commanders shall locate a sales office, with senior
+250 leadership, in the District by a date set forth in the Development and Financing Agreement;
+251 (4) The Washington Commanders shall construct the Stadium using methods and
+252 materials consistent with the goal of obtaining Version 5 LEED Platinum certification, and shall
+253 maintain the Stadium to achieve Platinum for Operations and Maintenance version 5 (LEED:
+254 O+M v5) as defined by the U.S. Green Building Council;
+255 (5) The Developer shall enter into a CBE Agreement with the District that reflects
+256 the requirements set forth at section 4(c)(3); and
+257 (6)(A) If the Developer fails to complete construction of the required amount of
+258 square footage of a stage of development by the outside completion date, all as set forth in the
+259 development milestone chart set forth in subparagraph (B) of this paragraph, then the year in
+260 which the rent payable under the Commercial Development Lease, as defined in the Term Sheet,
+261 is reset to the Fair Market Rent Amount, as defined in the Term Sheet, shall be accelerated by
+262 one year for each missed outside completion date, unless the missed outside completion date is
+263 due to an unforeseen delay in the zoning, environmental review, historic preservation, or federal
+14
+
+264 review process (to be defined in the Development and Financing Agreement); provided further,
+265 that the acceleration, under this paragraph, from the rent payable under the Commercial
+266 Development Lease to the Fair Market Rent Amount rent shall not exceed 5 years.
+267 (B) The development milestone chart referred to in subparagraph (A) of this
+268 subsection is as follows:
+Stage of Development Required Square Footage Outside Completion Date
+One 415,000 December 31, 2030
+Two 567,000 December 31, 2032
+Three 342,000 December 31, 2033
+Four 342,000 December 31, 2034
+Five 735,000 December 31, 2035
+Six 885,000 December 31, 2036
+Seven 735,000 December 31, 2037
+Eight 735,000 December 31, 2038
+Nine 960,000 December 31, 2039
+Ten 735,000 December 31, 2040
+269
+270 (b) The Developer, or an affiliate thereof, shall enter into a Community Benefits
+271 Agreement with the Mayor, or any District instrumentality or authority designated by the Mayor,
+272 and the Council, within 90 days after the effective date of this act, which shall reflect the terms
+273 contained in, and be administered consistent with the provisions of, section 10.
+274 Sec. 7. Cap on District obligations.
+15
+
+275 (a) The District’s contribution to the Stadium budget, and the expenditure of funds for the
+276 construction of the Stadium shall not exceed $500 million;
+277 (b) The contribution from the District and its instrumentalities to the purchase of the
+278 parking garages and the expenditure of funds for the purchase of the parking garages shall not
+279 exceed $175 million from the District and $181 million from EventsDC;
+280 (c) The District’s contribution to Stadium maintenance, repairs, and capital expenses
+281 shall be limited to the amount of funds available in the Stadium Maintenance Fund; and
+282 (d) The District shall not provide additional tax abatements, tax exemptions, or subsidies
+283 for development of the remainder of the Development Site; provided, that the foregoing
+284 prohibition shall not be deemed to restrict the utilization of tax-exempt bond financing, federal
+285 low-income housing tax credits, or housing vouchers for the Development Site.”.
+286 Sec. 8. Waivers.
+287 (a)(1) Section 104a of the Urban Forest Preservation Act of 2002, effective July 1, 2016
+288 (D.C. Law 21-133; D.C. Official Code § 8-651.04a), shall not apply to the Development Site;
+289 provided, that a fee calculated at the rate applicable for special trees pursuant to section
+290 104(b)(3) shall be paid for each Heritage Tree removed from the Development Site;
+291 (2) The waiver in paragraph (1) of this subsection shall not apply to the Anacostia
+292 Commons riparian area; and
+16
+
+293 (b) The utility and site preparation work related to the Stadium Project and construction
+294 of the Stadium Project shall not be subject to section 9b of the Historic Landmark and Historic
+295 District Protection Act of 1978, effective March 3, 1979 (D.C. Law 2-144; D.C. Official Code §
+296 6-1108.02).
+297 Sec. 9. Assignment and transfer of Stadium, Parking Facilities, and Stadium Seat Rights.
+298 (a) The Mayor may assign or transfer to an instrumentality or authority of the District:
+299 (1) Ownership of the Stadium and the Parking Facilities; and
+300 (2) The authority to sell Stadium Seat Rights to the Developer pursuant to the
+301 terms of the Term Sheet.
+302 (b) Any revenue received by the District from the sale of the Stadium Seat Rights,
+303 including revenue received by an instrumentality or authority of the District pursuant to an
+304 assignment or transfer of the authority to sell Stadium Seat Rights pursuant to subsection (a) of
+305 this section, shall be dedicated to and expended only for the purposes for which such revenue
+306 may be expended under the Term Sheet.
+307 Sec. 10. Community Benefits and Community Reinvestment Fund.
+308 (a) The Community Benefits Agreement (“CBA”) required pursuant to section 6(b) shall
+309 require the Developer, or an affiliate thereof to invest no less than $50 million over 30 years in
+17
+
+310 community benefits for the District. The CBA shall include initiatives that promote the
+311 following:
+312 (1) Local economic development and job creation;
+313 (2) Community access and activation of the RFK Campus;
+314 (3) Youth education, workforce development, and housing stability;
+315 (4) Health equity and environmental sustainability; and
+316 (5) Public safety and cultural heritage at and surrounding the RFK Campus in
+317 coordination with District agencies and community stakeholders.
+318 (b)(1) A Community Benefits Oversight Committee (“CBOC”) shall monitor the
+319 implementation of the CBA.
+320 (2) The CBOC shall consist of 9 members, who shall be appointed within one
+321 month of the execution of the CBA, as follows:
+322 (A) The Councilmember that represents the Ward in which the Stadium is
+323 located shall appoint 3 members;
+324 (B) Each Councilmember that represents a Ward contiguous to the Ward
+325 in which the Stadium is located shall appoint one member;
+326 (C) The Chairman of the Council shall appoint one member; and
+327 (D) The Mayor shall appoint two members.
+18
+
+328 (3) The CBOC shall be subject to the terms established in the CBA.
+329 (c)(1) There is established as a special fund, the Community Reinvestment Fund
+330 ("Fund"), which shall be administered by the Mayor, or any District instrumentality or authority
+331 designated by the Mayor or designated by law, in accordance with paragraphs (2) and (3) of this
+332 subsection.
+333 (2) The Fund shall consist of any monetary donations from the Developer to the
+334 District, as reflected in the CBA.
+335 (3) Any money in the Fund shall be used to finance the community benefits
+336 outlined in the CBA and this section.
+337 (4)(A) The money deposited into the Fund but not expended in a given fiscal year
+338 shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at
+339 the end of a fiscal year, or at any other time.
+340 (B) Subject to authorization in an approved budget and financial plan, any
+341 funds appropriated in the Fund shall be continually available without regard to fiscal year
+342 limitations.
+343 Sec. 11. RFK Transportation Improvement Fund.
+19
+
+344 The Department of Transportation Establishment Act of 2002, effective May 21, 2002
+345 (D.C. Law 14-137; D.C. Official Code § 50-921.01 et seq.), is amended by adding a new section
+346 9u to read as follows:
+347 “Sec. 9u. RFK Transportation Improvement Fund.
+348 “(a) There is established as a special fund the Transportation Improvement Fund, which
+349 shall be administered by the Mayor pursuant to subsection (c) of this section.
+350 “(b) Excess RFK Campus Infrastructure Funds up to $20 million annually, pursuant to
+351 section 2052(d)(3) of the RFK Campus Infrastructure Fund Establishment Act of 2025, as passed
+352 on 2nd reading on July 28, 2025 (Enrolled version of Bill 26-265), shall be deposited into the
+353 Transportation Improvement Fund.
+354 “(c)(1) Money in the Transportation Improvement Fund shall be used to support public-
+355 transit related improvements for the RFK campus, including Metrorail and Metrobus, related
+356 infrastructure and roadways, , and investments to improve transportation access to the RFK
+357 Campus.
+358 “(2) Expenditures for the purposes in paragraph (1) of this subsection may include
+359 both operating and capital costs.
+360 “(d)(1) The money deposited into the Transportation Improvement Fund shall not revert
+361 to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a
+362 fiscal year, or at any other time.
+20
+
+363 “(2) Subject to authorization in an approved budget and financial plan, any funds
+364 appropriated in the Transportation Improvement Fund shall be continually available without
+365 regard to fiscal year limitation.”.
+366 Sec. 12. RFK Campus Parking Facilities Fund.
+367 (a) There is established as a special fund the RFK Campus Parking Facilities Fund, which
+368 shall be administered by the Mayor pursuant to subsections (c) and (d) of this section.
+369 (b) The following revenue shall be deposited into the RFK Campus Parking Facilities
+370 Fund:
+371 (1) All receipts from the taxes imposed by D.C. Official Code § 47-2002.08(b),
+372 including penalty and interest charges; and
+373 (2) All receipts from the taxes imposed by D.C. Official Code § 47-2002 and §
+374 47-2202 on the sale of or charges for tickets to public events to be performed at the Stadium, as
+375 defined in D.C. Official Code § 47-2002.08, including penalties and interest charges.
+376 (c) Money in the RFK Campus Parking Facilities Fund shall be used to:
+377 (1) Pay the debt service, including principal and interest, costs of issuance, and
+378 credit enhancements, and any costs of defeasance on bonds issued pursuant to section 15(b) and
+379 making any other payments related to such bonds; and
+380 (2) Fund reserves for bonds issued pursuant to section 15(b).
+21
+
+381 (d) Any funds in excess of the amounts required to be paid from or reserved in the RFK
+382 Campus Parking Facilities Fund pursuant to subsection (c) of this section (“Excess Stadium
+383 Revenue Funds”), as determined by the Chief Financial Officer, shall be transferred to the
+384 Stadium Maintenance Fund.
+385 (e) The Mayor, or any instrumentality or authority of the District that has been designated
+386 by the Mayor, may pledge and create a security interest in the funds in the RFK Campus Parking
+387 Facilities Fund for the payment of the debt service on any bonds issued pursuant to section 15(b)
+388 any fees and charges incurred in connection therewith, and any payments owing under any
+389 document or instrument entered into in connection with such indebtedness in accordance with
+390 the provisions of the documents entered into by the District in connection with the issuance of
+391 such bonds.
+392 Sec. 13. Stadium Maintenance Fund.
+393 (a) There is established as a special fund the Stadium Maintenance Fund, which shall be
+394 administered by the Mayor in accordance with subsection (c) of this section.
+395 (b) Excess Stadium Revenue Funds, as provided in section 12(d), shall be deposited into
+396 the Stadium Maintenance Fund.
+397 (c) Money in the Stadium Maintenance Fund shall be used to pay maintenance, repair,
+398 and capital expenses of the Stadium. Any maintenance, repair, and capital expenses in excess of
+399 available funds in the Stadium Maintenance Fund shall be the responsibility of Developer.
+22
+
+400 (d)(1) The money deposited into the Stadium Maintenance Fund shall not revert to the
+401 unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal
+402 year, or at any other time.
+403 (2) Subject to authorization in an approved budget and financial plan, any funds
+404 appropriated in the Stadium Maintenance Fund shall be continually available without regard to
+405 fiscal year limitation.
+406 Sec. 14. RFK Campus parking facility bonds; Washington Convention and Sports
+407 Authority bond authority.
+408 Title II of the Washington Convention Center Authority Act of 1994, effective September
+409 28, 1994 (D.C. Law 10-188; D.C. Official Code § 10-1202.01 et seq.), is amended as follows:
+410 (a) Section 204 (D.C. Official Code § 10-1202.04) is amended by adding a new
+411 subsection (a-2) to read as follows:
+412 “(a-2) Notwithstanding the provisions of subsection (a) of this section, the Authority
+413 may, without submission to the Council, adopt inducement resolutions or resolutions authorizing
+414 the issuance of bonds and may issue bonds in a total principal amount not to exceed
+415 $284,000,000 or such lesser amount as necessary in order to generate net proceeds of
+416 $181,000,000 to finance the construction of the parking facilities approved by the Mayor on the
+417 RFK Campus.”.
+23
+
+418 (b) Section 210(a) (D.C. Official Code § 10-1202.10(a)) is amended by striking the
+419 phrase “or certain costs of the new convention center hotel or a District sports or entertainment
+420 facility hotel.” and inserting in the phrase “, certain costs of the new convention center hotel or a
+421 District sports or entertainment facility hotel, or parking facilities approved by the Mayor on the
+422 RFK Campus.” in its place.
+423 Sec. 15. RFK Campus infrastructure and parking facilities bond authorizations.
+424 (a)(1) The Mayor, or any District government instrumentality or authority designated by
+425 the Mayor, may issue, no earlier than October 1, 2025, one or more series of bonds in a total
+426 principal amount not to exceed $759,000,000 or such lesser amount as necessary in order to
+427 generate net proceeds of $500,000,000 for payment of the costs of the RFK Campus
+428 Infrastructure Project. The District hereby declares its intent to issue bonds in the amount
+429 authorized in this subsection and to use the proceeds to pay or reimburse expenditures for the
+430 costs of the purposes or improvements described in this act. This subsection is a declaration of
+431 intent within the meaning of, and for purposes described in, Treasury Regulation 1.150-2 (26
+432 C.F.R. § 1.150-2).
+433 (2) The Mayor, or any District government authority or instrumentality designated
+434 by the Mayor, may allocate to the bonds authorized by paragraph (1) of this subsection the funds
+435 in the RFK Campus Infrastructure Fund.
+24
+
+436 (b)(1) The Mayor, or any District government instrumentality or authority designated by
+437 the Mayor, may issue, no earlier than October 1, 2031, one or more series of bonds in a total
+438 principal amount not to exceed $210,000,000 or such lesser amount as necessary in order to
+439 generate net proceeds of $175,000,000 for payment of the costs of the RFK Campus Parking
+440 Facilities Project. The District hereby declares its intent to issue bonds in the amount authorized
+441 in this subsection and use the proceeds to pay or reimburse expenditures for the costs of the
+442 purposes or improvements described in this act. This subsection is a declaration of intent within
+443 the meaning of, and for purposes described in, Treasury Regulation 1.150-2 (26 C.F.R. § 1.150-
+444 2).
+445 (2) The Mayor, or any District government authority or instrumentality designated
+446 by the Mayor, may allocate to the bonds authorized by paragraph (1) of this subsection the funds
+447 in the RFK Campus Parking Facilities Fund.
+448 (c) The Mayor and each Authorized Delegate may take any action necessary or
+449 appropriate in accordance with this title in connection with the preparation, execution, issuance,
+450 sale, delivery, security for, and payment of the bonds of each series, including determinations of:
+451 (1) The final form, content, designation, and terms of the bonds, including a
+452 determination that the bonds may be issued in certificated or book entry form;
+453 (2) The principal amount of the bonds to be issued and the denominations of the
+454 bonds;
+25
+
+455 (3) The rate or rates of interest on, and the method or methods of determining the
+456 rate or rates of interest on, the bonds;
+457 (4) The date or dates of issuance, sale, and delivery of the payment of interest on,
+458 and the maturity date or dates of, the bonds;
+459 (5) Whether the bonds are to be sold at a competitive or negotiated sale and the
+460 terms and conditions of the sale;
+461 (6) The terms under which the bonds may be paid, optionally or mandatorily
+462 redeemed, accelerated, tendered, called or put for redemption, repurchase, or remarketing before
+463 their respective stated maturities;
+464 (7) Provisions for the registration, transfer, and exchange of each series of the
+465 bonds and the replacement of mutilated, lost, stolen, or destroyed bonds;
+466 (8) The creation of any reserve fund, sinking fund, or other fund with respect to
+467 the bonds and the determination of the priority thereof;
+468 (9) The time and place of payment of the bonds;
+469 (10) Whether the bonds will be taxable, tax-exempt, or a combination thereof;
+470 (11) Procedures for monitoring the use of the proceeds received from the sale of
+471 the bonds to ensure that they are properly applied to the RFK Campus Infrastructure Project or
+472 RFK Campus Parking Facilities Project and used to accomplish the purposes of this title;
+26
+
+473 (12) Actions necessary to qualify the bonds under the blue sky laws of any
+474 jurisdiction where the bonds are marketed;
+475 (13) The terms and types of credit enhancement under which the bonds may be
+476 secured; and
+477 (14) The selection of the underwriter for the bonds.
+478 (d) The bonds shall contain a legend, which shall provide that the bonds are special
+479 obligations of the District, are without recourse to the District, are not a pledge of, and do not
+480 involve, the faith and credit or the taxing power of the District (other than the payments from the
+481 RFK Campus Infrastructure Fund or RFK Campus Parking Facilities Fund or any other security
+482 authorized by this title), do not constitute a debt of the District, and do not constitute lending of
+483 the public credit for private undertakings as prohibited by section 602(a)(2) of the Home Rule
+484 Act (D.C. Official Code § 1-206.02(a)(2)).
+485 (e) The bonds shall be executed in the name of the District and on its behalf by the
+486 manual or facsimile signature of the Mayor. The Mayor’s execution and delivery of the bonds
+487 and any necessary ancillary documents shall constitute conclusive evidence of the Mayor’s
+488 approval on behalf of the District of the final form and content of the bonds and any necessary
+489 ancillary documents.
+490 (f) If required, the official seal of the District, or a facsimile of it, shall be impressed,
+491 printed, or otherwise reproduced on the bonds.
+27
+
+492 (g) The bonds may be issued at any time or from time to time in one or more issues and
+493 one or more series and may be sold at public or private sale. A series of bonds may be secured by
+494 a trust agreement or trust indenture between the District and a corporate trustee having trust
+495 powers or other instrument or instruments by means of which the District may:
+496 (1) Make and enter into any and all covenants and agreements with the trustee or
+497 the holders of the bonds that the District may determine to be necessary or desirable relating to:
+498 (A) The application, investment, deposit, use, and disposition of the
+499 proceeds of the bonds and the other funds, securities, and property of the District;
+500 (B) The assignment by the District of its rights in any agreement;
+501 (C) The terms and conditions upon which additional bonds of the District
+502 may be issued;
+503 (D) The appointment of a trustee to act on behalf of bondholders and
+504 abrogating or limiting the rights of the bondholders to appoint a trustee; and
+505 (E) The vesting in a trustee for the benefit of the holders of the bonds, or
+506 in the bondholders directly, such rights and remedies as the District shall determine to be
+507 necessary or desirable;
+508 (2) Pledge, mortgage or assign monies, agreements, property or other assets of the
+509 District, either in hand or to be received in the future, or both;
+28
+
+510 (3) Provide for bond insurance, letters of credit, interest rate swaps, or other
+511 financial derivative products or otherwise enhance the credit of and security for the payment of
+512 the bonds or reduce or otherwise manage the interest costs of the bonds and provide security
+513 therefore; and
+514 (4) Provide for any other matters of like or different character that in any way
+515 affects the security for or payment on the bonds.
+516 (h) The bonds are declared to be issued for essential public and governmental purposes.
+517 The bonds, the interest thereon, the income therefrom, and all monies pledged or available to pay
+518 or secure the payment of the bonds, shall at all times be exempt from taxation by the District,
+519 except for estate, inheritance, and gift taxes.
+520 (i) The District hereby pledges and covenants and agrees with the holders of the bonds
+521 that, subject to the provisions of the financing documents, the District will not limit or alter the
+522 revenues pledged to secure the bonds or the basis on which the revenues are collected or
+523 allocated, will not impair the contractual obligations of the District to fulfill the terms of any
+524 agreement made with the holders of the bonds, will not in any way impair the rights or remedies
+525 of the holders of the bonds, and will not modify in any way, with respect to the bonds, the
+526 exemptions from taxation provided for in this title, until the bonds, together with interest thereon,
+527 with interest on any unpaid installment of interest and all costs and expenses in connection with
+528 any suit, action, or proceeding by or on behalf of the holders of the bonds, are fully met and
+29
+
+529 discharged. This pledge and agreement for the District may be included as part of the contract
+530 with the holders of the bonds.
+531 (j) Consistent with section 490(a)(4)(B) of the Home Rule Act (D.C. Official Code § 1-
+532 204.90 (a)(4)(B)), and notwithstanding Article 9 of Subtitle I of Title 28 of the District of
+533 Columbia Official Code:
+534 (1) A pledge made and security interest created in respect of the bonds or pursuant
+535 to any related financing document shall be valid, binding, and perfected from the time the
+536 security interest is created, with or without physical delivery of any funds or any property and
+537 with or without any further action;
+538 (2) The lien of the pledge shall be valid, binding, and perfected as against all
+539 parties having any claim of any kind in tort, contract, or otherwise against the District, whether
+540 or not the party has notice; and
+541 (3) The security interest shall be valid, binding, and perfected whether or not any
+542 statement, document, or instrument relating to the security interest is recorded or filed.
+543 (k) If there shall be a default in the payment of the principal of, or interest on, any bonds
+544 of a series after the principal or interest shall become due and payable, whether at maturity or
+545 upon call for redemption, or if the District shall fail or refuse to carry out and perform the terms
+546 of any agreement with the holders of any of the bonds, the holders of the bonds, or the trustee
+30
+
+547 appointed to act on behalf of the holder of the bonds, may, subject to the provisions of the
+548 financing documents, do the following:
+549 (1) By action, writ, or other proceeding, enforce all rights of the holders of the
+550 bonds, including the right to require the District to carry out and perform the terms of any
+551 agreement with the holders of the bonds or its duties under this title;
+552 (2) By action, require the District to account as if it were the trustee of an express
+553 trust;
+554 (3) By action, petition to enjoin any acts or things that may be unlawful or in
+555 violation of the rights of the holders of the bonds; and
+556 (4) Declare all the bonds to be due and payable, whether or not in advance of or at
+557 maturity and, if all defaults be made good, annul the declaration and its consequences.
+558 (l)(1) The elected or appointed officials, officers, employees, or agents of the District
+559 shall not be personally liable on the bonds by reason of their issuance.
+560 (2) Notwithstanding any other provision of this title, the bonds shall not be
+561 general obligations of the District and shall not be a debt or liability of the District within the
+562 meaning of any debt or other limit prescribed by law. The faith and credit or the general taxing
+563 power of the District (other than funds in the RFK Campus Infrastructure Fund or RFK Campus
+564 Parking Facilities Fund) shall not be pledged to secure the payment of the bonds.
+31
+
+565 Sec. 16. Bond Financing and Closing Documents.
+566 (a) The Mayor may prescribe the final form and content of all financing documents and
+567 all closing documents to which the District is a party that may be necessary or appropriate to
+568 issue, sell, and deliver the bonds.
+569 (b) The Mayor may execute, in the name of the District and on its behalf, the financing
+570 documents and any closing documents to which the District is a party by the Mayor’s manual or
+571 facsimile signature.
+572 (c) If required, the official seal of the District, or a facsimile of it, shall be impressed,
+573 printed, or otherwise reproduced on the financing documents and the closing documents to which
+574 the District is a party.
+575 (d) The Mayor’s execution and delivery of the financing documents and the closing
+576 documents to which the District is a party shall constitute conclusive evidence of the Mayor’s
+577 approval, on behalf of the District, of the final form and content of the executed financing
+578 documents and the executed closing documents.
+579 (e) The Mayor may deliver the executed and sealed financing documents and closing
+580 documents, on behalf of the District, prior to or simultaneously with the issuance, sale, and
+581 delivery of the bonds, and to ensure the due performance of the obligations of the District
+582 contained in the executed, sealed, and delivered financing documents and closing documents.
+583 Sec. 17. Property, possessory interest, and recordation tax exemptions.
+32
+
+584 (a) Section 47-1002 of the District of Columbia Official Code is amended as follows:
+585 (1) Paragraph (34) is amended by striking the phrase “; and” and inserting a
+586 semicolon in its place.
+587 (2) Paragraph (35) is amended by striking the period at the end and inserting the
+588 phrase “; and” in its place.
+589 (3) A new paragraph (36) is added to read as follows:
+590 “(36) “Each parcel (and the improvements thereon) on the RFK Campus, as
+591 defined by § 47-2002.08(a)(1), on which the stadium, as defined by § 47-2002.08(a)(2), and
+592 standalone parking facilities that serve the stadium are constructed or to be constructed, so long
+593 as the leases authorized by section 5 of the Robert F. Kennedy Campus Redevelopment Act of
+594 2025 between the District and Pro-Football LLC or an affiliate of Pro-Football LLC for the
+595 stadium and standalone parking facilities remain in effect.”.
+596 (b) Section 47-1005.01 of the District of Columbia Official Code is amended by adding a
+597 new subsection (c-3) to read as follows:
+598 “(c-3) This section shall not apply to the real property (and any improvements thereon)
+599 on the RFK Campus, as defined by § 47-2002.08(a)(1), on which the stadium, as defined by §
+600 47-2002.08(a)(2), and standalone parking facilities that serve the stadium are constructed or to be
+601 constructed, for so long as the leases authorized by section 5 of the Robert F. Kennedy Campus
+33
+
+602 Redevelopment Act of 2025 between the District and Pro-Football LLC, or an affiliate of Pro-
+603 Football LLC, for the stadium and the standalone parking facilities remain in effect.”.
+604 (c) Section 302 of the District of Columbia Deed Recordation Tax Act, approved March
+605 2, 1962 (76 Stat. 11; D.C. Official Code § 42-1102), is amended as follows:
+606 (1) Paragraph (36)(B) is amended by striking the phrase “; and” and inserting a
+607 semicolon in its place.
+608 (2) A new paragraph (37) is added to read as follows:
+609 “(37) Deeds with respect to the real property (and any improvements thereon) on
+610 which the stadium, as defined by § 47-2002.08(a)(2), and standalone parking facilities that serve
+611 the stadium are constructed or to be constructed, to the extent such deeds convey an interest
+612 between the District and Pro-Football LLC, or an affiliate of Pro-Football LLC, pursuant to the
+613 leases authorized by section 5 of the Robert F. Kennedy Campus Redevelopment Act of 2025.”.
+614 Sec. 18. Football stadium sales taxes.
+615 Chapter 20 of Title 47 of the District of Columbia Official Code is amended as follows:
+616 (a) The table of contents is amended by adding a new section designation to read as
+617 follows:
+618 “47-2002.08. Football stadium sales taxes.”.
+619 (b) A new section 47-2002.08 is added to read as follows:
+34
+
+620 “§ 47-2002.08. Football stadium additional sales taxes.
+621 “(a) For the purposes of this section, the term:
+622 “(1) “RFK Campus” means those parcels of land that are the subject of the
+623 Transfer of Jurisdiction Plat recorded in the Surveyor’s Office on February 5, 2025, on page 13
+624 of subdivision book 223.
+625 “(2) “Stadium” means the stadium constructed on the RFK Campus after October
+626 1, 2025, to be owned by the District, as described in the Term Sheet.
+627 “(3) “Term Sheet” shall have the meaning set forth in section 2(29) of the Robert
+628 F. Kennedy Campus Redevelopment Act of 2025.
+629 “(4) “Ticket” means any physical, electronic, or other form of a certificate,
+630 documents, or token showing that a fare, admission, or license fee for a revocable right to enter
+631 the stadium has been paid.
+632 “(b) Notwithstanding any other provision of this chapter, there is imposed an additional
+633 sales tax of 4.25% on the gross receipts of any person from the sale of or charges for tickets to
+634 any public event to be performed at the Stadium subject to the gross sales tax under chapter 20 or
+635 the compensating-use tax under chapter 22.
+636 “(c) Notwithstanding any other provision of this chapter, there is imposed an additional
+637 sales tax of 4.25% on the gross receipts of any person from the sale at the Stadium of tangible
+35
+
+638 personal property or services otherwise taxable under the provisions of this chapter, except for
+639 the gross receipts from sales of food and beverages subject to the tax imposed by § 47-2002(3).”.
+640 (c) Section 47-2005 is amended as follows:
+641 (1) Paragraph (38)(B) is amended by striking the period at the end and inserting a
+642 semicolon in its place.
+643 (2) Paragraph (39)(B) is amended by striking the period at the end and inserting a
+644 semicolon in its place.
+645 (3) Paragraph (40) is amended by striking the period at the end and inserting a
+646 semicolon in its place.
+647 (4) Paragraph (41) is amended by striking the period at the end and inserting the
+648 phrase “; and” in its place.
+649 (5) A new paragraph (42) is added to read as follows:
+650 “(42)(A) Sales of personal seat licenses at the Stadium for the term of the lease
+651 between the District and Pro-Football LLC, or an affiliate of Pro-Football LLC, for the Stadium;
+652 “(B) For the purposes of this paragraph, the term:
+653 “(i) “Personal seat license” means a license, location right, or other
+654 similar instrument for seats in the Stadium issued to a person for the right to purchase season
+655 tickets to games and tickets to other events at the Stadium.
+36
+
+656 “(ii) “Stadium” shall have the same meaning as set forth in § 47-
+657 2002.08(a)(2).”.
+658 Sec. 19. Limited zoning exemption.
+659 Section 7(a) of the District of Columbia Comprehensive Plan Act of 1984 Land Use
+660 Element Amendment Act of 1984, effective May 23, 1990 (D.C. Law 8-129; D.C. Official Code
+661 § 1-306.07(a)), is amended as follows:
+662 (a) Paragraph (1) is amended by striking the phrase “and (4)” and inserting the phrase
+663 “(4), and (5)” in its place.
+664 (b) A new paragraph (5) is added to read as follows:
+665 “(5) The uses of government land for a multi-purpose stadium to serve as a venue
+666 for a National Football League team in the District, an accessory office building, accessory
+667 parking facilities, the Plaza District Commercial Parcel (as defined in the Term Sheet for the
+668 Redevelopment of a Portion of the RFK Stadium Campus between the District and Pro-Football
+669 LLC, dated April 28, 2025, that memorializes the terms of the disposition and development of
+670 the Development Site), and a public sports and recreation facility on a portion of the RFK
+671 Campus, as defined by D.C. Official Code § 47-2002.08(a)(1), shall not be subject to zoning
+672 until, with respect to each structure constructed for such uses, after such time as a final certificate
+673 of occupancy is issued for the structure.”.
+674 Sec. 20. Establishment of Stadium Designated Entertainment Area.
+37
+
+675 Section N101.20 of Title 12A of the District of Columbia Municipal Regulations (12-A
+676 DCMR § N101.20) is amended by adding a new subsection (g) to read as follows:
+677 “(g)(1) Stadium District Entertainment Area. The Stadium District Entertainment Area is
+678 the real property comprising the Stadium, Stadium District Parcel, and Plaza District
+679 Commercial Parcel portions of RFK Campus, as identified in the Term Sheet. Designated
+680 Entertainment Area Sign Permits may be allowed in the Stadium District Entertainment Area
+681 subject to the requirements of this section.
+682 “(2) For the purposes of this subsection, the term “Term Sheet” shall have the
+683 meaning set forth in section 2(29) of the Robert F. Kennedy Campus Redevelopment Act of
+684 2025, as approved by the Committee of the Whole on August 1, 2025 (Committee print of Bill
+685 26-288).”.
+686 Sec. 21. Anacostia Waterfront Environmental Standards.
+687 Section 459 of the National Capital Revitalization Corporation and Anacostia Waterfront
+688 Corporation Reorganization Act of 2008, effective March 26, 2008 (D.C. Law 17-138; D.C.
+689 Official Code § 2-1226.39), is amended by adding a new subsection (d) to read as follows:
+690 (d)(1) For any project on the development site, as defined in section 2(10) of the Robert F.
+691 Kennedy Campus Redevelopment Act of 2025, as approved by the Committee of the Whole on
+692 August 1, 2025 (Committee print of Bill 26-0288), DDOE may grant an exemption pursuant to
+38
+
+693 subsections (a) and (b) of this section; except, that DDOE shall transmit the exemption to the
+694 Council for approval, for a 30-day period of review, excluding days of Council recess.
+695 (2) The Council shall be deemed to have approved the exemption under this
+696 subsection if, during the 30-day period, no member introduces a resolution disapproving the
+697 exemption. If a member introduces a resolution disapproving the exemption within the 30-day
+698 period, the Council shall have an additional 30 days, excluding days of Council recess, to
+699 disapprove the exemption by resolution, or it will be deemed approved.
+700 Sec. 22. Traffic Operations and Parking Plan Requirement.
+701 a) The District Department of Transportation (“DDOT”), in collaboration with Advisory
+702 Neighborhood Commissions 7F, 7D, 6A, 6B, and the Developer, shall develop a Traffic
+703 Operations and Parking Plan (“TOPP”) for the Stadium Project and surrounding neighborhood
+704 blocks.
+705 (b) The TOPP required in subsection (a) of this section shall provide guidance for transit
+706 riders, drivers, ride share, pedestrians, and cyclists to safely travel to and from the Stadium and
+707 surrounding neighborhood, with a particular focus on minimizing negative impacts on the
+708 surrounding communities.
+709 (c) DDOT shall issue regulations to ensure the District enforces parking meters and
+710 residential permit parking restrictions within the Stadium Project and surrounding neighborhood,
+711 including on Sundays and holidays.
+39
+
+712 Sec. 23. Conforming amendment.
+713 Section 204(m) of the Washington Convention Center Authority Act of 1994, effective
+714 September 28, 1994 (D.C. Law 10-188; D.C. Official Code § 10-1202.04(m)), is repealed.
+715 Sec. 24. Fiscal impact statement.
+716 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+717 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+718 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+719 Sec. 25. Effective date.
+720 This act shall take effect following approval by the Mayor (or in the event of veto by the
+721 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+722 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+723 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+724 D.C. Official Code § 1-204.12(a)).
+40

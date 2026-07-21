@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+The John A. Wilson Building
+1350 Pennsylvania Avenue, nw
+Washington, D.C. 20004
+Christina Henderson Committee Member
+Councilmember, At-Large Hospital and Health Equity
+Chairperson, Committee on Health Judiciary and Public Safety
+Transportation and the Environment
+Statement of Introduction
+School Health Certificate Modernization Amendment Act of 2026
+July 6, 2026
+Today, I am pleased to introduce the School Health Certificate Modernization Amendment
+Act of 2026, along with Chairman Mendelson and Councilmembers Matthew Frumin, Anita
+Bonds, Janeese Lewis George, and Charles Allen. This legislation would require the Department
+of Health to create a digital system for receiving certificates of health and dental health for students
+attending public and private schools from health care providers and prohibit health care providers
+from charging for a certificate of health or certificate of dental health. The legislation would also
+require the Department of Health to create a tiered fee structure for health professional licensing
+and registration based on the education level required for a health profession.
+Currently, all students attending pre-K through grade 12 in a public, public charter, private,
+or independent school in the District must submit a certificate of health and certificate of dental
+health completed and signed by a health provider to their school in order to attend. The process for
+obtaining and submitting these forms is arcane, ineffective for protecting public health, and an
+unnecessary financial and logistical burden on families. Caregivers often must pay a fee for their
+pediatrician or dentist to complete and print the form. Then, the caregiver is responsible for
+submitting the paper forms to the school. In many cases, these forms are lost and parents are asked
+to submit the forms multiple times. At the end of this process, the health professional in the school
+health suite is responsible for manually inputting the information on the form into a database. Not
+surprisingly, many families do not complete this process, and there is no enforcement of the
+requirement. In Fiscal Year 2025, only 28% of students had a certificate of health on file, and in
+Fiscal Year 2026, to date, 13% of students had a certificate on file. Families have to go through a
+similar process for dental forms, which the Office of the State Superintendent of Education (OSSE)
+and DC Health require even though they are not required by the D.C. Code.
+For the past four years, the Committee on Health has pressed DC Health to modernize this
+process but has seen very little progress. In Fiscal Year 2024, DC Health started implementing the
+first phase of a transition to an electronic system, allowing healthcare providers to submit
+certificates of health electronically through a secure provider portal, but this process has stalled
+because of challenges working with health systems/providers and their Electronic Health Records
+vendors. DC Health has worked with DC Public Schools to allow families to upload certificates
+on the Aspen electronic school registration portal, which is a modest improvement, but does not
+solve the issue of families needing to pay for, obtain, and then upload forms. Furthermore, even
+though families can upload the forms through Aspen, the school health professional still has to
+download/print and manually enter the information into a different system.
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+The John A. Wilson Building
+1350 Pennsylvania Avenue, nw
+Washington, D.C. 20004
+The legislation also updates health professional license and registration fees to better reflect
+the level of profession and encourage more entry-level professionals to work in the District. DC
+Health’s fees for licensed health professionals are out of step with other jurisdictions and, in some
+cases, dampening interest for new health professionals to work in the District. At the DC Health
+FY 2027 budget hearing, the DC Dental Society testified regarding the fee for Level 1 Dental
+Assistants, an entry-level license for individuals who are just starting their careers. Currently, DC
+Health charges $190 for this license, while Maryland and Virginia charge $20 and $100,
+respectively. On the other hand, veterinarians only pay $215 for licensure, even though comparable
+advanced degree professionals pay a much higher fee, such as physicians ($805), psychologists
+($321) and dentists ($430).
+I look forward to working with my Council colleagues to make this critical investment in
+food equity, economic opportunity, and public health, ensuring that all District residents—
+regardless of their ZIP code—can enjoy the benefits of fresh, healthy, and locally sourced food.
+
+1 ______________________________ ______________________________
+2 Chairman Phil Mendelson Councilmember Christina Henderson
+3
+4
+5 ______________________________ ______________________________
+6 Councilmember Matthew Frumin Councilmember Anita Bonds
+7
+8
+9 ______________________________ ______________________________
+10 Councilmember Janeese Lewis George Councilmember Charles Allen
+11
+12
+13
+14 A BILL
+15
+16 ________________
+17
+18 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+19
+20 _______________
+21
+22 To amend the Student Health Care Act of 1985 to require the Department of Health to create a
+23 digital system for receiving certificates of health and oral health for students attending
+24 public and private schools from health care providers and to prohibit health care
+25 providers from charging for a certificate of health or certificate of oral health; and to
+26 amend section 505 of the District of Columbia Health Occupations Revision Act of 1985
+27 to require the Department of Health to create a tiered fee structure for health professional
+28 licensing and registration based on education level required for a health profession.
+29
+30 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+31 act may be cited as the “School Health Certificate Modernization Amendment Act of 2026”.
+32 Sec. 2. The Student Health Care Act of 1985, effective December 3, 1985 (D.C. Law 6-
+33 66; D.C. Official Code § 38-601 et seq.), is amended as follows:
+34 (a) Section 3 (D.C. Official Code § 38-602) is amended by adding new subsections (e)
+35 and (f) to read as follows:
+36 “(e) Health care providers shall not charge a parent or guardian a fee or surcharge for a
+37 certificate of health, certificate of testing for lead poisoning, certificate of dental health ,or any
+38 other health certificate required by the Mayor for a student to attend school.
+1
+
+39 “(f)(1) Before the start of School Year 2028-2029, the Department of Health
+40 (“Department”) shall develop and implement a digital platform for health care providers to
+41 submit certificates of health and certificates of dental health required by this section directly to
+42 the Department.
+43 “(2) The digital platform required by paragraph (1) of this subsection shall:
+44 “(A) Allow a public or private school administrator to see which of the
+45 school’s students has submitted the required forms; and
+46 “(B) Not require the student’s parent or guardian to play an active role in
+47 the transferring, downloading, emailing, or otherwise submission of the certificates; except, that,
+48 the parent or guardian may be required to sign a consent form for their student’s health
+49 information to be submitted through the portal.”.
+50 Sec 3. Section 505 of the District of Columbia Health Occupations Revision Act of 1985,
+51 effective March 25, 1986 (D.C. Law 6-99; D.C. Official Code § 3-1205.05), is amended as
+52 follows:
+53 (a) Subsection (a)(2) is amended by striking the phrase “fees established by the Mayor”
+54 and inserting the phrase “fees established by the Mayor in accordance with subsection (a-1) of
+55 this section” in its place.
+56 (b) A new subsection (a-1) is added to read as follows:
+57 “(a-1) For all fees collected pursuant to subsection (a)(2) of this section, the Mayor shall
+58 establish a tiered fee structure based on the educational requirements of each health professional.
+59 Fees for licenses, registrations, or certifications shall range from lowest to highest for health
+60 professions in the following order:
+61 “(1) Does not require an undergraduate degree;
+2
+
+62 “(2) Requires an undergraduate degree;
+63 “(3) Requires a masters level degree; and
+64 “(4) Requires a doctoral degree.”.
+65 Sec. 4. Fiscal impact statement.
+66 The Council adopts the fiscal impact statement in the committee report as the fiscal
+67 impact statement required by section 602(c)(3) of the District of Columbia Home Rule Act,
+68 approved December 24, 1973 (87 Stat. 813; DC. . Official Code § 1-206.02(c)(3)).
+69 Sec. 5. Effective date.
+70 This act shall take effect following approval by the Mayor (or in the event of veto by the
+71 Mayor, action by the Council to override the veto), a 30-day period of congressional
+72 review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved
+73 December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the
+74 District of Columbia Register.
+3

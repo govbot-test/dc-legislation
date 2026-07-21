@@ -1,0 +1,207 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 ____________________________
+2 Chairman Phil Mendelson
+3
+4
+5
+6
+7
+8
+9 A BILL
+10
+11 _________
+12
+13
+14 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+15
+16 __________________
+17
+18
+19 To amend, on a temporary basis, to amend the Legalization of Marijuana for Medical Treatment
+20 Initiative of 1999 to amend the definition of an unlicensed establishment to include
+21 establishments that sell Schedule I substances or products that contain Schedule I
+22 substances, to extend the expiration dates of conditional licenses for medical cannabis
+23 cultivation centers, retailers, internet retailers, manufacturers, couriers, and testing
+24 laboratories for an additional year, to clarify that a conditional license applicant may
+25 submit a zoning certificate instead of a certificate of occupancy with their permanent
+26 license application, to clarify the distance requirements between retailers and internet
+27 retailers and schools and recreation centers, to authorize enforcement actions to be taken
+28 against all unlicensed establishments beginning on April 1, 2025, regardless of whether
+29 the unlicensed establishments have an application pending application before the
+30 Alcoholic Beverage and Cannabis Board, to authorize certain enforcement actions before
+31 April 1, 2025, against an unlicensed establishment that has an application before the
+32 Alcoholic Beverage and Cannabis Board if the unlicensed establishment sells a Schedule
+33 I substance or a product that contains a Schedule I substance, to authorize summary
+34 closures and related enforcement actions to continue for as long as the imminent danger
+35 to the public persists and is likely to recur, and to allow the Alcoholic Beverage and
+36 Cannabis Administration and Metropolitan Police Department to take related
+37 enforcement actions against a licensed medical cannabis establishment that engages in
+38 certain unlawful activity.
+39
+40 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+41 act may be cited as the “Medical Cannabis Licensing and Unlicensed Establishment Enforcement
+42 Clarification Temporary Amendment Act of 2026”.
+1
+
+43 Sec. 2. The Legalization of Marijuana for Medical Treatment Initiative of 1999, effective
+44 July 27, 2010 (D.C. Law 18-210; D.C. Official Code § 7-1671.01 et seq.), is amended as follows:
+45 (a) Section 2 (D.C. Official Code § 7-1671.01) is amended as follows:
+46 (1) A new paragraph (2B) is added to read as follows:
+47 “(2B) “Cannabis product” means a product derived from or composed of
+48 cannabis, in part or in whole.”
+49 (2) A new paragraph (20B-i) is added to read as follows:
+50 “(20B-i) “Schedule I substance” means a controlled substance listed in section
+51 204 of the District of Columbia Uniform Controlled Substances Act of 1981, effective August 5,
+52 1981 (D.C. Law 4-29; D.C. Official Code § 48-902.04), or rules implementing that section.”.
+53 (3) Paragraph (22) is amended to read as follows:
+54 “(22) “Unlicensed establishment” means:
+55 “(A) A sole proprietorship, partnership, or other business entity that:
+56 “(i) Sells, exchanges as part of a commercial transaction, or
+57 delivers cannabis and cannabis products;
+58 “(ii) Operates at or delivers from a specific location in the District;
+59 and
+60 “(iii) Is not licensed by ABCA as a cultivation center, retailer,
+61 internet retailer, manufacturer, courier, or testing laboratory; or
+62 “(B) For purposes of section 9(c-1), (g), (h), and (i), a sole proprietorship,
+63 partnership, or other business entity that:
+64 “(i) Sells, exchanges as part of a commercial transaction, or
+65 delivers Schedule I substances or products that contain Schedule I substances; and
+2
+
+66 “(ii) Operates at or delivers from a specific location in the
+67 District.”.
+68 (b) Section 7 (D.C. Official Code § 7-1671.06) is amended as follows:
+69 (1) Subsection (k) is amended as follows:
+70 (A) Paragraph (1) is amended by striking the phrase “a 2-year conditional
+71 license” and inserting the phrase “a conditional license valid for up to 3 years” in its place.
+72 (B) Paragraph (2) is amended by striking the phrase “shall have 2 years
+73 from the date of ABC Board approval” and inserting the phrase “shall have until the end of the
+74 term of the conditional license” in its place.
+75 (C) Paragraph (2)(C) is amended by striking the phrase “certificate of occupancy”
+76 and inserting the phrase “zoning certificate or certificate of occupancy” in its place.
+77 (D) Paragraph (3) is amended to read as follows:
+78 “(3) The holder of a conditional license shall not engage in purchasing,
+79 possessing, cultivating, manufacturing, or selling of medical cannabis, cannabis products, or
+80 Schedule I substances.”.
+81 (E) Paragraph (4) is amended by striking the phrase “after a period of 2
+82 years” and inserting the phrase “before the end of the term of the conditional licenses” in its
+83 place.
+84 (c) Subsection (k-1) is amended to read as follows:
+85 “(k-1) A one-year conditional license that was in effect as of December 17, 2024, and
+86 that automatically converted to a 2-year conditional license, shall automatically convert to a 3-
+87 year conditional license, expiring 2 years after the date the original conditional license was set to
+88 expire, at no additional cost and without additional ABC Board approval.”.
+3
+
+89 (d) Subsection (l) is amended by striking the phrase “A one-year conditional license” and
+90 inserting the phrase “A conditional license” in its place.
+91 (e) Subsection (q) is amended to read as follows:
+92 “(q)(1)(A) A retailer or internet retailer shall not locate within any residential district or
+93 within 400 feet of a preschool, primary or secondary school, or recreation center; except, that a
+94 license holder or an applicant who has applied prior to December 17, 2024, shall not be
+95 permitted to locate within 300 feet of a preschool, primary or secondary school, or recreation
+96 center.
+97 “(B) Notwithstanding subparagraph (A) of this paragraph, an unlicensed
+98 establishment license holder or applicant that applied for a retailer or internet retailer license
+99 during the 90-calendar day open application period set forth in section 7a(a)(1) shall be permitted
+100 to locate within 300 feet of a preschool, primary or secondary school, or recreation center where
+101 the main entrance to the preschool, primary school or secondary school, or recreation center is
+102 actually on or occupies ground zoned commercial or industrial according to the official atlases of
+103 the Zoning Commission of the District of Columbia.
+104 “(2) A retailer or internet retailer that received a license in compliance with
+105 paragraph (1) of this subsection shall not have to relocate to renew its license at its existing
+106 location if a preschool, primary or secondary school, or recreation center subsequently locates
+107 within 400 feet of its facility.”.
+108 (f) Section 7b (D.C. Official Code § 7-1671.06b) is amended by adding a new subsection
+109 (a-1) to read as follows:
+110 “(a-1) Notwithstanding any other provision of this section, an unlicensed establishment
+111 may be summarily closed and padlocked, without a prior hearing, pursuant to section 9(g) after
+4
+
+112 April 1, 2025, if, after an inspection, ABCA determines that the unlicensed establishment
+113 presents an imminent danger to the health or safety of the public as described in section
+114 9(g)(2).”.
+115 (g) Section 9 (D.C. Official Code § 7-1671.08) is amended as follows:
+116 (1) Subsection (b) is amended by redesignating the second paragraph (1) as
+117 paragraph (2).
+118 (2) A new subsection (c-1) is added to read as follows:
+119 “(c-1) It shall be a violation of this act for a licensed establishment or an unlicensed
+120 establishment (regardless of whether the unlicensed establishment has an application pending
+121 before the ABC Board) to sell, exchange as part of a commercial transaction, or deliver Schedule
+122 I substances or products that contain Schedule I substances.”.
+123 (3) Subsection (g) is amended as follows:
+124 (A) Paragraph (1) is amended as follows:
+125 (i) Strike the phrase “this title” and insert the phrase “this act” in
+126 its place.
+127 (ii) Strike the phrase “cannabis and cannabis products” and insert
+128 the phrase “cannabis, cannabis products, Schedule I substances, or products that contain
+129 Schedule I substances” in its place.
+130 (B) A new paragraph (6) is added to read as follows:
+131 “(6) The ABC Board may continue the summary closure, padlocking of the
+132 premises, and seizure of cannabis, cannabis products, Schedule I substances, and products
+133 containing Schedule I substances until the imminent danger that triggered the summary closure is
+134 abated. Even if the imminent danger that triggered the summary closure is abated, the ABC
+5
+
+135 Board may continue the summary closure, the padlocking of the premises, and the seizure of
+136 cannabis, cannabis products, Schedule I substances, and products containing Schedule I
+137 substances, if the ABC Board determines, in its reasonable judgment, the imminent danger is
+138 likely to recur.”.
+139 (4) A new subsection (g-1) is added to read as follows:
+140 “(g-1)(1) The ABC Board may summarily close and order the padlocking, by ABCA or
+141 MPD without a prior hearing, of a licensed establishment, and ABCA or MPD may seize all
+142 cannabis, cannabis products, Schedule I substances, and products containing Schedule I
+143 substances found at the premises, if, after an inspection, ABCA determines that the licensed
+144 establishment presents an imminent danger to the health and safety of the public for the reasons
+145 set forth in subsection (g)(2)(C) through (G) of this section.
+146 “(2) ABCA shall provide the licensed establishment’s owner and the property
+147 owner with written notice of the summary closure and the right to request a hearing.
+148 “(3) The owner of the licensed establishment shall have 5 business days after
+149 service of the notice of summary closure to request a hearing with the ABC Board, which shall
+150 hold a hearing within 5 business days of a timely request.
+151 “(4) The ABC Board shall issue a written decision within 5 business days after the
+152 hearing, or if no hearing is requested, within 10 business days after the service of the notice.
+153 “(5) The ABC Board may continue the summary closure, padlocking of the
+154 premises, and seizure of cannabis, cannabis products, Schedule I substances, and products
+155 containing Schedule I substances until the imminent danger that triggered the summary closure is
+156 abated. Even if the imminent danger that triggered the summary closure is abated, the Board may
+157 continue the summary closure, the padlocking of the premises, and the seizure of cannabis,
+6
+
+158 cannabis products, Schedule I substances, and products containing Schedule I substances, if the
+159 ABC Board determines, in its reasonable judgment, the imminent danger is likely to recur.”.
+160 (5) Subsection (h) is amended as follows:
+161 (A) Paragraph (1) is amended to read as follows:
+162 “(1) ABCA or the Metropolitan Police Department may post signage at the site of
+163 the unlicensed establishment or licensed establishment indicating that activity that violates this
+164 act has been found to have occurred at the establishment.”.
+165 (B) Paragraph (2) is amended by striking the phrase “unlicensed
+166 establishment” and inserting the phrase “unlicensed establishment or licensed establishment” in
+167 its place.
+168 (6) Subsection (i)(1) is amended to read as follows:
+169 “(i)(1) An ABCA investigator may test cannabis and cannabis products found at a
+170 licensed establishment or unlicensed establishment to quantify their THC content and may, to the
+171 extent the investigator has probable cause to do so, test other substances and products found at a
+172 licensed establishment or unlicensed establishment for the presence and quantity of a Schedule I
+173 substance.”.
+174 Sec. 3. Fiscal impact statement.
+175 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+176 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+177 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+178 Sec. 4. Effective date.
+179 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+180 the Mayor, action by the Council to override the veto), a 30-day period of congressional review
+7
+
+181 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+182 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the D.C.
+183 Register.
+184 (b) This act shall expire after 225 days of its having taken effect.
+8

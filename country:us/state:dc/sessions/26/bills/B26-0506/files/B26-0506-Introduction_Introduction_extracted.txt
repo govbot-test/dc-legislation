@@ -1,0 +1,413 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+November 24, 2025
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is proposed
+bill, the “Modification Nos. M0002 and M0003 to Contract No. CW121533 with Brandywine
+Valley SPCA Approval and Payment Authorization Emergency Act of 2025,” and the
+accompanying emergency declaration resolution in the amount of $8,173,916.
+The legislation will approve option year 1 of Contract No. CW121533 with Brandywine Valley
+SPCA to provide comprehensive animal control services, including operation of the District of
+Columbia’s animal shelter and animal disease prevention services, and authorize payment for
+goods and services received and to be received under option period 1 of the contract.
+If you have any questions regarding this legislation, please have your staff contact Marc Scott,
+Chief Operating Officer, Office of Contracting and Procurement, at (202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Muriel Bowser
+
+~
+1
+2
+3 at the request of the Mayor
+4
+5
+6
+7 ABaL
+8
+9
+10
+11
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+13
+14
+15
+16 To approve, on an emergency basis, Modification Nos. M0002 and M0003 to Contract No.
+17 CW121533 with Brandywine Valley SPCA to provide comprehensive animal control
+18 services, including operation of the District of Columbia's animal shelter and animal
+19 disease prevention services, and to authorize payment for the goods and services received
+20 and to be received under the modifications.
+21
+22 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 act may be cited as the "Modification Nos. M0002 and M0003 to Contract No. CW121533 with
+24 Brandywine Valley SPCA Approval and Payment Authorization Emergency Act of 2025".
+25 Sec. 2. Pursuant to Section 451 of the District of Columbia Home Rule Act, approved
+26 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+27 requirements of Section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+28 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification
+29 Nos. M0002 and M0003 to Contract No. CW121533 with Brandywine Valley SPCA to provide
+30 comprehensive animal control services, including operation of the District of Columbia's animal
+31 shelter and animal disease prevention services, and authorizes payment of $8,173,916 for the
+32 goods and services received and to be received during the period October 29, 2025 through
+33 September 30, 2026.
+34 Sec. 3. Fiscal impact statement.
+
+35 The Council adopts the fiscal impact statement provided by the Chief Financial Officer as
+36 the fiscal impact statement required by Section 4a of the General Legislative Procedures Act of
+37 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+38 Sec. 4. Effective date.
+39 This act shall take effect following approval by the Mayor (or in the event of veto by the
+40 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+41 90 days, as provided for emergency acts of the Council of the District of Columbia in Section
+42 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+43 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive)
+(A) Contract Number: CW121533
+Modification M0003
+Proposed Contractor: Brandywine Valley SPCA
+Proposed Contractor’s Principals: Adam Lamb – Chief Executive Officer
+Contract Amount: $8,173,916
+Unit and Method of Compensation: Monthly
+Term of Contract: October 29, 2025 through September 30, 2026
+(Option Period One)
+Type of Contract: Firm-Fixed Price
+Source Selection Method: Negotiated (pursuant to DC Code 8-1802)
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: $9,907,000
+Council Approval Number:
+CA25-1133
+Option Period 1 Amount: $8,173,916
+Explanation of difference from base period (if applicable):
+The amount for the base period includes cost associated with start-up and transition services.
+1
+
+Option Period 2 Amount: $8,917,000
+Explanation of difference from base period (if applicable):
+The amount for the base period includes cost associated with start-up and transition services.
+Option Period 3 Amount: $8,917,000
+Explanation of difference from base period (if applicable):
+The amount for the base period includes cost associated with start-up and transition services.
+Option Period 4 Amount: $8,917,000
+Explanation of difference from base period (if applicable):
+The amount for the base period includes cost associated with start-up and transition services.
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The District of Columbia Office of Contracting and Procurement (OCP), on behalf of the Department
+of Health (DC Health), Health Systems and Preparedness Administration (HSPA)/Environmental
+Health Administration (EHA), seeks a qualified contractor to provide comprehensive animal control,
+operation of the District of Columbia’s (District) animal shelter, and animal disease prevention
+services to protect the public health and safety of the residents, and visitors of the District.
+The Contractor shall perform the required services consistent with District laws. These services
+include animal control field services and animal shelter services. Coverage will include standard
+hours of operation as well as an on-call after-hours service for emergencies.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+The selection process for this contract was pursuant to DC Code 8-1802 which reads:
+“The Mayor may contract, either by negotiation or competitive bid, with a District of Columbia
+humane organization to serve as the Animal Care and Control Agency. The Mayor may delegate
+all or part of his authority under this subchapter, including the issuance of notices of violations,
+to the Animal Care and Control Agency.”
+The previous contractor for this service informed DC Health in July 2024 that they were unable to
+continue fulfilling several core functions of the animal care and control contract and were unable to
+extend services past December 31, 2024. This decision curtailed the District’s plan leaving little time
+to hire and train staff, purchase materials and equipment, and run a full transition to be prepared for
+fully operational services by January 1, 2025. To avoid serious disruption in District services, DC
+Health and OCP determined it to be in the best interest of the District to negotiate a contract with
+Brandywine Valley SPCA to serve as the District’s Animal Care and Control agency.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+2
+
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+None
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+None
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Brandywine Valley SPCA has been providing animal shelter services for nearly a century. They care
+for over 17,000 animals annually with a 93% save rate. They have demonstrated through past
+performance reports that its organization has the history, organizational and technical experience,
+including the key personnel required to successfully meet the requirements of the proposed contract.
+Likewise, it has been determined that the proposed contractor maintains the financial resources,
+accounting and operational controls to successfully fulfill the District’s requirement. The contractor
+has been determined responsible in accordance with the District’s standards for responsibility.
+(H) The period of performance associated with the proposed change, including date as of which
+the proposed change is to be made effective:
+The period of performance for Modification M0002 is October 29, 2025 through December 2,
+2025. The proposed Modification M0003 period of performance is December 3, 2025 through
+September 30, 2026.
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+Modification M0002 was executed in the amount of $743,083
+The proposed Modification M0003 amount is $7,430,833
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+$8,173,916
+(K) The date on which the contracting officer was notified of the proposed change:
+October 24, 2025
+3
+
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+An option renewal Council package was submitted timely however, due to unexpected delays in the
+package review and approval process, there was insufficient time to obtain Council approval prior
+to the start date of the option period.
+(M) The reason for the proposed change:
+The contracting officer issued contract modification M0002 to continue animal care and control
+operations in the District.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+In accordance with 27 DCMR, Chapter 20, Section 2008, the contracting officer is authorized to
+exercise options.
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+The contractor has certified, via the Bidder/Offeror Certification form, that it is (1) not in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2)
+currently is not and will not be in violation of section 334a of the Board of Ethics and Government
+Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2011, D.C.
+Official Code § 1-1163.34a.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+The Department of Small and Local Business Development approved a full waiver on October 28,
+2024.
+(Q) Performance standards and the expected outcome of the proposed contract:
+The District expects the contractor to comply with the performance standards and requirements set
+forth in the contract. The District's overall expected outcome for the contractor to reduce the risks of
+4
+
+disease and protect public health by providing animal disease prevention and animal control services.
+Some specific outcomes are to:
+1. Reduce the number of stray animals that are impounded
+2. Decrease animal attacks and bites
+3. Increase rabies and distemper vaccination of animals
+4. Decrease euthanasia of adoptable animals
+5. Increase compliance with animal control laws
+6. Increase animal licensing
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+$743,083
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The DHCF Agency Fiscal Officer certified that funding in the amount of $8,173,916 is available to
+support the contract.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The proposed contract has been deemed legally sufficient by the Office of the Attorney General and
+the contractor does not have any pending legal claims against the District as referenced in the Bidder/
+Offeror Certification form.
+(U) A certification that Citywide Clean Hands database indicates that the proposed contractor is
+current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands database certified that the contractor is current with its District taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+The contractor has self-certified, via the Bidder/Offeror Certification form, that it is current with its
+federal taxes.
+5
+
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended; D.C. Official Code § 2-218.01 et seq.:
+The contractor is not a certified local, small or disadvantaged business enterprise.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+As of October 24, 2025 the contractor does not appear on the Office of Inspector General
+Exclusions Database, the Federal Excluded Parties List or the District’s list of Debarred and
+Suspended Contractors.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination and Findings for Contractor’s Responsibility, dated October 27, 2025
+Determination and Findings for Price Reasonableness, dated, October 27, 2025
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+www.ocp.dc.gov
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+www.ocp.dc.gov
+6
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: October 23, 2025 Notice Number: L0015155346
+BRANDYWINE VALLEY SOCIETY FOR THE PREVENTION FEIN: **-***1030
+1212 PHOENIXVILLE PIKE Case ID: 18755667
+WCEST CHESTER PA 19380-4045
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+* * * Governmentofthe DistrictofColumbia
+OfficeoftheChiefFinancialOfficer
+DepartmentoffHealth
+MEMORANDUM
+To: ‘NancyHapeman
+ChiefProcurementOfficer
+Office ofContracting and Procurement
+THR DeliciVa.Moore
+AssociateChiefFinancialOfficer AdreanaA. roa!
+Deane
+HumanServices Support Cluster
+AdreanaDeane
+FROM: Agency FiscalOfficer Delicia V. ppatrona
+DepartmentofHealth gore
+October24,2025
+DATE:
+SUBJECT: Certification ofFundingAvailabilityforBrandywineValleySPCAContract#CW121533
+*< * +
+e
+l
+O
+‘TheOfficeoftheChiefFinancial Officer hereby certifiesthatthesumof$8,173,916 isincluded inthe
+District'sLocal fundingand FinancialPlan forFiscalYear2026to fund thecosts associated with theDepartmentof
+Health'scontract with BrandywineValleySPCAforanimalcare services fortheDistrictofColumbia. Funding in
+FY2026iscontingentuponareprogramming internalwithin theDepartmentofHealth. Thiscertificationsupports
+theBrandywine Valley SPCAcontract duringtheperiod fromOctober29,2025toSeptember30,2026.This
+certification replacestheoriginalrequestdatedOctober6,2025.The fund allocation isas follows:
+‘Vendor: Brandywine Valley SPCA Contract#: CW121533,
+FiscalYear2026 Funding Period: 10/29/2025to 12/03/2025,
+FY Agency ] Fund | Program| Cost | Account| Award | Project| Task/Su| | Amount
+Code Center btask
+2026| co | 1010001| 700395 | 70595 | 7132001 | 1000099 | 202187| 60.06 |~ 743,083.00
+FY2026ContractTotal: 743,083.00
+FiscalYear2026Funding Period: 12//04/2025 to09/30/2026
+FY [Agency | Fund | Program| Cost | Account| Award | Project| Task/Su | Amount
+Code Center btask
+2026 | co | to10001 | 0039s | 70595 | 7132001 | 1000099| 202187| 60.06| 7,430,833.00
+FY2026ContractTotal: '$7,430,833.00
+‘Uponapprovalofthe District’sLocalBudgetandFinancial Planby theCouncilandtheMayorandcompletion
+ofthe thirty-dayCongressional layover,fundswillbesufficienttopay forfeesandcostsassociatedwiththe
+contract. Thereisnofiscal impactassociatedwiththecontract.
+Should youhaveanyquestions,pleasecontact meat202-442-9222,
+2201 ShannonPlaceSE, NIE. -4 Floor+ Washington,D.C, 20020»Phone(202)442-5955
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: November 10, 2025
+SUBJECT: Approval of Contract for Animal Care and Control Services in the District
+Contractor: Brandywine Valley SPCA
+Contract Number: CW121533
+Contract Amount: $8,173,916
+This is to Certify that this Office has reviewed the above-referenced Contract and that we have
+found it to be legally sufficient contingent upon receiving 1) an updated First Source Agreement
+is obtained from the Contractor, and 2) that the Contractor provides a Certificate of Insurance with
+an umbrella coverage that is scheduled under all liabilities. If you have any questions in this regard,
+please do not hesitate to call me at (202) 724-4018.
+______________________________
+Robert Schildkraut
+400 6th Street NW, Suite 9100, Washington, DC 20001 (202) 727-3400
+
+for
+10/28/2025
+
+T. ContractNumber PageofPages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT cwi21533 a
+2, AmendmentModifeationNumber| 3.ElfeciveDate 4 Requstion’PurchaseRequestNo, | 6.SofctationCaption
+0003 Tooumboe3, ‘AnimalCareandControlServices
+©. Issuedby: Code|HCOTNS._| 7. Adminbiy(sTottheertrhaenTnde 6)
+Governmentofthe District ofColum DC Health
+OfficeofContractingand Procurement 2201 Shannon Place, SE,
+2201 Shannon Place, SE Washington, DC 20002
+Washington DC 20020
+'& NameandAddressofContractor(No. sree,cy,couny,saleandZipcade) A AmendientofSovataonNo
+Brandywine Valley SPCA 98. Dated(SeeTem 1)
+1212 Phoenixville Pike TOR. MoaiictionofContracvOrderNo,
+WestChester, PA 19380 x) ewi2is33
+70B. Dated(SeeTem T3)
+Code Facity 10/29/2024
+Ti.THISITEMONLYAPPLIESTOAMENDMENTSOFSOLICITATIONS:
+[tneabovenumberedsoliciistaamtenidoendassetforthintem14. ThehouranddatespeciiedforreceiptofOfers [isextended. [] isnot extended,
+(fiersmustacknowledgereceiptofhis amendmentprtthehouranddatespeciedinthesolalionorasamended, byoeoftheallowing methods
+(@)Bycompletinglems8and18and return copiesoftamendment (0)Byacknowledgingrecapofthis amendmentoneachcopyofhe oer
+submited,orc)BYsoparateteror foxwhichincludesaterencetothesolitonandamendment number. FAILUREOF YOURACKNOWLEDGMENT TO.
+BBERECEIAVTTEHDE PLACE DESIGNATEDFORTHERECEIPTOFOFFERSPRIORTO THe HOURAND DATESPECIFIEDMAYRESULTINREJECTION
+OF YOUROFFER. Ifbyvituoofthisamendmentyoudesiretochangeanfralready submited, suchmaybemadobylaterofa,povidedwacheterot
+telegrammakesreferencetothesoelation andtsamendmen, andsraclvedprotopeing houraddalespaced
+2. AccountingandAppropriationData(ifRequired)
+15. THISITEMAPPLIESONLYTOMODIFICATIONS OFCONTRACTSIORDERS,
+ITMODIFIESTHECONTRACTIORDERNO. ASDESCRIBED INITEM 14
+"A Thischangeorderislesuedpursuantto(SpecifyAuthoriy):
+'B. TheabovenumberedcontracVorderfsmodifiedtoreflecthe adminisralivechanges (euchaschangesinpaying office,appropriationdata
+tc.)setforthinitem 14, pursuanttotheauthorityof
+. Thissupplementalagreementisenteredintopursuanttoauthorlyof 27DOMR601.2
+X_ |B.OtherSpeayypeofmodificationand authoriy) ExerciseofOption
+ContractorBYisnot [J's requiredtosign thisdocument and return 1 estothe issuing office,
+4. DescofArmenidmepnt/tModiifiocalinon(OrganizedbyUCFSectionheadings,includingsolictaion/contractsubjectmalterwherefeasible)
+a) In accordancewith Section F.2 “Option to Extend the Term ofthe Contract,” the Governmentofthe
+District of Columbia hereby exercises the remainderofoption period one from December 3,2025
+through September30, 2026 in the amountof$7,430,833.
+b) The full period ofperformance foropt n period one is October29, 2025 through September30, 2026
+in theamountof$8,173,916.
+Exceptasprovidedherein, altermsand condiionsoffhedocumentisreferencedinNem 9Aor10Aremainunchangedand infu forosand effec
+TBA. Ni TileofSigner(Typg orprint) 6A. NameofContractingOfficer
+meh tat 2eSemStpDaT_| Monica Bailey Delissaint Se
+eeOy ppp
+Sateofpsonaonzestosn) {SiofqConorcttngyneea

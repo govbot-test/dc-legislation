@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-177
+4
+5
+6 IN THE COUNCIL OF DISTRICT OF COLUMBIA
+7
+8 _________________
+9
+10 To amend the Rental Housing Act of 1985 to prevent housing providers from evicting tenants on
+11 any day when the temperature is predicted to be above 95 degrees.
+12
+13 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+14 act may be cited as the "Extreme Heat Eviction Protection Amendment Act of 2025".
+15 Sec 2. Section 501(k) of the Rental Housing Act of 1985, effective July 17, 1985 (D.C.
+16 Law 6-10; D.C. Code § 42-3505.01(k)), is amended as follows:
+17 (a) Strike the phrase "Celsius; or" and insert the phrase "Celsius;" in its place.
+18 (b) Strike the phrase "rental unit." and insert the phrase "rental unit; or" in its place.
+19 (c) Add a new paragraph (3) to read follows:
+20 "(3) On any day when the National Weather Service predicts at 8:00 a.m. the temperature
+21 at the National Airport weather station will rise above 95 degrees Fahrenheit or 35 degrees
+22 Celsius.".
+23 Sec. 3. Fiscal impact statement.
+24 The Council adopts the fiscal impact statement in the committee report as the fiscal
+25 impact statement required by 4a of the General Legislative Procedures Act of 1975, approved
+26 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+1
+
+ENGROSSED ORIGINAL
+27 Sec. 4. Effective date.
+28 This act shall take effect following approval by the Mayor (or in the event of veto by the
+29 Mayor, action by the Council to override the veto), a 30-day period of Congressional review as
+30 provided in sections 602(c)(1) of the District of Columbia Home Rule Act, approved December
+31 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+2

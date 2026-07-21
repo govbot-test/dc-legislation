@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-490
+4
+5 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+6
+7 _________________________
+8
+9
+10 To prohibit the District of Columbia Public Library from entering into or renewing licensing
+11 agreements with publishers of electronic literary materials that restrict District residents’
+12 access to books.
+13
+14 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+15 act may be cited as the “Library E-Book Licensing Fairness Amendment Act of 2026”.
+16 Sec. 2. An Act To establish and provide for the maintenance of a free public library and
+17 reading room in the District of Columbia, approved June 3, 1896 (29 Stat. 244; D.C. Official Code
+18 § 39-101 et seq.), is amended by adding a new section 18 to read as follows:
+19 “Sec. 18. Restrictions on licensing agreements for electronic materials.
+20 “(a) For the purposes of this section, the term:
+21 “(1) “Aggregator” means any person in the business of licensing access to
+22 electronic literary material collections that include electronic literary material from multiple
+23 publishers.
+1
+
+ENGROSSED ORIGINAL
+24 “(2) “All access collection” mean a pre-packaged selection of electronic literary
+25 materials, including but not limited to, electronic books, digital audiobooks, magazines, comics,
+26 and graphic novels available simultaneously for patron usage for one flat fee.
+27 “(3) “Borrower” means a person or organization, including another library, to
+28 whom the library loans media of any sort.
+29 “(4) “Digital audiobook” means a sound recording of a reading of any literary
+30 material that has been converted into or published in a digital audio file that may be listened to on
+31 an electronic device.
+32 “(5) “Electronic book” means a text document that has been converted into or
+33 published in a digital format that may be read on an electronic device.
+34 “(6) “Electronic literary material” means any digital audiobook or electronic book.
+35 “(7) “Library” means the District of Columbia Public Library.
+36 “(8) “Loan” means the creation and transmission by a library to a borrower of a
+37 copy of any electronic literary material and the library’s removal of the borrower’s access to that
+38 copy upon the expiration of the loan period.
+39 “(9) “Loan period” means the period of time commencing with the library’s
+40 creation and transmission of a copy of any electronic literary material to a borrower and concluding
+41 with the library’s deletion of that copy,
+42 “(10) “Publisher” means any person in the business of the manufacture,
+43 promulgation, license or sale of books, audiobooks, journals, magazines, newspapers or other
+2
+
+ENGROSSED ORIGINAL
+44 literary materials, including those in the form of electronic literary materials, and includes any
+45 aggregator who enters into a contract with any library for the purpose of providing materials for
+46 purchase or license.
+47 “(11) “Subscription-based literary platform” means any platform which charges
+48 users a recurring fee to gain ongoing access to a collection of literary content, including, but not
+49 limited to, educational materials, electronic books, digital audiobooks, and serialized stories.
+50 “(12) “Technological protection measure” means any technology that enhances the
+51 security of loaning or circulating electronic literary materials by a library.
+52 “(b) Once per quarter, the Executive Director of the Library (“Director”) shall report to the
+53 Board of Library Trustees (“Board”) whether any states have enacted laws substantially similar to
+54 this section. If the Board determines that a law substantially similar to the provisions of this section
+55 has been enacted in ten or more states, not including the District of Columbia, and the aggregate
+56 population of such states equals at least 50,000,000 people, as enumerated in the most recent
+57 United States decennial census, the Board shall direct the Director to publish notice of the Board’s
+58 determination in the District of Columbia Register (“Register”).
+59 “(c) Not later than thirty days after the publication in the Register of the Board’s
+60 determination under subsection (b), the Director shall electronically notify the Council of such
+61 determination and the date the requirements of subsection (d) are projected to take effect.
+62 “(d) Beginning on the sixtieth day after publication in the Register of the Board’s
+63 determination under subsection (b), the Library shall not enter into or renew any contract with a
+3
+
+ENGROSSED ORIGINAL
+64 publisher that limits the Library’s loaning of digital materials to borrowers, including any
+65 provision that:
+66 “(1) Prohibits the Library from loaning any electronic literary material, including
+67 through any interlibrary loan system;
+68 “(2) Restricts the number of times the Library may loan any electronic literary
+69 material over the course of the contract if such contract also restricts the library’s loan period for
+70 electronic library material;
+71 “(3) Limits the number of electronic literary material licenses the Library may
+72 purchase on the same date such electronic literary material is made available for purchase by the
+73 public;
+74 “(4) Requires the Library to acquire licenses for electronic literary materials at a
+75 price the Board finds to be unconscionable due to the gross disparity between the price of the
+76 electronic literary material sold or leased and the value of an electronic literary material measured
+77 by the price at which a similar electronic literary material is readily obtainable in transactions by
+78 like buyers;
+79 “(5) Restricts the Library from disclosing the terms of the contract or license
+80 agreement to any other library;
+81 “(6) Restricts the duration of the contract or license agreement for electronic literary
+82 material unless the library also has the option of a contract or license agreement on commercially
+4
+
+ENGROSSED ORIGINAL
+83 reasonable terms in consideration of the library’s mission that either (A) is based on a pay-per-use
+84 model; or (B) provides for the perpetual public use of the electronic literary material;
+85 “(7) Provides that the contract is not severable from any provision within such
+86 contract that is found to be prohibited by this subsection; or
+87 “(8) Allows the enforcement of any of the provisions prohibited by this subsection
+88 other than in a judicial forum.
+89 “(e) Subsection (d) shall not be construed to preclude the Library’s entrance into a contract
+90 with a publisher that:
+91 “(1) Contains:
+92 “(A) A limitation on the number of borrowers the Library may allow to have
+93 simultaneous access to any electronic literary material; or
+94 “(B) A provision concerning the Library’s reasonable use of any
+95 technological protection measure that prevents a borrower from:
+96 “(i) Maintaining access to any electronic literary material beyond
+97 the access period specified in the contract or license agreement; or
+98 “(ii) Providing other borrowers with access to any electronic literary
+99 material; or
+100 “(2) Permits:
+101 “(A) The Library or District to arrange or participate in a local, regional, or
+102 nationwide event that requires simultaneous access by multiple patrons to the same electronic
+5
+
+ENGROSSED ORIGINAL
+103 literary material, provided that the contract does not restrict electronic literary material other than
+104 the material that is the subject of the event under subsection (d) of this section;
+105 “(B) The Library to provide patron access to a subscription-based literary
+106 platform; or
+107 “(C) The Library to provide electronic literary materials via an all access
+108 collection of materials, provided that the contract does not restrict electronic literary material
+109 outside of the all access collection under subsection (d) of this section”.
+110 Sec. 3. Fiscal impact statement.
+111 The Council adopts the fiscal impact statement in the committee report as the fiscal impact
+112 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+113 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+114 Sec. 4. Effective date.
+115 This act shall take effect after approval by the Mayor (or in the event of veto by the Mayor,
+116 action by the Council to override the veto), a 30-day period of congressional review as provided
+117 in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87
+118 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+6
