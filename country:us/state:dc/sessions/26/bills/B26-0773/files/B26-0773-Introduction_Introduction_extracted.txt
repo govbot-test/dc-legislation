@@ -1,0 +1,601 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1
+2
+3 ________________________ _____________________________
+4 Councilmember Anita Bonds Councilmember Wendell Felder
+5
+6
+7
+8
+9 ____________________________ ____________________________
+10 Councilmember Matthew Frumin Councilmember Brooke Pinto
+11
+12
+13 A BILL
+14
+15 ______
+16
+17 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+18 ______
+19
+20 To authorize the Mayor to enter the District of Columbia into the Interstate Dental and Dental
+21 Hygiene Licensure Compact; to allow for expedited licensure and access to dental health
+22 care through licensure boards acting in cooperation with the Compact; to adopt the
+23 existing licensure, information sharing, and investigatory structures utilized by Dental
+24 Boards across the United States; to allow for the sharing among Compact Member States
+25 of ongoing investigations, non-public complaints, and disciplinary actions against
+26 licensees in the Compact Member States; to clarify that the District retains the right to
+27 impose an adverse action on a licensee as a home state or as a practicing state; to clarify
+28 that the District has an opportunity to share investigations and information with the home
+29 state of licensure; to establish the Interstate Dental and Dental Hygiene Compact
+30 Licensure Commission operated by state dental board members, administrators and other
+31 staff.
+32
+33 BE IT ENACTED BY THE COUNCIL OF THE DISTICT OF COLUMBIA, That this
+34 act may be cited by the “Interstate Dental and Dental Hygiene License Act of 2026.”
+35 Sec. 2. Definitions.
+36 As used in this Compact:
+37 (1) “AADB” means the American Association of Dental Boards (AADB) or its named
+38 successor, formerly known as the American Association of Dental Examiners (AADE),
+1
+
+39 originally chartered on September 10th, 1896 and renewed in 1944, comprised of State Dental
+40 Boards in the United States and its territories;
+41 (2) “Attorneys’ Committee” means the committee of attorneys who currently represent a
+42 Member State Dental Board. The Attorneys’ Committee shall designate one of its members to
+43 participate in the Commission as a non-voting member. An attorney that has previously served as
+44 an attorney for a Member State Dental Board may be invited on a year-to-year basis to serve on
+45 the Attorneys’ Committee if they have not engaged in an official case against a State Dental
+46 Board or have any other conflict of interest. The Attorneys’ Committee may assist the
+47 investigators in working through joint investigation issues between states;
+48 (3) “Active-duty military person or spouse” means a Licensee in full-time active-duty
+49 status in the active uniformed services of the United States, including members of the National
+50 Guard and Reserves. The legal spouse of the military member must be recognized by the military
+51 unit as a dependent while the service member is on active duty. Spouses shall receive the same
+52 privileges as military members for the purpose of this Compact;
+53 (4) “Active Investigation” means an active investigation potentially resulting in formal
+54 allegations or charges precipitating a judicial process by a State Dental Board, oversight agency,
+55 or other law enforcement entity;
+56 (5) “Adverse Action” means an order issued by a State Dental Board or reported to the
+57 clearinghouse pursuant to the Commission’s Bylaws and rules that disciplines a Licensee.
+58 Adverse Action includes, and is not limited to, the suspension, limiting, or revocation of a
+59 License or Compact License Privilege; the imposition of fees and sanctions; and any temporary
+60 emergency order that may be later withdrawn by a Board;
+2
+
+61 (6) “ADEX examination” means the initial licensure examinations developed by the
+62 American Board of Dental Examiners, Inc. or its successor;
+63 (7) “Bylaws” means the bylaws passed by the Commission or its named successor
+64 commission;
+65 (8) “Clearinghouse” means the clearinghouse and databank that houses prior Adverse
+66 Action documentations, orders and denials of licensure or permits from State Dental Boards that
+67 is administered by the AADB or its successor;
+68 (9) “CODA” means the Commission on Dental Accreditation or its successor as approved
+69 by the United States Department of Education;
+70 (10) “Commission” means the Interstate Dental and Dental Hygiene Compact Licensure
+71 Commission created pursuant to Section 3 of this Act.
+72 (11) “Commissioners” means the 2 members chosen by each Member State Dental Board
+73 to serve as the voting members of the Commission;
+74 (12) “Compact” means the Interstate Dental and Dental Hygiene Licensure Compact
+75 created pursuant to Section 3 of this Act;
+76 (13) “Compact License Privilege” means the expedited dental or dental hygiene license to
+77 practice in a Member State that is not the Licensee’s Home State;
+78 (14) “Conviction” means an adjudication or formal judgment by a court that an individual
+79 is guilty through a plea of guilty or no contest, or a finding of guilt by the court. Evidence of a
+80 conviction of a criminal offense by the court shall be considered final for the purposes of
+81 considering or imposing disciplinary action by a Member State Dental Board;
+82 (15) “Criminal background check” means a criminal background check using the results
+83 of fingerprint or other biometric data checks compliant with the requirements of the Federal
+3
+
+84 Bureau of Investigation, with the exception of federal employees who have suitability
+85 determination in accordance with 5 C.F.R. 731.202;
+86 (16) “Dental hygienist” means any person who:
+87 (A) Has successfully graduated from a CODA-approved dental hygiene school;
+88 (B) Has successfully passed the ADEX dental hygiene licensure examination; or
+89 has been in practice 5 years or more and has successfully passed a Regional Board Examination
+90 or equivalent state- administered psychomotor licensure examination prior to January 1, 2024;
+91 (C) Has successfully passed the written national dental hygiene board
+92 examination administered by the Joint Commission on National Dental Examinations;
+93 (D) Possesses a full and unrestricted dental hygiene license issued by a Member
+94 State;
+95 (E) Has never been convicted or received adjudication, deferred adjudication,
+96 community supervision or deferred disposition for any offense (other than traffic offenses) by a
+97 court of appropriate jurisdiction;
+98 (F) Has never been a subject of discipline by a Licensing Agency through any
+99 Adverse Action, order, or other restriction of the Licensee by a Licensing Agency, with the
+100 exception of failure to pay fees or failure to complete continuing education;
+101 (G) Is not currently under Active Investigation by a Licensing Agency or law
+102 enforcement authority in any state, federal or foreign jurisdiction; and
+103 (H) Meets any jurisprudence requirement established by a Member State Dental
+104 Board of a Member State in which a Licensee is seeking a Compact License Privilege.
+105 (17) “Dental Practice Act” means the laws and regulations governing the practice of
+106 dentistry within a Member State;
+4
+
+107 (18) “Dentist” means any person who:
+108 (A) Has successfully graduated from a CODA-approved dental school;
+109 (B) Has successfully passed the ADEX dental licensure exam; or has been in
+110 practice 5 years or more and has successfully passed a Regional Board Examination or
+111 equivalent state-administered psychomotor licensure examination prior to January 1, 2024;
+112 (C) Has successfully passed the written National Dental Board Exam
+113 administered by the Joint Commission on National Dental Examinations;
+114 (D) Possesses a full and unrestricted dental license issued by a Member State
+115 Dental Board;
+116 (E) Has never been convicted or received adjudication, deferred adjudication,
+117 community supervision, or deferred disposition for any offense (other than traffic offenses) by a
+118 court of appropriate jurisdiction;
+119 (F) Has never been a subject of discipline by a Licensing Agency through any
+120 Adverse Action, order, or other restriction of the Licensee by a Licensing Agency, with the
+121 exception of failure to pay fees or failure to complete continuing education;
+122 (G) Has never had a state or federal drug registration, permit, or license restricted,
+123 suspended, or revoked by the United States Drug Enforcement Administration or any Licensing
+124 Agency that oversees scheduled drug registrations;
+125 (H) Is not currently under Active Investigation by a Licensing Agency or law
+126 enforcement authority in any state, federal or foreign jurisdiction; and
+127 (I) Meets any jurisprudence requirement established by a Member State Dental
+128 Board in which a Licensee is seeking a Compact License Privilege;
+129 (19) “Home State” means the state of primary licensure of a Licensee;
+5
+
+130 (20) “License” means the authorization by a Licensing Authority for a dentist or dental
+131 hygienist to engage in the unrestricted practice of dentistry or dental hygiene, which would be
+132 unlawful without such license;
+133 (21) “Licensee” means a Dentist or Dental Hygienist who holds an unrestricted License
+134 to practice as a dentists or dental hygienist;
+135 (22) “Licensing Agency” means the agency or other entity of a State that is responsible
+136 for the licensing of Dentists and Dental Hygienists. If a Member State Dental Board has such
+137 responsibility, it shall be deemed a Licensing Agency.
+138 (23) “Member State Dental Board” means a state agency in a Member State that protects
+139 the public through licensure, regulation, and the education of dentist and dental hygienists, as
+140 directed by the state law. All actions taken by a Member State Dental Board shall be under the
+141 authority of the laws its State and any other rights conferred under this Compact;
+142 (24) “Member State” means a state, the District of Colombia or any other United States
+143 territory that has enacted the Compact;
+144 (25) “Regional Board Examination” means initial licensure examinations administered by
+145 the Western Regional Examining Board (WREB), the North East Regional Board of Dental
+146 Examiners (NERB), the Commission on Dental Competency Assessments (CDCA), Council of
+147 Interstate Testing Agencies (CITA), Southern Regional Testing Agency (SRTA), or Central
+148 Regional Dental Testing Services (CRDTS) that assess psychomotor skills;
+149 (26) “Repository” means the repository of original documents of a Licensee that may
+150 include original transcripts, certification documents, test scores, military training records,
+151 previous or current licensing documents and other sources of materials needed for applications
+6
+
+152 and verification administered by the AADB or its successor. The Repository shall receive
+153 documents from primary or originating sources and/or verify their authenticity;
+154 (27) “Scope of practice” means the dental-related procedures that require a License,
+155 permit, or training, undertake the treatment and procedure to be completed on a patient within
+156 the Member State’s requirements;
+157 (28) “State” means a state within the United States or a United States Territory; and
+158 (29) “State jurisprudence” means the knowledge of a Member State’s laws and rules of
+159 dentistry and hygiene.
+160 Sec. 3. Compact and Commission.
+161 (a) The Member States hereby create the Interstate Dental and Dental Hygiene Licensure
+162 Compact and the Commission. Each Member State must enact a compact that is not materially
+163 different from this Compact, as determined by the Commission.
+164 (b) Each Member State Dental Board shall have 2 voting members who shall serve as
+165 Commissioners. Each Commissioner shall have one vote. Member States with separate dental
+166 and dental hygiene Licensing Agencies shall appoint one Commissioner from each licensing
+167 agency. One Commissioner shall be a current member of a Member State Dental Board.
+168 Commissioners may not delegate votes or vote by proxy, however, if a Commissioner is unable
+169 to attend, the Member State may substitute a Commissioner who meets the same requirements.
+170 (c) Upon 5 states joining the Compact, the Compact shall become active. The
+171 Commission shall adopt Bylaws upon becoming active.
+172 (d) The Commission shall meet at least once per calendar year (the “Annual Meeting”)
+173 and at additional times as necessary pursuant to the Bylaws and rules.
+7
+
+174 (e) At each Annual Meeting, the Commission shall elect a Chair, Vice Chair, Secretary,
+175 and Treasurer from the membership of the Commission (the “Officers”). The Officers shall be
+176 members of the Commission’s Executive Committee (the “Executive Committee”). The
+177 Commission shall also elect representatives from 4 regional districts established by the
+178 Commission to serve on the Executive Committee. All Officers and Executive Committee
+179 representatives shall serve one year terms.
+180 (f) Quorum for purposes of conducting business shall be a majority of Commissioners
+181 attending in person or virtually.
+182 (g) The Commission shall provide notice of all meetings on its website and in other
+183 communications to Member State Dental Boards.
+184 (h) A vote of 2/3 of the Commissioners present shall be required for an executive session
+185 to discuss:
+186 (1) Items specifically related to participation in a lawsuit or in anticipation of a
+187 legal proceeding;
+188 (2) Matters specifically exempted from disclosures;
+189 (3) Information allowing for law enforcement agencies or information that
+190 accuses a person of a crime or a public censure;
+191 (4) Discussions that would include information of a personal nature that would
+192 constitute an unwarranted invasion of personal privacy;
+193 (5) Anything considered internal practices and procedures or a trade secret;
+194 (6) Other items described in the Commission Bylaws allowing for executive
+195 sessions to be called; or
+196 (7) Advice of legal counsel.
+8
+
+197 (i) The Commission shall keep minutes and make them available to all Member States.
+198 (j) The Commission may establish other committees as needed
+199 (k) The Commission shall prepare an annual report that shall be made available to the
+200 legislatures and governors of the Member States. The annual report shall describe the activities
+201 of the Commission during the preceding calendar year. Such reports shall also include reports of
+202 the annual financial audit and any actions taken by or rules that were adopted by the
+203 Commission.
+204 Sec. 4. Duties of Compact Member States.
+205 (a) Member States shall submit to the Clearinghouse all Member State Dental Board
+206 actions and other documents and data as determined by the Commission;
+207 (b) Member States shall notify the Commission of any Adverse Action taken by the
+208 Member State Dental Board, any Active Investigation by the Member State Dental Board, any
+209 Active Investigation involving pending criminal charges, or other circumstance as determined by
+210 the Commission;
+211 (c) Any Adverse Action, order, restriction or denial of a license or permit on a Licensee
+212 or Compact License Privilege holder shall be reported to the Clearinghouse by the Member State
+213 Dental Board;
+214 (d) Member State Dental Boards may submit to the Clearinghouse nonpublic complaints,
+215 or disciplinary or investigatory information not required by Section 4(c). All investigatory
+216 material shall be considered confidential and not part of a public record unless otherwise
+217 specifically required by state statute;
+218 (e) Members States shall except continuing education credits as required or recognized by
+219 any other Member State;
+9
+
+220 (f) Documents in the Repository shall be treated by a Member State as the equivalent of a
+221 primary or original source document for licensure;
+222 (g) Member States shall accept a standardized application for a Compact License
+223 Privilege. The standardized application shall be established by the rules enacted by the
+224 Commission;
+225 (h) Member States may agree to share information regarding ongoing investigations and
+226 actions, including joint investigations between states. All investigatory material shall be
+227 considered confidential and not part of a public record unless otherwise specifically required by
+228 state statute; and
+229 (i) As part of the Compact enforcement, participating Member States may issue
+230 subpoenas and seek testimony of witnesses, which subpoenas shall be enforced in other Member
+231 States and enforced by a court of competent jurisdiction where the witnesses or evidence is
+232 located.
+233 Sec. 5. Powers and duties of the commission.
+234 (a) The Commission shall have the duty and power to:
+235 (1) Oversee and maintain the administration of the Compact, including the
+236 organizational needs, the financial activities, the hiring of personnel and ongoing activities or
+237 needs of the Commission;
+238 (2) Promulgate Bylaws and rules to operate the Compact and the Commission;
+239 (3) Establish a budget and make expenditures;
+240 (4) Have an annual financial audit performed by an independent certified public
+241 accounting firm;
+10
+
+242 (5) Issue, upon the request of a Member State Dental Board, advisory opinions
+243 concerning the meaning or interpretation of the Compact and its Bylaws, rules, and actions;
+244 (6) Enforce compliance with Compact provisions, the rules promulgated by the
+245 Commission, and the Bylaws, using all necessary and proper means, including but not limited to
+246 the use of judicial process;
+247 (7) Hold an Annual Meeting for the Commission where the elections of the
+248 Executive Committee and other issues may be discussed and voted on;
+249 (8) Establish personnel policies and programs relating to conflicts of interest, and
+250 the rates of compensation and qualifications of personnel;
+251 (9) Accept donations and grants of money, equipment, supplies, materials and
+252 services, and to receive, utilize and dispose of them in a manner consistent with the conflict-of-
+253 interest policies established by the Commission;
+254 (10) Report annually to the legislatures and governors of the Member State Dental
+255 Boards concerning the activities of the Commission during the preceding calendar year. Such
+256 reports shall also include reports of annual financial audits, all actions of the Commission, rules
+257 adopted by the Commission, and any recommendations by the Commission; and
+258 (11) Coordinate education, training and public awareness regarding the Compact,
+259 its implementation, and its operation.
+260 (b) The Executive Committee shall have the power to act on behalf of the Commission,
+261 with the exception of rulemaking, during periods when the Commission is not in session. When
+262 acting on behalf of the Commission, the Executive Committee shall oversee the administration of
+263 the Compact, including enforcement of and compliance with the Compact.
+11
+
+264 (c) The officers and employees of the Commission shall be immune from suit and
+265 liability, either personally or in their official capacity, for a claim for damage to or loss of
+266 property or personal injury or other civil liability caused or arising out of, or relating to, an actual
+267 or alleged act, error or omission that occurred, or that such person had a reasonable basis for
+268 believing occurred, within the scope of Commission employment, duties or responsibilities;
+269 provided, that such person shall not be protected from suit or liability for damage, loss, injury or
+270 liability caused by the intentional or willful and wanton misconduct of such person.
+271 (d) The liability of the executive director and employees of the Commission or
+272 representatives of the Commission, acting within the scope of such person’s employment or
+273 duties for acts, errors or omissions occurring within such person’s state may not exceed the limits
+274 of liability set forth under the constitution and laws of that state for state officials, employees and
+275 agents. The Commission shall be considered to be an instrumentality of the states for the
+276 purposes of any such action. Nothing in this subsection shall be construed to protect such person
+277 from suit or liability for damage, loss, injury or liability caused by the intentional or willful and
+278 wanton misconduct of such person.
+279 (e) The Commission shall defend the Commission’s executive director, its employees,
+280 and, subject to the approval of the attorney general or other appropriate legal counsel of the
+281 Member State represented by an Commission representative, shall defend such Commission
+282 representative in any civil action seeking to impose liability arising out of an actual or alleged
+283 act, error or omission that occurred within the scope of Commission employment, duties, or
+284 responsibilities, or that the defendant had a reasonable basis for believing occurred within the
+285 scope of Commission employment duties, or responsibilities, provided that the actual or alleged
+12
+
+286 act, error or omission did not result from intentional or willful and wanton misconduct on the
+287 part of such person.
+288 (f) To the extent not covered by the state involved, Member State, or the Commission, the
+289 representatives or employees of the Commission shall be held harmless by the Commission in
+290 the amount of a settlement or judgment, including attorney fees and costs, obtained against such
+291 persons arising out of an actual or
+292 alleged act, error or omission that occurred within the scope of Commission employment, duties,
+293 or responsibilities, or that such persons had a reasonable basis for believing occurred within the
+294 scope of Commission employment, duties, or responsibilities, provided that the actual or alleged
+295 act, error or omission did not result from intentional or willful and wanton misconduct on the
+296 part of such persons.
+297 Sec. 6. Application, eligibility, and issuance of compact license privilege to a member
+298 state.
+299 (a) A dentist or dental hygienist applying for Compact License Privileges shall meet the
+300 requirements of a Dentist as listed in Section (2)(r) of this Compact or a Dental Hygienist as
+301 listed in Section (2)(p) of this Compact and hold a current License in a Member State under this
+302 Compact.
+303 (b) Each Dentist or Dental Hygienist shall designate a Home State of licensure. The
+304 Home State shall be determined by:
+305 (1) The State of primary residence for the Dentist or Dental Hygienist, where 25%
+306 of their practice within one year occurs. An active-duty military member or their spouse may
+307 choose a Home State as designated with the military but are not required to meet the requirement
+308 of 25% practice being within their Home State; or
+13
+
+309 (2) If no State qualifies under Section 6(b)(1), then the State that the Dentist or
+310 Dental Hygienist listed as their state of residence on the previous year’s federal tax return.
+311 (c) A Dentist or Dental Hygienist may redesignate a Home State no more than one time
+312 in a calendar year if the qualifications of a Home State are met.
+313 (d) A Dentist or Dental hygienist seeking a Compact License Privilege (the “Applicant”)
+314 shall apply to their Home State Dental Board for a letter stating that the Applicant is eligible for
+315 Compact License Privileges.
+316 (e) The Home State Dental Board shall determine the eligibility of an application for a
+317 Compact License Privilege and shall issue a letter of approval or denial of the application for a
+318 Compact License Privilege.
+319 (f)(1) The letter from the Applicant’s Home State Dental Board approving the application
+320 shall be submitted to the Member State Dental Board for the Member State in which the
+321 Applicant proposes to practice, and shall include:
+322 (A) the Compact application packet;
+323 (B) authorization to seek access to the Applicant’s Repository documents;
+324 (C) any additional information that may be required by the proposed
+325 Compact License Privilege state; and
+326 (D) any required fees.
+327 (2) The Member State Dental Board shall review the application to confirm
+328 compliance with the Member State’s laws and regulations. Following such review, if the
+329 Member State Dental Board approves the application, it shall issue a Compact License Privilege
+330 from the proposed Member State to the Applicant.
+14
+
+331 (g) Appeals of a denial of a Compact License Privilege application shall be filed with the
+332 Member State Dental Board making such determination, and shall be filed within 30 dates of the
+333 date of the denial.
+334 (h) A Licensee holding a Compact License Privilege shall notify the Commission within
+335 10 business days of any Adverse Action taken against a License held in a state that is not a
+336 Member State.
+337 (i) A Compact License Privilege may be revoked, suspended or limited by the issuing
+338 Member State Dental Board if at any time the Licensee’s Home State license is revoked,
+339 suspended or limited.
+340 (j) The Commission shall issue rules on the duration of a Compact License Privilege, the
+341 application and renewal process for a Compact License Privilege, and any application fees.
+342 (k) Eligibility or ineligibility to receive a Compact License Privilege shall not limit the
+343 ability of a Licensee to seek a state license through the regular process outside of the Compact.
+344 Sec. 7. Jurisdiction over compact license privilege holders.
+345 (a) Each Licensee holding a Compact License Privilege shall be subject to and comply
+346 with the laws and regulations of the Member State in which such Licensee practices under a
+347 Compact License Privilege.
+348 (b) Each Licensee holding a Compact License Privilege shall be subject to the
+349 jurisdiction and authority of the Member State Dental Board of the state in which such Licensee
+350 practices, as if they held a license issued from such Member State Dental Board. Such Compact
+351 License Privilege holder shall be deemed a “Licensee” of the Member State Dental Board for
+352 purposes of such board taking an Adverse Action.
+15
+
+353 (c) Each Licensee holding a Compact License Privilege shall list a current address with
+354 the Commission that shall serve as their official address of service.
+355 (d) A Licensee holding a Compact License Privilege may have an Adverse Action taken
+356 against them by:
+357 (1) The Member State Dental Board of the Member State in which they are
+358 practicing with a Compact License Privilege;
+359 (2) The Licensee’s Home State; or
+360 (3) The State Licensing Authority of a State that is not a Member State from
+361 which the Licensee holds a License.
+362 (e) A Home State may take an Adverse Action against the holder of a Compact License
+363 Privilege, regardless of where the actions giving rise to the Adverse Action occurred.
+364 (f) Any Member State in which the Compact Licensee holds a Compact License Privilege
+365 may investigate an allegation of a violation of the laws and rules of the practice of dentistry or
+366 dental hygiene in any other State where the Compact Licensee holds a Compact License
+367 Privilege.
+368 Sec. 8. Fees and military waiver.
+369 (a) The Commission shall issue rules regarding the use of the Repository by each holder
+370 of a Compact License Privilege.
+371 (b) A Member State Dental Board issuing a Compact License Privilege authorizing
+372 practice in its State may impose a fee for a Compact License Privilege, for either initial issuance
+373 or any renewal.
+374 (c) No Compact fee shall be required of any active-duty military member and/or their
+375 spouse up to one year after separation from the service. Each Member State issuing a Compact
+16
+
+376 License Privilege may waive fees for active-duty military and/or their spouse as required by each
+377 individual state statute.
+378 (d) Active-duty military may transfer military training records to the Repository without a
+379 fee
+380 Sec. 9. Joint investigations and disciplinary actions.
+381 (a) Each Member State shall name a point of contact for joint investigations between
+382 Member State Dental Boards.
+383 (b) Member State Dental Boards may participate with other Member State Dental Boards
+384 in joint investigations of Licensees that are subject to this Compact.
+385 (c) Member State Dental Boards may share investigative, litigation or other materials in
+386 furtherance any joint or individual investigation of a Compact License Privilege holder.
+387 (d) A subpoena issued by a Member State or Member State Dental Board shall be
+388 enforceable in other Member States as allowed by law.
+389 (e) If a Compact License Privilege holder has an Adverse Action taken against them by
+390 any Member Dental Board, the Compact License Privilege holder, Licensee shall automatically
+391 be subject to similar discipline by other Member State Dental Boards.
+392 (f) If a Compact License Privilege holder has an Adverse Action taken against their
+393 Home State license, including being revoked, surrendered, or relinquished in lieu of discipline or
+394 suspended, then automatically all other Compact License Privileges shall be placed in the same
+395 status. The Home State Dental Board shall notify the Commission and the Commission shall
+396 issue a notice to all Member State Dental Boards of such Adverse Action.
+397 (g) If discipline or an Adverse Action is taken against a Compact License Privilege
+398 holder in a Member State, the Member State Board shall notify the Commission and the Home
+17
+
+399 State of the Compact License Privilege holder. The Home State may deem the action conclusive
+400 as a matter of law and fact and may:
+401 (1) Impose the same or lesser sanction consistent with the Home State’s laws; or
+402 (2) Pursue separate actions against the Compact License Privilege holder under its
+403 laws, regardless of the sanctions pursued by the Member State Dental Board.
+404 Sec. 10. Other requests for information from the repository and the clearinghouse.
+405 (a) Insurance companies and entities verifying documents for the purpose of licenses
+406 extended to a Dentist or Dental Hygienist may seek information from the Clearinghouse for
+407 public record documents;
+408 (b) A Dentist or Dental Hygienist may submit a request to the Commission to allow any
+409 hiring employer, entity, or insurance company to access documents from the Repository for the
+410 purposes of credentialing, licensing or other privileges;
+411 (c) The Commission shall set a fee schedule for these services.
+412 Sec. 11. Rulemaking functions of the commission.
+413 (a) The Commission shall promulgate reasonable rules to effectively and efficiently
+414 implement and achieve the purposes and administration of the Compact. Notwithstanding the
+415 foregoing, in the event Commission exercises its rulemaking authority in a manner that is beyond
+416 the scope of the purposes of the Compact or the powers granted hereunder, then such an action
+417 by the Commission may be determined to be invalid and have no force or effect.
+418 (b) Rules validly issued by the Commission shall have the force of law in each Member
+419 State.
+18
+
+420 (c) Rules deemed appropriate for the operations of the Commission shall be made
+421 pursuant to a rulemaking process that substantially conforms to the Model State Administrative
+422 Procedure Act of 2010, and subsequent amendments thereto.
+423 Sec. 12. Oversight of the compact.
+424 (a) The executive, legislative, and judicial branches of state government in each Member
+425 State shall enforce the Compact and shall take all actions necessary and appropriate to effectuate
+426 the Compact’s purposes and intent to allow for expedited licensure for the purpose of mobility.
+427 The provisions of the Compact and the rules promulgated hereunder shall have standing as
+428 statutory law but shall not override existing state authority to regulate the practice of dentistry
+429 and dental hygiene.
+430 (b) All courts may take judicial notice of the Compact and the rules in any judicial or
+431 administrative proceeding in a Member State pertaining to the subject matter of the Compact
+432 which may affect the powers, responsibilities or actions of the Commission.
+433 (c) The Commission shall be entitled to receive all service of process in any such
+434 proceeding and shall have standing to intervene in the proceeding for all purposes. Except where
+435 the Commission has intervened, failure to provide service of process to the Commission shall
+436 render a judgment or order void as to the Commission, the Compact or promulgated rules.
+437 Sec. 13. Enforcement and default procedures.
+438 (a) The Commission, in the reasonable exercise of its discretion, shall enforce the
+439 provisions and rules of the Compact.
+440 (b) The grounds for default under this Compact by a Member State include, but are not
+441 limited to, failure of a Member State to perform such obligations or responsibilities imposed
+19
+
+442 upon it by the Compact or by the rules and Bylaws of the Commission promulgated under the
+443 Compact.
+444 (c) If the Commission determines that a Member State has defaulted in the performance
+445 of its obligations or responsibilities under the Compact, or the Bylaws or promulgated rules, the
+446 Commission shall:
+447 (1) provide written notice to the defaulting state and other Member States of the
+448 nature of the default, the means of curing the default and any action taken by the Commission.
+449 The Commission shall specify the conditions by which the defaulting state must cure its default;
+450 and
+451 (2) provide remedial training and specific technical assistance regarding the
+452 default.
+453 (d) If the defaulting state fails to cure the default, the defaulting state shall be terminated
+454 from the Compact upon an affirmative vote of a majority of the Commissioners and all rights,
+455 privileges and benefits conferred by the Compact shall terminate on the effective date of
+456 termination. A cure of the default does not relieve the offending state of obligations or liabilities
+457 incurred during the period of the default.
+458 (e) Termination of membership in the Compact shall be imposed only after all other
+459 means of securing compliance have been exhausted. Notice of intent to terminate shall be given
+460 by the Commission to the Governor, the majority and minority leaders of the defaulting state’s
+461 legislature and each of the Member States.
+462 (f) The Commission shall establish rules and procedures to address licenses and Compact
+463 License Privilege holders that are materially impacted by the termination of a Member State or
+464 the withdrawal of a Member State.
+20
+
+465 (g) The Commission shall not bear any costs relating to any state that has been found to
+466 be in default or which has been terminated from the Compact, unless otherwise mutually agreed
+467 upon in writing between the Commission and the defaulting state.
+468 (h) The defaulting state may appeal the action of the Commission by petitioning the state
+469 court where the Commission has its principal offices. The prevailing party shall be awarded all
+470 costs of such litigation, including reasonable attorneys’ fees.
+471 (i) The Commission shall not bear any costs relating to any state that has been found to
+472 be in default or which has been terminated from the Compact, unless otherwise mutually agreed
+473 upon in writing between the Commission and the defaulting state.
+474 (j) The remedies herein shall not be the exclusive remedies of the Commission. The
+475 Commission may avail itself of any other remedies available under state law or the regulation of
+476 a profession.
+477 Sec. 14. Dispute resolution.
+478 (a) The Commission shall attempt, upon the request of a Member State Dental Board, to
+479 resolve disputes which are subject to the Compact and which may arise among Member State
+480 Dental Boards.
+481 (b) The Commission shall promulgate rules providing for both mediation and voluntary
+482 binding dispute resolution, as appropriate.
+483 Sec. 15. Member states, effective date and amendment.
+484 (a) Any state is eligible to become a Member State of the Compact.
+485 (b) The Compact shall become effective and binding upon legislative enactment of the
+486 Compact into law by no less than 5 states. Thereafter, it shall become effective and binding on a
+487 state upon enactment of the Compact into law by that State.
+21
+
+488 (c) The governors of non-member states, or their designees, shall be invited to participate
+489 in the activities the Commission on a non-voting basis prior to adoption of the Compact by all
+490 States.
+491 (d) The Commission may propose amendments to the Compact for enactment by the
+492 Member States. No amendment shall become effective and binding upon the Commission and
+493 the Member States unless and until it is enacted into law by unanimous consent of the Member
+494 States.
+495 Sec. 16. Withdrawal.
+496 (a) Once effective, the Compact shall continue in force and remain binding upon each
+497 and every Member State; provided, however, that a Member State may withdraw from the
+498 Compact after giving appropriate notice by specifically repealing the statute which enacted the
+499 Compact into law.
+500 (b) The Licensee’s Compact License Privilege shall remain in effect for 6 months from
+501 the date of the Member State Dental Board withdrawal.
+502 (c) The withdrawing State shall immediately notify the chairperson of the Commission in
+503 writing upon the introduction of legislation repealing the Compact by the withdrawing State, and
+504 upon the enactment of such legislation.
+505 (d) The Commission shall notify the other Member States within 60 days of its receipt of
+506 notice provided under Section 16(c) of this section.
+507 (e) Reinstatement following withdrawal of a Member State shall occur upon the
+508 withdrawing state reenacting the Compact or upon such later date as determined by the
+509 Commission.
+22
+
+510 (f) The Commission shall issue rules to address the impact of the withdrawal of a
+511 Member State on Licenses granted by other Member States to dentists and dental hygienists who
+512 designated the withdrawing Member State as their Home State.
+513 Sec. 17. Dissolution.
+514 (a) The dissolution of the Compact shall be effective upon the date of the withdrawal or
+515 default of the Member State which reduces the membership in the Compact to one Member
+516 State.
+517 (b) Upon the dissolution of the Compact, the Compact shall become null and void and
+518 shall be of no further force or effect, and the business and affairs of the Commission shall be
+519 concluded and surplus funds shall be distributed in accordance with the Bylaws.
+520 Sec. 18. Severability and construction.
+521 (a) The provisions of the Compact shall be severable, and if any phrase, clause, sentence
+522 or provision is deemed unenforceable, the remaining provisions of the Compact shall be
+523 enforceable.
+524 (b) The provisions of the Compact shall be liberally construed to effectuate its purposes.
+525 Sec. 19. Binding effect of compact and other laws.
+526 (a) Nothing herein prevents the enforcement of any other law of a Member State that is
+527 not inconsistent with the Compact.
+528 (b) All lawful actions of the Commission, including all rules and Bylaws promulgated by
+529 the Commission, shall be binding upon the Member States.
+530 (c) All agreements between the Commission and the Member States shall be binding in
+531 accordance with their terms.
+23
+
+532 (d) In the event that any provision of the Compact exceeds the constitutional limits
+533 imposed on the legislature of any Member State, such provision shall be ineffective to the extent
+534 of the conflict with the constitutional provision in question in that Member State.
+535 Sec. 20. Rules of order.
+536 The most current edition of the American Institute of Parliamentarians Standard Code of
+537 Parliamentary Procedure shall govern all meetings of the Commission, including its
+538 committees, in those situations not otherwise covered in the Bylaws.
+539 Sec. 21. Fiscal impact statement.
+540 The Council adopts the fiscal impact statement in the committee report as the fiscal impact
+541 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+542 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+543 Sec. 22. Effective date.
+544 This act shall take effect following approval by the Mayor (or in the event of veto by the
+545 Mayor, action by the Council to override the veto), and a 30-day period of congressional review
+546 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved
+547 December 24, 1973 (87 Stat. 813; D.C. Official Code §1-206.02(c)(1)).
+24

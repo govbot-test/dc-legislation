@@ -1,0 +1,200 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+OFFICE OF CHAIRMAN PHIL MENDELSON
+COUNCIL OF THE DISTRICT OF COLUMBIA
+Statement of Introduction
+“Settlement of Actions Involving Minor Children Act of 2025”
+Today I am introducing the Settlement of Actions Involving Minor Children Act of 2025.
+This bill was first introduced in Council Period 25. The legislation eliminates the mandatory
+guardianship system for minor child settlements in favor of an investment framework that will
+prevent costly annual guardianship reports that consume the proceeds of the child’s settlement.
+Under this legislation, judicial review is required in settlements with a net recovery of
+$10,000 or more. In all settlements (under and over $10,000), the settlement proceed check will
+be made payable to a trustee on behalf of the child. These checks must be deposited into a blocked
+account at a financial institution, and the child is unable to withdraw the funds (with certain
+exceptions for medical expenses and education) until he or she reaches the age of 18 years. In the
+alternative, the representative of the child may ask the judge to approve a different financial
+situation (other than a blocked account) such as a structured settlement, pooled trust, special needs
+trust, or another fiduciary arrangement in the best interest of the child. While court approval of
+cases with a net recovery under $10,000 is not required, if the representative of the child prefers
+to deposit the funds in an account other than a blocked account, the representative must seek court
+approval to authorize the alternative financial plan.
+The bill also maintains judicial discretion to order a guardianship when it is in the best
+interest of the child.
+The value of this bill is that it enables approaches to minor child settlements that are less
+costly and therefore reserve more of the settlement for the child’s ultimate benefit.
+
+1 ___________________________
+2 Chairman Phil Mendelson
+3
+4
+5
+6
+7
+8 A BILL
+9 ____________
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12 _________________
+13
+14
+15 To amend Title 21 of the District of Columbia Official Code to protect settlements awarded to
+16 minor children in civil actions by requiring court approval of net settlements of $10,000
+17 or more, provide for court discretion of guardianship appointments, provide details for
+18 resolution payments, provide for authorization of investments of certain proceeds, and
+19 require court approval of certain withdrawals.
+20
+21 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+22 act may be cited as the “Settlement of Actions Involving Minor Children Act of 2025.”
+23 Sec. 2. Chapter 1 of Title 21 of the District of Columbia Official Code is amended as
+24 follows:
+25 (a) The table of contents is amended as follows:
+26 (1) Strike the sentence “21-120. Settlement of actions involving minor
+27 children; appointment of guardian of estate.” and insert the sentence “21-120.
+28 Settlement of actions involving minor children; court approval for certain
+29 amounts and payments.” in its place.
+30 (2) Add new section designations to read as follows:
+31 “21-121. Bond not required; deposit or investment of proceeds of appointing check.
+32 “21-122. Court order required for withdrawal.
+33 “21-123. Petition to court for withdrawal.”.
+1
+
+34 (b) Section 21-120 is amended as follows:
+35 (1) The heading is amended to read as follows:
+36 “§21-120. Settlement of actions involving minor children; court approval required for certain
+37 amounts; payment of claim on behalf of minors.”.
+38 (2) Subsection (a) is amended to read as follows:
+39 “(a) A person entitled to maintain or defend an action on behalf of a minor child,
+40 including an action relating to real estate, is competent to settle an action so brought and, upon
+41 settlement thereof or upon satisfaction of a judgment obtained therein, is competent to give a full
+42 acquittance and release of all liability in connection with the action, but if the net value of the
+43 money and property due to the minor is $10,000 or more, such a settlement is not valid unless
+44 approved by a judge of the court in which the action is pending.”.
+45 (3) Subsection (b) is repealed.
+46 (4) New subsections (c), (d), and (e) are added to read as follows:
+47 “(c)(1) Unless a court appoints a guardian of the property of a minor under subsection
+48 (d) of this section, if a minor or any other person in whose name a claim in tort is made or
+49 judgment in tort obtained on behalf of a minor recovers a net sum of less than $10,000, the
+50 person responsible for the payment of that sum shall make payment for the benefit of the minor
+51 by check made to the order of “ ________________ [name of trustee] trustee under Title 21 of
+52 the District of Columbia Official Code for ___________________ [name of minor], minor”. If a
+53 party seeks the approval of the court in which the action is pending, the court may authorize:
+54 “(A) The funding of a structured settlement on behalf of the minor;
+55 “(B) The creation and/or funding of a special needs trust for the benefit of
+56 the minor;
+2
+
+57 “(C) The participation and/or funding of a pooled trust for the benefit of
+58 the minor; or
+59 “(D) Any other trust or fiduciary arrangement that the court deems in the
+60 best interest of the minor.
+61 “(2) Unless a court appoints a guardian of the property of a minor under
+62 subsection (d) of this section, if a minor or any other person in whose name a claim in tort is
+63 made or judgment in tort obtained on behalf of a minor recovers a net sum of $10,000 or more,
+64 the person responsible for the payment of that sum shall make payment for the benefit of the
+65 minor by check made to the order of “________________ [name of trustee], trustee under Title
+66 21 of the District of Columbia Official Code for ___________________ [name of minor],
+67 minor” except the court may authorize:
+68 “(A) The funding of a structured settlement on behalf of the minor;
+69 “(B) The creation and/or funding of a special needs trust for the benefit of
+70 the minor;
+71 “(C) The participation and/or funding of a pooled trust for the benefit of
+72 the minor; or
+73 “(D) Any other trust or fiduciary arrangement that the court deems in the
+74 best interest of the minor.
+75 “(3) No other act is necessary to constitute the person named as trustee pursuant
+76 to paragraph (1) or paragraph (2) of this subsection.
+77 “(d)(1) In accordance with the procedures for the appointment of a guardian under this
+78 section, the court may appoint a guardian of the property of a minor on whose behalf a recovery
+3
+
+79 in tort is sought or has been obtained if the court determines that the appointment would be in the
+80 best interest of the minor.
+81 “(2) The petition for guardianship may be made by an interested person or a
+82 trustee designated under this title or under subsection (c) of this section.
+83 “(e) If a court appoints a guardian of the property of a minor under subsection (d) of this
+84 section or a guardian has already been appointed and the minor or any other person in whose
+85 name a claim in tort is made or judgment in tort obtained on behalf of the minor, the person
+86 responsible for the payment of that sum shall make payment for the benefit of the minor by
+87 check made to the order of “__________ (name of guardian), guardian under Title 21 of the
+88 District of Columbia Official Code for ______________ (name of minor), minor” except the
+89 court may authorize:
+90 (1) “The funding of a structured settlement on behalf of the minor;
+91 (2) “The creation and/or funding of a special needs trust for the benefit of the minor;
+92 (3) “The participation and/or funding of a pooled trust for the benefit of the minor; or
+93 (4) “Any other trust or fiduciary arrangement that the court deems in the best interest
+94 of the minor”.
+95 A new section 21-121 is added to read as follows:
+96 “§ 21-121. Bond not required; deposit or investment of proceeds of appointing check.
+97 “(a) The trustee need not give bond.
+98 “(b)(1) Except as otherwise approved by the court pursuant to §21-120 (c)(1)(A)
+99 through (c)(1)(D) or (c)(2)(A) through (c)(2)(D), a trustee who receives a check under §21-
+100 120(c)(1) or (c)(2) shall:
+101 “(A) Deposit the check in any financial institution. Financial institution means:
+4
+
+102 i. Depository institution, as defined in the Federal Deposit Insurance
+103 Act under 12 U.S.C. § 1813(c); or
+104 ii. Federal credit union or State credit union, as defined in the Federal
+105 Credit Union Act under 12 U.S.C. § 1752;
+106 “(B) If the trustee deposits the check in a financial institution under subparagraph
+107 (A) of this paragraph, the trustee may direct the financial institution to invest or reinvest the
+108 proceeds of the check in a certificate of deposit or other interest-bearing account.
+109 “(2) Except as otherwise approved by the court pursuant to §21-120(c)(1)(A)
+110 through (c)(1)(D) or §21-12(c)(2)(A) through (c)(2)(D), deposits may be made in one or more
+111 accounts in a financial institution under paragraph (1)(A) of this subsection, provided that the
+112 amount deposited in any account or institution shall not exceed the amount to which accounts
+113 are insured.”.
+114 (c) A new section 21-122 is added to read as follows:
+115 “§ 21-122. Court order required for withdrawal.
+116 “(a) Except on the order of the court, the financial institution specified in §21-
+117 121(b)(1)(A) may not allow the withdrawal of any of the money except to pay it to the minor on
+118 the minor’s attainment of the age of 18 years or to pay to the personal representative of the
+119 minor’s estate on the death of the minor before the minor’s attaining the age of 18 years.
+120 “(b) Payment, without the need of a court order, shall be made to the minor on or after the
+121 minor’s 18th birthday, upon presentation of a valid government identification.
+122 “(c) Payment by any institution or association in accordance with an order of the court, or
+123 to the minor on or after the minor’s 18th birthday, or to the personal representative after the death
+5
+
+124 of the minor, is a complete discharge of liability of the institution or association for the money
+125 paid.”.
+126 (d) A new section 21-123 is added to read as follows:
+127 “§21-123. Petition to court for withdrawal.
+128 “(a) A trustee shall file a petition for withdrawal of any of the money of the minor in the
+129 Superior Court of the District of Columbia.
+130 “(b)
+131 “(1) The petition shall be verified and state in detail the purposes for which the
+132 withdrawal of the money is desired.
+133 “(2) On receiving a petition, the court shall make any inquiry necessary before
+134 granting or denying the petition in whole or in part.
+135 “(c) If money is desired for any purpose other than to pay for medical expenses of the
+136 minor, or to further the education of the minor, including reasonable expenditures for room and
+137 board, the court shall require a strong showing of necessity by the trustee in a hearing.
+138 “(d) If the trustee dies or is discharged, a petition filed under this section shall include a
+139 prayer for the appointment of another trustee.
+140 “(e) In its order on a petition, the court may direct the institution where the funds of the
+141 minor are on deposit to make its check to the order of:
+142 “(1) The trustee for the use of the minor; or
+143 “(2) The person, firm, or organization which has performed or is to perform a
+144 service for or furnish goods to the minor.
+6
+
+145 “(f) The court also may direct payment of a reasonable fee for an attorney and the costs of
+146 the proceedings, but may not in any event direct or provide for the payment of any fees or
+147 commissions to the trustee.”.
+148 Sec. 3. Fiscal impact statement.
+149 The Council adopts the fiscal impact statement in the committee report as the fiscal
+150 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+151 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+152 Sec. 4. Effective date.
+153 This act shall take effect following approval of the Mayor (or in the event of veto by the
+154 Mayor, action by the Council to override the veto), and a 30-day period of congressional review
+155 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+156 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+7

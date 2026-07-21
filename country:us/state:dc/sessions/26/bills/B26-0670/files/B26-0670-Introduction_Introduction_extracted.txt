@@ -1,0 +1,351 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Statement of Introduction
+DC Government Data Privacy and Protection Act of 2026
+April 24, 2026
+Today, along with Councilmembers Christina Henderson, Janeese Lewis George,
+and Zachary Parker, I am introducing the “District of Columbia Data Privacy and
+Protection Act of 2026”. This legislation establishes comprehensive privacy
+protections governing the collection, use, sale, and disclosure of individuals'
+personal data by District government agencies and third parties and provides
+individuals with rights over their personal data. The bill establishes a Chief Privacy
+Officer (CPO) within the Office of the Chief Technology Officer (OCTO) to oversee
+compliance and implementation across agencies.
+Data privacy laws for government are essential to safeguarding residents’ personal
+information and preventing misuse by unauthorized actors. Public-sector databases
+have increasingly become targets for cybercriminals, who seek to exploit sensitive
+information for financial gain, identity theft, or unauthorized access to government
+systems.1 For example, the 2023 breach of the District of Columbia Board of
+Elections exposed voter registration data after attackers gained access to internal
+systems.2
+Any sale of data should be transparent, with clear informed consent from residents
+and limitations for both the agency and the third party.
+When handled responsibly and securely, data is a powerful tool for improving
+government services, serving as an aid to agencies in identifying disparities in
+service delivery, evaluating program effectiveness, and promoting community
+advocacy.3 This legislation establishes clear rules and rights to safeguard
+individuals’ data, promoting responsible data usage so that our government can
+continue to utilize data-informed service delivery for District residents and visitors.
+1 Data Security Laws | State Government
+2 Update: D.C. Elections Board Says Hack Impacted Less Than 4,000 Voters | DCist
+3 Building Trust in Data Requires Building Trust with Communities | DQC
+
+_____________________________ _____________________________
+Councilmember Christina Henderson Councilmember Brianne K. Nadeau
+_____________________________ _____________________________
+Councilmember Zachary Parker Councilmember Janeese Lewis George
+A BILL
+_________________________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+_________________________
+1 To establish comprehensive privacy protections governing the collection, use, and disclosure of
+2 covered individuals’ personal data by District government agencies, to establish
+3 requirements for third party’s handling personal data of covered individuals, to provide
+4 covered individuals with enforceable rights regarding their personal data, and to establish
+5 a Chief Privacy Officer in the Office of the Chief Technology Officer.
+6 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+7 act may be cited as the “District of Columbia Government Data Privacy and Protection Act of
+8 2026”.
+9 Sec 2. Definitions.
+10 For the purposes of this act, the term:
+11 (1) “Affirmative consent” means a clear affirmative act signifying a covered
+12 individual’s freely given, specific, informed, and unambiguous agreement to the processing of
+13 personal data for a purpose that is not required by law or necessary to provide a government
+14 service requested by the individual.
+1
+
+15 (2) “Agency” shall include agencies and independent agencies as defined in
+16 section 1, paragraphs (1) and (13) of the District of Columbia Government Comprehensive Merit
+17 Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139, D.C. Official Code § 1–
+18 603.01).
+19 (3) “Authenticate” means to use reasonable means to determine that a request to
+20 exercise any of the rights afforded under this act is being made by, or on behalf of, the covered
+21 individual who is entitled to exercise such rights with respect to the personal data at issue.
+22 (4) “Collect” and “collecting” mean gathering, obtaining, receiving, accessing, or
+23 otherwise acquiring personal data of covered individuals by an agency.
+24 (5) “Covered individual” means an individual or natural person who currently
+25 resides in the District of Columbia, is currently employed in the District of Columbia, or who
+26 accesses, uses, or otherwise interacts with District services, programs, systems, or benefits
+27 provided by a District agency, regardless of the individual’s place of domicile or permanent
+28 residence.
+29 (6) “Personal data” means any information that is linked to an identified or
+30 identifiable covered individual. “Personal data” does not include de-identified or aggregated
+31 data, or publicly available information.
+32 (7) “Process” or “processing” means any operation or set of operations performed,
+33 whether by manual or automated means, on personal data or on sets of personal data, such as the
+34 use, storage, disclosure, analysis, deletion or modification of personal data.
+35 (8) “Sale of personal data” means the exchange of personal data for monetary or
+36 other consideration by an agency to a third party.
+37 (9) “Sensitive data” means personal data that includes:
+2
+
+38 (A) Racial or ethnic origin, religious beliefs, mental or physical health
+39 condition or diagnosis, status as pregnant, sex life, sexual orientation, gender identity, union
+40 membership, income level or indebtedness, or citizenship or immigration status;
+41 (B) Health data or medical information;
+42 (C) Genetic or biometric data;
+43 (D) Personal data of a covered individual that is under the age of 18; and,
+44 (E) A government-issued identifier, including a Social Security number,
+45 passport number or driver's license number, that is not required by law to be displayed in public.
+46 (10) “Third party” means any non-governmental entity, external entity, or person
+47 that receives, collects, stores, processes, accesses, or transfers personal data from, on behalf of,
+48 or at the direction of a District government agency.
+49 (11) “Transfer” means to disclose, release, disseminate, make available, license,
+50 rent, or share personal data to a third party orally, in writing, electronically, or by any other
+51 means.
+52 Sec 3. Duties of agencies.
+53 (a) An agency that processes personal data shall:
+54 (1) Limit the collection, processing, and transfer of personal data to what is
+55 reasonably necessary to provide or maintain:
+56 (A) A specific product or service requested by the covered individual to
+57 whom the data pertains including routine administrative, operational, or service-provision
+58 activities necessary to deliver the government service requested by the covered individual; or
+3
+
+59 (B) A communication by the agency to the covered individual that is
+60 reasonably anticipated within the context of the relationship between the agency and the covered
+61 individual.
+62 (2) Not collect, process, or transfer sensitive data concerning a covered individual
+63 except when such collection, processing, or transfer is strictly necessary to provide or maintain a
+64 specific product or service requested by the covered individual to whom the sensitive data
+65 pertains.
+66 (3) Not sell sensitive data of any covered individual.
+67 (4) Not sell personal data of any covered individual without obtaining the covered
+68 individual’s affirmative, informed consent.
+69 (5) Not transfer personal data concerning a covered individual to a third party
+70 without obtaining the covered individual’s affirmative consent.
+71 (6) Establish, implement and maintain reasonable administrative, technical and
+72 physical data security practices to protect the confidentiality, integrity and accessibility of
+73 personal data.
+74 (7) Provide a mechanism for a covered individual to revoke the covered
+75 individual’s affirmative consent and cease to process the data as soon as practicable, but not later
+76 than 45 days after the receipt of such request.
+77 (8) Direct to a clear, accessible privacy notice, as established by the Chief Privacy
+78 Officer (“CPO”), regarding data practices and rights of covered individuals that includes:
+79 (A) How a covered individual may exercise their rights, including how a
+80 covered individual may appeal an agency decision;
+4
+
+81 (B) The categories of personal data collected and processed by the agency,
+82 including a separate list of categories of sensitive data collected and processed by the agency;
+83 (C) The purpose for collecting and processing each category of personal
+84 data;
+85 (D) The categories of personal data that the government agency transfers
+86 to third parties, if any, and the purposes for those transfers;
+87 (E) The length of time the agency retains each category of personal data;
+88 and,
+89 (F) Information on how a covered individual may exercise the right to opt
+90 out of such sales or processing.
+91 (9) Not deny services or benefits to a covered individual for exercising rights
+92 under this act.
+93 (b) Agencies may only share personal data with third parties if:
+94 (1) The sharing is necessary for a governmental purpose;
+95 (2) The personal data does not include sensitive data, unless required by law; and,
+96 (3) The third party agrees to comply with equivalent or greater privacy
+97 protections, including:
+98 (A) The ability of the agency to request that the third party delete or return
+99 all personal data to the agency as requested, unless retention of the personal data is required by
+100 law;
+101 (B) Providing to the agency all information in its possession necessary to
+102 demonstrate the third party’s compliance with the obligations of this section;
+5
+
+103 (C) Only processing and transferring the data it receives from the agency
+104 to the extent necessary to provide a service requested by the agency; and
+105 (D) Detailing the type of data subject to processing and the duration of the
+106 processing and data retention.
+107 (4) The sharing is documented and subject to audit.
+108 (c) Nothing in this section shall be construed to restrict an agency’s ability to:
+109 (1) Comply with District laws and regulations;
+110 (2) Comply with a civil, criminal or regulatory inquiry, investigation, subpoena or
+111 summons by federal or other governmental authorities, except as prohibited by District law;
+112 (3) Provide a product or service specifically requested by the covered individual;
+113 (4) Assist another agency with any of the obligations under this act;
+114 (5) Collect or process personal data to accomplish the agencies’ mission and core
+115 functions; and,
+116 (6) Ensure the data security and integrity of personal data as required by this act,
+117 protect against spam, or protect and maintain networks and systems, including through
+118 diagnostics, debugging, and repairs.
+119 Sec 4. Requirements of third parties.
+120 (a) A contract between an agency and a third party shall govern the third party’s data
+121 processing procedures with respect to processing performed on behalf of the agency. The
+122 contract shall be binding and clearly set forth instructions for processing data, the nature and
+123 purpose of processing, the type of data subject to processing, the duration of processing and the
+124 rights and obligations of both parties. The third party shall adhere to the instructions of the
+125 agency and only process and transfer the data it receives from the agency to the extent necessary
+6
+
+126 to provide a service requested by the agency, as set out in the contract. The contract shall also
+127 require that the third party:
+128 (1) Ensure that each person processing personal data is subject to a duty of
+129 confidentiality with respect to the data;
+130 (2) At the agency’s direction, delete or return all personal data to the agency as
+131 requested at the end of the provision of services, unless retention of the personal data is required
+132 by law;
+133 (3) Upon the reasonable request of the agency, make available to the agency all
+134 information in its possession necessary to demonstrate the third parties compliance with the
+135 obligations under this act;
+136 (4) After providing the agency an opportunity to object, engage any
+137 subcontractor pursuant to a written contract that requires the subcontractor to meet the
+138 obligations of the third party with respect to the personal data; and,
+139 (5) Be prohibited from combining personal data that the third party receives from
+140 or on behalf of an agency with personal data that the third party receives from or on behalf of
+141 another person or collects from the interaction of the third party with an individual.
+142 (b) A third party shall establish, implement and maintain reasonable administrative,
+143 technical and physical data security practices to protect the confidentiality, integrity and
+144 accessibility of personal data appropriate to the volume and nature of the personal data at issue.
+145 (c) Any third party that receives personal data from an agency shall, upon receiving a
+146 request for such data from any federal, state, or local government entity:
+7
+
+147 (1) Review the legal validity of the request, including whether it is lawfully
+148 issued, within the authority of the requesting entity, and narrowly tailored to the data sought;
+149 and,
+150 (2) Challenge the request in a court of competent jurisdiction where the third
+151 party has a reasonable basis to believe that the request is overbroad, not supported by sufficient
+152 legal process, or inconsistent with applicable law or contractual obligations.
+153 (d)(1) A third party shall not disclose personal data in response to a government request
+154 unless the request is accompanied by a warrant, subpoena, court order, or another form of legally
+155 binding process recognized under applicable law.
+156 (2) The third party shall promptly notify the originating agency of any
+157 government request for data, unless legally prohibited. Where not prohibited by law, the third
+158 party shall make reasonable efforts to notify affected individuals prior to disclosure.
+159 (3) If disclosure is required, the third party shall disclose only the minimum
+160 amount of data necessary to comply with the request, take reasonable steps to narrow or modify
+161 the request, and seek protective orders or confidentiality agreements where appropriate.
+162 (e) A third party may not voluntarily provide personal data to any government entity
+163 absent a legally binding request or express authorization from the originating agency and
+164 consistency with District law.
+165 (f) Third parties shall maintain records of all government requests received and provide
+166 periodic reports to the agency, including the number of requests, the type of legal process used,
+167 and whether requests were challenged.
+168 (g) All agency contracts involving the transfer of personal data shall require compliance
+169 with this section as a material term of the agreement.
+8
+
+170 (h) Failure to comply with this section shall constitute a material breach of contract and
+171 may result in termination, damages, and debarment from future District contracts.
+172 Sec 5. Rights of covered individuals
+173 (a) Covered individuals shall have the right to:
+174 (1) Confirm whether or not an agency is collecting or processing the covered
+175 individual’s personal data and obtain:
+176 (A) Categories of data collected;
+177 (B) Purpose of processing; and,
+178 (C) Categories of recipients;
+179 (2) Obtain a copy of the personal data collected or processed;
+180 (3) Correct inaccuracies in the covered individual's personal data;
+181 (4) Delete personal data provided by, or obtained about, the covered individual,
+182 unless the data is required by law to be retained; and,
+183 (5) Obtain from an agency a list of specific third parties, other than natural
+184 persons, to which the agency has transferred or sold:
+185 (A) The covered individual’s personal data; or,
+186 (B) Any personal data.
+187 (6) Opt-out of the transfer or sale of personal data for purposes not required by
+188 law or necessary to provide a government service.
+189 (b) (1) Agencies shall respond to verified requests within sixty days after receipt of the
+190 request.
+9
+
+191 (2) The agency shall inform the covered individual within forty-five days after
+192 receipt of the request of any justification for declining to provide the requested information and
+193 provide instructions for how to appeal the decision.
+194 (c) A covered individual may exercise rights under this section by a secure and reliable
+195 means established by CPO and described to the covered individual in the agency’s privacy
+196 notice.
+197 (d) Information provided in response to a covered individuals’ request shall be provided
+198 by an agency once per covered individual during any four-month period.
+199 (e) Nothing in this section shall be construed to provide a basis for a private right of
+200 action or any other remedy, claim, or cause of action for any violation of this act. The CPO and
+201 the Office of the Attorney General for the District of Columbia (“OAG”) shall have authority to
+202 investigate and enforce this act.
+203 Sec 6. Chief Privacy Officer.
+204 (a) There is established within the Office of the Chief Technology Officer (“OCTO”) a
+205 Chief Privacy Officer (“CPO”) that shall be appointed by the Chief Technology Officer
+206 (“CTO”). The CPO shall be a member in good standing with the DC Bar.
+207 (b) The CPO shall:
+208 (1) Be directly responsible for coordinating the related responsibilities of
+209 cybersecurity, data governance, and privacy.
+210 (2) Develop and implement written policies and procedures to ensure the privacy
+211 and security of covered individuals’ personal data;
+212 (3) Ensure compliance with applicable federal and state laws and regulations
+213 relating to data privacy;
+10
+
+214 (4) Issue written findings, recommendations, or directives to an agency to ensure
+215 compliance with this act, including requiring the agency to modify its practices, implement
+216 safeguards, or cease unlawful data processing activities, and may coordinate with OAG to ensure
+217 compliance;
+218 (5) Conduct or require privacy impact assessments for applicable information
+219 technology systems or programs;
+220 (6) Establish government-wide standards for the collection, use, retention, and
+221 disclosure of covered individuals’ personal data and sensitive data;
+222 (7) Coordinate with the Chief Data Officer, Chief Information Officer, or
+223 equivalent positions, regarding the investigation and notification of breaches of personal data;
+224 (8) Provide training and guidance to agencies regarding data privacy requirements
+225 and best practices;
+226 (9) Conduct periodic reviews of agency practices relating to the handling of
+227 personal data;
+228 (10) Receive and resolve complaints;
+229 (11) Receive and resolve disputes among agencies related to data privacy in
+230 writing;
+231 (12) Participate in audits related to data privacy conducted by the District of
+232 Columbia Auditor and the Office of the Inspector General;
+233 (13) Provide an annual report to the CTO to publish in August of every year
+234 beginning after the effective date of this act, and
+235 (14) Advise the CTO on matters relating to privacy and data protection.
+236 (d) The CPO shall, in partnership with agencies:
+11
+
+237 (1) Develop a process by which covered individuals may appeal data request
+238 decisions made by agencies; and,
+239 (2) Develop a data privacy bill of rights, accessible to covered individuals on the
+240 CPO’s webpage, and directly linked on webpages of agencies that collect or process personal
+241 data of covered individuals.
+242 Sec 7. Enforcement
+243 (a) The OAG may issue written findings, recommendations, or directives to an agency to
+244 ensure compliance with this act, including requiring the agency to modify its practices,
+245 implement safeguards, or cease unlawful data processing activities.
+246 (b) The OAG may require an agency to enter into a compliance agreement that includes
+247 specific corrective actions, timelines for implementation, and ongoing monitoring or reporting
+248 obligations.
+249 (c) An agency found to be in violation of this act may be subject to appropriate
+250 administrative remedies under District law, including required remediation, changes to data
+251 practices, training requirements, or other corrective measures designed to ensure future
+252 compliance.
+253 (d) The OAG may require periodic reporting from agencies regarding their data practices,
+254 risk assessments, data sharing activities, and compliance with this act.
+255 (e) In determining the appropriate remedy or corrective action, the OAG may consider
+256 the nature and seriousness of the violation, the number of individuals affected, the sensitivity of
+257 the data, the risk of harm, whether the violation was part of a pattern or practice, and whether the
+258 violation resulted from human or technical error.
+12
+
+259 (f) Nothing in this section shall be construed to limit any authority of the OAG under
+260 District law or to impair the application of any other law governing the conduct of District
+261 agencies.
+262 Sec 8. Applicability
+263 (a) This act shall apply upon the date of inclusion of its fiscal effect in an approved
+264 budget and financial plan.
+265 (b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in
+266 an approved budget and financial plan, and provide notice to the Budget Director of the Council
+267 of the certification.
+268 (c)(1) The Budget Director shall cause the notice of the certification to be published in
+269 the District of Columbia Register.
+270 (2) The date of publication of the notice of the certification shall not affect the
+271 applicability of this act.
+272 Sec. 9. Fiscal impact statement.
+273 The Council adopts the fiscal impact statement in the committee report as the fiscal
+274 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+275 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+276 Sec. 10. Effective date.
+277 This act shall take effect following approval by the Mayor (or in the event of veto by the
+278 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+279 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+280 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+13

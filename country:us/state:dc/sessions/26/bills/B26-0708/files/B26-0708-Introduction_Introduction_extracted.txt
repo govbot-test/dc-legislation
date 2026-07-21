@@ -1,0 +1,589 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE CHIEF FINANCIAL OFFICER
+June 23, 2026
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, D.C. 20004
+Re: Combined Reporting Amendment Act of 2026
+Dear Chairman Mendelson:
+This letter transmits my request to the Council to enact the Combined Reporting Amendment Act
+of 2026.
+The proposed legislation will enact, amend, and repeal provisions of law necessary to implement
+the transition from the Joyce to Finnigan method of apportionment for combined reporting
+pursuant to D.C. Official Code § 47-1805.02b.
+I request that the enclosed legislation be included in the Secretary’s Log of Introductions for the
+next Legislative Meeting.
+Sincerely,
+Glen Lee
+Chief Financial Officer
+Enclosures
+John A. Wilson Building * 1350 Pennsylvania Avenue, NW * Suite 203 * Washington, DC 20004
+Phone: (202) 727-2476 * Fax: (202) 727-1643 * www.cfo.dc.gov
+
+~~
+1
+2.
+3 at the 1equ.ed of the Chief
+4 F'inuci.al Officer
+5
+6
+7
+8 .ANACT
+g
+:1!.0
+:11.1
+l.2 IN TIIB COUNCIL OF THE DISTRICT OF OOlUMBIA
+:1!.3
+:1!.4
+:1!.5
+16 To ,enact, mnend. BM repea] piovisiom of law necessm:y m implement the Finnigan
+o~c.
+17 method ofappooiiomnem: for oom.bined1eporlmg pmsuamto Code§ 47-1:80.5.0lb
+18 11.ansiition ftom the Jo).lC'1 method of a:pportio:omem: to the Finnigan method of apportio:mnem.
+19
+20 BE IT ENACTED BY THE COUNCIL OF TIIE DIS,TRICT OF COLUMBIA, tha.t this
+21 act ma.y be cited as Ire '"Combined Reportimg Amendm.em: ht of 2026.,.
+22 Sec. 2. Section 4 7-1001.04, Genera] definitions aft he District of Colum!biia Official
+23 Code i:s amended as follow.s.:
+24 (a) {7) .. Combined gmup"' is.· repealed and repllac-ed mr ead as fallows:
+an
+25 •••Combined gioup' :means the group of persam lmt must file a oombined 1etmn as
+26 reqwred by § 47-1:80.5 .02a-1, Combined 1etum reqmred; joint md several liability ad § 47-
+27 1:80.5 .02b~1 1.amition fi:om the Joya mefti.od of a:pportio.mnem: to the Finnigan method of
+28 appomomnent. m.clumog a. group properly m.akmg a water'.s-edge electicm under § 47-1&10.07 A,
+29 \Vatet1,s-edge e]ection; mitiia1icm.md withdrawal"
+30 (jb) A new section (l.A) is a.dded as follows:
+I
+
+31 “‘Combined return’ means a tax return required to be filed for the combined group
+32 containing information as provided in § 47-1805.02a-1, Combined return required; joint and
+33 several liability or required by the Chief Financial Officer.”
+34 (c) (10)(A) “Corporation” is amended by striking the phrase “would be subject to the
+35 tax imposed by this chapter” and inserting the phrase “would be a ‘taxpayer.’”
+36 (d) (28) “Internal Revenue Code of 1986” is amended by inserting the phrase “and
+37 amendments thereto” after “October 22, 1986.”
+38 (e) (49)(A) “Tax haven” is amended by inserting the phrase “, during the tax year in
+39 question has no or nominal effective tax on the relevant income and any one or more of the
+40 following:” after the phrase “means a jurisdiction that.”
+41 (i) Paragraph (i) is amended by striking the phrase “For a particular tax year
+42 in question has no, or nominal, effective tax on the relevant income and.”
+43 (f) A new subsection (33A) is added as follows:
+44 “‘Nexus’ means the physical, economic, electronic, or virtual presence or connection between a
+45 taxpayer and the District of Columbia, whether the presence or connection is direct or indirect.”
+46 (g) (55) “Unitary business” is repealed and replaced to read as follows:
+47 “A group of two or more persons related by common ownership that are sufficiently
+48 interdependent, integrated or interrelated through their activities so as to provide synergy and
+49 mutual benefit and produce a significant sharing or exchange of value among them or a
+50 significant flow of value between the separate parts. The term “unitary business” shall be
+51 construed to the broadest extent permitted under the Constitution of the United States. A unitary
+52 business includes that part of the business that meets the definition in this subsection (55) and is
+53 conducted by a taxpayer through the taxpayer’s interest in a partnership, whether the interest in
+2
+
+54 that partnership is held directly or indirectly through a series of partnerships or other pass-
+55 through entities.”
+56 (h) (57) “Water’s-edge combined group” is amended by striking the statutory
+57 reference “§ 47-1810.07” and inserting “§ 47-1810.07A, Water’s-edge election; initiation and
+58 withdrawal” in its place.
+59 Sec. 3. Title 47 of the District of Columbia Official Code is amended as follows:
+60 Sections 47-1805.02a, Combined reporting required, and 47-1810.06, Designation of
+61 agent, are repealed. A new section 47-1805.02a-1, Combined return required; joint and several
+62 liability of the District of Columbia Official Code is added to read as follows:
+63 “(a) For tax years beginning after December 31, 2025, except as provided in § 47-
+64 1810.07A, Water’s-edge election; initiation and withdrawal, all persons, wherever incorporated,
+65 domiciled, organized, formed, or established, that are members of a unitary business shall file a
+66 combined return as a combined group. That return must include the income and apportionment
+67 factors, determined under § 47-1810.05A, Determination of the business income of the combined
+68 group, and other information required by the Chief Financial Officer for all members of the
+69 combined group wherever located or doing business. The combined return must be filed under
+70 the name and federal employer identification number of the parent if the parent is a member of
+71 the combined group. If there is no parent, or if the parent is not a group member, the members of
+72 the combined group shall choose a member who the combined group reasonably expects will
+73 have the largest amount of District taxable net income on a recurring basis to file the return. The
+74 filing member must remain the same in subsequent years unless the filing member is no longer
+75 the parent or is no longer a member of the combined group. The return must be signed by a
+76 responsible officer of the filing member on behalf of the combined group members. Members of
+3
+
+77 the combined group are jointly and severally liable for the tax liability of the combined group
+78 included in the combined return.
+79 (b) The Chief Financial Officer may require that a combined return to include the income
+80 and associated apportionment factors of persons that are not included pursuant to subsection (a)
+81 of this section, but that are members of a unitary business, in order to reflect proper
+82 apportionment of income of the entire unitary business. Authority to require combination under
+83 this subsection (b) includes authority to require combination of the income and associated
+84 apportionment factors of persons that are not subject to District tax or would not be subject to
+85 District tax if doing business in the District.
+86 (1) If the Chief Financial Officer determines that the reported income or loss
+87 of a taxpayer engaged in a unitary business with a person not included pursuant to subsection (a)
+88 of this section, or pursuant to an election under § 47-1810.07A, Water’s-edge election; initiation
+89 and withdrawal, represents an avoidance or evasion of tax by such taxpayer, the Chief Financial
+90 Officer may, on a case by case basis, require all or part of the income and associated
+91 apportionment factors of such person be included in the taxpayer’s combined return.
+92 (2) With respect to inclusion of associated apportionment factors pursuant to
+93 this subsection (b), the Chief Financial Officer may require the exclusion of one or more of the
+94 factors, the inclusion of one or more additional factors that will fairly represent the taxpayer’s
+95 business activity in the District, or the employment of any other method to effectuate a proper
+96 reflection of the total amount of income subject to apportionment and an equitable allocation and
+97 apportionment of the taxpayer’s income.
+98 (c) In the event of any inconsistency or conflict between any provision of Chapter 1 of
+99 Title 9 of the District of Columbia Municipal Regulations and any provision of Chapter 18 of
+4
+
+100 Title 47 of the District of Columbia Official Code concerning combined reporting requirements,
+101 the provisions of Chapter 18 of Title 47 of the District of Columbia Official Code shall govern
+102 and control.
+103 (d) The Chief Financial Officer shall adopt all regulations necessary to implement
+104 combined reporting; to ensure that the tax liability and net income of any taxpayer, and of each
+105 entity included in a combined report, are properly reported, determined, computed, assessed,
+106 collected, and adjusted both during and after inclusion in the combined group; and to prescribe
+107 the form, manner, timing, place, and allowable extensions for all required returns and reports.”
+108 Sec. 4. Sections 47-1810.04, Determination of taxable income or loss using combined
+109 report; components of income subject to tax in the District, application of tax credits and post-
+110 apportionment deductions; determination of taxpayer's share of the business income of a
+111 combine group apportionable to the District, and 47-1810.05, Determination of the business
+112 income of the combined group. are repealed.
+113 A new section 47-1810.05A, Determination of the business income of the combined
+114 group, of the District of Columbia Official Code is added to read as follows:
+115 “(A) The combined group calculates its District taxable net income as
+116 provided in subsection A of this section.
+117 (i) Determine the total combined group income or loss, before net operating loss
+118 deduction, as follows:
+119 (a) Each member of the combined group determines its separate
+120 income or loss before net operating loss deduction, as follows:
+121 (1) For a member incorporated in the United States or included in a
+122 consolidated federal corporate income tax return, the member’s income or loss is the taxable
+5
+
+123 income for the member under the Internal Revenue Code, on a separate entity basis, after making
+124 appropriate adjustments under District tax provisions.
+125 (2) For any member not included in (A)(i)(a)(1) above:
+126 (I) The member’s income or loss is determined from a profit
+127 and loss statement prepared for that member on a separate entity basis in the currency in which
+128 its books of account are regularly maintained, provided this profit and loss statement is subject to
+129 an independent audit, adjusted to conform it to the accounting principles generally accepted in
+130 the United States for the preparation of such statements and further modified to take into account
+131 any book-tax adjustments necessary to reflect federal and District tax law. Income or loss so
+132 computed includes all income wherever derived and is not limited to items of U.S. source
+133 income or effectively connected income within the meaning of the Internal Revenue Code. Items
+134 of income, expense, gain or loss and related apportionment factors that are denominated in a
+135 foreign currency must also be translated into U.S. dollars on a reasonable basis consistently
+136 applied year-to-year and entity-by-entity. Unrealized foreign currency gains and losses are not
+137 recognized. Income apportioned to the District is to be expressed in U.S. dollars.
+138 (II) In lieu of the procedures set forth above in (A)(i)(a)(2)(I) or
+139 in any case where it is necessary to fairly and consistently reflect the income or loss and
+140 apportionment factors of foreign operations included in the unitary business, the Chief Financial
+141 Officer may provide for other procedures to reasonably approximate the income or loss and
+142 apportionment factors of members with foreign operations.
+143 (b) Unless otherwise provided by this chapter, or by regulation,
+144 income or loss of the members as determined under (A)(i)(a) of this section are combined,
+145 eliminating items of income, expense, gain and loss from transactions between members of the
+6
+
+146 combined group, applying the consolidated filing rules under Internal Revenue Code and agency
+147 regulations as if the combined group was a consolidated filing group.
+148 (1) Dividends paid by one member of the combined group to
+149 another member within the combined group are excluded from that member’s income to the
+150 extent those dividends are paid out of the earnings and profits of the unitary business included in
+151 the combined report in the current or an earlier year.
+152 (2) A charitable expense incurred by a member of a combined
+153 group, to the extent allowable as a deduction pursuant to section 170 of the Internal Revenue
+154 Code of 1986, is subtracted first from the apportionable income of the combined group subject to
+155 the income limitations of that section applied to the entire apportionable income of the group,
+156 and any excess may be carried over as provided in section 170, subject to limitations in that
+157 section.
+158 (ii) Determine combined group ordinary apportionable
+159 income or loss by eliminating from the amount determined in (A)(i) of this section:
+160 (a) The amount of any net capital gain resulting
+161 from application of Subchapter P of the Internal Revenue Code of 1986, Treatment of capital
+162 gains and losses; and
+163 (b) Any other income or loss, or item of income,
+164 expense, gain or loss, that is nonapportionable.
+165 (iii) Determine the District’s share of combined group
+166 ordinary apportionable income or loss by multiplying the amount determined under (A)(ii) of
+167 this section by the combined group apportionment factor as determined under (B) of this section.
+168 (iv) Determine the combined group District’s net capital
+7
+
+169 gain or loss from the application of Subchapter P of the Internal Revenue Code of 1986,
+170 Treatment of capital gains and losses, and the amount of any District’s net capital loss carryover,
+171 as follows:
+172 (a) Each separate item of capital gain or loss for
+173 the combined group is determined following Subchapter P of the Internal Revenue Code of 1986,
+174 Treatment of capital gains and losses.
+175 (b) Each separate item of apportionable capital
+176 gain or loss is then apportioned using the combined group’s apportionment factor determined
+177 under (B) of this section, and each separate item of nonapportionable capital gain or loss is
+178 allocated under § 47-1810.02, Allocation and apportionment of District and non-District income.
+179 (c) The capital gains or losses allocated or
+180 apportioned to the District are then netted consistent with the provisions of Subchapter P of the
+181 Internal Revenue Code of 1986, Treatment of capital gains and losses.
+182 (d) If the amount determined in (A)(iv)(c) of
+183 this section is a net capital gain, that gain is included in combined group taxable net income or
+184 loss before net operating loss deduction as computed under (A)(vi) of this section.
+185 (e) If the amount determined in (A)(iv)(c) of
+186 this section is a net capital loss, that loss may not be deducted from other income but may be
+187 carried over by the combined group and used to offset combined group capital gains, but only to
+188 the extent that the amount or use of such capital loss carryover is not subject to limitations under
+189 any provision of the Internal Revenue Code or applicable federal regulations, or would not be
+190 subject to such limitations applied as if the combined group was the consolidated group.
+191 (f) If the combined group capital loss carryover
+8
+
+192 must be attributed to particular members of the group for purposes of determining limitations
+193 applicable to the amount or use of the capital loss under (A)(iv)(e) above, then this will be done
+194 by multiplying the combined group net capital loss generated for any applicable year by a
+195 fraction, the numerator of which is the separate entity net capital loss of the member for that
+196 year, if any, and the denominator of which is the total separate entity net capital losses for all the
+197 members of the combined group that had net capital losses for that year. A member’s separate
+198 entity net capital loss carryover will be determined as follows:
+199 (I) For each year in which the combined
+200 group recognized a net capital loss, multiply the combined group net apportionable gains and
+201 losses by the member’s separate entity apportionment factor determined under (B) of this
+202 section, netting the resulting apportioned gains and losses as provided in (A)(iv) of this section;
+203 then adding any nonapportionable gains and subtracting any losses allocated to the District that
+204 were generated by that member.
+205 (II) In no case may members of the
+206 combined group be attributed total capital losses under (A)(iv)(f) of this section in excess of the
+207 combined group net capital loss properly reported to the District in the tax year.
+208 (III) In computing the net capital loss
+209 carryover for the member of the combined group, the separate entity capital losses for all
+210 members computed under (A)(iv)(f) of this section will be deemed to be used to offset combined
+211 group capital gains in other years, as allowed under federal law, on a pro-rata basis, starting with
+212 the earliest year.
+213 (v) Determine the amount of any combined group
+214 nonapportionable items of income, expense, gain or loss not allocated under (A)(iv)(b) of this
+9
+
+215 section that are allocable to the District under § 47-1810.02, Allocation and apportionment of
+216 District and non-District income.
+217 (vi) Determine the combined group District net income or loss
+218 before net operating loss deduction by combining and netting the results from (A)(iii), (A)(iv)(d),
+219 and (A)(v) of this section.
+220 (vii) Determine the combined group District taxable net income
+221 after any net operating loss deduction, by deducting from the amount of combined group District
+222 net income computed under (A)(vi) of this section an allowable amount of the combined group’s
+223 net operating loss carryover, determined under this paragraph (vii), as follows:
+224 (a) The allowable amount of the combined group net
+225 operating loss carryover in any tax year is:
+226 (1) The total of the combined group
+227 District losses determined under (A)(vi) of this section for prior years to the extent such losses
+228 have not been used to offset the combined group’s District net income and to the extent those
+229 losses are not otherwise limited by District law or (A)(vii) of this section; plus
+230 (2) The net operating loss carryover of
+231 any members of the group created before the member became a part of the group, but only to the
+232 extent that the net operating loss carryover:
+233 (I) represents net operating
+234 losses that were properly attributed to the member under (A)(vii)(b) below if the member was
+235 part of a separate District combined group when the losses were created;
+236 (II) represents net operating
+237 losses properly allocated or apportioned to the District in the year created;
+10
+
+238 (III) has not been used to offset
+239 income of any taxpayer;
+240 (IV) would not be subject to
+241 limitations as to the amount or use applicable under any provision of the Internal Revenue Code
+242 or federal regulations, or would not be subject to such limitations applied as if the combined
+243 group was the consolidated group; and
+244 (V) is not otherwise not limited by
+245 District law; minus
+246 (3) The net operating loss carryover of a
+247 member of the combined group attributed to that member under (A)(vii)(b) below, that has not
+248 been used to offset income and is not otherwise limited by District law as of the date that
+249 member is no longer part of the combined group.
+250 (b) If the combined group net operating
+251 loss carryover must be attributed to particular members of the group for purposes of determining
+252 limitations applicable to the amount or use of the net operating loss carryover under (A)(vii) of
+253 this section, then this will be done by multiplying the combined group net loss generated for any
+254 applicable year by a fraction, the numerator of which is the separate entity net loss of the
+255 member for that year, if any, and the denominator of which is the total separate entity net losses
+256 for all the members of the combined group that had net losses for that year. A member’s separate
+257 entity net loss will be determined as follows:
+258 (1) The amount of combined group ordinary
+259 apportionable income determined under (A)(ii) of this section multiplied by the member’s
+260 separate entity apportionment factor as determined under (B) of this section; plus
+11
+
+261 (2) The amount of any combined group net gain
+262 determined under (A)(iv) of this section multiplied by the member’s separate entity
+263 apportionment factor as determined under (B) of this section; plus or minus
+264 (3) The amount of any nonapportionable items
+265 of income, expense, gain or loss allocated to the District under (A)(v) of this section that were
+266 generated by the member; plus or minus
+267 (4) Any adjustments to properly reflect the
+268 member’s separate entity loss.
+269 (5) In no case shall members be attributed total
+270 losses under (A)(vii)(b) of this section in excess of the combined group loss properly reported to
+271 the District in the tax year.
+272 (6) In computing the net operating loss
+273 carryover for the member of the combined group, the separate entity net operating losses for all
+274 members computed under (A)(iv)(f) of this section will be deemed to be used to offset combined
+275 group net income in other years, as allowed under federal law, on a pro-rata basis, starting with
+276 the earliest year.
+277 (viii) Application of District tax credit. If the use of a tax credit
+278 provided in any other section of this chapter is limited to District tax attributed to a member of a
+279 combined group, then the tax that may be offset by the credit is calculated as follows:
+280 (1) The amount of combined group ordinary
+281 apportionable income determined under (A)(ii) of this section multiplied by the member’s
+282 separate entity apportionment factor as determined under (B) of this section; plus
+283 (2) The amount of any combined group net gain
+12
+
+284 determined under (A)(iv) of this section multiplied by the member’s separate entity
+285 apportionment factor as determined under (B) of this section; plus or minus
+286 (3) The amount of any nonapportionable items of
+287 income, expense, gain or loss allocated to the District under (A)(v) of this section that were
+288 generated by the member; plus or minus
+289 (4) Any adjustments to properly reflect the member’s
+290 separate entity loss; multiplied by
+291 (5) The applicable tax rate.
+292 (B) Allocation and apportionment. Unless otherwise provided in this chapter, §
+293 47–1810.02, Allocation and apportionment of District and non-District income, determines how
+294 income or loss, or items making up income or loss, are allocated and apportioned to the District.
+295 (i) Combined group apportionment factor. The combined group
+296 apportionment factor is a percentage determined under § 47-1810.02, Allocation and
+297 apportionment of District and non-District income, where the numerator of the factor(s)
+298 include(s) amounts sourced to the District for the combined group’s unitary business, regardless
+299 of the separate entity to which those factors may be attributed, and the denominator of the
+300 factor(s) include(s) amounts associated with the combined group’s unitary business wherever
+301 located.
+302 (ii) Separate entity apportionment factor. The separate entity
+303 apportionment factor for a member of the combined group is a percentage determined under §
+304 47-1810.02, Allocation and apportionment of District and non-District income, where the
+305 numerator of the factor(s) include(s) amounts sourced to the District for the member, and the
+306 denominator of the factor(s) include(s) amounts associated with the combined group’s unitary
+13
+
+307 business wherever located.
+308 (iii) If a member of the combined group holds a partnership interest,
+309 that is not an unincorporated business under District law, from which it derives apportionable
+310 income, the share of the partnership’s apportionment factor(s)s] to be included in the
+311 apportionment factor(s) of the group is determined by multiplying the partnership’s factor(s) by a
+312 ratio, the numerator of which is the amount of the partnership’s apportionable income properly
+313 included in the member’s income, whether received directly or indirectly, and including any
+314 guaranteed payments, and the denominator of which is the amount of the partnership’s total
+315 apportionable income. If a member of the combined group directly or indirectly receives an
+316 allocation of a partnership tax item, such as an item of loss or expense, so that it is not possible to
+317 determine the member’s share of apportionable income, the Chief Financial Officer may provide
+318 rules for inclusion of particular partnership factors, or portions of factors, in the combined
+319 group’s factors.”
+320 Sec 5. Section 47-1810.07, Water’s-edge reporting; initiation and withdrawal
+321 election, is repealed.
+322 A new section 47-1810.07A, Water’s-edge election; initiation and withdrawal, of the
+323 District of Columbia Official Code is added to read as follows:
+324 “(a) Water’s-edge election. For tax years beginning after December 31, 2025, members
+325 of a unitary group that meet the requirements of subsection (b) of this section may elect to file as
+326 a combined group pursuant to a water’s-edge election. Under such election, the combined group
+327 takes into account all or a portion of the income and apportionment factors of only the following
+328 members, otherwise included in the combined group pursuant to § 47-1805.02a-1, Combined
+329 return required; joint and several liability, as described below:
+14
+
+330 (1) the entire income and apportionment factors of a member incorporated or
+331 formed in the United States under the laws of any state, the District of Columbia, or any territory
+332 or possession of the United States;
+333 (2) the entire income and apportionment factors of a member, regardless of
+334 the place incorporated or formed, if the average of its property, payroll, and receipts factors
+335 within the United States is 20 percent or more;
+336 (3) the entire income and apportionment factors of a member which is a
+337 domestic international sales corporations, as described in sections 991 through 994 of the
+338 Internal Revenue Code of 1986, inclusive; a foreign sales corporation, as described in sections
+339 921 through 927 of the Internal Revenue Code of 1986, inclusive; or a member which is an
+340 export trade corporation, as described in in sections 970 through 971 of the Internal Revenue
+341 Code of 1986, inclusive;
+342 (4) a member not described in subparagraphs (1), (2), or (3), inclusive, shall
+343 include the portion of its income derived from or attributable to sources within the United States,
+344 as determined under the provisions of Internal Revenue Code of 1986 without regard to federal
+345 treaties, and its apportionment factors related thereto;
+346 (5) for a member that is a “controlled foreign corporation,” as defined in
+347 section 957 of the Internal Revenue Code of 1986, include income to the extent of the income of
+348 that member that is defined in section 952 of Subpart F of the Internal Revenue Code of 1986
+349 (“Subpart F income”) not excluding lower-tier subsidiaries’ distributions of such income which
+350 were previously taxed, determined without regard to federal treaties, and the apportionment
+351 factors related to that income; any item of income received by a controlled foreign corporation is
+352 excluded if such income was subject to an effective rate of income tax imposed by a foreign
+15
+
+353 country greater than 90 percent of the maximum rate of tax specified in section 11 of the Internal
+354 Revenue Code of 1986;
+355 (6) a member that earns more than 20 percent of its income, directly or
+356 indirectly, from intangible property or service-related activities that are deductible against the
+357 apportionable income of other members of the combined group, shall include the related income
+358 and the apportionment factors; and
+359 (7) the entire income and apportionment factors of a member that is doing
+360 business in a tax haven, where “doing business in a tax haven” is defined as being engaged in
+361 activity sufficient for that tax haven jurisdiction to impose a tax under United States
+362 constitutional standards. If the member’s business activity within a tax haven is entirely outside
+363 the scope of the laws, provisions and practices that cause the jurisdiction to meet the criteria
+364 established in § 47-1801.04(49), (General definition of “tax haven”), the activity of the member
+365 shall be treated as not having been conducted in a tax haven.
+366 (b) Initiation and withdrawal of election.
+367 (1) A water’s-edge election is effective only if made on a timely-filed,
+368 original return for a tax year by the members of the unitary business. The Chief Financial Officer
+369 shall develop rules and regulations governing the impact, if any, on the scope or application of a
+370 water’s-edge election, including the procedures for election and termination or deemed election,
+371 resulting from a change in the composition of the unitary group, the combined group, the
+372 members, and any other similar change.
+373 (2) Such election constitutes consent to the reasonable production of
+374 documents and taking of depositions in accordance with District law.
+375 (3) In the discretion of the Chief Financial Officer, a water’s-edge
+376 election may be disregarded, in part or in whole, and the income and apportionment factors of
+16
+
+377 any member of the unitary group may be included in or excluded from the combined report
+378 without regard to the provisions of this section, if any member of the unitary group fails to
+379 comply with any provision of this chapter, or if a person otherwise not included in the water’s-
+380 edge combined group was availed of with a substantial objective of avoiding District income tax.
+381 (4) A water’s-edge election is binding for and applicable to the tax
+382 year it is made and all tax years thereafter for a period of 10 years, subject to regulations adopted
+383 by the Chief Financial Officer.
+384 (c) Effect of water’s-edge election on excluded entities. The election under this chapter
+385 has no effect on whether entities that are excluded from the water’s-edge combined group may
+386 be separately liable for tax under District law. Entities subject to the District tax must separately
+387 file and pay tax in the District.”
+388 Sec. 6. Section 47-1803.03, Gross income — Deductions, of the District of Columbia
+389 Official Code is amended as follows:
+390 (a) (a)(16) “Subpart F income” is repealed.
+391 (b) (a)(17) “Dividends from a wholly-owned subsidiary” is amended by striking
+392 the “.” at the end of the sentence and inserting “subject to tax under Chapter 18 of Title 47 of the
+393 District of Columbia Official Code.” in its place.
+394 Sec. 7. Fiscal impact statement.
+395 The Council adopts the fiscal impact statement prepared by the Chief Financial Officer in
+396 the committee report as the fiscal impact statement required by section 4a of the General
+397 Legislative Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official
+398 Code § 1-301.47a).
+399 Sec. 8. Applicability.
+400 This act shall apply for taxable years beginning after December 31, 2025.
+17
+
+401 Sec. 9. Effective Date.
+402 This act shall take effect following approval by the Mayor (or in the event of veto by the
+403 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+404 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+405 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+406 Columbia Register.
+18
+
+Government of the District of Columbia
+Office of the Chief Financial Officer
+Glen Lee
+Chief Financial Officer
+MEMORANDUM
+TO: The Honorable Phil Mendelson
+Chairman, Council of the District of Columbia
+FROM: Glen Lee
+Chief Financial Officer
+DATE: June 24, 2026
+SUBJECT: Fiscal Impact Statement – Combined Reporting Amendment Act of
+2026
+REFERENCE: Draft Bill as provided to the Office of Revenue Analysis on June 23,
+2026
+Conclusion
+Funds are sufficient in the proposed revised fiscal year 2026 budget and proposed fiscal year 2027
+through fiscal year 2030 budget and financial plan to implement the bill. The bill would codify
+additional provisions that are needed to implement the Combined Reporting Amendment Act of
+2024.1 The projected revenue from the bill has already been incorporated into the District’s revenue
+estimates.
+Background
+The District requires combined reporting2 for taxpayers engaged in a “unitary businesses”3 with
+activity inside and outside of the District of Columbia. Combined reporting requires various entities
+1 Subtitle VII-A of the Fiscal Year 2025 Budget Support Act of 2024, Law 25-217, effective September 18,
+2024.
+2 D.C. Official Code § 47–1805.02a.
+3 Per D.C. Official Code § 47-1801.04(55), “unitary business” means a single economic enterprise that is made
+up either of separate parts of a single business entity or of a commonly controlled group of business entities
+that are sufficiently interdependent, integrated, and interrelated through their activities so as to provide
+synergy and mutual benefit that produces a sharing or exchange of value among them and a significant flow
+of value to the separate parts.
+1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727-2476
+www.cfo.dc.gov
+
+The Honorable Phil Mendelson
+FIS: “Combined Reporting Amendment Act of 2026,” Draft bill as provided to the Office of Revenue Analysis
+on June 23, 2026
+in a “combined group”4 to report their combined income for tax purposes, along with allocation and
+apportionment factors. Requirements for a combined group include that entities are engaged as a
+unitary business. Apportionment factors, as set forth in law and regulations, provide how the
+combined report allocates income derived from sources within and outside the District.
+“Joyce” and “Finnigan” are two approaches to apportioning combined group income among
+jurisdictions for tax purposes.5 The District adopted the “Joyce” method when it implemented
+combined reporting. The “Joyce” method requires the District to establish taxing jurisdiction
+separately over every member of a corporate group selling in the District. The “Finnigan” method of
+combined reporting treats the entire unitary business as a single taxpayer. The Combined Reporting
+Amendment Act of 2024 required6 combined filers to switch to using the “Finnigan” method starting
+in tax year 20267. A unitary business will be treated as one taxpayer for purposes of sourcing unitary
+receipts, and the apportionment factor attributes in the numerator will be derived from all the
+members of the combined group, regardless of whether a member has nexus8 with the District of
+Columbia. The bill provides the amendments to, and repeals of, provisions of law necessary to
+implement the Finnigan method of apportionment as follows:
+The bill updates the definition of a “combined group” and adds a definition for a “combined return.”
+The bill updates the definition of “unitary business” to allow for a group of two or more persons
+related by common ownership to be a unitary business, removing a current law reference to a
+requirement to be “a single economic enterprise that is made up either of separate parts of a single
+business entity or of a commonly controlled group of business entities.” The bill makes other
+conforming amendments to definitions.
+The bill repeals the current combined reporting requirements and determination of business income
+of a combined group and creates new ones to begin in tax year 2026.9 Under the bill, the combined
+group calculates its District net taxable income by determining the separate income or loss before
+net operating loss deduction of each member of the group and then by combining members’ income
+or loss while eliminating items of income, expense, and gain and loss from transactions between
+members of the combined group.10 The bill then outlines what the combined group shall eliminate
+from its District net taxable income to calculate the combined group ordinary apportionable net
+income or loss. The combined group must apply an apportionment factor to its apportionable net
+income or loss as outlined in the bill, including the application of the apportionment factors in D.C.
+4 Per D.C. Official Code § 47-1801.04(7), “combined group” means the group of all persons whose income and
+apportionment factors are required to be taken into account pursuant to § 47-1805.02a(a) and (b) and the
+pertinent regulations in determining the taxpayer’s share of the net business income or loss apportionable to
+the District.
+5 “Joyce” and “Finnigan” refer to two court cases in California that ruled on apportionment methods for
+combined reporting.
+6 D.C. Official Code § 47–1805.02b.
+7 Specifically, for tax years beginning after December 31, 2025.
+8 The bill defines “nexus” to mean “the physical, economic, electronic, or virtual presence or connection
+between a taxpayer and the District of Columbia, whether the presence or connection is direct or indirect.”
+9 Specifically, tax years beginning after December 31, 2025.
+10 Including applying the consolidated filing rules under Internal Revenue Code and IRS regulations as if the
+combined group was a consolidated filing group.
+Page 2 of 3
+
+The Honorable Phil Mendelson
+FIS: “Combined Reporting Amendment Act of 2026,” Draft bill as provided to the Office of Revenue Analysis
+on June 23, 2026
+Official Code § 47–1810.0211 and allocation of nonapportionable income. The bill outlines how the
+combined group’s net capital gain or loss is determined and lays out allowable amounts of net
+operating losses that may be carried over by the combined group.
+The bill makes conforming edits to the requirements for a “water’s edge” election12. Previously a
+taxpayer had to make an election to file under the worldwide reporting category. Under the bill, the
+default reporting position is worldwide, but taxpayers may elect to file “water’s edge” reporting.
+Financial Plan Impact
+Funds are sufficient in the proposed revised fiscal year 2026 budget and proposed fiscal year 2027
+through fiscal year 2030 budget and financial plan to implement the bill. The bill would codify
+additional provisions that are needed to implement the Combined Reporting Amendment Act of
+2024.13 The projected revenue from the bill has already been incorporated into the District’s revenue
+estimates as follows:
+Combined Reporting Amendment Act of 2026
+Revenue Included in the District’s Revenue Estimates
+($ thousands)
+FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 Total
+Increase in
+corporate tax $0 $0 $23,100 $15,800 $15,800 $54,700
+collections
+11 Beginning with tax year 2015, all business income is apportioned by the sales factor. The sales factor is a
+fraction, the numerator of which is the total sales of the taxpayer in the District during the tax period, and the
+denominator of which is the total sales of the taxpayer everywhere during the tax period.
+12 By repealing D.C. Official Code § 47-1810.07 and creating a new section, D.C. Official Code § 47-1810.07A
+(Water’s-edge election; initiation and withdrawal).
+13 Subtitle VII-A of the Fiscal Year 2025 Budget Support Act of 2024, Law 25-217, effective September 18,
+2024.
+Page 3 of 3

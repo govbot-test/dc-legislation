@@ -1,0 +1,221 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+The John A. Wilson Building
+1350 Pennsylvania Avenue, nw
+Washington, D.C. 20004
+Christina Henderson Committee Member
+Councilmember, At-Large Hospital and Health Equity
+Chairperson, Committee on Health Judiciary and Public Safety
+Transportation and the Environment
+Statement of Introduction
+Farmers Market Support Amendment Act of 2025
+February 3, 2025
+Today, I am pleased to introduce the Farmers Market Support Amendment Act of 2025, along with
+Councilmembers Charles Allen, Matthew Frumin, Brianne K. Nadeau, Zachary Parker, and Robert
+C. White, Jr. This legislation would establish a Farmers Market Support Program within the
+Department of Health to provide technical assistance, streamline permitting processes, and
+coordinate across agencies to support farmers markets. The legislation also creates a grant program
+to incentivize farmers markets to open and expand operations in low food access areas by funding
+operational costs, infrastructure, and year-round operations. The legislation also standardizes
+licensing requirements for farmers markets and offers discounted permitting fees for markets
+operating in low food access areas.
+Farmers markets are essential for improving access to healthy, affordable food, supporting small-
+scale farmers and District-owned small businesses, and fostering community connections. There
+are currently 48 independently operated DC farmers markets operating across all 8 Wards, and
+almost all DC farmers markets host shoppers that use federal and local food assistance programs.
+The District also offers a wide-range of benefits for low-income residents to shop at farmers
+markets, including Produce Plus and Farmers Market Nutrition Programs for women, children,
+and seniors. Farmers markets are also a proven strategy to incubate District-owned small
+businesses, to boost the sales of nearby brick-and-mortar businesses, and to activate public spaces.
+Many neighborhoods in the District do not have access to healthy food, with approximately
+330,000 residents living in areas classified as low food access, including 111,000 earning less than
+185% of the federal poverty line. As the District works to attract full service grocery stores to low
+food access areas, farmers markets can be an important part of the solution. To support farmers
+markets across the District, the proposed Farmers Market Support Program at DC Health will
+streamline the permitting process, provide technical assistance to markets, and enhance access to
+nutrition benefits like SNAP, WIC, and Senior Farmers Market Nutrition Program vouchers. The
+Program could also provide ride-share services, home delivery, and other logistical support to
+reduce participation barriers.
+This legislation directly supports farmers markets in low food access neighborhoods by creating a
+grant program to help cover operational costs, infrastructure, and extended seasonal operations,
+while also requiring discounted permitting fees to markets in low food access areas. These
+measures aim to encourage the establishment and sustainability of farmers markets in low food
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+The John A. Wilson Building
+1350 Pennsylvania Avenue, nw
+Washington, D.C. 20004
+access communities, significantly increasing access to fresh, locally grown food and promoting
+long-term food security.
+I look forward to working with my Council colleagues to make this critical investment in food
+equity, economic opportunity, and public health, ensuring that all District residents—regardless of
+their ZIP code—can enjoy the benefits of fresh, healthy, and locally sourced food.
+
+1 ______________________________ ______________________________
+2 Councilmember Charles Allen Councilmember Christina Henderson
+3
+4
+5 ______________________________ ______________________________
+6 Councilmember Brianne K. Nadeau Councilmember Matthew Frumin
+7
+8
+9 ______________________________ ______________________________
+10 Councilmember Zachary Parker Councilmember Robert C. White, Jr.
+11
+12
+13 A BILL
+14
+15 ________________
+16
+17 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+18
+19 _______________
+20
+21 To amend the Department of Health Functions Clarification Act of 2001 to establish a farmers
+22 market program within the Department of Health to provide technical assistance to
+23 farmers markets, farm stands, and mobile markets, to recommend improvements to
+24 permitting processes and regulations, to oversee coordination between agencies
+25 regulating farmers markets, to administer a farmers market grant program, and to
+26 establish a farmers market grant program; and to amend the Vending Regulation Act of
+27 2009 to require the Mayor to standardize licensing and permitting requirements for
+28 farmers markets, farm stands, and mobile markets.
+29
+30 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+31 act may be cited as the “Farmers Market Support Amendment Act of 2025”.
+32 Sec. 2. The Department of Health Functions Clarification Act of 2001, effective October
+33 3, 2001 (D.C. Law 14-28; D.C. Official Code § 7-731 et seq.), is amended by adding a new
+34 subtitle C-ii to read as follows:
+35 “Subtitle C-ii. Farmers Markets.
+36 “Sec 4938. Definitions.
+37 “For the purposes of this subtitle, the term:
+1
+
+38 “(1) “Farmer” means a person or entity that raises or produces farm products on land that
+39 the person or entity farms and owns, rents, or leases in the District of Columbia, Virginia, West
+40 Virginia, Maryland, Pennsylvania, Delaware, North Carolina, or New Jersey, for direct sale to
+41 consumers.
+42 “(2) “Farm products” means fruits, vegetables, mushrooms, herbs, nuts, shell eggs, honey
+43 or other bee products, flowers, nursery stock, livestock food products, including meat, milk,
+44 cheese, and other dairy products, and fish.
+45 “(3) “Farmers market” means a market at a fixed location with two or more vendors,
+46 open to the public, operated by a government agency, a nonprofit, a business, or one or more
+47 farmers or producers, that operates at least 6 times per calendar year, and includes at least one
+48 farmer, and where at least 50 percent of vendors are providing direct-to-consumer sales of locally
+49 grown farm products or locally processed food products.
+50 “(4) “Farm stand” means a fixed location with one vendor, open to the public, operated
+51 by a government agency, a nonprofit, a business, or one or more farmers or producers, that
+52 operates at least 6 times per calendar year, and where at least 50% of sales consist of direct-to-
+53 consumer sales of locally grown farm products.
+54 “(5) “Mobile market” means a mobile farm stand that travels to two or more fixed
+55 locations and operates, in total, at least 6 times per calendar year.
+56 “(6) “Locally grown” has the same meaning as in section 101(3) of the Healthy Schools
+57 Act of 2010, effective July 27, 2010 (D.C. Law 18-209; D.C. Official Code § 38-821.01(3)).
+58 “(7) “Locally processed food products” means foods that have been processed, including
+59 canning, cooking, dehydrating, milling, or the addition of other ingredients, in the same states
+60 included in the definition of “locally grown” in subsection 6 of this section. Processed foods
+2
+
+61 include cooked ready-to-eat foods, bread, baked goods, pickles, jams, and farm products that
+62 have been processed into value-added farm products.
+63 “(8) “Low food access area” means a census tract where:
+64 “(A) More than 20% of households earn 185% or less of the federal poverty line;
+65 and
+66 “(B) At least 500 people or 33%, whichever is greater, of the population live more
+67 than 0.5 miles or a 10-minute walk from a grocery store.
+68 “(9) “Producer” means a person or entity that produces locally processed food products.
+69 “(10) “Value-added farm product” means any product processed by a producer from a
+70 farm product.
+71 “Sec. 4939. Farmers Market Support Program.
+72 “(a) There is established in the Department of Health a Farmers Market Support Program
+73 (“program”), which shall:
+74 “(1) Provide information and technical assistance relating to permitting, licensure,
+75 accepting federal and local benefits, and any other relevant support to any farmers market, farm
+76 stand, or mobile market operating or seeking to operate in the District;
+77 “(2) Review and provide recommendations to improve existing District licensing,
+78 permitting, and processes for establishing and operating a farmers market, farm stand, or mobile
+79 market;
+80 “(3) Convene and coordinate with District agencies involved in permitting and
+81 supporting farmers markets, including the Office of Planning, the Department of Transportation,
+82 the Department of Small and Local Business Development, and the Department of Licensing and
+83 Consumer Protection;
+3
+
+84 “(4) Establish and annually update a publicly available online map with farmers
+85 market, farm stand, and mobile market locations, including locations and hours of operation;
+86
+87 “(5) Conduct marketing and promotion activities to encourage customers to use
+88 farmers markets, farm stands, and mobile markets with a focus on those located in low
+89 food access areas;
+90 “(6) Administer the farmers market support grant program established under
+91 subsection (c) of this section; and
+92 “(7) Procure equipment and services to increase access to fresh produce and
+93 improve farmers market, farm stand, and mobile market infrastructure.
+94 “(b) The program may:
+95 “(1) Evaluate the health and economic impacts of farmers markets, farm stands,
+96 and mobile markets on customers that shop at the market and nearby businesses;
+97 “(2) Apply for any federal, state, local, or private grant programs or funding
+98 opportunities that would support farmers markets, farm stands, or mobile markets in the District
+99 or activities of the program;
+100 “(3) Assist with accepting federal and local nutrition benefits;
+101 “(4) Provide vendors with assistance in obtaining equipment, technology,
+102 software, or other e-commerce tools; and
+103 “(5) Offer direct support to residents, including ride-share benefits, home delivery
+104 services, and other programs that improve access to markets.
+4
+
+105 “(c) The program shall establish and administer a grant program to provide at least
+106 $250,000 in grant funding to farmers markets located in low food access areas. Eligible uses of
+107 the grant funding shall include:
+108 “(1) Purchasing materials to establish or expand a farmers market, farm stand, or
+109 mobile market, including tables, tents, signage, storage, and marketing materials;
+110 “(2) Financial assistance to an entity located in a low food access area to host a
+111 farmers market, farm stand, or mobile market on its property;
+112 “(3) Operational and staffing costs;
+113 “(4) Extending operations for an existing farmers market, farm stand, or mobile
+114 market during cold weather months outside of its normal operating season;
+115 “(5) Public safety and post-market cleanup related services; and
+116 “(6) Customer incentives, including matching programs for federal and local
+117 benefits and coupons.
+118 “(d)(1) The grant funding in subsection (c) shall be available to existing farmers markets,
+119 farm stands, and mobile markets, and to entities that show sufficient proof, as established by the
+120 Department of Health through rulemaking, that they intend to operate a farmers market, farm
+121 stand, or mobile market in the eligible area.
+122 “(2) Preference for grant funding shall be given to entities that are providing
+123 locally grown fruits and vegetables, or which include District of Columbia-owned businesses as
+124 vendors.”.
+125 Sec. 3. The Vending Regulation Act of 2009, effective October 22, 2009 (D.C. Law 18-
+126 71; D.C. Official Code § 37-131.01 et seq.), is amended as follows:
+127 (a) Section 7 (D.C. Official Code § 37-131.06) is amended as follows:
+5
+
+128 (1) The existing language is designated as subsection (a).
+129 (2) A new subsection (b) is added to read as follows:
+130 “(b) The Mayor shall post on a public facing website standardized requirements for a
+131 license, permit, or authorization to operate a farmers market, farm stand, or mobile market in the
+132 District.”.
+133 (b) Section 8(a-1) (D.C. Official Code § 37-131.07(a-1)) is amended by adding a new
+134 paragraph (2A) to read as follows:
+135 “(2A) For a farmers market, farm stand, or mobile market as defined by section
+136 4938 of the Department of Health Functions Clarification Act of 2001, as introduced on
+137 ___________ (Bill 26-__), located, or applying to locate, in a low food access area, as defined
+138 by section 4938(8) of the Department of Health Functions Clarification Act of 2001, as
+139 introduced on ___________ (Bill 26-__), seeking to obtain or renew a license, permit, or
+140 authorization under this section, the Mayor shall charge a fee that is discounted by a minimum of
+141 50% from the standard cost.”.
+142 Sec. 4. Fiscal impact statement.
+143 The Council adopts the fiscal impact statement in the committee report as the fiscal
+144 impact statement required by section 602(c)(3) of the District of Columbia Home Rule Act,
+145 approved December 24, 1973 (87 Stat. 813; DC. . Official Code § 1-206.02(c)(3)).
+146 Sec. 5. Effective date.
+147 This act shall take effect following approval by the Mayor (or in the event of veto by the
+148 Mayor, action by the Council to override the veto) and a 30-day period of congressional
+149 review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved
+150 December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+6

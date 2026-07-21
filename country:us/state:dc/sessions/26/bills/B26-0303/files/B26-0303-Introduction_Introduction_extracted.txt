@@ -1,0 +1,101 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2
+3 _______________________
+4 Councilmember Brooke Pinto
+5
+6
+7 A BILL
+8
+9 _________________________
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13 _________________________
+14
+15
+16 To amend, on an emergency basis, the Residential Tranquility Act of 2010 to prohibit persons
+17 targeting a residence for purposes of demonstration from using sound amplifying devices
+18 in a residential zone between 7:00 p.m. and 9:00 a.m., to prohibit a person from
+19 launching or throwing an object onto the residential property of another with the intent to
+20 cause fear, intimidate, or harass any person living or working at that residence, and to
+21 prohibit the use of unattended sound amplifying devices emitting sound while targeting a
+22 residence; and to amend the National Capital Revitalization and Self-Government
+23 Improvement Act of 1997 to provide that the term expiration date for a Council
+24 appointment to the Corrections Information Council shall be December 7th of the year in
+25 which the term expires.
+26
+27 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+28 act may be cited as the “Residential Tranquility Emergency Amendment Act of 2025”.
+29 Sec. 2. The Residential Tranquility Act of 2010, effective May 26, 2011 (D.C. Law 18-
+30 374; D.C. Official Code § 22-2751 et seq.), is amended as follows:
+31 (a) Section 2 (D.C. Official Code § 22-2751) is amended as follows:
+32 (1) Paragraph (1) is amended by striking the phrase “for the purposes of
+33 persuading one or more individuals, or the public, or to protest some action, attitude, or belief.”
+34 and inserting a period in its place.
+1
+
+35 (2) Paragraph (3) is amended by striking the phrase “human beings” and inserting
+36 the word “individuals” in its place.
+37 (3) A new paragraph (4) is added to read as follows:
+38 “(4) "Sound amplifying device" means any machine, device, or loudspeaker that
+39 amplifies sound of the human voice, music, or any other sound. The term "sound amplifying
+40 device" shall not include automobile audio systems when used and heard only by the occupants of
+41 the vehicle in which the automobile audio system is installed.”.
+42 (b) Section 3 (D.C. Official Code § 22-2752) is amended by adding new subsections (a-
+43 1), (a-2), (a-3), and (a-4) to read as follows:
+44 “(a-1) It is unlawful for a person to target a residence for purposes of a demonstration by
+45 using a sound amplifying device between 7:00 p.m. and 9:00 a.m. where the targeted residence
+46 is, in fact, located in Residential Zones, Residential Flat Zones, or Residential Apartment Zones,
+47 as those terms and Zones are defined at the time of the of the conduct giving rise to the violation
+48 in the District of Columbia Zoning Regulations.
+49 “(a-2) It is unlawful to leave an unattended sound amplifying device emitting sound to
+50 target a residence for purposes of a demonstration where the targeted residence is, in fact, located
+51 in Residential Zones, Residential Flat Zones, or Residential Apartment Zones, as those terms and
+52 Zones are defined at the time of the of the conduct giving rise to the violation in the District of
+53 Columbia Zoning Regulations.
+54 “(a-3) It is unlawful to continue or resume targeting a residence in violation of subsection
+55 (a-1) or (a-2) of this section after being instructed by a law enforcement officer to cease targeting
+56 a residence in violation of this law.
+2
+
+57 “(a-4) The Mayor and Metropolitan Police Department may seize and impound any
+58 unattended sound amplifying devices targeting a residence for purposes of a demonstration in
+59 violation of subsection (a-2) of this section.”.
+60 (c) A new section 3a is added to read as follows:
+61 “Sec. 3a. Throwing objects at residential property.
+62 “(a) It is unlawful for any person to knowingly launch or throw an object onto the
+63 residential property of another with the intent to cause fear, intimidate, or harass any person
+64 living or working at that residence.
+65 “(b) A person who violates this section, upon conviction, shall be fined no more than the
+66 amount set forth in section 101 of the Criminal Fine Proportionality Amendment Act of 2012,
+67 effective June 11, 2013 (D.C. Law 19-317; D.C. Official Code § 22-3571.01), or incarcerated for
+68 no more than 90 days, or both.”.
+69 Sec. 3. Section 11201a(b)(2) of the National Capital Revitalization and Self-Government
+70 Improvement Act of 1997, effective October 2, 2010 (D.C. Law 18-233; D.C. Official Code §
+71 24-101.01(b)(2)), is amended by adding a new subparagraph (B-1) to read as follows:
+72 “(B-1) Notwithstanding any other provision of law, the term expiration
+73 date for a Council appointment to the Corrections Information Council shall be December 7th of
+74 the year in which the term expires.”.
+75 Sec. 4. The Residential Tranquility Temporary Amendment Act of 2024, effective April
+76 18, 2025 (D.C. Law 25-323; 71 DCR 14480), is repealed.
+77 Sec. 5. Fiscal impact statement.
+78 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+79 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+3
+
+80 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+81 Sec. 6. Effective date.
+82 This act shall take effect following approval by the Mayor (or in the event of veto by the
+83 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+84 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+85 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+86 D.C. Official Code § 1-204.12(a)).
+4

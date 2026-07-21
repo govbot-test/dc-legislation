@@ -1,0 +1,444 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2 Councilmember Brianne K. Nadeau Councilmember Robert C. White, Jr.
+3
+4
+5
+6
+7 Councilmember Janeese Lewis George Councilmember Brooke Pinto
+8
+9
+10
+11
+12
+13 Councilmember Matthew Frumin
+14
+15
+16
+17
+18
+19
+20
+21
+22 A BILL
+23
+24 __________
+25
+26 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+27
+28 __________
+29
+30 To amend the Tenant Receivership Act to clarify grounds, notice, and procedures for
+31 receivership, expand tools available to the Court and receiver, establish cost recovery and
+32 lien mechanisms, and authorize tenant protections; to amend the Construction Codes to
+33 strengthen injunctive relief; and to amend the Business Organizations Code to permit
+34 dissolution and related remedies in cases of fraud or abuse, and for other purposes.
+35
+36 BE IT ENACTED by the Council of the District of Columbia, That this act may be cited
+37 as the “Strengthening Tenant Receivership and Oversight for Neighborhood Growth (STRONG)
+38 Homes Amendment Act of 2025”.
+
+39 Sec. 2. The Abatement and Condemnation of Nuisance Properties Omnibus Amendment
+40 Act of 2000, effective April 27, 2001 (D.C. Law 13-281; D.C. Official Code § 42-3171.01 et
+41 seq.), is amended as follows:
+42 (a) Section 502 (D.C. Official Code § 42–3651.02) is amended as follows:
+43 (1)Subsection (a) is amended as follows:
+44 (A) Paragraph (1) is amended by striking the phrase “Title 12 of the
+45 District of Columbia Municipal Regulations, or its equivalent,” and inserting the phrase “Title 12
+46 of the District of Columbia Municipal Regulations, the Air Quality Amendment Act of 2013,
+47 effective September 9, 2014 (D.C. Law 20-135; D.C. Official Code § 8-241.01 et seq.), and its
+48 implementing regulations, or any equivalent District or federal law or regulation,” in its place.
+49 (B) Paragraph (2) is amended as follows:
+50 (i) Sub-paragraph (C) is amended by striking the phrase “; or” and
+51 inserting a semicolon in its place.
+52 (ii) Sub-paragraph (D) is amended by striking the period and
+53 inserting the phrase “; or” in its place.
+54 (iii) A new sub-paragraph (E) is added to read as follows:
+55 “(E) By email service on the property owner, lessor, or manager, or the
+56 agent thereof, using any email address identified by the tax records, business license records, or
+57 business entity registration records, or otherwise provided or confirmed by the property owner,
+58 lessor, or manager, or the agent thereof, to the Department of Buildings, the Department of
+59 Licensing and Consumer Protection, or any other agency or instrumentality of the District.”
+60 (2) Subsection (c)(2) is amended as follows:
+
+61 (A) Sub-paragraph (E) is amended by striking the phrase “; or” and
+62 inserting a semicolon in its place.
+63 (B) New Sub-paragraphs (E-i), (E-ii), (E-iii), (E-iv), and (E-v) are added
+64 to read as follows:
+65 “(E1) Indoor mold contamination;
+66 “(E-2) Inoperable cooking appliances or refrigerator;
+67 “(E-3) Inadequate trash removal;
+68 “(E-4) Inoperable heat or air conditioning;
+69 “(E-5) Lack of electric, gas, or water service; or”.”
+70 (b) Section 504 (D.C. Official Code § 42–3651.04) is amended as follows
+71 (1) Subsection (a)(1) is amended to read as follows:“(a)(1) After a petition
+72 has been filed under § 42-3651.03, the Court shall expeditiously:
+73 “(A) Schedule the case for a hearing on any motion for preliminary
+74 injunction filed with the petition; or
+75 “(B) Issue an order requiring the owner, agent, lessor, or manager, as
+76 respondent, to show cause why a receiver should not be appointed.”.
+77 (c) Section 505 (D.C. Official Code § 42–3651.05) is amended as follows:
+78 (1) Subsection (a) is amended to read as follows:
+79 “(a) After a hearing, the Court may appoint a receiver for a rental housing
+80 accommodation or continue the appointment of a receiver made ex parte if it finds that the
+81 petitioner has proven, by a preponderance of the evidence, the existence of the grounds for
+82 receivership as set forth in § 42-3651.02. The failure of the respondent to comply with any
+83 preliminary injunction issued by the Court, or to make substantial progress to comply with any
+
+84 future deadlines in any preliminary injunction issued by the Court, shall create a rebuttable
+85 presumption in favor of appointment of a receiver for the rental housing accommodation. As part
+86 of any order granting a receivership, the Court may also enjoin the respondent from continuing
+87 any of the actions, practices, or patterns of neglect at the rental housing accommodation and at
+88 any other rental accommodations owned, managed, or controlled by the respondent.
+89 (2) Subsection (f) is amended by adding a new paragraph (1A) to read as follows:
+90 “(1A) As part of any proceeding commenced for the appointment of a receiver,
+91 the Court shall order that the respondent or any owner of the subject rental housing
+92 accommodation, or both, respond to financial disclosures requested by the petitioner to identify
+93 available funds to pay for the costs of the receivership.
+94 (3) A new subsection (g) is added to read as follows:
+95 “(g) In a case in which the court has appointed a receiver in response to a petition
+96 made pursuant to § 42-3651.03, the Attorney General may file for recordation a notice of the
+97 pendency of the action as provided by § 42-1207.”.
+98 (d) Section 506 (D.C. Official Code § 42–3651.06) is amended to read as follows:
+99 “Sec. 506. Powers and duties of a receiver.
+100 “(a) The Court shall issue an order specifying the powers and duties of the receiver,
+101 which may include ordering the receiver to:
+102 “(1) Take charge of the operation and management of the rental housing
+103 accommodation and assume all rights to possess and use the building, fixtures, furnishings,
+104 records, and other related property and goods that the owner or property manager would have if
+105 the receiver had not been appointed; and
+
+106 “(2) Give notice of the receivership, in accordance with subsection (b) of this
+107 section, to the rental housing accommodation’s tenants and employees, all public utility
+108 providers whom the owner was responsible for paying before the appointment of the receiver,
+109 any mortgage company holding a lien against the property, any federal or local government
+110 agency or instrumentality currently paying rents or providing other payments on behalf of any
+111 tenant at the rental housing accommodation, and any other person whom the Court orders should
+112 receive notice;
+113 “(3) Have the power to collect all rents and payments for use and occupancy;
+114 “(4)(A) Provide the Court, within 30 days following the issuance of the order of
+115 appointment, with a plan for the rehabilitation of the rental housing accommodation, including
+116 the projected dates when all causes giving rise to the appointment will be abated and a financial
+117 forecast indicating how the rehabilitation will be paid for;
+118 “(B) Serve a copy of the plan upon the owner of record, the Attorney
+119 General for the District of Columbia, and the tenants of the rental housing accommodation, or
+120 their representative;
+121 “(5)(A) Report to the Court at least once every 3 months after the filing of the
+122 report required under paragraph (4) of this subsection, describing the progress made in abating
+123 the conditions giving rise to the appointment, updating the financial forecast for the
+124 rehabilitation, and describing any changes in the condition of the rental housing accommodation
+125 that may change the proposed completion dates submitted under paragraph (4) of this subsection;
+126 “(B) Serve a copy of the report upon the owner of record, the Attorney
+127 General for the District of Columbia, and the tenants of the rental housing accommodation, or
+128 their representative;
+
+129 “(6) Preserve all property and records with which the receiver has been entrusted;
+130 “(7) Assume all rights of the owner to enforce or avoid terms of a lease,
+131 mortgage, secured transactions, and other contracts related to the rental housing accommodation
+132 and its operation; and
+133 “(8) Carry out any other duties established by the Court.
+134 “(b) The notice required by subsection (a)(2) of this section shall include, at a minimum,
+135 the following information in not less than 12-point type in both English and Spanish:
+136 “(1) The reasons for the receivership;
+137 “(2) The identity of the receiver, his or her address and telephone number;
+138 “(3) The receiver’s responsibilities and duties;
+139 “(4) The anticipated duration of the receivership; and
+140 “(5) That no tenant is required to move as a result of the receivership.
+141 “(c) The receiver shall, under the plan described in subsection (a)(4) of this section, make
+142 payments in accordance with the following priorities:
+143 “(1) As a first priority, using monthly rental income, to abate housing
+144 code violations if abatement is required within 7 days of service of notice, and, after abatement
+145 of the conditions, to abate housing code violations if abatement is required within 30 days of
+146 service of notice; and
+147 “(2) As a second priority, for other purposes reasonably necessary in the
+148 ordinary course of business of the property, including maintenance and upkeep of the rental
+149 housing accommodation, payment of utility bills, mortgages and other debts, and payment of the
+150 receiver’s fee.
+
+151 “(d) The receiver shall not make capital improvements to the property except those
+152 necessary to abate housing code violations.
+153 “(e) The receiver shall not enter into contracts which affect the ownership of the property,
+154 except as otherwise authorized by this section.
+155 “(f) The receiver, as well as any property manager or other person or entity hired by the
+156 receiver to assist with performing the receiver’s duties, shall be personally liable only for his or
+157 her acts of gross negligence or intentional wrongdoing in carrying out the receivership.
+158 “(g)(1) A receiver shall be entitled to a reasonable fee established by the Court and
+159 payable from the revenues of the rental housing accommodation, including any fees required to
+160 retain counsel to represent the receiver in the receivership action.
+161 “(2) The receiver shall submit fee petitions to the Court for approval, either
+162 through counsel or through the Attorney General.
+163 “(3) An owner, as defined in section 105(f)(3), shall be required to pay the
+164 receiver for all fees due during the period of the receivership no later than 90 days after the Court
+165 approves each fee petition. Any fees unpaid as of that 90-day deadline shall incur interest at the
+166 rate of 6% per annum during the first year, and 8% per annum during any subsequent years, until
+167 repaid. The receiver may petition the Court to convert the order into a final judgment, and once
+168 the order is so converted, the receiver may take actions to collect any unpaid balance, using all
+169 available collection methods authorized under District or other applicable law.
+170 “(4) An owner's obligation to pay the receiver’s fees pursuant to paragraph (3) of
+171 this subsection shall automatically become a lien on the owner's real property as of the 90-day
+172 deadline established pursuant to paragraph (3) of this subsection.
+
+173 “(5) A lien established pursuant to paragraph (4) of this subsection shall be a prior
+174 and preferred lien over all other liens or encumbrances on the real property, provided that any
+175 liens recorded by the District pursuant to subsection (j) of this section shall be a prior and
+176 preferred lien over any lien recorded by the receiver.
+177 “(h) The receiver may apply for grants, subsidies, and loans for the relief of distressed
+178 properties to the same extent as the owner of the rental housing accommodation.
+179 “(i) The owner, agent, manager, or lessor shall be enjoined, for the duration of the
+180 receivership, from:
+181 “(1) Collecting rents and payments for use and occupancy and shall immediately
+182 turn over any such rents and payments for use and occupancy received by the owner, agent,
+183 manager, lessor, or any agent thereof to the receiver; and
+184 “(2) Authorizing, implementing, or seeking any increase in rent charged for any
+185 unit at the property for the duration of the receivership.
+186 “(i-1) Following the termination of the receivership, the owner, agent, manager, or lessor
+187 shall not implement or seek any increase in rent charged for any unit at the property based on or
+188 to recover for any costs of the receivership, including the costs of any and all repairs and
+189 abatements performed by the receiver.
+190 “(j)(1) In a case in which the court has appointed a receiver in response to a petition made
+191 pursuant tosection 503:
+192 “(A) The court may issue an order authorizing the Attorney General to
+193 supply funding to the receiver from any funds available in the Tenant Receivership Abatement
+194 Fund, established by § 1-301.86e, for any of the following:
+195 “(i) Initial or emergency repairs;
+
+196 “(ii) Maintaining utilities, property management, security, or other
+197 critical services;
+198 “(iii) Relocating and maintaining any tenants displaced for initial
+199 or emergency repairs; or
+200 “(iv) Providing payment to the receiver for its reasonable fees.
+201 “(B) If the court finds, after notice and hearing, that the owner of record of
+202 the rental property currently lacks sufficient funds to pay for rehabilitation of the rental housing
+203 accommodation and that such funds cannot be feasibly and timely obtained through grants,
+204 subsidies, or loans, or that the owner of the rental accommodation is refusing to pay for
+205 rehabilitation of the rental housing accommodation or otherwise operating in bad faith, the Court
+206 may extend the receivership in place under this chapter based on a showing of demonstrated
+207 need and authorize the receiver to do either of the following:
+208 “(i) Sell the property for a fair-market price to an owner capable of
+209 maintaining and, where necessary, rehabilitating the property; or
+210 “(ii) If the owner is a District of Columbia corporation or other
+211 entity, file a petition in the appropriate federal bankruptcy court to place the corporate owner into
+212 bankruptcy proceedings pursuant to, and in a manner consistent with, the federal Bankruptcy
+213 Code.
+214 “(C) If the court authorizes the receiver to sell the property, the receiver
+215 shall:
+216 “(i) Market the property and issue a request for proposals seeking
+217 potential purchasers;
+
+218 “(ii) Determine whether each person or entity submitting a
+219 proposal to purchase is offering a fair-market price and is capable of maintaining and, where
+220 necessary, rehabilitating the property; and
+221 “(iii) Provide the Court and the parties with the proposals from all
+222 qualifying potential purchasers.
+223 “(D) In order to determine whether any potential purchaser is capable of
+224 maintaining and, where necessary, rehabilitating the property, the receiver shall require each
+225 such individual or entity to submit, and the Court shall evaluate:
+226 “(i) Whether the potential purchaser is prepared to furnish the
+227 Department of Buildings with a signed and notarized statement acknowledging the receipt of any
+228 outstanding notices of violation or orders directing the discontinuance of an unlawful act or
+229 condition and/or the abatement or correction of a violation notice, and fully accepting
+230 responsibility, without condition, for making the corrections or repairs required by such notices
+231 or orders;
+232 “(ii) Whether the potential purchaser has submitted a detailed
+233 abatement plan to address any and all outstanding notices of violations or orders to abate from
+234 the Department of Buildings, to address any and all violations of any equivalent local or federal
+235 law or regulation, and, where necessary, to rehabilitate the property as recommended by the
+236 receiver;
+237 “(iii) Whether the potential purchaser has submitted a detailed
+238 funding plan that will provide sufficient funds to complete the abatement plan and any necessary
+239 rehabilitation and to maintain the property in compliance with chapters 1 through 16 of Title 14
+240 of the District of Columbia Municipal Regulations, Title 12 of the District of Columbia
+
+241 Municipal Regulations, the Air Quality Amendment Act of 2013, effective September 9, 2014
+242 (D.C. Law 20-135; D.C. Official Code § 8-241.01 et seq.), and its implementing regulations, and
+243 any other applicable laws and regulations; and
+244 “(vi) Whether the potential purchaser is otherwise capable of
+245 meeting the conditions for termination of the receivership pursuant to § 42–3651.07.
+246 “(E) After notice and a hearing, and upon determining that one or more
+247 potential purchasers are offering a fair-market price and are capable of maintaining and, where
+248 necessary, rehabilitating the property in accordance with applicable laws and regulations, the
+249 Court may select a purchaser and authorize the receiver to proceed with sale of the property.
+250 “(2)(A) If a court issues an order pursuant to paragraph (1)(A) of this subsection,
+251 an owner, shall be required to repay the funding supplied by the Attorney General no later than
+252 30 days after the receiver receives those funds. Any funds unpaid as of that 30-day deadline shall
+253 incur interest at the rate of 6% per annum during the first year, and 8% per annum during any
+254 subsequent years, until repaid. The Attorney General may petition the court to convert the order
+255 into a final judgment, and once the order is so converted, the Attorney General may take actions
+256 to collect any unpaid balance, using all available collection methods authorized under District or
+257 other applicable law.
+258 “(B) An owner's obligation to repay funding pursuant to subparagraph (A)
+259 of this paragraph shall automatically become a lien on the owner's real property as of the date the
+260 Attorney General supplies funds to the receiver pursuant to paragraph (1)(A) of this section.
+261 “(C) A lien established pursuant to subparagraph (B) of this paragraph
+262 shall be a prior and preferred lien over all other liens or encumbrances on the real property
+263 (e) Section 507 (D.C. Official Code § 42–3651.07) is amended as follows:
+
+264 (1) Subsection (a) is amended to read as follows:
+265 “(a) Except as provided in subsection (b) of this section, a receivership shall terminate
+266 when:
+267 “(1) The Court determines that the receivership is no longer necessary because the
+268 grounds on which the appointment of the receiver was based no longer exist; the receiver has
+269 received proper compensation for the services provided; the District of Columbia has been
+270 reimbursed for all expenses related to the appointment of the receiver, including any funds
+271 provided from the Tenant Receivership Abatement Fund; the District of Columbia has been
+272 reimbursed for all expenses related to abatements performed by the District or on its behalf by
+273 any third-party; the District has been reimbursed for all expenses related to temporary or
+274 emergency relocation of tenants at the property; and all fines, infractions, and penalties arising
+275 from code violations at the property to date have been paid in full to the District of Columbia; or
+276 “(2) The Court determines on recommendation from the receiver that the
+277 violations giving rise to the appointment of the receiver cannot be abated and serves a copy of
+278 the order within 10 days on the Director of the Department of Buildings.”.
+279 (2) A new subsection (a-1) is added to read as follows:
+280 “(a-1) If ownership of the property changes during the pendency of any case
+281 maintained under this title, the Court shall, following notice, add the new owner of record as a
+282 party to the case. To terminate a receivership as to any former owner of the property, the Court
+283 must determine that the requirements of subsection (a) of this section are met. To terminate a
+284 receivership as to any new owner of the property following a change in ownership, the Court
+285 must determine:
+
+286 “(1) That the receivership is no longer necessary because the grounds on which
+287 the appointment of the receiver was based no longer exist; and
+288 “(2) As to the time period since the change in ownership, the receiver has
+289 received proper compensation for the services provided; the District has been reimbursed for all
+290 expenses related to the appointment of the receiver; the District has been reimbursed for all
+291 expenses related to abatements performed by the District or on its behalf by any third-party; and
+292 all fines, infractions, and penalties arising from code violations at the property to date have been
+293 paid in full to the District.”.
+294 Sec. 3. Section 8 of the Construction Code Approval and Amendments Act of 1986
+295 effective March 21, 1987 (D.C. Law 6-216; D.C. Official Code § 6–1407) is amended as
+296 follows:
+297 (1) Subsection (a) is amended by striking the phrase “for injunctive relief.
+298 Injunctive relief shall be granted on a showing that it will prevent illegal construction activity in
+299 the District of Columbia. A plaintiff” and inserting the phrase “for injunctive relief. A plaintiff”
+300 in its place.
+301 (2) Subsection (b) is amended by adding a new paragraph (3A) to read as
+302 follows:
+303 “(3A) Ordering any and all repairs or other work needed to comply with any
+304 provision of or order issued under the Construction Codes; or
+305 (3) Subsection (c) is amended by striking the phrase “without bond. The
+306 Superior Court of the District of Columbia may also issue a mandatory injunction commanding
+307 compliance with any provision or order issued under the Construction Codes.” and inserting the
+308 phrase “without bond.” in its place.
+
+309 Sec. 4. Title 29 of the D.C. Official Code is amended as follows:
+310 (a) § 29-807.07 is amended by adding a new subsection (a-1) to read as follows:
+311 “(a-1)(1) The Superior Court may dissolve a limited liability company in a proceeding by the
+312 Attorney General for the District of Columbia if it is established that the company:
+313 “(A) Obtained its certificate of organization through fraud; or
+314 “(B) Has continued to exceed or abuse the authority conferred upon it by
+315 law;
+316 “(2)(A) If the Attorney General, in the course of an investigation to determine
+317 whether to bring a court action under this section, has reason to believe that a person may have
+318 information, or may be in possession, custody, or control of documentary material, relevant to
+319 the investigation, the Attorney General may issue in writing, and cause to be served upon the
+320 person, a subpoena requiring the person to give oral testimony under oath, or to produce records,
+321 books, papers, contracts, electronically-stored data, and other documentary material for
+322 inspection and copying.
+323 “(B) Information obtained pursuant to this authority to subpoena shall not
+324 be admissible in a later criminal proceeding against the person who provided the information.
+325 “(C) The Attorney General may petition the Superior Court for an order
+326 compelling compliance with a subpoena issued pursuant to this authority to subpoena.
+327 “(3) The Superior Court in a proceeding brought to dissolve a company may issue
+328 injunctions, appoint a receiver or custodian pendente lite with all powers and duties the court
+329 directs, take other action required to preserve the company assets wherever located, and carry on
+330 the business of the company until a full hearing can be held.
+
+331 “(4)(A) The Superior Court in a judicial proceeding brought to dissolve a
+332 company may appoint one or more receivers to wind up and liquidate, or one or more custodians
+333 to manage, the activities and affairs of the company. The court shall hold a hearing, after
+334 notifying all parties to the proceeding and any interested persons designated by the court, before
+335 appointing a receiver or custodian. The court appointing a receiver or custodian has jurisdiction
+336 over the company and all of its property wherever located.
+337 “(B) The Superior Court shall describe the powers and duties of the
+338 receiver or custodian in its appointing order, which may be amended. Among other powers:
+339 “(i) The receiver may:
+340 “(I) Dispose of all or any part of the assets of the company
+341 wherever located, at a public or private sale, if authorized by the court; and
+342 “(II) Sue and defend in his or her own name as receiver of
+343 the company;
+344 “(ii) The custodian may exercise all of the powers of the company,
+345 through or in place of its members, to the extent necessary to manage the affairs of the company
+346 in the best interests of its members and creditors.
+347 “(C) The Superior Court during a receivership may redesignate the
+348 receiver a custodian, and during a custodianship may redesignate the custodian a receiver, if
+349 doing so is in the best interests of the company, its members, and its creditors.
+350 “(D) The Superior Court during the receivership or custodianship may
+351 order compensation paid and expenses paid or reimbursed to the receiver or custodian from the
+352 assets of the company or proceeds from the sale of the assets.
+
+353 “(5) If, after a hearing, the Superior Court determines that one or more grounds
+354 for judicial dissolution described in § 29-807.07 exist, it may enter a decree dissolving the
+355 company and specifying the effective date of the dissolution, and the clerk of the court shall
+356 deliver a certified copy of the decree to the Mayor, who shall file it.
+357 “(6) After entering the decree of dissolution, the Superior Court shall direct the
+358 notification of claimants and the winding-up and liquidation of the company’s activities and
+359 affairs in accordance with § 29-804.03 - § 29-804.07.
+360 (b) Section 29–708.11 is amended by adding a new subsection (a-1) to read as follows:
+361 “(a-1)(1) The Superior Court may dissolve a limited partnership:
+362 “(1) In a proceeding by the Attorney General for the District of Columbia if it is
+363 established that the company:
+364 “(A) Obtained its certificate of limited partnership through fraud; or
+365 “(B) Has continued to exceed or abuse the authority conferred upon it by
+366 law.
+367 “(2)(A) If the Attorney General, in the course of an investigation to determine
+368 whether to bring a court action under this section, has reason to believe that a person may have
+369 information, or may be in possession, custody, or control of documentary material, relevant to
+370 the investigation, the Attorney General may issue in writing, and cause to be served upon the
+371 person, a subpoena requiring the person to give oral testimony under oath, or to produce records,
+372 books, papers, contracts, electronically-stored data, and other documentary material for
+373 inspection and copying.
+374 “(B) Information obtained pursuant to this authority to subpoena shall not
+375 be admissible in a later criminal proceeding against the person who provided the information.
+
+376 “(C) The Attorney General may petition the Superior Court for an order
+377 compelling compliance with a subpoena issued pursuant to this authority to subpoena.
+378 “(3) The Superior Court in a proceeding brought to dissolve a partnership may
+379 issue injunctions, appoint a receiver or custodian pendente lite with all powers and duties the
+380 court directs, take other action required to preserve the partnership assets wherever located, and
+381 carry on the business of the partnership until a full hearing can be held.
+382 “(4)(A) The Superior Court in a judicial proceeding brought to dissolve a
+383 partnership may appoint one or more receivers to wind up and liquidate, or one or more
+384 custodians to manage, the activities and affairs of the partnership. The court shall hold a hearing,
+385 after notifying all parties to the proceeding and any interested persons designated by the court,
+386 before appointing a receiver or custodian. The court appointing a receiver or custodian has
+387 jurisdiction over the partnership and all of its property wherever located.
+388 “(B) The Superior Court shall describe the powers and duties of the
+389 receiver or custodian in its appointing order, which may be amended. Among other powers:
+390 “(i) The receiver may:
+391 “(I) Dispose of all or any part of the assets of the
+392 partnership wherever located, at a public or private sale, if authorized by the court; and
+393 “(II) Sue and defend in his or her own name as receiver of
+394 the partnership;
+395 “(ii) The custodian may exercise all of the powers of the
+396 partnership, through or in place of its partners, to the extent necessary to manage the affairs of
+397 the partnership in the best interests of its partners and creditors.
+
+398 “(C) The Superior Court during a receivership may redesignate the
+399 receiver a custodian, and during a custodianship may redesignate the custodian a receiver, if
+400 doing so is in the best interests of the partnership, its partners, and its creditors.
+401 “(D) The Superior Court during the receivership or custodianship may
+402 order compensation paid and expenses paid or reimbursed to the receiver or custodian from the
+403 assets of the partnership or proceeds from the sale of the assets.
+404 “(5) If, after a hearing, the Superior Court determines that one or more grounds
+405 for judicial dissolution described in § 29-708.11 exist, it may enter a decree dissolving the
+406 partnership and specifying the effective date of the dissolution, and the clerk of the court shall
+407 deliver a certified copy of the decree to the Mayor, who shall file it.
+408 “(6) After entering the decree of dissolution, the Superior Court shall direct the
+409 notification of claimants and the winding-up and liquidation of the partnership’s activities and
+410 affairs in accordance with § 29-708.03, § 29-708.06, and § 29-708.07.
+411 Sec. 5. Fiscal impact statement.
+412 The Council adopts the fiscal impact statement in the committee report as the fiscal impact
+413 statement required by 4a of the General Legislative Procedures Act of 1975, approved October
+414 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+415 Sec. 6. Effective date.
+416 This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor,
+417 action by the Council to override the veto), and a 30-day period of Congressional review as
+418 provided in sections 602(c)(1) of the District of Columbia Home Rule Act, approved December
+419 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).

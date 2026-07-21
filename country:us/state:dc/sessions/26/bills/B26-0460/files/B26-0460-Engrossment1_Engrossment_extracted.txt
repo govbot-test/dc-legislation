@@ -1,0 +1,218 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+A BILL
+26-460
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+________________
+1 To amend, on a temporary basis, the Juvenile Curfew Act of 1995 to authorize the Mayor to
+2 extend the juvenile curfew hours in the District when appropriate to protect public safety
+3 or public or private property, to authorize the Chief of Police to establish extended
+4 juvenile curfew hour zones in specified circumstances, to start the juvenile curfew hours
+5 at 11 p.m. every day, and to extend the applicability of the juvenile curfew to 17-year
+6 olds; and to amend the Volunteer Services Clarification Temporary Amendment Act of
+7 2025 to make conforming changes.
+8
+9 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+10 act may be cited as the “Juvenile Curfew Second Temporary Amendment Act of 2025”.
+11 Sec. 2. The Juvenile Curfew Act of 1995, effective September 20, 1995 (D.C. Law 11-48;
+12 D.C. Official Code § 2-1541 et seq.), is amended as follows:
+13 (a) Section 3 (D.C. Official Code § 2-1542) is amended as follows:
+14 (1) Paragraph (1) is amended to read as follows:
+15 “(1) “Chief of Police” means the Chief of the Metropolitan Police Department.”.
+16 (2) A new paragraph (1A) is added to read as follows:
+17 “(1A) “Curfew hours” means:
+18 “(A) From 11:00 p.m. on every dayuntil 6:00 a.m. on the following day;
+1
+
+ENGROSSED ORIGINAL
+19 “(B) Extended curfew hours established by the Mayor pursuant to section
+20 3a; and
+21 “(C) Extended curfew hours in extended juvenile curfew zones established
+22 by the Chief of Police pursuant to section 3b.”.
+23 (3) Paragraph (5) is amended by striking the phrase “under the age of 17 years”
+24 and inserting the phrase “under the age of 18 years” in its place.
+25 (4) A new paragraph (6A) is added to read as follows:
+26 “(6A) “Notice of violation of curfew” means a verbal warning, authorized by an official
+27 that informs a groups of juveniles that they are violating the terms of a curfew, that they may be
+28 arrested if they continue to violate the curfew, and identifies reasonable steps that they can take
+29 to leave the area to avoid arrest.”.
+30 (b) New sections 3a and 3b are added to read as follows:
+31 “Sec. 3a. Temporary extensions of juvenile curfew hours.
+32 “(a) The Mayor may, by issuance of an administrative order pursuant to section 422(12)
+33 of the District of Columbia Home Rule Act, effective December 24, 1973 (87 Stat. 890; D.C.
+34 Official Code § 1-204.22(12), extend the juvenile curfew hours in the District, or any part of the
+35 District, beyond the hours established in section 3(1A)(A), (B), and (C), if the Mayor determines
+36 that such an extension is appropriate to protect public safety or public or private property.
+37 “(b) An administrative order issued by the Mayor under subsection (a) of this section
+38 shall:
+2
+
+ENGROSSED ORIGINAL
+39 “(1) State the basis for the extension of the juvenile curfew hours;
+40 “(2) State the locations in the District where the extended juvenile curfew hours
+41 shall apply or state that the extended juvenile curfew hours shall apply throughout the District;
+42 and
+43 “(3) State the days and hours during which the extended juvenile curfew hours
+44 shall be in effect; provided, that the extended juvenile curfew hours:
+45 “(A) Shall not begin earlier than 8:00 p.m., nor extend past 6:00 a.m., on
+46 any day;
+47 “(B) Shall not remain in effect for more than 4 consecutive days, except as
+48 provided in subsection (e) of this section; and
+49 “(C) Shall not apply to groups of 8 or fewer individuals.
+50 “(c) Except where emergency circumstances, as determined by the Mayor and described
+51 in the administrative order issued under subsection (a) of this section, warrant otherwise,
+52 extended juvenile curfew hours imposed under this section shall not take effect until at least 24
+53 hours after the issuance of the administrative order.
+54 “(d) Notice of the issuance of each administrative order issued under this section shall be
+55 promptly posted on the main website of the District government and on the website of the
+56 Metropolitan Police Department.
+3
+
+ENGROSSED ORIGINAL
+57 “(e) The Mayor may extend the time period during which extended juvenile curfew hours
+58 imposed by this section shall remain in effect by issuing subsequent Mayor’s orders extending
+59 the time period; provided, that each such extension of the time period shall not exceed 30 days.
+60 “(e) The Chief of Police may extend the duration of the designation of an extended
+61 juvenile curfew hours zone to 30 days by issuing a subsequent order extending the duration of
+62 the designation.
+63
+64 “(f) If members of the Metropolitan Police Department discover juveniles in the
+65 designated extended juvenile curfew hours zone during the hours of curfew, the Metropolitan
+66 Police Department shall:
+67 “(1) Where there:
+68 “(A) Is not an imminent danger of bodily injury of significant damage to
+69 property, issue at lest 2 clearly audible and understandable notices of violation of curfew; or
+70 “(B) Is imminent danger of bodily injury or significant damage to
+71 property, issue at least one clearly audible and understandable notice of violation of curfew;
+72 “(2) Provide juveniles a reasonable and adequate time to disperse; and
+73 “(3) Capture on body-worn camera each component of the order to return home
+74 described in paragraph (1) of this subsection.
+75 “Sec. 3b. Temporary designations of extended juvenile curfew hour zones.
+4
+
+ENGROSSED ORIGINAL
+76 “(a) The Chief of Police may designate any area of the District as an extended juvenile
+77 curfew hours zone, in which extended juvenile curfew hours determined by the Chief of Police
+78 shall apply, if the Chief of Police determines that the designation of the extended juvenile curfew
+79 hours zone is appropriate to protect public safety or public or private property in the extended
+80 juvenile curfew hours zone.
+81 “(b) To designate an extended juvenile curfew hours zone, the Chief of Police shall issue
+82 an order that includes:
+83 “(1) The basis for the designation of the extended juvenile curfew hours zone;
+84 “(2) The boundaries of the extended juvenile curfew hours zone; and
+85 “(3) The days and hours of the extended juvenile curfew hours in the extended
+86 juvenile curfew hours zone; provided, that the extended juvenile curfew hours in the extended
+87 juvenile curfew hours zone:
+88 “(A) Shall not begin earlier than 8:00 p.m., nor extend past 6:00 a.m., on
+89 any day;
+90 “(B) Shall not remain in effect for more than 4 consecutive days, except as
+91 provided in subsection (e) of this section; and
+92 “(C) Shall not apply to groups of 8 or fewer individuals.
+93 “(c) In determining whether to designate an extended juvenile curfew hours zone, the
+94 Chief of Police shall consider the following:
+95 “(1) Within the preceding 30 days, the occurrence of:
+5
+
+ENGROSSED ORIGINAL
+96 “(A) Juvenile curfew violations in the proposed extended juvenile curfew
+97 hours zone;
+98 “(B) Police reports of disturbances of the public peace described in section
+99 1 of An Act To confer concurrent jurisdiction on the police court of the District of Columbia in
+100 certain cases, approved July 16, 1912 (37 Stat. 192; D.C. Official Code§ 22-1301), sections 6,
+101 3,9, or 16of An act for the preservation of the public peace and the protection of property within
+102 the District of Columbia, approved July 29, 1892 (27 Stat. 323; D.C. Official Code § 22-1307, §
+103 22-1309, § 22-1312, or § 22-1318), section 211 of the District of Columbia Law Enforcement
+104 Act of 1953, approved June 29, 1953 (67 Stat. 98; D.C. Official Code § 22-1321), or section 901
+105 of An Act relating to crime and criminal procedure in the District of Columbia, approved
+106 December 27, 1967 (81 Stat. 742; D.C. Official Code § 22-1322), in the proposed extended
+107 juvenile curfew hours zone;
+108 “(C) Police reports of dangerous crimes, as that term is defined in D.C.
+109 Official Code § 23-1331(3), in the proposed extended juvenile curfew hours zone;
+110 “(D) Police reports of crimes of violence, as that term is defined in D.C.
+111 Official Code § 23-1331(4), in the proposed extended juvenile curfew hours zone; or
+112 “(E) Police reports of destruction of or damage to public or private
+113 property in the proposed extended juvenile curfew hours zone;
+114 “(2) Intelligence or verifiable information indicative of an intent of 9 or more
+115 juveniles to gather in the proposed extended juvenile curfew hours zone in such a manner that is
+6
+
+ENGROSSED ORIGINAL
+116 likely to result in substantial harm to the public safety, or the safety of those gathering, or
+117 substantial damage to public or private property; and
+118 “(3) Any other verifiable information from which the Chief of Police may
+119 ascertain that public safety or public or private property in the proposed extended juvenile
+120 curfew hours zone is likely to be endangered by the presence of unaccompanied juveniles in the
+121 extended juvenile curfew hours zones.
+122 “(d) Upon the designation of an extended juvenile curfew hours zone the Chief of Police
+123 shall post notice of the designation on the website of the Metropolitan Police Department and
+124 shall post signs in the immediate area of the extended juvenile curfew hours zone.
+125 “(e) The Chief of Police may extend the duration of the designation of an extended
+126 juvenile curfew hours zone to 30 days by issuing a subsequent order extending the duration of
+127 the designation.
+128 “(f) If members of the Metropolitan Police Department discover juveniles in the
+129 designated extended juvenile curfew zone during the hours of curfew, the Metropolitan Police
+130 Department shall:
+131 “(1) Where there:
+132 “(A) Is not an imminent danger of bodily injury or significant damage to
+133 property, issue at least 2 clearly audible and understandable notices of violation of curfew; or
+134 “(B) Is imminent danger of bodily injury or significant damage to
+135 property, issue at least one clearly audible and understandable notice of violation of curfew;
+7
+
+ENGROSSED ORIGINAL
+136 “(2) Provide juveniles a reasonable and adequate time to disperse; and
+137 “(3) Capture on body-worn camera each component of the order to return home
+138 described in paragraph (1) of this subsection.
+139 “(g)(1) An Advisory Neighborhood Commission, business improvement district, or Main
+140 Street organization may petition the Chief of Police to establish an extended juvenile curfew
+141 hours zone in an area covered by, or adjacent to the area covered by, such entity. Such petition
+142 shall be approved by a formal vote of the members of the Advisory Neighborhood Commission,
+143 the members of the board of the business improvement district, or the members of the board of
+144 the Main Street organization.
+145 “(2) A petition submitted pursuant to this subsection shall include the following
+146 information:
+147 “(A) The proposed boundaries of the extended juvenile curfew hours zone;
+148 “(B) The proposed hours of the extended juvenile curfew;
+149 “(C) The proposed duration, in days, of the proposed extended juvenile
+150 curfew hours;
+151 “(D) The reasons why the Advisory Neighborhood Commission, business
+152 improvement district, or Main Street organization is requesting the designation of an extended
+153 juvenile curfew hours zone; and
+154 “(E) Such other information as the Chief of Police may require.
+8
+
+ENGROSSED ORIGINAL
+155 “(3) Consideration of a petition submitted under this section, and the
+156 determination of whether to designate an extended juvenile curfew hours zone in response to the
+157 petition, shall be at the sole discretion of the Chief of Police.”.
+158 Sec. 3. Amended section 3(1A) within subsection (a)(2) of the Volunteer Services
+159 Temporary Amendment Act of 2025, enacted on October 24, 2025 (D.C. Act 26-175; XX DCR
+160 XXX), is amended to read as follows:
+161 “(1A) “Curfew hours” means:
+162 “(A) From 11:00 p.m. on every dayuntil 6:00 a.m. on the following day;
+163 “(B) Extended curfew hours established by the Mayor pursuant to section
+164 3a; and
+165 “(C) Extended curfew hours in extended juvenile curfew zones established
+166 by the Chief of Police pursuant to section 3b.”.
+167 Sec. 4. Fiscal impact statement.
+168 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+169 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+170 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+171 Sec. 5. Effective date.
+172 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+173 the Mayor, action by the Council to override the veto), a 60-day period of congressional review
+174 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+9
+
+ENGROSSED ORIGINAL
+175 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+176 Columbia Register.
+177 (b) This act shall expire after 225 days of its having taken effect.
+10

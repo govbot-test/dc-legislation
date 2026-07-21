@@ -1,0 +1,185 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+April 20, 2026
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+In accordance with section 2 of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-
+142; D.C. Official Code § 1-523.01), and pursuant to section 5 of the Office and Commission on
+African Affairs Act of 2006, effective June 8, 2006 (D.C. Law 16-111, D.C. Official Code § 2-1394),
+I am pleased to nominate the following individual:
+Ms. Rahel Gizaw
+14th Street, NW
+Washington, DC 20010
+(Ward 1)
+for appointment as a public member of the Commission on African Affairs, filling a vacant seat
+formerly held by Carmen Eliam, for the remainder of an unexpired term to end October 27, 2028.
+Enclosed, you will find biographical information detailing the experience of the above-mentioned
+nominee, together with a proposed resolution to assist the Council during the confirmation process.
+I would appreciate the Council’s earliest consideration of this nomination for confirmation. Please
+do not hesitate to contact me, or Steven Walker, Director, Mayor’s Office of Talent and
+Appointments, should the Council require additional information.
+Sincerely,
+Muriel Bowser
+Mayor
+
+~
+1
+2 ' Chairman Phil Mendelson
+3 at the request of the Mayor
+4
+5
+6 A PROPOSED RESOLUTION
+7
+8
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12
+13
+14
+15 To confirm the appointment of Rahel Gizaw to the Commission on African Affairs.
+16
+17 RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+18 resolution may be cited as the "Commission on African Affairs Rahel Gizaw Confirmation
+19 Resolution of 2026".
+20 Sec. 2. The Council of the District of Columbia confirms the appointment of:
+21
+22 Rahel Gizaw
+23 14th Street, NW
+24 Washington, DC 20010
+25 (Ward 1)
+26
+27 as a public member of the Commission on African Affairs, established by section 4 of the Office
+28 and Commission on African Affairs Act of 2006, effective June 8, 2006 (D.C . Law 16-111, D. C.
+29 Official Code§ 2-1393), filling a vacant seat formerly held by Carmen Eliam, for the remainder
+30 of an unexpired term to end October 27, 2028.
+31 Sec. 3. The Council of the District of Columbia shall transmit a copy of this resolution,
+32 upon its adoption, to the nominee and to the Mayor.
+33 Sec. 4. This resolution shall take effect immediately.
+
+Rahel Shiferaw Gizaw
+Professional Experience
+Medical & Public-school Interpreter
+LibertyLanguageServices — Washington, DC | Oct2025—Present
+* Provide accurate Amharic-English medical interpretationwhile maintaining strict HIPAA confidentiality
+and professional neutrality.
++ Safeguardpatientprivacy by properlyhandling and securing verbal, written, and electronic health
+information in compliancewithhospital standards.
+* Coordinate assignments and documentation, includingvoucher submission with precise start/end timesand
+check-in/out verification usingthe Fluency 12S2 system.
++ Maintain professional, calm, and culturally sensitive communication to foster trustand positive interactions
+with patients, nurses, and clinical staff.
+ComputerScientist(GS-1550-09)
+NAVAL Oceanographic Office \NAVOCEANO- Bay StLouis| Mississippi, MS|April 4, 2024 - April 24, 2025
+N-641 SystemsIntegrationServicesDivisionfocused | DevOps/Cloud
+(Position canceled dueto DoD federal hiring freeze afteIr successfully passed thefull Secretclearance process.Active
+SecretClearanceretained.)
++ Supported DoD network infrastructure across secure NIPR and SIPR environments.
+* Managed VPN servers and firewall configurations, optimizing network connectivity.
++ Automated network monitoring using Python and managed applications withinAWS/Azure GovCloud.
+Data Mining ofQuality Inspection Records
+NASAJetPropulsion Laboratory \Pasadena, CA|Jun 2021 —Aug2021
++ Analyzed 10,000+ inspectionrecords using PythonandExcel toevaluate supplier quality and defecttrends, ensuring
+‘NASAcompliance.
++ Builtautomated datapipelines anddashboards in PythonandExcel tovisualizemanufacturingtrends, metrics, and
+defects.
++ Analyzed 2019-2020 inspection data to uncoverquality trends and compare suppliervs. JPL machine shop
+performance.
++ Provided technical insights to QAand stakeholders, improving supplier processes with automatedreportsandanomaly
+detection.
+IT Support Technician
+AmericanAssociation of College & University Transforming STEMHigherEducation —Alexandria, VA\ Nov 2023 - Oct2024
++ Delivered on-site Tier 1/Tier 2 technical support forfaculty, staff, andattendees during national STEM conferences.
++ Resolved liveAV, network, and hardware issues under pressure, ensuring seamlessoperations
++ Assisted userswith software, connectivity, andtechnical inquiries to maintainsmooth session flow.
++ Provided real-time troubleshooting updates toeventorganizers and staff.
+Graduate TeachingAssistant(IT& Programming)
+Universityof theDistrict ofColumbia— Washington, DC | Jan 2022 ~ May 2023
++ Supported instruction for50+ students in Python, Java, C++, SQL, and web technologies, providing troubleshooting
+and leaming guidance.
++ Observed student engagement and classroominteractions, offering feedbackandassisting instructors in fostering a
+positive learning environment.
++ Assisted with grading, documentation, and course record-keeping, ensuring accuracy andconfidentiality.
++ Provided one-on-one academic and technical support, promoting studentconfidence, understanding, andprogress
+
+NASA Engineer & Student Ambassador Coordinator
+UDC CAM-STARS / NASA Partnership – Washington, DC, | Sep 2020 – May 2023
+• Coordinated STEM classroom outreach in K–12 schools, observing student engagement and supporting positive,
+developmentally appropriate learning environments.
+• Facilitated hands-on instructional sessions and workshops, collaborating professionally with teachers, administrators,
+and program staff.
+• Maintained accurate program documentation and reporting for participation, learning outcomes, and project
+compliance requirements.
+• Led CRM and collaboration system improvements (Salesforce, SharePoint, Power Apps, Power Automate) to
+streamline communication and support team coordination
+Founder | Lead Translator & Interpreter
+Global Visa Support LLC – Washington, DC | 2016 – Present
+• Provide live interpretation and document translation across educational, medical, legal, immigration, and court
+settings with accuracy and confidentiality.
+• Facilitate classroom, parent–teacher, and student support meetings, ensuring clear, culturally responsive
+communication.
+• Prepare affidavits, personal statements, and official documents with precision and adherence to legal standards.
+• Manage client scheduling, case records, invoicing, and service coordination, ensuring organized and timely workflow
+operations.
+Education
+• University of the District of Columbia | M.S., Computer Science (Machine Learning & AI) GPA 3.6 •
+University of the District of Columbia | B.S., Computer Science GPA 3.8
+Certifications & Training
+• Currently holds an Active Secret Clearance • AWS Certified Cloud Practitioner | CompTIA Security+
+Publication
+• Impact of Sentiment Analysis for the 2020 U.S. Presidential Election on Social Media Data
+(https://dl.acm.org/doi/10.1145/3589883.3589888)
+
+Executive Office of the Mayor – Mayor’s Office of Talent and Appointments
+John A. Wilson Building | 1350 Pennsylvania Avenue, Suite 600 | Washington, DC 20004
+Rahel Gizaw
+Ms. Rahel Gizaw is a computer scientist, IT professional, and community
+advocate with experience spanning federal service, research, education,
+and public-facing roles.
+She was appointed to a position with the Naval Oceanographic Office,
+where she supported secure Department of Defense systems within NIPR
+and SIPR environments, focusing on DevOps, cloud infrastructure,
+network operations, and automation. She also completed a NASA Jet
+Propulsion Laboratory internship in Data Mining of Quality Inspection
+Records, where she analyzed more than 10,000 inspection datasets using
+Python and Excel to identify defect trends, support compliance standards,
+and strengthen quality assurance processes through automated reporting
+and anomaly detection.
+In addition to Ms. Gizaw’s technical background, she brings over a decade of experience in
+language access and community service. She is the Founder and Lead Translator of Global Visa
+Support LLC, providing Amharic-English medical and public school interpretation services. Her
+work emphasizes ethical professionalism, confidentiality, and culturally responsive
+communication in healthcare, educational, legal, and immigration settings.
+A Ward 1 resident, Ms. Gizaw earned both her Bachelor of Science in Computer Science and her
+Master of Science in Computer Science from the University of the District of Columbia.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Executive Office of Mayor Muriel Bowser
+Office of the General Counsel to the Mayor
+To: Kimberly A. Bassett, Steven Walker
+From: Betsy Cavendish
+Date: March 25, 2026
+Subject: Legal sufficiency review of a resolution appointing members of the Commission
+on African Affairs
+This is to Certify
+that this office has reviewed the above-referenced Resolution and
+found it to be legally unobjectionable. If you have any questions in this regard, please do not
+hesitate to call Kimberly Ulan, Associate General Counsel, Executive Office of the Mayor, at
+202-727-2292, or me at 202-724-7681.
+______________________________
+Elizabeth Cavendish
+______________________________________________________________________________
+The John A. Wilson Building • 1350 Pennsylvania Avenue, NW • Suite 300 • Washington, D.C. 20004 • Office (202) 724-7681

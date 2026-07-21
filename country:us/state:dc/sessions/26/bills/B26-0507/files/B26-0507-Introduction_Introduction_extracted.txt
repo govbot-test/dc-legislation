@@ -1,0 +1,749 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+November 24, 2025
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. M0013 and M0014 to Contract No. CW100309 with The
+National Center for Children and Families, Inc. Approval and Payment Authorization Emergency
+Act of 2025,” and the accompanying emergency declaration resolution in the amount of not to
+exceed $1,035,556.24.
+The legislation will approve Modification Nos. M0013 and M0014 to Contract CW100309 with
+The National Center for Children and Families, Inc. to provide Permanent Supportive Housing III
+program case management services, and to fully exercise option year three of the contract. In
+addition, the legislation will approve payment for the goods and services received and to be
+received under the modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modification. In order to facilitate a response to any questions you may have, please have
+your staff contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at
+(202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Muriel Bowser
+
+: ; 4 ~
+1
+2
+3 'c~ Phil Mendelson
+4 at the request of the Mayor
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16
+17
+18 To approve, on an emergency basis, Modification Nos. M0013 and M0014 to Contract No.
+19 CW100309 with The National Center for Children and Families, Inc., and to authorize
+20 payment for the goods and services received and to be received under the modifications.
+21
+22 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 act may be cited as the "Modification Nos. M0013 and M0014 to Contract No. CW100309 with
+24 The National Center for Children and Families, Inc. Approval and Payment Authorization
+25 Emergency Act of 2025".
+26 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+27 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+28 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+29 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification
+30 Nos. M0013 and M0014 to Contract No. CWI 00309 with The National Center for Children and
+31 Families, Inc. and authorizes payment in the not-to-exceed amount of $1,035,556.24 for the
+32 goods and services received and to be received under the modifications.
+33 Sec. 3. Fiscal impact statement.
+1
+
+34 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+35 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+36 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+37 Sec. 4. Effective date.
+38 This act shall take effect following approval by the Mayor (or in the event of veto by the
+39 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+40 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+41 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+42 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Tipping)
+(A) Human Care Agreement CW100309
+Number: (Modification M0014)
+Proposed Provider: The National Center for Children and Families, Inc.
+Proposed Provider’s Principal: Ralph Belk, Executive Director
+HCA Amount (Option Amount): Not-to-exceed (NTE) $1,035,556.24
+Unit and Method of Compensation: Firm-fixed price with cost reimbursable
+component - task orders issued under Human
+Care Agreement
+Term of Human Care Agreement: July 1, 2025, through June 30, 2026
+Option Period Three
+Type of Contract: Human Care Agreement (HCA)
+Source Selection Method: Request for Qualification (RFQ)
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: NTE $2,070,892.51
+(A25-0125)
+Option Period One Amount: NTE $1,031,478.12
+(CA25-0246)
+Option Period Two Amount: NTE $1,002,276.12
+(CA25-0774)
+1
+
+Option Period Three Amount: NTE $1,035,556.24
+Explanation of difference from base period (if applicable): There is a decrease in the number of
+clients for option period three.
+Option Period Four Amount: NTE $1,035,556.24
+Explanation of difference from base period (if applicable):
+There is an anticipated decrease in the number of clients for option period four.
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The Government of the District of Columbia, Office of Contracting and Procurement, on behalf of
+the Department of Human Services, is seeking to exercise the remaining option in year three for
+The National Center for Children and Families, Inc., to continue to provide Permanent Supportive
+Housing III (PSH3) program case management services, utility assistance, and financial assistance
+to chronically homeless and other highly vulnerable individuals and families experiencing
+homelessness.
+The purpose of this program is to assist residents with histories of chronic homelessness in
+transitioning from the street or temporary living situation into stable and permanent housing,
+maintaining long-term housing, and achieving self-sufficiency. The success of the aforementioned
+initiative will be achieved by referring and connecting participants to supportive services that will
+address their barriers to obtaining and maintaining permanent housing and achieving an optimal
+level of self-sufficiency.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+The solicitation was advertised in the Washington Times on April 8, 2022. RFQ Doc575024 was
+issued in the open market on April 11, 2022, with a closing date of May 17, 2022. The District
+received a total of 28 submissions. Of the 28 responses, 23 were deemed qualified and the vendors
+were notified on June 23, 2022.
+The responses were evaluated in accordance with the qualification criteria outlined in the
+solicitation. The qualification evaluation factors were PSH3 design, case management,
+organizational capacity, and past performance. The National Center for Children and Families,
+Inc., met the qualifications indicated in the RFQ and has a satisfactory rating, providing similar
+services through current and prior HCAs with the District.
+The contracting officer awarded an HCA on July 1, 2022, after determining The National Center for
+Children and Families, Inc. was qualified and responsible, and the proposed price was determined
+to be fair and reasonable.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+2
+
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+No protests were received.
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+CW119472 – Short-Term Family Housing – Site 1/The Kennedy
+CW119478 – Short-Term Family Housing – Site 5/The Sterling
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+The National Center for Children and Families, Inc., currently provides case management services
+to participants in the District of Columbia’s PSH3 program. The program is designed to help
+residents who have histories of chronic homelessness move from the street or temporary living
+situation into stable and permanent housing.
+The National Center for Children and Families, Inc. has adequate financial resources to perform the
+required services and the ability to obtain those resources. The evidence is provided by the
+provider’s Dun & Bradstreet Business Report, which includes its financial history as of August 21,
+2025. The provider has provided the same or similar services for the District and received
+satisfactory performance ratings.
+(H) The period of performance associated with the proposed change, including the date as of
+which the proposed change is to be made effective:
+Modification No. M0013: July 1, 2025, through December 31, 2025 (exercise of partial option).
+Proposed Modification No. M0014: January 1, 2026, through June 30, 2026. (remainder of option)
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+Modification No. M0013: NTE $521,220.50.
+Proposed Modification M0014: Adding $546,999.74 for the remainder of the option period, from
+January 1, 2026, through June 30, 2026.
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+$1,035,556.24
+(K) The date on which the contracting officer was notified of the proposed change:
+3
+
+June 18, 2025
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+On July 1, 2025, the contracting officer exercised a partial option under the Human Care Agreement.
+This action was taken after it was determined that DHS could only reasonably project an estimated
+total number of HCAs at the time. The tipping packages were necessary to ensure the continuation of
+the program without interruption and to provide seamless delivery of services to all eligible
+participants.
+(M) The reason for the proposed change:
+DHS exercised option period three to continue providing services to meet the increased client
+capacity of the PSH3 program, specifically in case management requirements. This will ensure the
+safety of homeless individuals and families residing in the District of Columbia.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+27 DCMR, Chapter 36, Section 3601.
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+A. The National Center for Children and Families, Inc. certifies that they are compliant with the
+Campaign Finance Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a
+B. The National Center for Children and Families, Inc. will comply and will not violate section
+334a of the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+A waiver of the 35% subcontracting requirement was approved by the Department of Small and
+Local Business Development.
+4
+
+(Q) Performance standards and the expected outcome of the proposed contract:
+The District expects the provider to continue to provide permanent supportive housing and case
+management services. In Section C.10.1 of the HCA, the District outlined the required deliverables
+that the provider is responsible for providing. The goal of this program is to assist individuals or
+families experiencing homelessness in obtaining permanent supportive housing.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+$521,220.50 – July 1, 2025
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Office of the Chief Financial Officer certified that funds are available in the budget.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The Office of the Attorney General has determined this contract to be legally sufficient. There is a
+legal claim between the District and The National Center for Children and Families, Inc. at the
+District of Columbia Contract Appeals Board, consolidated cases D-1604 and D-1605. In an
+October 30, 2025, Status Report filed with the Contract Appeals Board, the District and The
+National Center for Children and Families, Inc. represented that they are “optimistic that settlement
+remains a fair possibility, provided the District can validate the revised data provided by
+The National Center for Children and Families, Inc.
+(U) A certification that the Citywide Clean Hands database indicates that the proposed contractor
+is current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands database indicates the provider is current with its District taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+Based on the information contained in the Bidder Offeror certification form, The National Center
+for Children and Families, Inc. has certified that it is current with its federal taxes and does not have
+any outstanding debt to the federal government.
+5
+
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+The National Center for Children and Families, Inc. is not a certified local, small, or disadvantaged
+business enterprise.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None.
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+Based on searches of the District Office of Contracting and Procurement Excluded Parties List and
+the System for Award Management database. The National Center for Children and Families, Inc.
+is not debarred or suspended from Federal or District procurements.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination and Findings for Use of Human Care Agreement
+Determination and Findings for Price Reasonableness
+Determination and Findings for Contractor’s Responsibility
+Determination and Finding for Cost-Reimbursement
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+www.ocp.dc.gov
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+www.ocp.dc.gov
+6
+
+* * *
+GovernmentoftheDistrictofColumbia
+im OfficeoftheChief Financial Officer 1101 4*Street, SW
+Gm OfficeofTax andRevenue Washington,DC20024
+DateofNotice: October2,2025 Notice Number: 0015066435 =
+‘THE NATIONALCENTERFOR CHILDREN & FAMILIES FEIN: **-+#1586
+1438 RHODEISLANDAVENE Case ID: 18726963
+WASHINGTON DC 20018-3709
+CERTIOFFICLCEAANHTANEDS
+As reported in the Clean Hands system, the above referenced individual/entityhas no outstanding
+liability with the District ofColumbia Office ofTax and Revenueorthe DepartmentofEmployment
+Services. Asofthe date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate ofClean Hands is issued.
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE ORPERMIT
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By MelindaJenkins
+BranchChief, Collection and EnforcementAdministration
+Tovalidate this certificate,pleasevisit MyTax.DC.gov. Onthe MyTax DChomepage, clickthe
+“Validate a Certificate ofClean Hands” hyperlinkundertheClean Hands section.
+11014thStreetSW,SuiteW270,Washington,DC 20024/Phone:(202)724-S045/MyTax.DC.gov
+
+GOVERNMENTOF THE DISTRICTOF COLUMBIA
+DEPARTMENT OF HUMAN SERVICES,
+x *
+bl
+=z
+OfficeoftheAgencyFiscalOfficer
+MEMORANDUM
+TO: NancyHapeman
+ChiefProcurement Officer
+OfficeofContractingand Procurement
+THRU: DeliciaV.MooreDelicia V. pgralysgnedby
+AssociateChetFppncil Officer / due 5015
+Human Support luster 220201-0800"
+FROM: HaydenBernar41d2 A Benard
+AgencyFiscal Office
+DepartmentofHuman Services
+DATE October 15,2025
+SUBJECT: CertificationofFundingAvailability forNCCF-Contract#CW100309
+‘ TheOfficeoftheChiefFinancial Officerherebycertifiesthatthesumof$787,611.99isincludedintheDistrict'sLocalBudget
+andFinancialPlanforFiscalYear2026tofundthecosts associatedwithresolcitingtheDepartmentofHumanServicesContract
+withNCCF~for thePermanent Support Housingprogram.Thiscertificationsupports theNCCF—contract duringtheperiod
+from7/01/25—06/30/2026. Thefundallocationisas follows:
+Vendor:NCCF Contract#:CW100309
+FiscalYear2025Funding: 7/01/2—509/30/2025
+DIFS DIFS
+DIFS DIFS
+eeney| Fund| <C%.| program|Aeeount| Project | Award| Subtask| Task Amount
+Jao_| 1010001 |_70347_[ 7oo191_[ 7141002 [N/A N/A NA_ | _N/A_|_ $247,944.25
+FY 2025ContraTocttal:POT27476 $247,944.25
+FiscalYear 2026 Fundi ng: 10/01/2 5~06/30/2 6
+Dies
+agency| PS | Coe |DIES project | award|supask| task | Amount
+Center
+JAO 1010001| 70347 700191_| 7141002 NA N/A N/A NIA $787,611.99
+FY2026ContractTotal $787,611.99
+‘Thetotal optionyearofthecontractisNTE$1,035,556.24 fortheperiod07/01/2025through06/30/2026.
+UponapprovaloftheDistrict’sLocal Budgetand FinancialPlanbytheCouncilandtheMayorandcompletionofthethirty
+‘dayCongressional layover, fundswillbesufficienttopayforfeesandcostsassociatedwiththecontract.Thereisnofiscal
+impact associated withthecontract, Shouldyou haveanyquestions,pleasecontactmeat(202)671-4240.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: November 10, 2025
+SUBJECT: Approval of Option Period 3 for Permanent Supportive Housing Program III
+Human Care Agreement Number: CW100309
+Contractor: The National Center for Children and Families
+Proposed Human Care Agreement Amount: NTE $1,035,556.24
+___________________________________________________________________________
+This is to Certify that this Office has reviewed the above-referenced Contract and that we have
+found it to be legally sufficient, contingent on the Certificate of Insurance being updated to
+reflect all insurance policy requirements in the HCA. Further, the Calendar Year 2026 rates are
+subject to change based upon publication of the CY 2026 Medicaid HSS Rates by the
+Department of Health Care Finance, per 29 DCMR § 10303. Approval of the proposed
+modification to the 2026 rates is contingent on a recertification of available funding to cover any
+increase to the rates. If you have any questions in this regard, please do not hesitate to call me at
+(202) 724-4018.
+______________________________
+Robert Schildkraut
+400 6th Street NW, Suite 9100, Washington, DC 20001 (202) 727-3400
+
+T- ContractNumber PageofPages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW100309 TTI
+“AmendmentModiication Number] 3. EffectiveDate
+7Requistion/PurchaseRequestNo.|5.SolicitationCaption
+PermanentSupportiveHousing,
+. wnoateaten Nemes |
+Mo013 See Block 16C Program -CaseManagement
+6. Issuedby Code 7 Rarinseredby (othertanie6)
+D.C. OfficeofContractingand Procurement District ofColumbiaGovernment
+W 44 a 1 sh 4 i " ng S t t o re n e , t, D N C W, 20 S 0 u 0 i 1 te 330South 6 D 4 ep N a e rt w me Y n o t rk of A H ve u n m u a e n , N Se E rvices
+Attn: DawnMayo
+Washington, DC 20002
+(202)430-3823
+Email: Dawn.mayo2@d
+', NameandAddressofCoiracior(NOsetOty, cou,Saleandzip23) TA Arenaof SotatatonNo
+‘TheNational CenterforChildrenandFamilies Soa
+1438 Rhode IslandAvenue,NE
+Washington, DC 20018 TOR. oaifeationofCntrecvorderNo,
+Contact: RalphBelk x
+‘Telephone: (301) 365-4480ext. 120 ew00309
+E-Mail: rbelk@necf-cares.org
+708, Dated
+Code Facity x| 07/01/22
+TTI THISITEM ONLYAPPLIESTOAMENDMENTSOFSOLICITATIONS
+[Tresownanbaedsaniameriot ttron1 Theaanceoats ceoOfer etd
+( fers mus scioviedgerece of his arenepithReuranddate spate nthesoktaton asmendedby one ingmato
+Ca\Bycomingtorebanidsadeurng1 copescheamen)Byscawedgngreceptofhsareneonextaapfefer
+eer ee) copralaterotaxwhchmasariseswesteatonandarencnerthanber FAIREOFYOURAGRAOMLEDOMENTTO
+iRECEIVEDATTHEPLAGEDESIGNATEDFORTHERECEIPTOFOFFERSPRIORTO.THEHOURANDDATESPECIFIEDMAYRESULTINREJECTION
+OFYOUROrtEm.IbyanchearrnetyouSeretochangeanfeareassbtesauchmaybenaobytefx ProvedeaBo
+Slagamnesaseerercaohsialonandtherand ans faceporto peningNoran atepeti
+12, AccountingandAppropriationData:
+13, THISITEMAPPLIESONLYTOMODIFICATIONSOFCONTRACTS/ORDERS,
+ITMODIFIESTHECONTRACTIORDERNO_ASDESCRIBED INITEM 14
+‘A Thischangeorderisissuedpursuantto(SpecilyAuthoriy)
+“Thechangessetforthintem14aremadeinthecontractlorderno. initem10A,
+BBThe abovenumberedcontracVorder ismodifiedtoretfheladmienistcrattive changes (euchaschangesinpayingfice,appropriationdata
+tc.)setforthinitem 14, pursuantto the authorityof
+- Thissupplementalagreementisent eredintopursuantfoauthoriyof 27DGMR,Chapter36,Section3601.2
+. Other(Specifytypeofmodification and authori) 27DCMR, Chapter 20,Section2008“ExerciseOfOption”
+E-IMPORTANT: —Coniractoris_X_orisnot__Jsrequired(osgnthisdocumentandretum —1_ copytotheissuingoffice
+74 DescriptionofAmendment/Modification(OrganizedbyUGFSectionheadings, mcuingsoictaton/coniractsubjectmatterwhereTeasibie)
+‘Thepurposeofthis modificationtothesubjectHuman CareAgreement (HCA) identified in block 10Ais as
+follows
+1. Inaccordancewith HumanCare AgreementNo. CW100309, Section D.3, Optionto Extendthe Term ofthe
+Agreement, theGovernmentofthe DistrictofColumbiahereby partiallyexerciseoptionperiod threetoextend
+the termofthisHuman CareAgreementfrom July 1, 2025 through December31, 2025 inthenot-to-exceed
+amountof $521,220.50.
+2, In accordance withSection F.8 “DepartmentofLabor Wage Determinations”, the US Department ofLaborWage
+DeterminationNo. 2015-4281, Revision No. 32, datedDeccmber23, 2024 is incorporated byreferenceand
+availableat: SAM.gov
+3. Inaccordance with HCA Section F.10 “Way to WorkAmendment Actof2006”, theDistrictofColumbia2024
+LivingWage rate is adjustedto$17.50 perhoureffective January 1, 2025 until J une 30, 2025. EffectiveJuly 1,
+2025,theDistrict’s Minimum Wageand Living Wage will increaseto$17.95 perhour. The 2025 Living Wage
+Notice and Fact Sheet arehereby incorporated by reference:
+2025 Living WageNotice|(de.gov); 2025 Living WageFact 20V)
+
+7/1/2025
+
+T-time incentive
+3012 ingBonus(CaseManager) perstaff
+(SeeSection C.5.29.8.1) $1,500 member i $0
+-time incentive
+3013 ingBonus(CaseManagerSupervisor) $2000 perstaff
+(SeeSection €.5.29.8.2) member $o
+Retention Bonus-(CaseManage-r 12, L-time incentive
+3014 mos.) perstaff
+(SeeSectionC.5.29.9.1) imate member so
+Retention Bonus-(CaseManager ‘-timeincentive
+3015 Supervisor- 18mos.) perstaff
+(SeeSectionC.5.29.9.2) $3,500 member $o
+3 016 BuildingFees(Individuals)yearone Leased-upfor
+(See SectionC.5.16.2.3) $1,000 365days $2,000
+3017 BuildingFees(Families)yearone Leased-upfor
+(SeeSectionC.5.16.2.3) $1,000 365days $4,000
+3018 Building Fees(Individuals) Leased-upfor
+(SeeSectionC.5.16.2.3) $500 365+days $1,000
+3019 Building Fees(Families) Leased-upfor
+(SeeSection€.5.16.2.3) $500 365+days $2,000
+3020 ‘ApplicationFees(individuals) ‘L-time incentive
+(SeeSection C.5.16.2.4) $150 perindividual _| $300
+3021 ‘ApplicationFees(families) ‘time incentive
+(See Section C.5.16.2.4) $380 perfa $1,520
+$521,220.50
+B.8.5.4 Option Period Three Total
+‘CaseManagementReimbursementComponent CLINS3001-30034
+(SeeSectionsC.8.6through C.8.8) NTE $471,418.50
+CLINS3004-3005
+UtilityAssistanceReimbursement Component
+(See SectionC.5.16.1) NTE$22,650
+CostReimbursementComponent CCLINS3006-3021
+(SeeSectionsC.5.16.; entirety,andC.5.29.5,through NTE $27,152
+C.5.29.9)
+
+L-time incentive
+3012 HiringBonus(CaseManager) $1,500 perstaff
+(SeeSectionC.5.29.8.1) o|** member $0
+‘timeincentive
+3013 HiringBonus (Case Manager Supervisor) $2,000 perstaff
+(SeeSection C.5.29.8.2) o|* member $0
+Retention Bonus-(CaseManager- 12 Itimeincentive
+3014 mos.) perstaff
+(SeeSection C5.29.9.1) o| $2000 member so
+Retention Bonus-(CaseManager ‘I-time incentive
+3015 Supervis-o1r8 mos.) $3,500 perstaff
+(SeeSectionC.5.29.9.2) o|** member $0
+3016 BuildingFees(Individuals)yearone Leased-upfor
+(SeeSection C.5.16.2.3) 2| $1,000 365 da $2,000
+3017 BuildingFees(Families)yearone Leased-upfor
+(SeeSection C.5.16.2.3) 4| $1,000 365 days $4,000
+3018 BuildingFees(Individuals) Leased-upfor
+(SeeSection C.5.16.2.3) 2| $500 365+days $1,000
+3019 BuildingFees(Families) Leased-upfor
+(SeeSection C.5.16.2.3) 4| $500 365+ days $2,000
+3020 ‘Application Fees (indi ‘timeincentive
+(SeeSection C.5.16.2.4) 2| $150 perindividual__|$300
+3021 ‘Application Fees(families) ‘L+time incentive
+(SeeSection C.5.16.2.4) 4| $380 perfamily $1,520
+$521,220.50
+B.8.5.4 Option Period ThreeTotal
+CaseManagementReimbursementComponent CLINS3001-3003A
+(SeeSectionsC.8.6 throughC.8.8) NTE $471,418.50
+UtilityAssistanceReimbursementComponent ‘CLINS 3004-3005
+(SeeSectionC.5.16.1) NTE $22,650
+CostReimbursementComponent ‘CLINS3006-3021
+(SeeSectionsC.5.16.2 initsentirety,andC.5.29.5,through | NTE $27,152
+5.29.9)
+
+7 ContractNumber PageofPages
+AMENDMENT OFSOLICITATION / MODIFICATION OF CONTRACT CW100309 coma
+7, AmendmentModcationNumber| 5. EffeciveDale “%RequisitonPurchaseRequestNo, | 5. SolicTationCaption
+PermanentSupportiveHousing
+Moo14 See Block 16C Program -Case Management
+6. Issued by Code 7. Administeredby(fatherthanTne6)
+D.C.OfficeofContractingand Procurement District ofColumbiaGovernment
+441 4" Street, NW, Suite330 South Department ofHuman Services
+Washington, DC 20001 64New York Avenue,NE
+Attn: Javon Wright Washington, DC20002
+(202) 671-4484
+Email: Javon.wright@dc.gov
+®. NameandAddressof Contra(Ncostroeer,cy, court, taleandzipcode) ‘A Arnoof Sonveateion No.
+‘TheNational Center forChildren and Families
+1438 Rhode Island Avenue, NE oF oes
+Washington, DC 20018 TOA. ModificationofContracvOrdNeor.
+Contact: Ralph Belk
+‘Telephone: (301) 365-4480ext. 120 X| CW100309
+E-Mail: rbelk@necf-cares.org
+708. Dated
+Code Facility x| 07/01/22
+Ti THISITEMONLYAPPLIESTOAMENDMENTSOFSOLICITATIONS
+[iteabovenumberedscicitationisamendedassetforthinitem 14. Thehouranddatespecified forreceiptofOffersXisextendedisnotextended
+(Offersmustacknowiedgereceiptofthisamencmentpriortothehouranddatespecieinthesolicitationorasamended, byoneofthefollowingmethods:
+()BycompletingItems8and15,andretuing _1__ copiesoftheamendment (0)Byacknowledgingreceiptofthisammenémentoneachcopyoftheoffer
+‘submited, or(c) BYseparateletterorfaxwhichincludes8referencetothesolctationandamendmentnumber. FAILUREOFYOURACKNOWLEDGMENT TO
+‘BERECEIVEDATTHEPLACEDESIGNATEDFOR THERECEIPTOFOFFERS PRIORTOTHEHOURANDDATESPECIFIEDMAYRESULTINREJECTION
+(OFYOUROFFER. Ibyvitueofthisamendmentyoudesiretochangeanofferalready submited, suchmaybemadebylerorfax,providedeachliteorr
+{telegram makesreferencetothesoitationandthsamendment andisfeivedpirtotheopeninghouranddatespedfied.
+“2. AccountingandAppropriationData
+13, THISITEMAPPLIESONLYTOMODIFICATIONSOFCONTRACTS/ORDERS,
+ITMODIFIESTHECONTRACTIORDERNO. ASDESCRIBED INITEM 14
+"A Thischange orderisI ssu ed pursutoa(Spnecitfy Authority)
+‘Thechanges setforthintem 14aremadeinthe contraclordneor. inItem10A.
+'B The abovenumberedcontract/orderismodifiedt oreflectthe administrative changes(suchaschanges ihpayingOffice, appropriationdata
+tc) setforthinitem 14, pursutaonthte authorityof:
+% | C-Thissupplemental agreementi enteredintopursuanttotheauthoriof27DMR,Chapter36,Section3601.2
+X__[ D. ther(Sptypeeofmaodifiicatyion and authori): 27DCMR,Chapter20,Section2008"ExercisOefOption™
+E.IMPORTANT: Contractors_X_orisnot isrequfoisrignethdisdocumentandreturn 1. copy totheissuingoffice.
+74 Descriptionof Amendment Modification (OrganizedbyUGF Secionheadings,includingsoltallon/eoniradtsubjectmatterwherefeasible)
+‘The purposeofthismodification tothe subject HumanCare Agreement (HCA) identified in block 10A isas follows:
+1. Exercisethecontract terms forthe remainderofoptionperiod three. Thetotal not-to-exceed amount ofoption
+period three is hereby increased from $521,220.50 by $514,335.74 to$1,035,556.24. The periodofperformance
+is from July 1, 2025through June 30,2026,
+2. Delete in itsentirety 29 DCMRChapter 25 and 77 and Replace with29 DCMR Chapters 25 and 74,
+3. In accordance with HCA Section F.8 “Department ofLabor Wage Determinations” the US
+DepartmentofLabor Wage Determination No. 2015-4281, Revision No. 34, dated July 8, 2025, is
+incorporated by reference and available at: https://sam.gov/wage-determination/2015-4281/34,
+4. In accordance with Section F.10 “Way to Work Amendment Actof2006”, the District ofColumbia
+2024 Living Wage rate is adjusted to $17.50 perhoureffective January 1, 2025 until June 30, 2025.
+Effective July 1, 2025, the District’s Minimum Wage and Living Wage will increase to $17.95 per
+hour. The 2025 Living Wage Notice and Fact Sheet are hereby incorporated by reference:2025
+2 Wage Notice|(de.gov) and 2025 Living Wage Fact Sheet|(de.gov)
+5._In accordance with Section J.9, Attachments, Mayor's Order 2023-131; Notice ofProhibition of
+
+Sexual Harassment in the Workplace: https://ocp.de.gov/modules/file/icons/application-pdf.png.
+6. Contracting Officer in Section E.8 ofthe HCA is changed from Brenda Allen to:
+Dawn Mayo
+Supervisory Contract Specialist
+Office ofContracting and Procurement
+DepartmentofHuman Services
+The District ofColumbia Government
+102-430-3823
+dawn.mayo2@dc.gov
+Allothertermsandconditionsshall remaii unchanged.
+TA, NameofCotrecingOficer
+TA ‘Nameand TileofSigner(Typeorprint)
+PralprD. Relk Learive
+Dki
+Brenda Allen
+18 ‘of Gontractor TEC. DateSigned 6B. DistrictofColumba TEC. DateSigned
+N-7-25
+(SqortCoantarctiengOey
+
+ATTACHMENT A
+Modification M0014
+CW100309 ~The National Center for Children and Families, Inc.
+REVISED
+B85 OPTION PERIOD THREE REIMBURSEMENT RATE,
+Reimbursement for Case Management services, per 29 DCMR, Chapters 25 and 74 shall be as follows:
+ContractLine Not-To-
+Item No. Exceed Numberof
+(CLIN) Item Description Quantity| MonthlyRate|Month Total Price
+B.8.5.1 CaseManagementReimbursementComponent
+HousingSupportive Services Individuals
+30018 (SeeSections C.8.6through C.8.8- rate
+effective7/1/2025through 12/30/2025) 1| $801.43 6| $4,808.58
+Housing Supportive Services Individuals
+30018" (SeeSections C.8.6through C.8.8 ~rate
+effective 1/1/2026through 6/30/2026) 1| $817.46 6| $4,904.76
+HousingSupportiveServices Families
+30028 (SeeSections C.8.6through C.8.8- rate
+effective7/1/2025 through 12/30/2025) 16| $801.43 6| $76,937.28
+Housing Supportive Services Families
+30028" (SeeSections C.8.6through C.8.8-rate
+effective 1/1/2026through 6/30/2026) 16| $817.46 6| $78,476.16
+HousingSupportive Services Family
+(*addon Rate)
+corn (SeeSections €.8.6through C.8.8 - rate
+effective7/1/2025through 12/30/2025) 153| $424.48 6| $389,672.64
+HousingSupportiveServicesFamily
+7 (*addon Rate)
+oo (SeeSections C.8.6through C.8.8— rate
+effective 1/1/2026through 6/30/2026) 153| $432.99 6| $397,484.82
+8.8.5.2UtilityAssistance ReimbursementComponent
+aoe Utility Assistance-Individuals
+(SeeSectionC.5.16.1) 1| $175 12| $2,100
+ae Utility AssistanceFamilies
+(See Section C.5.16.1) 16| $225 12| $43,200
+B.8.5.3 CostReimbursementComponent
+saan Financial AssistanceIndividuals
+(SeeSection C.5.16.2.1) 1| $50 3| $150
+a Financial Assistance Families
+(SeeSectionC.5.16.2.1) 16| $75 3| $3,600
+an CleaningServices (Individuals)
+(SeeSection C.5.16.2.2) 1| $194 3| $582,
+= CleaningServices (Families)
+(See Section C.5.16.2.2) 16| $250 3| $12,000
+ooan ‘OnboardingFeePerCaseload
+(See Section C.5.29.5) 0| $14,870 1| so
+‘OnboardingFeePerCase Manager
+Supervisor(per125case) ae
+3011 (See Section C.5.29.6) o|”™ 1| so
+
+I-timeincentive
+3012 HiringBonus(CaseManager) $1,500 perstaff
+(SeeSectionC.5.29.8.1) 3 member $o
+‘-timeincentive
+3013 HiringBonus(CaseManager Supervisor) $2,000 perstaff
+(SeeSectionC.5.29.8.2) Y member $0
+Retention Bonus-(CaseManager - 12 1+time incentive
+3014 mos.) perstaff
+(SeeSection C.5.29.9.1) $2,000 member $o
+Retention Bonus-(CaseManager 1-time incentive
+3015 Supervisor-18 mos.) $3,500 perstaff
+(See Section C.5.29.9.2) ‘ member $0
+ona BuildingFees(Individuals)yearone Leased-upfor
+(See Section C.5.16.2.3) $1,000 365 days $4,000
+a BuildingFees(Families)yearone Leased-upfor
+(See Section C.5.16.2.3) $1,000 365 days $8,000
+ae BuildingFees(Individuals) Leased-upfor
+(See Section C.5.16.2.3) $500 365+ days $2,000
+a BuildingFees(Families) Leased-upfor
+(SeeSection C.5.16.2.3) $500 365+days $4,000
+a ‘Application Fees(individuals) 1-time incentive
+(SeeSection C.5.16.2.4) $150 perindividual__| $600
+pa ‘Application Fees(families) L-time incentive
+(SeeSection C.5.16.2.4) $380 perfamil $3,040
+$1,035,556.24
+B.8.5.4 Option Period Three Total
+‘CaseManagement CLINS3001-30038
+(See SectionsC.8.6through C.8.8) NTE$952,284.24
+UtilityAssistance CLINS3004-3005
+(See SectionC.5.16.1) NTE$45,300
+CostReimbursement (SeeSectionsC.5.16.2in itsentirety, and] CLINS3006-3021
+5.295,through C.5.29.9) NTE$37,972
+*The Calendar Year2026 rates are subject to change based upon publicationofthe CY 2026
+Medicaid HSS Rates bythe Department ofHealth Care Finance, per29 DCMR § 10303.
+Approvalof the proposed modification to the 2026 rates is contingenton a recertification
+ofavailable funding to cover any increase to the rates.
+
+B.8.6 OPTION PERIOD FOUR REIMBURSEMENT RATE
+Reimbursement for Case Management services, per29 DCMR, Chapters 25 and 74 shall be as follows:
+ContractLine Not-To-
+ItemNo. Exceed Numberof
+(cuIN) ItemDeseription Quantity|MonthlyRate|Month Total Price
+B.8.6.1CaseManagementReimbursementComponent
+HousingSupportiveServices individuals
+40010 (SeeSections C.8.6through C.8.8- rate
+effective7/1/2026through 12/30/2026) 1| $801.43 6| $4,808.58
+HousingSupportiveServicesIndividuals
+40018 (See SectionsC.8.6throughC.8.8-rate
+effective 1/1/2027through6/30/2027) 1| $817.46 6| $4,904.76
+HousingSupportiveServices Families
+40024 (SeeSectionsC.8.6through C.8.8- rate
+effective7/1/2026through 12/30/2026) 16| $01.43 6| $76,937.28
+HousingSupportiveServices Families
+40028" (SeeSections C.8.6through C.8.8~rate
+effective 1/1/2027through 6/30/2027) 16| $817.46 6| $78,476.16
+Housing Supportive Services Family
+(“add onRate)
+Rais (See SectionsC.8.6through C.8.8- rate
+L effective7/1/2026through 12/30/2026) 153| $424.48 __6| $389,672.64
+HousingSupportiveServicesFamily
+i (“add on Rate)
+bison (SeeSectionsC.8.6throughC.8.8 rate
+effective 1/1/2027through6/30/2027) 153| $432.99 6| $397,484.82
+B.8.6.2UtilityAssistanceReimbursementComponent
+a UtilityAssistance-Individuals
+(SeeSectionC.5.16.1) 1| $175, 12| $2,100
+an UtilityAssistance Families
+(SeeSection C.5.16.1) 16| $225 12| $43,200
+8.8.6.3CostRelmbursementComponent
+oe FinancialAssistance Individuals
+(See Section C.5.16.2.1) 1| $50 3| 10
+ar, FinancialAssistance Families
+(SeeSection C.5.16.2.1) 16| $75, 3| $3,600
+a CleaningServices(Individuals)
+(SeeSection€.5.16.2.2) 1| si94 3| ss82
+a CleaningServices(Families)
+(SeeSection C.5.16.2.2) 16| $250 3| $12,000
+“ne ‘OnboardingFeePerCaseload
+(SeeSectionC.5.29.5) o| $14,870 1| so
+‘Onboarding FeePerCase Manager
+Supervisor(per 125case)
+4011 (SeeSectionC.5.29.6) o|$530 1| $0
+
+1-time incentive
+4012 HiringBonus(CaseManager) $1,500 perstaff
+(SeeSection C.5.29.8.1) 0 7 member $0
+1-timeincentive
+4013 HiringBonus(CaseManager Supervisor) $2,000 per staff
+(SeeSectionC.5.29.8.2) o| member so
+Retention Bonus-(CaseManager- 12 1-time incentive
+4014 mos.) perstaff
+(See Section C.5.29.9.1) o| $2,000 member $0
+4 015 S R u e p t e e r n v t i i s o o n r B - o 1 n 8 us mo - s ( . C ) aseManager Gen p 1 e + r ti s m t e af i f ncentive
+(See Section C.5.29.9.2) oO ’ member $o
+4016 Building Fees(Individuals)yearone Leased-upfor
+(SeeSection C.5.16.2.3) 4|$1,000 365days $4,000
+4017 BuildingFees(Families)yearone Leased-upfor
+(SeeSectionC.5.16.2.3) 8|$1,000 365days $8,000
+4018 BuildingFees (individuals) Leased-upfor
+(SeeSection C.5.16.2.3) 4|$500 365+days $2,000
+ae BuildingFees(Families) Leased-upfor
+(SeeSection C.5.16.2.3) 8| $500 365+days $4,000
+4020 Application Fees(individuals) 1-timeincentive
+(See Section C.5.16.2.4) | $150 perindividual _ | $600
+4021 Application Fees(families) 1-time incentive
+(See Section C.5.16.2.4) $380 yer family $3,040
+1,035,556.24
+B.8.6.4 Option Period FourTotal
+CaseManagement ‘CLINS4001=4003A
+(SeeSectionsC.8.6through C.8.8) NTE$952,284.24
+UtilityAssistance CLINS4004-4005
+(SeeSection€.5.16.1) NTE$45,300
+CostReimbursement(SeeSectionsC.5.16.2 in itsentirety, and] CLINS4006-4021
+5.29.5,through C.5.29.9) NTE$37,972
+*The Calendar Year2026 rates are subject to change based upon publicationofthe CY 2026
+Medicaid HSS Rates by the DepartmentofHealth Care Finance, per 29 DCMR § 10303.
+Approvalofthe proposed modification to the 2026 rates is contingent on a recertification
+ofavailable funding to coverany increaseto the rates,
