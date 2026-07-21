@@ -1,0 +1,76 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1
+2 Councilmember Robert C. White, Jr.
+3
+4
+5
+6 A BILL
+7 __________
+8
+9 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+10 ____________________
+11
+12 To amend, on an emergency basis, due to congressional review, the Condominium Act of 1976
+13 to authorize condominium unit owners’ associations to conduct virtual meetings and
+14 clarify voting and quorum requirements for such meetings; to amend section 29-910 of
+15 the District of Columbia Official Code to allow cooperatives to conduct remote meetings;
+16 and to amend sections 29-1005.06, 29-1005.07, and 29-1008.11(b) of the District of
+17 Columbia Official Code to allow limited equity cooperatives to conduct remote meetings.
+18
+19 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+20 Act may be cited as the “Association Meeting Flexibility Congressional Review Emergency
+21 Amendment Act of 2025”.
+22 Sec. 2. Section 303 of the Condominium Act of 1976, effective March 29, 1977 (D.C.
+23 Law 1-89; D.C. Official Code § 42-1903.03), is amended as follows:
+24 (a)Subsection (b) is amended by striking paragraph (4).
+25 (b)A new subsection (f) is added to read as follows:
+26 “(f) Notwithstanding any language contained in this act or in the condominium
+27 instruments:
+28 “(1) Meetings of the unit owners’ association, executive board, or committees
+29 may be conducted or attended by telephone conference, video conference, or similar electronic
+30 means. If a meeting is conducted by telephone conference, video conference, or similar
+31 electronic means, the equipment or system used must permit any unit owner in attendance to hear
+32 and be heard by, and to comprehend what is said by, all other unit owners participating in the
+
+33 meeting. Any unit owner, board member, or committee member attending such meeting shall be
+34 deemed present for quorum purposes.
+35 “(2) A link or instructions on how to access an electronic meeting shall be
+36 included in the notice required under subsection (a) of this section.
+37 “(3) Any matters requiring a vote of the unit owners’ association at an annual or
+38 regular meeting may be set by the executive board for a vote, and a ballot may be delivered with
+39 the notice required under subsection (a) of this section. The executive board may set a reasonable
+40 deadline for a ballot to be returned to the association.
+41 “(4) The executive board may authorize unit owners to submit votes by electronic
+42 transmission up to 7 days before the scheduled date of any meeting of the unit owners, and unit
+43 owners who submit votes during such period shall be deemed to be present and voting in person
+44 at such meeting.”.
+45 Sec. 3. Section 29-910 of the District of Columbia Official Code is amended by striking
+46 the phrase “If authorized by the articles or bylaws” and inserting the phrase “Regardless of
+47 whether remote regular and special meetings of members are authorized by the articles or
+48 bylaws” in its place.
+49 Sec. 4. Section 29-1005.06(c) of the District of Columbia Official Code is amended by
+50 striking the phrase “Unless the organic rules otherwise provide, members” and inserting the word
+51 “Members” in its place.
+52 Sec. 5. Section 29-1005.07(e) of the District of Columbia Official Code is amended by
+53 striking the phrase “Unless the organic rules otherwise provide, members” and inserting the word
+54 “Members” in its place.
+
+55 Sec. 6. Section 29-1008.11(b) of the District of Columbia Official Code is amended by
+56 striking the phrase “Unless the organic rules otherwise provide, a” and inserting the word “A” in
+57 its place.
+58 Sec. 4. Fiscal impact statement.
+59 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+60 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+61 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+62 Sec. 5. Effective date.
+63 This act shall take effect following approval by the Mayor (or in the event of veto by the
+64 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+65 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+66 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+67 D.C. Official Code § 1-204.12(a)).

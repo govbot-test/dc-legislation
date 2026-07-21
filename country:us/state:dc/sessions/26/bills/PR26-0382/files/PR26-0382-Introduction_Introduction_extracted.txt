@@ -1,0 +1,393 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 ______________________
+2 Chairman Phil Mendelson
+3
+4
+5
+6 A PROPOSED RESOLUTION
+7
+8 _____
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12 __________________
+13
+14 To establish the date by which the Mayor shall submit to the Council the proposed budget for the
+15 government of the District of Columbia for the fiscal year ending September 30, 2027, to
+16 identify information and documentation to be submitted to the Council with the proposed
+17 budget for the government of the District of Columbia for the fiscal year ending
+18 September 30, 2027, and to require the Mayor to submit performance plans and
+19 accountability reports pursuant to Title XIV-A of the District of Columbia Government
+20 Comprehensive Merit Personnel Act of 1978.
+21
+22 RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 resolution may be cited as the “Fiscal Year 2027 Budget Submission Requirements Resolution of
+24 2025”.
+25 Sec. 2. Pursuant to section 442(a) of the Home Rule Act (D.C. Official Code § 1-
+26 204.42(a)) (“Home Rule Act”), the Mayor shall submit to the Council, and make available to the
+27 public, not later than April 1, 2026, the proposed budget for the District government and related
+28 budget documents required by sections 442, 443, and 444 of the Home Rule Act (D.C. Official
+29 Code §§ 1-204.42, 1-204.43, and 1-204.44), for the fiscal year ending September 30, 2027.
+30 Sec. 3. The submission documents shall include:
+1
+
+31 (1) A multi-volume publication that details and explains the proposed budget and
+32 financial plan for the entire District government, including all subordinate agencies, independent
+33 agencies, independent instrumentalities, and independent authorities (“agency”), as follows:
+34 (A) Volume 1 shall include an executive summary for the proposed budget
+35 and financial plan, including:
+36 (i)(I) Actual revenues and expenditures for Fiscal Year 2024,
+37 actual revenues and expenditures for Fiscal Year 2025, projected revenues and expenditures for
+38 the Fiscal Year 2026 approved and revised budgets, projected revenues and expenditures for the
+39 Fiscal Year 2027 proposed budget, and projected revenues and expenditures for Fiscal Years
+40 2027 through 2030;
+41 (II) Revenues by source (local, dedicated tax, special
+42 purpose, federal, and private); and
+43 (III) Expenditures by appropriation title;
+44 (ii) A detailed explanation of the revenue assumptions used for the
+45 proposed budget and financial plan, including the assumptions supporting policy proposals
+46 impacting General Fund revenues, and the following for each dedicated tax and special purpose
+47 fund listed by agency:
+48 (I) Actual Fiscal Year 2024 revenue;
+49 (II) Fiscal Year 2024 end-of-year fund balance;
+50 (III) Actual Fiscal Year 2025 revenue;
+51 (IV) Fiscal Year 2025 end-of-year fund balance;
+52 (V) Certified revenues for Fiscal Years 2026 through 2030;
+2
+
+53 (VI) Certified fund balance use for Fiscal Years 2026 and
+54 2027; and
+55 (VII) Certification from the Chief Financial Officer that
+56 projected fund revenues and transfers are consistent with current policies and proposed policies
+57 included in the Mayor’s proposed Fiscal Year 2027 Budget Support Act of 2026;
+58 (iii) A list, by agency, of all special-purpose-revenue-fund
+59 balances, each fund-balance use, a narrative description of each fund, and the revenue source for
+60 each special-purpose-revenue fund, which shall include the:
+61 (I) Actual amounts for Fiscal Year 2024;
+62 (II) Actual amounts for Fiscal Year 2025;
+63 (III) Approved amounts for Fiscal Year 2026; and
+64 (IV) Proposed amounts for Fiscal Year 2027;
+65 (B) Volumes 2, 3, and 4 shall include the budget chapters for each agency
+66 or separate Organizational Level I line item in the District’s annual budget, as follows:
+67 (i) The agency budget structure shall:
+68 (I) Ensure accessibility and transparency regarding the way
+69 taxpayer dollars will be disbursed;
+70 (II) Align with current or proposed agency organizational
+71 structures and programs and clearly indicate the source and amount of funding needed for each
+72 individual program, facility, or venue identified on the agency’s website; and
+73 (III) Include Program and cost center titles that are specific
+74 and descriptive and reflect the programs and activities within the agency;
+3
+
+75 (ii) The following information shall be provided in table format for
+76 Fiscal Year 2024 actual, Fiscal Year 2025 actual, Fiscal Year 2026 approved budget, and the
+77 Fiscal Year 2027 proposed budget:
+78 (I) Total operating budget, capital budget, and full-time
+79 equivalents (“FTEs”) allocated to each;
+80 (II) Amount of funding and FTEs by revenue source (local,
+81 dedicated tax, special purpose, federal, private, and interagency);
+82 (III) Operating budget expenditures by account group;
+83 (IV) Operating budget expenditures and FTEs by program
+84 (Organizational Level II) and cost center; and
+85 (V) Itemized changes, by revenue type, between the Fiscal
+86 Year 2026 approved budget and the Fiscal Year 2027 proposed budget;
+87 (iii) The following information shall be provided in narrative form:
+88 (I) A description of each program and cost center that
+89 explains the purpose and services to be provided; and
+90 (II) An explanation of each proposed programmatic change
+91 and its corresponding budget amount by program, cost center, account group, and fund type,
+92 disaggregated for any change greater than $100,000;
+93 (iv) A program performance report, provided in an appendix
+94 published on the website of the Office of the Chief Financial Officer, which shall include the
+95 status of efforts to comply with the reports of the District of Columbia Auditor;
+4
+
+96 (v) The budget chapter for the Non-Departmental Account shall
+97 include a breakdown of each use and its budgeted amount;
+98 (vi) The volume containing the Public Education cluster shall also
+99 include school-related budget information, including:
+100 (I) A summary statement or table showing the number of
+101 full-time and part-time school-based personnel in the District of Columbia Public Schools
+102 (“DCPS”), by school level (e.g., elementary, middle, junior high, pre-kindergarten through 8th
+103 grade, senior high school) and school, including school-based personnel funded by other District
+104 agencies, federal funds, or private funds;
+105 (II) A summary statement or table showing the number of
+106 special-education students served by school level (e.g., elementary, junior high), including the
+107 number of students who are eligible for Medicaid services;
+108 (III) A summary table showing the projected enrollment
+109 and local budget of each public charter school;
+110 (IV) A summary table showing the projected enrollment
+111 and budget, by fund type, of each District of Columbia public school;
+112 (V) For each District of Columbia public school, a
+113 summary statement or table of the local-funds budget, including the methodology used to
+114 determine each school’s local funding and a separate budget line item for at-risk funding
+115 allocated to the school, as coded in the system of record, the District Integrated Financial System
+116 (DIFS);
+117 (VI) For DCPS:
+5
+
+118 (aa) A table showing the amount of at-risk funding
+119 allocated to central office, the amount allocated to school support, and the amount allocated to
+120 each school, as coded in DIFS;
+121 (bb) A matrix for each school, depicting the total
+122 projected enrollment for each school, where projected student counts are cross-tabulated by
+123 grade level versus the following student statuses: special education level 1, special education
+124 level 2, special education level 3, special education level 4, general education (i.e., no special
+125 education services), extended school year (“ESY”) level 1, ESY level 2, ESY level 3, ESY level
+126 4, English Language Learner, at-risk, and, as applicable, high school over-age at-risk; and
+127 (C) Volume 5 shall include a Capital Improvements Plan (“CIP”) for
+128 Fiscal Years 2027 through 2032 that is based on the current approved CIP and the current
+129 schedule of investment in existing capital assets that is needed to attain and maintain a state of
+130 good repair. The proposed CIP shall include all capital projects (inclusive of subprojects) as
+131 defined in section 103(8) of the Home Rule Act (D.C. Official Code § 1-201.03(8)). The
+132 proposed CIP shall include the following information:
+133 (i) A detailed description for each project with planned allotment
+134 in Fiscal Years 2027 through 2032. The projects shall be organized alphabetically by title,
+135 summarized by owner agency, and listed in a table of contents. Each project description shall
+136 include the following:
+137 (I) A specific scope consistent with the project title;
+138 (II) The purpose;
+139 (III) The current status;
+6
+
+140 (IV) The location (address and ward, if applicable);
+141 (V) A facility name or identifier, if applicable;
+142 (VI) Appropriate maps or other graphics;
+143 (VII) The estimated useful life;
+144 (VIII) The current estimated full-funded cost;
+145 (IX) Proposed sources of funding;
+146 (X) Current allotments, expenditures, and encumbrances;
+147 (XI) Proposed allotments by fiscal year;
+148 (XII) For each pool project, a Fiscal Year 2027 spending
+149 plan that identifies the specific District assets that will be improved with the proposed budget;
+150 provided, that spending of more than $5 million on a specific asset shall be budgeted in a
+151 separate project;
+152 (XIII) The change in budget authority request from the
+153 prior year;
+154 (XIV) The number of FTE positions and the amount of
+155 Personnel Services budget to be funded with the project, as a percentage of the proposed
+156 allotment;
+157 (XV) The estimated impact that the project will have on the
+158 annual operating budget, to include the required ongoing maintenance and repair funding needed
+159 to avoid deferred maintenance costs; and
+7
+
+160 (XVI) Projected dates and actual dates where applicable for
+161 project environmental approvals, design start, design complete, construction start, construction
+162 complete, and closeout that are consistent with the budget request;
+163 (ii) A chart identifying the estimated funding gaps for capital
+164 maintenance projects in each fiscal year of the current approved and proposed CIPs and an
+165 explanation of the progress being made in closing those gaps;
+166 (iii) The proposed Highway Trust Fund budget and the projected
+167 local Highway Trust Fund cash flow for Fiscal Years 2027 through 2032, with actual
+168 expenditures for Fiscal Year 2025 and the approved plan for Fiscal Year 2026;
+169 (iv) A capital budget pro forma setting forth the sources and uses
+170 of new allotments by fund detail and owner agency;
+171 (v) An explanation of the debt-cap analysis used to formulate the
+172 capital budget and a table summarizing the analysis by fiscal year, which shall include total
+173 borrowing, total debt service, total expenditures, the ratio of debt service to expenditures, and the
+174 balance of debt-service capacity for each fiscal year included in the capital improvement plan;
+175 and
+176 (vi) An analysis, prepared by the Mayor, of whether the proposed
+177 CIP is consistent with the Comprehensive Plan, Transportation Improvement Program,
+178 Washington Metropolitan Area Transit Authority capital budget, and other relevant planning
+179 programs, proposals, or elements developed by the Mayor as the central planning agency for the
+180 District. The Mayor’s analysis shall highlight and explain any differences between the proposed
+181 CIP and other programs and plans on a project-by-project basis.
+8
+
+182 (2) Legislation necessary to appropriate funds and implement the proposed budget
+183 and financial plan, including the proposed Fiscal Year 2027 Local Budget Act of 2026 and a
+184 corresponding Fiscal Year 2027 Local Budget Emergency Act of 2026, the proposed Fiscal Year
+185 2027 Federal Portion Budget Request Act of 2026, the proposed Fiscal Year 2027 Budget
+186 Support Act of 2026, and any other legislation that is necessary for implementation of the
+187 proposed budget for the District for Fiscal Year 2027;
+188 (3) The following additional documents shall be transmitted with the proposed
+189 budget on April 1, 2026:
+190 (A) An updated spending plan for federal payment funds for COVID relief
+191 in Fiscal Year 2026, in previous fiscal years as applicable, and in the Fiscal Year 2027 proposed
+192 budget and financial plan, including:
+193 (i) A detailed description of each investment and how the funds
+194 will be spent by initiative, agency, program, cost center, service, project number, account group,
+195 fund type, fund detail, and fiscal year through Fiscal Year 2027, including which investment will
+196 be recurring and funded out of other sources when the federal funding expires; and
+197 (ii) The status of federal approvals needed for each investment;
+198 (B) Expenditure growth assumptions used to develop the financial plan by
+199 agency and account group;
+200 (C) A filterable and sortable table, produced from PeopleSoft on April 1,
+201 2026, which lists all existing and proposed positions by agency, position status, position number,
+202 position title, vacancy status, hire date if filled, last filled date if vacant, the date the position was
+203 posted as vacant, position grade, position step, whether the position is regular or temporary, and:
+9
+
+204 (i) Actual Fiscal Year 2024 expenditures for the position, with
+205 columns for salary, fringe benefits, and overtime for the position;
+206 (ii) Actual Fiscal Year 2025 expenditures for the position, with
+207 columns for salary, fringe benefits, and overtime for the position;
+208 (iii) Projected Fiscal Year 2026 expenditures for the position, with
+209 columns for salary, fringe benefits, and overtime for the position;
+210 (iv) Approved Fiscal Year 2026 expenditures for the position, with
+211 columns for salary, fringe benefits, and overtime for the position;
+212 (v) Proposed Fiscal Year 2027 budget for the position, listing the
+213 FTE’s percentage distribution by funding source, appropriation fund(s), agency fund(s), program
+214 code(s), cost center code(s), grant award number(s) and title(s), and project number(s) and
+215 title(s), along with columns for salary, fringe benefits, and overtime for the position; and
+216 (vi) Proposed Fiscal Year 2027 vacancy savings for the position,
+217 with columns for salary, fringe benefits, and overtime for the identified vacancy savings;
+218 (D) A table summarizing the fixed cost budgets by agency, account group,
+219 and property address, which shall include the:
+220 (i) Actual Fiscal Year 2024 expenditures;
+221 (ii) Actual Fiscal Year 2025 expenditures;
+222 (iii) Approved Fiscal Year 2026 expenditures;
+223 (iv) Fiscal Year 2026 expenditures to date;
+224 (v) Proposed Fiscal Year 2027 budget; and
+10
+
+225 (vi) A description of the methodology used to determine the
+226 amount budgeted;
+227 (E) A table of all interagency projects included in the Fiscal Year 2027
+228 proposed budget, including the buyer and seller agency, whether there is a signed Memorandum
+229 of Understanding (“MOU”) for each interagency funding arrangement, the date the MOU was
+230 signed, and the expiration date of the MOU;
+231 (F) A summary table, which shall include a list of all intra-agency and
+232 inter-agency changes of funding, with a narrative description of each change sufficient to provide
+233 an understanding of the change in funds and its impact on services;
+234 (G) A crosswalk for any agency that has undergone a budget restructuring
+235 in Fiscal Year 2027 or which would undergo a proposed budget restructuring in Fiscal Year 2027
+236 that shows the agency’s allocations by program, cost center, and account group before the
+237 restructuring under the new or proposed structure;
+238 (H) A table showing each agency’s actual fringe rate and amount for
+239 Fiscal Years 2024 and 2025, the approved rate and amount for Fiscal Year 2026, and the
+240 proposed rate and amount for Fiscal Year 2027;
+241 (I) A spreadsheet detailing each revenue source by line item, including the
+242 actual amount received for that revenue line item in the prior 2 fiscal years and the amount
+243 projected to be received for that revenue line item in the proposed budget;
+244 (J) Copies of all agency operating, capital, FTE, and programmatic budget
+245 enhancement requests, including the “Form B” for all agencies and any similar documentation
+11
+
+246 describing in detail agencies’ budget needs or requests, consistent with D.C. Official Code § 47-
+247 318.05a;
+248 (K) Spending plans for all master projects in the proposed CIP;
+249 (L) A filterable and sortable spreadsheet listing every reprogramming,
+250 including those that did not require Council approval, for each of the past 3 fiscal years, by
+251 agency, which shall include:
+252 (i) The source of the reprogrammed funds, by program and cost
+253 center; and
+254 (ii) The recipient of the reprogrammed funds, whether internal or
+255 external, by program and cost center;
+256 (M) A filterable and sortable table showing the proposed Fiscal Year 2027
+257 budget and financial plan by agency, fund, program, cost center, grant award, project, and
+258 account group;
+259 (N) A filterable and sortable spreadsheet of all leases funded by the Fiscal
+260 Year 2027 proposed budget, including the following information for each lease:
+261 (i) Agency utilizing the leased space;
+262 (ii) Square footage;
+263 (iii) Whether the lease is existing, new, or anticipated;
+264 (iv) Start date and renewal date;
+265 (v) Number of full-time employees working or expected to work in
+266 the leased space;
+267 (vi) Actual Fiscal Year 2024 expenditures;
+12
+
+268 (vii) Actual Fiscal Year 2025 expenditures;
+269 (viii) Approved Fiscal Year 2026 expenditures;
+270 (ix) Fiscal Year 2026 expenditures to date; and
+271 (x) Proposed Fiscal Year 2027 budget;
+272 (O) A filterable and sortable spreadsheet identifying all enhancements,
+273 both one-time and recurring, made to agency budgets within the Fiscal Year 2027 proposed
+274 budget, including the following data columns for each enhancement:
+275 (i) Agency code and agency title;
+276 (ii) Appropriation fund code and title;
+277 (iii) Agency fund code and title;
+278 (iv) Program codes and titles;
+279 (v) Cost Center codes and titles;
+280 (vi) Account group;
+281 (vii) Project number and title;
+282 (viii) Recurring versus one-time enhancement;
+283 (ix) Enhancement amounts for each fiscal year in the proposed
+284 financial plan;
+285 (x) A description of the enhancement; and
+286 (xi) The bill number and title of any legislation necessitating the
+287 enhancement; and
+288 (P) A filterable and sortable spreadsheet identifying the number of units
+289 leased with housing vouchers or rent subsidies and the amount of funding spent on housing
+13
+
+290 vouchers or rent subsidies in Fiscal Year 2025, planned to be spent in Fiscal Year 2026, and
+291 proposed to be spent in the Fiscal Year 2027 proposed budget by agency, program, and type of
+292 voucher or subsidy (such as Permanent Supportive Housing - Families, Permanent Supportive
+293 Housing - Individuals, Permanent Supportive Housing - Youth, Targeted Affordable Housing -
+294 Families, Targeted Affordable Housing - Individuals, Tenant-Based, Project-Based, Sponsor-
+295 Based, Shallow Subsidy, Rapid Rehousing - Families, Rapid Rehousing - Individuals, Rapid
+296 Rehousing - Youth). Additional information on the targeted income levels and targeted
+297 population/household type (such as LGBTQIA residents, residents exiting Rapid Rehousing,
+298 veterans, seniors) should be provided when applicable.
+299 (4) The following supplemental documents shall be transmitted no later than April
+300 8, 2026:
+301 (A)(i) A filterable and sortable spreadsheet reflecting all changes made
+302 since April 2, 2025, in the fees collected by the District, by agency, which shall include:
+303 (I) The fee collected;
+304 (II) The amount collected from each fee;
+305 (III) The statute or regulation authorizing the fee;
+306 (IV) The fund or special purpose revenue fund where the
+307 fee is deposited;
+308 (V) The total revenue collected from each fee for Fiscal
+309 Year 2025 and Fiscal Year 2026 to date; and
+310 (VI) Whether the fee can be paid online;
+14
+
+311 (ii) For the purposes of this subparagraph, the term “fee” includes
+312 fines and other charges; and
+313 (B) For the Department of Health (“DOH”), the Department of Behavioral
+314 Services (“DBH”), and the Office of the State Superintendent of Education, a table in each
+315 agency budget showing the amount of funding and number of FTEs provided via:
+316 (i) Interagency services to each DCPS campus, the DCPS
+317 schoolwide activity, the DCPS central administration activity, and the DCPS school support
+318 activity, where funding and FTEs are identified within each applicable agency’s budget down to
+319 the fund detail, cost center, program, and expenditure account groups; and
+320 (ii) In-kind services to DCPS campuses for which there are no
+321 interagency transactions, such as school nursing staff at DOH and school-based mental health
+322 clinicians at DBH.
+323 Sec. 4. If the Mayor proposes a revised budget for Fiscal Year 2026, the revised budget
+324 transmittal shall include the following:
+325 (1) A narrative explanation of the proposed changes, including the sources and
+326 uses of any increase or decrease;
+327 (2) A filterable and sortable spreadsheet of all proposed changes that includes
+328 columns for:
+329 (A) Agency;
+330 (B) Fund type;
+331 (C) Program;
+332 (D) Cost Center;
+15
+
+333 (E) Grant award;
+334 (F) Project;
+335 (G) Account group;
+336 (H) Approved Fiscal Year 2026 budget;
+337 (I) Revised Fiscal Year 2026 budget as of date of the proposed budget;
+338 and
+339 (J) The proposed change; and
+340 (3) A certification letter from the Chief Financial Officer that the proposed Fiscal
+341 Year 2026 revised budget is balanced.
+342 Sec. 5. Pursuant to Title XIV-A of the District of Columbia Government Comprehensive
+343 Merit Personnel Act of 1978, effective May 16, 1995 (D.C. Law 11-16; D.C. Official Code § 1-
+344 614.11 et seq.), the Mayor shall submit to each Councilmember and the Council Officers, and
+345 make available to the public, not later than January 31, 2025, all performance accountability
+346 reports for Fiscal Year 2025 that cover all publicly funded activities of each District government
+347 agency.
+348 Sec. 6. Pursuant to section 446 of the Home Rule Act (D.C. Official Code § 1-204.46),
+349 the Council’s budget-review period shall begin after the date that all materials required to be
+350 submitted by sections 2 through 4, except for section 3(4), have been submitted in accordance
+351 with this resolution and the Council’s rules.
+352 Sec. 7. The Council shall transmit a copy of this resolution, upon its adoption, to the
+353 Mayor.
+354 Sec. 8. This resolution shall take effect immediately.
+16

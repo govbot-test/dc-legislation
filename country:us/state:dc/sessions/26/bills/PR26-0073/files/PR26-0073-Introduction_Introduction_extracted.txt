@@ -1,0 +1,222 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIELBOWSER
+MAYOR
+February 14, 2025
+The Honorable Phil Mendelson
+Chairman
+Councilofthe District of Columbia.
+John A. Wilson Building
+1350Pennsylvania Avenue, NW, Suite 504
+WashingtoDnC, 20004
+Dear Chairman Mendelson:
+In accordance with section 2 ofthe Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-
+142; D.C. Official Code § 1-523.01), and pursuant to section 5 of the Office and Commission on
+Nightlife and Culture Establishment Actof 2018, effective December 13, 2018 (D.C. Law 22-191;
+D.C. Official Code § 3-664), 1 am pleased to nominatethe following individual:
+Mr.Walter“Heru” Peacock
+Pennsylvania Avenue,
+Washington, DC 20020
+(Ward 7)
+for appointment as the District-based musician or producer working in the music industry memberof
+the Commission on Nightlife and Culture, fillinga vacant seat formerly held by Anwan Glover, forthe
+remainderof an unexpired term to end March 15, 2025, and for a subsequent term to end March 15,
+2028.
+Enclosed,you will find biographical information detailing theexperienceofthe above-mentioned
+nominee,together withaproposed resolution toassist theCouncil duringtheconfirmation process.
+I would appreciatetheCouncil’s earliest considerationof this nomination forconfirmation. Please
+do not hesitate to contact me, or Steven Walker, Director, Mayor's Office of Talent and
+Appointments, should the Council require additional information,
+
+1
+2
+3 at the request of the Mayor
+4
+5
+6 A PROPOSED RESOLUTION
+7
+8
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12
+13
+14
+15 To confirm the appointment of Walter "Heru" Peacock to the Commission on Nightlife and
+16 Culture.
+17
+18 RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+19 resolution may be cited as the "Commission on Nightlife and Culture Walter "Heru" Peacock
+20 Confirmation Resolution of 2025".
+21 Sec. 2. The Council of the District of Columbia confirms the appointment of:
+22
+23 Walter "Heru" Peacock
+24 Pennsylvania Avenue, SE
+25 Washington, DC 20020
+26 (Ward 7)
+27
+28 as the District-based musician or producer working in the music industry member of the
+29 Commission on Nightlife and Culture, established by D.C. Official Code § 3-664, filling a vacant
+30 seat formerly held by Anwan Glover, for the remainder of an unexpired term to end March 15,
+31 2025, and for a subsequent term to end March 15, 2028.
+32 Sec. 3. The Council of the District of Columbia shall transmit a copy of this resolution,
+33 upon its adoption, to the nominee and to the Office of the Mayor.
+34 Sec. 4. This resolution shall take effect immediately.
+
+Walter “Heru” Peacock
+Education, Training & Certifications:
+• Bachelor of Science: Political Science/Computer Science - Howard University,
+2017
+• Amazon Web Services Certified Solutions Architect Associate (In Progress)
+• CompTia Security+, CySA+, Project+, A+, IT Fundamentals,
+• Certified in COVID-19 Contact Tracing - Johns Hopkins Bloomberg School of
+Public Health
+• Technical Documentation and Report Writing Certification
+• Machine Learning/Artificial Intelligence Data Labeling and Project Design
+• Agile Kanban
+• Proficiency in Japanese
+Skills:
+• Data Analysis and Trend Identification: Proficient in analyzing complex
+datasets, identifying trends, and providing actionable insights.
+• Program Analysis and Evaluation: Skilled in evaluating program effectiveness
+and making recommendations for improvements.
+• Project Development and Management: Experienced in overseeing project
+lifecycles using Agile methodologies.
+• Technical Documentation: Capable of producing clear and comprehensive
+reports and presentations.
+• Regulatory Compliance: Knowledgeable in financial services regulations,
+ensuring compliance in data analysis and reporting.
+• Technical Proficiencies: Salesforce, SharePoint, CRM (Hubspot, Pipedrive),
+Google Analytics, MATLAB, C++, SQL, Python.
+Experience:
+Dfuse Technologies, Inc. Business Development
+June 2021 – Current
+• Dfuse Technologies, Inc. June 2021 – Current, Business Development Analyst
+• Worked directly with CEO, Executive Vice President, and CTO to find, qualify and track
+opportunities that align with company’s goals.
+• Maintained company’s business / sales pipeline through salesforce as salesforce
+database administrator
+
+• Tracked federal government contract opportunities through databases such as Govwin,
+Govtribe, APFS, FPDS, and more.
+• Analyzed trends in data to generate government procurement forecasts to identify key
+contract opportunities to build pipeline based on company’s strategic growth goals.
+Managed a full pipeline of about $400 Million worth of opportunities across various
+government agencies.
+• Created excel spreadsheets to analyze trends and create pipelines based on trends in
+government procurement forecasts.
+• Created powerpoint presentations based on data trends and details within government
+solicitations to brief CEO and stakeholders on potential opportunities for strategic
+growth.
+• Attended and hosted business development meetings, seminars, industry days, mixers,
+and events to build a company presence within the sector and make new connections.
+• Conducted outreach on behalf of company to target agencies and identified decision
+makers to organize meetings with stakeholders to align on potential business
+opportunities.
+• Reviewed and revamped business practices through agile approach with CTO and
+CEO.
+• Contributed to proposals and data calls alongside Proposal Manager & Capture
+Manager.
+• Arranged meetings with teaming partners and negotiated new teaming agreements with
+new contacts.
+• Implemented new low code solution for automation testing on a project for the FDA
+directly with the project manager.
+• Led data analysis projects, identifying key business opportunities and trends.
+• Managed Salesforce CRM, enhancing data quality and reporting capabilities.
+• Developed and presented data-driven reports to executive leadership.
+Liquidity Services, Sales Development Representative
+February 2019 to Present
+• Developed crucial sales operations strategies and methodologies as company’s first
+sales development hire on newly restructured team. Developed new sales scripts and
+strategies from scratch based on market trends to target C - level decision makers within
+Major Account clients between $50 million-$250 million in annual revenue.
+• Researched, targeted, and tracked new prospects using a variety of sales CRM's and
+Databases such as Hubspot, D&B Hoovers, Cognism, Hunter.io, Linkedin Sales
+Navigator, and more.
+• Strategically sourced new prospects using trade show lists and databases to generate
+new leads to pursue.
+• Maintained knowledge of market conditions and competitive activities. Implemented new
+software and databases for company as initial pilot hire. Trained coworkers and
+superiors in several new databases, Hubspot, sales scripts, and sales strategies.
+Developed best practices for new sales development program directly with Director of
+Sales and Sales Operations Manager. Utilized industry knowledge to consult C level
+employees from business clients on supply chain solutions.
+• Progressed from lead generator to mastery of full sales cycle within first year.
+• Negotiated, prepared, and sent contracts. Incorporated system administration skills to
+help users set up their accounts on our e-commerce platform.
+
+Simple Technology Solutions, Inc., Washington DC
+Data Analyst/Business Development Analyst
+January 2021 to March 2022
+• Streamlined data management using SharePoint and Hubspot.
+• Conducted comprehensive data analysis to support business development strategies.
+• Implemented and managed a data labeling strategy for a Navy project, leveraging
+machine learning techniques and artificial intelligence to train drones using google cloud
+platform.
+DC Health, Washington DC
+Case Investigator
+August 2020 to January 2021
+• Analyzed and reported on COVID-19 trend data, contributing to public health strategies.
+• Managed data collection and reporting in Salesforce, ensuring accuracy and
+compliance.
+• Managed multiple companywide CRM’s including Pipedrive, Hubspot, and Microsoft
+Sharepoint
+• Upgraded Sharepoint as Company’s lead Sharepoint Administrator
+Department of Insurance, Securities, and Banking, Washington, DC
+Data Analyst
+June 2016 to October 2017
+• Conducted detailed data analyses and reporting, aligning with departmental goals and
+compliance requirements.
+• Developed efficient data collection and analysis procedures, improving operational
+efficiency.
+References: Available upon request.
+
+Executive Office of the Mayor – Mayor’s Office of Talent and Appointments
+John A. Wilson Building | 1350 Pennsylvania Ave nue, Suite 600 | Washington, DC 20004
+Walter “Heru” Peacock
+Mr. Walter “Heru” Peacock is a professional violinist and guitarist from
+Southeast DC who runs his own music business, Mozart Noir Music
+Group LLC. He is a Howard alum and Brother of Howard University’s
+Bloody Xi Chapter of Kappa Alpha Psi Fraternity, Inc., as well as the
+Washington, DC Alumni Chapter of the fraternity. He has played the
+violin for over 20 years and trained professionally in California as a
+Yehudi Menuhin Scholar before returning to DC and has performed
+classical music on numerous international tours in countries such as Italy,
+Spain, and Canada.
+Growing up as a Black violinist, he recognized the importance of
+representation and began performing Black music on the violin
+incorporating a fusion of classical music with genres such as Hip-Hop, R&B, Go Go, Rock, and
+more. He also performs on both the violin and guitar with the band N2L and has made numerous
+appearances with the “Don’t Mute D.C.” movement.
+He believes it is important to show people someone that looks like them doing something positive
+in a digestible manner, which is one of the many reasons why he enjoys performing hip hop music
+on his violin. His goal to improve the community goes deeper than just music: he was elected as
+the Chairman for Mayor Bowser’s Commission on Out of School Time Grants and Youth
+Outcomes and also elected as a Democratic National Convention Delegate representing Joe Biden
+in the 2024 presidential election.
+A Ward 7 resident, Mr. Peacock earned his Bachelor of Science in Political Science and Computer
+Science from Howard University.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Executive Office of Mayor Muriel Bowser
+Office of the General Counsel to the Mayor
+To: Kimberly A. Bassett, Steve Walker
+From: Betsy Cavendish
+Date: January 31, 2025
+Subject: Legal sufficiency review of a resolution appointing Walter “Heru” Peacock as a
+member of the Commission on Nightlife and Culture
+This is to Certify
+that this office has reviewed the above-referenced Order and found
+it to be legally unobjectionable. If you have any questions in this regard, please do not hesitate
+to call Michael Porcello, Deputy General Counsel, Executive Office of the Mayor, at 202-727-
+0872, or me at 202-724-7681.
+______________________________
+Elizabeth Cavendish
+______________________________________________________________________________
+The John A. Wilson Building • 1350 Pennsylvania Avenue, NW • Suite 300 • Washington, D.C. 20004 • Office (202) 724-7681

@@ -1,0 +1,478 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+February 26, 2025
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. 8 and 9 to Contract No. CW94739 with Ramsell
+Corporation Approval and Payment Authorization Emergency Act of 2025”, and the
+accompanying emergency declaration resolution.
+The legislation will approve Modification Nos. 8 and 9 to Contract No. CW94739 with Ramsell
+Corporation, for a pharmacy benefit management system, to fully exercise option year three of the
+contract. In addition, the legislation will approve payment for the goods and services received and
+to be received under the modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modifications. In order to facilitate a response to any questions you may have, please have
+your staff contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at
+(202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Muriel Bowser
+
+~
+1
+2
+3 at the request of the Mayor
+4
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16 To approve, on an emergency basis, Modification Nos. 8 and 9 to Contract No. CW94739 with
+17 Ramsell Corporation, and to authorize payment for the goods and services received and
+18 to be received under the modifications.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the "Modifications Nos. 8 and 9 to Contract No. CW94739 with Ramsell
+22 Corporation Approval and Payment Authorization Emergency Act of 2025".
+23 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+24 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+25 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+26 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification
+27 Nos. 8 and 9 to Contract No CW94739 with Ramsell Corporation and authorizes payment in the
+28 not-to-exceed amount of $10,500,000 for the goods and services received and to be received
+29 under the modifications.
+30 Sec. 3. The Council adopts the fiscal impact statement provided by the Chief Financial
+31 Officer as the fiscal impact statement required by section 4a of the General Legislative
+32 Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code§ 1-
+33 301.47a).
+
+34 Sec. 4. This act shall take effect following approval by the Mayor (or in the event of veto
+35 by the Mayor, action by the Council to override the veto), and shall remain in effect for no longer
+36 than 90 days, as provided for emergency acts of the Council of the District of Columbia in
+37 section 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87
+38 Stat. 788; D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(RETROACTIVE)
+(A) Contract Number: CW94739
+Proposed Contractor: Ramsell Corporation (Ramsell)
+Proposed Contractor’s Principals:
+1. Eric Flowers – Chief Executive Officer
+2. Sophia J. Byndloss – Chief Operating Officer
+3. Darcy Illg – Chief Financial Officer
+Contract Amount: Not-to-exceed (NTE) $10,500,000
+Unit and Method of Compensation: Monthly fee for premiums and co-payment management
+Term of Contract: January 18, 2025, through January 17, 2026
+Type of Contract: Firm-Fixed Price with a Cost Reimbursement component
+Source Selection Method: Invitation for Bids
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: NTE $7,514,944
+Council Approval No. CA24-0362
+Option Period One Amount: NTE $7,530,851.32
+Council Approval No. CA25-0085
+Explanation of difference from base period (if applicable):
+The contract amount for option period one differs from the base period amount due to an overall
+increase in costs associated with providing the Pharmacy Benefit Management System (PBMS), and
+1
+
+ongoing maintenance and support services including, labor, taxes, overhead, and general operating
+expenses.
+Option Period Two Amount: NTE $9,547,235.86
+Council Approval No. CA25-0546
+Explanation of difference from base period (if applicable):
+The contract amount for option period two reflects an increase of costs associated with inflated
+insurance rates and the dissolution of subsidies previously provided for by the Affordable Cares Act
+Option Period Three Amount: NTE $10,500,000
+Explanation of difference from base period (if applicable):
+The increment is due to a projected increase in drug expenditures for Biktarvy along with rise in
+insurance premiums.
+Option Period Four Amount: NTE $10,500,000
+Explanation of difference from base period (if applicable):
+The increment is due to a projected increase in drug expenditures for Biktarvy along with rise in
+insurance premiums.
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The Government of the District of Columbia Office of Contracting and Procurement, on behalf of the
+Department of Health (DC Health) has a continued need to provide a PBMS for DC Health’s Aids
+Drug Assistance Program (ADAP), the Pre-Exposure Prophylaxis and Post exposure Prophylaxis
+program, and the Medication Assisted Therapy program. These programs provide access to
+prescription coverage and health care for District residents infected with Human Immunodeficiency
+Virus (HIV) who are uninsured or underinsured.
+The PBMS shall include medication inventory management, health insurance premium and co-
+payment assistance, interface with Health Resources and Services Administration’s (HRSA) data
+reporting systems, and support to District pharmacy providers to develop methods of improving and
+tracking medication adherence.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+An Invitation for Bids (IFB), Doc575975, was issued on August 17, 2021, as an open market
+IFB, in accordance with 27 DCMR 1600. The IFB was publicized in the Washington Times on
+August 19, 2021, and OCP’s website via e- Sourcing on August 17, 2021. It closed on September
+10, 2021, and resulted in one bid received from Ramsell.
+Ramsell’s bid was evaluated based on the bid submission requirements listed in the IFB, including
+proof of experience, past performance, contracts with District pharmacies, and system compliances.
+Ramsell met all the bid submission requirements; therefore, the contracting officer deemed them the
+lowest responsive, responsible bidder.
+2
+
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+None
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+None
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Ramsell has been providing this service to the District for over six years. Ramsell has demonstrated
+its qualifications including its organization, financial stability, personnel, and performance on current
+and past contracts with similar requirements. Ramsell has adequate financial resources to perform
+the contract or the ability to obtain those resources, based on its Bidder/Offeror Certification Form,
+and Dun and Bradstreet report. Past performance evaluations from the District and other government
+sectors reflect high quality services and customer satisfaction.
+(H) The period of performance associated with the proposed change, including date as of which
+the proposed change is to be made effective:
+The period of performance associated with the proposed change is in accordance with Modification
+M0008 which exercised a partial option from January 18, 2025, through March 4, 2025 and the
+proposed Modification M0009 to exercise the remainder of option period three from March 5, 2025
+through January 18, 2026.
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+Modification M0008 was executed in the amount NTE $998,000.
+Proposed Modification M0009 in the amount NTE $9,502,000
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+NTE $10,500,000.
+(K) The date on which the contracting officer was notified of the proposed change:
+3
+
+The contracting officer determined the need to partially exercise option period one on January 8,
+2025.
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+Due to a delay in obtaining the appropriate level of funding for this contract, there was insufficient
+time to obtain Council approval prior to the start date of the option period. The proposed change is
+being requested to allow for the continuation of services, so District residents infected with HIV who
+are uninsured or underinsured have access to prescription coverages and health care.
+(M) The reason for the proposed change:
+The contracting officer issued contract modification M0008 to continue the ongoing maintenance
+and support services for PBMS, so District residents infected with HIV who are uninsured or
+underinsured have access to prescription coverages and health care.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+In accordance with 27 DCMR, Chapter 20, Section 2008, the contracting officer is authorized to
+exercise options.
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics
+Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A certification from
+the proposed contractor that it currently is not and will not be in violation of section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics
+Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+The contractor has certified, via the Bidder/Offeror Certification form, that it is (1) not in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2)
+currently is not and will not be in violation of section 334a of the Board of Ethics and Government
+Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2011, D.C.
+Official Code § 1-1163.34a.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+The Department of Small and Local Business Development waived the 35% subcontracting
+requirement on November 8, 2024.
+(Q) Performance standards and the expected outcome of the proposed contract:
+4
+
+The expected outcome of the proposed contract is to continue providing maintenance and support
+services for PBMS so District residents infected with HIV will continue to receive access to
+prescription coverage and health care. The District expects Ramsell to comply with the performance
+standards and guarantees set forth in the contract.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+Modification M0008 in the amount of $998,000 was executed on January 14, 2025.
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Agency Financial Officer has certified that funds in the amount of $10,500,000 is available to
+continue maintenance and support services for PBMS.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The contract has been determined legally sufficient. The contractor has no pending legal claims
+against the District.
+(U) A certification that Citywide Clean Hands database indicates that the proposed contractor is
+current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+On December 9, 2024, the Citywide Clean Hands database certified that the contractor is current with
+its District taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+The contract has self-certified, via Bidder Offeror form, that it is current with its federal taxes.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended; D.C. Official Code § 2-218.01 et seq.:
+The contractor is not a certified local, small or disadvantage business enterprise.
+5
+
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None.
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+As of December 9, 2024 the contractor does not appear on the Office of Inspector General Exclusions
+Database, the Federal Excluded Parties List or the District’s list of Debarred and Suspended
+contractors.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination and Findings for Contractor Responsibility dated November 13, 2024
+Determination and Findings for Price Reasonableness dated November 13, 2024
+Determination and Findings for Cost Reimbursement dated October 18, 2021.
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+Office of Contracting and Procurement website http://ocp.dc.gov
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+Office of Contracting and Procurement website http://ocp.dc.gov
+6
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: February 20, 2025 Notice Number: L0013382623
+RAMSELL CORPORATION FEIN: **-***4229
+2300 CLAYTON RD STE 1490 Case ID: 18474888
+CCONCORD CA 94520-2197
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+Government of the District of Columbia
+Office of the Chief Financial Officer
+Department of Health
+MEMORANDUM
+TO: Nancy Hapeman
+Chief Procurement Officer
+Office of Contracting and Procurement
+THRU: Delicia V. Moore
+for Associate Chief Financial Officer
+HumanSupport Services Cluster
+FROM: Adreana Deane
+Agency Fiscal Officer
+Department of Health
+DATE: December 16, 2024
+SUBJECT: Certification of Funding Availability for Ramsell, Contract#CW94739
+The Office of the Chief Financial Officer hereby certifies that the sum of $7,744,853.00is included in the
+District’s Federal Grant Budget and Financial Plan for Fiscal Year 2025to fund the costs
+associated with the Department of Health’s contract with Ramsell to provide pharmacy benefits
+management, prescription drug payments and health insurance premium services.An additional
+$2,755,147.00of funding for Fiscal Year 2026 is dependent on a final approved budget.This
+certification supports the Ramsell contract during the period from January 18,2025to January
+17, 2026for a total of $10,500,000.00. The fund allocation is as follows:
+Vendor:Ramsell, LLC Contract #:CW94739
+Fiscal Year 2025 Funding Period: 01/18/2025to 09/30/2025
+FY Agency Fund Program Cost Account Award Project Task/Sub Amount
+Code Center task
+2025 HC0 1060188 700041 70079 7132001 6000037 200824 30.40 $400,000.00
+Fiscal Year 2025 Funding Period: 01/18/25to 03/31/25
+FY Agency Fund Program Cost Account Award Project Task/Sub Amount
+Code Center task
+2025 HC0 4020002 700035 70079 7132001 2001608 200824 24.03 $1,500,000.00
+2201 Shannon Place SE• 4th Floor • Washington, D.C. 20020• Phone (202) 442-5955
+
+Fiscal Year 2025 Funding Period: 04/01/2025 to 09/30/2025
+FY Agency Fund Program Cost Account Award Project Task/Sub Amount
+Code Center task
+2025 HC0 4020002 700035 70079 7132001 2001810 200824 30.60 $5,844,853.00
+TOTAL FY 2025: $7,744,853.00
+Fiscal Year 2026 Funding Period: 10/01/2025 to 01/17/2026
+FY Agency Fund Program Cost Account Award Project Task/Sub Amount
+Code Center task
+2026 HC0 4020002 700035 70079 7132001 2001810 200824 30.60 $2,755,147.00
+TOTAL FY 2026: $2,755,147.00
+Should you have any questions, please contact me at 202-442-9222.
+2201 Shannon Place SE • 4th Floor • Washington, D.C. 20020 • Phone (202) 442-5955
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Sarina Loy
+Deputy Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: February 6, 2025
+SUBJECT: Approval of Contract Action for DC ADAP Pharmacy Benefit Program
+Contract Number: CW94739
+Contractor: Ramsell Corporation
+Proposed Modification Amount: $10,500,000
+This is to Certify that this Office has reviewed the above-referenced Contract and that we have
+found it to be legally sufficient. If you have any questions in this regard, please do not hesitate to
+call me at 724-4018.
+______________________________
+Robert Schildkraut
+400 6th Street, NW, Suite 79100, Washington, DC 20001 (202) 727-3400 Fax (202) 347-8922
+
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT 1. Contract Number Page of Pages
+1 1
+CW94739
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+M0008 January 18, 2025 DOH HAHSTA PBMS
+6. Issued by: Code HCOIG 7. Administered by (If other than line 6)
+The District of Columbia Department of Health
+Office of Contracting and Procurement 2201 Shannon Place, SE
+441 4th Street, NW, suite 700 South Washington DC 20020
+Washington, DC 20001
+8. Name and Address of Contractor (No. Street, city, county, state and zip 9A. Amendment of Solicitation No.
+code)
+9B. Dated (See Item 11)
+Ramsell Corporation
+200 Webster Street, Ste. 200 10A. Modification of Contract/Order No.
+Oakland CA 94607 X
+CW94739
+Point of Contact: Sophia Byndloss
+10B. Dated (See Item 13)
+Email: sbyndloss@ramsellcorp.com
+January 18, 2022
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following
+methods: (a) By completing Items 8 and 15 and returning one (1) copy of the amendment: (b) By acknowledging receipt of this amendment on each
+copy of the offer submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR
+ACKNOWLEDGMENT TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE
+SPECIFIED MAY RESULT IN REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such
+may be made by letter or fax, provided each letter or telegram makes reference to the solicitation and this amendment, and is received prior to the
+opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, CHPATER 36; Section 3601.2(b). The changes set forth in Item 14
+are made in the contract/order no. in Item 10A
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C. This supplemental agreement is entered into pursuant to authority of: DC Official Code 2-354-04 and 27 DCMR 3601.2 Mutual Agreement
+of Parties
+X D. Other (Specify type of modification and authority) 27 DCMR, Section 2008 Exercise of Option
+E. IMPORTANT: Contractor is not is required to sign this document and return ___1___ copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+Contract No. CW94739 is hereby modified as follows:
+A. The Government of the District of Columbia hereby exercises a partial option to extend the term of Contract CW94739
+pursuant to Section F.2 “Option to Extend the Term of the Contract, for option period three from January 18, 2025,
+through March 04, 2025.
+B. The total NTE amount (fixed prices + cost reimbursements) for this partial option shall not exceed $998,000.
+C. Incorporate the revised U.S. Department of Labor Services Act Wage Determination No. 2015-4281, Revision 32,
+dated December 23, 2024.
+D. The Living Wage Act Notice referenced for 2025 is hereby incorporated in the contract as Attachment J.5
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Sophia J. Byndloss, COO
+Monica Bailey-Delissaint
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+1/13/2025
+(Signature of person authorized to sign) (Signature of Contracting Officer) 1-14-2025
+1 | P age
+
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT 1. Contract Number Page of Pages
+1 1
+CW94739
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+M0009 March 5, 2025 DOH HAHSTA PBMS
+6. Issued by: Code HCONM 7. Administered by (If other than line 6)
+The District of Columbia Department of Health
+Office of Contracting and Procurement 2201 Shannon Place, SE
+441 4th Street, NW, suite 700 South Washington DC 20020
+Washington, DC 20001
+8. Name and Address of Contractor (No. Street, city, county, state and zip 9A. Amendment of Solicitation No.
+code)
+9B. Dated (See Item 11)
+Ramsell Corporation
+200 Webster Street, Ste. 200 10A. Modification of Contract/Order No.
+Oakland CA 94607 X CW94739
+Point of Contact: Sophia Byndloss
+Email: sbyndloss@ramsellcorp.com
+10B. Dated (See Item 13)
+Code January 18, 2022
+Facility
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following
+methods: (a) By completing Items 8 and 15 and returning one (1) copy of the amendment: (b) By acknowledging receipt of this amendment on each
+copy of the offer submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR
+ACKNOWLEDGMENT TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE
+SPECIFIED MAY RESULT IN REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such
+may be made by letter or fax, provided each letter or telegram makes reference to the solicitation and this amendment, and is received prior to the
+opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, CHPATER 36; Section 3601.2(b). The changes set forth in Item 14
+are made in the contract/order no. in Item 10A
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C. This supplemental agreement is entered into pursuant to authority of: DC Official Code 2-354-04 and 27 DCMR 3601.2 Mutual Agreement
+of Parties
+X D. Other (Specify type of modification and authority) 27 DCMR, Chapter 20, Section 2008 Exercise of Options
+E. IMPORTANT: Contractor is not is required to sign this document and return ___1___ copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+A. Pursuant to Section F.2 “Option to Extend the Term of the Contract”, the District hereby exercises the remainder of
+Option Period Three from March 5, 2025 through January 17, 2026 in the amount not-to-exceed $9,502,000
+B. The total contract ceiling for option year three shall not exceed $10,500,000. The period of performance for option
+period three is January 18, 2025 through January 17, 2026.
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Monica Bailey-Delissaint
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+(Signature of person authorized to sign) (Signature of Contracting Officer)

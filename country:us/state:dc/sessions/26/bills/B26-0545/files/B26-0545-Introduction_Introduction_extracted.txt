@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COMMITTEE ON HOUSING
+ROBERT C. WHITE, JR., CHAIR
+COUNCIL OF THE DISTRICT OF COLUMBIA
+December 12, 2025
+Nyasha Howard, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, N.W.
+Washington, DC 20004
+Dear Secretary Howard,
+Today, with Councilmembers Janeese Lewis George and Trayon White, I am introducing the
+“River East at Grandview Homeownership Relief and Restoration Amendment Act of 2025.” This
+legislation will help restore dignity, opportunity, and stability to families who have endured years
+of displacement and uncertainty.
+Between 2017 and 2019, 46 first-time homebuyers, many of them Black residents, purchased
+homes at River East at Grandview in Ward 8. These homes represented more than shelter; they
+were the promise of equity, stability, and generational wealth. However, structural issues forced
+families to evacuate in 2021. Since then, many have remained in limbo, unable to afford new
+homes, living with their belongings in storage, and struggling to rebuild what was lost.
+This bill acknowledges the emotional and financial toll that displacement has had on these families
+and takes meaningful steps to help them move forward. It recognizes that homeownership is not
+just a transaction; it is a foundation for life, and when that foundation is shaken, the consequences
+ripple for years.
+The legislation provides targeted relief through existing District programs to former River East
+homeowners, tailored to their current housing status. It offers HPAP grants to those who have not
+yet repurchased, converts HPAP loans to grants for those who have, and adjusts Inclusionary
+Zoning affordability covenants to help owners access the equity they would have built in their
+Talbert Street homes. It also ensures that relief is not taxed as income and requires annual reporting
+to track progress and challenges. These are actionable measures the District can implement using
+existing, budgeted programs.
+This bill is designed to help families reclaim the stability and opportunity they once had and still
+deserve. We urge our colleagues to support this legislation and stand with the residents of River
+East as they continue their journey toward healing and home.
+Please contact the Committee on Housing staff at housing@dccouncil.gov with any questions.
+Sincerely,
+
+COMMITTEE ON HOUSING
+ROBERT C. WHITE, JR., CHAIR
+COUNCIL OF THE DISTRICT OF COLUMBIA
+Robert C. White, Jr.
+Councilmember, At-Large
+Council of the District of Columbia
+
+1
+2 ______________________________ _____________________________
+3 Councilmember Janeese Lewis George Councilmember Robert C. White, Jr.
+4
+5
+6
+7
+8 _____________________________
+9 Councilmember Trayon White, Sr.
+10
+11 A BILL
+12 ________
+13
+14 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+15 _______________
+16
+17 To amend the Relief for River East at Grandview Condominium Owners Act of 2024 to provide
+18 housing relief to certain owners and former owners of the River East at Grandview
+19 Condominiums by establishing eligibility for Home Purchase Assistance Program grants,
+20 converting existing Home Purchase Assistance Program loans to grants, and limiting the
+21 affordability covenant period for former owners Inclusionary Zoning ownership units to
+22 15 years; to require coordination between the Department of Housing and Community
+23 Development and the District of Columbia Housing Finance Agency; and to address
+24 related tax considerations and reporting requirements.
+25
+26 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA,
+27 That this act may be cited as the “River East at Grandview Homeownership Relief and
+28 Restoration Amendment Act of 2025”.
+29 Sec. 2. The Relief for River East at Grandview Condominium Owners Act of 2024,
+30 effective September 18, 2024 (D.C. Law 25-217; D.C. Official Code § 42–2081 et seq.) is
+31 amended as follows:
+32 (a) Section 2132 (D.C. Official Code § 42–2081) is amended as follows:
+33 (1) Paragraph (l) is amended by striking the period and inserting the phrase
+34 “between July 2017 and March 2019.” in its place.
+
+35 (2) A new paragraph (m) is added to read as follows:
+36 “(m) ‘Former Property Owner’ means an individual who purchased a condominium unit
+37 at the River East at Grandview Condominium between July 2017 and March 2019 and who no
+38 longer owns that unit.”
+39 (b) A new Section 2135 is added to read as follows:
+40 “Sec. 2135 HPAP loan conversion to grant and shortening the length of IZ affordability
+41 covenant for Property Owners and Former Property Owners
+42 “(a) The Department of Housing and Community Development (‘DHCD’), in
+43 coordination with the District of Columbia Housing Finance Agency (‘DCHFA’), shall provide
+44 relief under this section to individuals defined as Property Owners or Former Property Owners
+45 based on their homeownership status, as follows:
+46 (1) A property owner or former property owner who has not purchased another
+47 primary residence since leaving the Property shall be eligible for assistance through the Home
+48 Purchase Assistance Program (‘HPAP’), established under the Home Purchase Assistance Fund
+49 Act of 1978, effective September 20, 1978 (D.C. Law 2-135; D.C. Official Code § 42–2601 et
+50 seq.), in the form of a grant, toward the purchase of a primary residence in the District of
+51 Columbia. The applicant shall be excluded from credit requirements for the HPAP program.
+52 (2) Property owners or former property owners who previously received HPAP
+53 assistance to purchase a primary residence since leaving the Property in the District of Columbia
+54 shall have their outstanding HPAP loan converted to a grant. This provision shall not apply to
+55 any subsequent purchase beyond the first purchased primary residence.
+56 (A) DHCD and The Office of Tax and Revenue shall record any release,
+57 modification, or other instrument necessary to reflect the conversion in the land records.
+
+58 (3) Property Owners or Former Property Owners who purchased or will purchase
+59 as their next primary residence following leaving the Property an IZ unit pursuant to 14 DCMR §
+60 2200 et seq. shall be given prioritization when applying for a IZ ownership unit and have any
+61 affordability covenant recorded on that unit terminate 15 years after the date that the Property
+62 Owner or Former Property Owner closed on a condominium unit at the Property. This provision
+63 shall not apply to any subsequent purchase beyond the first qualifying unit.
+64 (A) DHCD shall ensure that the termination of a covenant under this
+65 paragraph is recorded and publicly available.
+66 “(b) Notwithstanding any other provision of law:
+67 (1) Any amount received under this section shall be excluded from District gross
+68 income for purposes of Title 47 of the D.C. Official Code; and
+69 (2) Any amount realized by reason of the conversion or forgiveness of an HPAP
+70 loan under subsection (a)(2) shall also be excluded from District gross income for purposes of
+71 Title 47 of the D.C. Official Code. The Office of Tax and Revenue shall issue guidance to
+72 implement this subsection.
+73 “(c) By September, 1 2027, and annually thereafter through Fiscal Year 2030, DHCD and
+74 DCHFA shall jointly submit to the Council a report identifying:
+75 (1) The number of individuals receiving relief and the total amount of relief
+76 received under each paragraph of subsection (b);
+77 (2) The ward in which each grant recipient purchased a property; and
+78 (3) Any administrative or fiscal challenges in implementing this section.
+79 “(d) Nothing in this section shall be construed to create an entitlement or to require the
+80 District to make payments in excess of funds appropriated for the purpose of this section.”.
+
+81 Sec 3. Applicability
+82 This act will no longer be effective as of December 31, 2032.
+83 Sec. 4. Fiscal impact statement.
+84 The Council adopts the fiscal impact statement in the committee report as the fiscal
+85 impact statement required by section, 602(c)(3) of the District of Columbia Home Rule Act,
+86 approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(3)).
+87 Sec. 5. Effective date.
+88 This act shall take effect following approval by the Mayor (or in the event of veto by the
+89 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+90 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+91 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+92 Columbia Register.

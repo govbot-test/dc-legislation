@@ -1,0 +1,155 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+The John A. Wilson Building
+1350 Pennsylvania Avenue, nw
+Washington, D.C. 20004
+Christina Henderson Committee Member
+Christina Henderson Committee Member
+Councilmember, At-Large Facilities
+CCohuainrcpielrmsoenm, bCeor,m Amt-iLttaereg oen Health HHousmpaitna lS aenrvdi cHeesa lth Equity
+Transportation and the Environment
+Chairperson, Committee on Health Judiciary and Public Safety
+Statement of Introduction Transportation and the Environment
+Advancing Equity in Special Education Protocols Amendment Act of 2025
+January 17, 2025
+Today, I am proud to introduce the Advancing Equity in Special Education Protocols
+Amendment Act of 2025, along with Councilmembers Robert C. White, Jr., Brooke Pinto,
+Janeese Lewis George, Zachary Parker, Brianne K. Nadeau, and Matthew Frumin. This measure
+was first introduced in Council Period 25 and received a hearing in November 2024.
+Stability in school placement is critical for students with special education needs, providing them
+with a consistent environment where they can build relationships, receive continuous support,
+and achieve their academic goals. In the District, such stability means remaining in their initial
+school placement feeder pattern. Disruptions in the school placement of a student with special
+needs can lead to gaps in their education, increased anxiety, and declines in both academic
+performance and social wellbeing.
+Students with special needs are best served when educators are adequately supported to provide
+the best classroom experience. Clear staff-to-student ratio standards that are adhered to equip
+teachers to provide a safe, consistent learning environment that can meet the needs of each
+student. Appropriate staff-to-student ratios in special education classrooms are critical for teacher
+well-being and effectiveness, provide a learning environment that improves student engagement
+and academic achievement, and reduce behavioral issues.
+This legislation would give a student with special needs who has an individualized education
+program (IEP) the right to remain in their initial school placement feeder pattern, unless the
+programs available in their feeder pattern cannot support their needs. If a student with an IEP is
+moved to a school outside of their feeder pattern, the student’s IEP team would be informed in
+writing of the rationale for the move. Additionally, this bill would require the Executive to
+promulgate rules that establish staff-to-student ratio standards for self-contained special
+education classrooms. In the event that the number of students in a self-contained special
+education classroom increases and the classroom does not conform with the staff-to-student ratio
+standard, a local education agency would provide a written explanation within 5 days to teachers
+in an affected self-contained special education classroom, parents of students in an impacted self-
+contained special education classroom, and school administrators, describing the additional
+resources and personnel that will be allocated to meet each student’s needs as defined by their
+IEP.
+By providing these supports and resources to students, parents, and dedicated special education
+teachers, the District can enhance educational outcomes and improve the overall well-being of
+students and teachers in self-contained classrooms.
+
+1 _____________________________ _____________________________
+2 Councilmember Robert C. White, Jr. Councilmember Christina Henderson
+3
+4
+5 _____________________________ _____________________________
+6 Councilmember Janeese Lewis George Councilmember Brooke Pinto
+7
+8
+9 _____________________________ _____________________________
+10 Councilmember Zachary Parker Councilmember Brianne K. Nadeau
+11
+12
+13 _____________________________
+14 Councilmember Matt Frumin
+15
+16
+17
+18 A BILL
+19
+20 _______________
+21
+22
+23 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+24
+25 _______________________
+26
+27 To amend the Special Education Procedural Protections Expansion Act of 2014 to give a child
+28 with a disability with an individualized education program the right to remain in their
+29 initial placement feeder pattern unless there is no program available in their feeder
+30 pattern, to require that an LEA consult with the IEP team of a child with a disability prior
+31 to any change in the child’s service location, to require that an LEA provide a written
+32 explanation to the parent of a child with a disability before any change in service location
+33 for the child is made and explain why the special education services in the current feeder
+34 pattern cannot meet the child’s needs if the action removes the child from their current
+35 placement’s feeder pattern, and to require that an LEA provide a written explanation to
+36 the special education teacher in an affected self-contained special education program
+37 classroom, the parents of students in an affected self-contained special education
+38 classroom, and school administrators, describing the additional resources and personnel
+39 that will be allocated to a classroom when the student-to-staff ratio exceeds those ratios
+40 set by regulation.
+41
+42 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+43 act may be cited as the “Advancing Equity in Special Education Protocols Amendment Act of
+44 2025”.
+1
+
+45 Sec. 2. The Special Education Procedural Protections Expansion Act of 2014, effective
+46 March 10, 2015 (D.C. Law 20-194; D.C. Official Code § 38-2571.01 et seq), is amended as
+47 follows:
+48 (a) Section 101 (D.C. Official Code § 38-2571.01), is amended by adding a new
+49 paragraph (4A) to read as follows:
+50 “(4A) “Self-contained special education classroom” means a full-time, outside of
+51 general-education classroom that provides instruction for students in accordance with their
+52 IEPs.”.
+53 (b) Section 103 (D.C. Official Code § 38-2571.03) is amended as follows:
+54 (1) The existing language is redesignated as subsection (b).
+55 (2) A new subsection (a) is added to read as follows:
+56 “(a) A child with a disability has the right to continue with their initial placement’s feeder
+57 pattern as that term is defined in section 1102a(2A) of the School Based Budgeting and
+58 Accountability Act of 1998, effective June 21, 2014 (D.C. Law 20-114; D.C. Official Code § 38-
+59 2801.01(2A)), unless the new service location within the feeder pattern does not have special
+60 education services available that would support the child’s IEP.”.
+61 (3) Subsection (b)(1) is amended to read as follows:
+62 “(b)(1) Before any change in service location for a child with a disability is made,
+63 the LEA shall consult with the child’s IEP team as defined by 20 USC § 1414 (d)(1) and shall
+64 provide the IEP team with written notice of the proposed change, which shall at minimum
+65 include:”.
+66 (4) Subsection (b)(1)(B) is amended to read as follows:
+67 “(B) An explanation of the following:
+2
+
+68 (i) Why the LEA proposes to take the action; and
+69 (ii) Why the special education services in the current feeder
+70 pattern cannot meet the student’s needs, if the action removes the child from their current
+71 placement’s feeder pattern;”.
+72 (c) New sections 105 and 106 are added to read as follows:
+73 “Sec. 105. Self-contained classroom size.
+74 “If the student to staff ratio in a self-contained special education classroomexceeds the
+75 ratio set by the rules promulgated pursuant to section 106, an LEA shall provide a written
+76 explanation to the special education teacher in an affected self-contained special education
+77 classroom, the parents of the students in an affected self-contained special education classroom,
+78 and school administrators, describing the additional resources or personnel that will be allocated
+79 to a self-contained special education classroom to meet each student’s needs as defined by their
+80 IEP, within 5 business days.”.
+81 “Sec. 106. Rulemaking.
+82 “The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure
+83 Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), shall
+84 promulgate rules to implement the provisions of this title no later than 120 days after the
+85 effective date of this section.”.
+86 Sec. 3. Fiscal impact statement.
+87 The Council adopts the fiscal impact statement in the committee report as the fiscal
+88 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+89 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+90 Sec. 4. Effective date.
+3
+
+91 This act shall take effect following approval by the Mayor (or in the event of veto by the
+92 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+93 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+94 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+4

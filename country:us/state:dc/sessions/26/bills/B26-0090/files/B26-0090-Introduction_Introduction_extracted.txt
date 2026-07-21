@@ -1,0 +1,913 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Statement of Introduction
+Neighborhood Management Authority Act of 2025
+January 27, 2025
+Nyasha Howard, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, N.W.
+Washington, DC 20004
+Dear Secretary Howard,
+Today, I am introducing the “Neighborhood Management Authority Act of 2025”, legislation
+that creates a framework for safe and vibrant communities on a hyper-local level. A Neighborhood
+Management Authority established by this bill would provide enhancements to clean and safe programs,
+support businesses and cultural destinations, maintain public spaces, manage public assets, and would
+help coordinate D.C. government services for maximum efficiency. The legislation establishes two
+Neighborhood Management Authorities – one for the Greater U Street Corridor and one for Columbia
+Heights.
+While 14th and U is often synonymous with D.C.’s 21st century surge in economic development
+and population, in many ways the corridor remains under-invested. The area was the subject of a 2004
+small area plan – referred to as the “DUKE Plan” in homage to Duke Ellington – which focused on
+supporting music, arts, and culture, equitable growth and development, and continuing the legacy of U
+Street as Black Broadway. While some progress has been made on that plan’s recommendations, it is not
+yet fully realized. Public sector resources and services have not kept up with U Street’s substantial
+private development and continued growth as a nightlife destination. This has led to serious safety
+concerns and an overall feeling of disorder shared by a diverse group of residents and business owners.
+In 2022, I launched the U Street Safety Initiative, a planning effort led by my office to deeply
+engage residents and businesses in the Greater U Street Corridor and provide recommendations and a
+clear road map for improving public safety and vibrancy in the area. That effort reached over 300
+residents and business owners through surveys, focus groups, and interviews; my office published
+recommendations in November 2022.
+
+Columbia Heights, meanwhile, has seen considerable growth and change of its own, with
+services that simply have not kept pace. Central Columbia Heights has the highest consistent pedestrian
+activity in the District and public spaces like Columbia Heights Civic Plaza, now about 20 years old, are
+straining under the weight of community needs and have recurring issues with safety and basic
+maintenance.
+As part of my response, I funded an expansive initiative led by the Office of Planning: the
+Columbia Heights/Mount Pleasant Public Life Study. This work focused on studying the use of public
+spaces, supporting successful implementation of the newly-established sidewalk vending zone, and
+creating a cohesive design for streets, sidewalks, and public spaces.
+The U Street Safety Initiative and the Public Life Study covering Columbia Heights share one
+very clear recommendation: These neighborhoods each need their own place management entity in order
+to truly thrive.
+As introduced, this legislation establishes an overall structure for a Neighborhood Management
+Authority as an instrumentality of D.C. government. The legal structure is similar to public authorities
+we have already, such as the DC Green Bank or Events DC.
+The bill then creates two separate Neighborhood Management Authorities in Columbia Heights
+and the “Duke District” (acknowledging the overlap of several neighborhoods, and a callback to the
+DUKE Plan). Each authority has a governing board of directors comprised of a mix of resident and
+commercial representatives. While these are the first two authorities established, the bill is drafted so
+that other neighborhoods might adopt this model in the future.
+Each Authority is given dedicated funding sources to ensure its success and sustainability. These
+revenue sources can be tailored to fit the economic dynamics of each neighborhood. As an example, the
+Greater U Street Performance Parking Zone went live at the end of 2024, and that new meter revenue
+will be reinvested back in the neighborhood; Columbia Heights had a performance parking zone of its
+own, which this measure re-establishes. I am proud to be able to advance a proposal enhancing
+neighborhood services that does not rely on increasing property taxes to fund.
+Sincerely,
+Brianne K. Nadeau
+Councilmember, Ward 1
+Chairperson, Committee on Public Works & Operations
+
+_____________________________
+Councilmember Brianne K. Nadeau
+A BILL
+_________________________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+_________________________
+To provide for the creation of a Neighborhood Management Authority to promote the general
+welfare of the residents, employers, employees, property owners, commercial tenants,
+consumers, and the general public within the Authority’s boundary; and to establish the
+Columbia Heights Neighborhood Management Authority and the Duke District
+Neighborhood Management Authority.
+TABLE OF CONTENTS
+TITLE I. GENERAL PROVISIONS. ............................................................................................. 2
+Sec. 102. Formation. ....................................................................................................................... 2
+Sec. 103. Powers. ............................................................................................................................ 2
+Sec. 104. Budget formulation and transparency. ............................................................................ 4
+Sec. 105. Board of Directors. .......................................................................................................... 5
+Sec. 106. Representation and Indemnification. .............................................................................. 7
+Sec. 107. Applicability of certain laws. .......................................................................................... 8
+Sec. 108. Prohibitions. .................................................................................................................... 9
+Sec. 109. Authority of the Chief Financial Officer. ...................................................................... 10
+Sec. 110. BID Formation Within Neighborhood Management Authority Boundaries. ............... 10
+Sec. 111. Service Areas and Expansion of Boundaries. ............................................................... 13
+Sec. 112. Bond Issuance. .............................................................................................................. 14
+TITLE II. NEIGHBORHOOD MANAGEMENT AUTHORITY FORMATIONS. ................... 16
+1
+
+SUBTITLE A. DUKE DISTRICT NEIGHBORHOOD MANAGEMENT AUTHORITY. ....... 16
+Sec. 201. Duke District Neighborhood Management Authority................................................... 16
+Sec. 202. Transfers of Jurisdiction. ............................................................................................... 18
+Sec. 203. Board of Directors. ........................................................................................................ 19
+Sec. 204. Duke District Neighborhood Management Fund. ......................................................... 22
+Sec. 205. Duke District Deed and Recordation Transfers. ........................................................... 23
+SUBTITLE B. COLUMBIA HEIGHTS NEIGHBORHOOD MANAGEMENT AUTHORITY.
+....................................................................................................................................................... 23
+Sec. 206. Columbia Heights Neighborhood Management Authority. .......................................... 24
+Sec. 207. Transfers of Jurisdiction. ............................................................................................... 25
+Sec. 208. Board of Directors. ........................................................................................................ 26
+Sec. 209. Columbia Heights Neighborhood Management Fund. ................................................. 28
+Sec. 210. Targeted Retail Vacancy Fee. ....................................................................................... 30
+Sec. 211. Alcoholic beverage tax revenue to be deposited in Columbia Heights Neighborhood
+Management Fund. ....................................................................................................................... 30
+Sec. 212. DC-USA Garage. .......................................................................................................... 31
+TITLE III. COLUMBIA HEIGHTS PERFORMANCE PARKING ZONE. ............................... 32
+Sec. 301. Columbia Heights Performance Parking Zone. ............................................................ 32
+TITLE IV. MISCELLANEOUS PROVISIONS. ......................................................................... 34
+Sec. 402. Fiscal impact statement. ................................................................................................ 34
+Sec. 303. Effective date. ............................................................................................................... 34
+1 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+2 act may be cited as the “Neighborhood Management Authority Act of 2025”.
+3 TITLE I. GENERAL PROVISIONS.
+4 Sec. 102. Formation.
+5 Each Neighborhood Management Authority shall be organized as an instrumentality of
+6 the District Government, which shall have a separate legal existence within the District
+7 Government.
+8 Sec. 103. Powers.
+9 Each Neighborhood Management Authority (“Authority”) established pursuant to this act
+2
+
+10 shall have the power to:
+11 (1) Sue and be sued in its name;
+12 (2) Adopt a seal and alter the seal at its pleasure;
+13 (3) Adopt, amend, and repeal bylaws governing the manner in which it may conduct
+14 business and how the powers vested in it may be exercised;
+15 (4) Borrow money for any of its purposes, as may be permitted under Chapter 2 of Title 1
+16 and other laws of the District; provided, that the Authority’s debts shall not be subject to and
+17 shall not be backed by the full faith and credit of the District of Columbia;
+18 (5) To issue bonds and to give security pursuant to section 112 of this Act; provided, that
+19 the Authority's debts shall not be backed by the full faith and credit of the District of Columbia;
+20 (6) To provide for the payment of obligations as may be permitted under the Home Rule
+21 Act, and other laws of the District;
+22 (7) To the extent permitted under its contracts with bond holders of the Authority, to
+23 consent to any modification with respect to rate of interest, time and payment of any installment
+24 of principal or interest, security or any other term of any contract, loan, loan commitment, or
+25 contract or agreement of any kind to which the Authority is a party;
+26 (8) To employ officers, executives, and management personnel who may:
+27 (A) Formulate or participate in the formulation of the plans, policies, and
+28 standards;
+29 (B) Administer, manage, or operate the Authority, fix their qualifications, and
+30 prescribe their duties and other terms of employment, compensation, and benefits; and
+31 (C) Employ other personnel as may be necessary;
+32 (9) To retain or employ advisers, consultants, and agents, including financial advisers,
+3
+
+33 appraisers, accountants, auditors, engineers, private consultants, and legal counsel for rendering
+34 professional, management, or technical services and advice, and to fix their compensation;
+35 (10) Establish polices for contracting and procurement that are consistent with the
+36 principles of competitive procurement and, subject to District law, make and execute contracts,
+37 leases, and all other agreements or instruments necessary and appropriate for the exercise of its
+38 powers and the fulfillment of its purposes;
+39 (11) To enter into contracts, memorandums of understanding, and other financing
+40 agreements with any department, agency, or instrumentality of the United States or the District
+41 and private parties; and
+42 (12) Notwithstanding other provisions of law and subject to Council approval by
+43 resolution, acquire, construct, and dispose of real or personal property of every kind.
+44 Sec. 104. Budget formulation and transparency.
+45 (a) The Board shall prepare and submit to the Mayor an operating budget on the date that
+46 District departments and agencies are required to submit proposed budgets to the Mayor. Prior to
+47 submission to the Mayor, the proposed operating budget must be certified by the Chief Financial
+48 Officer of the District of Columbia as being balanced.
+49 (b) The Authority shall contract at least once each year with an independent certified
+50 public accountant to audit its books and accounts. Within 10 days after receiving the results of
+51 the audit from the independent certified public accountant, the Authority shall transmit the
+52 results of the audit to the Mayor and Council and shall make the audit available to the public on
+53 its website.
+54 (c) At least once per year, the Authority Board shall hold a public hearing on the
+55 Authority's performance. The Authority Board shall publish notice of the hearing on the
+4
+
+56 Authority's website and in the District of Columbia Register at least 14 calendar days before the
+57 hearing, and the hearing shall be recorded by electronic means. Within 3 days after the hearing,
+58 the recording of the hearing and all written submitted testimony shall be made public on the
+59 Authority's website.
+60 Sec. 105. Board of Directors.
+61 (a) Each Neighborhood Management Authority shall be governed by a Board of Directors
+62 (“Board”), with voting and nonvoting members allocated pursuant to Title II. The powers of the
+63 Authority shall be vested in the Board. A majority of the incumbent voting Board members shall
+64 constitute a quorum for the transaction of business, and an affirmative vote of a majority of
+65 voting members shall be necessary for valid Authority action.
+66 (b) Notwithstanding any other provision of law, the Mayor shall transmit to the Council,
+67 for a 30-day period of review, excluding days of Council recess, nominations to a Neighborhood
+68 Management Authority as prescribed in Title II. If the Council does not approve by resolution
+69 within the 30-day period, the nomination shall be deemed approved.
+70 (c) Except as otherwise provided, appointed Board members shall serve for a term of 3
+71 years.
+72 (1) The term of a Board member appointed by an Advisory Neighborhood
+73 Commission shall expire on January 2 of any year that follows a general election.
+74 (d) Any voting member of the Board shall be eligible for reappointment, provided that no
+75 person may be nominated to serve more than two consecutive terms.
+76 (e) A person appointed to fill a vacancy on the Board shall be appointed only for the
+77 unexpired term of the Board member whose vacancy is being filled.
+78 (f) A voting member appointed by the Mayor or Council whose term has expired may
+5
+
+79 continue to serve for 180 days after the voting member's term expires, or until their replacement
+80 is appointed, whichever occurs first.
+81 (g) The voting members of the Board shall elect, by a majority vote, one of the voting
+82 members to serve as chairperson.
+83 (h) A Board member shall not be entitled to compensation but may be reimbursed for
+84 actual and necessary expenses while engaged in official duties of the Authority, including
+85 transportation, parking, mileage expenses, and conference admission fees incurred.
+86 (i) Unless prohibited by law, a Board member may engage in private employment, a
+87 profession, or a business.
+88 (j) A Board member shall not be held personally liable for an action taken in good faith
+89 during the course of his or her official duties.
+90 (k) The appointing authority or the Board may remove a member of the Board for
+91 inefficiency, neglect of duty or misconduct in office, after giving the member a copy of the
+92 charges against them and an opportunity to be heard in person or by counsel in their defense
+93 upon not less than 10 days’ notice.
+94 (1) Removal of a member by action of the Board shall require an affirmative vote
+95 of 2/3 of members. If a member is removed by the Board, the Board shall promptly notify the
+96 Mayor and the Council of the action. Within 30 days after a vacancy occurs or a term expires, the
+97 Mayor shall nominate someone to fill the vacancy or begin the new term. The member shall hold
+98 office for the term of his appointment and shall serve until a successor has qualified.
+99 (l) Members of the Board may participate in a meeting of the Board or a committee
+100 thereof by means of conference telephone or similar communication equipment so long as all
+101 Board members participating in the meeting and members of the public can be heard by each
+6
+
+102 other. No vacancy in the membership of the Board shall impair the right of a quorum to exercise
+103 all rights and perform all duties of the Agency.
+104 Sec. 106. Director Appointment and Duties.
+105 (a) The Board, by majority vote, shall employ a Director to run the day-to-day affairs of
+106 the Authority. The Director shall be a resident of the District and shall remain a District resident
+107 for the duration of his or her employment by the Authority. Failure to maintain District residency
+108 shall result in a forfeiture of the position.
+109 (b) The Director shall perform the following duties and responsibilities:
+110 (1) Assist in the preparation of the budgets and annual reports;
+111 (2) Administer all operating policies, rules, and regulations adopted by the Board;
+112 (3) Employ personnel;
+113 (4) Perform such other duties as may be authorized by the Board for the effective
+114 and efficient management of the Authority and its facilities.
+115 (c) The termination of the Director shall require the concurrence of a majority of the
+116 Board.
+117 Sec. 106. Representation and Indemnification.
+118 (a) The officers and employees of the Authority shall not be considered District
+119 government employees for purposes of the District of Columbia Employee Non-liability Act,
+120 approved July 14, 1960 (74 Stat. 519; D.C. Official Code § 2-411 et seq.), and the District of
+121 Columbia shall not be liable for any acts or occurrences of the Authority regardless of whether
+122 the Authority purchases insurance or whether purchased insurance covers any this act or
+123 omission of an this act.
+124 (b) The District of Columbia may, upon request by the Authority and at the discretion of
+7
+
+125 the Attorney General for the District of Columbia (“Attorney General”), provide representation
+126 through the Office of the Attorney General to the Authority and its officers and employees for
+127 legal matters related to their official duties.
+128 (c) The Authority may retain outside counsel, other than the Attorney General, at its own
+129 expense to provide representation for the Authority and its officers and employees in actual or
+130 anticipated litigation related to their official duties and functions or in any other legal
+131 proceeding, lawsuit, grievance, or arbitration filed against the Authority, its officers, or its
+132 employees.
+133 (d) The District of Columbia and its officers and employees shall not be liable for and
+134 may not be made a party to any lawsuits or claims arising from the operation of the Authority.
+135 Sec. 107. Applicability of certain laws.
+136 (a) The Procurement Practices Reform Act of 2010, effective April 8, 2011 (D.C. Law
+137 18-371; D.C. Official Code § 2-351.01 et seq.), and its implementing regulations, shall not apply
+138 to the Authority.
+139 (b) The Open Meetings Act, effective March 31, 2011 (D.C. Law 18-350; D.C. Official
+140 Code § 2-571 et seq.), shall apply to the Authority.
+141 (c) Title I of the District of Columbia Administrative Procedure Act, approved October
+142 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), and the regulations implementing
+143 those provisions, shall not apply to the Authority.
+144 (d) The Small and Certified Business Enterprise Development and Assistance Act of
+145 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.01 et seq.), and
+146 its implementing regulations, shall not apply to the Authority.
+147 (e) The First Source Employment Contract Act of 1984, effective June 29, 1984 (D.C.
+8
+
+148 Law 5-93; D.C. Official Code § 2-219.01 et seq.), shall not apply to the Authority.
+149 (f) The Code of Conduct, as that term is defined in section 101(7) of the Board of Ethics
+150 and Government Accountability Establishment and Comprehensive Ethics Reform Amendment
+151 Act of 2011, effective April 27, 2012 (D.C. Law 19-124; D.C. Official Code § 1-1161.01(7)),
+152 shall apply to the Authority.
+153 (g) The officers and employees of the Authority shall not be considered District
+154 government employees for purposes of the District of Columbia Employee Non-liability Act,
+155 approved July 14, 1960 (74 Stat. 519; D.C. Official Code § 2-411 et seq.), and the District of
+156 Columbia shall not be liable for any acts or occurrences of the Authority regardless of whether
+157 the Authority purchases insurance or whether purchased insurance covers any this act or
+158 omission of an this act.
+159 (h) The assets and income of the Corporation shall be exempt from taxation by the
+160 District government.
+161 (i) Bonds issued by the Authority and the interest thereon are exempt from District
+162 taxation except estate, inheritance, and gift taxes.
+163 (j) At least 51% of each Authority’s employees shall be District residents.
+164 (1) For any employees providing services within the Authority, each Authority
+165 shall prioritize hiring of persons currently or recently engaged in such services within the
+166 Authority’s boundaries, including employees of Main Street, Clean Team, or community
+167 outreach organizations.
+168 Sec. 108. Prohibitions.
+169 (a) The Authority shall not:
+170 (1) Exercise any police or general power of the District, except those expressly
+9
+
+171 authorized by law; or,
+172 (2) Exercise the power of eminent domain;
+173 (b) All land and improvements acquired by the Authority shall be held in the name of the
+174 Authority, except that title to the property shall not be transferred by the Authority to any person
+175 or entity other than the District government.
+176 (c) The District government shall not eliminate or reduce the level of any services
+177 customarily provided in the District to any similar geographic area because such area is within
+178 the Authority boundaries and shall continue to provide its customary services and levels of each
+179 service to such area unless a reduction in service is part of a District-wide pro rata reduction in
+180 services necessitated by fiscal considerations or budgetary priorities.
+181 Sec. 109. Authority of the Chief Financial Officer.
+182 The CFO shall exercise authority over the Authority consistent with section 424 of the
+183 Home Rule Act.
+184 Sec. 110. BID Formation Within Neighborhood Management Authority Boundaries.
+185 (a) An additional real property tax or possessory interest tax may be assessed and levied
+186 by the District on, and payable by, the owners of taxable properties or holders of a possessory
+187 interest within Authority Boundaries as established in Title II of this act.
+188 (1) For the purposes of this section, “special assessment participants” means
+189 owners, or principals, agents, partners, managers, trustees, stockholders, officers, or directors of
+190 owners of taxable properties, or holders of a possessory interest, and commercial tenants within
+191 an established special assessment area.
+192 (b) In order to implement an assessment pursuant to this section, an application shall be
+193 submitted by one or more owners of taxable property within the Authority to the Board for
+10
+
+194 consideration. The application shall be duly sworn under oath before a notary public who holds a
+195 valid license in the District, and shall contain:
+196 (1) A statement setting forth the name and address of the applicants;
+197 (2) A statement signed by the owners (or their authorized representatives) who
+198 own at least a 51% interest in the most recent assessed value of the taxable properties in the
+199 geographic area of the proposed assessment area as a whole, and at least 25% in number of the
+200 individual taxable properties of record in the assessment area as a whole;
+201 (3) A tax assessor’s map of the geographic area comprising the assessment area,
+202 clearly designating the boundaries and each property by street address, lot, and square number to
+203 be included within the assessment area;
+204 (4) A list, by street address, lot, and square number, of all taxable property within
+205 the proposed special assessment area; and the most recent assessed value of each taxable
+206 property to the extent reasonably ascertainable from District property tax records or a final
+207 determination of the Real Property Tax Appeals Commission for the District of Columbia, and a
+208 list of the names and addresses of all record owners and commercial tenants within the proposed
+209 special assessment area, to the extent reasonably ascertainable;
+210 (A) For the purposes hereof, individual taxable properties shall mean
+211 properties identified by separate lot and square numbers to the extent reasonably ascertainable
+212 from the records of the Office of Taxation and Revenue or Office of Recorder of Deeds;
+213 provided, that any property subdivided into separate condominium units shall constitute a single
+214 property for the purpose of determining the number of taxable properties referred to in this
+215 paragraph; provided further, that such condominium units shall constitute separate properties for
+216 purposes of assessing special assessment area charges. Changes in the assessed values occurring
+11
+
+217 after submission of an application, whether through regular reassessment, appeals, or otherwise,
+218 shall not affect the validity of the application; and,
+219 (5) The annual proposed total special assessment taxes for the first year of
+220 collections, and the formula used to determine each special assessment participant’s tax, which
+221 shall be based upon either assessed value, square footage, or a uniform fixed tax per building.
+222 Special assessment taxes may vary by class and type of property provided that they are applied
+223 fairly and equitably within the assessment area;
+224 (c) The application shall be considered approved by a 2/3 vote of voting members the
+225 Board at a meeting called for such purposes. The Board shall submit legislation effectuating the
+226 application to Council for consideration and approval.
+227 (d) If a portion of the special assessment area boundary falls outside of the boundaries of
+228 the Authority, approval of the special assessment area application by the Authority pursuant to
+229 this section shall constitute an expansion of the Authority’s boundaries.
+230 (e) No later than 120 days after approval of a special assessment area pursuant to this
+231 section, the Authority shall amend its bylaws and procedures to incorporate special assessment
+232 participants in the Authority’s governance, including:
+233 (1) Nomination and election of special assessment participants to fill Board seats
+234 enumerated in Title II of this act;
+235 (2) Procedures for expanding the special assessment area; and,
+236 (3) A process for special assessment participants to vote on amendments to the
+237 special assessment rates and formula.
+238 (f) The special assessment shall be collected pursuant to procedures identical to those
+239 enumerated in section 16 of the Business Improvement Districts Act of 1996, effective May 29,
+12
+
+240 1996 (D.C. Law 11-134; D.C. Official Code § 2-1215.15).
+241 (g) The Mayor shall not hold a hearing on, or approve for registration, any BID
+242 corporation application, as described in sections 6 and 7 of the Business Improvement Districts
+243 Act of 1996, effective May 29, 1996 (D.C. Law 11-134; D.C. Official Code § 2-1215.05) that
+244 overlaps, in whole or in part, with the boundary of a Neighborhood Management Authority
+245 established pursuant to this act.
+246 Sec. 111. Service Areas and Expansion of Boundaries.
+247 (a) Each Authority shall have its initial boundaries established according to Title II of this
+248 act.
+249 (b) Notwithstanding section 110, the boundaries of the Authority may be expanded by
+250 submitting an application to the Board of Directors, which shall be approved by a 2/3 vote of the
+251 voting members of the Board. The Board shall submit any approved applications for expansion
+252 for Council review by resolution, which shall be deemed approved after a 45-day period of
+253 review, excluding weekends, holidays, and days of Council recess.
+254 (1) The application shall be duly sworn under oath before a notary public who
+255 holds a valid license in the District, and shall contain:
+256 (A) A statement setting forth the name and address of the applicants;
+257 (B) A map of the proposed expansion area;
+258 (C) A statement signed by the owners or their authorized representatives
+259 who own at least a 51% interest properties in the geographic area of the proposed assessment
+260 area as a whole;
+261 (D) A description of the service needs for the proposed area of expansion,
+262 and whether the proposed expansion would result in an increase in dedicated revenues for the
+13
+
+263 Authority;
+264 (E) An explanation of why the proposed expansion would be consistent
+265 with the purposes of the Authority and with the existing boundary.
+266 Sec. 112. Bond Issuance.
+267 (a) The Authority, pursuant to section 490(a)(6) of the Home Rule Act, may, to carry out
+268 the authorized purposes of the Authority:
+269 (1) Incur debt by the issuance of revenue bonds; and
+270 (2) Borrow or lend money to finance or assist in the financing of undertakings
+271 authorized by this chapter.
+272 (b) The Authority may not use the proceeds of bonds issued by the Authority unless the
+273 Board:
+274 (1) Determines that the use of the proceeds meets the requirements of this chapter
+275 and § 1-204.90; and
+276 (2) Approves a resolution, describing the determination required by paragraph (1)
+277 of this subsection.
+278 (c) Regardless of their form or character, bonds and other debt instruments of the
+279 Authority are negotiable instruments for all purposes of Subtitle I of Title 28, subject only to the
+280 provisions of the bonds for registration.
+281 (d) No director, employee, or agent of the Authority shall be personally liable for any
+282 payment required to be made under any bond issued by the Authority.
+283 (e) No notice, proceeding, consent, or approval shall be required for the issuance or
+284 performance of any bond of the Authority or the execution of any instrument relating thereto or
+285 to the security therefor, except as provided in this chapter or in guidelines issued by the
+14
+
+286 Authority.
+287 (f) The Authority may stipulate by resolution the terms for sale of its bonds in accordance
+288 with this chapter, including the following:
+289 (1) The date a bond bears;
+290 (2) The date a bond matures;
+291 (3) Whether bonds are issued as serial bonds, as term bonds, or as a combination
+292 thereof;
+293 (4) The denomination;
+294 (5) The interest rate or rates, or variable rate or rates changing from time to time
+295 in accordance with a base or formula;
+296 (6) The registration privileges;
+297 (7) The medium and method for payment; and
+298 (8) The terms of redemption.
+299 (g) The Authority may sell its bonds at public or private sale and may determine the price
+300 for sale.
+301 (h) A pledge of the Authority is binding from the time it is made. Any funds or property
+302 pledged are subject to the lien of a pledge without physical delivery. The lien of a pledge is
+303 binding as against parties having any tort, contract or other claim against the Authority
+304 regardless of notice. Neither a resolution nor any other instrument creating a pledge need be
+305 recorded.
+306 (i) Bonds issued under the provisions of this section do not constitute an obligation of the
+307 District and are payable solely from the revenues or assets of the Authority. Each bond issued
+308 under this section must contain on its face a statement that the Authority is not obligated to pay
+15
+
+309 principal or interest except from the revenues or assets pledged and that neither the faith and
+310 credit nor the taxing power of the District is pledged to the payment of the principal or interest
+311 on a bond.
+312 (j) The District pledges to the holders of any bonds issued under this section that the
+313 District will not limit or alter rights vested in the Authority to fulfill agreements made with
+314 holders of the bonds, or in any way impair the rights and remedies of the holders of the bonds
+315 until the bonds, together with the interest thereon, with interest on any unpaid installments of
+316 interest, and all costs and expenses in connection with any action or proceedings by or on behalf
+317 of such holders are fully met and discharged. The Authority may include this pledge of the
+318 District in any agreement with the holders of bonds.
+319 (k) The signature of any officer of the Authority that appears on a bond remains valid if
+320 that person ceases to hold that office.
+321 TITLE II. NEIGHBORHOOD MANAGEMENT AUTHORITY FORMATIONS.
+322 SUBTITLE A. DUKE DISTRICT NEIGHBORHOOD MANAGEMENT AUTHORITY.
+323 Sec. 201. Duke District Neighborhood Management Authority.
+324 (a) Notwithstanding other provisions of this act, the boundaries of the Duke District
+325 Neighborhood Management Authority (“Authority”) are as follows:
+326 (1) The area bounded by S Street, N.W., from the intersection of Florida Avenue,
+327 N.W. and 4th Street, N.W., to 14th Street, N.W.; 14th Street, N.W., from S Street, N.W., to U
+328 Street, N.W.; U Street, N.W., from 14th Street, N.W., to 17th Street, N.W.; 17th Street, N.W.,
+329 from U Street, N.W., to Florida Avenue, N.W.; Florida Avenue, N.W., from 17th Street, N.W.,
+330 to W Street, N.W.; W Street, N.W., from the intersection of Florida Avenue, N.W. and 16th
+331 Street, N.W., to the intersection of Florida Avenue, N.W. and 15th Street, N.W.; Florida Avenue,
+16
+
+332 N.W., from 15th Street, N.W., to Barry Place, N.W.; Barry Place, N.W., from Florida Avenue,
+333 N.W., to Georgia Avenue, N.W.; Georgia Avenue, N.W., from Barry Place, N.W., to Florida
+334 Avenue, N.W.; Florida Avenue, N.W., from Georgia Avenue, N.W., to S Street, N.W.; and,
+335 (2) All Lots within Square 3075.
+336 (b) The general purposes of the Authority shall be to:
+337 (1) Promote the general welfare of the residents, employers, employees, property
+338 owners, commercial tenants, consumers, and the general public within the Authority’s boundary;
+339 (2) Maintain and grow the Duke District as a mixed-use center with theaters, arts
+340 and music establishments, restaurants, shops, neighborhood services, and housing serving a
+341 range of incomes and household types;
+342 (3) Promote cultural tourism initiatives, public art, signage, and other
+343 improvements that recognize the Duke District as a nationally significant Black history landmark
+344 and a district with prominent LGBTQ+ community sites;
+345 (4) Serve as a coordinating body for the District’s public safety and enforcement
+346 resources within the service area;
+347 (5) Assist in implementation of District policy and planning priorities that overlap
+348 or relate to the Duke District, including small area plans and the Cultural Plan for the District of
+349 Columbia;
+350 (6) Supplement cleaning and maintenance of streets, parks, plazas, and other
+351 public spaces within the service area;
+352 (7) Promote, develop, and maintain music, culture, and entertainment
+353 programming and events, directly or under contract, at the Lincoln Theatre, Howard Theatre, and
+354 other public spaces and facilities within the Duke District;
+17
+
+355 (8) Maintain and improve Duke Ellington Plaza on the 600 Block of T Street,
+356 N.W.;
+357 (9) Solicit offers, accept unsolicited offers, and execute any lease on behalf of the
+358 District of Columbia with respect to:
+359 (A) The Lincoln Theatre site, consisting of the land and improvements
+360 described for purposes of assessment and taxation as Lots 809 of Square 273, with a street
+361 address of 1215 U Street, N.W., and Lots 805 and 808 in Square 273, with frontages on the 1200
+362 block of V Street, N.W.;
+363 (B) The Howard Theatre site, consisting of the land and improvements
+364 described for purposes of assessment and taxation as Lot 0090 of Square 0041, with a street
+365 address of 620 T Street, N.W.; and,
+366 (C) The site consisting of the land and improvements described for
+367 purposes of assessment and taxation as Lot 25 in Square 440, with a street address of 625 T
+368 Street, N.W.;
+369 (10) Provide operating budget support to pre-existing community-based
+370 organizations that provide services within the Duke District, including Main Streets and Clean
+371 Teams; and,
+372 (11) Other functions as delegated by the Mayor.
+373 Sec. 202. Transfers of Jurisdiction.
+374 All functions assigned, authorities delegated, positions, personnel, property, records, and
+375 unexpended balances of appropriations, allocations, and other funds available or to be made
+376 available to the Department of General Services or Deputy Mayor for Planning and Economic
+18
+
+377 Development are transferred to the Duke District Neighborhood Management Authority for the
+378 following properties:
+379 (1) The Lincoln Theatre site, consisting of the land and improvements described
+380 for purposes of assessment and taxation as Lots 809 of Square 273, with a street address of 1215
+381 U Street, N.W., and Lots 805 and 808 in Square 273, with frontages on the 1200 block of V
+382 Street, N.W.;
+383 (2) The Howard Theatre site, consisting of the land and improvements described
+384 for purposes of assessment and taxation as Lot 0090 of Square 0041, with a street address of 620
+385 T Street, N.W.; and,
+386 (3) The site consisting of the land and improvements described for purposes of
+387 assessment and taxation as Lot 25 in Square 440, with a street address of 625 T Street, N.W.;
+388 Sec. 203. Board of Directors.
+389 (a) Notwithstanding subsection (e) of this section, The Duke District Neighborhood
+390 Management Authority Board of Directors (“Board”) shall be comprised of nine voting members
+391 appointed in accordance with this section.
+392 (b) Four voting members shall be appointed by the Mayor, of which:
+393 (1) One shall represent a restaurant, bar, or other service business in the Duke
+394 District;
+395 (2) One shall represent a business in the Duke District that is not licensed to sell
+396 alcoholic beverages or cannabis;
+397 (3) One shall represent Howard University or Howard University Hospital;
+398 (4) One shall represent the owner or operator of a performance venue, legitimate
+399 theater, or other cultural institution within the Duke District.
+19
+
+400 (6) Of the members first appointed pursuant to this subsection, two shall serve for
+401 a term of two years and two shall serve for a term of three years.
+402 (c) One voting member shall be a resident with a permanent residence within Duke
+403 District appointed by each Advisory Neighborhood Commission with four or more single
+404 member districts contained within the Authority boundaries. The member shall be appointed by a
+405 majority vote of the commission at a meeting called for such purposes.
+406 (d) Three voting members shall be appointed by the Council, of which:
+407 (1) One shall represent the owner or operator of a performance venue, legitimate
+408 theater, or other cultural institution within the Duke District;
+409 (2) One shall have proven expertise in municipal finance, business finance, or
+410 economic development;
+411 (3) One shall represent a business or commercial property within the Duke
+412 District; and
+413 (4) One shall be a Duke District resident that is not associated with or employed
+414 by a business within the Duke District.
+415 (5) Of the members first appointed pursuant to this subsection, two shall serve for
+416 a term of two years and two shall serve for a term of three years.
+417 (e) Two additional voting members may represent owners, or principals, agents, partners,
+418 managers, trustees, stockholders, officers, or directors of owners, and commercial tenants of
+419 taxable property subject to a special assessment pursuant to section 110 of this act.
+420 (1) Seats on the Authority Board enumerated in this subsection shall only be filled
+421 upon the enactment of a special assessment area within the Duke District and shall otherwise
+422 remain vacant and not be counted for the purposes of establishing a quorum of the Authority
+20
+
+423 Board.
+424 (f) Non-voting members of the Board shall include the following ex-officio members:
+425 (1) The Director of the Authority, or the Director's designee, who shall serve as
+426 vice chair of the Board;
+427 (2) The Director of any Main Street Program organization within the Authority
+428 boundary;
+429 (3) The Chief of Police, or their designee;
+430 (4) The Director of the Alcoholic Beverage and Cannabis Administration, or their
+431 designee;
+432 (5) The Director of the Department of Public Works, or their designee;
+433 (6) The Director of the Department of Transportation; or their designee;
+434 (7) The Deputy Mayor for Planning and Economic Development, or their
+435 designee;
+436 (8) The Director of the Department of Small and Local Business Development, or
+437 their designee;
+438 (9) The Director of the Commission on Arts and Humanities, or their designee;
+439 and
+440 (10) The Director of the Mayor’s Office on Nightlife and Culture, or their
+441 designee.
+442 (g) The Council may establish an Interim Board of Directors (“Interim Board”) consisting
+443 of no more than five members to manage the affairs of the Authority until the Board established
+444 pursuant to this section convenes its first meeting. Upon the convening of the first meeting of the
+445 Board, the Interim Board shall dissolve.
+21
+
+446 Sec. 204. Duke District Neighborhood Management Fund.
+447 (a) There is established as a special fund the Duke District Neighborhood Management
+448 Fund ("Fund"), which shall be administered by the Duke District Management Authority
+449 (“Authority”) in accordance with this section.
+450 (b) Revenue from the following sources shall be deposited into the Fund:
+451 (1) Appropriated funds;
+452 (2) All parking meter revenue collected within the Greater U Street Performance
+453 Parking Zone established by section 8a of the Performance Parking Pilot Zone Act of 2008,
+454 effective November 25, 2008 (D.C. Law 17-279; D.C. Official Code § 50-2531) that exceeds
+455 baseline revenue from metered spaces within the zone as of October 1, 2023, as determined by
+456 the Director of the Department of Transportation, provided, that up to 5% may be used to pay for
+457 meter maintenance and related infrastructure in that zone;
+458 (3) Any special assessment taxes collected pursuant to section 110 of this this act;
+459 (4) Revenues from PILOT agreements for properties to contribute to the Fund,
+460 established pursuant to section 3(b) of the Payments in Lieu of Taxes Act of 2004, effective
+461 (D.C. Law 15-293, D.C. Official Code § 1-308.02(b));
+462 (6) Deed and recordation transfers collected pursuant to section 204 of this act;
+463 (5) Grants, fees, donations, or gifts from public or private sources, subject to
+464 approval by the Board;
+465 (6) Proceeds from any proceeding, settlement, or contract in which the District is
+466 a party and the funds have been assigned to the Authority;
+467 (7) Interest earned from the deposit or investment of monies from the Fund; and,
+468 (8) All revenues, receipts, and fees of whatever source derived from the operation
+22
+
+469 of the Fund.
+470 (c)(1) Money in the Fund shall be used for all purposes related to the mission and
+471 operation of the Authority.
+472 (2) Subject to approval of the Authority Board, money in the fund may be
+473 allocated to subordinate agencies of the District to provide enhanced programs or services related
+474 to the mission and operation of the Authority, provided, that such appropriations shall not be
+475 used to supplant local funds typically appropriated for agency operating budgets or services that
+476 would otherwise be provided by such agencies within the Authority’s boundary.
+477 (d)(1) The money deposited into the Fund shall not revert to the unrestricted fund balance
+478 of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.
+479 (2) Subject to authorization in an approved budget and financial plan, any funds
+480 appropriated in the Fund shall be continually available for the uses and purposes set forth in this
+481 chapter without regard to fiscal year limitation. Any monies received but not expended in a given
+482 fiscal year shall be retained by the Fund.
+483 (3) No revenues collected on behalf of the Authority and transferred to or
+484 deposited in the Fund shall be commingled with any funds of the District.
+485 Sec. 205. Duke District Deed and Recordation Transfers.
+486 In fiscal years ending on or after October 1, 2025, the Chief Financial Officer shall
+487 deposit into the Duke District Management Fund 40% of the Deed Transfer and Recordation
+488 Taxes attributable to new buildings constructed within the boundaries of the Authority, or such
+489 successor record or assessment and taxation lots as may be created through future subdivision or
+490 creation of condominium units.
+491 SUBTITLE B. COLUMBIA HEIGHTS NEIGHBORHOOD MANAGEMENT
+23
+
+492 AUTHORITY.
+493 Sec. 206. Columbia Heights Neighborhood Management Authority.
+494 (a) Notwithstanding other provisions of this act, the boundaries of the Columbia Heights
+495 Neighborhood Management Authority (“Authority”) are as follows:
+496 (1) The area bounded by: (A) 1100 through 1500 blocks of Monroe Street, N.W.;
+497 (B) 1100 through 1500 blocks of Harvard Street, N.W.; (C) 2900 through 3400 blocks of 11th
+498 Street, N.W.; and (D) 2900 through 3300 blocks of 16th Street, N.W.; including both sides of
+499 boundary streets;
+500 (2) All Lots within Square 2667 and Square 2669; and,
+501 (2) An area extending 500 feet from either side of the centerline of the 2300
+502 through 3700 blocks of 14th Street, N.W.
+503 (b) The general purposes of the Authority shall be to:
+504 (1) Promote the general welfare of the residents, employers, employees, property
+505 owners, commercial tenants, consumers, and the general public within the Authority’s boundary;
+506 (2) Effectuate District policy and planning priorities that overlap or intersect with
+507 the Authority’s geographic area;
+508 (4) Represent the District of Columbia Government on the board of the DC-USA
+509 Mall, including management and operation of the garage facility;
+510 (5) Maintain the Columbia Heights Metro station area as a thriving mixed-use
+511 community center, anchored by mixed-income housing, community-serving retail, offices, civic
+512 uses, and public plazas.
+513 (6) Strive to retain and elevate the neighborhood’s extraordinary cultural diversity
+514 and place a priority on development and services that meet the needs of local residents;
+24
+
+515 (7) Attract and maintain a diverse array of businesses to address commercial
+516 vacancies;
+517 (8) Supplement cleaning, maintenance, and programming of parks, plazas, and
+518 public spaces within the Authority boundary, including residential blocks;
+519 (9) Serve as a coordinating body for the District’s public safety and enforcement
+520 resources within the service area
+521 (10) Pursue agreements with private property owners and the National Park
+522 Service to expand accessible public space; and,
+523 (11) Provide operating budget support to pre-existing community-based
+524 organizations that provide services within the Authority boundary, including Main Streets and
+525 Clean Teams.
+526 Sec. 207. Transfers of Jurisdiction.
+527 (a) All functions assigned, authorities delegated, positions, personnel, property, records,
+528 and unexpended balances of appropriations, allocations, and other funds available or to be made
+529 available to the Department of General Services or Department of Parks and Recreation are
+530 transferred to the Columbia Heights Neighborhood Management Authority (“Authority”) for the
+531 following properties:
+532 (1) Columbia Heights Civic Plaza in Square 2843, Lot 834;
+533 (2) Columbia Heights Metro Plaza in Square 2672, Lot 887;
+534 (3) The public space at the northeast corner of 14th Street, N.W., and Irving
+535 Street, N.W., in Square 2848, Lot 871;
+536 (b) The Authority shall pursue a memorandum of understanding or other contractual
+537 agreement with the Washington Metropolitan Area Transit Authority for maintenance of public
+25
+
+538 space in immediate proximity of entrances to the Columbia Heights Metrorail Station that are not
+539 owned by the District.
+540 Sec. 208. Board of Directors.
+541 (a) Notwithstanding subsection (e) of this section, Columbia Heights Neighborhood
+542 Management Authority Board of Directors (“Board”) shall be comprised of nine voting members
+543 appointed in accordance with this section.
+544 (b) Four voting members shall be appointed by the Mayor, of which:
+545 (1) One shall represent a business within or immediately abutting central
+546 Columbia Heights;
+547 (2) One shall represent a business within the Authority boundaries that is
+548 otherwise located outside of central Columbia Heights;
+549 (3) One shall be a resident with a permanent residence within or immediately
+550 abutting central Columbia Heights; and
+551 (4) One shall be a resident with a permanent residence within the Authority
+552 boundaries that is otherwise located outside of central Columbia Heights.
+553 (5) Of the members first appointed pursuant to this subsection, two shall serve for
+554 a term of two years and two shall serve for a term of three years.
+555 (c) One voting member shall be a person with a permanent residence within the Authority
+556 boundary appointed by ANC 1A, nominated by a majority vote of the commission.
+557 (d) Four voting members shall be appointed by the Council, of which:
+558 (1) One shall represent a business within or immediately abutting central
+559 Columbia Heights;
+560 (2) One shall represent a business within the Authority boundaries that is
+26
+
+561 otherwise located outside of central Columbia Heights;
+562 (3) One shall be a resident with a permanent residence within or immediately
+563 abutting central Columbia Heights; and
+564 (4) One shall be a resident with a permanent residence within the Authority
+565 boundaries that is otherwise located outside of central Columbia Heights.
+566 (3) Of the members first appointed pursuant to this subsection, two shall serve for
+567 a term of two years and two shall serve for a term of three years.
+568 (e) For the purposes of this section, the term “central Columbia Heights” means the area
+569 bounded by Monroe Street, N.W., 16th Street, N.W., Columbia Road, N.W., and 13th Street,
+570 N.W..
+571 (f) Two additional voting members may represent owners, or principals, agents, partners,
+572 managers, trustees, stockholders, officers, or directors of owners, and commercial tenants of
+573 taxable property subject to a special assessment pursuant to section 110 of this act.
+574 (1) Seats on the Authority Board enumerated in this subsection shall only be filled
+575 upon approval of a special assessment area within the Duke District and shall otherwise remain
+576 vacant and not be counted for the purposes of establishing a quorum of the Authority Board.
+577 (g) Non-voting members of the Board shall include the following ex-officio members:
+578 (1) The Director of the Authority, or the Director's designee, who shall serve as
+579 vice chair of the Board;
+580 (2) The Director of any Main Street Program organization within the Authority
+581 boundary;
+582 (3) The Chief of Police, or their designee;
+583 (4) The Director of the Alcoholic Beverage and Cannabis Administration, or their
+27
+
+584 designee;
+585 (5) The Director of the Department of Public Works, or their designee;
+586 (6) The Director of the Department of Transportation; or their designee;
+587 (7) The Deputy Mayor for Planning and Economic Development, or their
+588 designee;
+589 (8) The Director of the Department of Small and Local Business Development, or
+590 their designee;
+591 (9) The Director of the Department of Behavioral Health, or their designee;
+592 (10) The Director of the Department of Parks and Recreation, or their designee;
+593 and,
+594 (11) The Director of the Department of General Services, or their designee.
+595 (h) The Council may establish an Interim Board of Directors (“Interim Board”) consisting
+596 of no more than five members to manage the affairs of the Authority until the Board established
+597 pursuant to this section convenes its first meeting. Upon the convening of the first meeting of the
+598 Board, the Interim Board shall dissolve.
+599 Sec. 209. Columbia Heights Neighborhood Management Fund.
+600 (a) There is established as a special fund the Columbia Heights Neighborhood
+601 Management Fund ("Fund"), which shall be administered by the Columbia Heights
+602 Neighborhood Management Authority (“Authority”) in accordance with this section.
+603 (b) Revenue from the following sources shall be deposited into the Fund:
+604 (1) Appropriated funds;
+605 (2) All parking-meter revenue collected within the Columbia Heights
+606 Performance Parking Zone established by section 4 of the Performance Parking Pilot Zone Act
+28
+
+607 of 2008, effective November 25, 2008 (D.C. Law 17-279; D.C. Official Code § 50-2533.) that
+608 exceeds baseline revenue from metered spaces within the zone as of October 1, 2025, as
+609 determined by the Director of the Department of Transportation, provided, that up to 5% may be
+610 used to pay for meter maintenance and related infrastructure in that zone;
+611 (3) Revenue collected from the DC-USA parking garage pursuant to section 212
+612 of this act;
+613 (4) Targeted Retail Vacancy fees collected pursuant to section 210 of this act;
+614 (5) Alcoholic beverage tax revenue collected pursuant to section 212 of this act;
+615 (6) Special property tax assessment revenues collected pursuant to section 110 of
+616 this act;
+617 (7) Revenues from PILOT agreements for properties to contribute to the Fund,
+618 established pursuant to section 3(b) of the Payments in Lieu of Taxes Act of 2004, effective
+619 (D.C. Law 15-293, D.C. Official Code § 1-308.02(b));
+620 (8) Grants, fees, donations, or gifts from public or private sources, subject to
+621 approval by the Board;
+622 (9) Proceeds from any proceeding, settlement, or contract in which the District is
+623 a party and the funds have been assigned to the Authority;
+624 (10) Interest earned from the deposit or investment of monies from the Fund; and,
+625 (11) All revenues, receipts, and fees of whatever source derived from the
+626 operation of the Fund.
+627 (c) (1) Money in the Fund shall be used for all purposes related to the mission and
+628 operation of the Authority.
+629 (2) Subject to approval of the Board, money in the fund may be allocated to
+29
+
+630 subordinate agencies of the District to provide enhanced programs or services related to the
+631 mission and operation of the Authority, provided, that such appropriations shall not be used to
+632 supplant local funds typically appropriated for agency operating budgets or services that would
+633 otherwise be provided by such agencies within the Authority’s boundary.
+634 (d)(1) The money deposited into the Fund shall not revert to the unrestricted fund balance
+635 of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.
+636 (2) Subject to authorization in an approved budget and financial plan, any funds
+637 appropriated in the Fund shall be continually available for the uses and purposes set forth in this
+638 chapter without regard to fiscal year limitation. Any monies received but not expended in a given
+639 fiscal year shall be retained by the Fund.
+640 (3) No revenues collected on behalf of the Authority and transferred to or
+641 deposited in the Fund shall be commingled with any funds of the District.
+642 Sec. 210. Targeted Retail Vacancy Fee.
+643 (a) There is levied a Columbia Heights retail vacancy fee, which shall apply to all
+644 properties within the Columbia Heights Neighborhood Management Authority which contain
+645 more than [ ] square feet of leasable commercial floor area.
+646 (b) The retail vacancy fee shall be calculated as follows:
+647 (1) $[ ] per square foot for the first [ ] square feet of vacant commercial space.
+648 (2) $[ ] per square foot of the square footage of vacant commercial space above [ ]
+649 square feet.
+650 Sec. 211. Alcoholic beverage tax revenue to be deposited in Columbia Heights
+651 Neighborhood Management Fund.
+652 (a) The holder of an off-premises retailer license shall be permitted to apply for one 25%
+30
+
+653 grocery store class A retailer license for a grocery store that meets the requirements of § 25-
+654 333(f) and is located in square 2837.
+655 (b) If a 25% grocery store class A retailer license is granted pursuant to subsection (a) of
+656 this section, any gross receipts tax on the sale of alcoholic beverages collected pursuant to § 47-
+657 2002(a)(B)(3A) above the baseline amount, as determined by the Chief Financial Officer, in the
+658 fiscal year prior to the issuance of the license shall be deposited in the Columbia Heights
+659 Neighborhood Management Fund as established in section 208 of this act.
+660 Sec. 212. DC-USA Garage.
+661 (a) All functions assigned, authorities delegated, property, records, and unexpended
+662 balances of appropriations, allocations, and other funds available or to be made available for the
+663 DC-USA Garage Unit (“Garage”), as defined in § 47-4608(a)(4), are transferred to the Columbia
+664 Heights Management Authority (“Authority”).
+665 (b) The Director of the Authority, or their designee, shall be the District’s representative
+666 on the condo board, or any successor, that governs the Garage. The Director’s policy priorities in
+667 representing the District’s interests shall be as follows:
+668 (1) Adjusting pricing for public use of the Garage, in coordination with the
+669 District Department of Transportation and in furtherance of the goals of the Columbia Heights
+670 Performance Parking Zone, as established in section 4 of the Performance Parking Pilot Zone
+671 Act of 2008, effective November 25, 2008 (D.C. Law 17-279; D.C. Official Code § 50-2533);
+672 (2) Establishing procedures for use of the Garage during snow emergencies;
+673 (3) Utilizing excess Garage capacity to meet community needs, including:
+674 (A) Offsetting the removal of residential parking in proximity to the
+675 Garage that may result from multimodal projects, with priority given to:
+31
+
+676 (i) Residents of income-restricted and senior housing;
+677 (ii) Residents of multifamily properties with little to no off-street
+678 parking; and,
+679 (iii) Residents with disability placards;
+680 (B) Storage of vending carts and equipment used by licensed vendors in
+681 the Columbia Heights/Mount Pleasant Vending Zone; and,
+682 (C) Other uses of space in furtherance of the purposes of the Authority as
+683 defined in section 206 of this this act.
+684 TITLE III. COLUMBIA HEIGHTS PERFORMANCE PARKING ZONE.
+685 Sec. 301. Columbia Heights Performance Parking Zone.
+686 The Performance Parking Pilot Zone Act of 2008, effective November 25, 2008 (D.C.
+687 Law 17-279; D.C. Official Code § 50-2501 et seq.), is amended as follows:
+688 (a) Section 4 (D.C. Official Code § 50-2533) is revived as of the effective date of this
+689 section, and amended as follows:
+690 (1) The section heading is amended by striking the phrase “Columbia Heights
+691 Retail Performance Parking Pilot Zone” and inserting the phrase “Columbia Heights
+692 Performance Parking Zone” in its place.
+693 (2) Subsection (a) is amended as follows:
+694 (A) Strike the phrase “Columbia Heights Retail Performance Parking Pilot
+695 Zone” and insert the phrase “Columbia Heights Performance Parking Zone” in its place.
+696 (B) Paragraph (2) is amended to read as follows:
+697 “(2) An area extending 500 feet from either side of the centerline of the 2300
+698 through 3700 blocks of 14th Street, N.W.; and,”.
+32
+
+699 (3) A new subsection (a-1) is added to read as follows:
+700 “(a-1) The Mayor may alter the boundaries of the zone; provided, that the Council and
+701 the affected Advisory Neighborhood Commissions ("ANC") are provided with 30 days' written
+702 notice, excluding Saturdays, Sundays, and legal holidays, of the Mayor's intent to do so, and any
+703 ANC recommendation, if provided, is given great weight pursuant to section 13 of the Advisory
+704 Neighborhood Commissions Act, effective March 26, 1976 (D.C. Law 1-58; D.C. Official Code
+705 § 1-309.10).”.
+706 (4) Subsection (b) is repealed.
+707 (5) Subsection (c) is amended to read as follows:
+708 “(c) Pursuant to section 2, the Mayor shall adjust fees to manage curbside and off-street
+709 parking availability, facilitate commercial loading and pick-up and drop-off, dissuade repeat
+710 parking violations, and manage congestion.
+711 “(1) The Department of Transportation shall coordinate with the Columbia
+712 Heights Neighborhood Management Authority, as established in Subtitle B of Title 2 of the
+713 Neighborhood Management Authority Establishment Act of 2025, effective ______, to ensure
+714 that the cost of off-street garage parking and curbside parking meter rates within the Zone are
+715 coordinated to effectuate the goals of this section.”.
+716 (6) A new subsection (c-1) is added to read as follows:
+717 "(c-1) The Mayor may establish metered or pay-by-phone parking for residential parking
+718 permit blocks within the zone in order to dissuade curbside occupancy on such blocks by
+719 vehicles without a residential permit.”.
+720 (7) Subsection (d) is repealed.
+721 (b) Section 2a (D.C. Official Code § 50-2531.01) is repealed.
+33
+
+722 TITLE IV. MISCELLANEOUS PROVISIONS.
+723 Sec. 402. Fiscal impact statement.
+724 The Council adopts the fiscal impact statement in the committee report as the fiscal
+725 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+726 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+727 Sec. 303. Effective date.
+728 This act shall take effect after approval by the Mayor (or in the event of veto by the
+729 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+730 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+731 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+732 Columbia Register.
+34

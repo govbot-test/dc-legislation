@@ -1,0 +1,861 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+March 6, 2025
+The Honorable Phil Mendelson
+Chairman
+Councilofthe District ofColumbia
+JohnA. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+DearChairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. M0008, M0009, M0010, M0011, M0012, and M0013 to
+Contract No. CW101233 with My Sister's Place, Inc. Approval and Payment Authorization
+Emergency Act of 2025,”and the accompanying emergency declaration resolution.
+The legislation will approve Modification Nos. M0008, M0009, M0010, M0011, M0012, and
+M0013 to ContractNo. CW101231 with My Sister’s Place, Inc., forcase management services for
+families in the Family Rehousing and Stabilization Program, and to fully exercise optionyear two
+of the contract. In addition, the legislation will approve payment for the goods and services
+received and to be received under the modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modifications. To facilitate a response to any questions you may have, please have your
+staffcontact Mare Scott, ChiefOperating Officer, Office ofContracting and Procurement, at(202)
+724-8759.
+T urge the Council to take prompt and favorableaction on the enclosed legislation.
+Sincerely,
+Mbriel Bawser
+
+1
+~~
+2
+3 ~ hairmanPhil Mendelson
+4 at the request of the Mayor
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16
+17 To approve, on an emergency basis, Modification Nos. M0008, M0009, M00l0, M00l 1, M0012,
+18 and M0013 to Contract No. CW101233 with My Sister's Place, Inc., and to authorize
+19 payment for the goods and services received and to be received under the modifications.
+20
+21 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+22 act may be cited as the "Modification Nos. M0008, M0009, M00l0, M00l 1, M0012, and M0013
+23 to Contract No. CW101233 with My Sister's Place, Inc. Approval and Payment Authorization
+24 Emergency Act of 2025".
+25 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+26 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+27 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+28 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification
+29 Nos. M0008, M0009, M00l0, M00l 1, M0012, and M0013 to Contract No. CW101233 with My
+30 Sister's Place, Inc. and authorizes payment in the not-to-exceed amount of $1,694,810.52 for the
+31 goods and services received and to be received under the modifications.
+32 Sec. 3. Fiscal impact statement.
+1
+
+33 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+34 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+35 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+36 Sec. 4. Effective date.
+37 This act shall take effect following approval by the Mayor (or in the event of veto by the
+38 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+39 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+40 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+41 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+Tipping
+(A) Human Care Agreement Number: CW101233
+Proposed Contractor: My Sister’s Place, Inc.
+Proposed Contractor’s Principals: Mercedes Lemp, Executive Director
+Contract Amount (Option Two Period): $1,694,810.52 NTE
+Unit and Method of Compensation: Firm Fixed Price with Cost Reimbursable
+Component-Task Orders issued under Human Care
+Agreement
+Term of Contract: October 1, 2024, through September 30, 2025
+Option Period Two
+Type of Contract: HCA under which task orders will be issued for
+District requirements.
+Source Selection Method: Request for Qualification (RFQ)
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period deemed approved by the Council (CA25-0188) Amount: $2,060,600 NTE
+Option Period 1 deemed approved by the Council (CA25-0372) Amount: $1,713,977.16 NTE
+Option Period 2 Amount: $1,694,810.52 NTE
+Explanation of difference from base period (if applicable): Option period two: CLIN 2010
+Incentives were decreased.
+1
+
+Option Period 3 Amount: $2,210,956 NTE
+Explanation of difference from base period (if applicable): The increase from the base period
+covers the cost-of-living adjustment
+Option Period 4 Amount: $2,279,242 NTE
+Explanation of difference from base period (if applicable): The increase from the base period
+covers the cost-of-living adjustment
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The Government of the District of Columbia, Department of Human Services is seeking to exercise
+the remaining option in year two for My Sister’s Place, Inc. to continue to provide case
+management services for families in the Family Rehousing and Stabilization Program. The FRSP
+provides short-term rental and utility assistance to families experiencing homelessness in
+Washington, DC. Families work with FRSP case managers to set goals for greater housing and
+economic self-sufficiency.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+The solicitation was issued in the Washington Times on April 26, 2022. An electronic Request for
+Qualifications (RFQ), Doc600049, was issued in the open market utilizing the Office of
+Contracting and Procurement’s (OCP) Procurement Automated Support System (PASS) on April
+26, 2022, and officially closed on June 1, 2022. The District received twenty-four submissions, in
+response to Doc600049. Nineteen out of the twenty-four submissions were deemed qualified to
+provide case management services for the FRSP. The nineteen providers that were deemed
+qualified to perform case management services for the FRSP were notified on July 28, 2022.
+The responses were evaluated according to the qualification criteria set forth in the solicitation. The
+qualification criteria are FRSP program design; performance outcomes; performance and staff
+management; organizational capacity; and past performance. My Sister’s Place, Inc., met the
+qualifications indicated in the RFQ and has excellent performance providing similar services
+through current and prior HCAs with the District.
+The contracting officer awarded a letter contract after determining that My Sister’s Place, Inc. was
+qualified and responsible, and the proposed price was determined to be fair and reasonable. A
+definitive HCA was awarded to My Sister’s Place, Inc.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+None.
+2
+
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+None.
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+My Sister’s Place, Inc. is an experienced provider with the homeless population, providing case
+management services, and has the necessary organizational structure, experience, technical skills,
+and operational controls to perform the requirements of the HCA. My Sister’s Place, Inc. has
+demonstrated knowledge and experience working with the consumer population on similar
+requirements. This evidence is provided on past performance evaluations submitted with their
+proposal.
+My Sister’s Place, Inc. has financial stability and can adequately obtain the resources required for
+the support services of this contract. This evidence is provided from the contractor’s financial
+history as reported by the Dun and Bradstreet Business Report; completed on January 8, 2025.
+(H) The period of performance associated with the proposed change, including the date as of
+which the proposed change is to be made effective:
+Modification No. M0008: October 1, 2024, through December 31, 2024 (exercise of partial option)
+Modification No. M0009: Administrative Mod
+Modification No. M0010: December 27, 2024, through September 30, 2025 (modification of certain
+prices for remainder of option period and reducing option amount)
+Modification No. M0011: January 1, 2025, through March 31, 2025 (extend the period of
+performance)
+Modification No. M0012: April 1, 2025, through April 30, 2025 (extend the period of performance)
+Proposed Modification M0013: May 1, 2025, through September 30, 2025 (exercise of remainder
+of option period 2)
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+Modification No. M008: $439,902.63.
+Modification No. M009: $0.00
+Modification No. M0010: option amount reduced to $423,702.63
+Modification No. M0011: added $423,702.63
+Modification No. M0012: $0.00
+Proposed Modification No. M0013: adding $847,405.26 for the remainder of the option period, for
+a total amount for October 1, 2024 through September 30, 2025 of $1,694,810.52
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+3
+
+$847,405.26
+(K) The date on which the contracting officer was notified of the proposed change:
+October 11, 2024
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+The Contracting Officer exercised a partial option because DHS anticipated reducing the number of
+providers from seventeen to eleven, transferring the clients to the remaining eleven providers.
+(M) The reason for the proposed change:
+Due to the unpredicted delays of program exits and the extension of the appeals process timeline, it
+is necessary to have Maximus continue to provide case management without disruption to client
+services.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+27 DCMR Sections 1905.4 and 3601.
+(O) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+A subcontracting plan waiver, waiving the 35% subcontracting requirement, for option period two
+was approved on May 17, 2024, by the Department of Small and Local Business Development
+(DSLBD).
+(P) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+A. My Sister’s Place, Inc. certifies that they are compliant with the campaign finance Board of
+Ethics and Government Accountability Establishment and Comprehensive Ethics Reform
+Amendment Act of 2011, D.C. Official Code § 1-1163.34a
+4
+
+B. My Sister’s Place, Inc. will comply and will not be in violation of section 334a of the Board of
+Ethics and Government Accountability Establishment and Comprehensive Ethics Reform
+Amendment Act of 2011, D.C. Official Code § 1-1163.34a
+(Q) Performance standards and the expected outcome of the proposed modification contract:
+The District expects My Sister’s Place, Inc. to provide case management services for families in the
+DHS FRSP. The FRSP is a short-term housing intervention utilized to quickly house and stabilize
+families in permanent housing through individualized and time-limited assistance. Providers are
+expected to serve a minimum of 150 families. In Section F. of the HCA, the District outlined the
+required deliverables that the contractor is responsible for providing. The goal of this program is to
+stabilize families after they have experienced homelessness and to develop and implement a plan
+for long-term housing stability.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+$847,405.26
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+Per the Funding Certification, the agency’s Associate Chief Financial Officer certified that funds in
+the required amount are available to fund the services.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The proposed modification contract with My Sister’s Place, Inc. has been reviewed for legal
+sufficiency by the Office of the Attorney General and has been determined to be legally sufficient.
+The proposed provider does not have any legal claims pending against the District.
+(U) A certification that Citywide Clean Hands database indicates that the proposed contractor is
+current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands database indicates the contractor is current with its District taxes, as of
+January 23, 2025.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+5
+
+Based on information contained in the Bidder Offeror certification form, My Sister’s Place, Inc. has
+certified that it is current with its federal taxes and does not have any outstanding debt to the federal
+government.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended; D.C. Official Code § 2-218.01 et seq.:
+The provider is not a certified local, small, or disadvantaged business enterprise.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None.
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+My Sister’s Place, Inc. is not debarred or suspended from Federal or District procurements, based
+on searches of the District Office of Contracting and Procurement (OCP) excluded parties list,
+Office of Inspector General (OIG) exclusion database and the System for Award Management
+(SAM) database conducted on January 7, 2025.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination and Findings for Contractor’s Responsibility; dated February 5, 2025.
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+The contract is available on the Office of Contracting and Procurement website, www.ocp.dc.gov.
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+The solicitation and its amendments are available on the Office of Contracting and Procurement
+website, www.ocp.dc.gov.
+6
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: January 23, 2025 Notice Number: L0013254608
+MY SISTERS PLACE INC FEIN: **-***3256
+2357 RHODE ISLAND AVE NE Case ID: 18431837
+WCASHINGTON DC 20018-2828
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+DEPARTMENT OF HUMAN SERVICES
+Office of the Agency Fiscal Office
+MEMORANDUM
+TO: Nancy Hapeman
+Chief Procurement Officer
+Office of Contracting and Procurement
+THRU: Delicia V. Moore
+Associate Chief Financial Officer
+Human Support Services Cluster
+FROM: Hayden Bernard
+Agency Fiscal Officer
+Department of Human Services
+DATE February 3, 2025
+SUBJECT: Certification of Funding Availability for My Sister’s Place - Contract # CW101233
+The Office of the Chief Financial Officer hereby certifies that the sum of $1,694,810.52 is included in the District’s
+Local Budget and Financial Plan for Fiscal Year 2025 to fund the costs associated with the Department of Human
+Services Contract with My Sister’s Place for the Family Rehousing Stabilization Program. This certification supports
+The My Sister’s Place contract during the period from 10/01/24 – 09/30/25. The fund allocation is as follows:
+Vendor: My Sister’s Place Contract #: CW101233
+Fiscal Year 2025 Funding: 10/01/2024-09/30/2025
+DIFS DIFS
+DIFS DIFS
+Agency Cost Account Project Award Subtask Amount
+Fund Program
+Center
+JA0 1010001 70350 700186 7141002 202219 1000817 10.05 $423,702.63
+JA0 1010001 70346 700193 7141002 0 0 0 $423,702.63
+JA0 1010001 70498 700346 7132001 201448 1000817 10.01 $847,405.26
+FY 2025 Contract Total: $1,694,810.52
+There is no fiscal impact associated with the contract. Should you have any questions, please contact me at (202)
+671-4240.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Sarina Loy
+Deputy Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: February 20, 2025
+SUBJECT: Contractor: My Sister’s Place Inc.
+Contract No.: CW100233
+Total Amount: NTE $1,694,810.52.
+This is to Certify that this Office has reviewed the above-referenced Contract and that we have
+found it to be legally sufficient. If you have any questions in this regard, please do not hesitate to
+call me at 724-4018.
+______________________________
+Robert Schildkraut
+400 6th Street, NW, Suite 79100, Washington, DC 20001 (202) 727-3400 Fax (202) 347-8922
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION/MODIFICATION OF CONTRACT CW101233 1 3
+2. Amendment/Modification Number 3.Effective Date 4.Purchase Order/Requisition 5. Solicitation Caption
+No.
+Family Rehousing and Stabilization
+M0008 October 1, 2024
+Program (FRSP)
+6. Issued by: Code 7.Administered by (If other than line 6)
+Office of Contracting and Procurement Department of Human Services Family
+On behalf of Department of Human Services Services Administration
+64 New York Ave, NE 6th FL 64 New York Ave, NE 6th FL
+Washington, DC 20002 Washington, DC 20002
+8.Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+9B. Dated (See Item 11)
+My Sister’s Place Inc.
+10A. Modification of Contract/Order No.
+2357 Rhode Island Avenue NE
+X CW101233
+Washington, DC 20018
+POC: mlemp@mysistersplacedc.org 10B. Dated (See Item 13)
+10/01/22
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended. Offerors
+must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15 and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer submitted; or
+(c)BY separate modification or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED
+AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR OFFER. If
+by virtue of this amendment you desire to change an offer already submitted, such may be made by modification or fax, provided each modification or telegram makes
+reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If Required)
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS.
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+B. , The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B.The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+X
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.1.
+C.This supplemental agreement is entered into pursuant to authority of:
+D.Other (Specify type of modification and authority)
+X 27 DCMR, Chapter 36, Section 3601.2 -Exercise Option Period Two
+E. IMPORTANT: Contractor ____is not x is required to sign this document and return __1 copy to the issuing office.
+14.Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+1. In accordance with Human Care Agreement No. CW101233, Section D.3, Option to Extend the Term of the Agreement, the
+Government of the District of Columbia hereby partial exercises Option Period Two (2) to extend the term of this Human Care
+Agreement from October 1, 2024 through December 31, 2024 in the not-to-exceed amount of $439,902.63 per Attachment A below.
+Services to be performed are subject to the issuance of task orders. Funding will be encumbered on each task order.
+2. In accordance with Section H.2 “Department of Labor Wage Determinations”, the US Department of Labor Wage Determination No.
+2015-4281, Revision No. 29, dated April 11, 2024 is incorporated by reference and available at: https://sam.gov/wage-
+determination/2015-4281/26
+3. In accordance with the Way to Work Amendment Act of 2006, the District of Columbia 2023 Living Wage rate is adjusted to $17.05
+per hour effective January 1, 2024 until June 30, 2024. Effective July 1, 2024, the District’s Minimum Wage and Living Wage will
+increase to $17.50 per hour. The 2024 Living Wage Notice and Fact Sheet are hereby incorporated by reference:
+2024 Living Wage Notice | ocp (dc.gov)
+2024 Living Wage Fact Sheet | ocp (dc.gov)
+Except as provided herein, all terms and conditions of the document referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Mercedes Lemp, Executive Director Camille Christian
+15B.Contractor Signature 15C. Date 16B. District of Columbia 16C. Date Signed
+Signed
+10/01/2024
+9/26/2024
+(Signature of person authorized to sign (Signature of Contracting Officer)
+
+B.5 PRICE SCHEDULE
+B.4.3 A. Option Period Two Case Management – Firm Fixed Unit Price
+Contract Line Number Not-To-Exceed
+Item SERVICE DESCRIPTION of Personnel Monthly Rate No. Total Price
+No. (CLIN of Months
+2001 Program Director $7,815.17 3 $23,445.51
+1
+2002 Program Manager 1 $10,549.50 3 $31,648.50
+2003 Case Manager Supervisor 2 $20,180.34 3 $60,541.02
+2004 Case Manager $64,812.44 3 $194,437.32
+7
+2005 Housing Coordinator $9,258.92 3 $27,776.76
+1
+2006 HMIS Admin/Data Specialist 3 $10,976.76
+1 $3,658.92
+2007 Employment Specialist $9,258.92 3 $27,776.76
+1
+$376,602.63
+Option Period Two Not-to-exceed Case Management Services Total Amount
+*The Provider’s rates shall include overhead, profit, all insurance costs including Workers Compensation, employer
+payroll taxes (FICA, Medicare, Federal and State) and other direct costs.
+**All nonprofits organization’s fixed rates shall be fully loaded and include the organization’s unexpired NICRA. If a
+nonprofit organization does not have an unexpired NICRA, the nonprofit organization may elect to be compensated for
+indirect costs: (1) As calculated using a de minimis rate of 10% of all direct costs under this contract; (2) By negotiating
+a new percentage indirect cost rate with the DHS; (3) As calculated with the same percentage indirect cost rate as the
+nonprofit organization negotiated with any District agency within the past 2 years; or (4) As calculated with a percentage
+rate and base amount, determined by a certified public accountant using the nonprofit organization’s audited financial
+statements from the immediately preceding fiscal year, pursuant to the OMB Uniform Guidance, and certified in writing
+by the certified public accountant.
+B.4.3 B. Option Period Two Incentives
+Contract (A) (B) (C) (D)
+Line Item Description Estimated Number Unit Monthly Number of Total Price
+Item No. of Clients that will Maximum Months
+(CLIN) receive Incentives Incentive Amount (A x B x C)
+Per Client
+2008 Client Incentives NTE 5 Clients NTE $2,000 3 NTE $0.00
+2009 Provider Incentives NTE 5 Clients NTE $2,000 3 NTE $0.00
+2010 Exit Bonus NTE 5 Clients NTE $1,080 3 NTE $16,200.00
+Option Period Two Not-to-Exceed Incentives Total Amount $16,200.00
+1
+
+B.4.3 C. Option Period Two Cost Reimbursement
+Contract
+Line-Item Item Description Quantity Unit Price No. of Unit Total Price
+No.
+(CLIN)
+Transportation $2500
+2011 1 3 NTE $7,500.00
+Initial Application Fee NTE 6 clients
+2012 $150 3 NTE $2,700.00
+2013 Emergency Utility Assistance NTE 20 clients $300 3 NTE $18,000.00
+2014 Household Essentials NTE 6 clients $300 3 NTE $5,400.00
+2015 Move Out Cost NTE 6 clients $600 3 NTE $10,800.00
+2016 Move Out Application Fees NTE 6 clients $150 3 NTE $2,700.00
+Onboarding Fee Per Case
+Manager*One Time fee at
+5
+2017 the time of hiring a Case $1,000 1 NTE $0.00
+Manager assigned to the
+Contract for a new case load.
+Option Period Two Not-to-Exceed Cost Reimbursement Total Amount $47,100.00
+B.4.3 D. Option Period Two Total
+Service Price
+Case Management Services (total from chart) $376,602.63
+Incentives (total from chart) $16,200.00
+Cost Reimbursement Component (total from chart) $47,100.00
+Option Period Two Grand Total Not-to-exceed $439,902.63
+2
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION/MODIFICATION OF CONTRACT CW101233 1 1
+2. Amendment/Modification Number 3.Effective Date 4.Purchase Order/Requisition 5. Solicitation Caption
+No. Family Rehousing and Stabilization
+M0009 See Block 16c.
+Program (FRSP)
+6. Issued by: Code 7.Administered by (If other than line 6)
+Office of Contracting and Procurement Department of Human Services Family
+On behalf of Department of Human Services Services Administration
+64 New York Ave, NE 6th FL 64 New York Ave, NE 6th FL
+Washington, DC 20002 Washington, DC 20002
+8.Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+9B. Dated (See Item 11)
+My Sister’s Place Inc.
+10A. Modification of Contract/Order No.
+2357 Rhode Island Avenue NE
+X CW101233
+Washington, DC 20018
+10B. Dated (See Item 13)
+POC: mlemp@mysistersplacedc.org 10/01/22
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended. Offerors
+must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15 and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer submitted; or
+(c)BY separate modification or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED
+AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR OFFER. If
+by virtue of this amendment you desire to change an offer already submitted, such may be made by modification or fax, provided each modification or telegram makes
+reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If Required)
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS.
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+B. THE CHANGES CLAUSE, The changes set forth in Item 14 are made in the
+contract/order no. in item 10A.
+B.The above-numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of
+X C.This supplemental agreement is entered into pursuant to authority of: 27 DCMR, Chapter 36, Section 3601.3.
+D.Other (Specify type of modification and authority)
+E. IMPORTANT: Contractor _ X ___ is not ____ is required to sign this document and return __ copy to the issuing office.
+14.Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+The Contract Number CW101233 identified in Block 10A above, is hereby modified as follows:
+1. Delete Contracting Officer Brenda Allen
+2. Replace with Camille Christian, MPA
+Supervisory Contract Specialist
+Office of Contracting and Procurement
+64 New York Avenue, NE
+Washington, DC 20002
+Email: camille.christian@dc.gov
+Except as provided herein, all terms and conditions of the document referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Brenda Allen
+15B.Contractor Signature 15C. Date 16B. District of Columbia 16C. Date Signed
+Signed
+9/11/2024
+(Signature of Contracting Officer)
+(Signature of person authorized to sign
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION/MODIFICATION OF CONTRACT CW101233 1 3
+2. Amendment/Modification Number 3. Effective Date 4. Purchase Order/Requisition 5. Solicitation Caption
+No. Family Rehousing and Stabilization
+M0010 See Block 16a
+Program (FRSP)
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Department of Human Services Family Services
+On behalf of Department of Human Services Administration
+64 New York Ave, NE 6th FL 64 New York Ave, NE 6th FL
+Washington, DC 20002 Washington, DC 20002
+8. Name and Address of Contractor (No. Street, city, county, state and zip 9A. Amendment of Solicitation No.
+code)
+9B. Dated (See Item 11)
+My Sister’s Place Inc.
+10A. Modification of Contract/Order No.
+2357 Rhode Island Avenue NE
+X
+Washington, DC 20018
+CW101233
+POC: mlemp@mysistersplacedc.org 10B. Dated (See Item 13)
+10/01/22
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended. Offerors
+must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15 and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer submitted; or
+(c) BY separate modification or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED
+AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR OFFER. If
+by virtue of this amendment you desire to change an offer already submitted, such may be made by modification or fax, provided each modification or telegram makes
+reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS.
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+B. The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above-numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of
+C. This supplemental agreement is entered into pursuant to the authority of: 27 DCMR, Chapter 3601.2
+D. Other (Specify type of modification and authority)
+E. IMPORTANT: Contractor __ is not is required to sign this document and return _one (1) copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+This modification to Human Care Agreement identified in Block 10A above, is hereby modified as follows:
+1. Option Period Two Price Schedule B has been modified. See Attachment A
+2. CLIN 2010 total not-to-exceed (NTE) amount has decreased from $16,200 to $0.00. Option Period Two
+Incentives Total not-to-exceed amount is $0.00.
+3. Option Period Two grand total not-to-exceed amount is $423,702.63
+Except as provided herein, all terms and conditions of the document referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Mercedes Lemp, Executive Director
+Camille Christian
+15B.Contractor Signature 15C. Date 16B. District of Columbia 16C. Date Signed
+Signed
+12/27/2024 1 2/27/2024
+(Signature of Contracting Officer)
+(Signature of person authorized to sign
+
+B.5.3.A Option Period Two Case Management – Firm Fixed Unit Price
+Contract
+Number of Not-To-
+Line-Item SERVICE No. of Total Price
+Personnel Exceed
+No. (CLIN DESCRIPTION Months
+Monthly
+Rate
+2001 Program Director $7,815.17 3
+1 $23,445.51
+2002 Program Manager $10,549.50 3
+1 $31,648.50
+2003 Case Manager Supervisor $20,180.34 3
+2 $60,541.02
+Case Manager
+2004 7 $64,812.44 3 $194,437.32
+2005 Housing Coordinator $9,258.92 3
+1 $27,776.76
+2006 HMIS Admin/Data Specialist $3,658.92 3
+1 $10,976.76
+2007 Employment Specialist $9,258.92 3
+1 $27,776.76
+Option Period Two Not-to-exceed Case Management Services Total Amount $376,602.63
+*The Provider’s rates shall include overhead, profit, all insurance costs including Workers Compensation, employer
+payroll taxes (FICA, Medicare, Federal, and State) and other direct costs.
+**All nonprofits organization’s fixed rates shall be fully loaded and include the organization’s unexpired NICRA. If a
+nonprofit organization does not have an unexpired NICRA, the nonprofit organization may elect to be compensated for
+indirect costs: (1) As calculated using a de minimis rate of 10% of all direct costs under this contract; (2) By
+negotiating a new percentage indirect cost rate with the DHS; (3) As calculated with the same percentage indirect cost
+rate as the nonprofit organization negotiated with any District agency within the past 2 years; or (4) As calculated with
+a percentage rate and base amount, determined by a certified public accountant using the nonprofit organization’s
+audited financial statements from the immediately preceding fiscal year, pursuant to the OMB Uniform Guidance, and
+certified in writing by the certified public accountant.
+B.5.3.B Option Period Two Incentives
+Contract (A) (B) © (D)
+Line Item Item Description Estimated Number Unit Monthly Number of Total Price
+No. (CLIN) of Clients that will Maximum Incentive Months
+receive Incentives Amount Per Client (A x B x C)
+2008 Client Incentives NTE 5 Clients NTE $2,000 3 NTE $0.00
+2009 Provider Incentives NTE 5 Clients NTE $2,000 3 NTE $0.00
+2010 Exit Bonus NTE 5 Clients NTE $1,080 3 NTE $0.00
+Option Period Two Not-to-Exceed Incentives Total Amount $0.00
+2
+
+B.5.3.C. Option Period Two Cost Reimbursement
+Contract
+Line Item Item Description Quantity Unit Price No. of Total Price
+No. (CLIN) Unit
+2011 Transportation $2500
+1 3 NTE $7,500
+2012 Initial Application Fee NTE 6 clients
+$150 3 NTE $2,700
+2013 Emergency Utility Assistance
+NTE 20 clients $300 3 NTE $18,000
+2014 Household Essentials
+NTE 6 clients $300 3 NTE $5,400
+2015 Move Out Cost
+NTE 6 clients $600 3 NTE $10,800
+2016 Move Out Application Fees
+NTE 6 clients $150 3 NTE $2,700
+2017 Onboarding Fee Per Case
+Manager
+*One Time fee at the time of 5
+$1,000 1 NTE $0.00
+hiring a Case Manager
+assigned to the Contract for a
+new case load.
+Option Period Two Not-to-Exceed Cost Reimbursement Total Amount $47,100.00
+B.5.3.D. Option Period Two Total
+Service Price
+Case Management Services (total from chart) $376,602.63
+Incentives (total from chart) $0.00
+Cost Reimbursement Component (total from chart) $47,100.00
+Option Period Two Grand Total Not-to-exceed $423,702.63
+3
+
+1.ContractNumber PageofPages
+AAMENDMENT OOF SSOLICITATION/MODIFICATION OOF CCONTRACT CW101233 1 1
+2. Amendment/ModificationNumber 3.EffectiveDate 4.Purchase Order/Requisition 5.SolicitationCaption
+No. Family Rehousing and Stabilization
+M0011 See Block 16a
+Program (FRSP)
+6. Issuedby: Code 7.Administeredby (Ifotherthanline6)
+Office of Contracting and Procurement Department of Human Services Family Services
+On behalf of Department of Human Services Administration
+64 New York Ave, NE 6th FL 64 New York Ave, NE 6th FL
+Washington, DC 20002 Washington, DC 20002
+8.NameandAddressofContractor(No.Street,city,county,stateandzip 9A.AmendmentofSolicitationNo.
+code)
+9B. Dated(SeeItem 11)
+My Sister’s Place Inc.
+10A.ModificationofContract/OrderNo.
+2357 Rhode Island Avenue NE
+X
+CW101233
+Washington, DC 20018
+10B. Dated(SeeItem 13)
+POC: mlemp@mysistersplacedc.org
+10/01/22
+11.THISITEMONLYAPPLIES TOAMENDMENTSOFSOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.Offerors
+mustacknowledgereceiptofthisamendment priortothehouranddatespecified in thesolicitationorasamended,byoneofthefollowingmethods:
+(a)BycompletingItems 8 and15and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offersubmitted; or
+(c)BY separate modification or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TOBE RECEIVED
+AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OFYOUR OFFER. If
+by virtue of this amendment you desire to change an offer already submitted, such may be made by modification or fax, provided each modification ortelegrammakes
+referencetothesolicitationandthisamendment, andisreceivedpriortotheopening hourand datespecified.
+12.AccountingandAppropriationData(IfRequired)
+13.THISITEMAPPLIESONLYTOMODIFICATIONSOFCONTRACTS/ORDERS.
+ITMODIFIESTHECONTRACT/ORDERNO.AS DESCRIBEDINITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+B. ThechangessetforthinItem14 aremade inthecontract/orderno.initem10A.
+B.Theabove-numberedcontract/orderismodifiedtoreflecttheadministrativechanges(suchaschanges inpayingoffice, appropriationdata
+etc.)setforthinitem14,pursuant totheauthority of
+X C.Thissupplementalagreementis enteredintopursuanttothe authority of:27 DCMR, Chapter 3601.2
+D.Other(Specifytypeofmodificationandauthority)
+E. IMPORTANT: Contractor __ isnot isrequiredtosignthisdocumentandreturn _one(1) copytotheissuingoffice.
+14.DescriptionofAmendment/Modification(OrganizedbyUCFSectionheadings,includingsolicitation/contractsubjectmatterwherefeasible.)
+This modification to Human Care Agreement identified in Block 10A above, is hereby modified as follows:
+1. Option Period Two Period has been extended from January 1, 2025 through March 31, 2025.
+2. The total not-to-exceed (NTE) amount of Option Period Two is hereby increased from $423,702.83 by
+$423,702.83 to $847,405.26.
+3. All other terms and conditions shall remain the same.
+Exceptasprovidedherein,alltermsandconditions ofthedocumentreferencedinItem 9Aor10Aremainunchangedandinfullforceandeffect.
+15A. NameandTitleofSigner(Typeorprint) 16A.NameofContractingOfficer
+Mercedes Lemp, Executive Director
+Camille Christian
+15B.ContraaccttoorrSSiiggnnaattuurree 15C. Date 16B.Districtof Columbia 16C. DateSigned
+Signed
+12/30/24 12/31/2024
+(SignatureofContractingOfficer)
+(Signnaattuurreeooffppeerrssoonnaauutthhoorriizzeeddtosign
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION/MODIFICATION OF CONTRACT CW101233 1 4
+2. Amendment/Modification Number 3.Effective Date 4.Purchase Order/Requisition 5. Solicitation Caption
+No. Family Rehousing and Stabilization
+M0012 January 21, 2025
+Program (FRSP)
+6. Issued by: Code 7.Administered by (If other than line 6)
+Office of Contracting and Procurement Department of Human Services Family Services
+On behalf of the Department of Human Services Administration
+64 New York Ave, NE 6th FL 64 New York Ave, NE 6th FL
+Washington, DC 20002 Washington, DC 20002
+8.Name and Address of Contractor (No. street, city, county, state, and zip 9A. Amendment of Solicitation No.
+code)
+9B. Dated (See Item 11)
+My Sister’s Place Inc.
+10A. Modification of Contract/Order No.
+2357 Rhode Island Avenue NE
+X
+Washington, DC 20018
+CW101233
+POC: mlemp@mysistersplacedc.org 10B. Dated (See Item 13)
+10/01/22
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above-numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended. Offerors
+must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15 and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer submitted; or
+(c) BY separate modification or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED
+AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN THE REJECTION OF YOUR
+OFFER. If by virtue of this amendment, you desire to change an offer already submitted, such may be made by modification or fax, provided each modification or
+telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If Required)
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS.
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+B. The changes set forth in Item 14 are made in the contract/order no. in Item 10A.
+B.The above-numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of
+C.This supplemental agreement is entered into pursuant to the authority of:
+D.Other (Specify the type of modification and authority)
+E. IMPORTANT: Contractor __ is not is required to sign this document and return _one (1) copy to the issuing office.
+14.Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter
+where feasible.)
+The modification to the Human Care Agreement identified in Block 10A above is hereby modified as follows:
+Modification M0012 is executed to extend the period of performance from April 1, 2025, to April 30, 2025, at
+no cost per 27 DCMR 3601.3.
+Change the Contracting Officer from Camille Christian to Constance Weaver-Thomas, 64 New York Avenue,
+NE, Washington, DC 20002, Email: Constance Weaver-Thomas@dc.gov
+Except as provided herein, all terms and conditions of the document referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Constance Weaver-Thomas
+15B.Contractor Signature 15C. Date 16B. District of Columbia 16C. Date Signed
+Signed
+1 /21/25
+(Signature of Contracting Officer)
+(Signature of person authorized to sign
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION/MODIFICATION OF CONTRACT CW101233 1 1
+2. Amendment/Modification Number 3.Effective Date 4.Purchase Order/Requisition 5. Solicitation Caption
+No. Family Rehousing and Stabilization
+M0013 See Block 16c.
+Program (FRSP)
+6. Issued by: Code 7.Administered by (If other than line 6)
+Office of Contracting and Procurement Department of Human Services Family Services
+On behalf of Department of Human Services Administration
+64 New York Ave, NE 6th FL 64 New York Ave, NE 6th FL
+Washington, DC 20002 Washington, DC 20002
+8.Name and Address of Contractor (No. street, city, county, state and zip 9A. Amendment of Solicitation No.
+code)
+9B. Dated (See Item 11)
+My Sister’s Place Inc.
+10A. Modification of Contract/Order No.
+2357 Rhode Island Avenue NE
+X
+Washington, DC 20018
+CW101233
+10B. Dated (See Item 13)
+POC: mlemp@mysistersplacedc.org
+10/01/22
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended. Offerors
+must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15 and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer submitted; or
+(c) BY separate modification or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED
+AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR OFFER. If
+by virtue of this amendment you desire to change an offer already submitted, such may be made by modification or fax, provided each modification or telegram makes
+reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If Required)
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS.
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+B. The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B.The above-numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of
+X C.This supplemental agreement is entered into pursuant to the authority of: 27 DCMR, Chapter 36, Section 3601.2
+D.Other (Specify type of modification and authority)
+E. IMPORTANT: Contractor __ is not is required to sign this document and return _one (1) copy to the issuing office.
+14.Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+The modification to Human Care Agreement identified in Block 10A above, is hereby modified as follows:
+1. Exercise the remaining contract term for option period two. The total not-to-exceed amount of option period two is hereby
+increased from $847,405.26 by $847,405.26 to $1,694,810.52. The period of performance is May 1, 2025 through September 30,
+2025
+2. In accordance with the Way to Work Amendment Act of 2006, the District of Columbia 2023 Living Wage rate is adjusted to $17.50
+per hour effective January 1, 2025 until June 30, 2025. Effective July 1, 2025, the District’s Minimum Wage and Living Wage will
+increase to $18.00 per hour. The 2025 Living Wage Notice and Fact Sheet are hereby incorporated by reference:
+2025 Living Wage Notice | ocp (dc.gov)
+2025 Living Wage Fact Sheet | ocp (dc.gov)
+Except as provided herein, all terms and conditions of the document referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Mercedes Lemp, Executive Director
+Constance Weaver-Thomas
+15B.Contractor Signature 15C. Date 16B. District of Columbia 16C. Date Signed
+Signed
+2/4/25
+(Signature of Contracting Officer)
+(Signature of person authorized to sign

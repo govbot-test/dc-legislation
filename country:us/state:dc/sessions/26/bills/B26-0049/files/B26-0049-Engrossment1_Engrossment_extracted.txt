@@ -1,0 +1,152 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3
+4 26-49
+5
+6
+7 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+8
+9 __________________
+10
+11
+12 To amend Title 28 of the District of Columbia Official Code to amend definitions of existing
+13 terms; to allow for alternative calculation of normal retail prices for rental vehicles and
+14 hotel rooms based on a seasonal pricing model; to prohibit stockpiling of certain goods
+15 following a natural disaster or declaration of a public emergency; to make the declaration
+16 of a public emergency a triggering event for the prohibition against price gouging; and to
+17 provide for penalties if the court finds a person has engaged in price gouging or
+18 stockpiling in a civil action brought by the Office of Attorney General for the District of
+19 Columbia.
+20
+21 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+22 act may be cited as the “Seasonal Pricing and Price Gouging Amendment Act of 2026”.
+23 Sec. 2. Title 28 of the District of Columbia Official Code is amended as follows:
+24 (a) The table of contents is amended by adding a new section designation to read as
+25 follows:
+26 “28-4102.01. Stockpiling.”.
+27 (b) Section 28-4101 is amended to read as follows:
+28 “For the purposes of this chapter, the term:
+29 “(1) “Goods and services” shall include:
+1
+
+ENGROSSED ORIGINAL
+30 “(A) Consumer goods and services used, bought, or rendered primarily for
+31 personal, family, or household purposes;
+32 “(B) Essential medical supplies and services used for the care, cure,
+33 mitigation, treatment, or prevention of any illnesses or diseases; and
+34 “(C) Any other essential goods and services used to promote the health or
+35 welfare of the public.
+36 “(2) “Natural disaster” means the actual or imminent consequence of any disaster,
+37 catastrophe, or emergency, including fire (other than a fire caused by human error or arson),
+38 flood, earthquake, storm, or other serious act of nature, which threatens the health, safety, or
+39 welfare of persons or causes widespread damage to property in the District of Columbia.
+40 “(3)(A) “Normal retail price” means not more than 10% more than the price at
+41 which the same or similar goods and services were sold in the District of Columbia during the
+42 90-day period that immediately preceded a natural disaster, if an emergency is declared pursuant
+43 to § 28-4102(b), or the circumstances giving rise to a public emergency, if a public emergency is
+44 declared pursuant to § 7-2304.01.
+45 “(B) Notwithstanding subparagraph (A) of this paragraph, for calendar
+46 year 2027 and thereafter, “normal retail price” means:
+47 “(i) For a rental vehicle, not more than 10% more than the price at
+48 which a person charged for the same or a similar rental vehicle during the same week of the same
+2
+
+ENGROSSED ORIGINAL
+49 months of the prior year. For purposes of this subparagraph, the term “rental vehicle” shall have
+50 the same meaning as set forth in D.C. Official Code § 50-1505.01(8); and
+51 “(ii) For a hotel room in a hotel that is at least 95% occupied, not
+52 more than 10% more than the price at which a person charged for the same or a similar room
+53 during the same week of the same month of the most recent year for which there was an average
+54 hotel room occupancy of 95%. For purposes of this subparagraph, the term “hotel room” means
+55 any room or suite of rooms at a facility affording sleeping accommodations to transient guests.
+56 “(C) Notwithstanding subparagraphs (A) and (B) of this paragraph, if a
+57 person did not sell goods and services in the District of Columbia in the 90-day period that
+58 preceded a natural disaster, if an emergency is declared pursuant to § 28-4102(b), or the
+59 circumstances giving rise to a public emergency, if a public emergency is declared pursuant to §
+60 7-2304.01, that person may not charge a price that is more than 50 percent greater than the actual
+61 price the person paid to the manufacturer or distributor for the good or service.
+62 “(4) “Person” means a corporation, firm, agency, company, association,
+63 organization, partnership, society, joint stock company, or an individual.
+64 “(5) “Public emergency” shall have the same meaning as set forth in D.C. Official
+65 Code § 7-2301(3).”.
+66 (c) Section 28-4102 is amended to read as follows:
+67 “(a) Except as provided in subsection (a-1), it shall be unlawful for any person to charge
+68 more than that person’s normal retail price for any goods or services sold during an emergency
+3
+
+ENGROSSED ORIGINAL
+69 resulting from a natural disaster declared pursuant to subsection (b) of this section, or during a
+70 public emergency declared pursuant to § 7-2304.01.
+71 “(a-1) A person may charge more than the normal retail price for any goods or services
+72 sold during an emergency resulting from a natural disaster declared pursuant to subsection (b) of
+73 this section, or during a public emergency declared pursuant to § 7-2304.01, if:
+74 “(1) The price increase is directly attributable to additional costs imposed on the
+75 person by the supplier of goods; or
+76 “(2) The price increase is directly attributable to additional costs for labor or
+77 materials used to provide the service or produce the goods.
+78 “(b)(1) Within 48 hours of a natural disaster, the Mayor may declare, for not more than
+79 30 calendar days, a state of emergency for the purposes of this act. The Mayor shall prepare an
+80 emergency declaration that shall include a description of the existence, nature, extent, and
+81 duration of the emergency.
+82 “(2) Upon the issuance of a declaration of an emergency or as soon as practicable
+83 given the nature of the emergency, the Mayor shall publish a copy of the emergency declaration
+84 in the District of Columbia Register and in 2 daily newspapers of general circulation.”.
+85 (d) A new section 28-4102.01 is added to read as follows:
+86 “§ 28-4102.01. Stockpiling.
+87 “It shall be unlawful for any person to purchase goods in quantities greater than those
+88 specified by the Mayor or the federal government during a public emergency declared pursuant
+4
+
+ENGROSSED ORIGINAL
+89 to § 7-2304.01, or during an emergency resulting from a natural disaster declared pursuant to §
+90 28-4102(b), if the Mayor or the federal government have declared said goods to be:
+91 “(1) Necessary for first responders or others during a natural disaster or public
+92 health emergency;
+93 “(2) Necessary to maintain supply chains of commerce during a natural disaster or
+94 a public health emergency; or
+95 “(3) Subject to government-ordered rationing.”.
+96 (e) Section 28-4103 is amended to read as follows:
+97 “§ 28-4103. Penalties.
+98 “(a)(1) A violation of § 28-4102(a) or § 28-4102.01 shall be a civil infraction for
+99 purposes of Chapter 18 of Title 2.
+100 “(2) For each violation of § 28-4102(a) or § 28-4102.01, civil fines, penalties, and
+101 fees in an amount not more than $1,000 may be imposed by the Mayor, pursuant to Chapter 18
+102 of Title 2.
+103 “(3) Adjudication of any infraction under this subsection shall be pursuant to
+104 Chapter 18 of Title 2.
+105 “(b) In addition to any monetary penalty imposed under subsection (a) this section:
+106 “(1) The Mayor may revoke, suspend or limit the license, permit, or certificate of
+107 occupancy of a person who violates D.C. Official Code §§ 28-4102(a) or 28-4102.01; and
+5
+
+ENGROSSED ORIGINAL
+108 “(2)(A) The Attorney General for the District of Columbia may bring an action in
+109 the Superior Court of the District of Columbia to enjoin violations of D.C. Official Code §§ 28-
+110 4102(a) or 28-4102.01 and to require the violator to take affirmative action, including the
+111 restitution of money or property. In any action under this section, the Attorney General shall not
+112 be required to prove damages and the injunction shall be issued without bond.
+113 “(B) In action brought pursuant to subparagraph (A) of this paragraph, the
+114 Attorney General for the District of Columbia may recover:
+115 “(i) A civil penalty of $1,000 to $10,000 for each violation;
+116 “(ii) Economic damages; and
+117 “(iii) The costs of the action and reasonable attorneys’ fees.”.
+118 Sec. 3. Fiscal impact statement.
+119 The Council adopts the fiscal impact statement in the committee report as the fiscal
+120 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+121 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+122 Sec. 4. Effective date.
+123 This act shall take effect following approval by the Mayor (or in the event of veto by the
+124 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+125 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+126 24, 1973 (87 Stat. 813; D.C. Official Code §1-206.02(c)(1)), and publication in the District of
+127 Columbia Register.
+6

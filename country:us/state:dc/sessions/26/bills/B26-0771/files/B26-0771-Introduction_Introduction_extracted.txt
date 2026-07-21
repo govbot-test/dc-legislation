@@ -1,0 +1,364 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+e
+n
+N
+E
+E
+u
+a
+A
+u
+e
+©
+‘hairman Phil Mendelson
+nT
+12 ABILL.
+13
+14
+15
+16 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+7
+18
+19
+20 To amend Chapter 13AofTitle 47ofthe D.C. Official Code to modernize the tax sale process
+and enhance equity protections for District property owners; and to amend Chapter 11 of
+21
+Title 42 to permit the collection ofdelinquent recordation tax through tax sale,
+22
+23
+24
+BEIT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+25 act may be cited as the “Tax Sale Equity Amendment Actof2026”.
+26 Sec. 2. Section 308aofthe District ofColumbia Deed Recordation Tax Act, effective
+27 April 4, 2003 (D.C. Law 14-282; D.C. Official Code § 42-1108.01) is amended by strikingthe
+28 phrase “chapters 41,” and inserting the phrase “chapters 13A, 41,” in its place.
+29 Sec. 3. Title 47, Chapter 13Aofthe District ofColumbia Official Code is amended as
+follows:
+30
+31 (a) The tableofcontents is amended by striking the section designation “§ 47-1376.
+32 Validity oftaxes and sale presumed unless attacked in answer.” and inserting the section
+33
+designation “§ 47-1376. Validityoftaxes and sale presumed unless attacked in answer; claim for
+34 in its place.
+
+35 (b) D.C. Official Code § 47-1330 is amended as follows:
+36 (1) Paragraph (8) is amended by striking the phrase “business improvement
+37 district.” and inserting the phrase “business improvement district and the Recorder of Deeds.” in
+38 its place.
+39 (2) A new paragraph (9) is added to read as follows:
+40 “(9)(A) The term “cost-of-living adjustment” for the reasonable attorneys’ fees
+41 allowed under § 47-1377(a)(1)(B)(i) means an amount equal to the maximum reimbursable
+42 dollar amount of the reasonable attorneys’ fees, as modified by any prior cost-of-living
+43 adjustments, multiplied by the difference between the Consumer Price Index for the preceding
+44 real property tax year and the Consumer Price Index for the real property tax year beginning
+45 October 1, 2024, divided by the Consumer Price Index for the real property tax year beginning
+46 October 1, 2024.
+47 “(B) For the purposes of this paragraph, the Consumer Price Index for any
+48 real property tax year is the average of the Consumer Price Index for the Washington-Baltimore
+49 Metropolitan Statistical Area for all urban consumers published by the Department of Labor, or
+50 any successor index, as of the close of the 12-month period ending on September 30 of such real
+51 property tax year.”.
+52 (c) D.C. Official Code § 47-1336(e)(2) is amended by adding a new subparagraph (C-i)
+53 to read as follows:
+54 “(C-i) An owner or interested party may redeem the real property by
+55 making the payments listed in § 47-1361(a), or may claim the equity in the real property under §
+56 47-1376(b)(3) within 90 days of being served;”.
+57 (d) D.C. Official Code § 47-1353(b)(1)(H) is amended by striking the phrase “periods
+2
+
+58 and amounts” and inserting the word “amount” in its place.
+59 (e) D.C. Official Code § 47-1353.01(b) is amended as follows:
+60 (1) Strike the phrase “an additional $381.50” and insert the phrase “an additional
+61 $531.50” in its place.
+62 (2) Strike the phrase “to obtain title to the property.” and insert the phrase “to
+63 obtain title to the property or cause a judicial sale thereof. If you wish for the real property to be
+64 sold at a judicial sale and any remaining equity returned to you, you may be required to make a
+65 claim for the equity in the lawsuit within 90 days (or 30 days in the case of real property sold
+66 under § 47-1353(b)) of being served.”.
+67 (f) D.C. Official Code § 47-1361(a) is amended as follows:
+68 (1) The lead-in language is amended by striking the phrase “paragraph (6A) of”
+69 and insert the phrase “paragraphs (6A) and (9) of” in its place.
+70 (2) Paragraph (6A) is amended to read as follows:
+71 “(6A) Where an action to foreclose the right of redemption has been properly
+72 filed, the person redeeming shall pay directly to the applicable purchaser:
+73 “(A) All expenses to which the purchaser is entitled to reimbursement
+74 under § 47-1377(a)(1)(B); and
+75 “(B) Unless there is fraud in the conduct of the action to foreclose, if
+76 judgment of foreclosure of the right of redemption of the sale is reopened after the purchaser
+77 received the deed, all expenses reasonably incurred by the purchaser and the purchaser’s
+78 successors in interest to improve or maintain the real property, including payments commonly
+79 associated with real property ownership.”.
+80 (3) Paragraph (8) is amended to read as follows:
+3
+
+81 “(8) The reasonable expenses due to the District under § 47-1363.”.
+82 (4) A new paragraph (9) is added to read as follows:
+83 “(9) If judgment of foreclosure of the right of redemption of the sale is reopened
+84 or set aside, the reasonable compensation and reasonable expenses due to the trustee or to any
+85 other person (including an auctioneer) who provided services relating to the sale of the real
+86 property under § 47-1382.01 to the date the judgment is reopened or set aside.”.
+87 (g) D.C. Official Code § 47-1370 is amended as follows:
+88 (1) Subsection (b) is amended as follows:
+89 (A) Paragraph (2) is amended by striking the phrase “purchaser; or” and
+90 inserting the phrase “purchaser, subject to the requirements for issuance of a deed in § 47-1382;”
+91 in its place.
+92 (B) A new paragraph (2-A) is added to read as follows:
+93 “(2-A) Appoint a trustee to sell the property and distribute the proceeds pursuant
+94 to § 47-1382.01; or”.
+95 (2) Subsection (c)(1) is amended as follows:
+96 (A) Subparagraph (E) is amended by striking the phrase “property; and”
+97 and inserting the phrase “property;” in its place.
+98 (B) Subparagraph (F) is amended by striking the semicolon at the end and
+99 inserting the phrase “; and” in its place.
+100 (C) A new subparagraph (G) is added to read as follows:
+101 “(G) The right of an owner or interested party to redeem the real property
+102 by making the payments listed in § 47-1361(a), or to claim the equity in the real property under §
+103 47-1376(b)(3) by answer within 90 days (or 30 days in the case of real property sold under § 47-
+4
+
+104 1353(b)) of being served.”.
+105 (h) D.C. Official Code § 47-1371 is amended as follows:
+106 (1) Subsection (b)(1)(B) is amended to read as follows:
+107 “(B) The legal title holder, if different from the record title holder,
+108 including reasonably ascertainable heirs of a record or legal title holder known to be deceased for
+109 whom no estate was opened or personal representative appointed;”.
+110 (2) A new subsection (c) is added to read as follows:
+111 “(c) Where a record or legal title holder is known to be deceased and no estate was
+112 opened, the purchaser may petition to open a probate proceeding under Title 20 of the D.C.
+113 Official Code.”.
+114 (i) D.C. Official Code § 47-1374(e)(1) is amended as follows:
+115 (1) The lead-in language is amended by striking the word “later” and inserting the
+116 word “latest” in its place.
+117 (2) Subparagraph (A) is amended to read as follows:
+118 “(A) For any unimproved real property that abuts improved real property
+119 with common ownership, or improved real property that is Class 1A or 1B Property or Class 2
+120 Property on the date of the tax sale, one year following the initial scheduling conference in the
+121 foreclosure action;”.
+122 (3) New subparagraphs (A-i) and (A-ii) are added to read as follows:
+123 “(A-i) For any unimproved real property that does not abut improved real
+124 property with common ownership, six months following the initial scheduling conference in the
+125 foreclosure action;
+126 “(A-ii) For any improved real property that is Class 3 or 4 Property on the
+5
+
+127 date of the tax sale, three months following the initial scheduling conference in the foreclosure
+128 action; or”.
+129 (j) D.C. Official Code § 47-1376 is amended as follows:
+130 (1) The section title is amended by striking the phrase “answer.” and inserting the
+131 phrase “answer; claim for equity.” in its place.
+132 (2) Designate the existing language as subsection (a).
+133 (3) New subsections (b)-(e) are added to read as follows:
+134 “(b) Within 90 days (or 30 days in the case of real property sold under § 47-1353(b)) of
+135 being served in the foreclosure action, an owner or interested party may, by answer:
+136 “(1) Plead the affirmative defenses listed in subsection (a) of this section or any
+137 other affirmative defenses recognized under law;
+138 “(2) Respond to the allegations in the complaint consistent with the rules of the
+139 Superior Court; and
+140 “(3) Claim that the owner or interested party’s equity in the real property exceeds
+141 the amounts required to redeem under § 47-1361(a).
+142 “(b-1) For any person included as a defendant in the foreclosure action pursuant to § 47-
+143 1371(b)(4) or § 47-1373(a), the time for filing an answer under subsection (b) of this section
+144 shall begin to run from the later of the purchaser’s completing the:
+145 “(1) Posting required under § 47-1372(f); or
+146 “(2) Publication required under § 47-1375.
+147 “(c) The Superior Court may grant an additional period not to exceed 30 days for an
+148 owner or interested party to file the answer permitted by subsection (b) of this section upon a
+149 showing of good cause for the failure to file within the original answer period. The additional
+6
+
+150 period is not required to run consecutive to the original answer period.
+151 “(d) For any real property that is presumptively subject to sale by a trustee under § 47-
+152 1382.01, the purchaser may, by motion, rebut the presumption by establishing through a
+153 preponderance of the evidence that a trustee sale under § 47-1382.01 would not result in a
+154 distribution under § 47-1382.01(d)(4). If the purchaser succeeds in rebutting the presumption, §
+155 47-1382 shall apply to the judgment foreclosing the right of redemption. The purchaser may rely
+156 on the most recent assessed value for the property under Chapter 8 of Title 47 in rebutting a
+157 claim for equity.
+158 “(e) Subject to subsection (c) of this section, failure to timely assert the affirmative
+159 defenses in subsection (b)(1) of this section or make the claim for equity in subsection (b)(3) of
+160 this section shall be deemed a waiver of those defenses or claims.”.
+161 (k) D.C. Official Code § 47-1377(a)(1) is amended as follows:
+162 (1) Subparagraph (A) is amended as follows:
+163 (A) Sub-subparagraph (i) is amended by striking the phrase “$50” and
+164 inserting the phrase “$75” in its place.
+165 (B) Sub-subparagraph (iii) is amended by striking the phrase “$300” and
+166 inserting the phrase “$425” in its place.
+167 (2) Subparagraph (B) is amended as follows:
+168 (A) Sub-subparagraph (i) is amended as follows:
+169 (i) Sub-sub-subparagraphs (I) and (II) are amended to read as
+170 follows:
+171 “(I) In a case in which the property is redeemed before the
+172 3rd status hearing, reasonable attorneys’ fees not to exceed $2,100;
+7
+
+173 “(II) In a case requiring 3 or more status hearings,
+174 reasonable attorneys’ fees not to exceed $2,100 plus $100 for the 3rd status hearing and each
+175 additional status hearing thereafter;”.
+176 (ii) Sub-sub-subparagraph (III) is amended by striking the phrase
+177 “$300” and inserting the phrase “$425” in its place.
+178 (iii) New sub-sub-subparagraphs (IV) through (VI) are added to
+179 read as follows:
+180 “(IV) For each motion filed by an owner or interested party
+181 where the purchaser files an opposition and substantially prevails, additional attorneys’ fees in
+182 the amount of $425;
+183 “(V) For any foreclosure action where the purchaser files a
+184 motion under § 47-1376(d) that substantially prevails, additional attorneys’ fees in the amount of
+185 $425; and
+186 “(VI) The caps on reasonable attorneys’ fees established by
+187 this paragraph shall be increased annually, beginning on January 1, 2027, to the cost-of-living
+188 adjustment (if the adjustment does not result in a multiple of $25, rounded down to the next
+189 multiple of $25). The attorneys’ fees a purchaser may collect from a redeeming party under this
+190 subparagraph shall (except for the additional fees as permitted by subsection (a)(1)(B)(ii)) be the
+191 cost-of-living adjustment permitted to be collected as of the date of the tax sale.”.
+192 (B) Sub-subparagraph (ii) is amended as follows:
+193 (i) Strike the phrase “an action” and insert the phrase “a
+194 foreclosure action” in its place.
+195 (ii) Strike the phrase “§ 47-1382.01(a), other” and insert the phrase
+8
+
+196 “§ 47-1382.01(a) or in other court proceedings directly related to the purchaser holding the
+197 certificate of sale or prosecuting the foreclosure action, other” in its place.
+198 (iii) Strike the phrase “or where a purchaser” and insert the phrase
+199 “or if a purchaser” in its place.
+200 (iv) Strike the phrase “subsection (c)” and insert the phrase
+201 “subsection (d)” in its place.
+202 (C) Sub-subparagraph (iii) is amended as follows:
+203 (i) The lead-in language is amended by striking the phrase
+204 “actually incurred” and inserting the phrase “actually and reasonably incurred” in its place.
+205 (ii) Sub-sub-subparagraph (III) is amended by striking the phrase
+206 “$75” and inserting the phrase “$100” in its place.
+207 (iii) Sub-sub-subparagraph (VII) is amended by striking the phrase
+208 “; and” and inserting a semicolon in its place.
+209 (iv) Sub-sub-subparagraph (VIII) is amended by striking the period
+210 at the end and inserting a semicolon in its place.
+211 (v) New sub-sub-subparagraphs (IX) through (XIII) are added to
+212 read as follows:
+213 “(IX) Filing fee charged by the Recorder of Deeds for
+214 recording a lis pendens;
+215 “(X) Fee charged to obtain a death certificate for a person
+216 named as a defendant under § 47-1371 (or who would be named if not deceased) and the
+217 person’s heirs who are deceased;
+218 “(XI) Fee for an heir search for a deceased person named as
+9
+
+219 a defendant under § 47-1371 (or who would be named if not deceased) and the person’s heirs
+220 who are deceased;
+221 “(XII) Fees to comply with the Servicemembers Civil
+222 Relief Act; and
+223 “(XIII) Fee for an appraisal or other property valuation
+224 obtained to establish a reasonable estimate of the market value of the real property in support of
+225 a motion under § 47-1376(d) that substantially prevails.”.
+226 (l) D.C. Official Code § 47-1379 is amended to read as follows:
+227 “§ 47–1379. Reopening judgments.
+228 “The Superior Court shall not reopen a judgment rendered in an action for foreclosure of
+229 the right of redemption, except on the grounds of lack of jurisdiction or fraud in the conduct of
+230 the action to foreclose. A motion under this section must be made within a reasonable time—and
+231 for the ground of constructive fraud in the conduct of the action to foreclose, within 6 months
+232 from the date of the judgment.”.
+233 (m) D.C. Official Code § 37-1380 is amended as follows:
+234 (1) Subsection (a) is amended to read as follows:
+235 “(a) If the Superior Court shall set aside a sale, the amount required to redeem is the
+236 amount required by this chapter, as may be adjusted by the court.”.
+237 (2) Subsection (c) is amended as follows:
+238 (A) Paragraph (2) is amended by striking the semicolon and inserting the
+239 phrase “; and” in its place.
+240 (B) Paragraph (3) is amended by striking the phrase “; and” and inserting a
+241 period in its place.
+10
+
+242 (C) Paragraph (4) is repealed.
+243 (3) A new subsection (e) is added to read as follows:
+244 “(e)(1) Except for fraud on the part of the purchaser, and subject to the limitations in
+245 paragraph (2) of this subsection, a motion to set aside a sale shall be filed no later than one year
+246 after the entry of a judgment of foreclosure of the right of redemption.
+247 “(2) Except for fraud on the part of the purchaser, a sale shall not be set aside
+248 where:
+249 “(A) The purchaser has made the payment for the deed under § 47-1382;
+250 or
+251 “(B) The trustee has a signed contract for the sale of the real property
+252 under § 47-1382.01.
+253 “(3) The purchaser shall immediately file notice in the foreclosure action upon
+254 making the payment for the deed under § 47-1382.
+255 “(4) The trustee shall immediately file notice in the foreclosure action once there
+256 is a signed contract for the sale of the real property under § 47-1382.01. The trustee shall
+257 immediately file a second notice in the foreclosure action if the parties to the sale fail to
+258 complete it.”.
+259 (n) D.C. Official Code § 47-1382 is amended as follows:
+260 (1) Subsection (c) is amended by adding a new sentence at the end to read as
+261 follows: “The payment required by this subsection may be made no earlier than 30 days after the
+262 judgment of foreclosure of the right of redemption is entered by the Superior Court.”.
+263 (2) Subsection (d) is amended to read as follows:
+264 “(d) The deed shall be prepared and recorded by the Mayor.”.
+11
+
+265 (3) Subsection (e) is amended by striking the phrase “a certified copy” and
+266 inserting the phrase “a copy” in its place.
+267 (4) Subsection (f) is amended as follows:
+268 (A) Paragraph (1) is amended by striking the phrase “30 days” and
+269 inserting the phrase “60 days” in its place.
+270 (B) Paragraph (2) is repealed.
+271 (C) A new paragraph (4) is added to read as follows:
+272 “(4) The filing of a motion under § 47-1379 or § 47-1380 shall toll the
+273 time for making the payment under this section until the motion is resolved.”.
+274 (5) Subsection (g) is amended to read as follows:
+275 “(g) Any surplus paid for a real property by a purchaser shall be applied against other
+276 taxes, interest thereon, and expenses owing on the real property for which a deed is sought if the
+277 application and timely balance payment shall result in the full payment required to obtain the
+278 deed. Any remaining surplus after the full payment required to obtain the deed shall be
+279 distributed to the person or entity entitled to the equity in the property as determined by the
+280 court.”.
+281 (o) D.C. Official Code § 47-1382.01 is amended as follows:
+282 (1) Subsection (a) is amended to read as follows:
+283 “(a) This section shall presumptively apply to any real property sold that is not identified
+284 in subsections (a-1)(1)-(4) of this section. For any real property identified in subsections (a-1)(1)-
+285 (4) of this section, this section shall presumptively apply only where the owner or interested
+286 party makes a claim under § 47-1376(b)(3). The purchaser shall bear the burden of establishing
+287 that this section is not applicable to the real property.”.
+12
+
+288 (2) New subsections (a-1) and (a-2) are added to read as follows:
+289 “(a-1) Unless a claim is made by the owner or interested party under § 47-1376(b)(3), the
+290 presumption in subsection (a) of this section shall not apply to real property that on the date of
+291 the tax sale is:
+292 “(1) Unimproved and its most recent assessed value under Chapter 8 of Title 47 is
+293 less than $100,000;
+294 “(2) Class 3 or 4 Property;
+295 “(3) Sold under § 47-1353(b); or
+296 “(4) Subject to taxes due that are 50% or more of its most recent assessed value
+297 under Chapter 8 of Title 47 and is not Class 1A or 1B Property, with 5 or fewer units, that a
+298 record owner (or a person with an interest in the real property as heir or beneficiary of the record
+299 owner, if deceased) is occupying as his or her principal residence.
+300 “(a-2) This section shall not apply to real property where the purchaser rebuts the
+301 presumption under § 47-1376(d).”.
+302 (3) Subsection (d) is amended as follows:
+303 (A) Paragraph (3) is amended by striking the phrase “§ 47-1377” and
+304 inserting the phrase “§ 47-1361(a)(6A)” in its place.
+305 (B) Paragraph (4) is amended to read as follows:
+306 “(4) The remainder to the person or persons (including, when appropriate, a
+307 decedent’s estate) entitled to the balance, in proper proportion as determined by the trustee, or,
+308 when necessary, a court.”.
+309 (4) A new subsection (d-1) is added to read as follows:
+310 “(d-1) If a person entitled to a distribution under subsection (d)(4) cannot be located, the
+13
+
+311 funds shall be deposited into the court registry and be subject to Chapter 1A of Title 41.”.
+312 (5) Subsection (e)(2) is amended by striking the phrase “distribution or” and
+313 inserting the phrase “distribution of” in its place.
+314 (p) D.C. Official Code § 47-1383 is amended by striking the phrase “chapter is” and
+315 inserting the phrase “chapter or a trustee appointed under § 47-1382.01 is” in its place.
+316 Sec. 4. Fiscal impact statement.
+317 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+318 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+319 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+320 Sec. 5. Effective date.
+321 This act shall take effect following approval by the Mayor (or in the event of veto by the
+322 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+323 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+324 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1))
+14

@@ -1,0 +1,199 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3
+4 26-207
+5
+6
+7 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+8
+9 ___________
+10
+11
+12 To amend on a temporary basis, the Small and Certified Business Enterprise Development and
+13 Assistance Act of 2005 to require a business applying for certification as a local business
+14 enterprise to be independently owned and operated; to amend minimum certified business
+15 enterprise performance requirements in a certified joint venture; and to establish uniform
+16 hearing procedures for enforcement actions.
+17
+18 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+19 act may be cited as the “Certified Business Enterprise Program Compliance and Enforcement
+20 Support Temporary Amendment Act of 2025”.
+21 Sec. 2. The Small and Certified Business Enterprise Development and Assistance Act of
+22 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.01 et seq.), is
+23 amended as follows:
+24 (a) Section 2302 (D.C. Official Code § 2-218.02) is amended as follows:
+25 (1) Paragraph (7) is amended to read as follows:
+26 “(7) “Economically disadvantaged individual” means an individual who owns at
+27 least a 51% interest in a business enterprise and whose personal net worth does not exceed the
+28 limits set by the federal Department of Transportation, pursuant to 49 CFR § 26.68.”
+1
+
+ENGROSSED ORIGINAL
+29 (2) Paragraph (8A) is amended to read as follows:
+30 “(8A) Equity impact enterprise” means a business enterprise that is a resident-
+31 owned business, small business enterprise, and disadvantaged business enterprise.”
+32 (3) Paragraph (9) is redesignated as paragraph (8B).
+33 (4) A new paragraph (9) is added to read as follows:
+34 “(9) “Formal complaint” means a complaint that is submitted to the Department in
+35 writing, sworn to by the complainant, and notarized.”.
+36 (5) A new paragraph (10A) is added to read as follows:
+37 “(10A) “Informal complaint” means a complaint other than a formal complaint
+38 and includes complaints submitted in person, by email, by telephone, or through the
+39 Department’s complaint hotline.”.
+40 (6) A new paragraph (10B) is added to read as follows:
+41 “(10B) “Independently owned and operated” means that the business enterprise
+42 manages and controls its day-to-day operations without being subject to control, restriction,
+43 modification, or limitation by another business enterprise or not-for-profit business that has an
+44 ownership or other financial interest in the business enterprise.”.
+45 (7) Paragraph (13B) is redesignated as paragraph (13C).
+46 (8) A new paragraph (13B) is added to read as follows:
+47 “(13B) “Person” means any individual, firm, partnership, joint venture, general
+48 partner of a partnership, limited liability company, registered limited liability partnership, foreign
+2
+
+ENGROSSED ORIGINAL
+49 limited liability partnership, association, corporation, unincorporated business, company,
+50 syndicate, estate, trust, business trust, trustee, trustee in bankruptcy, receiver, executor,
+51 administrator, assignee, fiduciary, or entity of any kind.”.
+52 (b) Section 2331 (D.C. Official Code § 2-218.31) is amended by executor,
+53 adding a new paragraph (1A) to read as follows:
+54 “(1A)(A) Is:
+55 “(i) Independently owned and operated;
+56 “(ii) More than 50% owned, operated, and controlled by a District-based
+57 enterprise or not-for-profit business; or
+58 “(iii) Owned by a non-District-based business enterprise that is more than
+59 50% owned by District residents;”.
+60 (c) Section 2346(b)(2)(A) (D.C. Official Code § 2-218.46(b)(2)(A)) is amended as
+61 follows:
+62 “(2)(A) Each government-assisted construction and non-construction contract for
+63 which a certified joint venture is selected as a beneficiary and is granted points or a price
+64 reduction pursuant to section 2343 or is selected through a set-aside program under this subpart
+65 shall include a requirement that each certified business enterprise holding a majority or minority
+66 interest in the certified joint venture shall, with its own organization and resources, perform a
+67 percentage of the work equal to or greater than its percentage interest in the joint venture, and, if
+3
+
+ENGROSSED ORIGINAL
+68 the certified joint venture subcontracts, at least 35% of the subcontracted effort shall be with
+69 certified business enterprises.”.
+70 (d) Section 2363 (D.C. Official Code § 2-218.63) is amended as follows:
+71 (1) Subsection (c) is amended by striking the phrase “, in accordance with
+72 procedures set forth in subsection (e) of this section,”.
+73 (2) Subsection (e) is amended as follows:
+74 (A) Paragraphs (1), (2), and (3) are amended to read as follows:
+75 “(e)(1)(A) Any person may file with the Department a formal or informal complaint
+76 alleging a violation of this act.
+77 “(B) The Department shall maintain a hotline for the filing of informal
+78 complaints.
+79 “(2) Except as provided in paragraph (3) of this subsection, the Department shall
+80 investigate each formal or informal complaint filed with it.
+81 “(3) The Department may dismiss a complaint without conducting an
+82 investigation if the Department determines the complaint is frivolous or otherwise without merit.
+83 If the Department dismisses a formal complaint as frivolous or otherwise without merit, the
+84 Department shall prepare a report that includes:
+85 “(A) A statement detailing the formal complaint, including the name,
+86 address, and telephone number of the person filing the complaint;
+4
+
+ENGROSSED ORIGINAL
+87 “(B) The name of the person or certified joint venture alleged to be in
+88 violation of this act;
+89 “(C) The facts and law considered in rendering the determination; and
+90 “(D) Any other information considered in rendering the determination.”
+91 (B) Paragraph (4) is repealed.
+92 (C) New paragraphs (5) and (6) are added to read as follows:
+93 “(5) After the completion of an investigation conducted pursuant to this
+94 subsection, the Department shall take such enforcement action, if any, it deems
+95 appropriate.
+96 “(6) The Department shall maintain a record listing all formal complaints, which
+97 shall contain:
+98 “(A) The name of the person alleged to be in violation of this act;
+99 “(B) The date the formal complaint was made to the Department; and
+100 “(C) A description of the formal complaint.”.
+101 (3) Subsection (g) is amended to read as follows:
+102 “(g)(1) Except as provided in paragraph (8) of this subsection, before issuing a
+103 civil penalty to, or denying, suspending, changing, or revoking a certification, a person or a
+104 certified joint venture, the Department shall issue a notice of determination to the person or
+105 certified joint venture. The notice of determination shall describe the:
+106 “(A) Basis for the Department’s determination;
+5
+
+ENGROSSED ORIGINAL
+107 “(B) Proposed penalty, if any; and
+108 “(C) Process and timeline by which the person or certified joint venture may
+109 request a hearing.
+110 “(2) Pursuant to paragraph (3) of this subsection, a person, or a designated
+111 representative on behalf of a certified joint venture, may request a hearing before the Office of
+112 Administrative Hearings within 10 days after receiving the notice. If the person or certified joint
+113 venture does not request a hearing within that time, the civil penalty, denial, suspension, change,
+114 or revocation shall become final, and the person or certified joint venture shall be deemed to
+115 have waived the opportunity for judicial review.
+116 “(3) If a hearing is requested, the Office of Administrative Hearings shall consider
+117 the matter pursuant to section 19 of the Office of Administrative Hearings Establishment Act of
+118 2001, effective March 6, 2002 (D.C. Law 14-76; D.C. Official Code § 2-1831.16), and the rules
+119 issued pursuant to it. The Department shall bear the burden of establishing the violation by a
+120 preponderance of the evidence.
+121 “(4) The Office of Administrative Hearings shall conduct such hearing based on
+122 the record developed by the Department. The decision of the Office of Administrative Hearings
+123 shall be the final administrative decision for the purpose of judicial review.
+124 “(5) Notice of a final suspension or revocation of a certification shall be published
+125 on the Department’s website.
+6
+
+ENGROSSED ORIGINAL
+126 “(6) A business enterprise or joint venture whose certification has been revoked
+127 shall not be eligible to apply for a new certification from the Department until 36 months after
+128 the date that the revocation became final.
+129 “(7)(A) The Department may at any time, upon motion by a business enterprise or
+130 joint venture whose certification has been suspended or revoked, remove the suspension or
+131 reissue a certification if the Department determines that it is in the District government’s interest
+132 to remove the suspension or reissue the certification before the end of the 36-month period and
+133 the removal or reissuance will not endanger the health, safety, or welfare of the general public.
+134 “(B) In determining whether to remove a suspension or reissue a certification, the
+135 Department shall consider whether the business enterprise or joint venture submitted satisfactory
+136 proof that conditions within, or actions by, the business enterprise or joint venture that led to the
+137 suspension or revocation have been corrected.
+138 “(C) A business enterprise or joint venture whose certification is reissued shall
+139 cease to be subject to the 36-month waiting period established in paragraph (6) of this
+140 subsection.
+141 “(8)(A) If, after an investigation, the Department determines that a business
+142 enterprise or joint venture certified under this act has violated any provision of this act in such a
+143 manner as to present an imminent danger to the health, safety, or welfare of any person or the
+144 general public, the Department may summarily suspend the certification of the business
+7
+
+ENGROSSED ORIGINAL
+145 enterprise or joint venture upon issuing the notice of determination described in paragraph (1) of
+146 this subsection.
+147 “(B)(i) The notice of determination shall inform the business enterprise or joint
+148 venture of the reason for the summary suspension and the right to request a hearing before the
+149 Office of Administrative Hearings pursuant to this subsection.
+150 “(ii) If a business enterprise or joint venture timely requests a hearing on a
+151 summary suspension, the Office of Administrative Hearings shall conduct the hearing within 14
+152 days after receiving the request, unless a longer period of time is agreed to by the business
+153 enterprise or joint venture, and shall issue a decision within 14 days after the record of the
+154 hearing closes.”
+155 Sec. 3. Fiscal impact statement.
+156 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+157 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+158 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+159 Sec. 4. Effective date.
+160 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+161 the Mayor, action by the Council to override the veto), a 30-day period of congressional review
+162 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+163 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+8
+
+ENGROSSED ORIGINAL
+164 Columbia Register.
+165 (b) This act shall expire after 225 days of its having taken effect.
+9

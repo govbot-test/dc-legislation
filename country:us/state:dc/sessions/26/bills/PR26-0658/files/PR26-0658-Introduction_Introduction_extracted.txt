@@ -1,0 +1,193 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+April 20, 2026
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+In accordance with section 2 of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-
+142; D.C. Official Code § 1-523.01), and pursuant to section 5 of the Office and Commission on
+African Affairs Act of 2006, effective June 8, 2006 (D.C. Law 16-111, D.C. Official Code § 2-1394),
+I am pleased to nominate the following individual:
+Dr. Sannido De Poukn
+Eastern Avenue, NE
+Washington, DC 20011
+(Ward 5)
+for reappointment as a public member of the Commission on African Affairs, for a term to end October
+27, 2029.
+Enclosed, you will find biographical information detailing the experience of the above-mentioned
+nominee, together with a proposed resolution to assist the Council during the confirmation process.
+I would appreciate the Council’s earliest consideration of this nomination for confirmation. Please
+do not hesitate to contact me, or Steven Walker, Director, Mayor’s Office of Talent and
+Appointments, should the Council require additional information.
+Sincerely,
+Muriel Bowser
+Mayor
+
+1
+2 ha1rman Phil Mendelson
+3 at the request of the Mayor
+4
+5
+6 A PROPOSED RESOLUTION
+7
+8
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12
+13
+14
+15 To confirm the reappointment of Dr. Sannido De Poukn to the Commission on African Affairs.
+16
+17 RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+18 resolution may be cited as the "Commission on African Affairs Dr. Sannido De Poukn
+19 Confirmation Resolution of 2026".
+20 Sec. 2. The Council of the District of Columbia confirms the reappointment of:
+21
+22 Dr. Sannido De Poukn
+23 Eastern A venue, NE
+24 Washington, DC 20011
+25 (Ward 5)
+26
+27 as a public member of the Commission on African Affairs, established by section 4 of the Office
+28 and Commission on African Affairs Act of 2006, effective June 8, 2006 (D.C. Law 16-111, D.C.
+29 Official Code§ 2-1393), for a term to end October 27, 2029.
+30 Sec. 3. The Council of the District of Columbia shall transmit a copy of this resolution,
+31 upon its adoption, to the nominee and to the Mayor.
+32 Sec. 4. This resolution shall take effect immediately.
+
+sssssssa
+SANNIDO DE POUKN
+PROFESSIONAL SUMMARY
+With 13 years of experience as an IT professional, I have honed my skills in developing and
+implementing security solutions in fast-paced environments. My passion lies in aligning security
+architecture plans and processes with security standards and business goals. My extensive
+experience in developing and testing security frameworks for cloud-based software, coupled with
+my expertise in robust network defense strategies, makes me an asset to any team. I am committed
+to staying abreast of the latest developments in the field and continuously improving my
+knowledge and skills.
+SKILLS
+• Designing security controls • Training and Development
+• Wireshark software • Infrastructure development
+• Data security • Security planning
+• Erecting firewalls • Access Control
+WORK HISTORY
+UNIVERSITY OF THE DISTRICT OF COLUMBIA
+Visiting Assistant Professor | Washington, DC | January 2025 - Present
+Created study guides, research materials and syllabus for students.
+• •
+Teach the courses
+Computer Networking Adjunct Professor | Washington, DC | May 2024 – December 2024
+Created study guides, research materials and syllabus for students.
+• •
+Teach the courses
+COMMISSION ON AFRICAN AFFAIRS
+Commissioner | Washington, DC | January 2020 – Present
+• Serve as an advocate for African persons in the district.
+• Review and submit to the mayor, the council, and the office and make available to the public an annual
+report that includes an analysis of the needs of the African community in the district.
+• Maintained positive customer relations by addressing problems head-on and implementing successful
+corrective actions.
+• Launched quality assurance practices for each phase of development.
+DCPS-MCKINLEY HIGH SCHOOL
+Computer Networking Teacher | Washington, DC | January 2022 - August 2023
+
+• Prepare Computer Architecture and Technology (ATO) and Maintenance Planning and Management
+courses.
+• Distributed and collected classroom materials such as worksheets, quizzes, and tests.
+• Used computers, audio-visual aids, and other equipment to supplement presentations.
+• Created study guides, research materials and syllabus for students.
+• Tested and evaluated student progress to determine effectiveness and impact of teaching methods,
+materials, and projects.
+• Trained and developed students' skills in word-processing, spreadsheet, and database programs.
+UNIVERSITY OF THE DISTRICT OF COLUMBIA
+Researcher | Washington, DC | January 2021 - June 2022
+• Study and evolve data science prototypes.
+• Implement machine learning algorithms and AI tools within research opportunities based on current
+parameters.
+• Build AI models from scratch and assist in sharing knowledge of the model's function.
+• Choose appropriate datasets and data representation methods.
+• Performed research into study topics to increase knowledge and to provide valuable contributions.
+GIC TECHNOLOGY LLC
+Network Engineer | Washington, DC | June 2016 - December 2021
+• Troubleshot complex multi-vendor network service provider issues.
+• Provided network support services for devices such as hubs, bridges, routers, and other hardware.
+• Provided complete end-to-end engineering and installation of route-based IP network solutions.
+• Monitored network capacity and performance to diagnose and resolve complex network problems.
+• Provided detailed network diagrams and procedural guidelines.
+• Integrated data, voice, and video networks for use in multi-site installations.
+TOGO PORT
+IT Project Manager | Togo, Africa | February 2010 - September 2011
+• Developed project management roadmap to define project objectives, timelines, and milestones.
+• Led technical upgrade projects for clients by working and coordinating with consultants and
+developers for integrations.
+• Outlined work plans, determined resources, wrote timelines, and generated initial budgets as part of
+project scope determination.
+• Proposed and implemented system enhancements to improve performance and reliability of storage.
+• Designed, documented, and executed system upgrades and patch management using update manager.
+EDUCATION
+PH.D. Computer Science and engineering
+
+University of The District of Columbia
+Washington, DC, 05/2025
+MASTER OF SCIENCE Computer Science
+University of The District of Columbia
+Washington, DC 12/2021
+BACHELOR OF SCIENCE Computer and Information Sciences
+University of The District of Columbia
+Washington, DC, 09/2020
+CERTIFICATIONS
+CompTIA Security + November 2023
+CCNA: Introduction to Networks issued by Cisco June 2022
+CCNA: Switching, Routing, and Wireless Essentials June 2022
+CCNA: Enterprise Networking, Security, and Automation issued by Cisco October 2022.
+
+Executive Office of the Mayor – Mayor’s Office of Talent and Appointments
+John A. Wilson Building | 1350 Pennsylvania Avenue, Suite 600 | Washington, DC 20004
+Dr. Sannido De Poukn
+Dr. Sannido De Poukn is an accomplished professional in the field of
+computer science and engineering. He currently holds the position of
+Visiting Assistant Professor at the University of the District of Columbia,
+where he combines teaching with his extensive background in IT
+management and support, totaling over 13 years of experience in the
+industry. In addition to his academic role, Dr. De Poukn is a Cisco
+Certified Instructor, highlighting his expertise in network engineering and
+cybersecurity.
+Aside from his academic and professional pursuits, he actively
+participates in community and cultural events. Notably, Dr. De Poukn has
+been involved in celebrating Black History Month and promoting Ivorian
+culture, which reflects his commitment to cultural representation and awareness. He is also fluent
+in English, French, and Ewe.
+A Ward 5 resident, Dr. De Poukn earned his Bachelor of Science in Computer and Information
+Sciences, his Master of Science in Computer Science, and his Doctor of Philosophy in Computer
+Science and Engineering from the University of the District of Columbia.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Executive Office of Mayor Muriel Bowser
+Office of the General Counsel to the Mayor
+To: Kimberly A. Bassett, Steven Walker
+From: Betsy Cavendish
+Date: March 25, 2026
+Subject: Legal sufficiency review of a resolution appointing members of the Commission
+on African Affairs
+This is to Certify
+that this office has reviewed the above-referenced Resolution and
+found it to be legally unobjectionable. If you have any questions in this regard, please do not
+hesitate to call Kimberly Ulan, Associate General Counsel, Executive Office of the Mayor, at
+202-727-2292, or me at 202-724-7681.
+______________________________
+Elizabeth Cavendish
+______________________________________________________________________________
+The John A. Wilson Building • 1350 Pennsylvania Avenue, NW • Suite 300 • Washington, D.C. 20004 • Office (202) 724-7681

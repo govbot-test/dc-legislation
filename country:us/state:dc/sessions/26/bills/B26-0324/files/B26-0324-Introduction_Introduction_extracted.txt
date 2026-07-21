@@ -1,0 +1,214 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1 ___________________________
+2 Chairman Phil Mendelson
+3
+4
+5
+6
+7
+8 A BILL
+9 ____________
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12 _________________
+13
+14
+15
+16
+17 To amend Chapter 18 of Title 47 of the District of Columbia Official Code to allow a pass-
+18 through entity to elect to be taxed at the entity level for income taxes on certain S
+19 Corporations and Partnerships and to provide a tax credit for pass-through entities.
+20
+21 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+22 act may be cited as the “Pass-Through Entities Income Tax and Tax Credit on Certain S
+23 Corporations and Partnerships Amendment Act of 2025”.
+24 Sec. 2. Chapter 18 of Title 47 of the District of Columbia Official Code is amended as
+25 follows:
+26 (a) The table of contents is amended by adding a subchapter VII-C to read as follows:
+27 “Subchapter VII-C. Pass-Through Entities Tax on Certain S Corporations and
+28 Partnerships.
+29 “47-1807.71. Definitions.
+30 “47-1807.72. Pass-Through Entities Tax on Certain S Corporations and Partnerships.
+31 “47-1807.73. Applicability Date.
+32 (b) A new subchapter VII-C is added to read as follows:
+33 “47-1807.71. Definitions.
+1
+
+34 “For the purposes of this subchapter, the term:
+35 “(1) “Distributable cash flow” means taxable income reportable by a pass–
+36 through entity on its federal income tax return for the taxable year:
+37 “(A) Adjusted, in the case of an entity using the accrual method of
+38 accounting to report federal taxable income, to reflect the amount of taxable income that would
+39 have been reported under the cash method of accounting;
+40 “(B) Increased by the sum of:
+41 “(i) Cash receipts for the taxable year that are not includable in the
+42 gross income of the entity, including capital contributions and loan proceeds;
+43 “(ii) Amounts allowable to the entity for the taxable year as
+44 deductions for depreciation, amortization, and depletion; and
+45 “(iii) The decrease, if any, in the entity’s liability reserve as of the
+46 end of the taxable year; and
+47 “(C) Decreased by the sum of:
+48 “(i) Cash expenditures for the taxable year that are not deductible
+49 in computing the taxable income of the entity, not including distributions to shareholders,
+50 partners, or members; and
+51 “(ii) The increase, if any, in the entity’s liability reserve as of the
+52 end of the taxable year.
+53 “(2) “Liability reserve” means accrued unpaid liabilities that are not deductible in
+54 computing taxable income.
+55 “(3) “Member” means:
+56 “(A) A shareholder of an S corporation;
+2
+
+57 “(B) A general or limited partner of a partnership, limited partnership, or
+58 limited liability partnership;
+59 “(C) A member of a limited liability company; or
+60 “(D) A beneficiary of a business trust or statutory trust.
+61 “(4) “Nonresident entity” means an entity that is not formed under the laws of the
+62 District of Columbia and is not qualified by or registered with the Office of the Chief Financial
+63 Officer created by § 1-204.24a to do business in the District of Columbia.
+64 “(5) Nonresident taxable income” means that portion of the entire net income of
+65 every nonresident which is subject to tax under §§ 47-1808.01 to 47-1808.06.
+66 “(6) “Pass–through entity” means:
+67 “(A) An S corporation;
+68 “(B) A partnership;
+69 “(C) A limited liability company that is not taxed as a corporation under
+70 this title; or
+71 “(D) A business trust or statutory trust that is not taxed as a corporation
+72 under this title.
+73 “(7) “Pass–through entity’s taxable income” means the portion of a pass–through
+74 entity’s income under the federal Internal Revenue Code, calculated without regard to any
+75 deduction for taxes based on net income that are imposed by any state or political subdivision of
+76 a state, that is derived from or reasonably attributable to the trade or business of the pass–through
+77 entity in the District of Columbia.
+78 “47-1807.72. Pass-Through Entities Income Tax on Certain S Corporations and
+79 Partnerships.
+3
+
+80 “(a)(1) Subject to paragraph (2) of this subsection, in addition to any other tax imposed
+81 under this title, a tax is imposed on each pass–through entity.
+82 “(2) Each pass–through entity:
+83 “(A) Shall pay the tax imposed under paragraph (1) of this subsection with
+84 respect to the distributive shares or pro rata shares of the nonresident and nonresident entity
+85 members of the pass–through entity; or
+86 “(B) May elect to pay the tax imposed under paragraph (1) of this
+87 subsection with respect to the distributive shares or pro rata shares of all members of the pass–
+88 through entity.
+89 “(b)(1) With respect to a pass–through entity that pays the tax imposed under subsection
+90 (a)(1) of this section in accordance with subsection (a)(2)(A) of this section, the tax shall be
+91 treated as a tax imposed on the nonresident or nonresident entity members that is paid on behalf
+92 of the nonresidents or nonresident entities by the pass–through entity.
+93 “(2) The Mayor shall provide by regulation for the treatment of the tax imposed
+94 under subsection (a) of this section that is paid on behalf of a nonresident entity member that is
+95 itself a pass–through entity.
+96 “(3) With respect to a pass-through entity that pays the tax imposed under
+97 subsection (a)(1) of this section in accordance with subsection (a)(2)(B) of this section, the tax
+98 shall be treated as a tax imposed on the pass-through entity itself.
+99 “(c)(1) With respect to a pass-through entity that pays the tax imposed under subsection
+100 (a)(1) of this section in accordance with subsection (a)(2)(A) of this section, the tax imposed is
+101 the sum of:
+4
+
+102 “(A) A rate equal to the sum of the rate of the tax imposed under the top
+103 marginal District of Columbia tax rate for individuals under § 47-1806.03 applied to the sum of
+104 each nonresident individual member’s distributive share or pro rata share of the pass-through
+105 entity’s nonresident taxable income; and
+106 “(B) The rate of the tax for a corporation under § 47-1807.02 applied to
+107 the sum of each nonresident entity member’s distributive share or pro rata share of the pass-
+108 through entity’s nonresident taxable income.
+109 “(2) With respect to a pass-through entity that pays the tax imposed under
+110 subsection (a)(1) of this section in accordance with subsection (a)(2)(B) of this section, the tax
+111 imposed is the sum of:
+112 “(A) A rate equal to the sum of the rate of the tax imposed under the top
+113 marginal District of Columbia tax rate for individuals under § 47-1806.03 applied to the sum of
+114 each individual member’s distributive share or pro rata share of the pass-through entity’s taxable
+115 income; and
+116 “(B) The rate of the tax for a corporation under § 47-1807.02 applied to
+117 the sum of each entity member’s distributive share or pro rata share of the pass-through entity’s
+118 taxable income.
+119 “(3) The tax required to be paid for any taxable year by a pass-through entity may
+120 not exceed:
+121 “(A) With respect to a pass-through entity that pays the tax imposed under
+122 subsection (a)(1) of this section in accordance with subsection (a)(2)(A) of this section, the sum
+123 of all of the nonresident and nonresident entity members’ shares of the pass-through entity’s
+124 distributable cash flow; and
+5
+
+125 “(B) With respect to a pass-through entity that pays the tax imposed under
+126 subsection (a)(1) of this section in accordance with subsection (a)(2)(B) of this section, the sum
+127 of all of the members’ shares of the pass-through entity’s distributable cash flow.
+128 “(d) In accordance with § 47-1806.04, each member may claim a credit against the tax
+129 imposed on the member for the member’s proportionate share of the tax paid by the pass-through
+130 entity under subsection (a) of this section.
+131 “(e)(1)(A) The tax imposed under subsection (a)(1) of this section that is paid in
+132 accordance with subsection (a)(2)(A) of this section and for which no election is made under
+133 subsection (a)(2)(B) of this section does not apply with respect to the distributive share or pro
+134 rata share of a member that is itself a pass-through entity formed under the laws of the District of
+135 Columbia or qualified by or registered with the with the Office of the Chief Financial Officer
+136 created by § 1-204.24a to do business in the District of Columbia.
+137 “(B) A member of a pass-through entity that is itself a pass-through entity
+138 as described in subparagraph (A) of this paragraph shall itself comply with the provisions of this
+139 section.
+140 “(2) The tax imposed under subsection (a)(1) of this section that is paid in
+141 accordance with subsection (a)(2)(A) of this section and for which no election is made under
+142 subsection (a)(2)(B) of this section does not apply with respect to the direct or indirect
+143 distributive share or pro rata share of a member that is:
+144 “(A) A real estate investment trust as defined in § 856 of the Internal
+145 Revenue Code; or
+146 “(B) An entity that is exempt from taxation under with § 501 of the
+147 Internal Revenue Code.
+6
+
+148 “(f) The Mayor may promulgate rules for:
+149 “(1) The filing of composite returns by a pass-through entity on behalf of its
+150 nonresident and nonresident entity members; and
+151 “(2) Application of or exemption from the tax imposed under subsection (a) of
+152 this section for a pass-through entity:
+153 “(A) That files a composite return on behalf of nonresident and
+154 nonresident entity members; or
+155 “(B) The entity members of which are tax exempt.
+156 “(g)(1) Subject to paragraph (2) of this subsection, if a partnership fails to pay the tax
+157 when due, the tax may be collected from the partners under the law applicable to debts of the
+158 partnership, with the partnership and partners having rights of contribution against any partner on
+159 whose behalf the tax is paid.
+160 “(2) Unless it is established by the Mayor that the partner participated in a pattern
+161 of distributions to one or more partners with the intention of defeating the partnership liability
+162 for the tax imposed under subsection (a) of this section, any partner otherwise liable under
+163 paragraph (1) of this subsection shall be liable for the tax imposed on the partnership only to the
+164 extent of distributions from the partnership to that partner after the tax was due to be paid by the
+165 partnership.
+166 “(h) Except as provided in § 47-1806.04, nothing in this section limits or affects in any
+167 way the liability of an individual nonresident member or a nonresident entity member for the tax
+168 imposed on the individual nonresident or nonresident entity under § 47-1807.72.
+169 “(i) The tax imposed under subsection (a)(1) of this section that is paid in accordance
+170 with subsection (a)(2)(B) of this section and for which no election is made under subsetion
+7
+
+171 (a)(2)(B) of this section does not apply to a publicly traded pass-through entity that has agreed to
+172 file with the Mayor an annual information return reporting the name, address, taxpayer
+173 identification number, and other information requested by the Mayor of each nonresident or
+174 nonresident entity member whose distributive share or pro rata share of the pass-through entity’s
+175 nonresident taxable income for the taxable year exceeds $500.
+176 “47-1807.73. Applicability date.
+177 “Sections 47-1807.71 through 47-1807.73 shall apply for the income tax years beginning
+178 after December 31, 2023.”.
+179 (c) Section 47-1806.04 is amended by adding a new subsection (h) to read as follows:
+180 “(h) A member of a pass–through entity, as defined in § 47-1807.71(6), may claim a
+181 credit against the income tax for a taxable year in the amount of tax paid by a pass–through
+182 entity under § 47-1807.72 that is attributable to the member’s share of the pass–through entity’s
+183 taxable income, as defined in § 47-1807.71(7).
+184 Sec. 3. Fiscal impact statement.
+185 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+186 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+187 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+188 Sec. 4. Effective date.
+189 This act shall take effect following approval by the Mayor (or in the event of veto by the
+190 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+191 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+192 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+8

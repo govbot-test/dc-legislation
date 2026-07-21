@@ -1,0 +1,196 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+May6, 2026
+The Honorable Phil Mendelson
+Chairman
+‘Council ofthe DistrictofColumbia
+John A. Wilson Building
+1350Pennsylvania Avenue,NW, Suite 504
+Washington,DC20004
+DearChairman Mendelson:
+In accordance with section 2 ofthe Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-
+142; D.C. Official Code § 1-523.01), and pursuant to section 5 ofthe Office ofCitizen Complaint
+Review Establishment Act of1998, effective March 26, 1999 (D.C. Law 12-208; D.C. Official Code
+§ 5-1104), I am pleased to nominatethe following individual:
+Mr. Peter Durkin
+7th Street, NW
+Washington, DC 20001
+(Ward 2)
+forappointment as the Ward 2 memberofthe Police Complaints Board, filling a new seat, for a term
+toendJanuary 12, 2028
+Enclosed,youwill find biographical information detailing theexperience ofthe above-mentioned
+nominee,togetherwithaproposed resolutiontoassisttheCouncil duringthe confirmationprocess.
+I would appreciate the Council’searliestconsiderationofthisnominationforconfirmation. Please
+do not hesitate to contact me, or Steven Walker, Director, Mayor’s Office of Talent and
+Appointments, should theCouncil require additional information.
+Sincerely,
+M
+Mayor
+
+~~
+1
+2
+3 at the request of the Mayor
+4
+5
+6 A PROPOSED RESOLUTION
+7
+8
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12
+13
+14
+15 To confirm the appointment of Peter Durkin to the Police Complaints Board.
+16
+17 RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+18 resolution may be cited as the "Police Complaints Board Peter Durkin Confirmation Resolution
+19 of 2026".
+20 Sec. 2. The Council of the District of Columbia confirms the appointment of:
+21
+22 Peter Durkin
+23 7th Street, NW
+24 Washington, DC 20001
+25 (Ward 2)
+26
+27 as the Ward 2 member of the Police Complaints Board, established by section 5 of the Office of
+28 Citizen Complaint Review Establishment Act of 1998, effective March 26, 1999 (D.C. Law 12-
+29 208; D.C Official Code § 5-1104), filling a new seat, for a term to end January 12, 2028.
+30 Sec. 3. The Council of the District of Columbia shall transmit a copy of this resolution,
+31 upon its adoption, to the nominee and to the Mayor.
+32 Sec. 4. This resolution shall take effect immediately.
+
+Peter Durl Product Delivery Manager
+[renETERCT2) Linkedin | Washington, DC
+Professional Summary
+Product manager with an unconventional path to tech—from political fundraising to account management. |
+am known fortranslating ambiguous requirementsand working cross-functionallyto build websitesand ship
+productsthat scale. Drove user growth from 5,000to 20,000 in oneyear through data-driven prioritization and
+deep collaboration with executivesand engineering teams. | bring a unique skillset in stakeholder influence
+honed in high-pressure politicalfundraising roles.
+Work Experience
+Prolegis 03/2022-09/2025
+Prolegisisa technologyplatform providingpolicy research tools, aggregated legislative data and news content,
+and custom CRMsoftware topublicsectorclients including Congressionaloffices and governmentagencies.
+Principal Product Manager
+* Scaled user basefrom 5,000 to 20,000 users in one year by defining product strategyand roadmap
+aligned with business objectives, synthesizing qualitative user feedback and quantitative usage datato
+prioritize high-impact features.
+* Drove strategic product vision as key partner to C-suite (CEO, CRO, CTO), translating business goals into
+executable product initiatives and using data insights to influence company-wide prioritization
+decisions.
+Senior Product Manager
+* Ourad-based product was underperforming—toofewusers, weak engagement, and a runway
+shrinking fast. | overhauled the roadmap based on customerneeds and usagedata, not “cool” features.
+Within a year, userstripled, ad revenue rose, clients reengaged, andthe board renewed funding.
+‘* Managed data engineer to architect and deployanalytics platform, including backend data
+infrastructure, automated dashboards, and Looker business intelligence tools, while prioritizing
+engineering work to balance technical debt with feature delivery.
+Product Manager
+Launched two innovative products (pollingtool and interactions tracker) within 6 months, achieving an
+89% increase in monthlyactive usersthrough user-centered design and rapid prototyping.
+Partnered with external developmentfirm todesign and launch mobile app, translating web platform
+to iOS/Android through requirements definition, sprint planning, and UATcoordination, deployingto
+5,000+ users with 24% mobile adoption rate.
+ProductConsultant(part-time)
+* Established product management disciplineas company'sfirst product consultant, building
+foundational V1 roadmap, conductingcompetitive analysisthat defined strategic priorities, and
+implementing product feedback systems thattransitioned theorganization from ad-hocto data-driven
+decision-making.
+
+Integral 01/2022-12/2022
+Integralisa dataengineering andanalyticsfirm buildingcustom reportinginfrastructure, predictive models,
+andstrategicdecisionframeworksfornonprofitfundraisingprograms
+AccountManager
+* Managed largestclient portfolio (6 major nonprofit accounts), leadingcross-functional teamsto deliver
+data-driven fundraisingsolutions and advising on performanceoptimization through custom analytics
+and reporting.
+‘+ Led three enterprise CRM data migration projects (Raiser's Edge to Salesforce NPSP), rebuilding data
+warehouse infrastructure on Snowflake, standardizing data models and storagearchitecture, and
+enhancingcomplex reportingtools and dashboardsto ensureseamless transition of Integral's data
+products with zero data lossacross internal and external teams.
+* Increased product usage by 30% by designingand deliveringanalyticsdashboards and automated
+reportingtoolsthat improved data accessibility and reduced time-to-insightforclient stakeholders.
+FiscalNote (NYSE: NOTE) 11/2019-01/2022
+FiscalNote isa globalpolicyintelligenceSaaScompany, providingAl-driven legislative tracking, newsand
+analysis, andconstituentrelationshipmanagementsoftware to corporationsandgovernmentagencies.
+Account Manager
+‘* Achieved consistent 150%+ NRR duringthe pandemic by designing product-ledexpansion strategies
+using usage analyticsto identify upsell opportunitiesand drivefeature adoption across enterprise
+accounts.
+* Increased product adoption by 84% 12 months by implementing a data-driven onboarding
+framework and multi-touch engagement strategy, enhancing user experience.
+* Served as voice of customer by synthesizing userfeedbackand usage patterns intoactionable product
+insights, collaborating withProduct and Engineering teams to influence roadmap prioritization.
+Congressional & Political Fundraising Experience 10/2016-10/2019
+Congressional Aide & Political Fundraiser
+‘* Managed stakeholder relationships and coordinated cross-functional teamsforSpeaker Pelosi's
+fundraising operations, raising $12M+through strategic donor engagement.
+‘* Built coalition-building and influence managementexpertise directly applicable to product launches,
+partnersh ips, and executive stakeholder alignment in tech.
+Education
+Bachelor of Arts, magna cum laude | Union College - Schenectady, NY
+| servedan elected twoyearterm asaStudentTrustee ontheCollege's BoardofTrustees.
+© StudyAbroad: Cérdoba,Argentina
+Skills
+ProductManagemen&t Leadership:Agile Methods, Cross-Functional Collaboration, Leadership,
+Problem-Solving, Product Requirements, Project Management
+Product&Analytics Tools:Canva, Confluence, Figma, GitHub, Jira, Linear, Looker, Loom, Trello
+Al: Al-assisted prototyping, ChatGPT, Claude, Gemini, Lovable, Perplexity
+Business & CRMSystems: Business Processes, Google Workspace, HubSpot, Microsoft Office, SaaS, Salesforce
+
+*
+EAR
+orner
+a
++s
+|
+tmlo
+Executive Officeofthe Mayor—Mayor’sOffice ofTalentand Appointments
+JohnA. Wilson Building | 1350 PennsylvaniaAvenue, Suite600 | Washington, DC 20004
+PeterDurkin
+Mr. Peter Durkin is a product management professional whose career
+reflects a distinctive combination ofpolitical experience, enterprise sales
+expertise, and technology leadership. His professional background spans
+Civie Tech and GovTech companies, as well as the federal government
+andpublic sector. He began his career on Capitol Hill, serving as an aide
+for senior members of Congress, before transitioning into technology,
+where he has established a reputation for cross-functional collaboration,
+technical fluency, and delivering products that serve the public interest.
+His civic and communityengagement reflects a sustained commitment to
+Ward 2 and the broader public good. He serves as a neighborhood safety
+point of contact and is an active community advocate, contributing
+regularly to beautification initiatives and neighbor assistance efforts. He maintains strong ties to
+hiseducational institutions, servingas an Alumni ClassAgentfor Union College andas a Director
+on the high school’s Alumni Council. He is further recognized as a Friend of the Library of
+Congress, reflecting his enduring dedication to public knowledge, civic life, and institutional
+service,
+A Ward 2 resident, Mr. Durkin eamed his Bachelor of Arts in Political Science from Union
+College.
+
+GOVERNMENTOFTHEDISTRICTOF COLUMBIA
+Executive Office ofMayorMuriel Bowser
+wk ow
+WE ARE
+WASHINGTON
+|q
+Office ofthe General Counsel to the Mayor
+Kimberly A. Bassett, Steve Walker
+Betsy Cavendish
+April 28, 2026
+Legal sufficiency reviewof a resolution appointing Peter Durkin as a member of
+the Police Complaints Board
+This is to Certify that this office has reviewed the above-referenced resolution and
+foundit tobe legallyunobjectionable. Ifyou have any questions in this regard, pleasedonot
+hesitate to call Michael Porcello, Deputy General Counsel, Executive OfficeoftheMayor, at
+202-727-0872, or meat 202-724-7681
+Eligabeth Cavendish
+The ohnA, WilsonBalding > 1350Pennsylvania Avenue,NW > Suite300 > WashingtoDnI,C.20008 > Office 02) 72:

@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2
+3 ________________________ ________________________
+4 Chairman Phil Mendelson Councilmember Brooke Pinto
+5
+6
+7 A BILL
+8
+9 _________________________
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13 _________________________
+14
+15
+16 To amend, on a temporary basis, the Body-Worn Camera Regulation and Reporting
+17 Requirements Act of 2015 and Chapter 39 of Title 24 of the District of Columbia
+18 Municipal Regulations to require release of body-worn camera recordings of
+19 Metropolitan Police Department Officers present in the event of an officer-involved death
+20 or serious use of force by a law enforcement officer other than a Metropolitan Police
+21 Department officer.
+22
+23 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+24 act may be cited as the “Body-Worn Camera Transparency for Use of Force Temporary
+25 Amendment Act of 2026”.
+26 Sec. 2. Section 3004 of the Body-Worn Camera Regulation and Reporting Requirements
+27 Act of 2015, effective October 22, 2015 (D.C. Law 21-36; D.C. Official Code § 5-116.33), is
+28 amended as follows:
+29 (a) Subsection (c)(2)(A) is amended as follows:
+30 (1) Sub-subparagraph (i) is amended as follows:
+31 (A) Sub-sub-subparagraph (I) is amended to read as follows:
+
+32 “(I) The names and body-worn camera recordings of all
+33 Metropolitan Police Department officers, as well as the names, as available, of all other law
+34 enforcement officers, directly involved in the officer-involved death or serious use of force;
+35 and”.
+36 (B) Sub-sub-subparagraph (II) is amended by striking the phrase “; and”
+37 and inserting a semicolon in its place.
+38 (2) A new sub-subparagraph (i-I) is added to read as follows:
+39 “(i-I) Notwithstanding sub-subparagraph (i) of this subparagraph,
+40 for incidents occurring between August 1, 2025, and the effective date of the Body-Worn
+41 Camera Transparency for Use of Force Emergency Amendment Act of 2026, passed on
+42 emergency basis on March 3, 2026 (Enrolled version of Bill 26-XXX), within 10 business days
+43 after the effective date of the Body-Worn Camera Transparency for Use of Force Emergency
+44 Amendment Act of 2026, passed on emergency basis on March 3, 2026 (Enrolled version of Bill
+45 26-XXX), publicly release:
+46 “(I) The names and body-worn camera recordings of all
+47 Metropolitan Police Department officers, as well as the names, as available, of all other law
+48 enforcement officers, directly involved in the officer-involved death or serious use of force; and
+49 “(II) A description of the incident; and”.
+50 (3) Sub-subparagraph (ii) is amended by striking the phrase “; and” and inserting
+51 the phrase “; provided, that for all officer-involved deaths since August 1, 2025, the information
+52 reported pursuant to this sub-subparagraph shall include the names of all Metropolitan Police
+53 Department officers as well as other law enforcement officers directly involved in the officer-
+54 involved death; and” in its place.
+2
+
+55 (b) Subsection (e)(1) is amended by striking the phrase “officer-involved death or serious
+56 use of force” and inserting the phrase “officer-involved death directly involving an MPD officer
+57 or a serious use of force directly involving an MPD officer” in its place.
+58 (c) Subsection (g) is amended as follows:
+59 (1) A new paragraph (1A) is added to read as follows:
+60 “(1A) “Law enforcement officer” means any officer, agent, or employee of the
+61 United States or any state or local government authorized by law or by a government agency to
+62 engage in or supervise the prevention, detection, or investigation of any violation of criminal or
+63 civil law.”.
+64 (2) Paragraph (3) is amended as follows:
+65 (A) Subparagraph (A) is amended by striking the phrase “Metropolitan
+66 Police Department officer” and inserting the phrase “Metropolitan Police Department officer, or
+67 any other law enforcement officer while an MPD officer is present” in its place.
+68 (B) Subparagraph (B) is amended by striking the phrase “Metropolitan
+69 Police Department officer” and inserting the phrase “Metropolitan Police Department officer, or
+70 any other law enforcement officer while an MPD officer is present” in its place.
+71 (C) Subparagraph (C) is amended by striking the phrase “Metropolitan
+72 Police Department officer” and inserting the phrase “Metropolitan Police Department officer, or
+73 any other law enforcement officer while an MPD officer is present” in its place.
+74 (D) Subparagraph (D) is amended by striking the phrase “Metropolitan
+75 Police Department canine” and inserting the phrase “Metropolitan Police Department canine, or
+76 canine of any other law enforcement officer while an MPD officer is present” in its place.
+3
+
+77 Sec. 3. Chapter 39 of Title 24 of the District of Columbia Municipal Regulations is
+78 amended as follows:
+79 (a) Section 3900 is amended as follows:
+80 (1) Subsection 3900.9 is amended to read as follows:
+81 “(a) For any incident involving an officer-involved death directly involving an MPD
+82 member or a serious use of force directly involving an MPD member, members shall not review
+83 any BWC recordings to assist in initial report writing.
+84 “(b) For an incident other than those described in paragraph (a) of this subsection,
+85 members shall indicate, when writing any initial or subsequent reports, whether the member
+86 viewed BWC footage prior to writing the report and specify what BWC footage the member
+87 viewed.”.
+88 (2) Subsection 3900.10(a)(1) is amended as follows:
+89 (A) Sub-subparagraph (A) is amended as follows:
+90 (i) Sub-sub-subparagraph (i) is amended to read as follows:
+91 “(i) The names and body-worn camera recordings of all
+92 Metropolitan Police Department officers, as well as the names, as available, of all other law
+93 enforcement officers, directly involved in the officer-involved death or serious use of force;
+94 and”.
+95 (ii) Sub-sub-subparagraph (ii) is amended by striking the phrase “;
+96 and” and inserting a semicolon in its place.
+97 (B) A new sub-subparagraph (A-i) is added to read as follows:
+4
+
+98 “(A-i) Notwithstanding sub-subparagraph (A) of this subparagraph, for
+99 incidents occurring between August 1, 2025, and the effective date of the Body-Worn Camera
+100 Transparency for Use of Force Emergency Amendment Act of 2026, passed on emergency basis
+101 on March 3, 2026 (Enrolled version of Bill 26-XXX), within 10 business days after the effective
+102 date of the Body-Worn Camera Transparency for Use of Force Emergency Amendment Act of
+103 2026, passed on emergency basis on March 3, 2026 (Enrolled version of Bill 26-XXX), publicly
+104 release:
+105 “(i) The names and body-worn camera recordings of all
+106 Metropolitan Police Department officers, as well as the names, as available, of all other law
+107 enforcement officers, directly involved in the officer-involved death or serious use of force; and
+108 “(ii) A description of the incident; and”.
+109 (C) Sub-subparagraph (B) is amended by striking the phrase “; and” and
+110 inserting the phrase “; provided, that for all officer-involved deaths since August 1, 2025, the
+111 information reported pursuant to this sub-subparagraph shall include the names of all
+112 Metropolitan Police Department officers as well as other law enforcement officers directly
+113 involved in the officer-involved death; and” in its place.
+114 (b) Section 3999.1 is amended by adding a new definition between the definitions of
+115 “FOIA” and “metadata” to read as follows:
+116 ““Law enforcement officer” - means any officer, agent, or employee of the United States
+117 or any state or local government authorized by law or by a government agency to engage in or
+118 supervise the prevention, detection, or investigation of any violation of criminal or civil law.”.
+119 Sec. 4. Applicability.
+120 This act shall apply as of August 1, 2025.
+5
+
+121 Sec. 5. Fiscal impact statement.
+122 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+123 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+124 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+125 Sec. 6. Effective date.
+126 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+127 the Mayor, action by the Council to override the veto), a 30-day period of congressional review
+128 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+129 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+130 Columbia Register.
+131 (b) This act shall expire after 225 days of its having taken effect.
+6

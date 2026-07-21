@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1 ___________________________
+2 Councilmember Charles Allen
+3
+4
+5
+6 A BILL
+7
+8 ________
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12 ________________
+13
+14
+15 To amend, on a temporary basis, the Language Access Act of 2004 to include the DC Water and
+16 Sewer Authority as a covered entity with major public contact; to amend the District of
+17 Columbia Public Works Act of 1954 to require that the DC Water and Sewer Authority
+18 submit information regarding disconnections to the Council, the Office of the Attorney
+19 General, and the Office of the Tenant Advocate on a monthly basis; to amend the Water
+20 and Sewer Authority Establishment and Department of Public Works Reorganization Act
+21 of to clarify the imposition of charges and penalties for late payment of water service
+22 charges and bills; and to amend section 431 of Title 21 of the District of Columbia
+23 Municipal Regulations to modify the notice requirements to building occupants prior to a
+24 water service disconnection.
+25
+26 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+27 act may be cited as the “DC Water and Sewer Authority Billing and Disconnection Clarification
+28 Temporary Amendment Act of 2025”.
+29 Sec. 2. Section 2(3)(B) of the Language Access Act of 2004, effective June 19, 2004 (D.C.
+30 Law 15-167; D.C. Official Code § 2-1931(3)(B)), is amended as follows:
+31 (a) Sub-subparagraph (xxviii) is amended by striking the phrase “; and” and inserting a
+32 semicolon in its place.
+33 (b) Sub-subparagraph (xxix) is amended by striking the period and inserting the phrase “;
+34 and” in its place.
+35 (c) A new sub-subparagraph (xxx) is added to read as follows:
+36 “(xxx) The District of Columbia Water and Sewer Authority.”.
+1
+
+37 Sec. 3. Section 216(d) of the Water and Sewer Authority Establishment and Department of
+38 Public Works Reorganization Act of 1996, effective April 18, 1996 (D.C. Law 11-111; D.C.
+39 Official Code § 34-2202.16(d)), is amended to read as follows:
+40 “(d) The Authority may impose additional charges and penalties for late payment of bills
+41 not exceeding a charge of 10% for any charges or bills remaining unpaid for more than 30 days,
+42 and a penalty at the rate of 1% per month compounded monthly for any charges or bills that remain
+43 unpaid for more than 60 days”.”
+44 Sec. 4. Section 103 of the District of Columbia Public Works Act of 1954, approved May
+45 18, 1954 (68 Stat. 102; D.C. Official Code § 34-2407.01), is amended to read as follows:
+46 “Sec. 103. Discontinuance of water service for failure to pay water charges.
+47 “(a)(1) The District of Columbia Water and Sewer Authority (“Authority”), established
+48 pursuant to section 202(a) of the Water and Sewer Authority Establishment and Department of
+49 Public Works Reorganization Act of 1996, effective April 18, 1996 (D.C. Law 11-111; D.C.
+50 Official Code § 34-2202.02(a)), may provide for the collection of water charges, in advance or
+51 otherwise, from the owner or occupant of any building, property, or other location furnished water
+52 or water service by the District.
+53 “(2) The Authority may shut off the water supply to any such building,
+54 property, or other location upon failure of the owner or occupant thereof to pay such water charges
+55 within 30 days from the date of rendition of the bill therefor, regardless of any change in ownership
+56 or occupancy of such building, property, or other location.
+57 “(b)(1) If the Authority has shut off the water supply to any property for failure to pay
+58 District water and sanitary sewer service charges, it shall be unlawful for any person to restore the
+59 water supply without the express authorization of the Authority.
+2
+
+60 “(2) The Authority shall impose a fine in an amount not less than 20% of the
+61 delinquent charges or more than $100, whichever is greater, upon the owner or occupant of the
+62 property, unless the Authority determines that the owner or occupant did not restore or solicit a
+63 person to restore the water.
+64 “(c) The Authority shall submit on the 7th day of each month, the following information
+65 to the Council, the Office of the Attorney General, and the Office of the Tenant Advocate for the
+66 preceding month:
+67 “(1) How many properties have received a notice of disconnection;
+68 “(2) Of those properties that were issued a notice, how many experienced a
+69 disconnection;
+70 “(3) Of those properties that experienced a disconnection, how many have had
+71 service restored;
+72 “(4) How many properties have entered into a payment plan;
+73 “(5) How many properties have had bill payment assumed by the tenants through a
+74 tenant association; and
+75 “(6) How many properties have been placed in receivership.”.
+76 Sec. 5. Section 431 of Title 21 of the District of Columbia Municipal Regulations (21
+77 DCMR § 431), is amended as follows:
+78 (a) The section heading is amended by striking the phrase “TO TENANTS” and inserting
+79 the phrase “TO OCCUPANTS” in its place.
+80 (b) Subsection 431.1 is amended to read as follows:
+81 “431.1 At least thirty (30) working days prior to terminating water and sewer services to
+82 the premises, the General Manager shall post notice outside of the premises, and at each unit, in
+3
+
+83 English, Spanish, or another language that the Authority reasonably determines may be spoken by
+84 occupants at the premises.”.
+85 (b) Subsection 431.2 is amended as follows:
+86 (1) The lead-in language is amended to read as follows:
+87 “The notice shall be developed in consultation with the Office of the Tenant Advocate and
+88 provide the occupants, whether tenants or owners, with the following information:”.
+89 (2) Paragraph (a) is amended to read as follows
+90 “(a) That the owner, condominium association, community association, or other
+91 common interest development is delinquent in the payment of water and sewer service charges,
+92 including the current amount owed and the number of days the account is past due;”.
+93 (3) Paragraph (c) is amended by striking the phrase “may permit” and inserting the
+94 phrase “shall permit” in its place.
+95 (4) Paragraph (d) is amended by striking the phrase “receivership;” and inserting
+96 the phrase “receivership as provided in D.C. Official Code § 34–2304(a)(1);” in its place.
+97 (c) Subsection 431.5 is amended by striking the word “Director” and inserting the phrase
+98 “General Manager” in its place.
+99 Sec. 6. Section 3 shall apply as of April 18, 1996.
+100 Sec. 7. Fiscal impact statement.
+101 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+102 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+103 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1–301.47a).
+104 Sec. 8. Effective date.
+4
+
+105 (a) This act shall take effect after approval by the Mayor (or in the event of veto by the
+106 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+107 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+108 24, 1973 (87 stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+109 (b) This act shall expire after 225 days of its having taken effect.
+5

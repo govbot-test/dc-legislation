@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3
+4 26-48
+5
+6
+7 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+8
+9 ___________
+10
+11
+12 To amend the District of Columbia Administrative Procedure Act to codify agency deference as
+13 it existed prior to the Supreme Court’s decision in Loper Bright Enterprises v. Raimondo
+14 while permitting the continued development of the law of deference, and to clarify that a
+15 reviewing court or tribunal shall defer to an agency’s reasonable interpretation of a
+16 statute or regulation it administers when the statute or regulation is silent or ambiguous
+17 with respect to a specific issue so long as that interpretation is not plainly wrong, or
+18 inconsistent with the statutory or regulatory language or legislature’s intent.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the “Review of Agency Action Clarification Amendment Act of 2025”.
+22 Sec. 2. Section 110 of the District of Columbia Administrative Procedure Act, approved
+23 October 21, 1968 (82 Stat. 1209; D.C. Official Code § 2-510), is amended as follows:
+24 (a) Subsection (a)(1) is amended by striking the phrase “So far as necessary” and
+25 inserting the phrase “Subject to subsections (c), (d), and (e) of this section and so far as
+26 necessary” in its place.
+27 (b) New subsections (c), (d), and (e) are added to read as follows:
+28 “(c) In reviewing an order or decision of an agency in any court or administrative
+29 proceeding, including but not limited to proceedings under subsection (a) of this section, the
+1
+
+ENGROSSED ORIGINAL
+30 reviewing tribunal shall defer to the agency’s reasonable interpretation of a statute or regulation
+31 it administers, when the statute or regulation is silent or ambiguous with respect to a specific
+32 issue, provided that the interpretation is not plainly wrong, or inconsistent with the statutory or
+33 regulatory language or the legislature’s intent.
+34 “(d) In reviewing a rule adopted by an agency, the reviewing tribunal shall defer to the
+35 agency’s reasonable interpretation of a statute it administers, when the statute or regulation is
+36 silent or ambiguous with respect to a specific issue, provided that the interpretation is not plainly
+37 wrong, or inconsistent with the statutory language or the legislature’s intent.
+38 “(e) In determining whether an interpretation by an agency is reasonable under subsection
+39 (c) or (d), the reviewing tribunal may consider, among other factors:
+40 “(1) Whether the interpretation provided by an agency has been consistent and
+41 longstanding;
+42 “(2) Whether the specific issue is within the scope of the agency’s subject matter-
+43 expertise; and
+44 “(3) The thoroughness and formality of the agency’s consideration.”.
+45 Sec. 3. Fiscal impact statement.
+46 The Council adopts the fiscal impact statement in the committee report as the fiscal
+47 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+48 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+49 Sec. 4. Effective date.
+2
+
+ENGROSSED ORIGINAL
+50 This act shall take effect following approval by the Mayor (or in the event of veto by the
+51 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+52 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+53 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+54 Columbia Register.
+3

@@ -1,0 +1,251 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+A BILL
+26-461
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+___________________
+1 To amend the Juvenile Curfew Act of 1995 to set curfew hours to begin at 11:00 p.m. every
+2 night, to extend the applicability of the curfew to 17-year-olds, to remove the word
+3 juvenile, to authorize the Mayor and Chief of Police to designate extended youth curfew
+4 zones, to establish specific notice and signage requirements for extended youth curfew
+5 zones, to allow Advisory Neighborhood Commissions to petition the Chief of Police for
+6 an extended youth curfew zone, to provide guardrails on the enforcement of curfew
+7 violations in extended youth curfew zones, and to require the provision of youth
+8 programming when extended youth curfew zones are established.
+9
+10 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+11 act may be cited as the "Youth Curfew Amendment Act of 2025".
+12 Sec. 2. The Juvenile Curfew Act of 1995, effective September 20, 1995 (D.C. Law 11-48;
+13 D.C. Official Code § 2-1541 et seq.), is amended as follows:
+14 (a) Section 2 (D.C. Official Code § 2-1541) is amended as follows:
+15 (1) Strike the number “17” wherever it appears and insert the number “18” in its
+16 place.
+17 (2) Strike the word “juvenile” wherever it appears and insert the word “youth” in
+18 its place.
+19 (3) A new subsection (b-1) is added to read as follows:
+20 “(b-1) The Council has determined that since 2023, the District has seen a rise in
+21 endangering situations involving unaccompanied youth, such as self-described “takeovers”
+1
+
+ENGROSSED ORIGINAL
+22 unsupervised by adults or planned fights, driven by social media. The far-reaching nature
+23 of social media is a novel problem that the Council must address in new ways.”
+24 (b) Section 3 (D.C. Official Code § 2-1542) is amended as follows:
+25 (1) Paragraph (1) is amended to read as follows:
+26 “(1) "Chief of Police" means the Chief of the Metropolitan Police Department.".
+27 (2) A new paragraph (1A) is added to read as follows:
+28 "(1A) "Curfew hours" means:
+29 "(A) From 11:00 p.m. until 6:00 a.m. of the following day; and
+30 “(A) From 11:00 p.m. on any Sunday, Monday, Tuesday, Wednesday,
+31 or Thursday, until 6:00 a.m. on the following day, and from 12:01 a.m. until 6:00 a.m. on
+32 any Saturday or Sunday. During the months of July and August, the term “curfew hours”
+33 means from 12:01 a.m. until 6:00 a.m.; and”
+34 "(B) Extended curfew hours in extended youth curfew zones established
+35 by the Mayor or the Chief of Police pursuant to section 3a.”.
+36 (3) A new paragraph (3A) is added to read as follows:
+37 “(3A) “Extended youth curfew zone” means a geographically defined area in the
+38 District in which extended curfew hours established pursuant to section 3a apply.”.
+39 (4) Paragraph (5) is amended by striking the phrase “under the age of 17 years”
+40 and inserting the phrase “under the age of 18 years” in its place.
+41 (5) A new paragraph (6A) is added to read as follows:
+2
+
+ENGROSSED ORIGINAL
+42 “(6A) “Notice of violation of curfew” means a verbal warning that informs a
+43 minor or group of minors that they are violating the terms of a curfew, informs the minor or
+44 group of minors that they may be arrested if they continue to violate the curfew, and identifies
+45 reasonable steps the minor or group of minors can take to avoid arrest.”.
+46 (6) A new paragraph (12) is added to read as follows:
+47 “(12) “Youth” means any person under the age of 18 years, but does not
+48 include a judicially emancipated minor or a married minor.”.
+49 (c) New sections 3a and 3b are added to read as follows:
+50 “Sec. 3a. Temporary extended youth curfew zones.
+51 “(a)(1) By issuance of an order, the Mayor or the Chief of Police may designate any part
+52 of the District as an extended youth curfew zone after determining that such a designation is
+53 appropriate to protect public safety or public or private property. Within the extended youth
+54 curfew zone, the Mayor or the Chief of Police may extend the curfew hours in the District
+55 beyond the hours established in section 3(1A)(A).
+56 “(2) Extended curfew hours established pursuant to paragraph (1) of this
+57 subsection, shall not:
+58 “(A) Begin earlier than 8:00 p.m. on any day, or extend past 6:00 a.m. of
+59 the following day;
+60 “(B) Remain in effect for more than 4 consecutive days, except as
+61 provided for in subsection (e) of this section; or
+3
+
+ENGROSSED ORIGINAL
+62 “(C) Apply to groups of 8 or fewer minors.
+63 “(3) In determining whether to designate an extended youth curfew zone, the
+64 Chief of Police shall consider the following:
+65 “(A) Within the preceding 30 days, the occurrence of:
+66 “(i) Youth curfew violations in the proposed extended youth
+67 curfew zone;
+68 “(ii) Police reports involving minors of disturbances of the
+69 public peace described in section 1 of An Act To confer concurrent jurisdiction on the
+70 police court of the District of Columbia in certain cases, approved July 16, 1912 (37 Stat.
+71 192; D.C. Official Code § 22-1301), sections 6, 3, 9, or 16 of An act for the preservation of
+72 the public peace and the protection of property within the District of Columbia, approved
+73 July 29, 1892 (27 Stat. 323; D.C. Official Code §§ 22-1307, 22-1309, 22-1312, or 22-1318),
+74 section 211 of the District of Columbia Law Enforcement Act of 1953, approved June 29,
+75 1953 (67 Stat. 98; D.C. Official Code § 22-1321), or section 901 of An Act relating to crime
+76 and criminal procedure in the District of Columbia, approved December 27, 1967 (81 Stat.
+77 742; D.C. Official Code § 22-1322), in the proposed extended youth curfew zone;
+78 “(iii) Police reports involving minors of dangerous crimes as
+79 that term is defined in D.C. Official Code § 23-1331(3) in the proposed extended youth
+80 curfew hours zone;
+4
+
+ENGROSSED ORIGINAL
+81 “(iv) Police reports involving minors of crimes of violence, as
+82 that term is defined in D.C. Official Code § 23-1331(4), in the proposed extended youth
+83 curfew hours zone; or
+84 “(v) Police reports involving minors of destruction of or
+85 damage to public or private property in the proposed extended youth curfew hours zone;
+86 “(B) Intelligence or verifiable information indicative of an intent of 9
+87 or more minors to gather in the proposed extended youth curfew zone in such a manner
+88 that is likely to result in substantial harm to the public safety, the safety of those gathering,
+89 or substantial damage to public or private property; and
+90 “(C) Any other verifiable information from which the Chief of Police
+91 may ascertain that public safety or public or private property in the proposed extended
+92 youth curfew zone is likely to be endangered by the presence of unaccompanied minors in
+93 the extended youth curfew zones.
+94 “(b) An order issued by the Mayor or the Chief of Police pursuant to subsection (a) of
+95 this section shall:
+96 “(1) State the basis for the designation of the extended youth curfew zone;
+97 “(2) State the boundaries of the extended youth curfew zone; and
+98 “(3) State the days and hours during which the extended youth curfew zone shall
+99 be in effect.
+5
+
+ENGROSSED ORIGINAL
+100 “(c) Except where emergency circumstances, as determined by the Mayor or the Chief of
+101 Police and described in the order issued under subsection (a) of this section, warrant otherwise,
+102 extended youth curfew zones imposed under this section shall not take effect until at least 24
+103 hours after the posting of the order pursuant to subsection (d) of this section.
+104 “(d) Notice of an order issued under this section shall be promptly posted on the main
+105 website of the District government and on the website of the Metropolitan Police Department. The
+106 Mayor or the Chief of Police shall ensure that conspicuous signs are posted in the immediate area
+107 of an extended youth curfew zone. Any notice, including digital notice and physical signage,
+108 shall include: Any digital notice shall include:
+109 “(1) The days and hours during which the extended youth curfew zone shall
+110 be in effect;
+111 “(2) The geographic boundaries of the extended youth curfew zone;
+112 “(3) A plain-language description of lawful activities that remain permitted
+113 for minors in the extended youth curfew zone; and
+114 “(4) The locations, days, times, and transportation options for alternative
+115 youth events required pursuant to section 3b.”.
+116 “(1) A plain-language description of lawful activities that remain permitted
+117 for minors in the extended youth curfew zone; and
+118 “(2) The locations, days, times, and transportation options for alternative
+119 youth events required pursuant to section 3b.”.
+6
+
+ENGROSSED ORIGINAL
+120 “(e) The Mayor or the Chief of Police may extend the time period during which an
+121 extended youth curfew zone imposed by this section shall remain in effect by issuing subsequent
+122 orders extending the time period; provided, that each such extension of the time period shall not
+123 exceed 30 days.
+124 “(f) If members of the Metropolitan Police Department discover minors in an extended
+125 youth curfew zone during the hours the extended curfew is in effect, the Metropolitan Police
+126 Department shall:
+127 “(1) Where there:
+128 “(A) Is not an imminent danger of bodily injury or significant damage to
+129 property, issue at least two clearly audible and understandable notices of violation of curfew
+130 prior to arrest of any minor for violation of the curfew; or
+131 “(B) Is imminent danger of bodily injury or significant damage to
+132 property, issue at least one clearly audible and understandable notice of violation of curfew prior
+133 to arrest of any minor for violation of the curfew;
+134 “(2) Provide minors with a reasonable and adequate time to disperse; and
+135 “(3) Capture on body-worn camera each component of the notice described in
+136 paragraph (1) of this subsection.
+137 “(f)(1) An Advisory Neighborhood Commission (ANC) may petition the Chief of Police
+138 to establish an extended youth curfew zone in an area within the bounds or jurisdiction of, or
+7
+
+ENGROSSED ORIGINAL
+139 adjacent to the area within the bounds of jurisdiction of, the ANC. Such petition shall be
+140 approved by a formal vote of the members of the ANC.
+141 “(2) A petition submitted pursuant to this subsection shall include the following
+142 information:
+143 “(A) The proposed boundaries of the extended youth curfew zone;
+144 “(B) The proposed hours of the extended youth curfew zone;
+145 “(C) The proposed duration, in days, of the extended youth curfew zone;
+146 “(D) The reasons why the ANC is requesting the designation of an
+147 extended youth curfew zone; and
+148 “(E) Such other information as the Chief of Police may require.
+149 “(3) The determination of whether to designate an extended youth curfew
+150 zone in response to the petition submitted pursuant to this section shall be at the sole
+151 discretion of the Chief of Police.”.
+152 “(3) Consideration of a petition submitted under this section and the
+153 determination of whether to designate an extended youth curfew zone in response to the
+154 petition shall be at the sole discretion of the Chief of Police.
+155 “(h) For purposes of enforcing a violation of curfew under this section, a police officer
+156 shall not stop, question, disperse, or transport a minor based solely on:
+157 “(1) Presence in a designated extended youth curfew zone prior to the beginning
+158 of curfew hours;
+8
+
+ENGROSSED ORIGINAL
+159 “(2) Presence in a group smaller than the threshold set forth in section
+160 3a(a)(2)(C); or
+161 “(3) Any other factor that, standing alone, does not constitute a violation of
+162 curfew under this act or any other law.”.
+163 “(i) Notwithstanding subsection (h) of this section, the Metropolitan Police
+164 Department may issue verbal warnings of the start of curfew hours to minors beginning
+165 not more than 30 minutes before the start of curfew hours.”
+166 “Sec. 3b. Positive youth programming during extended youth curfew zones.
+167 “(a) The Department of Parks and Recreation (“DPR”) or a community-based
+168 organization designated by the Mayor, which may be supported with grant funds provided by the
+169 District, shall host at least one evening event for minors for each period that an extended youth
+170 curfew zone is in effect.
+171 “(b) At the time of issuing an order to establish an extended youth curfew zone, the
+172 Mayor or the Chief of Police shall publicly announce the locations, days, and times of the
+173 concurrent events required under subsection (a) of this section.
+174 “(c) The Mayor or the Chief of Police shall coordinate with the Washington Metropolitan
+175 Area Transit Authority and District agencies, including DPR and the Office of Neighborhood
+176 Safety and Engagement, to support safe access for minors to and from events held pursuant to
+177 subsection (a) of this section, including through outreach to minors and on-the-ground presence.
+9
+
+ENGROSSED ORIGINAL
+178 “(d) DPR or the designated community-based organization shall make good faith efforts
+179 to incorporate input from youth in the planning and implementation of events required under
+180 subsection (a) of this section, including input on the location, hours, and types of activities
+181 offered. To meet this requirement, DPR or the designated community-based organization may:
+182 “(1) Conduct listening sessions, focus groups, or surveys with youth;
+183 “(2) Partner with youth-serving community-based organizations; or
+184 “(3) Establish short-term, compensated opportunities for youth to provide input
+185 on event design and programming.
+186 “(e) Notwithstanding section 4(a)(1), a minor shall not be deemed in violation of curfew
+187 hours while traveling directly to or from an event held pursuant to subsection (a) of this section;
+188 provided, that the minor does not engage in any detour or stop unrelated to such activity.”.
+189 Sec. 3. Applicability.
+190 (a) New section 3b within section 2(c) shall apply upon the date of inclusion of its fiscal
+191 effect in an approved budget and financial plan.
+192 (b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in
+193 an approved budget and financial plan and provide notice to the Budget Director of the Council
+194 of the certification.
+195 (c)(1) The Budget Director shall cause the notice of the certification to be published in
+196 the District of Columbia Register.
+10
+
+ENGROSSED ORIGINAL
+197 (2) The date of publication of the notice of the certification shall not affect the
+198 applicability of the provision identified in subsection (a) of this section.
+199 Sec. 4. Fiscal impact statement.
+200 The Council adopts the fiscal impact statement in the committee report as the fiscal
+201 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+202 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+203 Sec. 5. Effective date.
+204 This act shall take effect following approval by the Mayor (or in the event of veto by the
+205 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+206 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+207 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+11

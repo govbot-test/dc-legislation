@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+The John A. Wilson Building
+1350 Pennsylvania Avenue, NW
+Washington, D.C. 20004
+Christina Henderson Committee Member
+Councilmember, At-Large Human Services
+Chairperson, Committee on Health Facilities
+Transportation and the Environment
+Statement of Introduction
+Distribution of False Sexual Imagery Prohibition Amendment Act of 2025
+December 1, 2025
+Today, I am introducing the Distribution of False Sexual Imagery Prohibition Amendment Act of
+2025, along with Chairman Phil Mendelson and Councilmembers Brianne K. Nadeau, Matthew
+Frumin, Anita Bonds, Janeese Lewis George, and Charles Allen. This bill would establish new
+criminal penalties for the distribution of sexually explicit images, videos, and audio created
+through artificial intelligence (AI), directly addressing the emerging digital-age harm of creating
+and spreading non-consensual AI-generated sexual content depicting real individuals.
+Current District of Columbia law does not adequately protect residents against the dangers posed
+by distribution of false sexual imagery nor hold perpetrators accountable. D.C. Code §§ 22-
+3052-54 prohibit the unauthorized sharing of authentic sexual images, videos, and recordings.
+The statute does not directly address AI-generated depictions or manipulated images that were
+initially non-sexual but were edited to include nudity or sexual conduct. D.C. Code § 22-2201
+prohibits the distribution of obscene images and videos, but sexually explicit content is not
+necessarily obscene. Additionally, while D.C. Code § 7-2161 et seq. provides for civil remedies
+for the unauthorized disclosure of intimate images, I believe that disseminating both real and
+false sexual images is not only a matter of dispute between two parties, but also an offense
+against society, and that the District’s criminal laws should acknowledge the harms and dangers
+of such behavior.
+The federal government has already recognized the urgency of this issue. Congress recently
+passed, and the President signed, the Take it Down Act, establishing federal criminal penalties
+for the nonconsensual online publication of sexually explicit media, whether depicting real
+people or AI-generated. The Distribution of False Sexual Imagery Prohibition Amendment Act
+of 2025 would better align District of Columbia law with the federal standard and demonstrates
+the urgent need for comprehensive protections at all levels of government. I look forward to
+working with my colleagues to strengthen local safeguards for residents against these forms of
+digital abuse.
+
+1 ______________________________ ______________________________
+2 Chairman Phil Mendelson Councilmember Christina Henderson
+3
+4
+5 ______________________________ ______________________________
+6 Councilmember Brianne K. Nadeau Councilmember Matthew Frumin
+7
+8
+9 ______________________________ _______________________________
+10 Councilmember Anita Bonds Councilmember Janeese Lewis George
+11
+12
+13 ______________________________
+14 Councilmember Charles Allen
+15
+16
+17
+18 A BILL
+19
+20 __________
+21
+22
+23 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+24
+25 _________________________
+26
+27 To amend the Criminalization of Non-Consensual Pornography Act of 2014 to create a new
+28 misdemeanor criminal offense and a new felony criminal offense for nonconsensual
+29 distribution of sexually explicit images, video, or audio of an individual created or altered
+30 through use of digital technology, including by the use of artificial intelligence methods.
+31
+32 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+33 act may be cited as the “Distribution of False Sexual Imagery Prohibition Amendment Act of
+34 2025.”.
+35 Sec. 2. The Criminalization of Non-Consensual Pornography Act of 2014, effective May
+36 7, 2015 (D.C. Law 20-275; D.C. Official Code § 22-3051 et seq.), is amended as follows:
+37 (a) Section 2 (D.C. Official Code § 22-3051) is amended by adding new paragraphs (1A)
+38 and (1B) to read as follows:
+1
+
+39 “(1A) “Distribute” means granting another person the ability to exercise dominion
+40 and control over the image.
+41 “(1B) “False sexual image” means a sexual image or audio recording created or
+42 altered through the use of digital technology that a reasonable person would believe it depicts
+43 speech or conduct of the person depicted and the production of which was substantially
+44 dependent upon technical means, rather than the ability of another person to physically or
+45 verbally impersonate such individual.”.
+46 (b) A new section 5a is added to read as follows:
+47 “Sec. 5a. Unlawful distribution of false sexual imagery.
+48 “(a)(1) First-degree unlawful distribution of false sexual imagery — It shall be unlawful
+49 in the District of Columbia for a person to knowingly distribute or disclose one or more false
+50 sexual images of another identified or identifiable person when, in addition to satisfying the
+51 elements described in subsection (b)(1) of this section, the person commits the violation:
+52 “(A) Within 5 years of one or more prior convictions of unlawful
+53 distribution of false sexual imagery under this section;
+54 “(B) With the intent to cause violence or bodily harm; or
+55 “(C) Is reckless as to the fact that the person depicted is:
+56 “(i) Under 16 years of age and the defendant is at least 4 years
+57 older than the person depicted; or
+58 “(ii) Under 18 years of age and the defendant is at least 4 years
+59 older than the complainant and in a position of trust with or authority over the person depicted.
+60 “(2) A person who violates this subsection shall be guilty of a felony and, upon
+61 conviction, shall be fined not more than the amount set forth in section 101 of the Criminal Fine
+2
+
+62 Proportionality Amendment Act of 2012, effective June 11, 2013 (D.C. Law 19-317; D.C.
+63 Official Code § 22-3571.01), imprisoned for not more than 2 years, or both.
+64 “(b)(1) Second-degree unlawful distribution of false sexual imagery — It shall be
+65 unlawful in the District of Columbia for a person to knowingly distribute or disclose one or more
+66 false sexual images of another identified or identifiable person when:
+67 “(A) It is to a person other than the person depicted, including making the
+68 image accessible on the internet to a person other than the person being depicted;
+69 “(B) The person depicted did not consent to the disclosure or distribution
+70 of the false sexual image; and
+71 “(C) The person discloses or distributed the false sexual image with the
+72 intent to;
+73 “(i) Alarm, sexually abuse, humiliate, harass, or degrade the person
+74 depicted;
+75 “(ii) Sexually arouse or gratify a person; or
+76 “(iii) Receive financial gain as a result of the distribution or
+77 display.
+78 “(2) A person who violates this subsection shall guilty of a misdemeanor and,
+79 upon conviction, shall be fined not more than the amount set forth in section 101 of the Criminal
+80 Fine Proportionality Amendment Act of 2012, effective June 11, 2013 (D.C. Law 19-317; D.C.
+81 Official Code § 22- 3571.01), imprisoned for not more than 180 days in jail, or both.”.
+82 (c) Section 6 (D.C. Official Code § 22-3055) is amended by adding a new subsection (c)
+83 to read as follows:
+84 “(c) A person is not guilty of unlawful distribution of false sexual imagery under section
+3
+
+85 5a if the person is a licensee and engaged in activities regulated pursuant to the Communications
+86 Act of 1934, approved June 19, 1934 (48 Stat. 1064; 47 U.S.C. § 151 et seq.).”.
+87 (d) Section 7 (D.C. Official Code § 22-3056) is amended by striking the phrase “or 5 if”
+88 and inserting the phrase “5, or 5a if” in its place.
+89 Sec. 3. Fiscal impact statement.
+90 The Council adopts the fiscal impact statement in the committee report as the fiscal
+91 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+92 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+93 Sec. 5. Effective date.
+94 This act shall take effect following approval by the Mayor (or in the event of veto by the
+95 Mayor, action by the Council to override the veto) and a 60-day period of congressional review
+96 as provided in section 602(c)(2) of the District of Columbia Home Rule Act, approved December
+97 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(2)).
+4

@@ -1,0 +1,295 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+The John A. Wilson Building
+1350 Pennsylvania Avenue, NW
+Washington, D.C. 20004
+Christina Henderson Committee Member
+Councilmember, At-Large Human Services
+Chairperson, Committee on Health Facilities
+Transportation and the Environment
+Statement of Introduction
+Automatic Retirement Savings Act of 2025
+April 21, 2025
+Today, along with Councilmembers Charles Allen, Matthew Frumin, Brooke Pinto, Brianne K.
+Nadeau, and Robert C. White, Jr., I am introducing the Automatic Retirement Savings Act of
+2025. This measure was originally introduced in Council Period 25. This legislation would
+establish a Retirement Savings Board which would manage a universally available and voluntary
+Retirement Savings Program for employees of private businesses who are not offered a
+retirement plan through their workplace and for certain self-employed individuals. Employees
+would have 3% of their earnings automatically deducted from their wages to contribute to the
+program, unless they make an election to not contribute or to contribute a different amount. The
+program is designed to serve the employees of the small businesses who are unable to offer
+retirement savings accounts to employees due to the cost and administrative burden of
+maintaining them. These accounts would be portable if a participating employee changes jobs
+because the accounts would be managed by the District, not the employer.
+According to the Employee Benefit Research Institute, 68% of workers and 74% of retirees are
+confident they will have enough money to live comfortably throughout retirement.1 Over time, a
+decreasing share of the workforce has had access to an employer-sponsored retirement plan or a
+defined benefit pension, and defined contribution individual accounts rely on the employee’s
+initiative and offer lower savings and protections.2 Social Security’s benefits decline over time
+relative to increases in the cost of living. These issues are amplified for Black and Latino
+workers, whose wages and retirement savings have historically been depressed compared to
+those of white workers.3
+States like Maryland, California, Oregon, Illinois, and Connecticut have implemented automatic
+income retirement account savings programs, and the programs in those states have accumulated
+over $630 million in assets to date. A state-managed retirement program can increase
+participation from individuals who have historically lacked the structure and access to retirement
+savings programs that, over time, can build meaningful savings. Approximately 173,000
+employees in the District do not have access to a retirement savings account through their
+employer. That number will continue to grow as more small businesses establish themselves in
+the city. A savings plan facilitated by the District would help alleviate the barriers that prevent
+1 2024 Retirement Confidence Survey, EBRI, 2024.
+2 Retirement Insecurity 2021. National Institute on Retirement Security.
+3 How retirement saving incentives amplify wealth gaps in the U.S., MIT Management Sloan School, 2024.
+1
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+The John A. Wilson Building
+1350 Pennsylvania Avenue, NW
+Washington, D.C. 20004
+employees whose employers do not offer long-term retirement savings options from saving for
+their future retirement.
+A District-sponsored savings plan, funded by employees and managed by a Retirement Savings
+Board, is one response to the long-standing and increasingly urgent concerns about retiree’s
+financial security. Seniors today find Social Security alone insufficient to cover their costs.4 It is
+estimated that 50% of adults ages 50 and older have no retirement savings, and more than half
+(61%) are worried they will not have enough money to support them in retirement.5 As the cost
+of living increases over time, supplementing Social Security income with retirement savings will
+be crucial for workers to retire with dignity and financial security. Lack of adequate savings
+could force some retirees to try and re-enter the workforce or rely on family for support. This
+legislation will enable individuals to plan for their retirement and create a stronger, more resilient
+economy by having a source of income to help pay for living expenses and health care, among
+other things.
+I look forward to working with my colleagues to advance this bill and work together to ensure
+that every District resident can plan for a more secure financial future.
+4 Social Security benefits increased by 2.5% in 2025. Why retirees may feel it’s not enough, CNBC, 2025.
+5 New AARP Survey, AARP Press Room, 2024.
+2
+
+1 _______________________________ _______________________________
+2 Councilmember Matthew Frumin Councilmember Christina Henderson
+3
+4
+5 _______________________________ _______________________________
+6 Councilmember Charles Allen Councilmember Brianne K. Nadeau
+7
+8
+9 _______________________________ _______________________________
+10 Councilmember Brooke Pinto Councilmember Robert C. White, Jr.
+11
+12
+13
+14
+15 A BILL
+16
+17 _______________
+18
+19 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+20
+21 _______________________
+22
+23 To establish a Retirement Savings Board, and to establish a universally available and voluntary
+24 Retirement Savings Program for employees of private entities and certain self-employed
+25 individuals who are not offered a retirement plan through their workplace.
+26
+27 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act
+28 may be cited as the “Automatic Retirement Savings Act of 2025”.
+29 Sec. 2. Definitions.
+30 For the purposes of this act, the term:
+31 (1) “Board” means the Retirement Savings Board established pursuant to section 3.
+32 (2) “Covered employee” shall mean an individual who is 18 years of age or older,
+33 who is employed by a covered employer in the District or self- employed, and is not an employee
+34 of the federal government, the District government or any independent agency or instrumentality of
+35 the District government, or any employer that maintains an employee sponsored retirement plan.
+
+36 (3) “Employer” or “covered employer” shall have the same meaning as in section 2
+37 of An Act To provide for the payment and collection of wages in the District of Columbia,
+38 approved August 3, 1956 (70 Stat. 976; D.C. Official Code § 32-1302) and shall conform with the
+39 following;
+40 (A) Who is headquartered in the District;
+41 (B) Employs no fewer than 5 covered employees;
+42 (C) Has employed no fewer than 5 such employees without interruption for
+43 the previous calendar year;
+44 (D) Has been in continuous operation for at least 2 years; and
+45 (E) Has not offered or maintained a retirement plan in the preceding 2 years.
+46 (5) “Participant” means a covered employee enrolled in the retirement savings
+47 program.
+48 (6) “Retirement plan” means;
+49 (A) A qualified retirement plan under section 401(a) of the Internal Revenue
+50 Code, section 403(b), section 408(k), or section 408(p) of the Internal Revenue Code (I.R.C. §§
+51 401 (a), 403(b), 408 (k), 408 (p)); or
+52 (B) A savings incentive match plan for employees of small employers, a
+53 simplified employee pension, a salary reduction simplified employee pension, or a payroll
+54 deduction IRA.
+55 (7) “Program” mean the Retirement Savings Program established pursuant to section
+56 4.
+57 Sec. 3. Establishment of the Retirement Savings Board.
+2
+
+58 (a) There is established, as an independent agency of the government of the District of
+59 Columbia, a board of trustees to be known as the Retirement Savings Board (“Board”), which shall
+60 have exclusive authority and discretion (subject to the requirements of this act) to manage, administer,
+61 implement, and control the Program established by this act.
+62 (b) The Board shall consist of the following 7 members:
+63 (1) The Chief Financial Officer or their designee;
+64 (2) The Commissioner of the Department of Insurance, Securities and Banking or
+65 their designee;
+66 (3) The Director of the Department of Small and Local Business Development or
+67 their designee;
+68 (4) The Executive Director of the Workforce Investment Council or their designee;
+69 and
+70 (5) Three public members appointed by the Mayor as follows:
+71 (A) One public member who owns a business in the District; and
+72 (B) Two public members with experience in providing financial advice or
+73 assistance to lower- to moderate-income workers or retirees.
+74 (c) A public member’s initial term shall be for 4 years.
+75 (d) A vacancy on the Board shall be filled in the same manner that the original appointment
+76 was made. Any person appointed to fill a vacancy shall serve for the unexpired term of the original
+77 appointment.
+78 (e) No member of the Board shall be appointed to serve more than 2 consecutive 4-year
+79 terms of office.
+80 (f) The chairperson of the Board shall be selected from among the public members.
+3
+
+81 (g) Each member of the Board shall have one vote. The powers of the Board shall be
+82 exercised by a majority of members present at a meeting of the Board, whether in person or
+83 remotely. Four members shall constitute the necessary quorum to convene a meeting of the Board
+84 and to act on any measure before it.
+85 (h) The Board shall meet at a minimum of 4 times annually.
+86 (i) The chairperson or the Chief Financial Officer is authorized to call and set the agenda for
+87 special meetings of the Board.
+88 (j) Subject to applicable federal and District law, the Board, in consultation with the Office of
+89 Tax and Revenue, shall establish, design, develop, implement, maintain, and oversee the Program in
+90 accordance with best practices for retirement saving vehicles. The Board shall have power to adopt
+91 reasonable and proper rules and regulations necessary to implement the provisions of this chapter.
+92 (k) The Board shall, through employer and employee outreach, marketing or education
+93 initiatives, or publication of online resources, encourage participation, retirement saving, and sound
+94 investment practices.
+95 (l) The Board shall provide or make available information regarding the Program, including its
+96 applicability and registration requirements, with emphasis on participation eligibility and the ability of
+97 employers at any time to sponsor a specified tax-favored retirement plan that would exempt them
+98 from covered employer status.
+99 Sec. 4. Retirement Savings Program.
+100 (a) There is established the Retirement Savings Program (“Program”), which shall be designed
+101 and operated by the Board in a manner that will cause it not to constitute an employee benefit plan
+102 with the meaning of section 3(3) of the Employee Retirement Income Security Act of 1974, approved
+103 September 2, 1974 (88 Stat. 832; 29 U.S.C. § 1001a(3)).
+4
+
+104 (b) The Program shall have such features as the Board in its discretion may adopt, subject to
+105 applicable federal law, and shall:
+106 (1) Provide each participant with an account within the Program, to which covered
+107 employers shall remit the participant employee’s contributions within 30 days of the end of the month
+108 in which the participant would have otherwise received the contributions in cash;
+109 (2) Allow covered employees to open a retirement savings account established under
+110 the Program through payroll deduction or any other method of contribution established by the Board;
+111 (3) Require all participating employers to offer covered employees the opportunity to
+112 contribute to accounts established by the Program through payroll deduction or any other method of
+113 contribution established by the Board;
+114 (4) Provide for the automatic enrollment of covered employees and allow such
+115 employees to opt out of the Program;
+116 (5) Set a default contribution rate of 3 percent of a covered employee’s wages, subject
+117 to any increase or decrease of such a rate authorized by the Board;
+118 (6) Permit a participant to change their contribution rate to be a percent of their wages
+119 or a lump sum, which the individual may later change;
+120 (7) Include a process for withdrawals by, and disbursement to, participants and provide
+121 options for such withdrawals and disbursements, including lump-sum or periodic payments;
+122 (8) Take measures to protect the confidentiality of account and participant information;
+123 (9) Maintain separate records and accounting for each account;
+124 (10) Report on the status of accounts to participants no less than once per year or upon
+125 request by the participant;
+5
+
+126 (11) Allow participants who have become ineligible to participate in the Program to
+127 maintain or withdraw account balances or roll over such balances into other retirement accounts,
+128 subject to federal law;
+129 (12) Allow participants to terminate participation in the Program and maintain or
+130 withdraw account balances or roll over such balances into other retirement accounts, subject to federal
+131 law; and
+132 (13) Allocate administrative fees to the retirement savings accounts in the Program.
+133 Sec. 5. Participating employer obligations.
+134 (a) A covered employer shall enroll each of its covered employees in the Program by a date
+135 to be determined by the Board, provided that, the covered employee provide notice that they do not
+136 wish to participate in the program.
+137 (b) A participating employer shall remit funds deducted from the earnings of each
+138 participant for deposit in the retirement savings program within 30 days of the end of the month in
+139 which the employee would have otherwise received the contributions in cash.
+140 Sec. 6. Information and disclaimers to covered employees and participants.
+141 (a) In addition to any other information or disclaimers that the Board deems appropriate, the
+142 Board shall make available to covered employees and covered employers the following information
+143 in plain language:
+144 (1) The benefits and risks associated with enrolling in the Program;
+145 (2) Procedures regarding contributing to the Program and opting out;
+146 (3) Procedures regarding increasing or decreasing the rate or amount of contribution;
+147 (4) Options and processes for withdrawing account balances;
+148 (5) Procedures regarding obtaining additional information about the Program;
+6
+
+149 (6) Procedures regarding filing complaints about non-compliance by covered
+150 employers or other concerns about the Program;
+151 (7) Information regarding the ability of covered employees and participants to seek
+152 financial advice concerning retirement savings from financial advisers, tax advisers or other
+153 qualified individuals;
+154 (8) Fund profiles, including fees, for each of the available investment options; and
+155 (9) The following disclaimers:
+156 (A) Participating employers, the Board and its members, the Office of Tax
+157 and Revenue, or the District government are not authorized to provide financial advice;
+158 (B) The Program is not an employee benefit plan under the Employee
+159 Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 832; 29 U.S.C. §
+160 1001 et seq.);
+161 (C) Participating employers, the Board and its members, the Office of Tax
+162 and Revenue, and the District government are not liable for any loss incurred by a participant from
+163 investing in the Program;
+164 (D) Participating employers, the Board and its members, the Office of Tax
+165 and Revenue, or the District government will not monitor and are not obligated to monitor a
+166 participant employee’s eligibility under federal law to make contributions to an IRA; and
+167 (E) Neither the program, the principal investments, any return on investment
+168 nor any interest rate is guaranteed by the Program.
+169 Sec. 7. Participating employer record retention.
+170 Each participating employer shall retain annual records documenting such employer’s
+171 compliance with the requirements of this act for a period of 3 years.
+7
+
+172 Sec. 8. Compliance.
+173 (a) The Board shall have exclusive authority to ensure compliance with and enforce this act or
+174 any regulation promulgated under this act.
+175 (b) The Board shall establish a process for the submission of covered employee and participant
+176 complaints concerning a covered employer’s alleged failure to comply with the provisions of this act.
+177 All complaints concerning a covered employer’s compliance with this act received by any other
+178 District agency shall be referred to the Board. The Board may, with or without a complaint, monitor
+179 the status of covered employers’ compliance with this act, including through review of available data
+180 and documents.
+181 (c) If the Board determines that a covered employer is not in compliance with the provisions of
+182 this act, the Board shall issue a notice to the employer outlining the nature and extent of the alleged
+183 noncompliance, provide instructions for compliance, and specify the potential administrative penalties
+184 for noncompliance.
+185 (d) If the employer does not come into compliance within 90 days of the date the notice was
+186 issued, the Board, in its discretion, may initiate enforcement proceedings; except, that the Board shall
+187 not initiate enforcement proceedings against a covered employer until one year after the effective date
+188 of this act.
+189 (e) The Board may, in a final order, impose administrative penalties against a covered
+190 employer who fails to comply with this chapter, or any regulation promulgated under this chapter,
+191 which shall not exceed $250 per employee per year, up to a maximum total penalty of $5,000 per
+192 year.
+193 (f) The Board’s decision may be appealed by the covered employer within 15 days of the
+194 issuance of the decision.
+8
+
+195 (g) The Board shall respond to the appeal within 15 days of receiving the appeal.
+196 Sec. 9. Fiscal impact statement.
+197 The Council adopts the fiscal impact statement in the committee report as the fiscal impact
+198 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+199 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+200 Sec. 10. Effective date.
+201 This act shall take effect after approval by the Mayor (or in the event of veto by the Mayor,
+202 action by the Council to override the veto) and a 30-day period of congressional review as provided
+203 in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87
+204 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+9

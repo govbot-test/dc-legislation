@@ -1,0 +1,191 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+February 28, 2025
+Nyasha Smith, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, NW
+Washington, D.C. 20004
+Dear Secretary Smith,
+On the heels of the observance of National Black HIV Awareness Day on February 8, 2025, I am
+introducing the “PrEP DC Act of 2025”. Please see enclosed signed copy of the legislation,
+which is co-introduced by Councilmembers Brianne K. Nadeau, Charles Allen, Janeese Lewis
+George, Anita Bonds, Christina Henderson, Robert C. White, Jr., Brooke Pinto, and Wendell
+Felder.
+This legislation is designed to aid in the District’s work to reduce HIV infections by creating
+more equitable and affordable access to HIV prevention treatment in three ways, by:
+• prohibiting health benefit plans and health insurers from using prescription information
+as a condition of eligibility or in premium rates,
+• prohibiting insurers from restricting or imposing setting delays in the distribution of
+antiretroviral prescription drugs prescribed to a person for the treatment or prevention of
+the human immunodeficiency virus (HIV) or acquired immunodeficiency syndrome
+(AIDS), and
+• prohibiting health insurers from imposing a deductible, coinsurance, copayment, or other
+cost-sharing requirement for pre-exposure prophylaxis (PrEP) or post-exposure
+prophylaxis (PEP) to prevent HIV and AIDS infection.
+By creating these safeguards, we will reduce stigma and discrimination against individuals
+accessing PrEP or any other form of HIV prevention treatment. This is significant for the
+LGBTQ community, but is also an important tool for keeping our DC residents healthy.
+According to the 2024 Annual Epidemiology & Surveillance Report from DC Health,
+approximately 11,670 current residents of the District, or 1.7% of the population, are living with
+
+HIV, with some of the highest concentrations of these residents in Wards 5, 7, and 8.1 Young
+people aged 18-24 represented 22% of newly diagnosed HIV infections in 2023, a 4% increase
+from 2022.2
+HIV prevention treatments like PrEP have been shown to decrease the spread of HIV, and DC
+Health reported that in 2023, there were just 192 new HIV cases, which is the lowest annual total
+since the 1990s.3 This legislation will serve as another critical tool to help combat the spread of
+HIV. HIV prevention initiatives through DC Health’s HIV/AIDS, Hepatitis, STD and TB
+Administration (HAHSTA) include the Pre Exposure Prophylaxis Drug Assistance Program
+(PREP DAP), which pays the monthly co-pay and deductibles for eligible insured and uninsured
+HIV negative residents in the DC metropolitan area who are at high risk of HIV infection and are
+prescribed Truvada as PrEP. For questions about this program, you can call (202) 671-4815.
+Please feel free to reach out to me or my Legislative Director, Neferteria Brown, with any
+questions or for additional information. She can be reached at nbrown@dccouncil.gov or by
+phone at (771) 333-9734.
+Sincerely,
+Zachary Parker
+Ward 5 Councilmember
+Chair, Committee on Youth Affairs
+1 Annual Epidemiology & Surveillance Report: Data Through December 2023. District of Columbia
+Department of Health, HIV/AIDS, Hepatitis, STI, & TB Administration 2024. Accessed February 28, 2025, at
+https://dchealth.dc.gov/service/hiv-reports-and-publications
+2 Id.
+3 Id.
+
+1
+2 _____________________________ _______________________________
+3 Councilmember Brianne K. Nadeau Councilmember Zachary Parker
+4
+5
+6
+7 _____________________________ _______________________________
+8 Councilmember Charles Allen Councilmember Janeese Lewis George
+9
+10
+11
+12 _____________________________ ______________________________
+13 Councilmember Anita Bonds Councilmember Christina Henderson
+14
+15
+16
+17 _____________________________ _______________________________
+18 Councilmember Robert C. White, Jr. Councilmember Brooke Pinto
+19
+20
+21
+22 _____________________________
+23 Councilmember Wendell Felder
+24
+25
+26
+27 A BILL
+28
+29 _________________________
+30
+31 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+32
+33 _________________________
+34
+35
+36 To prohibit health benefit plans and health insurers from using prescription information as a
+37 condition of eligibility or in setting premium rates, to prohibit insurers from restricting or
+38 imposing delays in the distribution of antiretroviral prescription drugs prescribed to a
+39 person for the treatment or prevention of the human immunodeficiency virus (HIV) or
+40 acquired immunodeficiency syndrome (AIDS), and to prohibit health insurers from
+41 imposing a deductible, coinsurance, copayment, or other cost-sharing requirement for
+42 PrEP or PEP to prevent HIV and AIDS infection.
+43
+
+44 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may
+45 be cited as the “PrEP DC Act of 2025”.
+46 Sec. 2. For the purposes of this act, the term:
+47 (1) “AIDS” means acquired immune deficiency syndrome.
+48 (2) “Baseline Assessment” means any testing, as recommended by the U.S.
+49 Centers for Disease Control and Prevention, to be completed before prescribing an HIV
+50 prevention medication. This testing includes, but is not limited to, the following: screening tests
+51 for chlamydia, gonorrhea, and syphilis; kidney function assessments; hepatitis B virus serology,
+52 and lipid profiles.
+53 (3) “Commissioner” means the Commissioner of the Department of Insurance and
+54 Securities Regulation.
+55 (4) “Group health plan” means an employee welfare plan (as defined in section
+56 3(1) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88
+57 Stat. 829; 29 U.S.C. § 1002(1)), to the extent that the plan provides medical care and includes
+58 items and services paid for as medical care to employees or their dependents (as defined under
+59 the terms of the plan) directly or through insurance, reimbursement, or otherwise.
+60 (5) “Health benefit plan” means any accident and health insurance policy or
+61 certificate, hospital and medical services corporation contract, health maintenance organization
+62 subscriber contract, plan provided by a multiple employer welfare arrangement, or plan provided
+63 by another benefit arrangement. The term “health benefit plan” does not mean accident only,
+64 credit, or disability insurance; coverage of Medicare services or federal employee health plans,
+65 pursuant to contracts with the United States government; Medicare supplemental or long-term
+66 care insurance; dental only or vision only insurance; specified disease insurance; hospital
+
+67 confinement indemnity coverage; limited benefit health coverage; coverage issued as a
+68 supplement to liability insurance, insurance arising out of a workers’ compensation or similar
+69 law; automobile medical payment insurance; medical expense and loss of income benefits; or
+70 insurance under which benefits are payable with or without regard to fault and that is statutorily
+71 required to be contained in any liability insurance policy or equivalent self-insurance.
+72 (6) “Health insurer” means any person that provides one or more health benefit
+73 plans or insurance in the District of Columbia, including an insurer, a hospital and medical
+74 services corporation, a fraternal benefit society, a health maintenance organization, a multiple
+75 employer welfare arrangement, or any other person providing a plan of health insurance subject
+76 to the authority of the Commissioner.
+77 (7) “HIV” means the human immunodeficiency virus.
+78 (8) “HIV prevention treatment” means any medical treatment, including PrEP and
+79 PEP, that is used to aid in HIV and AIDS prevention.
+80 (9) “Individual health plan” means a plan offering health insurance coverage
+81 offered to individuals other than in connection with a group health plan.
+82 (10) “PrEP” means pre-exposure prophylaxis, an antiretroviral medication used to
+83 prevent HIV in a person without HIV.
+84 (11) “PEP” means post-exposure prophylaxis, an antiretroviral medication(s) used
+85 to prevent HIV in a person without HIV who may have been recently exposed to HIV.
+86 Sec. 4. Coverage for HIV Prevention Treatment.
+87 (a) Each individual health plan, group health plan, or health benefit plan issued or
+88 renewed in the District of Columbia shall provide coverage for HIV prevention treatment,
+89 including PrEP and PEP, and any baseline assessments required, in accordance with the latest
+
+90 HIV prevention guidelines promulgated by the U.S. Centers for Disease Control and Prevention.
+91 (b) The coverage provided under this section shall not be more restrictive than or separate
+92 from coverage provided from any other illness, condition, or disorder for purposes of
+93 determining deductibles, benefit year or lifetime durational limits, benefit year or lifetime dollar
+94 limits, lifetime episodes or treatment limits, copayment and coinsurance factors, and benefit year
+95 maximum for deductibles and copayments and coinsurance factors.
+96 (c) No individual health plan, group health plan, or health benefit plan covered under this
+97 section shall be allowed to use prescription information indicating HIV prevention treatment as a
+98 condition of eligibility or in setting premium rates.
+99 (d) No individual health plan, group health plan, or health benefit plan covered under this
+100 section shall impose any medically unnecessary restrictions or delays on the coverage required
+101 by this section.
+102 (e) A health insurer shall not impose on an individual receiving benefits pursuant to this
+103 section, to include HIV prevention treatment and any baseline assessments, any deductible,
+104 coinsurance, copayment, or other cost-sharing requirement, except to the extent that coverage
+105 without cost-sharing would disqualify the individual from a high deductible health benefit plan,
+106 as defined in 26 U.S.C. § 223(c)(2)), from eligibility for a health savings account pursuant to 26
+107 U.S.C. § 223.
+108 (f) Coverage for services under this section shall be provided without discrimination on
+109 the basis of age, ancestry, disability, domestic partner status, gender, gender expression, gender
+110 identity, genetic information, marital status, national origin, race, religion, sex, or sexual
+111 orientation.
+112 Sec. 5. Applicability.
+
+113 This chapter shall apply to all individual and group health benefits plans issued or
+114 renewed on or after 120 days after January 1, 2026.
+115 Sec. 6. Regulations.
+116 The Commissioner may issue rules and regulations necessary to implement the
+117 provisions of this Act.
+118 Sec. 7. Fiscal impact statement.
+119 The Council adopts the fiscal impact statement in the committee report as the fiscal
+120 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+121 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+122 Sec. 8. Effective date.
+123 This act shall take effect after approval by the Mayor (or in the event of veto by the
+124 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+125 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+126 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+127 Columbia Register.

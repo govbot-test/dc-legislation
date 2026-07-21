@@ -1,0 +1,123 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+The John A. Wilson Building
+1350 Pennsylvania Avenue, NW
+Washington, D.C. 20004
+Christina Henderson Committee Member
+Councilmember, At-Large Human Services
+Chairperson, Committee on Health Facilities
+Transportation and the Environment
+Statement of Introduction
+Proficient Procurement Amendment Act of 2025
+June 11, 2025
+I am proud to introduce the Proficient Procurement Amendment Act of 2025 along with
+Councilmember Matthew Frumin. This legislation would exempt District government
+procurements of vehicles and technology from certified business enterprise (CBE) requirements
+in the Small and Certified Business Enterprise Development and Assistance Act of 2005.
+Current law requires District agencies to award at least 35% of the dollar value of all non-
+construction contracts for government-assisted projects in excess of $250,000 to CBEs, reserve
+contracts under a certain value exclusively for CBEs, and meet strict subcontracting
+requirements for non-CBE prime contractors, including penalties for noncompliance. In limited
+scenarios, the Department of Small and Local Business Development (DSLBD) can approve
+waivers from CBE procurement requirements on a case-by-case basis, and frequently, if not
+always, approves waivers for vehicle or fleet procurements. However, without a waiver, agencies
+must navigate a complex system of CBEs and subcontractors, whose industry-based expertise in
+the highly regulated vehicle or technology markets is not guaranteed. This adds cost, delays
+delivery, and can diminish or void the value of warranties, insurance plans, or useful protections.
+Functionally, the current law creates local intermediaries that often force the District to forgo
+essential benefits that would otherwise be included with direct purchases of specialized goods,
+such as manufacturer’s warranties, guaranteed product replacement agreements, and low or no-
+cost repairs. When a District government agency purchases technology from an intermediary
+CBE, those warranties and agreements do not transfer to the District agency or employee using
+the technology product. I question the practicality and administrative efficiency of the status quo.
+This legislation addresses key operational and logistical issues related to CBE mandated
+procurement by exempting government agencies from CBE procurement requirements when
+purchasing vehicles or technology if:
+• There is insufficient market capacity for the vehicle(s) or technology sought;
+• Goods are not reasonably available through a certified business enterprise at a
+comparable price, performance level, or delivery timeline;
+• An agency would forgo a reasonable benefit attainable only through the purchase of the
+vehicle(s) or technology directly from the manufacturers, vendors, or suppliers; or
+• An exemption is necessary to meet an operational, local, or federal compliance
+requirement.
+
+This legislation also maintains transparency and accountability by requiring agencies to report
+exempt vehicle and technology purchases in their annual procurement reports and file them with
+the Office of Contracting and Procurement (OCP) or the Council.
+Ultimately, this legislation aims maintain responsible stewardship of taxpayer dollars and
+government efficiency while ensuring that agencies have access to the tools and services
+necessary to effectively serve District residents. I look forward to working with my colleagues
+on the Council to pass this legislation.
+
+1 ______________________________ ______________________________
+2 Councilmember Matthew Frumin Councilmember Christina Henderson
+3
+4
+5
+6
+7 A BILL
+8
+9 _______________
+10
+11
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+13
+14 _______________________
+15
+16 To amend the Small and Certified Business Enterprise Development and Assistance Act of 2005
+17 to exempt agency procurements of motor vehicles and technology from the requirements
+18 of the act.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the “Proficient Procurement Amendment Act of 2025”.
+22 Sec. 2. The Small and Certified Business Enterprise Development and Assistance Act of
+23 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.01 et seq.), is
+24 amended by adding a new section 2356 to read as follows:
+25 “Sec. 2356. Procurement exemption for vehicle and technology purchases.
+26 “(a) Notwithstanding any other provision of this act, an agency is excused from the
+27 certified business enterprise and small business enterprise requirements to procure vehicles or
+28 technology, if:
+29 “(1) There is insufficient market capacity for the vehicle or technology sought,
+30 such that the goods are not reasonably available through a certified business enterprise at a
+31 comparable price, performance level, or delivery timeline;
+
+32 “(2) Through procurement from a certified business enterprise, an agency would
+33 forgo a reasonable benefit attainable only through the purchase of the vehicle or technology
+34 directly from the manufacturer, vendor, or supplier; or
+35 “(3) The procurement is necessary to meet an operational, local, or federal
+36 compliance requirement.
+37 “(b) An agency subject to the PPRA shall maintain accurate records of all procurements
+38 exempted by this section and include a report of such records in their annual procurement
+39 accountability filings to the Office of Contracting and Procurement.
+40 “(c) An agency exempt from the PPRA shall maintain accurate record of all
+41 procurements exempted by this section and submit such records to the Council by December 31
+42 of each year, aggregated by:
+43 “(1) Procurements under $250,000; and
+44 “(2) Procurements exceeding $250,000.
+45 “(d) For the purposes of this section, the terms:
+46 “(1) Agency” means a department, office, board, commission, authority, or other
+47 instrumentality of the District government.
+48 “(2) “Technology” means computer and communication technology products,
+49 services, or tools, including, the Internet and other communications networks, cellular devices,
+50 software applications, data systems and storage, and other electronic content.
+51 “(3) “PPRA” means Procurement Practices Reform Act of 2010, effective April 8,
+52 2011 (D.C. Law 18-371; D.C. Official Code § 2-351.01 et seq.).
+53 “(4) “Vehicle” means an automobile or motorcycle classified for on-highway
+54 operation, electric vehicles, hybrid vehicles, or other alternative-fuel fleet vehicles.”.
+
+55 Sec. 3. Fiscal impact statement.
+56 The Council adopts the fiscal impact statement in the committee report as the fiscal
+57 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+58 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+59 Sec. 4. Effective date.
+60 This act shall take effect following approval by the Mayor (or in the event of veto by the
+61 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+62 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+63 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).

@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1
+2 A BILL
+3
+4 26-429
+5
+6 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+7
+8 _________________________
+9
+10
+11 To amend the District of Columbia Rental Housing Act of 1985 to clarify that any rental unit
+12 participating in the Low Income Housing Tax Credit program are exempt from the Rent
+13 Stabilization Program.
+14
+15 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+16 act may be cited as the “LIHTC Rent Stabilization Exemption Clarification Amendment Act of
+17 2025”.
+18 Sec. 2. Section 205(a)(1) of the District of Columbia Rental Housing Act of 1985, effective
+19 July 17, 1985, (D.C. Law 6-10; D.C. Official Code §42-3502.05(a)(1)), is amended by striking the
+20 phrase “as defined in section 206(f)(2)(A);” and inserting the phrase “as defined in section
+21 206(f)(2)(A), or any rental unit for which the housing provider receives tax credits pursuant to the
+22 Low Income Housing Tax Credit Program as defined by section 2(5) of the Low-Income Housing
+23 Tax Credit Fund Act of 2004, effective April 8, 2005, (D.C. Law 15-299; D.C. Official Code § 42-
+24 2853.01(5));” in its place.
+25 Sec 3. Applicability
+26 Section 2 shall apply as of July 17th, 1985.
+1
+
+ENGROSSED ORIGINAL
+27 Sec. 4. Fiscal impact statement.
+28 The Council adopts the fiscal impact statement in the committee report as the fiscal impact
+29 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+30 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+31 Sec. 5. Effective date.
+32 This act shall take effect following approval by the Mayor (or in the event of veto by the
+33 Mayor, action by the Council to override the veto) and a 30-day period of congressional review as
+34 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24,
+35 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+2

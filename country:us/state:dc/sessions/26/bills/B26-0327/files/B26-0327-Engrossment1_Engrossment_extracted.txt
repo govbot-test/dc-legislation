@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3
+4 26-327
+5
+6
+7 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+8
+9 ___________________________
+10
+11 To amend the method for calculating individual school budgets within the District of Columbia
+12 Public Schools System by adding average position cost as a factor.
+13
+14 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+15 act may be cited as the “Schools First Amendment Act of 2026”.
+16 Sec. 2. The Schools First in Budgeting Amendment Act of 2022, effective March 10,
+17 2023 (D.C Law 24-300; D.C. Official Code § 38-2851.01 et seq.), is amended as follows:
+18 (a) Section 102 (D.C. Official Code § 38-2851.01) is amended as follows:
+19 (1) Paragraph (1A) is redesignated as paragraph (1B)
+20 (2) A new paragraph (1A) is added to read as follows:
+21 “(1A) “Average position cost” means the cost, including salary and benefits, of a
+22 school-based educator that DCPS uses to calculate each school’s annual budget for the next
+23 fiscal year.”.
+24 (b) Section 104(a) (D.C. Official Code § 38-2851.03(a)), is amended as follows:
+25 (1) Paragraph (2) is amended as follows:
+26 (A) Subparagraph (A) is amended by striking the phrase “; or” and
+1
+
+ENGROSSED ORIGINAL
+27 inserting a semicolon in its place.
+28 (B) Subparagraph (B) is amended by striking the period and inserting the
+29 phrase “; or” in its place.
+30 (C) A new subparagraph (C) is added to read as follows:
+31 “(C) The projected increase in the average position cost.”.
+32 (2) Subparagraph (6)(B) is amended by striking the phrase “instructional or
+33 school-based support personnel” and inserting the phrase “instructional personnel” in its place.
+34 (3) A new paragraph (7A) is added to read as follows:
+35 “(7A) As applicable, decrease the amount derived pursuant to paragraph (7) of
+36 this subsection to account for the reduction of instructional or school-based support personnel
+37 resulting from the elimination of a grade level due to a school or campus closure over multiple
+38 years.”.
+39 (4) Paragraph (8) is amended by striking the phrase “paragraph (7)” and inserting
+40 the phrase “paragraph (7A)” in its place.
+41 (5) Paragraph (9) is amended by striking the phrase “paragraph (7)” and inserting
+42 the phrase “paragraph (8)” in its place.
+43 Sec. 3. Fiscal impact statement.
+44 The Council adopts the fiscal impact statement in the committee report as the fiscal
+45 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+46 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code§ 1-301.47a).
+2
+
+ENGROSSED ORIGINAL
+47 Sec. 4. Effective date.
+48 This act shall take effect following approval by the Mayor (or in the event of veto by the
+49 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+50 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+51 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+3

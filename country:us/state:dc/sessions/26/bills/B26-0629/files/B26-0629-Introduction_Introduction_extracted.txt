@@ -1,0 +1,2158 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+March 17, 2026
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Contract No. CW127336 with Compost Crew, Inc. Approval and Payment
+Authorization Emergency Act of 2026,” and the accompanying emergency declaration resolution
+in the amount of not-to-exceed $4,120,588.45.
+The legislation will approve definitive Contract No. CW127336 with Compost Crew, Inc. to
+provide organic waste collection, hauling, and processing services for single family residential
+households in the District, including the provision of waste bins to participating households.
+Legislation is required to correct an error in the Compost Crew, Inc. contract proposal.
+My administration is available to discuss any questions you may have regarding the proposed
+contract. In order to facilitate a response to any questions you may have, please have your staff
+contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at (202) 724-
+8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Muriel Bowser
+
+i ? l ; ~----
+1
+2
+3
+4 at the request of the Mayor
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16 To approve, on an emergency basis, Contract No. CW127336 with Compost Crew, Inc. and to
+17 authorize payment for the goods and services received and to be received under the
+18 contract.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the "Contract No. CW127336 with Compost Crew, Inc. Approval and
+22 Payment Authorization Emergency Act of 2026".
+23 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+24 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+25 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+26 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02) or the requirements of section
+27 2346(d)(l) and (3) and (e) of the Small and Certified Business Enterprise Development and
+28 Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code§ 2-
+29 218.46(d)(l) and (3), (e)), the Council approves Contract No. CW127336 with Compost Crew,
+30 Inc., and authorizes payment in the not-to-exceed amount of $4,120,588.45 for the goods and
+31 services received and to be received under the contract.
+32 Sec. 3. Fiscal impact statement.
+1
+
+33 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+34 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+35 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+36 Sec. 4. Effective date.
+37 This act shall take effect following approval by the Mayor (or in the event of veto by the
+38 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+39 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+40 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+41 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Letter Contract)
+(A) Contract Number: CW127336
+Proposed Contractor: Compost Crew Inc., A Benefit Corporation
+Proposed Contractor’s Principals: Michael Benjamin Parry, CEO
+Contract Amount (Base Period): Not-to-exceed (NTE) $4,120,588.45
+Unit and Method of Compensation: Fixed price per item
+Term of Contract: January 15, 2026, through January 14, 2027
+- Letter Contract - January 15, 2026 – April 15, 2026
+Type of Contract: Indefinite Delivery/Indefinite Quantity
+Source Selection Method: Request for Proposals
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: NTE $ 4,120,588.45
+Option Period 1 Amount: NTE $ 5,224,799.52
+Explanation of difference from base period (if applicable): The increase is due to the addition of
+3,000 households (CLIN 1003) in option period one.
+Option Period 2 Amount: NTE $7,160,600.20
+Explanation of difference from base period (if applicable): The increase is due to the addition
+of 5,000 households (CLIN 2003) in option period two.
+Option Period 3 Amount: NTE $14,836,035.80
+1
+
+Explanation of difference from base period (if applicable): The increase is due to the addition
+of 20,000 households (CLIN 3003) in option period three.
+Option Period 4 Amount: NTE $22,599,700
+Explanation of difference from base period (if applicable): The increase is due to the addition of
+20,000 households (CLIN 4003) from option year four.
+(C) The date on which the letter contract or emergency contract was executed:
+January 15, 2026
+(D) The number of times the letter contract or emergency contract has been extended:
+None
+(E) The value of the goods and services provided to date under the letter contract or emergency
+contract, including under each extension of the letter contract or emergency contract:
+NTE $1,000,000
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+None.
+(G) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The contractor shall provide organic food waste (“compost”) collection, hauling, and processing
+services from single-family, residential households in the District, including the provision of waste
+bins to participating households.
+(H) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+On March 24, 2025, the Office of Contracting and Procurement (OCP) issued the Request for
+Proposals Doc756628 in eSourcing to 20 vendors, and received a timely response from only one
+offeror, Compost Crew. Compost Crew met all the technical evaluation criteria and is determined to
+be the responsive and responsible offeror, having submitted an acceptable technical proposal and a
+reasonable price proposal.
+(I) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+2
+
+None.
+(J) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Compost Crew has the background, necessary qualifications, and adequate financial resources to
+perform the contract and the ability to obtain personnel. The evidence is provided from the
+contractor’s financial history as reported by the Dun & Bradstreet Report. The vendor has provided
+the same or similar services (pilot program) for the District since 2023 and has performed
+satisfactorily.
+(K) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+Compost Crew submitted an acceptable subcontracting plan that meets the subcontracting
+requirement of 35% at $18,879,603.67.
+(L) Performance standards and the expected outcome of the proposed contract:
+The contractor shall provide composting collection services in accordance with the terms and
+conditions indicated in the contract.
+(M) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+NTE $1,000,000 - January 15, 2026
+(N) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Office of the Chief Financial Officer has certified that funding is consistent with the applicable
+financial plan and budget.
+(O) A certification that the proposed contractor has been determined not to violate section 334a
+of the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+3
+
+The contractor has certified, via the Bidder/Offeror Certification form, that it is (1) not in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2)
+currently is not and will not be in violation of section 334a of the Board of Ethics and Government
+Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2011, D.C.
+Official Code § 1-1163.34a.
+(P) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The Office of the Attorney General has determined the proposed contract to be legally sufficient.
+The contractor has no legal claims pending against the District.
+(Q) A certification that Citywide Clean Hands database indicates that the proposed contractor is
+current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands database indicates that the contractor is current with its District taxes.
+(R) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+The Contractor has self-certified its compliance with its federal taxes in Section 6.7 of the Bidder
+Offeror Certification Form.
+(S) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+The proposed contractor is not a certified small, local, or disadvantaged business enterprise.
+(T) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None.
+(U) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+The contractor is not debarred or excluded from providing services to the District or federal
+governments.
+4
+
+(V) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+- Determination and Findings for Price Reasonableness
+- Determination and Findings for Contractor Responsibility
+- Determination and Findings for Use of a Competitive Sealed Proposal
+(W) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+www.ocp.dc.gov
+(X) Where the original solicitation, and any amendments or modifications, will be made available
+online:
+www.ocp.dc.gov
+5
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: March 3, 2026 Notice Number: L0016159550
+COMPOST CREW INC., A BENEFIT CORPORATION FEIN: **-***5718
+12343 CARROLL AVE Case ID: 18884129
+RCOCKVILLE MD 20852-1813
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE CHIEF FINANCIAL OFFICER
+kkk
+FINANCIAL PLAN AND BUDGET CERTIFICATION
+CONTRACT NO.: CW127336
+CAPTION: Residential Food Waste (Compost)
+Collection Services
+CONTRACTORNAME: Compost Crew Inc A Benefit Corporation
+PROPOSED CONTRACT AMOUNT(S): Minimum$117.35 NTE $4,120,588.45
+ORGANIZATION CODE: KTO
+PERIODOFPERFORMANCE: January 15, 2026 through January 14, 2027
+Theproposed contractfunding in the amount ofNTE $2,599,206.00 is availablenow
+withinthe Department ofPublicWorks (DPW) budget forthese services. Future funding
+above the available amount is contingentupon the identificationofadditional funding.
+The service iswithin the appropriated budget authority fortheagency and is consistent
+with the financialplanand budgetadoptedin accordance with § 47-392.01 and 47-
+392.02. Additional fundingis contingentupon budget approvalFY26portion ofthe
+contract $1,521,382.45 is subject to future appropriation.
+WYRE LODE
+Cr es a AFO. Date
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+BRIAN L. SCHWALB PRIVILEGED AND CONFIDENTIAL
+ATTORNEY GENERAL ATTORNEY-CLIENT COMMUNICATION
+LEGAL COUNSEL DIVISION
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal Counsel Division
+DATE: February 26, 2026
+SUBJECT: Legal Sufficiency Review of Draft Bill, the “Contract No. CW127336 with Compost
+Crew Inc. Approval and Payment Authorization Emergency Act of 2026” and
+Accompanying Emergency Declaration Resolution
+(AD-26-109)
+_____________________________________________________________________________________
+This is to Certify that
+the Office of the Attorney General has reviewed the
+above-referenced legislation and found it to be legally sufficient. If you have any questions in this
+regard, please do not hesitate to call me at (202) 262-6402.
+_________________________________
+Adele El-Khouri
+3
+
+Government of the District of Columbia
+Office of Contracting and Procurement
+January 15, 2026
+Compost Crew Inc, A Benefit Corporation
+12358 Parklawn Drive
+Suite 313
+North Bethesda, MD 20852
+Subject: Letter Contract
+Caption: Operation of the District’s Food Waste Collection Program
+Contract: CW127336
+Dear Mr. Michael B. Parry:
+This is a letter contract between the District of Columbia (District) and Compost Crew Inc
+(Compost Crew) wherein Contractor agrees to perform the services set forth as detailed in
+proposed contract. It is the District’s intent to award the definitized contract pending approval of
+the Council of the District of Columbia.
+The District intends to definitize this letter contract within 90 days from January 15, 2026, at which
+time this letter contract shall merge with the definitized contract. Before the expiration of the 90
+days, the Contracting Officer may authorize an additional period in accordance with section 2425.9
+of the procurements regulations, 27 DCMR, Chapter 24, Section 2425.9 (1988). If the District does
+not definitize this letter contract within 90 days of the date of January 15, 2026 or any extensions
+thereof, this letter contract shall expire. In the event of expiration of this letter contract, the District
+shall pay contractor for the services performed under this letter contract in an amount not to exceed
+$1,000,000.
+The award amount of this letter contract is not-to-exceed $1,000,000. In no event shall the amount
+paid under this letter contract, or any extensions thereof, exceed 50% of the total definitized
+contract amount.
+The definitized contract shall be merged with this letter contract once approved by the DC City
+Council and award is made. The District shall pay the contractor for the services performed during
+the duration of the Definitized contract in a total amount of a minimum $117.35 and not-to-exceed
+a maximum of $4,120,588.45.
+
+Contractor shall perform under this letter contract pursuant to the terms of the following
+documents, which are hereby incorporated by reference and made a part of this letter contract:
+• Definitized Contract including all Appendices
+• Contractor Bid dated April 22, 2025
+• Standard Contract Provisions
+In the event of a conflict among the incorporated documents, the conflict shall be resolved by
+giving precedence to the documents in the order listed above.
+This Letter Contract shall be subject to appropriation of funds.
+Signatures:
+_____________________________________________ _J_a_n_u_a_r_y_ _1_4_, _2_0_2_5__
+Compost Crew Inc, A Benefit Corporation Date
+_____________________________________________ _J_a_n_u_a_ry_ _1_4_, _2_0_2_5___
+Shawn Brooks Date
+Deputy Chief Contracting Officer
+Enclosures
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW127336 1 1
+2. Amendment/Modification 3. Effective Date 4. Requisition/Purchase Request 5. Solicitation Caption
+Number No. Residential Food Waste
+Refer to Section 16C (Composting) Collection Services
+M01
+6. Issued by: Code 7. Administered by (If other than line 6)
+Government of the District of Columbia (“District”) Government of District of Columbia (“District”)
+Office of Contracting and Procurement Department of Public Woks
+899 North Capitol Street, NE, 5th Floor 899 North Capitol Street, NE, 5th Floor
+Washington, DC 20002
+Washington, DC 20002
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+9B. Dated (See Item 11)
+Compost Crew Inc, A Benefit Corporation
+12358 Parklawn Drive, Suite 313
+North Bethesda, MD 20852 10A. Modification of Contractor/Order No.
+CW127336
+10B. Dated (See Item 13)
+Code Facility
+02/05/2026
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not
+extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15, and returning one (1) copy of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT
+TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN
+REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided
+each letter or telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS ,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation
+data, etc.) set forth in item 14, pursuant to the authority of:
+C. This supplemental agreement is entered into pursuant to authority of:
+X D. Other (Specify type of modification and authority): 27 DCMR Section 2008: Exercise of Option and Contract# CW106027 Section F.2:
+Option to Extend the Term of the Contract
+E. IMPORTANT: Contractor is not is required to sign this document and return one (1) copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+This modification reflects the below changes:
+This is an Administrative Modification to clarify that the effective date of the letter contract is January 15, 2026.
+All other Terms and Conditions of the contract remain unchanged.
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+S hawn Brooks
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+3/12/2026
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+1.Reserved for later use Page of Pages
+AWARD/CONTRACT
+1 53
+2. Contract Number 3.Effective Date 4.Requisition/Purchase Request/Project No.
+CW127336 January 15, 2026
+5.Issued By: Code 6.Administered by (If other than line 5)
+Office of Contracting and Procurement Office of Waste Diversion
+899 North Capitol Street NE, Fifth Floor Department of Public Works
+Washington, D.C. 20002 899 North Capitol Street NE, Fifth Floor
+Washington, D.C. 20002
+7.Name and Address of Contractor (No. Street, City, County, State and 8.Delivery
+Zip Code)
+FOB Origin Other (See Schedule Section F)
+Compost Crew, Inc., A Benefit Corporation
+9.Discount for prompt payment
+12358 Parklawn Dr
+North Bethesda, MD 20852
+10.Submit invoices to the Address shown in  Item
+(2 copies unless otherwise specified) - N/A
+Duns No. TIN
+11.Ship to/Mark For Code 12.Payment will be made by Code
+N/A
+13.Reserved for future use: N/A 14.Accounting and Appropriation Data
+ENCUMBRANCE CODE: N/A
+15A. Item 15B. Supplies/Services 15F. Amount
+0001 through Residential Food Waste Collection, Minimum: $117.35
+0006 Hauling, and Processing Services Maximum: $4,120,588.45
+(Base Year)
+Total Estimated Maximum Amount of Contract 
+16.Table of Contents
+(X) Section Description Page (X) Section Description Page
+PART I – THE SCHEDULE PART II – CONTRACT CLAUSES
+X A Contract Form 1 X I Contract Clauses 41
+X B Supplies or Services & Cost/Price 2 PART III – LIST OF DOCUMENTS, EXHIBITS AND OTHER
+ATTACHMENTS
+X C Services 9 X J List of Attachments 54
+X D Packing and Marking 25
+X E Inspection and Acceptance 25
+X F Contract Term 26
+X G Contract Administration Data 28
+X H Special Contract Requirements 33
+Contracting Officer will complete Item 17 or 18 as applicable
+17. CONTRACTOR’S NEGOTIATED AGREEMENT (Contractor is 18. AWARD (Contractor is not required to sign this document.) Your offer
+required to sign this document and return one (1) copy to issuing office.) on Solicitation Number N/A including the additions or changes made by which
+Contractor agrees to furnish and deliver all items, perform all the services additions or changes are set forth in full above, is hereby accepted as to the
+set forth or otherwise identified above and on any continuation sheets, for items listed above and on any continuation sheets. This award consummates
+the consideration stated herein. The rights and obligations of the parties to the contract which consists of the following documents: (a) the Government’s
+this contract shall be subject to and governed by the following documents: solicitation and your offer, and (b) this award/contract. No further contractual
+(a)this award/contract, (b) the solicitation, if any, and (c) such provisions, document is necessary.
+representations, certifications, and specifications, as are attached or
+incorporated by reference herein. (Attachments are listed herein.)
+19A. Name and Title of Signer (Type or print) 20A. Name of Contracting Officer
+Shawn Brooks
+19B. Name of Contractor 19C. Date 20B. Signature of Contracting Officer 20C. Date Signed
+Compost Crew, Inc., A Benefit Corporation Signed
+2-27-2026
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+Government of the District of Columbia Office of Contracting and Procurement
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 1
+
+SECTION B: CONTRACT TYPE, SUPPLIES OR SERVICES AND
+PRICE/COST
+B.1 The District of Columbia (“the District”) Office of Contracting and Procurement
+(“OCP”), on behalf of the Department of Public Works’ (“DPW”) Office of Waste
+Diversion (“OWD”) intends to award an indefinite delivery/indefinite quantity (IDIQ)
+contract to a Contractor to provide organic waste (“food waste”) collection, hauling, and
+processing services from single-family, residential households in the District, including
+the provision of waste bins to participating households.
+B.2 The District contemplates an award of indefinite deliveries/indefinite quantities contract
+for household food waste collection, hauling, and processing services.
+B.3 PRICE SCHEDULE
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 2
+
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 3
+
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 4
+
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 5
+
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 6
+
+B.4 An offeror responding to this solicitation is required to submit with its proposal, any
+subcontracting plan required by law. CBE bidders that intend to self-perform 100% of the
+work are also required to submit a subcontracting plan with their proposals that attests to
+their intent to self-perform the work. Offers responding to this RFP shall be deemed
+nonresponsive and shall be rejected if the offeror fails to submit a subcontracting plan
+form either attesting to self-work as a CBE or detailing a subcontracting plan in
+compliance with the law.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 7
+
+B.5 For contracts in excess of $250,000, at least 35% of the dollar volume of the contract
+shall be subcontracted in accordance with section H.9.
+A Subcontracting Plan form is available at http://ocp.dc.gov, under Quick Links click on
+“Required Solicitation Documents”.
+B.6 NONPROFIT FAIR COMPENSATION ACT OF 2020, D.C. Code § 2-222.01 et seq.
+B.6.1 Nonprofit organizations, as defined in the Act, shall include in their rates the indirect
+costs incurred in provision of goods or performance of services under this contract
+pursuant to the nonprofit organization's unexpired Negotiated Indirect Cost Rate
+Agreement (NICRA). If a nonprofit organization does not have an unexpired NICRA, the
+nonprofit organization may elect to instead include in its rates its indirect costs:
+(1) As calculated using a de minimis rate of 10% of all direct costs under this
+contract;
+(2) By negotiating a new percentage indirect cost rate with the awarding agency;
+(3) As calculated with the same percentage indirect cost rate as the nonprofit
+organization negotiated with any District agency within the past 2 years; however,
+a nonprofit organization may request to renegotiate indirect costs rates in
+accordance with B.7.2; or
+(4) As calculated with a percentage rate and base amount, determined by a
+certified public accountant, as defined in the Act, using the nonprofit
+organization's audited financial statements from the immediately preceding fiscal
+year, pursuant to the OMB Uniform Guidance, and certified in writing by the
+certified public accountant.
+B.6.2 If this contract is funded by a federal agency, indirect costs shall be consistent with
+the requirements for pass-through entities in 2 C.F.R. § 200.331, or any successor
+regulations.
+B.6.3 The Contractor shall pay its subcontractors which are nonprofit organizations the
+same indirect cost rates as the nonprofit organization subcontractors would have
+received as a prime contractor.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 8
+
+SECTION C: SPECIFICATIONS/WORK STATEMENT
+C.1 BACKGROUND
+From August 2023 to August 2024, the District’s DPW conducted a year-long pilot of
+organic waste (food waste) collection from approximately 9,000 single-family
+(residential) households located throughout the District. The purpose of the pilot program
+was to test operations and gather key data and information to determine the viability of a
+District-wide residential food waste collection program in support of the District’s goal to
+divert 80% of its waste from landfills and incineration.
+During this year’s long pilot, 9,000 households located across the District’s eight (8)
+Wards opted in to receive free, once-a-week food waste collection services provided by a
+third-party contractor on behalf of the District. As of December 2024, approximately
+1,400 tons of food waste collected from 9,000 homes.
+The District is currently transitioning from the pilot and aims to expand this residential
+food waste collection service to a broader group of single-family households located in
+the District of Columbia. The program is now known as the Compost DC: Food Waste
+Collection program.
+C.2 DEFINITIONS
+These terms when used in this RFP have the following meanings:
+Certified Compostable – Compostable fibers or resins that are certified by BPI
+•
+(Biodegradable Products Institute) and shall not contain BPA or PFAS (polyfluoroalkyl
+substances).
+• Collection Starter Kits - A set of materials needed for participants to get started in the
+Food Waste Collection program. This kit includes one food waste collection bin, one
+kitchen caddy and up to 100 compostable bin liners. Materials in the kit may vary based
+on the participant’s preference. For example, the participant may not wish to receive a
+kitchen caddy or compostable bin liners.
+Compostable – Any item comprised solely of materials that break down into, or
+•
+otherwise become part of, usable compost in a safe and timely manner. The term
+“compostable” when referring to fibers or resins shall be defined as aforementioned and
+shall be certified by BPI (Biodegradable Products Institute) and shall not contain BPA or
+PFAS (polyfluoroalkyl substances).
+Composting – a managed process which utilizes microorganisms naturally present in
+•
+organic matter and soil to decompose organic material. These microorganisms require
+basic nutrients, oxygen, and water for decomposition to occur at an accelerated pace. The
+end-product, compost, is a dark brown, humus-like material which can be easily and
+safely handled, stored, and used as a valuable soil conditioner. The composting process is
+dependent upon several factors, including: the population of microorganisms, carbon to
+nitrogen ratio, oxygen level, temperature, moisture, surface area, pH, and time.
+Compostable Bin Liners – Also known as “compostable bags”; Bags used to line
+•
+compost bins made of natural plant matter and certified by BPI (Biodegradable Products
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 9
+
+Institute) that do not contain any toxic materials such as BPA or PFAS (polyfluoroalkyl
+substances) and break down readily in a composting system with no contamination.
+Composted – to convert decaying organic material into a soil amendment.
+•
+Food Waste Collection Bins – Receptacles supplied by the District to be used for the
+•
+collection of residential organic waste and to be placed at the POC either at the front of
+the residence or nearby alleyway.
+Food Waste – Unused and unconsumed organic matter remaining after production,
+•
+preparation, and consumption of food, intended for discard.
+Fully-permitted, licensed, and compliant processing facility – a composting or
+•
+anaerobic digestion facility that meets or exceeds all local, state, and federal rules and
+regulations that is required for operation in their facility location.
+Kitchen caddies – Receptacles supplied by the District, to be used for the collection of
+•
+residential food waste, typically indoors in residential kitchens.
+Organics or organic waste – Food waste, yard waste, and compostable fiber products.
+•
+The terms “organics and “organic waste” do not include compostable plastic food and
+beverage service-ware, such as plates, cups, and cutlery.
+Point of collection (POC) – the place in front of, or in the alley behind, a residential
+•
+property designated by the selected Contractor and OWD where their food waste will be
+collected and the bin returned to, following collection.
+Setout – Defined as when a customer places or “sets out” their food waste collection bin
+•
+in the proper location and on the correct day for collection.
+Single-family household – Any residential property with three (3) or fewer dwelling
+•
+units that are serviced by DPW.
+Solid waste – Garbage, refuse, or any other waste or waste product, including recyclable,
+•
+compostable, or otherwise reusable material, whether in solid, liquid, semisolid, or
+contained gaseous state, resulting from an industrial, commercial, residential, or
+government operation or community activity. Does not include hazardous waste, medical
+waste, or construction and demolition waste.
+Source separation – Waste streams separated by material type by the resident or
+•
+business at the site where the waste is generated.
+C.3 APPLICABLE DOCUMENTS
+The following documents are applicable to this procurement and are hereby incorporated
+by this reference:
+Item No. Document Type Title Date
+0001 Law Sustainable Solid Waste Management Amendment Act 2014
+of 2014 DC Act 20-423
+0002 PDF Zero Waste Omnibus Act of 2020 2020
+Zero Waste Omnibus Amendment Act of 2020.pdf
+(adobe.com)
+0003 PDF Desktop Waste Characterization Study 2021
+https://zerowaste.dc.gov/sites/default/files/dc/sites/zer
+owaste/Desktop%20WCS%20Final%20Report%203-
+10-21.pdf
+0004 PDF CY19-22 Annual Waste Diversion Report 2024
+https://dpw.dc.gov/sites/default/files/dc/sites/dpw/pag
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 10
+
+e_content/attachments/Solid%20Waste%20Diversion
+%20Report%202019-2022.pdf
+0005 PDF District of Columbia Compost Feasibility Study April 2017
+2017
+https://dpw.dc.gov/sites/default/files/dc/sites/dpw/pag
+e_content/attachments/DC%20Compost%20Feasibilit
+y%20Study_vf_0417.pdf
+0006 PDF Co-Digestion Feasibility Study for The District of 2017
+Columbia
+https://dpw.dc.gov/sites/default/files/dc/sites/dpw/publ
+ication/attachments/FINAL%20DC%20Co-
+Digestion%20Report.pdf
+0007 Policy Mayor’s List of Recyclables and Compostables 2016
+0008 Policy Solid Waste Collector Registration & Reporting 2018
+Requirements
+C.4 SCOPE
+The District seeks an experienced solid waste collections contractor specializing in
+organic waste (food waste) collection, hauling, and processing services from single-
+family residential households. This initiative supports an opt-in service offering weekly
+food waste collection across the District, complemented by robust program management,
+community engagement, and detailed performance tracking.
+Key responsibilities are as follows:
+• Contractor shall conduct weekly food waste collection, with flexibility for holiday
+and weather disruptions. Contractor will collaborate with the District on route
+design and schedules;
+• Contractor shall assemble and distribute starter kits including bins, compostable
+liners, and educational materials, to all new participants. This includes assembly
+and distribution of replacement collection materials through out the life of the
+contract; and
+• Contractor shall supply and deliver at least 5 pounds of finished and bagged
+compost to participating households opting to receive it on at least a yearly basis.
+Contractor shall partner with a licensed processing facility to compost collected
+food waste, and ensure contingency plans for disruptions. The contractor shall
+provide real-time, direct feedback to households to address improper setouts using
+“oops” tags;
+• Contractor shall provide comprehensive data management, including household
+participation, contamination rates, and complaints, with regular reporting to the
+District; and,
+• Contractor shall provide and utilize hardware and software to achieve contract
+requirements and to meet data tracking and reporting needs. All data shall remain
+as the District's property.
+• Contractor shall communicate daily with the District's Office of Waste Diversion
+(OWD) to address program issues and updates and attending regular meetings to
+assess and adapt program operations as needed.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 11
+
+• Contractor shall store and manage program materials supplied by the District,
+maintain inventory, and track distribution.
+Contractor must demonstrate capacity to deliver on all outlined responsibilities and
+adhere to the District's service, compliance, and branding standards.
+C.5 REQUIREMENTS
+The District is seeking a Contractor who will work closely with OWD employees to
+ensure that the food waste collection services are successful while following all local
+rules and regulations related to managing and handling of food waste, and who will at a
+minimum perform the tasks described below:
+C.5.1 Hours and Days of Operation
+The selected Contractor shall collect food waste once per week from each participating
+household on a regular basis. Collections shall occur across the District on Mondays,
+Tuesdays, Wednesdays, Thursdays, and Fridays, for five (5) days per week. Daily
+collections will begin no earlier than 7:00 a.m. for the first households on the route and
+end no later than 4:00 p.m. for the last household on the route. Households will be
+instructed to set-out food waste collection bins no earlier than 8 PM the night before and
+no later than 7 AM the morning of collection to mitigate theft and rodents, pests, and
+other vectors, as well odor.
+When any regular service collection day falls on a legal holiday, the collection shall roll-
+over one day as discussed and agreed to by the District. For example, if a holiday falls on
+a Thursday, participating households that normally receive collection service on
+Thursday shall be collected on Friday and participating households that normally receive
+collection service on Friday shall be collected on Saturday. All containers shall be
+serviced to recover all food waste according to this schedule, even when the collection
+bins are not completely full. To mitigate pest or rodent issues the selected Contractor
+must strictly adhere to this schedule. A listing of legal holidays that fall within the term
+of this contract has been provided below for reference.
+The selected Contractor shall observe the same holidays as the District Government (New
+Year’s Day, Martin Luther King Jr’s Birthday Day, Washington’s Birthday, DC
+Emancipation Day, Memorial Day, Juneteenth National Independence Day,
+Independence Day, Labor Day, Indigenous Peoples Day, Veteran’s Day, Thanksgiving
+Day, and Christmas Day). Exact collection days for participating households will be
+negotiated between the selected Contractor and DPW (See Attachment A for Updated
+Boundary Maps of the District Wards). DPW will provide the selected Contractor with a
+list of all participating households following the award of the contract.
+C.5.2 Changes in the Hours of Operation
+The District reserves the right to change, cancel, pause, or reduce the hours of operation
+of any scheduled collections due to inclement weather, reduced participation, funding
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 12
+
+shortfalls, program changes, or other reasons. OWD will work with the Contractor to
+determine and agree upon service or operational changes and adjustments.
+C.5.3 Inclement Weather
+The selected Contractor will collect regardless of weather, unless inclement weather
+poses insurmountable operational difficulty (e.g., a heavy snowstorm) or safety concerns
+(e.g., flooding, high winds). If the District Government is closed and not providing other
+collection services such as trash and recycling, then the contractor will not provide food
+waste collection. OWD may cancel scheduled collections in case of exceptionally
+inclement weather. Weather conditions, which may result in the cancellation of a
+collection, include heavy snow accumulation, heavy rains, high winds, flooding, extremely
+high or low temperatures, and hazardous road conditions. The decision to cancel
+collections may be based on existing inclement weather conditions or forecasts of
+inclement weather conditions. If services are canceled due to weather, the selected
+Contractor will roll-over collections to the next available day and no later than seventy-
+two (72) hours from the canceled collection day, unless otherwise agreed upon between
+the selected Contractor and OWD. The selected Contractor shall work together with
+OWD to develop and operationalize an inclement weather plan.
+C.5.4 Frequency of Collection
+The selected Contractor shall collect food waste weekly from all participating households.
+The collection days are Monday through Friday, and Saturday when a holiday or other
+event such as inclement weather, shifts the collection schedule by one day. Collection will
+not regularly occur on Sundays, unless agreed upon between the Contractor and OWD in
+an inclement weather plan (as referenced in C.5.3).
+C.5.5 Damage to Private or Public Property
+The selected Contractor shall assume all responsibilities of the work and take all proper
+precautions to protect all public and private property from injury and unnecessary
+interference; and if any public or private property is injured through the fault of the
+selected Contractor, the selected Contractor shall repair or replace the same at their own
+cost and expense.
+C.5.6 Collection
+The selected Contractor will only collect food waste from participating households using
+District-provided food waste collection bins.
+The selected Contractor’s employees shall drive to each POC, walk to the food waste
+collection bin, pick it up, walk to the collection vehicle, open the lid, and dump the
+contents directly into an organics collection vehicle “hopper”, or collection containers
+(e.g., 96-gallon carts) loaded into a box truck. The selected Contractor’s employees shall
+collect the bagged or loose food scraps and secure the lid back on the collection bin. The
+selected Contractor is responsible for the avoidance and immediate clean-up of any
+spilled food waste. After tipping the contents of the food waste collection bin, the
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 13
+
+selected Contractor’s employees shall secure the lid on the bin and return it to the POC
+right-side up.
+Households participating this food waste collection program will be DPW-serviced
+households with three (3) or fewer dwelling units. The District will provide the list of
+participating households to the selected Contractor upon contract award.
+The cost for efforts related to collection of food waste shall be incorporated into the
+Total Price for CLIN 0003.
+C.5.6.1 The selected Contractor shall pick up food waste weekly from participating households
+using properly sealed vehicles that will not spill any food waste, accidentally or
+otherwise, on the street.
+C.5.6.2 In instances of degraded, damaged, or malfunctioning bins, the Contractor shall deliver a
+replacement to the impacted household.
+C.5.6.3 The selected Contractor shall respond to and address all service requests including
+complaints, missed collection, and broken or lost food waste collection bins and kitchen
+caddies. Participating households will submit all service requests through the District’s
+311 Service Center or via phone or email to DPW staff. DPW will be responsible for
+monitoring, exporting, and relaying all new service requests to the selected Contractor.
+The selected Contractor shall respond to and address all requests related to missed
+collections within one business day.
+The selected Contractor shall respond to and address all requests related replacement or
+retrieval of food waste collection bins and kitchen caddies no later than the participating
+household’s next scheduled collection date.
+The selected Contractor shall respond to and address all other complaints or service
+requests, within three business days.
+The selected Contractor shall maintain records regarding the nature and timing of these
+service requests, and the completion of the requested service. The selected Contractor
+shall provide OWD with the status of all service requests received and addressed in
+accordance with the cadence listed above. The selected Contractor will be responsible for
+executing all service requests, at the direction of DPW, and OWD will be responsible for
+closing out all service requests within the District’s 311 Service Request platform.
+C.5.6.4 The selected Contractor shall retrieve equipment from participating households that
+request to opt-out of receiving food waste collection services. Equipment shall be
+collected from the front of the household by the resident’s next collection day, unless
+otherwise noted. The selected Contractor will remove this household from their
+collection route. The cost for efforts related to the recovery of all District-provided
+equipment should be incorporated into the Total Price for CLIN 0002.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 14
+
+C.5.6.5 The selected Contractor shall ensure that all food waste collected through this contract
+is delivered for composting or anaerobic digestion to a fully-permitted, licensed, and
+compliant processing facility located within 40 miles from the US Capitol Building.
+C.5.6.6 The selected Contractor shall only accept all materials listed in section C.5.16 and ensure
+pick-up of all accepted materials from participating households.
+C.5.6.7 The selected Contractor shall collect food waste on pre-determined collection days and
+routes approved by OWD.
+C.5.6.8 The selected Contractor shall make collections to minimize noise and disturbances to
+surrounding households. Food waste collection bins shall be handled carefully by the
+selected Contractor, thoroughly emptied, and returned to the POC.
+C.5.6.9 Collections shall be done in a sanitary manner. Any food waste spilled by the selected
+Contractor shall be cleaned up immediately. The selected Contractor’s collection vehicles
+should be outfitted with spill-kits specifically for the purpose of cleaning-up wet food
+waste.
+C.5.6.10 All solid waste collectors, including the selected Contractor or subcontractors,
+operating in the District, must acquire a business license through the DC Department of
+Licensing and Consumer Protection (DCLP) and then register with DPW’s Office of
+Waste Diversion via the Solid Waste Collector Registration and Reporting system. All
+collection vehicles must be licensed and display a DPW-issued solid waste collector
+vehicle decal on both the driver and passenger side doors.
+C.5.6.11 All solid waste collectors, including the selected Contractor or subcontractors, must
+report annual tonnage data via the Solid Waste Collector Registration and Reporting
+system.
+C.5.6.12 The selected Contractor shall be required to pick up all food waste generated by a
+participating household. No food waste shall be allowed to remain in the food waste
+collection bin after emptying.
+C.5.6.13 All food waste collection bins must be emptied according to schedule, regardless of if
+they are not at completely full.
+C.5.6.14 The selected Contractor shall use diligence and care to prevent damage to property and
+food waste collection bins.
+C.5.6.15 After emptying the food waste collection bin, it shall be returned to POC upright with
+the lid secured on to prevent it from being lost or blown by the wind.
+C.5.6.16 The selected Contractor will be expected to provide a very high-quality level of service,
+with a goal of achieving an average rate of collection of 99.0%. Timely collection of all
+containerized food waste and rapid response to service requests is essential to the
+success of this collection program.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 15
+
+C.5.6.17 Residents may request to skip collection during their time in the program. Request for
+collection skips will come from the resident to DPW. DPW will be responsible for
+tracking and communicating these skip requests to the selected Contractor. The selected
+Contractor shall ensure collection does not occur at the resident's address during the
+timeframe they have requested to skip. DPW and the selected Contractor will agree upon
+an operationally appropriate process for receiving and inputting skip requests.
+C.5.7 Hardship Collection Services
+The District will provide the selected Contractor with a list of hardship collection
+services for participating residents who are physically unable to set out or return their
+food waste collection bins and who typically place their refuse and recycling carts closer
+to their homes for easier accessibility. The selected Contractor’s employees shall collect
+the collection bin from the household’s preferred POC, empty it, and return to it the
+preferred POC.
+C.5.8 Disposal
+The selected Contractor shall deliver all food waste collected to a fully-permitted,
+licensed, and compliant processing facility located within 40 miles from the US Capitol
+Building.
+C.5.8.1 Disposing of food waste at a landfill or incinerator, rather than at a fully-permitted,
+licensed, and compliant processing facility, may be cause for termination of this
+agreement.
+C.5.8.2 In the event materials collected by the selected Contractor are rejected by a fully-
+permitted, licensed, and compliant processing facility due to excessive contamination, the
+selected Contractor shall document all rejected/contaminated loads with date-stamped
+photographs and notify the OWD within twenty-four (24) hours of the load being
+rejected. The selected Contractor will be solely responsible for identifying
+alternative processing options.
+If the selected Contractor fails to provide alternative disposal within the timeframe
+specified without prior approval of the District, the District reserves the right to have
+services provided by another vendor at the selected Contractor’s expense. Any amounts
+owed to the District as a result of this action will be deducted from the selected
+Contractor’s monthly invoice.
+C.5.9 Staffing and Training
+The selected Contractor shall provide all staff and staff training necessary to provide the
+required services described in this proposal. The selected Contractor shall utilize as many
+staff as necessary to achieve these service levels and shall incorporate this into the Total
+Cost for CLIN 0003, 0004, and 0006.
+C.5.9.1 The selected Contractor is and shall perform this agreement as an Independent
+Contractor and, as such, shall have and maintain complete control over all its personnel
+and operations.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 16
+
+C.5.9.2 The selected Contractor shall designate an Operations Manager and Crew Supervisor(s)
+responsible for overseeing and directing Contractor supplied Collection Route Crew and
+Collection Route Helpers (referenced in section C.5.10.2).
+C.5.9.3 The selected Contractor shall provide sufficient personnel to collect food waste in a
+timely and efficient manner from participating households each week. Required staffing
+levels will be mutually agreed upon by the District and the selected Contractor.
+C.5.9.4 Any employee who drives or will drive a vehicle during the employee’s employment
+pursuant to the Contract must possess a valid driver’s license for the type of vehicle
+operated.
+C.5.9.5 During the collection of food waste, the Contractor’s employees shall not be in
+possession or have consumed alcoholic beverages or illegal drugs. If it is determined that
+directive has been violated, law enforcement officials will be immediately contacted. Any
+violation of this directive shall be grounds for Contract rescission.
+C.5.9.6 The selected Contractor’s employees must be competent in their work, and if any
+employee appears incompetent or disorderly, the District shall notify the selected
+Contractor and specify how the employee is incompetent or disorderly. The selected
+Contractor shall then take the steps to correct and remedy the situation, including
+disciplinary action, if necessary.
+C.5.9.7 The selected Contractor’s employees shall always provide excellent customer service
+and maintain professionalism. This includes politeness, courteousness, and refraining
+from smoking and using profanity while executing on work through this contract.
+C.5.9.8 The selected Contractor’s employees shall be uniformed with the Contractors’ business
+name or co-branded with the District branding/insignia and shall wear proper personal
+protective equipment including work boots and proper safety reflective clothing, for easy
+and safe view by others, especially when handling any chemicals.
+C.5.9.9 All the selected Contractor’s employees shall present a friendly and professional image
+to the public.
+C.5.9.10 The selected Contractor shall provide the District with all contact information of key
+employees including phone number and email.
+C.5.9.11 Neither the selected Contractor nor anyone employed by the selected Contractor shall
+represent, act, purport to act, or be deemed to be the agent, representative, employee, or
+servant of the District.
+C.5.10 Key Personnel
+The key personnel specified in the contract are considered to be essential to the work
+being performed hereunder. Prior to diverting any of the specified key personnel for any
+reason, the Contractor(s) shall notify the CO at least thirty (30) calendar days in advance
+and shall submit justification, including proposed substitutions, in sufficient detail to
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 17
+
+permit evaluation of the impact upon the contract. The Contractor(s) shall obtain written
+approval of the CO for any proposed substitution of key personnel.
+C.5.10.1 The District considers the following positions to be key personnel for this contract:
+• Operations Manager: Manages collections operations.
+C.5.10.2 The selected Contractor must also employ the following General Personnel:
+• Admin/Dispatch Contact: Person(s) who communicate service requests from DPW to
+collection crew and/or dispatchers.
+• Collection Route Supervisor(s): Person(s) who supervise collection drivers and
+helpers.
+• Collection Route Drivers: Persons that drive collection vehicles along designated
+collection routes.
+• Collection Route Helpers: Persons that assist Collections Route Drivers with
+collections of food scraps from residential households.
+C.5.11 Vehicles
+The selected Contractor shall only use properly sealed vehicles that will not spill any
+food waste, accidentally or otherwise, on the street. The Contractor’s vehicles shall have
+all the registrations and licenses required to operate within the District. Food waste
+collected through this contract shall not be mixed with any other materials not associated
+with this contract. The selected Contractor shall utilize as many vehicles as necessary to
+achieve these service levels and shall incorporate this into the Total Cost for CLIN 0003,
+0004, and 0006.
+C.5.11.1 The District prefers but does not require the selected Contractor to use low-emission
+vehicles that are appropriate for the job. At a minimum, the selected Contractor’s
+vehicles shall have:
+• Park and idle technology;
+• Emission control devices installed, if necessary; this includes oxidation catalysts,
+particulate filters, and/or other comparable technologies that are (1) included on
+the US Environmental Protection Agency (EPA) Verified Retrofit Technology
+List and/or the California Air Resources Board (CARB) Currently Verified
+Technologies List; and (2) are verified by EPA or CARB, to provide a minimum
+emissions reduction of 50 percent for VOCs, 40 percent for CO and 20 percent for
+PM;
+• Attainment of the required reduction in PM emissions can also be accomplished
+by using less polluting Clean Fuels. Verified technologies can be identified on the
+following website: EPA: http://www.epa.gov/otaq/retrofit/retroverifiedlist.htm;
+and,
+• A DPW-issued solid waste collector vehicle decal on both the driver and
+passenger side doors as referenced in C.5.6.11.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 18
+
+C.5.12 Collection Equipment
+The selected Contractor’s collection equipment, including but not limited to collection
+vehicles, must be kept clean and in good working condition. The service and maintenance
+of collection equipment shall be in accordance with the Original Equipment
+Manufacturer (OEM) requirements.
+C.5.13 Missed or Canceled Collections
+Any service requests for missed pick-ups sent to the selected Contractor before 2:00 p.m.
+must be collected within one (1) business day. Any requests for missed pick-ups received
+after 2:00 p.m. must be collected within two (2) business days.
+If services are canceled due to weather the selected Contractor shall roll-over collections
+to the next day and no later than two seventy-two (72) hours from the canceled collection
+day. OWD will endeavor to inform the selected Contractor in advance about any other
+potential disruptions such as known or anticipated construction work, or alley closers,
+which could impact or disrupt the selected Contractor’s food waste collection route.
+C.5.14 Notification of Improper Food Waste Setouts and Contamination
+The selected Contractor shall be responsible for all direct-cart messaging that clearly
+communicates the presence of excessive contamination and any other legitimate grounds
+for rejecting food waste collection services. Specifically, the selected Contractor shall
+work with the OWD to design the direct-cart messaging tags (“oops” tags) to affix to the
+food waste collection bin. These “oops” tags shall identify the contaminant type(s) that
+triggered the rejection of service decision. The selected Contractor shall not be
+responsible for collecting food waste from that participating household until the
+following week and shall defer to OWD for weekly changes in direct-cart messaging
+strategies.
+Reasons for the selected Contractor to reject the contents of a bin include but are not
+limited to the presence of non-compostable plastic bags, film, any and all food packaging,
+or any material that is not included in C.5.16. The Contractor shall affix an “oops” tag to
+the food waste collection bin to provide feedback about why the bin was rejected and
+instruct the resident to remove the contaminates prior to their next collection day. The
+cost for these efforts (time, materials, and labor) should be incorporated into the Total
+Price for CLIN 0003.
+Food waste collection bins that have been rejected for service, and for which direct-cart
+messaging has been affixed, shall not be collected until the contamination issue is
+resolved by the household. The selected Contractor shall not be responsible for collecting
+food waste from that participating household until the following week.
+Participating households notified of excessive contamination or improper set-out of their
+food waste collection bin for three (3) consecutive collection days may have food waste
+collection services halted. The Contractor shall be responsible for notifying the District of
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 19
+
+low-performing households and OWD will make the final determination if food waste
+collection services will be halted.
+Should a household stop receiving food waste collection services, OWD will be
+responsible for informing the household and the selected Contractor. The household will
+be instructed to leave their empty compost collection bin at the front of their home for the
+selected Contractor to retrieve. The selected Contractor will remove this household from
+their collection route. The cost for efforts related to the retrieval of all District-provided
+equipment should be incorporated into the Total Price for CLIN 0003.
+C.5.15 Food Waste Collection Bins, Kitchen Caddies, and Bin Liners
+The District will provide the selected Contractor with food waste collection bins,
+compostable bin liners, and kitchen caddies for participating households to use to collect
+their food waste. Participating households will be instructed that food waste may be
+contained in certified compostable bin liners or paper bags before being placed in the
+collection bin. Food waste may also be placed loose in the collection bin, but participants
+will be required to regularly clean their bin to mitigate pests and odor.
+C.5.15.1 The selected Contractor shall be responsible starter kit assembly. Assembly includes
+affixing vinyl stickers to every food waste collection bin and kitchen caddy, if not
+already applied by manufacturer. The selected Contractor shall place 100 compostable
+bin liners and the education materials inside each food waste collection bin with the lid
+affixed for the purpose of delivery. Materials in each kit may vary based on the
+participant’s preference. For example, the participant may not wish to receive a kitchen
+caddy or compostable bin liners.
+The District will provide all vinyl stickers.
+The cost for efforts related to "starter kit” assembly shall be incorporated into the
+Total Price for CLIN 0001.
+C.5.15.2 The selected Contractor shall deliver the food waste collection “starter kits”, including
+an outdoor food waste collection bin, compostable bin liners, kitchen caddy, and
+educational materials to participating households at least one (1) week prior to the start of
+collection. Delivery of starter kits and collection from new participating households may
+occur in phases agreed upon between the selected Contractor and the District. Delivery of
+starter kits and new collection services may occur in phases and on a rolling basis until
+the maximum quantity of participating households is reached.
+Food waste collection “starter kits” shall be delivered to the front of each participating
+household. The selected Contractor shall provide the District with date-stamped
+photographs of starter kit delivery.
+C.5.15.3 The selected Contractor shall replace broken, damaged, or lost food waste collection
+bins, lids or kitchen caddies (“equipment”) from a participating household by their next
+collection day. The cost for efforts related to equipment replacement delivery shall be
+incorporated into the Total Price for CLIN 0002.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 20
+
+C.5.16 Acceptable/Not Acceptable Materials:
+Acceptable Materials:
+• Fruits and vegetables, salad
+• Coffee grounds, paper coffee filters, loose tea, and paper and cotton tea bags
+• Foods cooked in fats and oils, prepared foods, leftovers
+• Moldy or expired foods
+• Meat and bones (cooked or raw)
+• Seafood, shellfish, fish, bivalves and mollusks
+• Shells (e.g., crab shells, oyster shells, clamshells, and mussel shells)
+• Dairy products (including spoiled dairy products)
+• Eggs and eggshells
+• Bread, grains, cereals, rice, and pasta (cooked or uncooked)
+• Flour, cornmeal, and spices
+• Nuts, nutshells, seeds, and beans
+• Corncobs and fruit pits
+• Pickles, kimchi, and fermented foods
+• Food and beverage-soiled napkins and paper towels
+• Pumpkins, gourds, and squash (break into smaller pieces)
+• Pastries, desserts, and candies
+• Cut or dried flowers and houseplants
+• Uncoated paper cups, plates and bowls, greasy pizza boxes, and paper bags
+• BPI-certified compostable bags
+Not Acceptable Materials:
+• Yard waste (Residents must call 311 or visit 311.dc.gov to request a yard waste
+pick up year-round)
+• Leftover cooking oil and grease
+• Produce stickers, rubber bands, and twist ties
+• Plastic bags, wraps, and film
+• Plastic cups, straws, takeout containers, utensils, and packaging
+• Compostable and biodegradable plastic cups, straws, takeout containers, utensils,
+and packaging
+• Plastic-lined and wax-coated paper products (cups, plates, bowls, takeout
+containers, and cardboard)
+• Plastics, metals, foil, glass, and "styrofoam"
+• Pet or human waste and bodily fluids (e.g., diapers, kitty litter, dog feces, used
+facial tissues, used toilet paper, baby wipes, and sanitary products)
+• Animal remains and roadkill
+• Diseased or infested houseplants, invasive plants, or contaminated soil (List of
+DC’s common native and invasive plants)
+• Chewing gum and tobacco
+The District of Columbia reserves the right to revise the list of acceptable and non-
+acceptable items at any time, and as agreed to by the selected Contractor and the
+Contractor’s processing facility (composting facility).
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 21
+
+C.5.17 Suitable Food Waste Setouts
+The selected Contractor shall collect food waste setouts that meet the specifications set
+forth in this contract. “Set-out” is defined as when a customer places or “sets out” their
+food waste collection bin at the POC at the proper time and on the correct day of
+collection.
+C.5.18 Hauling, Processing, and Disposal of Waste
+C.5.18.1 The selected Contractor shall be required to partner with a fully-permitted, licensed,
+and compliant processing facility, with demonstrated experience in processing food
+waste.
+C.5.18.2 The District will pay the selected Contractor(s) a per-ton price for the tipping and
+processing of food waste. The cost for tipping should be incorporated into the Total Price
+for CLIN 0005.
+C.5.18.3 The selected Contractor shall collect and haul food waste either to a self-owned fully-
+permitted, licensed, and compliant processing facility located within 40 miles from the
+US Capitol Building or via a subcontractor, or through another method subject to DPW's
+approval.
+C.5.18.4 The selected Contractor shall deliver and perform all services under this contract to
+the highest industry standards for services of this type, done by those normally engaged
+in this type of business, and in compliance with all applicable codes and regulations.
+C.5.18.5 The selected Contractor shall be responsible for and comply with all city, state, and
+federal regulations and ordinances while performing the prescribed work, including,
+but not limited to material transport and processing, environmental discharges, safety,
+fire, and containers in the right of way.
+C.5.18.6 The selected Contractor shall be responsible for hauling food waste collected from
+participating households under this Contract to a fully-permitted, licensed, and
+compliant processing facility located within 40 miles from the US Capitol Building.
+Hauling mileage shall be calculated per collection vehicle (or transfer vehicle) one-way
+from the last household on the collection route or from a point of transfer to the
+processing facility. The cost for hauling should be incorporated into the Total Price for
+CLIN 0004.
+C.5.18.7 Once per contract year, the selected Contractor shall be responsible for the supply
+and distribution of at least 5 lbs. of bagged finished, biologically stable compost (soil
+product) to each of the participating households. The cost for these efforts (time,
+materials, and labor) should be incorporated into the Total Price for CLIN 0006.
+C.5.19 Participant Education
+The selected Contractor shall work with OWD employees to educate participating
+households about the program. Specifically, the selected Contractor shall distribute
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 22
+
+Educational Materials developed by OWD to participating households as part of the food
+waste collection “starter kits”. The selected Contractor shall also provide direct feedback
+to participating households when contaminated materials are found by using an “oops”
+tag provided by the Contractor as referenced in C.5.14.
+C.5.20 Reporting and Data Tracking
+The selected Contractor shall track and provide the District with
+data to include set out/participation rates, contamination counts and rates, and
+pounds/tons collected and reported monthly by ward. Contractors should clearly explain
+how this data will be tracked and reported.
+C.5.20.1 Weekly Data Report
+The selected Contractor will be expected to provide a very high-quality level of service,
+with a goal of achieving an average rate of collection of 99.0%.
+The selected Contractor shall track and provide the District with weekly collections
+accuracy data report which shall include the number of missed collections reported by
+ward. The selected Contractor shall also include in this report reasonable explanations for
+less than average rate of collection.
+Weekly Data Reports shall be sent to the District by 5 PM each Friday for the duration of
+the contract.
+C.5.20.2 Monthly Data Report
+The selected Contractor shall track and provide the District with performance data on a
+monthly basis to include set out/participation rates, make-up collection counts, material
+replacement delivery counts, contamination counts, and pounds/tons collected monthly
+by ward.
+Contamination counts shall be accompanied by the list of contaminants found that month.
+Tonnage data shall be accompanied by receipts verifying the delivery date and weight of
+all food waste delivered to authorized processors as attachments to invoices when
+submitting to the OWD for payment.
+The Monthly Data Report shall also include updated materials inventory, including bins,
+lids, kitchen caddies, compostable bin liners, and any other District-provided materials or
+equipment. The selected Contractor shall clearly explain how data will be tracked and
+reported through the duration of the contract.
+Monthly Data Reports shall be sent to the District no later than 10 business days after the
+last day of each month.
+C.5.21 Eligible Participating Households
+Households residing in properties with three (3) or fewer units are eligible to receive this
+food waste collection service. The District will be using an opt-in (sign-up) model and
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 23
+
+will select participating households from a waitlist. Priority will be given to households
+residing in low-income and disadvantaged communities. These will be identified using
+the US Environmental Protection Agency (EPA) EJScreen Supplemental Indexes and the
+Climate and Economic Justice Screening Tool (CEJST). After all households on the
+waitlist that meet that criteria have been selected, all other spots will be filled on a first-
+come, first serviced basis. OWD and the selected Contractor will work together to
+decided on the appropriate cadence for phasing in new households.
+Households that do not receive DPW collection or reside in a property with four (4) or
+more units are not eligible to participate and, therefore, shall not be provided collection
+service by the selected Contractor under this contract.
+C.5.22 Registration
+The OWD employees will develop an online application for residents and manage the
+opt-in registration process. Following the contract award, the District will provide the list
+of participating households to the selected Contractor.
+C.5.23 Transition and Continuity of Service
+The selected Contractor shall facilitate a seamless transition to any new contractor at the
+conclusion or termination of the contract. This includes ensuring uninterrupted service
+delivery and providing full cooperation with the District and the incoming contractor.
+Key transition responsibilities include:
+C.5.24 Data and Reporting Transfer
+The selected Contractor shall timely submit all required reports, including operational
+metrics, participation data, and historical records, as specified in the contract. Transfer of
+all data collected during the contract term to the District in a usable format.
+C.5.25 Materials Return
+The selected Contractor shall return any District-provided materials, such as collection
+bins and compostable bin liners, in good working condition and document and reconcile
+all District-owned equipment inventory.
+C.5.26 Operational Coordination
+The selected contractor shall assist with route and service information transfer to the new
+contractor, conduct joint training or shadowing sessions, if requested by the District, to
+ensure continuity of service standards. Further, the Contractor shall designate a transition
+team responsible for managing this process and addressing any issues promptly. The
+transition process must be completed within the timeframe specified by the District to
+avoid service disruptions.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 24
+
+SECTION D: PACKING AND MARKING
+D.1 RESERVED
+SECTION E: INSPECTION AND ACCEPTANCE
+E.1 The inspection and acceptance requirements for this contract shall be governed by clause
+number 5 and 6 of the Government of the District of Columbia's Standard Contract
+Provisions for use with Supplies and Services Contracts, dated July 2010. (Attachment
+J.1)
+E.2 The District reserves the right to inspect all work in progress and to send
+representatives to witness the Contractor(s) in the performance of the required
+services.
+E.3 The CA shall have access to the Contractor(s) facility and equipment to ensure that
+the Contractor(s) meets the terms of this contract.
+E.4 With reasonable notice, the CA shall have access to the Contractor(s) Facility and
+equipment to ensure that The District reserves the right to inspect all work in progress
+and to send representatives the Contractor(s) meets the terms of this Contract, during
+normal business hours. The CA shall conduct visits to the Facilities in a manner that
+does not cause unreasonable interference with the Contractor(s) operations.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 25
+
+SECTION F: PERIOD OF PERFORMANCE AND DELIVERABLES
+F.1 TERM OF CONTRACT
+The term of the contract shall be for a period of one (1) year from date of award specified
+on the letter contract issued on January 15, 2026.
+F.2 OPTION TO EXTEND THE TERM OF THE CONTRACT
+F.2.1 The District may extend the term of this contract for a period of four (4) one- year option
+periods, or successive fractions thereof, by written notice to the Contractor before the
+expiration of the contract; provided that the District will give the Contractor preliminary
+written notice of its intent to extend at least thirty (30) days before the contract expires.
+The preliminary notice does not commit the District to an extension. The exercise of this
+option is subject to the availability of funds at the time of the exercise of this option. The
+Contractor may waive the thirty (30) day preliminary notice requirement by providing a
+written waiver to the Contracting Officer prior to expiration of the contract.
+F.2.2 If the District exercises this option, the extended contract shall be considered to include
+this option provision.
+F.2.3 The price for the option period shall be as specified in the Section B of the contract.
+F.2.4 The total duration of this contract, including the exercise of any options under this clause,
+shall not exceed five (5) years.
+F.3 DELIVERABLES
+The Contractor shall perform the activities required to successfully complete the
+District’s requirements and submit each deliverable to the Contract Administrator (CA)
+identified in section G.9 in accordance with the following:
+Deliverable Quantity Format and Due Date
+(Requirement #) Method of
+Delivery
+Weekly Data 52 (once weekly) Excel spreadsheet, By 5 PM each
+Report (C.5.20.1) pdf or equivalent Friday for the
+duration of the
+contract
+Monthly Data 12 (once monthly) Excel spreadsheet, No later than 10
+Report (C.5.20.2) pdf or equivalent business days
+after the last day
+of each month
+Inventory Report 12 (once monthly) Excel spreadsheet, No later than 10
+(C.5.20.2) pdf or equivalent business days
+after the last day
+of each month
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 26
+
+F.3.1 For contracts subject to the 51% District Residents New Hires Requirements and First
+Source Employment Agreement requirements, the Contractor shall submit to the Contract
+Administrator, as a deliverable, the compliance report or a waiver of compliance with its
+final request for payment.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 27
+
+SECTION G: CONTRACT ADMINISTRATION
+G.1 INVOICE PAYMENT
+G.1.1 The District will make payments to the Contractor, upon the submission of proper
+invoices, at the prices stipulated in this contract, for supplies delivered and accepted or
+services performed and accepted, less any discounts, allowances or adjustments provided
+for in this contract.
+G.1.2 The District will pay the Contractor on or before the 30th day after receiving a proper
+invoice from the Contractor.
+G.2 INVOICE SUBMITTAL
+G.2.1 The Contractor shall create and submit payment requests in an electronic format through
+the DC Vendor Portal, https://vendorportal.dc.gov
+G.2.2 The Contractor shall submit proper invoices on a monthly basis or as otherwise specified
+in Section F.4.
+G.2.3 To constitute a proper invoice, the Contractor shall enter all required information into the
+Portal after selecting the applicable purchase order number which is listed on the
+Contractor’s profile.
+G.3 FIRST SOURCE AGREEMENT REQUEST FOR FINAL PAYMENT
+G.3.1 For contracts subject to the 51% District Residents New Hires Requirements and First
+Source Employment Agreement requirements, final request for payment must be
+accompanied by the compliance report or a waiver of compliance.
+G.3.2 The District may impose monetary fines for willful breach of the employment agreement
+or failure to submit the compliance report.
+G.4 PAYMENT
+Unless otherwise specified in this contract, payment shall be made on
+partial deliveries of goods and services accepted by the District if:
+a) The amount due on the deliveries warrants it; or
+b) The Contractor requests it and the amount due on the deliveries is in
+accordance with the following:
+• "Payment shall be made on completion and acceptance of each item
+for which the price is stated in the Schedule in Section B".
+• "Payment shall be made on completion and acceptance of each item
+in accordance with the agreed upon delivery schedule".
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 28
+
+• "Payment shall be made on completion and acceptance of each
+percentage or stage of work in accordance with the prices stated in
+the Schedule in Section B."; and
+c) Presentation of a properly executed invoice.
+G.5 ASSIGNMENT OF CONTRACT PAYMENTS
+G.5.1 In accordance with 27 DCMR 3250, the Contractor may assign to a bank, trust company,
+or other financing institution funds due or to become due as a result of the performance of
+this contract.
+G.5.2 Any assignment shall cover all unpaid amounts payable under this contract, and shall not
+be made to more than one party.
+G.5.3 Notwithstanding an assignment of contract payments, the Contractor, not the assignee, is
+required to prepare invoices. Where such an assignment has been made, the original
+copy of the invoice must refer to the assignment and must show that payment of the
+invoice is to be made directly to the assignee as follows:
+“Pursuant to the instrument of assignment dated ___________, make payment of this
+invoice to (name and address of assignee).”
+G.6 THE QUICK PAYMENT ACT
+G.6.1 Interest Penalties to Contractors
+G.6.1.1 The District will pay interest penalties on amounts due to the Contractor under the
+Quick Payment Act, D.C. Official Code § 2-221.01 et seq., as amended, for the period
+beginning on the day after the required payment date and ending on the date on which
+payment of the amount is made. Interest shall be calculated at the rate of at least 1%
+per month. No interest penalty shall be paid if payment for the completed delivery of
+the item of property or service is made on or before the required payment date. The
+required payment date shall be:
+G.6.1.1.1 The date on which payment is due under the terms of this contract;
+G.6.1.1.2 Not later than 7 calendar days, excluding legal holidays, after the date of delivery of
+meat or meat food products;
+G.6.1.1.3 Not later than 10 calendar days, excluding legal holidays, after the date of delivery of
+a perishable agricultural commodity; or
+G.6.1.1.4 30 calendar days, excluding legal holidays, after receipt of a proper invoice for the
+amount of the payment due.
+G.6.1.2 No interest penalty shall be due to the Contractor if payment for the completed
+delivery of goods or services is made on or before:
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 29
+
+G.6.1.2.1 3rd day after the required payment date for meat or a meat product;
+G.6.1.2.2 5th day after the required payment date for an agricultural commodity; or
+G.6.1.2.3 15th day after any other required payment date.
+G.6.1.3 Any amount of an interest penalty which remains unpaid at the end of any 30-day
+period shall be added to the principal amount of the debt and thereafter interest
+penalties shall accrue on the added amount.
+G.6.2 Payments to Subcontractors
+G.6.2.1 The Contractor shall take one of the following actions within seven (7) days of receipt
+of any amount paid to the Contractor by the District for work performed by any
+subcontractor under the contract:
+G.6.2.1.1 Pay the subcontractor(s) for the proportionate share of the total payment received
+from the District that is attributable to the subcontractor(s) for work performed under
+the contract; or
+G.6.2.1.2 Notify the CO and the subcontractor(s), in writing, of the Contractor’s intention to
+withhold all or part of the subcontractor’s payment and state the reason for the
+nonpayment.
+G.6.2.2 The Contractor shall pay subcontractors or suppliers interest penalties on amounts due
+to the subcontractor or supplier beginning on the day after the payment is due and
+ending on the date on which the payment is made. Interest shall be calculated at the
+rate of at least 1% per month. No interest penalty shall be paid on the following if
+payment for the completed delivery of the item of property or service is made on or
+before the:
+G.6.2.2.1 3rd day after the required payment date for meat or a meat product;
+G.6.2.2.2 5th day after the required payment date for an agricultural commodity; or
+G.6.2.2.3 15th day after any other required payment date.
+G.6.2.3 Any amount of an interest penalty which remains unpaid by the Contractor at the end
+of any 30-day period shall be added to the principal amount of the debt to the
+subcontractor and thereafter interest penalties shall accrue on the added amount.
+G.6.2.4 A dispute between the Contractor and subcontractor relating to the amounts or
+entitlement of a subcontractor to a payment or a late payment interest penalty under
+the Quick Payment Act does not constitute a dispute to which the District is a party.
+The District may not be interpleaded in any judicial or administrative proceeding
+involving such a dispute.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 30
+
+G.6.3 Subcontract requirements
+G.6.3.1 The Contractor shall include in each subcontract under this contract a provision
+requiring the subcontractor to include in its contract with any lower-tier subcontractor
+or supplier the payment and interest clauses required under paragraphs (1) and (2) of
+D.C. Official Code § 2-221.02(d).
+G.6.3.2 The Contractor shall include in each subcontract under this contract a provision that
+obligates the Contractor, at the election of the subcontractor, to participate in
+negotiation or mediation as an alternative to administrative or judicial resolution of a
+dispute between them.
+G.7 CONTRACTING OFFICER (CO)
+Contracts will be entered into and signed on behalf of the District only by Contracting
+Officers. The contact information for the Contracting Officer is:
+Hildred Pepper
+Office of Contracting and Procurement
+899 North Capitol St, 5th Floor
+Washington, DC 20002
+Telephone: 202-671-0470
+E-mail address: hildred.pepper@dc.gov
+G.8 AUTHORIZED CHANGES BY THE CONTRACTING OFFICER
+G.8.1 The CO is the only person authorized to approve changes in any of the requirements of
+this contract.
+G.8.2 The Contractor shall not comply with any order, directive or request that changes or
+modifies the requirements of this contract, unless issued in writing and signed by the CO.
+G.8.3 In the event the Contractor effects any change at the instruction or request of any person
+other than the CO, the change will be considered to have been made without authority
+and no adjustment will be made in the contract price to cover any cost increase incurred
+as a result thereof.
+G.9 CONTRACT ADMINSTRATOR (CA)
+G.9.1 The CA is responsible for general administration of the contract and advising the CO as
+to the Contractor’s compliance or noncompliance with the contract. The CA has the
+responsibility of ensuring the work conforms to the requirements of the contract and such
+other responsibilities and authorities as may be specified in the contract. These include:
+G.9.1.1 Keeping the CO fully informed of any technical or contractual difficulties encountered
+during the performance period and advising the CO of any potential problem areas under
+the contract;
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 31
+
+G.9.1.2Coordinating site entry for Contractor personnel, if applicable;
+G.9.1.3Reviewing invoices for completed work and recommending approval by the CO if the
+Contractor’s costs are consistent with the negotiated amounts and progress is satisfactory
+and commensurate with the rate of expenditure;
+G.9.1.4Reviewing and approving invoices for deliverables to ensure receipt of goods and
+services. This includes the timely processing of invoices and vouchers in accordance
+with the District’s payment provisions; and
+G.9.1.5Maintaining a file that includes all contract correspondence, modifications, records of
+inspections (site, data, equipment) and invoice or vouchers.
+G.9.2 The address and telephone number of the CA is:
+Primary Contract Administrator (CA) Secondary Contract Administrator (CA)
+Rachel Manning Sarah Hofman-Graham
+OWD Program Analyst OWD Program Analyst
+899 North Capitol St, 5th Floor 899 North Capitol St, 5th Floor
+Washington, DC 20002 Washington, DC 20002
+Telephone: 202-710-3974 Telephone: 202-710-3969
+E-mail address: rachel.manning@dc.gov E-mail address: sarah.hofman-raham@dc.gov
+G.9.3 The CA shall NOT have the authority to:
+1. Award, agree to, or sign any contract, delivery order or task order. Only the CO
+shall make contractual agreements, commitments or modifications;
+2. Grant deviations from or waive any of the terms and conditions of the contract;
+3. Increase the dollar limit of the contract or authorize work beyond the dollar limit
+of the contract,
+4. Authorize the expenditure of funds by the Contractor;
+5. Change the period of performance; or
+6. Authorize the use of District property, except as specified under the contract.
+G.9.4 The Contractor will be fully responsible for any changes not authorized in advance, in
+writing, by the CO; may be denied compensation or other relief for any additional work
+performed that is not so authorized; and may also be required, at no additional cost to the
+District, to take all corrective action necessitated by reason of the unauthorized changes.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 32
+
+SECTION H: SPECIAL CONTRACT REQUIREMENTS
+H.1 HIRING OF DISTRICT RESIDENTS AS APPRENTICES AND TRAINEES
+H.1.1 For all new employment resulting from this contract or subcontracts hereto, as defined in
+Mayor’s Order 83-265 and implementing instructions, the Contractor shall use its best
+efforts to comply with the following basic goal and objectives for utilization of bona fide
+residents of the District of Columbia in each project’s labor force:
+H.1.1.1 At least fifty-one (51) percent of apprentices and trainees employed shall be residents
+of the District of Columbia registered in programs approved by the District of
+Columbia Apprenticeship Council.
+H.1.2 The Contractor shall negotiate an Employment Agreement with the Department of
+Employment Services (DOES) for jobs created as a result of this contract. The DOES
+shall be the Contractor’s first source of referral for qualified apprentices and trainees in
+the implementation of employment goals contained in this clause.
+H.1.3 If a contractor has one or more contracts to provide information technology work to the
+District valued at $500,000 or more during a 12-month period, the contractor is required
+to register an apprenticeship program with the DC Apprenticeship Council through the
+DOES Office of Apprenticeship. The prime contractor shall include this provision its
+subcontracts under those contracts.
+H.2 DEPARTMENT OF LABOR WAGE DETERMINATIONS
+The Contractor shall be bound by the Wage Determination No. 2015-4281 Revision 30,
+dated 7/22/2024, issued by the U.S. Department of Labor in accordance with the Service
+Contract Act, 41 U.S.C. § 351 et seq., and incorporated herein as Section J.2. The
+Contractor shall be bound by the wage rates for the term of the contract subject to
+revision as stated herein and in accordance with clause 24 of the SCP. If an option is
+exercised, the Contractor shall be bound by the applicable wage rates at the time of the
+exercise of the option. If the option is exercised and the CO obtains a revised wage
+determination, the revised wage determination is applicable for the option periods and the
+Contractor may be entitled to an equitable adjustment.
+H.3 PREGNANT WORKERS FAIRNESS
+H.3.1 The Contractor shall comply with the Protecting Pregnant Workers Fairness Act of 2016,
+D.C. Official Code § 32-1231.01 et seq. (PPWF Act).
+H.3.2 The Contractor shall not:
+(a) Refuse to make reasonable accommodations to the known limitations related to
+pregnancy, childbirth, related medical conditions, or breastfeeding for an employee,
+unless the Contractor can demonstrate that the accommodation would impose an undue
+hardship;
+(b) Take an adverse action against an employee who requests or uses a reasonable
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 33
+
+accommodation in regard to the employee's conditions or privileges of employment,
+including failing to reinstate the employee when the need for reasonable accommodations
+ceases to the employee's original job or to an equivalent position with equivalent:
+(1) Pay;
+(2) Accumulated seniority and retirement;
+(3) Benefits; and
+(4) Other applicable service credits;
+(c) Deny employment opportunities to an employee, or a job applicant, if the denial is
+based on the need of the employer to make reasonable accommodations to the known
+limitations related to pregnancy, childbirth, related medical conditions, or breastfeeding;
+(d) Require an employee affected by pregnancy, childbirth, related medical conditions, or
+breastfeeding to accept an accommodation that the employee chooses not to accept if the
+employee does not have a known limitation related to pregnancy, childbirth, related
+medical conditions, or breastfeeding or the accommodation is not necessary for the
+employee to perform her duties;
+(e) Require an employee to take leave if a reasonable accommodation can be provided; or
+(f) Take adverse action against an employee who has been absent from work as a result
+of a pregnancy-related condition, including a pre-birth complication.
+H.3.3 The Contractor shall post and maintain in a conspicuous place a notice of rights in both
+English and Spanish and provide written notice of an employee's right to a needed
+reasonable accommodation related to pregnancy, childbirth, related medical conditions,
+or breastfeeding pursuant to the PPWF Act to:
+(a) New employees at the commencement of employment;
+(b) Existing employees; and
+(c) An employee who notifies the employer of her pregnancy, or other condition covered
+by the PPWF Act, within 10 days of the notification.
+H.3.4 The Contractor shall provide an accurate written translation of the notice of rights to any
+non-English or non-Spanish speaking employee.
+H.3.5 Violations of the PPWF Act shall be subject to civil penalties as described in the Act.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 34
+
+H.4 UNEMPLOYED ANTI-DISCRIMINATION
+H.4.1 The Contractor shall comply with the Unemployed Anti-Discrimination Act of 2012,
+D.C. Official Code § 32-1361 et seq.
+H.4.2 The Contractor shall not:
+(a) Fail or refuse to consider for employment, or fail or refuse to hire, an individual as an
+employee because of the individual's status as unemployed; or
+(b) Publish, in print, on the Internet, or in any other medium, an advertisement or
+announcement for any vacancy in a job for employment that includes:
+(1) Any provision stating or indicating that an individual's status as unemployed
+disqualifies the individual for the job; or
+(2) Any provision stating or indicating that an employment agency will not consider
+or hire an individual for employment based on that individual's status as unemployed.
+H.4.3 Violations of the Unemployed Anti-Discrimination Act shall be subject to civil penalties
+as described in the Act.
+H.5 51% DISTRICT RESIDENTS NEW HIRES REQUIREMENTS AND FIRST
+SOURCE EMPLOYMENT AGREEMENT
+Delete Article 35, 51% District Residents New Hires Requirements and First Source
+Employment Agreement, of the Standard Contract Provisions dated July 2010 for use
+with District of Columbia Government Supplies and Services Contracts and substitute the
+following Section H.5 51% DISTRICT RESIDENTS NEW HIRES
+REQUIREMENTS AND FIRST SOURCE EMPLOYMENT AGREEMENT in its
+place:
+H.5 51% DISTRICT RESIDENTS NEW HIRES REQUIREMENTS AND FIRST
+SOURCE EMPLOYMENT AGREEMENT
+H.5.1 For contracts for services in the amount of $300,000 or more, the Contractor shall
+comply with the First Source Employment Agreement Act of 1984, as amended, D.C.
+Official Code § 2-219.01 et seq. (First Source Act).
+H.5.2 The Contractor shall enter into and maintain during the term of the contract, a First
+Source Employment Agreement (Employment Agreement) with the District of Columbia
+Department of Employment Service’s (DOES), in which the Contractor shall agree that:
+(a) The first source for finding employees to fill all jobs created in order to perform the
+contract shall be the First Source Register; and
+(b) The first source for finding employees to fill any vacancy occurring in all jobs
+covered by the Employment Agreement shall be the First Source Register.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 35
+
+H.5.3 The Contractor shall not begin performance of the contract until its Employment
+Agreement has been accepted by DOES. Once approved, the Employment Agreement
+shall not be amended except with the approval of DOES.
+H.5.4 The Contractor agrees that at least 51% of the new employees hired to perform the
+contract shall be District residents.
+H.5.5 The Contractor’s hiring and reporting requirements under the First Source Act and any
+rules promulgated thereunder shall continue for the term of the contract.
+H.5.6 The CO may impose penalties, including monetary fines of 5% of the total amount of the
+direct and indirect labor costs of the contract, for a willful breach of the Employment
+Agreement, failure to submit the required hiring compliance reports, or deliberate
+submission of falsified data.
+H.5.7 If the Contractor does not receive a good faith waiver, the CO may also impose an
+additional penalty equal to 1/8 of 1% of the total amount of the direct and indirect labor
+costs of the contract for each percentage by which the Contractor fails to meet its hiring
+requirements.
+H.5.8 Any contractor which violates, more than once within a 10-year timeframe, the hiring or
+reporting requirements of the First Source Act shall be referred for debarment for not
+more than five (5) years.
+H.5.9 The contractor may appeal any decision of the CO pursuant to this clause to the D.C.
+Contract Appeals Board as provided in clause 14 of the SCP, Disputes.
+H.5.10 The provisions of the First Source Act do not apply to nonprofit organizations which
+employ 50 employees or less.
+H.6 RESERVED
+H.7 RESERVED
+H.8 RESERVED
+H.9 SUBCONTRACTING REQUIREMENTS
+Delete Article 45, Subcontracting Requirements, of the Standard Contract Provisions dated
+July 2010 for use with District of Columbia Government Supplies and Services Contracts
+and substitute the following Section G.9 SUBCONTRACTING REQUIREMENTS in its
+place:
+H.9.1 Mandatory Subcontracting Requirements
+H.9.1.1 For all contracts in excess of $250,000, at least 35% of the dollar volume of the
+contract shall be subcontracted to qualified small business enterprises (SBEs).
+H.9.1.2 If there are insufficient SBEs to completely fulfill the requirement of paragraph
+H.9.1.1, then the subcontracting may be satisfied by subcontracting 35% of the dollar
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 36
+
+volume to any qualified certified business enterprises (CBEs); provided, however, that
+all reasonable efforts shall be made to ensure that SBEs are significant participants in
+the overall subcontracting work.
+H.9.1.3 A prime contractor that is certified by DSLBD as a small, local or disadvantaged
+business enterprise shall not be required to comply with the provisions of sections
+H.9.1.1 and H.9.1.2.
+H.9.1.4 Except as provided in H.9.1.5 and H.9.1.7, a prime contractor that is a CBE and has
+been granted a proposal preference pursuant to D.C. Official Code § 2-218.43, or is
+selected through a set-aside program, shall perform at least 35% of the contracting
+effort with its own organization and resources and, if it subcontracts, 35% of the
+subcontracting effort shall be with CBEs. A CBE prime contractor that performs less
+than 35% of the contracting effort shall be subject to enforcement actions under D.C.
+Official Code § 2-218.63.
+H.9.1.5 If the prime contractor is a certified joint venture and has been granted a bid preference
+pursuant to D.C. Official Code § 2-218.43, or is selected through a set-aside program,
+the CBE member of the certified joint venture shall perform at least 50% of the
+contracting effort with its own organization and resources and, if it subcontracts, 35%
+of the subcontracting effort shall be with CBEs. If the CBE member of the certified
+joint venture prime contractor performs less than 50% of the contracting effort, the
+certified joint venture shall be subject to enforcement actions under D.C. Official Code
+§ 2-218.63.
+H.9.1.6 Each CBE utilized to meet these subcontracting requirements shall perform at least
+35% of its contracting effort with its own organization and resources.
+H.9.1.7 A prime contractor that is a CBE and has been granted a proposal preference pursuant
+to D.C. Official Code § 2-218.43, or is selected through a set-aside program, shall
+perform at least 50% of the on-site work with its own organization and resources if the
+contract is $1 million or less.
+H.9.2 Subcontracting Plan
+If the prime contractor is required by law to subcontract under this contract, it must
+subcontract at least 35% of the dollar volume of this contract in accordance with the
+provisions of section H.9.1 of this clause. The plan shall be submitted as part of the
+proposal and may only be amended after award with the prior written approval of the CO
+and Director of DSLBD. Any reduction in the dollar volume of the subcontracted portion
+resulting from an amendment of the plan after award shall inure to the benefit of the
+District.
+Each subcontracting plan shall include the following:
+(1) The name and address of each subcontractor;
+A current certification number of the small or certified business enterprise;
+(3) The scope of work to be performed by each subcontractor; and
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 37
+
+(4) The price that the prime contractor will pay each subcontractor.
+H.9.3 Copies of Subcontracts
+Within twenty-one (21) days of the date of award, the Contractor shall provide fully
+executed copies of all subcontracts identified in the subcontracting plan to the CO, CA,
+District of Columbia Auditor and the Director of DSLBD.
+H.9.4 Subcontracting Plan Compliance Reporting
+H.9.4.1 If the Contractor has a subcontracting plan required by law for this contract, the
+Contractor shall submit a quarterly report to the CO, CA, District of Columbia
+Auditor and the Director of DSLBD. The quarterly report shall include the following
+information for each subcontract identified in the subcontracting plan:
+(A) The price that the prime contractor will pay each subcontractor under the
+subcontract;
+(B) A description of the goods procured or the services subcontracted for;
+(C) The amount paid by the prime contractor under the subcontract; and
+(D) A copy of the fully executed subcontract, if it was not provided with an earlier
+quarterly report.
+H.9.4.2 If the fully executed subcontract is not provided with the quarterly report, the prime
+contractor will not receive credit toward its subcontracting requirements for that
+subcontract.
+H.9.5 Annual Meetings
+Upon at least 30-days written notice provided by DSLBD, the Contractor shall meet
+annually with the CO, CA, District of Columbia Auditor and the Director of DSLBD to
+provide an update on its subcontracting plan.
+H.9.6 Notices
+The Contractor shall provide written notice to the DSLBD and the District of Columbia
+Auditor upon commencement of the contract and when the contract is completed.
+H.9.7 Enforcement and Penalties for Breach of Subcontracting Plan
+H.9.7.1 A contractor shall be deemed to have breached a subcontracting plan required by law,
+if the contractor (i) fails to submit subcontracting plan monitoring or compliance
+reports or other required subcontracting information in a reasonably timely manner;
+(ii) submits a monitoring or compliance report or other required subcontracting
+information containing a materially false statement; or (iii) fails to meet its
+subcontracting requirements.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 38
+
+H.9.7.2 A contractor that is found to have breached its subcontracting plan for utilization of
+CBEs in the performance of a contract shall be subject to the imposition of penalties,
+including monetary fines in accordance with D.C. Official Code § 2-218.63.
+H.9.7.3 If the CO determines the Contractor’s failure to be a material breach of the contract,
+the CO shall have cause to terminate the contract under the default provisions in
+clause 8 of the SCP, Default.
+H.10 FAIR CRIMINAL RECORD SCREENING
+H.10.1 The Contractor shall comply with the provisions of the Fair Criminal Record
+Screening Amendment Act of 2014, effective December 17, 2014 (D.C. Law 20-152)
+(the “Act” as used in this section). This section applies to any employment, including
+employment on a temporary or contractual basis, where the physical location of the
+employment is in whole or substantial part within the District of Columbia.
+H.10.2 Prior to making a conditional offer of employment, the Contractor shall not require an
+applicant for employment, or a person who has requested consideration for
+employment by the Contractor, to reveal or disclose an arrest or criminal accusation
+that is not then pending or did not result in a criminal conviction.
+H.10.3 After making a conditional offer of employment, the Contractor may require an
+applicant to disclose or reveal a criminal conviction.
+H.10.4 The Contractor may only withdraw a conditional offer of employment, or take
+adverse action against an applicant, for a legitimate business reason as described in
+the Act.
+H.10.5 This section and the provisions of the Act shall not apply:
+(a) Where a federal or District law or regulation requires the consideration of an
+applicant’s criminal history for the purposes of employment;
+(b) To a position designated by the employer as part of a federal or District
+government program or obligation that is designed to encourage the employment
+of those with criminal histories;
+(c) To any facility or employer that provides programs, services, or direct care to,
+children, youth, or vulnerable adults; or
+(d) To employers that employ less than 11 employees.
+H.10.6 A person claiming to be aggrieved by a violation of the Act may file an
+administrative complaint with the District of Columbia Office of Human Rights, and
+the Commission on Human Rights may impose monetary penalties against the
+Contractor.
+H.11 RESERVED
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 39
+
+H.12 RESERVED
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 40
+
+SECTION I: CONTRACT CLAUSES
+I.1 APPLICABILITY OF STANDARD CONTRACT PROVISIONS
+The Standard Contract Provisions for use with District of Columbia Government
+Supplies and Services Contracts dated July 2010 (“SCP”) are incorporated as part of the
+contract. To obtain a copy of the SCP go to http://ocp.dc.gov, under Quick Links click
+on “Required Solicitation Documents”.
+I.2 CONTRACTS THAT CROSS FISCAL YEARS
+Continuation of this contract beyond the current fiscal year is contingent upon future fiscal
+appropriations.
+I.3 CONFIDENTIALITY OF INFORMATION
+The Contractor shall keep all information relating to any employee or customer of the
+District in absolute confidence and shall not use the information in connection with any
+other matters; nor shall it disclose any such information to any other person, firm or
+corporation, in accordance with the District and federal laws governing the
+confidentiality of records.
+I.4 TIME
+Time, if stated in a number of days, will include Saturdays, Sundays, and holidays, unless
+otherwise stated herein.
+I.5 INDEMNIFICATION AND LIMITATION OF LIABILITY
+The Contractor shall indemnify and save and hold harmless the District, its officers,
+agents and employees acting within the scope of their official duties against any liability,
+including costs and expenses, (i) for violation of proprietary rights, copyrights, or rights
+of privacy, arising out of the publication, translation, reproduction, delivery,
+performance, use or disposition of any data furnished under this contract, or (ii) based
+upon any data furnished under this contract, or based upon libelous or other unlawful
+matter contained in such data.
+I.6 OTHER CONTRACTORS
+The Contractor shall not commit or permit any act that will interfere with the
+performance of work by another District contractor or by any District employee.
+I.7 SUBCONTRACTS
+a. The Contractor hereunder shall not subcontract any of the Contractor’s work or
+services to any subcontractor without the prior written consent of the CO. Any
+work or service so subcontracted shall be performed pursuant to a subcontract
+agreement, which the District will have the right to review and approve prior to its
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 41
+
+execution by the Contractor. Any such subcontract shall specify that the
+Contractor and the subcontractor shall be subject to every provision of this
+contract. Notwithstanding any such subcontract approved by the District, the
+Contractor shall remain liable to the District for all Contractor's work and services
+required hereunder.
+b. The Contractor shall ensure that its subcontractors at all times meet the criteria for
+responsibility as described in D.C. Official Code §2-353.01
+I.8 INSURANCE
+A. GENERAL REQUIREMENTS. The Contractor shall procure and maintain, during
+the entire period of performance under this contract, the types of insurance specified
+below. The Contractor shall have its insurance broker or insurance company submit
+a Certificate of Insurance to the CO giving evidence of the required coverage prior to
+commencing performance under this contract. In no event shall any work be
+performed until the required Certificates of Insurance signed by an authorized
+representative of the insurer(s) have been provided to, and accepted by, the CO. All
+insurance shall be written with financially responsible companies authorized to do
+business in the District of Columbia or in the jurisdiction where the work is to be
+performed and have an A.M. Best Company rating of A-VIII or higher. The
+Contractor shall require all of its subcontractors to carry the same insurance required
+herein. The Contractor shall ensure that all policies provide that the CO shall be
+given thirty (30) days prior written notice in the event the stated limit in the
+declarations page of the policy is reduced via endorsement or the policy is canceled
+prior to the expiration date shown on the certificate. The Contractor shall provide the
+CO with ten (10) days prior written notice in the event of non-payment of premium.
+1. Commercial General Liability Insurance. The Contractor shall provide
+evidence satisfactory to the CO with respect to the services performed that it
+carries $1,000,000 per occurrence limits; $2,000,000 aggregate; Bodily Injury
+and Property Damage including, but not limited to: premises-operations;
+broad form property damage; Products and Completed Operations; Personal
+and Advertising Injury; contractual liability and independent contractors. The
+policy coverage shall include the District of Columbia as an additional
+insured, shall be primary and non-contributory with any other insurance
+maintained by the District of Columbia, and shall contain a waiver of
+subrogation. The Contractor shall maintain Completed Operations coverage
+for five (5) years following final acceptance of the work performed under this
+contract.
+2. Automobile Liability Insurance. The Contractor shall provide automobile
+liability insurance to cover all owned, hired or non-owned motor vehicles used
+in conjunction with the performance of this contract. The policy shall provide
+a $1,000,000 per occurrence combined single limit for bodily injury and
+property damage.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 42
+
+3. Workers’ Compensation Insurance. The Contractor shall provide Workers’
+Compensation insurance in accordance with the statutory mandates of the
+District of Columbia or the jurisdiction in which the contract is performed.
+Employer’s Liability Insurance. The Contractor shall provide employer’s
+liability insurance as follows: $500,000 per accident for injury; $500,000 per
+employee for disease; and $500,000 for policy disease limit.
+4. Cyber Liability Insurance - The Contractor shall provide evidence satisfactory
+to the Contracting Officer of Cyber Liability Insurance, with limits not less
+than $2,000,000 per occurrence or claim, $2,000,000 aggregate. Coverage
+shall be sufficiently broad to respond to the duties and obligations as is
+undertaken by Contractor in this agreement and shall include, but not limited
+to, claims involving infringement of intellectual property, including but not
+limited to infringement of copyright, trademark, trade dress, invasion of
+privacy violations, information theft, damage to or destruction of electronic
+information, release of private information, alteration of electronic
+information, extortion and network security. The policy shall provide
+coverage for breach response costs as well as regulatory fines and penalties as
+well as credit monitoring expenses with limits sufficient to respond to these
+obligations. This insurance requirement will be considered met if the general
+liability insurance includes an affirmative cyber endorsement for the required
+amounts and dates.
+5. Environmental Liability/Contractors Pollution Liability Insurance
+- The Contractor shall provide evidence satisfactory to the CO of
+environmental liability insurance covering losses caused by
+pollution or other hazardous conditions arising from ongoing or
+completed operations of the Contractor. Such insurance shall
+apply to bodily injury, property damage (including loss of use of
+damaged property or of property that has been physically injured),
+clean-up costs, transit and non-owned disposal sites. Coverage
+shall extend to defense costs and expenses incurred in the
+investigation, civil fines, penalties and damages or settlements.
+There shall be neither an exclusion nor a sublimit for mold or
+fungus-related claims. The minimum limits required under this
+paragraph shall be equal to the greater of (i) the limits set forth in
+the Contractor’s pollution liability policy or (ii) $2,000,000 per
+occurrence and $2,000,000 in the annual aggregate. If such
+coverage is written on a claims-made basis, the Contractor
+warrants that any retroactive date applicable to coverage under the
+policy precedes the Contractor’s performance of any work under
+the Contract and that continuous completed operations coverage
+will be maintained for at least ten (10) years or an extended
+reporting period shall be purchased for no less than ten (10) years
+after completion.
+The Contractor also must furnish with the CO - Owner certificates
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 43
+
+of insurance evidencing environmental liability insurance
+maintained by third party transportation and disposal site
+operators(s) used by the Contractor for losses arising from
+facility(ies) accepting, storing or disposing hazardous materials or
+other waste as a result of the Contractor’s operations. Such
+coverages must be maintained with limits of at least the amounts set
+forth above.
+6. Commercial Umbrella or Excess Liability - The Contractor
+provide evidence satisfactory to the CO of commercial
+umbrella or excess liability insurance with minimum limits
+equal to the greater of (i) the limits set forth in the Contractor’s
+umbrella or excess liability policy or (ii) $10,000,000 per
+occurrence and $10,000,000 in the annual aggregate, following
+the form and in excess of all liability policies. All liability
+coverage must be scheduled under the umbrella and/or excess
+policy. The insurance required under this paragraph shall be
+written in a form that annually reinstates all required limits.
+Coverage shall be primary to any insurance, self-insurance or
+reinsurance maintained by the District and the “other
+insurance” provision must be amended in accordance with this
+requirement and principles of vertical exhaustion.
+B. DURATION. The Contractor shall carry all required insurance until all contract work is
+accepted by the District, and shall carry the required General Liability; any required
+Professional Liability; and any required Employment Practices Liability insurance for
+five (5) years following final acceptance of the work performed under this contract.
+C. LIABILITY. These are the required minimum insurance requirements established by the
+District of Columbia. HOWEVER, THE REQUIRED MINIMUM INSURANCE
+REQUIREMENTS PROVIDED ABOVE WILL NOT IN ANY WAY LIMIT THE
+CONTRACTOR’S LIABILITY UNDER THIS CONTRACT.
+D. CONTRACTOR’S PROPERTY. Contractor and subcontractors are solely responsible
+for any loss or damage to their personal property, including but not limited to tools and
+equipment, scaffolding and temporary structures, rented machinery, or owned and leased
+equipment. A waiver of subrogation shall apply in favor of the District of Columbia.
+E. MEASURE OF PAYMENT. The District shall not make any separate measure or
+payment for the cost of insurance and bonds. The Contractor shall include all of the costs
+of insurance and bonds in the contract price.
+F. NOTIFICATION. The Contractor shall immediately provide the CO with written notice
+in the event that its insurance coverage has or will be substantially changed, canceled or
+not renewed, and provide an updated certificate of insurance to the CO.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 44
+
+G. CERTIFICATES OF INSURANCE. The Contractor shall submit certificates of
+insurance giving evidence of the required coverage as specified in this section prior to
+commencing work. Evidence of insurance shall be submitted to:
+The Government of the District of
+Columbia and mailed to the
+attention of:
+Hildred Pepper, Contracting Officer
+Office of Contracting and
+Procurement
+899 North Capitol St, 5th
+Floor Washington DC 20009
+Phone Number: 202-671-0470
+E-mail Address:
+hildred.pepper@dc.gov
+H. Disclosure of information. The Contractor agrees that the District may disclose the name
+and contact information of its insurers to any third party which presents a claim against the
+District for any damages or claims resulting from or arising out of work performed by the
+Contractor, its agents, employees, servants or subcontractors in the performance of this contract.
+I.9 EQUAL EMPLOYMENT OPPORTUNITY
+In accordance with the District of Columbia Administrative Issuance System, Mayor’s
+Order 85-85 dated June 10, 1985, the forms for completion of the Equal Employment
+Opportunity Information Report are incorporated herein as Section J.3. An award cannot
+be made to any offeror who has not satisfied the equal employment requirements.
+I.10 ORDER OF PRECEDENCE
+A conflict in language shall be resolved by giving precedence to the document in the
+highest order of priority that contains language addressing the issue in question. The
+following documents are incorporated into the contract by reference and made a part of
+the contract in the following order of precedence:
+(1) An applicable Court Order, if any
+(2) Contract document
+(3) Standard Contract Provisions
+(4) Contract attachments other than the Standard Contract Provisions
+(5) RFP, as amended
+(6) BAFOs (in order of most recent to earliest)
+(7) Proposal
+I.11 DISPUTES
+Delete Article 14, Disputes, of the Standard Contract Provisions dated July 2010 for use
+with District of Columbia Government Supplies and Services Contracts and substitute the
+following Article 14, Disputes, in its place:
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 45
+
+14. Disputes
+All disputes arising under or relating to the contract shall be resolved as provided herein.
+(a) Claims by the Contractor against the District: Claim, as used in paragraph
+(a) of this clause, means a written assertion by the Contractor seeking, as a
+matter of right, the payment of money in a sum certain, the adjustment or
+interpretation of contract terms, or other relief arising under or relating to the
+contract. A claim arising under a contract, unlike a claim relating to that
+contract, is a claim that can be resolved under a contract clause that provides
+for the relief sought by the claimant
+(1) All claims by a Contractor against the District arising under or relating to a
+contract shall be in writing and shall be submitted to the CO for a decision. The
+Contractor’s claim shall contain at least the following:
+(i) A description of the claim and the amount in dispute;
+(ii) Data or other information in support of the claim;
+(iii)A brief description of the Contractor’s efforts to resolve the dispute prior
+to filing the claim; and
+(iii) The Contractor’s request for relief or other action by the CO.
+(2) The CO may meet with the Contractor in a further attempt to resolve the claim by
+agreement.
+(3) The CO shall issue a decision on any claim within 120 calendar days after receipt
+of the claim. Whenever possible, the CO shall take into account factors such as
+the size and complexity of the claim and the adequacy of the information in
+support of the claim provided by the Contractor.
+(4) The CO’s written decision shall do the following:
+(i) Provide a description of the claim or dispute;
+(ii) Refer to the pertinent contract terms;
+(iii) State the factual areas of agreement and disagreement;
+(iv) State the reasons for the decision, including any specific
+findings of fact, although specific findings of fact are not
+required and, if made, shall not be binding in any subsequent
+proceeding;
+(v) If all or any part of the claim is determined to be valid,
+determine the amount of monetary settlement, the contract
+adjustment to be made, or other relief to be granted;
+(vi) Indicate that the written document is the CO’s final
+decision; and
+(vii) Inform the Contractor of the right to seek further redress by
+appealing the decision to the Contract Appeals Board.
+(5) Failure by the CO to issue a decision on a contract claim within 120 days of
+receipt of the claim will be deemed to be a denial of the claim, and will authorize
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 46
+
+the commencement of an appeal to the Contract Appeals Board as provided by
+D.C. Official Code § 2-360.04.
+(6) If a contractor is unable to support any part of its claim and it is
+determined that the inability is attributable to a material misrepresentation
+of fact or fraud on the part of the Contractor, the Contractor shall be liable
+to the District for an amount equal to the unsupported part of the claim in
+addition to all costs to the District attributable to the cost of reviewing that
+part of the Contractor’s claim. Liability under this paragraph (a)(6) shall
+be determined within six (6) years of the commission of the
+misrepresentation of fact or fraud.
+(7) Pending final decision of an appeal, action, or final settlement, the Contractor
+shall proceed diligently with performance of the contract in accordance with the
+decision of the CO.
+(b) Claims by the District against the Contractor: Claim as used in paragraph
+(b) of this clause, means a written demand or written assertion by the District
+seeking, as a matter of right, the payment of money in a sum certain, the
+adjustment of contract terms, or other relief arising under or relating to the
+contract. A claim arising under a contract, unlike a claim relating to that
+contract, is a claim that can be resolved under a contract clause that provides
+for the relief sought by the claimant.
+(1) The CO shall decide all claims by the District against a contractor arising under or
+relating to a contract.
+(2) The CO shall send written notice of the claim to the contractor. The CO’s
+written decision shall do the following:
+(i) Provide a description of the claim or dispute;
+(ii) Refer to the pertinent contract terms;
+(iii) State the factual areas of agreement and disagreement;
+State the reasons for the decision, including any specific
+findings of fact, although specific findings of fact are not
+required and, if made, shall not be binding in any subsequent
+proceeding;
+(iv) If all or any part of the claim is determined to be valid, determine the
+amount of monetary settlement, the contract adjustment to be made,
+or other relief to be granted;
+(v) Indicate that the written document is the CO’s final decision;
+and
+(vi) Inform the Contractor of the right to seek further redress by
+appealing the decision to the Contract Appeals Board.
+(3) The CO shall support the decision by reasons and shall inform the
+Contractor of its rights as provided herein.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 47
+
+(4) Before or after issuing the decision, the CO may meet with the Contractor
+to attempt to resolve the claim by agreement.
+(5) The authority contained in this paragraph (b) shall not apply to a claim or
+dispute for penalties or forfeitures prescribed by statute or regulation
+which another District agency is specifically authorized to administer,
+settle or determine.
+(6) This paragraph shall not authorize the CO to settle, compromise, pay, or
+otherwise adjust any claim involving fraud.
+(c) Decisions of the CO shall be final and not subject to review unless the Contractor
+timely commences an administrative appeal for review of the decision, by filing a
+complaint with the Contract Appeals Board, as authorized by D.C. Official Code
+§ 2-360.04.
+(d) Pending final decision of an appeal, action, or final settlement, the
+Contractor shall proceed diligently with performance of the contract in
+accordance with the decision of the CO.
+I.12 CHANGES
+(a) The CO may, at any time, by written order, and without notice to the surety, if any,
+make changes in the contract within the general scope hereof. If such change causes
+an increase or decrease in the cost of performance of the contract, or in the time
+required for performance, an equitable adjustment shall be made. Any claim for
+adjustment for a change within the general scope must be asserted within ten (10)
+days from the date the change is ordered; provided, however, that the CO, if he or
+she determines that the facts justify such action, may receive, consider and adjust any
+such claim asserted at any time prior to the date of final settlement of the contract. If
+the parties fail to agree upon the adjustment to be made, the dispute shall be
+determined as provided in clause 14 Disputes.
+(b) The District shall not require the Contractor, and the Contractor shall not require a
+subcontractor, to undertake any work that is beyond the original scope of the contract
+or subcontract, including work under a District-issued change order, when the
+additional work increases the contract price beyond the not-to-exceed price or
+negotiated maximum price of this contract, unless the CO:
+(1) Agrees with Contractor, and if applicable, the subcontractor on a price for
+the additional work;
+(2) Obtains a certification of funding to pay for the additional work;
+(3) Makes a written, binding commitment with the Contractor to pay for the
+additional work within 30-days after the Contractor submits a proper
+invoice; and
+(4) Provides the Contractor with written notice of the funding certification.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 48
+
+(c) The Contractor shall include in its subcontracts a clause that requires the Contractor
+to:
+(1) Within 5 business days of its receipt of notice the approved additional
+funding, provide the subcontractor with notice of the amount to be paid to
+the subcontractor for the additional work to be performed by the
+subcontractor;
+(2) Pay the subcontractor any undisputed amount to which the subcontractor
+is entitled for the additional work within 10 days of receipt of payment
+from the District; and
+(3) Notify the subcontractor and CO in writing of the reason the Contractor
+withholds any payment from a subcontractor for the additional work.
+(d) Neither the District, Contractor, nor any subcontractor may declare another party to
+be in default, or assess, claim, or pursue damages for delays, until the parties to agree
+on a price for the additional work.
+I.13 NON-DISCRIMINATION CLAUSE
+Delete clause 19, Non-Discrimination Clause, of the Standard Contract Provisions dated
+July 2010 for use with District of Columbia Government Supplies and Services Contracts
+and substitute the following clause 19, Non-Discrimination Clause, in its place:
+19. Non-Discrimination Clause:
+(a) The Contractor shall not discriminate in any manner against any employee or applicant for
+employment that would constitute a violation of the District of Columbia Human Rights Act,
+effective December 13, 1977, as amended (D.C. Law 2-38; D.C. Official Code § 2-1401.01
+et seq.) (“Act”, as used in this clause). The Contractor shall include a similar clause in all
+subcontracts, except subcontracts for standard commercial supplies or raw materials. In
+addition, the Contractor agrees, and any subcontractor shall agree, to post in conspicuous
+places, available to employees and applicants for employment, a notice setting forth the
+provisions of this non-discrimination clause as provided in section 251 of the Act.
+(b) Pursuant to Mayor’s Order 85-85, (6/10/85), Mayor’s Order 2002-175 (10/23/02), Mayor’s
+Order 2011-155 (9/9/11) and the rules of the Office of Human Rights, Chapter 11 of Title 4
+of the D.C. Municipal Regulations, the following clauses apply to the contract:
+(1) The Contractor shall not discriminate against any employee or applicant
+for employment because of actual or perceived: race, color, religion,
+national origin, sex, age, marital status, personal appearance, sexual
+orientation, gender identity or expression, family responsibilities, genetic
+information, disability, matriculation, political affiliation, or credit
+information. Sexual harassment is a form of sex discrimination which is
+prohibited by the Act. In addition, harassment based on any of the above
+protected categories is prohibited by the Act.
+(2) The Contractor agrees to take affirmative action to ensure that applicants
+are employed, and that employees are treated during employment, without
+regard to their actual or perceived: race, color, religion, national origin,
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 49
+
+sex, age, marital status, personal appearance, sexual orientation, gender
+identity or expression, family responsibilities, genetic information,
+disability, matriculation, political affiliation, or credit information. The
+affirmative action shall include, but not be limited to the following:
+(a) employment, upgrading or transfer;
+(b) recruitment, or recruitment advertising;
+(c) demotion, layoff or termination;
+(d) rates of pay, or other forms of compensation; and
+(e) selection for training and apprenticeship.
+(3) The Contractor agrees to post in conspicuous places, available to
+employees and applicants for employment, notices to be provided by the
+contracting agency, setting forth the provisions in paragraphs 19(b)(1) and
+(b)(2) concerning non-discrimination and affirmative action.
+(4) The Contractor shall, in all solicitations or advertisements for employees
+placed by or on behalf of the Contractor, state that all qualified applicants
+will receive consideration for employment pursuant to the non-
+discrimination requirements set forth in paragraph 19(b)(2).
+(5) The Contractor agrees to send to each labor union or representative of
+workers with which it has a collective bargaining agreement or other
+contract or understanding, a notice to be provided by the contracting
+agency, advising the said labor union or workers’ representative of that
+contractor’s commitments under this nondiscrimination clause and the Act,
+and shall post copies of the notice in conspicuous places available to
+employees and applicants for employment.
+(6) The Contractor agrees to permit access to its books, records, and accounts
+pertaining to its employment practices, by the Chief Procurement Officer
+or designee, or the Director of the Office of Human Rights or designee, for
+purposes of investigation to ascertain compliance with the Act, and to
+require under terms of any subcontractor agreement each subcontractor to
+permit access of such subcontractors’ books, records, and accounts for
+such purposes.
+(7) The Contractor agrees to comply with the provisions of the Act and with
+all guidelines for equal employment opportunity applicable in the District
+adopted by the Director of the Office of Human Rights, or any authorized
+official.
+(8) The Contractor shall include in every subcontract the equal opportunity
+clauses, i.e., paragraphs 19(b)(1) through (b)(9) of this clause, so that such
+provisions shall be binding upon each subcontractor.
+(9) The Contractor shall take such action with respect to any subcontract as
+the CO may direct as a means of enforcing these provisions, including
+sanctions for noncompliance; provided, however, that in the event the
+Contractor becomes involved in, or is threatened with, litigation with a
+subcontractor or vendor as a result of such direction by the contracting
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 50
+
+agency, the Contractor may request the District to enter into such litigation
+to protect the interest of the District.
+I.14 COST AND PRICING DATA
+Delete clause 25, Cost and Pricing Data, of the Standard Contract Provisions
+dated July 2010 for use with District of Columbia Government Supplies and
+Services Contracts.
+I.15 SPECIAL PROVISION RELATED TO CITY ADMINISTRATOR’S ORDER
+2022-3
+Contractors who provide goods or perform services in person in District of Columbia
+facilities or worksites shall ensure that each of their employees, agents, subcontractors,
+and supervised volunteers comply with City Administrator’s Order 2022-3, Mask
+Requirements Inside Certain District Government Buildings and Offices, dated April 14,
+2022, and all substantially similar mask requirements including any modifications to the
+Order, unless and until they are rescinded.
+I.16 CAMPAIGN FINANCE REFORM
+I.16.1 Mandatory Certification
+I.16.1.1 The Contractor shall certify that it has read and is in compliance with the
+Campaign Finance Reform Amendment Act of 2018, effective March 13, 2019 (D.C.
+Law 22-250; D.C. Official Code § 1-1001.03 et seq.). This certification is included in
+the Bidder/Offeror Certification Form.
+I.16.1.2The Contractor shall re-certify prior to the exercise of any option period that it
+has read and is in compliance with the Campaign Finance Reform Amendment Act of
+2018, effective March 13, 2019 (D.C. Law 22-250; D.C. Official Code § 1-1001.03 et
+seq.). This certification is included in the Bidder/Offeror Certification Form.
+I.16.2 Reporting Contractor’s Principals
+Contractors shall inform the contracting officer of any change to its principals during the
+term of the contract within thirty (30) days of its occurrence.
+I.16.3 Prohibited Contributions
+I.16.3.1 For contracts with a maximum aggregate value (the total sum of the contract ceiling for
+the base period and any subsequent option periods) of between $250,000 and up to and
+including $1,000,000 and a base period of performance of 1 year or less, neither the
+Contractor nor any of its principals may make any contribution to the Mayor, any
+candidate for Mayor, any political committee affiliated with the Mayor or a candidate for
+Mayor, or any constituent-service program affiliated with the Mayor for the period from
+the date of contract award through one year after the contract ends or is terminated.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 51
+
+I.16.3.2 For contracts with a maximum aggregate value (the total sum of the contract ceiling for
+the base period and any subsequent option periods) of over $1,000,000 or with a base
+period of longer than 1 year, neither the Contractor nor any of its principals may make
+any contribution to the Mayor, any candidate for Mayor, any political committee
+affiliated with the Mayor or a candidate for Mayor, any constituent-service program
+affiliated with the Mayor, any Councilmember, any candidate for Councilmember, any
+political committee affiliated with a Councilmember or a candidate for Councilmember,
+or any constituent-service program affiliated with a Councilmember for the period from
+the date of contract award through one year after the contract ends or is terminated.
+I.17. AMERICANS WITH DISABILITIES ACT of 1990 (ADA)
+During the performance of the contract, the Contractor and all of its subcontractors shall
+comply with the ADA. The ADA makes it unlawful to discriminate in employment
+against a qualified individual with a disability. Contractors providing public
+transportation shall comply with Title II of the ADA. Contractors providing public
+accommodation shall comply with Title III of the ADA. Contractors providing
+telecommunication shall comply with Title IV of the ADA. See 42 U.S.C. § 12101 et
+seq.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 52
+
+SECTION J: ATTACHMENTS
+The following list of solicitation attachments is incorporated into this contract by reference.
+Contract# CW127336: Residential Food Waste Collection, Hauling, & Processing Services 53

@@ -1,0 +1,124 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3
+4 26-40
+5
+6
+7 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+8
+9 ___________
+10
+11
+12 To amend Chapter 46 of Title 47 of the District of Columbia Official Code to abate the real property
+13 taxes on the real property known as Lot 2, Square 1048, Suffix-S, or 1333 M Street, SE, in
+14 Ward 6.
+15
+16 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+17 act may be cited as the “1333 M Street, SE Tax Abatement Amendment Act of 2025”.
+18 Sec. 2. Chapter 46 of Title 47 of the District of Columbia Official Code is amended as
+19 follows:
+20 (a) The table of contents is amended by adding a new section designation to read as follows:
+21 “§ 47-4682. 1333 M Street, SE development project tax abatement.”.
+22 (b) A new section 47-4682 is added to read as follows:
+23 “§ 47-4682. 1333 M Street, SE development project tax abatement.
+24 “(a) For the purpose of this section, the term:
+25 “(1) “Developer” means FRF Land Owner LLC, its successors, affiliates, and
+26 assigns.
+1
+
+ENGROSSED ORIGINAL
+27 “(2) “Inclusionary Units” means a unit set aside for sale or rental to eligible
+28 households as required by the Inclusionary Zoning Program or established by an order approving
+29 a Planned Unit Development pursuant to Chapter 3 of Title 11-X of the District of Columbia
+30 Municipal Regulations.
+31 “(3) “Orders” means Z.C. Order No. 20-06, effective April 23, 2021, as amended
+32 and extended pursuant to Z.C. Order No. 20-06A, effective September 8, 2022, Z.C. Order No.
+33 20-06B, effective April 7, 2023, and Z.C. Order No. 20-06C, effective April 28, 2023.
+34 “(4) “Project” means the Planned Unit Development (“PUD”) approved by the
+35 Zoning Commission of the District of Columbia pursuant to the Orders.
+36 “(5) “Property” means the real property, including any improvements thereon,
+37 located at 1333 M Street, SE, known for tax assessment purposes as Lot 2, Square 1048, Suffix-S,
+38 or as the land for such lots may be subdivided into record lots, assessment and taxation lots,
+39 condominium lots, air rights lots, or any combination in the future.
+40 “(b) Subject to subsections (c) and (d) of this section, for the 15 consecutive tax years
+41 beginning on October 1, 2029, the Property shall be allowed an annual real property tax abatement
+42 equal to the amount of the real property taxes assessed and imposed by Chapter 8 of this title, in
+43 excess of any amount over $150,000 per year.
+44 “(c) The Property shall be eligible for the abatement authorized in subsection (b) of this
+45 section in each tax year that Mayor determines that the Developer has met the following conditions,
+46 consistent, as applicable, with the terms established under the Orders:
+2
+
+ENGROSSED ORIGINAL
+47 “(1) To the extent constructed, the Developer has reserved a minimum of 12% of
+48 the residential gross floor area of the Project as inclusionary units for households earning equal to
+49 or less than 60% of the median family income (“MFI”), including 3 of the 6 two-bedroom
+50 inclusionary units in the East Tower for households earning equal to or less than 50% of the MFI.
+51 “(2) The Developer has constructed or is in the process of constructing each of the
+52 following public space improvements that provide benefits of special value to the neighborhood:
+53 “(A) A neighborhood greenway on Water Street, SE, between 12th
+54 and M Streets, SE;
+55 “(B) The Arrival Plaza, Waterfront Plaza, 14th Street Corridor Plaza,
+56 and Lower Retail Promenade;
+57 “(C) A reconstructed Anacostia Bicycle Trail on M Street, SE;
+58 “(D) A reconstructed Virginia Avenue, SE with bioretention
+59 facilities; and
+60 “(E) The installation of 52 short-term bicycle spaces in public space
+61 on M Street and Virginia Avenue, SE.
+62 “(3) The Developer has provided a one-time monetary contribution in the amount
+63 of $25,000 to the Department of Parks and Recreation to support the programming for seniors at
+64 the Arthur Capper Recreation Center.
+3
+
+ENGROSSED ORIGINAL
+65 “(4) The Developer has provided a one-time monetary contribution in the amount
+66 of $25,000 to the Seafarer’s Yacht Club, located in Washington, DC to support the operations and
+67 preservation of the Yacht Club.
+68 “(d)(1) By October 31 of each tax year commencing on or after October 1, 2029, the
+69 Developer shall provide to the Mayor information with respect to each of the conditions provided
+70 in subsection (c) of this section sufficient to enable the Mayor to determine whether each such
+71 condition has been satisfied.
+72 “(2) By December 31 of the tax year, the Mayor shall determine whether the
+73 Property is eligible for the abatement provided in subsection (b) of this section for that tax year
+74 and shall so certify to the Office of Tax and Revenue (“OTR”). The Mayor’s certification shall
+75 include:
+76 “(A) The Developer’s taxpayer identification number;
+77 “(B) A description of the eligible Property, by street address and square, lot,
+78 parcel, or reservation number, including the number of floors, location, and square footage;
+79 “(C) A statement as to whether the Developer has satisfied the conditions
+80 enumerated in subsection (c) of this section; and
+81 “(D) Any other information that OTR considers necessary or appropriate.”
+82 “(3) If at any time the Mayor determines that the Property has become ineligible
+83 for the abatement provided pursuant to this section, the Mayor shall notify OTR of the Property’s
+84 ineligibility and shall specify the date that the Property became ineligible.
+4
+
+ENGROSSED ORIGINAL
+85 “(e) If the Property is eligible for the tax abatement provided pursuant to subsection (b) of
+86 this section, OTR shall process the abatement before the first semi-annual billing of the tax year.”.
+87 “(f) The real property tax abatement provided pursuant to subsection (b) of this section
+88 shall be in addition to, and not in lieu of, any other tax relief or assistance from any other source
+89 applicable to the Project or the Property.”
+90 “(g) This section shall not prevent or restrict the Developer from utilizing any other tax,
+91 development, or other economic development incentives available to the Project or the Property.”
+92 “(h) Nothing in this section shall be construed to limit the owner of the Property from
+93 appealing or contesting its real estate tax assessment.”
+94 Sec. 3. Fiscal impact statement.
+95 The Council adopts the fiscal impact statement in the committee report as the fiscal impact
+96 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+97 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+98 Sec. 4. Effective date.
+99 This act shall take effect following approval by the Mayor (or in the event of veto by the
+100 Mayor, action by the Council to override the veto), and a 30-day period of congressional review
+101 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+102 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+5

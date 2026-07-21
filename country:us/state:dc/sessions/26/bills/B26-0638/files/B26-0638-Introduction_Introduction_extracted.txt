@@ -1,0 +1,1067 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+March 20, 2026
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Contract No. CW119873 with Geographic Solutions, Inc. Approval and
+Payment Authorization Emergency Act of 2026”, and the accompanying emergency declaration
+resolution.
+The legislation will approve Contract No. CW119873, Modification Nos. 001,002,003,004 and
+005, with Geographic Solutions, Inc. to operate and maintain the paid family benefits
+administration system. In addition, the legislation will approve payment for the goods and
+services received and to be received under the contract.
+My administration is available to discuss any questions you may have regarding the proposed
+contract. In order to facilitate a response to any questions you may have, please have your staff
+contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at (202)
+724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation
+Sincerely,
+Muriel Bowser
+
+V r -
+2 Chairman Phil Mendelson
+3 at the request of the Mayor
+4
+5
+6 A BILL
+7
+8
+9 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+10
+11
+12
+13 To approve, on an emergency basis, Contract No. CWl 19873 and Modification Nos. 001, 002,
+14 003, 004 and 005 with Geographic Solutions, Inc., and to authorize payment for the
+15 goods and services received and to be received under the contract.
+16
+17 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, that this
+18 act may be cited as the "Contract No. CWl 19873 with Geographic Solutions, Inc. Approval and
+19 Payment Authorization Emergency Act of 2026".
+20 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+21 December 24, 1973 (87 Stat. 803; Pub. L. 93-198; D.C. Official Code§ 1-204.51), and
+22 notwithstanding the requirements of section 202 of the Procurement Practices Reform Act of
+23 2010, effective April 8, 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council
+24 approves Contract No. CWl 19873 and Modification Nos. 001, 002, 003 No. 004 and 005 with
+25 Geographic Solutions, Inc. to operate and maintain the paid family benefits administration
+26 system and authorizes payment in the total not-to-exceed amounts of $1,201,445 for the base
+27 term of this contract and $1,148,244 for option period one.
+28 Sec. 3. Fiscal impact statement.
+29 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+30 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+31 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code§ 1-301.47a).
+
+32 Sec. 4. Effective date.
+33 This act shall take effect following approval by the Mayor (or in the event of veto by the
+34 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+35 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+36 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+37 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C. Official
+Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive)
+(A) Contract Number: CW119873
+(Modification M004)
+Proposed Contractor: Geographic Solutions, Inc.
+Proposed Contractor’s Principals: Paul Toomey
+Contract Amount: $1,148,244
+Term of Contract: October 3, 2025, through October 2, 2026
+(Option Period One)
+Unit and Method of Compensation: Firm Fixed Contract
+Source Selection Method: Exempt from competition
+(B) Identifying the number of the underlying contracts, including the identifiers assigned to the
+underlying contract by the Council for the base period and any subsequent option periods:
+Base Period Amount: $1,114,800
+Council Approval: CA26-0007
+Option Period One Amount: $1,148,244
+Council Approval:
+Option Period Two Amount: $1,182,691
+Council Approval:
+Option Period Three: $1,218,172
+Council Approval:
+Option Period Four: $1,254,717
+Council Approval:
+1
+
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+Under the proposed modification, Geographic Solution Inc. shall continue to support the operations
+and maintenance of the Paid Family Benefits Administration System (PFLBAS) for the District of
+Columbia Paid Family Leave (PFL) program. The PFL Benefits Administration System is an online
+portal for internal and external users and is the primary system for the processing of Parental, Family,
+Medical, and Prenatal leave claims.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+This contract was awarded as exempt from competition in accordance with 27 DCMR § 1304, which
+allows for non-competitive procurement under specific circumstances. The exemption was granted
+based on the following justification:
+The contractor is the sole provider of the proprietary system currently in use by the District, and
+transitioning to a new vendor would result in significant disruption and additional costs.
+As a result, a competitive solicitation process was not conducted, and no formal evaluation of
+multiple offerors was performed. The exemption and award were reviewed and approved by the
+appropriate procurement authority in accordance with District procurement regulations.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+None
+(F) A description of any other contracts the proposed contractor is currently seeking or holds with
+the District:
+None
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+The vendor provides the operations and maintenance of the PFLBAS for the District of Columbia Paid
+Family Leave PFL program. The PFL Benefits Administration System is an online portal for internal
+and external users and is the primary system for the processing of Parental, Family, Medical, and
+Prenatal leave claims. The PFLBAS supports claimant registration and claim filing, account
+maintenance, claim determinations, adjudication, identity verification, fraud investigations,
+recovery, quality assurance, and document uploads, and serves as the primary internal and
+external messaging tool for employees, claimants, and employers.
+(H) The period of performance associated with the proposed change, including the date as of which
+the proposed change is to be made effective:
+Modification M003 - November 3, 2025, through March 3, 2026 (partial option)
+
+Modification M004 - March 4, 2026, through October 2, 2026 (remainder of option period)
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+Modification M003: $382,748 (partial option exercise)
+Modification M004: $765,496 (remainder of option exercise)
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+$1,148,244
+(K) The date on which the contracting officer was notified of the proposed change:
+October 17, 2025
+(L) The reason why the proposed change was sent to Council for approval is that it is intended to
+take effect:
+The Contracting Officer executed a partial option modification due to a lack of available funding at the
+time of action. This step was necessary to ensure the contractor could continue providing essential
+services to public safety users within the District government without interruption, pending formal
+Council approval. This approach allows for continuity of critical operations while the full funding and
+legislative process is completed.
+(M) The reason for the proposed change:
+The contracting officer executed a partial option to ensure the contractor continues providing
+essential services for public safety users within the District government pending Council approval.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+27 DCMR 2008, 3601
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics
+Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A certification from
+the proposed contractor that it currently is not and will not be in violation of section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics
+Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+The Bidder Offeror form has confirmed that they have not been found to have violated Section 334a
+of the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics
+Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a. Additionally, Geographic
+Solutions, Inc., confirmed that they are not currently and will not be in violation of D.C. Code § 1-
+1163.34a.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+The subcontracting plan meets the requirements of the Act. The contractor has committed to
+subcontracting at least 12.5% of the total contract value ($143,531).
+(Q) Performance standards and the expected outcome of the proposed contract:
+Geographic Solutions Inc.’s performance will be regularly and routinely monitored by DOES. The
+expected outcome is for Geographic Solutions, Inc. to provide the District with operations and
+maintenance of the PFLBAS.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract prior
+to its submission to the Council for approval:
+$1,148,244
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Office of the Chief Financial Officer has certified that funding is consistent with the applicable
+financial plan and budget.
+(T) A certification that the contract is legally sufficient, including whether the proposed contractor
+has any pending legal claims against the District:
+The Office of the Attorney General has reviewed the proposed contract for legal sufficiency and
+deemed it legally sufficient. Geographic Solutions, Inc. has no pending legal claims against the
+District.
+(U) A certification that the Citywide Clean Hands database indicates that the proposed contractor
+is current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands database indicates the contractor is current with its District taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+The contractor has certified that it is current with its federal taxes.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise Development
+and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.
+Geographic Solutions, Inc. is not a certified local, small, or disadvantaged business enterprise.
+
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+The contractor is not listed on the District of Columbia’s Excluded Parties list nor registered in the
+SAM.gov database. The submitted Bidder Offeror certification does not indicate that the contractor
+has been debarred from providing services to any governmental entity.
+(Z) Any determination and findings relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+None
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+http://ocp.dc.gov
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+http://ocp.dc.gov
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: January 13, 2026 Notice Number: L0015367593
+GEOGRAPHIC SOLUTIONS, INC. FEIN: **-***7769
+2570 CORAL LANDINGS BLVD Case ID: 18835658
+PCALM HARBOR FL 34684-5123
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE CHIEF FINANCIAL OFFICER
+GOVERNMENT OPERATIONS CLUSTER
+DEPARTMENT OF EMPLOYMENT SERVICES
+Agency Fiscal Officer
+M E M O R A N D U M
+TO: Unique Morris‐Hughes
+FROM: DShirileocntodra Wiggins
+for
+DATE: AJagneunacryy F 1is4ca, 2l O0f2fi6cer
+SUBJECT: FY 26 Funding Certification‐
+CW119873 - Gepgraphic Solutions Inc.
+PFL Multiple Contracts
+I am certifying that the Department of Employment Services’ (DOES) has funding within
+the FY 26 Paid Family Leave special purpose fund budget to support the services listed
+belowFY. 26 $4,300,059.59
+ThCeo st cerPtrifoiegdra amm oun F t u i n s d Award ( f I o f r the A b w u a d r g d e D t e a s t c tr ri i p b t u io te n s listeAdm boeulonwt .
+Center applicable) (If applicable)
+$4,300,059.59
+500170 50246 1060109 4,300,059.59
+Total
+Certified Services and amounts below.
+Service Cost
+FY26 Business Transformation Base Year 674,877.00
+FY26 PFL Medical Contractors Staff Augmentation Base Year 131,200.00
+FY26 Website Maintenance - OY3 44,440.50
+FY26 Communications and Outreach Services - OY1 FY26 Portion 359,008.81
+FY26 Tax System - O&M Contract OY1 400,162.19
+FY26 Translation Services - OY2 38,306.27
+FY26 IT Staff Augmentation
+60,995.12
+(Name of the Resource: Motapothula, Venkata)
+
+FY26 Software Licenses - (Shared Service, Labor Standards) - Lexis+ Legal 695.00
+Research
+FY26 Software Licenses - (Shared Service, Labor Standards) - Risk Defence 89,012.33
+FY26 Software Licenses - (Shared Service, Labor Standards) - Accurint 11,306.30
+FY26 QAS Pro- System requirement 19,103.30
+FY26 Lien System- For PFL Collection Unit- System or procedure 9,500.00
+improvement
+FY26 Benefits System Base - Paid Family Leave Benefits System (PFLBAS) - 1,148,244.00
+Option Year 1
+Office Supply Purchase Order 40,000.00
+IT Equipment Laptop Order 50,000.00
+FY26 Software Contract - Software Licenses - OIT (Azure) 128,071.65
+Software Licenses - (Visual Studio Enterprise, PFL ONLY) 8,393.15
+Software Licenses - (Visual Studio Professional, PFL ONLY) 1,489.37
+PFL Office Machines 11,450.44
+Software Licenses- System requirement (Smartsheet/Data/ PFL Tax) 10,422.68
+Software License (Canva, PFL Only) 300.00
+FY26 Website Maintenance - OY4 31,742.00
+FY26 Tax System - O&M Contract OY2 651,710.33
+FY26 Communications and Outreach Services - OY2 FY26 Portion 41,182.28
+FY26 Translation Services - OY3 15,358.90
+FY26 Software Licenses - (Shared Service, Labor Standards) - Lexis+ Legal 698.84
+Research
+FY26 Software Licenses - (Shared Service, Labor Standards) - Risk Defense 89,504.11
+FY26 QAS Pro- System requirement 7,508.25
+FY26 Software Licenses - (Shared Service, Labor Standards) - Accurint 13,305.21
+FY26 PFL Business Transformation OY1 190,000.00
+FY26 Software Licenses - System or procedure improvement $4,3001,035,592.529.0 0
+Total funding certification
+Please contact me if you have any questions regarding this funding certification. I can be
+reached via email at shilonda.wiggins@dc.gov.
+4058 Minnesota Ave, NE | Suite 5700 | Washington, DC 20019
+eFax: (202) 698‐5729
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: January 29, 2026
+SUBJECT: Certificate of Legal Sufficiency Option Year One
+Operation and support for Paid Family Benefits Administration
+System (PFLBAS)
+Contract No. CW119873
+Contractor: Geographic Solutions, Inc.
+Contract Amount: $1,148,244.00
+This is to Certify that this Office has reviewed the above-referenced Contract To the
+extent OAG is being requested to review the contents of the proposed contract action the
+contents are found to be legally sufficient if reviewed in collaboration with legislation as
+approved by OAG. Modification 002 created a multiyear contract prior to receiving
+Council approval in violated the requirements of DC Code § 2–352.02. (Criteria for
+Council review of multiyear contracts and contracts in excess of $1 million). As
+previously noted, the proposed legislation included with this certification would cure this
+deficiency.
+If you have any questions in this regard, please do not hesitate to call me at (202) 724-
+4018.
+_________________________________
+Robert Schildkraut
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CW119873 1 7
+CONTRACT
+2.Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5.Solicitation Caption
+Paid Family Leave
+M005 See Box 16c. Benefits Administration
+System
+6.Issued by: Code 7.Administered by (If other than line 6)
+Office of Contracting and Procurement Department of Employment Services
+441 4th Street, Suite 330S NW 4058 Minnesota Ave NE
+Washington, DC 20001 Washington, DC 20019
+8.Name and Address of Contractor (No. street, city, county, state, and zip code) 9A. Amendment of Solicitation No.
+Geographic Solutions, Inc.
+1001 Omaha Circle 9B. Dated (See Item 11)
+Palm Harbor, Florida 34683
+X 10A. Modification of Contractor/Order No.
+CW119873
+10B. Dated (See Item 13)
+Code Facility 01/21/2025
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above-numbered solicitation is amended as set forth in item 14. The hour and date specified for the receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended by one of the following methods:
+(a) By completing Items 8 and 15 and returning copies of the amendment; (b) By acknowledging receipt of this amendment on each copy of the offer submitted; or (c) BY
+separate letter or fax, which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED AT THE PLACE
+DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN THE REJECTION OF YOUR OFFER. If by virtue of
+this amendment, you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or telegram makes reference to the solicitation and this
+amendment and is received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If Required):
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+The changes outlined in Item 14 are made in the contract/order no. in Item 10A.
+B.The above-numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) outlined in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C.This supplemental agreement is entered into pursuant to the authority of 27 DCMR, 3601.3, and the mutual agreement of the parties
+X D.Other (Specify the type of modification and authority) 27 DCMR Section 3601.1
+E.IMPORTANT: The Contractor is not required to sign this document and return one copy to the issuing office.
+14.Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+The contract CW119873 for the Paid Family Leave Benefits Administration System is hereby modified as follows:
+1. The Government of the District of Columbia hereby extends Option Year 1 from March 5, 2026, through April 7, 2026, or until Council
+approval is obtained, whichever occurs first.
+Except as provided herein, all terms and conditions of the contract remain unchanged.
+15A. Name and Title of the Signer (Type or print) 16A. Name of Contracting Officer
+Paul Toomey, President Heather Reynolds
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+(Signature of Contracting Officer)
+1
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CW119873 1 7
+CONTRACT
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+Paid Family Leave
+M004 March 4, 2026 RK313184 Benefits Administration
+System
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Department of Employment Services
+441 4th Street, Suite 330S NW 4058 Minnesota Ave NE
+Washington, DC 20001 Washington, DC 20019
+8. Name and Address of Contractor (No. street, city, county, state, and zip code) 9A. Amendment of Solicitation No.
+Geographic Solutions, Inc.
+1001 Omaha Circle 9B. Dated (See Item 11)
+Palm Harbor, Florida 34683
+X 10A. Modification of Contractor/Order No.
+CW119873
+10B. Dated (See Item 13)
+Code Facility 01/21/2025
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above-numbered solicitation is amended as set forth in item 14. The hour and date specified for the receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour, and date specified in the solicitation or as amended by one of the following methods:
+(a) By completing Items 8 and 15 and returning copies of the amendment; (b) By acknowledging receipt of this amendment on each copy of the offer submitted; or (c) BY
+separate letter or fax, which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED AT THE PLACE
+DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN THE REJECTION OF YOUR OFFER. If by virtue of
+This amendment, you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or telegram makes reference to the solicitation and this
+amendment and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required):
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS.
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+The changes outlined in Item 14 are made in the contract/order no. in Item 10A.
+B. The above-numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) outlined in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C. This supplemental agreement is entered into pursuant to the authority of 27 DCMR, 3601.3, and the mutual agreement of the parties
+X D. Other (Specify the type of modification and authority) 27 DCMR Section 3601.1
+E. IMPORTANT: The Contractor is not required to sign this document and return one copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+The contract CW119873 for the Paid Family Leave Benefits Administration System is hereby modified as follows:
+1. This modification is issued to correct the start date of the Period of Performance in Modification No. 3.
+Delete the existing Period of Performance. Replace it with: November 3, 2025, through March 3, 2026.
+2. In accordance with Section F, Option to Extend the Term of the Contract, the Government of the District of Columbia,
+Office of Contracting and Procurement, hereby fully funds the remainder of Option Year One, extending the term of
+the contract from March 4, 2026, through October 2, 2026, in the amount of
+$765,496.00.
+Except as provided herein, all terms and conditions of the contract remain unchanged
+15A. Name and Title of the Signer (Type or print) 16A. Name of Contracting Officer
+Paul Toomey, President Heather Reynolds
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+Geographic Solutions, Inc.
+1/14/2026
+(Signature of Contracting Officer)
+1
+
+CONTRACT RECAP:
+Base Year: 10/3/2024-10/2/2025 $1,114,800.00
+Mod 0001: Additional scope $86,645.00
+Mod 0002: one month extension 10/3/25, through 11/2/25 $0.00
+Total Contract Cumulative Amount Base year: $1,201,445.00
+Mod 0003: OY1 Partial Option (4 months) November 3, 2025, through March 3, 2026 $382,748.00
+Mod 0004: Option Year 1 full funding March 4, 2026, through October 2, 2026 $765,496.00
+Total Contract Cumulative Amount option one year: $1,148,244.00
+2
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CW119873 1 7
+CONTRACT
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+Paid Family Leave
+M003 November 2, 2025 RK313184 Benefits Administration
+System
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Department of Employment Services
+441 4th Street, Suite 330S NW 4058 Minnesota Ave NE
+Washington, DC 20001 Washington, DC 20019
+8. Name and Address of Contractor (No. street, city, county, state, and zip code) 9A. Amendment of Solicitation No.
+Geographic Solutions, Inc.
+1001 Omaha Circle 9B. Dated (See Item 11)
+Palm Harbor, Florida 34683
+X 10A. Modification of Contractor/Order No.
+CW119873
+10B. Dated (See Item 13)
+Code Facility 01/21/2025
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above-numbered solicitation is amended as set forth in item 14. The hour and date specified for the receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended by one of the following methods:
+(a) By completing Items 8 and 15 and returning copies of the amendment; (b) By acknowledging receipt of this amendment on each copy of the offer submitted; or (c) BY
+separate letter or fax, which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED AT THE PLACE
+DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN THE REJECTION OF YOUR OFFER. If by virtue of
+this amendment, you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or telegram makes reference to the solicitation and this
+amendment and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required):
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+The changes outlined in Item 14 are made in the contract/order no. in Item 10A.
+B. The above-numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) outlined in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C. This supplemental agreement is entered into pursuant to the authority of 27 DCMR, 3601.3, and the mutual agreement of the parties
+X D. Other (Specify the type of modification and authority) 27 DCMR Section 3601.1
+E. IMPORTANT: The Contractor is not required to sign this document and return one copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+The contract CW119873 for the Paid Family Leave Benefits Administration System is hereby modified as follows:
+1. In accordance with section 38(d) of the Standard Contract Provisions (Way to Work Amendment Act of 2006),
+the living wage rate is hereby adjusted to $17.50 per hour, effective July 1st, 2025.
+2. The Living Wage Act Fact Sheet for 2025 is incorporated as Attachment A.
+3. The Living Wage Act Notice for 2025 is incorporated as Attachment B.
+4. In accordance with Section F, Option to Extend the Term of the Contract, the Government of the District of
+Columbia, Office of Contracting and Procurement, hereby partially exercises Option Year One for a period of
+four (4) months, extending the term of the contract from November 2, 2025, through March 3, 2026, in the
+amount of $382,748.00.
+Except as provided herein, all terms and conditions of the contract remain unchanged.
+15A. Name and Title of the Signer (Type or print) 16A. Name of Contracting Officer
+Paul Toomey, President Heather Reynolds
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+Geographic Solutions, Inc. 10/21/2025 1 0/21/2025
+(Signature of Contracting Officer)
+1
+
+CONTRACT RECAP:
+Base Year: 10/3/2024-10/2/2025 $1,114,800.00
+Mod 0001: Additional scope $86,645.00
+Mod 0002: one month extension 10/3/25, through 11/2/25 $0.00
+Total Contract Cumulative Amount Base year: $1,201,445.00
+Mod 0003: Option Year 1 Partially (4 months) 11/2/25-3/3/25 $382,748.00
+Total Contract Cumulative Amount option one year: $382,748.00
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Department of Employment Services
+MURIEL BOWSER DR. UNIQUE MORRIS-HUGHES
+MAYOR DIRECTOR
+LIVING WAGE ACT FACT SHEET
+The Living Wage Act of 2006, D.C. Code §§ 2-220.01 – 2-220.11, provides that District of Columbia government
+contractors and recipients of government assistance (grants, loans, tax increment financing), in the amount of
+$100,000 or more, shall pay affiliated employees wages at no less than the current living wage rate.
+Effective January 1, 2025 until June 30, 2025, the Living Wage rate is $17.50
+per hour.
+Effective July 1, 2025, the District’s Minimum Wage and Living Wage rates
+will increase to $18.00 per hour.
+Subcontractors of D.C. government contractors, who receive $15,000 or more from the contract, and subcontractors
+of the recipients of government assistance, who receive $50,000 or more from the assistance, are also required to pay
+their affiliated employees no less than the current living wage rate.
+“Affiliated employee” means any individual employed by a recipient who receives compensation directly from
+government assistance or a contract with the District of Columbia government, including any employee of a
+contractor or subcontractor of a recipient who performs services pursuant to government assistance or a contract.
+The term “affiliated employee” does not include those individuals who perform only intermittent or incidental
+services with respect to the government assistance or contract, or who are otherwise employed by the contractor,
+recipient or subcontractor.
+Exemptions – The following contracts and agreements are exempt from the Living Wage Act:
+1. Contracts or other agreements that are subject to higher wage level determinations required by federal
+law (i.e., if a contract is subject to the Service Contract Act and certain wage rates are lower than the
+District’s current living wage, the contractor must pay the higher of the two rates);
+2. Existing and future collective bargaining agreements, provided that the future collective bargaining
+agreement results in the employee being paid no less than the current living wage;
+3. Contracts for electricity, telephone, water, sewer or other services provided by a regulated utility;
+4. Contracts for services needed immediately to prevent or respond to a disaster or imminent threat to
+public health or safety declared by the Mayor;
+5. Contracts or other agreements that provide trainees with additional services including, but not limited
+to, case management and job readiness services, provided that the trainees do not replace employees
+subject to the Living Wage Act;
+4058 Minnesota Ave, N.E. • Suite 3600 • Washington, D.C. 20019 • Office: 202.671.1900
+
+6. An employee, under 22 years of age, employed during a school vacation period, or enrolled as full-time
+student, as defined by the respective institution, who is in high school or at an accredited institution of
+higher education and who works less than 25 hours per week; provided that students not replace
+employees subject to the Living Wage Act;
+7. Tenants or retail establishments that occupy property constructed or improved by receipt of
+government assistance from the District of Columbia; provided, that the tenant or retail establishment
+did not receive direct government assistance from the District of Columbia;
+8. Employees of nonprofit organizations that employ not more than 50 individuals and qualify for taxation
+exemption pursuant to Section 501 (c) (3) of the Internal Revenue Code of 1954, approved August 16,
+1954 (68 A Stat. 163; 26. U.S.C. §501(c)(3));
+9. Medicaid provider agreements for direct care services to Medicaid recipients, provided, that the direct
+care service is not provided through a home care agency, a community residence facility, or a group
+home for persons with intellectual disabilities as those terms are defined in section 2 of the Health-Care
+and Community Residence Facility, Hospice, and Home Care Licensure Act of 1983; D.C. Official
+Code § 44-501; and
+10. Contracts or other agreements between managed care organizations and the Health Care Safety Net
+Administration or the Medicaid Assistance Administration to provide health services.
+Enforcement
+The Department of Employment Services (DOES) Office of Wage-Hour and the D.C. Office of Contracting and
+Procurement share monitoring responsibilities.
+Home Care Final Rule: The Department of Labor extended overtime protections to home care workers
+and workers who provide companionship services. Employers within this industry are now subject to
+recordkeeping provisions.
+If you learn that a contractor subject to this law is not paying at least the current living wage, you should report it to
+the contracting officer. If you believe that your employer is subject to this law and is not paying at least the current
+living wage, you may file a complaint with the DOES Office of Wage - Hour, located at 4058 Minnesota Avenue,
+N.E. Suite 3600, Washington, D.C. 20019, call (202) 671-1880, or file your claim on-line: www.does.dc.gov. Go to
+“File a Claim” tab.
+For questions and additional information, contact the Office of Contracting and Procurement at (202) 727-0252 or the
+Department of Employment Services on (202) 671-1880.
+Please note: This fact sheet is for informational purposes only as required by Section 106 of the Living Wage Act. It should not
+be relied on as a definitive statement of the Living Wage Act or any regulations adopted pursuant to the law.
+
+THE LIVING WAGE ACT OF 2006
+D.C. Code §§ 2-220.01 – 2-220.11
+Recipients of new contracts or government assistance shall pay affiliated employees and subcontractors who
+perform services under the contracts no less than the current living wage.
+Effective January 1, 2025 until June 30, 2025, the Living Wage rate is $17.50 per hour.
+Effective July 1, 2025, the District’s Minimum Wage and Living Wage rates will increase to
+$18.00 per hour.
+The requirement to pay a living wage applies to:
+▪ All recipients of contracts in the amount of $100,000 or more, and all subcontractors that receive
+$15,000 or more from the funds received by the recipient from the District of Columbia, and
+▪ All recipients of government assistance in the amount of $100,000 or more, and all subcontractors of
+these recipients that receive $50,000 or more from the government assistance received by the
+recipient from the District of Columbia.
+“Contract” means a written agreement between a recipient and the District government.
+“Government assistance” means a grant, loan, or tax increment financing that result in a financial benefit
+from an agency, commission, instrumentality, or other entity of the District government.
+“Affiliated employee” means any individual employed by a recipient who received compensation directly
+from government assistance or a contract with the District of Columbia government, including employees of
+the District of Columbia, any employee of a contractor or subcontractor of a recipient who performs
+services pursuant to government assistance or contract. The term “affiliated employee” does not include
+those individuals who perform only intermittent or incidental services with respect to the contract or
+government assistance or who are otherwise employed by the contractor, recipient, or subcontractor.
+Certain exemptions apply: 1) Contracts or agreements subject to wage determinations required by federal law
+which are higher than the wage required by this Act; 2) Existing and future collecting bargaining agreements,
+provided that the future agreement results in employees being paid no less than the current living wage; 3)
+contracts for electricity, telephone, water , sewer performed by regulated utilities; 4) contracts for services needed
+immediately to prevent or respond to a disaster or imminent threat declared by the Mayor; 5) contracts awarded to
+recipients that provide trainees with services, including but not limited to case management and job readiness
+services, provided the trainee does not replace employees; 6) employees under 22 years of age employed during a
+school vacation period, or enrolled as a full-time student who works less than 25 hours per week; 7) tenants or
+retail establishments that occupy property constructed or improved by government assistance, provided there is no
+receipt of direct District government assistance; 8) employees of nonprofit organizations that employ not more
+than 50 individuals and qualify for 501(c)(3) status; 9) Medicaid provider agreements for direct care services to
+Medicaid recipients, provided, that the direct care service is not provided through a home care agency, a
+community residence facility, or a group home for persons with intellectual disabilities as those terms are defined
+in section 2 of the Health-Care and Community Residence Facility, Hospice, and Home Care Licensure Act of
+1983; D.C. Code § 44-501; and 10) contracts or agreements between managed care organizations and the Health
+Care Safety Net Administration or the Medicaid Assistance Administration to provide health services.
+Home Care Final Rule: The Department of Labor extended overtime protections to home care workers and
+workers who provide companionship services. Employers within this industry are now subject to recordkeeping
+provisions.
+Each recipient and subcontractor of a recipient shall provide this notice to each affiliated employee covered by this notice, and
+shall also post this notice in a conspicuous site in its place of business. All recipients and subcontractors shall retain payroll
+records created and maintained in the regular course of business under District of Columbia law for a period of at least 3 years.
+To file a claim, visit: Department of Employment Services, Office of Wage-Hour, 4058 Minnesota Avenue, NE, Suite 3600,
+Washington, D.C. 20019; call: (202) 671-1880; or file your claim on-line: does.dc.gov. Go to “File a Claim” tab.
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CW119873 1 7
+CONTRACT
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+Paid Family Leave
+M002 See box 16c. Benefits Administration
+N/A
+System
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Department of Employment Services
+441 4thStreet, Suite 330S NW 4058 Minnesota Ave NE
+Washington, DC 20001 Washington, DC 20019
+8. Name and Address of Contractor (No. street, city, county, state,and zip code) 9A. Amendment of Solicitation No.
+Geographic Solutions, Inc.
+1001 Omaha Circle 9B. Dated (See Item 11)
+Palm Harbor, Florida 34683
+X 10A. Modification of Contractor/Order No.
+CW119873
+10B. Dated (See Item 13)
+Code Facility 01/21/2025
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above-numberedsolicitation is amended as set forth in item 14. The hour and date specified for the receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended by one of the following methods:
+(a) By completing Items 8 and 15and returning copies of the amendment; (b) By acknowledging receipt of this amendment on each copy of the offer submitted; or(c) BY
+separate letter or fax,which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED AT THE PLACE
+DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN THE REJECTION OF YOUR OFFER. If by virtue of
+this amendment, you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or telegram makes reference to the solicitation and this
+amendment and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required):
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+The changes outlined inItem 14 are made in the contract/order no. in Item10A.
+B. The above-numberedcontract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) outlined initem 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C. This supplemental agreement is entered into pursuant to the authority of27 DCMR, 3601.3,and the mutual agreement of the parties
+X D. Other (Specify the type of modification and authority)27 DCMR Section 3601.1
+E. IMPORTANT: TheContractoris not is required to sign this document and return onecopyto the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+The contract CW119873for the Paid Family Leave Benefits Administration System is hereby modified as follows:
+1. The purpose of this modification is to extend the period of performance.
+2. The period of performance is hereby extended from October 3, 2025, through November 2, 2025, at no additional
+cost to the Government.
+3. All other terms and conditions of the contract remain unchanged and in full force and effect.
+Except as provided herein, all terms and conditions of the contract remain unchanged.
+15A. Name and Title of the Signer (Type or print) 16A. Name of Contracting Officer
+Paul Toomey, President Heather Reynolds
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+Geographic Solutions, Inc. 9/22/2025
+(Signature of Contracting Officer)
+1
+
+CONTRACT RECAP:
+Base Year: 10/3/2024-10/2/2025 $1,114,800.00
+Mod 0001: Additional scope $86,645.00
+Mod 0002: Time extension Zero dollar (October 3, 2025, through November 2, 2025) $0.00
+Total Contract Cumulative Amount: $1,201,445.00
+2
+
+3
+
+CW119873 M002- Base Year - One month time
+extension pt
+Final Audit Report 2025-09-24
+Created: 2025-09-24
+By: Ivan.Thomas @dc-govIvan.Thomas'@dc-gov(ivan.thomas'@dc.gov)
+Signed
+(CBUCHBCAABAAG 1-pa2qig2gBzhxZonfaPtiABzCs!060
+"CW119873 M002- Base Year - One month time extension pt"
+History
+‘© Documentcreated byIvan.Thomas1@de.govIvan.Thomas1@de.gov (ivan.thomas1@dc.gov)
+2025-09-24-3:08:36 PMGMT:IPaddress: 165,225.8.95
+©, Document emailed to HeatherReynolds (heather.reynolds2@dc.gov) forsignature
+2025-09-24-3:09:09 PMGMT
+‘© Email viewed by HeatherReynolds (heather.reynolds2@dc.gov)
+2026-09-24- 3:55:39 PM GMT.IPaddress: 136.226.48.112
+» Documente-signed by Heather Reynolds(heather.reynolds2@dc.gov)
+‘SignatureDate: 2025-09-24-3:55:48PMGM-TiTmeSource:server-IPaddress: 196.226.48.112
+© Agreement completed.
+2025-09-24-3:55:48 PMGMT
+Adobe Acrobat Sign
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CW119873 1 7
+CONTRACT
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+Paid Family Leave
+M001 See box 16c. Benefits Administration
+RK299847
+System
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Department of Employment Services
+441 4th Street,Suite 330SNW 4058 Minnesota Ave NE
+Washington, DC 20001 Washington, DC 20019
+8. Name and Address of Contractor(No. street, city, county, state, and zip code) 9A. Amendment of Solicitation No.
+Geographic Solutions, Inc.
+9B. Dated (See Item 11)
+Palm Harbor, Florida
+X 10A. Modification of Contractor/Order No.
+CW119873
+10B. Dated (See Item 13)
+Code Facility 01/21/2025
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above-numberedsolicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended by one of the following methods:
+(a) By completing Items 8 and 15and returning copies of the amendment; (b) By acknowledging receipt of this amendment on each copy of the offer submitted; or(c) BY
+separate letter or fax,which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED AT THE PLACE
+DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN THE REJECTION OF YOUR OFFER. If by virtue of
+this amendment, you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or telegram makes reference to the solicitation and this
+amendment and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required):
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+The changes outlined inItem 14 are made in the contract/order no. in Item10A.
+B. The above-numberedcontract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) outlined initem 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C. This supplemental agreement is entered into pursuant to the authority of27 DCMR, 3601.3and the mutual agreement of the parties
+X D. Other (Specify the type of modification and authority)27 DCMR Section 3601.1
+E.IMPORTANT: Contractor is not is required to sign this document and return 1copyto the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+The contract CW119873 for the Paid Family Leave Benefits Administration System is hereby modified as follows:
+1. The purpose of this contract modification is to authorize Geographic Solutions, Inc. to complete the design,
+development, and implementation of several change orders in the amount of $86,645.00 as described in
+Attachment A.
+2. As a result, the Base year CLIN 0001amount increased from $1,114,800.00 by $86,645.00 to $1,201,445.00.
+3. All terms and conditions remain the same.
+Except as provided herein, all terms and conditions of the contract remain unchanged.
+15A. Name and Title of the Signer (Type or print) 16A. Name of Contracting Officer
+Paul Toomey, President Heather Reynolds
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+Geographic Solutions, Inc
+3/12/2025
+(Signature of Contracting Officer)
+1
+
+CONTRACT RECAP:
+Base Year: 10/3/2024-10/2/2025 $1,114,800.00
+Mod 0001: Additional scope $86,645.00
+Total Contract Cumulative Amount: $1,201,445.00
+2
+
+Attachment A
+1. The changes include (list bullet points):
+OPC 964379 – CCB ID 64 - PFL - DC PFL - SSO - ID.me for claimants/individuals
+OPC 756006 – CCB ID 65 - PFL - Claims - Add triggers to set the cancelled status in PFL
+OPC 695193 – CCB ID 66 - Repayment Agreement - DC PFL - Check Box Indicator to identify
+signed Repayment Agreement
+OPC 970456 – CCB ID 67 - Claims - To allow examiners to approve modifications for additional
+dates to be added as 'pending' while the claim is still closed
+OPC 966485 – CCB ID 68 - DC PFL - Overpayments - Display Overpayment Repayment History
+for Claimants Under Benefit Summary
+OPC 966493 – CCB ID 69 - DC PFL - Interfaces - Display ACH Repayment Entries for Claimants
+in Real-Time
+OPC 964374 – CCB ID 70 - Identity and Access Management (SSO) - Setup SAML communication
+between FPL SSO and DOES' IDme/SSO
+OPC 934871 – CCB ID 71 - PFL - DC PFL - Interfaces - Identity Verification - New CR OPC for
+implementation of ID Me
+3
+
+mT
+Geographic
+Fy Solutions:
+Software Quote
+GeographicSolutions
+4058 MinnesotaAvenueNE 2570Coral LandingsBlvd
+Washington, DC20019 Palm Harbor, Florida34684
+United States
+Reference:20240516-134949393 Prepared by: Lynn Hatfield
+Quotecreated: May16,2024 Eastern Regional Manager
+QuoteUpdated:January1,2025
+Ihatfield@geosolinc.com
+Quoteexpizes:May31,2025, +13217046644
+BILLING
+PRODUCTS&SERVICES quantity cost
+FREQUENCY
+Custom ChangeOrder 1 $12,245.00
+Add triggerstosetclaim cancelled statuswhen:1
+It has received at leastonepayment,2.Allofthe
+requesteddatesontheclaim havebeen denied,
+and3. An overpayment has beenestablished
+Total $12,245.00
+‘Comments.
+Design& Development 28hours
+ProjectManager hour
+QualityAssurance/Testing SOhours
+Note:Feesarebasedonaprofessionalblendedhourlyrateof$155.00.
+NOTE:Quoteupdated1/13/2025toextendexpiration datetoMay31,2025.
+Purchaseterms.
+Please reference OPC#756006on PurchaseOrder.
+
+Geographic
+B Seogtaphic.
+Software Quote
+DOES- Paid FamilyLeave GeographicSolutions
+4058 Minnesota Avenue NE 2570 Coral LandingsBivd
+Washington, DC20019
+Palm Harbor, Florida 34684
+United States
+Reference: 20240909-162634283
+Quotecreated: September 9,2024 Prepared by:Lynn Hatfield
+‘QuoteUpdated: January 13,2025 Eastern Regional Manager
+‘Quoteexpires: May31,2025 thatfield@geosolinc.com
++13217046664
+PRODUCTS& DESCRIPTION cost
+SERVICES
+Custom Display RepaymentHistory toClaimant: —_—_—$10,695.00
+Change Createa gridtoshowRepayment Historytoclaimantson their
+Order Dashboard. Split Repaymentsoutfrom existing grid,
+(CollectionMethods.ascxcontrol},into itsown control; makethe
+existingCollectionMethods.asc control loadthenew control, and
+add thenew control tothe BenefitClaiminformation.asexcontrol
+which is used onthe claimant dashboard screen.
+Total ContractValue $10,695.00
+Comments
+BusinessAnalyst/ProgrammerAnalyst:41hours
+QualityAssurance: 21hours
+ProjectManager:7 hours
+‘Note: Feesarebasedon aprofessionalblendedhourlyrateof$155.00.
+‘NOTE:1/13/2025-Revisedquotetoextendexpiration datetoMay31,2025.
+
+Purchaseterms.
+Please referenceOPC#966485 on PurchaseOrder.
+
+@ @ Geographic
+Fy Solutions
+Software Quote
+GeographicSolutions
+4058 MinnesotaAvenueNE 2570Coral LandingsBlvd
+Washington, DC20019 Palm Harbor, Florida34684
+United States
+Reference: 20240516-105407468 Prepared by: Lynn Hatfield
+Quotecreated: May16,2024 Eastern Regional Manager
+QuoteUpdated: January 1,2025, Ihatfield@geosolinc.com
+QuoteExpires:May31,2025 +13217046644
+BILLING
+PRODUCTS&SERVICES QUANTITY cost
+FREQUENCY
+Custom ChangeOrder: Create newStaffApproved 1 $4,495.00
+Repayment Agreement check boxon the
+repaymentagreement page andcreate NewSTAFF
+Privilege forthis "StaffApproved Repayment
+Agreement"checkbox.
+This isacustorn changeorder.
+Total $4,495.00
+Comments.
+Design& Development 16 hours
+ProjectManager/BusinessAnalyst 6 hours
+QualityAssurance/Testing 7 hours
+Note:Feesarebasedonaprofessionalblendedhourlyrateof$155.00.
+UPDATE: Quoteupdatedtoextendexpirationdate.
+
+Purchaseterms.
+PleasereferenceOPC##695193on PurchaseOrder.
+
+Geographic
+B Secgtaphic.
+Software Quote
+DOES-Paid FamilyLeave GeographicSolutions
+4058 Minnesota Avenue NE
+2570Coral LandingsBlvd
+Washington, DC20019 Palm Harbor, Florida 34684
+United States
+Reference: 20241108-121041665, Prepared by:Lynn Hatfield
+Quotecreated: November8,2024 Eastern Regional Manager
+QuoteUpdated:February5,2025 Ihatfield@geosolinc.com
+‘QuoteExpires:June30,2025
++13217046644
+PRODUCTS&SERVICES, quantity BILLINGFREQUENCY cost
+Custom ChangeOrder 1 $25,265.00
+Thisisa custom changeorder.
+Total ContractValue $25,265.00
+‘Comments
+‘Change orderto implementinboundprocessfor IDme/SSOfor IndividualSSOlogin includingSSOchangetsoHome
+pagetosupportSSOforclaimant/individual users:
+BusinessAnalyst/ProgrammerAnalyst:140hours
+QualityAssurance:12hours
+ProjectManager: 1! hours
+Note:Feesarebasedonaprofessionalblendedhourlyrateof$155.00.
+NOTE: Quoteupdated2/5/2025toextendexpirationdatetoJune30,2025
+Purchaseterms.
+Please referenceOPC#964379 on PurchaseOrder.
+
+Geographic
+B Seogtaphic.
+Software Quote
+DOES- Paid FamilyLeave GeographicSolutions
+4058 Minnesota Avenue NE 2570 Coral Landings Bivd
+Washington, DC20019
+Palm Harbor, Florida 34684
+United States
+Reference: 20241006-130523165
+Quotecreated: October6,2024 Prepared by:Lynn Hatfield
+‘QuoteUpdated:january 13,2025 Eastern Regional Manager
+‘Quoteexpires:May31,2025 Ihatfield@geosolinc.com
++13217046644
+PRODUCTS&SERVICES cost
+Custom ChangeOrder $8,215.00
+Total ContractValue $8,215.00
+‘Comments.
+‘Changeordertoenableclaimexaminerstoapprovemodificationsforadditionaldatestobeaddedas‘pending!
+whilethe claimisstillclosed:
+Configuresystemtoallowclai mexaminerstoapprovemodificationsforadditionaldatestobeaddedaspending!while
+theclaim isstillclosed. Althoughtheclaimstatuswouldstillbeclosed,theseadditionaldateswould not belocked and
+would havetheoptionofapproval. Oncethesedateswereapproved,theclaimstatuswouldautomaticallyconvertto
+regular‘active!
+BusinessAnalyst/ProgrammerAnalyst:30hours
+QualityAssurance: 21hours
+ProjectManager: hours
+‘Note:Feesarebasedon aprofessionalblended hourlyrateof$155.00.
+‘NOTE:Quoteupdatedtoextendexpiration datetoMay31,2025.
+
+Purchaseterms.
+Please referenceOPC#970456 on PurchaseOrder.
+
+Geographic
+B Seogtaphic.
+Software Quote
+DOES- Paid FamilyLeave GeographicSolutions
+4058 Minnesota Avenue NE 2570Coral LandingsBlvd
+Washington, DC20019
+Palm Harbor, Florida 34684
+United States
+Reference:20240918-161842664
+Quotecreated: September18,2024 Prepared by:Lynn Hatfield
+‘QuoteUpdated: january13,2025 Eastern Regional Manager
+‘Quoteexpires: May31,2025 Ihatfield@geosolinc.com
++13217046644
+PRODUCTS&SERVICES DESCRIPTION cost
+Custom ChangeOrder Thisisa customchangeorder. $7,285.00
+Total ContractValue $7,285.00
+‘Comments.
+DisplayACHRepaymentDatainGrid:
+Createa newdisplaygridtoshowACH Repayment Datatostaffandclaimants, Determineexactlywhatisgoingtobe
+shown;determineverbiagetoinform claimantofexpectedtimeforprocessing. (RelatedtoOPC966485)
+BusinessAnalyst/ProgrammerAnalyst:28hours
+QualityAssurance: 15hours
+ProjectManager:4hours
+Note:Feesarebasedonaprofessionalblendedhourlyrateof$155.00.
+‘NOTE:Quoteupdated1/13/2025toextendexpiration datetoMay31,2025.
+Purchaseterms.
+Please referenceOPC#966493 on PurchaseOrder.
+
+Geographic
+B Secgtaphic.
+Software Quote
+Department ofEmployment SecurityDC Geographic Solutions
+4058 Minnesota Ave NE 2570 Coral Landings Bivd
+Washington, DC20019
+United States
+Palm Harbor, Florida34684
+United States
+Chris Tonjes Prepared by: MagnusHines
+christonjes@dc.gov UI BusinessDevelopment Executive
+12027247000 mhines@geosolinc.com
+Reference: 20240822-113020032
+Quotecreated: August 22,2024
+Quote updated: January 13, 2025
+Quoteexpires: May31,2025
+PRODUCTS& SERVICES. DESCRIPTION cost
+ID.meimplementation initiation $11,935.00
+Total ContractValue
+$11,935.00
+‘Comments
+‘Customchange request toinitiationImeimplementation
+Labor:77hoursat$155/hr
+[NOTE:QuoteupdatedJanuary 13,2025woextendexpirationdate
+Purchaseterms.
+PleasereferenceOPC934871onPurchaseOrder
+
+Geographic
+B Seogtaphic.
+Software Quote
+DOES- Paid FamilyLeave GeographicSolutions
+4058 MinnesotaAvenue NE 2570Coral Landings Blvd
+Washington, D¢20019
+Palm Harbor, Florida 34684
+United States
+Reference: 20241118-140539415
+Quotecreated: November18,2024 Preparedby:Lynn Hatfield
+‘QuoteUpdated: February27,2025 Eastern Regional Manager
+‘QuoteExpires:July31,2025 Ihatfield@geosoline.com
+413217046644
+PRODUCTS&SERVICES cost
+Custom ChangeOrder $6,510.00
+Total ContractValue $6,510.00
+Comments
+‘Changeorderfor IdentityandAccessManagement -SetupSAMLcommunication pathfor DCPFLand DCPFL
+lDmesso,
+Analyst/ProgrammerAnalyst:30hours
+QualityAssurance: 6hours
+ProjectManager:6hours
+Note: Feesare basedonaprofessionalblendedhourlyrateof$155.00.
+‘NOTE: Quoteupdated2/27/2025toextendexpirationdaeto July 31,2025.
+Purchaseterms.
+Please referenceOPC#964374onPurchaseOrder. $6,510.00
+
+CW119873 M001- Base Year - Add scope pt
+Final Audit Report 2025-03-12
+Created: 2025-03-12
+By: Ivan.Thomas @dc-govIvan.Thomas'@dc-gov(ivan.thomas'@dc.gov)
+Signed
+CBUCHBCAABAA6rON7sKSigSg1n6yQVGHd6B5V22Zms0
+"CW119873 M001- Base Year - Add scope pt" History
+©) Documentcreated byIvan.Thomas1@de.govIvan.Thomas1@de.gov (ivan.thomas1@dc.gov)
+2025-03-12-5:56:23 PMGMT:IPaddress: 164,82.32.13
+3 Document emailed to HeatherReynolds (heather.reynolds2@dc.gov) forsignature
+2025-03-12-6:14:43 PMGMT
+©) Email viewed by HeatherReynolds (heather.reynolds2@dc.gov)
+2026-03-12 6:20:12 PM GMT-IPaddress: 104.47.64.254
+@e Documente-signed by Heather Reynolds(heather.reynolds2@dc.gov)
+‘SignatureDate: 2025-0-36:-281:422 PMGM-TiTmeSource:server-IPaddress: 164.82.32.13
+© Agreementcompleted.
+2025-03-12-6:29:42 PMGMT
+Adobe Acrobat Sign

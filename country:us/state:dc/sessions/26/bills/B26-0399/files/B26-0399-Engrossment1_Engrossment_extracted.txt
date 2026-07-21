@@ -1,0 +1,460 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-399
+4
+5
+6 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+7
+8 _________________________
+9
+10
+11 To amend Chapter 23 of Title 16 of the District of Columbia Official Code to establish an
+12 additional permanency pathway that includes a circle of caring adults who provide
+13 support and legal relationships for young people ages 16 and older as they transition from
+14 foster care to adulthood.
+15
+16 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+17 act may be cited as the “Support, Opportunity, Unity, Legal Relationships (SOUL) Amendment
+18 Act of 2025”.
+19 Sec. 2. Chapter 23 of Title 16 of the District of Columbia Code is amended as follows:
+20 (a) The table of contents is amended by adding a new subchapter designation to read as
+21 follows:
+22 “Subchapter VII. Support, Opportunity, Unity, Legal Relationships.
+23 “§ 16-2399.21. Definitions.
+24 “§ 16-2399.22. Selecting SOUL as a Permanency Plan.
+25 “§ 16-2399.23. Motion to Establish a SOUL Family.
+26 “§ 16-2399.24. Allocation of Rights and Responsibilities.
+27 “§ 16-2399.25. SOUL Family Agreement.
+1
+
+ENGROSSED ORIGINAL
+28 “§ 16-2399.26. Parties to a SOUL Family Proceeding.
+29 “§ 16-2399.27. Notice.
+30 “§ 16-2399.28. Conduct of Hearings.
+31 “§ 16-2399.29. Adjudicatory Hearings.
+32 “§ 16-2399.30. Effect of a SOUL Family Order.
+33 “§ 16-2399.31. Jurisdiction.
+34 “§ 16-2399.32. SOUL Family Order – Finality, Appeals, Transcripts.
+35 “§ 16-2399.33. Confidentiality of Records.
+36 “§ 16-2399.34. Unlawful Disclosure.
+37 “§ 16-2399.35. Modification of a SOUL family Order.
+38 “§ 16-2399.36. Subsidy.
+39 “§ 16-2399.37. Rules.”.
+40 (b) A new subchapter (VII) is added to read as follows:
+41 “Subchapter VII. SOUL Permanency Option.
+42 “§ 16-2399.21. Definitions.
+43 “For purposes of this subchapter, the term:
+44 “(1) “SOUL Caregiver” means an adult who is not the youth’s birth parent and who is
+45 committed to providing housing for the youth, meeting the basic needs of the youth, and holding
+2
+
+ENGROSSED ORIGINAL
+46 rights and taking on responsibilities to care for the youth as specified in the SOUL family
+47 agreement.
+48 “(2) “Parent and child relationship” is as defined in §16–2352(a-1)
+49 “(3) “SOUL” means a permanency plan for a youth in the care and custody of the Agency
+50 that allows the youth to establish a legal relationship with a SOUL family, without terminating
+51 existing familial legal relationships.
+52 “(4) “SOUL Supporter” means an adult who is committed to holding rights and
+53 responsibilities to care for the youth as specified in the SOUL family Agreement.
+54 “(5) SOUL family” means a legal relationship between a youth, a caregiver and either a
+55 caregiver or SOUL supporter. The SOUL family may include additional caregivers and SOUL
+56 supporters.
+57 “(6) “Youth” means an individual who:
+58 “(A) Is sixteen years of age or older;
+59 “(B) Has been adjudicated to be neglected pursuant to § 16-2317; and
+60 “(C) Is in the care and custody of the Agency.
+61 “§ 16-2399.22. Selecting SOUL as a Permanency Plan.
+62 “(a) Unless the Family Court determines that changing the permanency plan is not in the
+63 best interests of the youth, the Family Court, after giving all parties the opportunity to be heard,
+3
+
+ENGROSSED ORIGINAL
+64 shall change the permanency goal to SOUL if the youth requests that the Family Court change
+65 their permanency plan to SOUL by:
+66 “(1) Appearing in court and making the request on the record;
+67 “(2) Submitting a proposed SOUL family form signed by the youth and their legal
+68 counsel;
+69 “(3) Executing an affidavit signed by both the youth and legal counsel stating the
+70 request; or
+71 “(4) Filing a motion to change the permanency plan.
+72 “(b) If the court determines that changing the permanency plan to SOUL is not in the best
+73 interests of the child, the court shall state its basis in writing.
+74 “§ 16-2399.23. Motion to Establish a SOUL Family.
+75 “(a) A SOUL family proceeding shall be initiated by the filing of a motion to establish a
+76 SOUL family for a youth with a pending neglect case under § 4–1321.01 et seq.
+77 “(b) A motion to establish a SOUL family may only be filed by the youth, with the
+78 assistance of a legal counsel, as needed.
+79 “(c) A motion to establish a SOUL family shall include:
+80 “(1) A description of the proposed SOUL family, identifying each member of the
+81 SOUL family by name and role;
+4
+
+ENGROSSED ORIGINAL
+82 “(2) A statement explaining why the establishment of the proposed SOUL family
+83 is in the youth’s best interest;
+84 “(3) Written consents, if any, to the proposed SOUL family; and
+85 “(4) A proposed SOUL family agreement that is signed by all parties and meets
+86 the requirements of §16-2399.25.
+87 “(d) Notwithstanding subsection (c)(4) of this section, the youth may file a motion to
+88 establish a SOUL family if all parties do not sign the SOUL family agreement. The motion shall
+89 identify the party who does not agree.
+90 “(e) The party who does not agree may file a praecipe or addendum alerting the court to
+91 the points of disagreement, the reasoning, and the efforts to resolve the disagreement.
+92 “(f) If the guardian ad litem does not support the SOUL family agreement as being in the
+93 best interest of the youth, the court shall appoint a stated interest attorney to assist the youth with
+94 the SOUL family proceeding. The guardian ad litem shall continue to represent the best interest
+95 of the youth.
+96 “§ 16.2399.24. Allocation of Rights and Responsibilities.
+97 “(a) Unless the court specifies otherwise, one or more SOUL caregivers shall maintain
+98 physical custody of the youth until they are 18 years of age.
+99 “(b) The SOUL family shall determine the allocation of the following legal custody rights
+100 amongst the members of the SOUL family until the youth is 18 years of age:
+5
+
+ENGROSSED ORIGINAL
+101 “(1) Access to information related to the youth’s education;
+102 “(2) The right to make educational decisions when a decision by a parent is
+103 required by law, regulation, or policy;
+104 “(3) Access to information related to the youth’s physical or mental health;
+105 “(4) Consent to health care when consent of a parent is required by law,
+106 regulation, or policy;
+107 “(5) Authorize release of information when consent of a parent is required by law,
+108 regulation, or policy;
+109 “(6) Make financial decisions when a decision by a parent is required by law,
+110 regulation, or policy;
+111 “(7) Consent to social and school activities of the child; and
+112 “(8) Consent to military enlistment.
+113 “(c) Rights specified in subsection (b) of this section that are not allocated to a member of
+114 the SOUL family shall remain with the incumbent rights holder, including the youth’s birth
+115 parents and any other such individual(s) or agency who held rights at the time the youth entered
+116 into the SOUL family agreement, until the youth is 18 years of age.
+117 “(d) Notwithstanding subsection (b) of this section, the youth retains all existing legal
+118 rights or capacity to make education, medical, or financial decisions for themselves.
+6
+
+ENGROSSED ORIGINAL
+119 “(e) The SOUL family shall determine the allocation of the following responsibilities
+120 concerning the youth amongst the SOUL family.
+121 “(1) Provide housing;
+122 “(2) Provide food, clothing, transportation, and meet any other basic needs of the
+123 youth;
+124 “(3) Provide support for the youth’s education;
+125 “(4) Support the youth’s physical and mental health and well-being;
+126 “(5) Offer the youth guidance and consistent support through challenges; and
+127 “(6) Support the development of financial management, problem-solving, and
+128 independent living skills by the youth.
+129 “(f) If a SOUL family has more than one caregiver, a lead SOUL caregiver shall be
+130 designated. If there is a disagreement concerning the rights and responsibilities concerning the
+131 youth or any other aspect related to the care of the youth, the lead SOUL caregiver shall make
+132 the final decision if the youth is less than 18 years of age.
+133 “§ 16.2399.25. SOUL Family Agreement.
+134 “(a) The process for developing the proposed SOUL family Agreement shall be youth-
+135 driven, with support, guidance, and structure from the Agency.
+136 “(b) The proposed SOUL family Agreement shall include:
+137 “(1) The allocation of rights and responsibilities among the SOUL family;
+7
+
+ENGROSSED ORIGINAL
+138 “(2) Designation of a lead SOUL caregiver, if there is more than one SOUL
+139 caregiver;
+140 “(3) A statement that the SOUL caregiver or lead SOUL caregiver, if there is
+141 more than one SOUL caregiver, shall make the final decision if members of the SOUL family
+142 are in disagreement concerning the rights and responsibilities listed in § 16-2399.24, or any other
+143 aspect related to the care of the youth under the age of 18;
+144 “(4) A summary of the financial responsibilities and expectations of the youth and
+145 the SOUL family members, including how the subsidy funds may be distributed;
+146 “(5) A description of any resources or ongoing supports the Agency agrees to
+147 provide to support the SOUL family;
+148 “(6) Information regarding Agency, District, state, federal or other public benefit
+149 programs that the youth may:
+150 “(A) Be eligible for if they remained committed to the legal custody of the
+151 Agency; and
+152 “(B) Retain eligibility for after closure of the neglect case.
+153 “(7) Details regarding how establishing the SOUL family and the payment of the
+154 subsidy may impact the eligibility of the youth and their SOUL family members for other public
+155 benefits; and
+8
+
+ENGROSSED ORIGINAL
+156 “(8) Any other agreements or terms identified by the youth or SOUL family
+157 members as being important to having shared expectations of how the SOUL family shall work.
+158 “(c) The proposed SOUL family agreement shall be signed by:
+159 “(1) The youth;
+160 “(2) All SOUL family members acknowledging their agreement to the SOUL
+161 family agreement including the allocation of rights and responsibilities with respect to the youth;
+162 “(3) The guardian ad litem, acknowledging that they have provided legal advice
+163 and counseling to the youth and the proposed SOUL family agreement serves the youth’s best
+164 interest; and
+165 “(4) The Agency, acknowledging their agreement to the subsidy provisions and to
+166 any additional commitments named; and
+167 “(d) At any time between the filing of this motion and the issuance of a final order
+168 establishing the SOUL family, the Family Court or any party to the SOUL family agreement may
+169 request an amendment to the proposed SOUL family agreement.
+170 “§ 16-2399.26. Parties to a SOUL Family Proceeding.
+171 “(a) The parties to a SOUL family proceeding shall include:
+172 “(1) The youth;
+173 “(2) The youth’s parent, provided they retain legal rights;
+174 “(3) All proposed SOUL caregivers;
+9
+
+ENGROSSED ORIGINAL
+175 “(4) The District of Columbia, including the Child and Family Services Agency
+176 and the Office of the Attorney General; and
+177 “(5) The guardian ad litem.
+178 “(b) A proposed SOUL Supporter shall be provided notice of, and an opportunity to be
+179 heard in the SOUL Family proceedings.
+180 “(c) The Agency may, upon request, provide support for a SOUL caregiver to access
+181 legal representation.
+182 “(d) The Family Court may, at its discretion, join other parties on its own motion or in
+183 response to a motion for joinder or intervention.
+184 “§ 16-2399.27. Notice.
+185 “(a) When a motion to establish a SOUL family is filed, the Family Court shall promptly
+186 set a time for an adjudicatory hearing and shall cause notice thereof to be given to all parties.
+187 “(b) The Family Court shall direct the issuance to and personal service upon the youth’s
+188 parents of a summons and a copy of the motion to establish a SOUL family.
+189 “(c) When it is appropriate to the proper disposition of the case, the Family Court may
+190 direct the service of a summons upon other persons.
+191 “(d) If personal service under this section cannot be effected, then notice shall be made
+192 constructively pursuant to rules of the Superior Court of the District of Columbia.
+193 “§ 16-2399.28. Conduct of Hearings.
+10
+
+ENGROSSED ORIGINAL
+194 “(a) All hearings and proceedings conducted pursuant to this subchapter shall be held by
+195 a judge, without a jury.
+196 “(b) All hearings and proceedings conducted pursuant to this subchapter shall be recorded
+197 by appropriate means.
+198 “(c) Except in hearings to declare a person in contempt of Family Court, the general
+199 public shall be excluded from hearings and proceedings arising pursuant to this subchapter. Only
+200 persons necessary to such hearings and proceedings shall be admitted, but the Family Court may,
+201 pursuant to rules of the Superior Court of the District of Columbia, admit such other persons as
+202 having a proper interest in the case or the work of the Division on the condition that they refrain
+203 from divulging information identifying the child involved in the proceedings or members of their
+204 family.
+205 “(d) To enable participation by the youth and all members of the proposed SOUL family,
+206 the Family Court and the Agency will work closely with these parties to schedule any hearings or
+207 proceedings.
+208 “§ 16-2399.29. Adjudicatory Hearings.
+209 “(a) An adjudicatory hearing on the motion to establish a SOUL family shall be
+210 scheduled to occur within 90 days following the filing of the motion.
+211 “(b) The Family Court shall begin the adjudicatory hearing by determining whether all
+212 parties are present and whether proper notice of the hearing has been given.
+11
+
+ENGROSSED ORIGINAL
+213 “(1) If a parent has been given proper notice but fails to appear, the Family Court
+214 may proceed in the parent’s absence.
+215 “(2) The Family Court may not proceed without the youth or any of the members
+216 of the proposed SOUL family.
+217 “(c) Each party shall have the right to present evidence, to be heard on his or her own
+218 behalf, and to cross-examine witnesses called by another party. The Family Court may direct the
+219 Agency to submit a summary report or provide testimony establishing that the Agency
+220 completed background and safety checks and addressed any safety-related concerns.
+221 “(d) The moving party, the youth, shall have the burden of proving by a preponderance of
+222 the evidence that the proposed SOUL family is in the youth’s best interest.
+223 “(e) In considering whether to grant the motion to establish the proposed SOUL family,
+224 the Family Court shall take into account all relevant, material, and competent evidence presented
+225 at the adjudicatory hearing. Neither the spouse or domestic partner privilege nor the physician-
+226 client or mental health professional-client privilege shall be a ground for excluding evidence.
+227 “(f) In its determination of whether to grant the motion to establish the proposed SOUL
+228 family, the Family Court shall consider whether the proposed SOUL family is in the youth’s best
+229 interest, based on the following factors:
+230 “(1) The youth’s need for a stable and permanent home, adequate care that meets
+231 their specific needs, and consistent and reliable caregivers;
+12
+
+ENGROSSED ORIGINAL
+232 “(2) The physical, mental, and emotional health of all individuals involved to the
+233 degree that each affects the welfare of the youth, the decisive consideration being the physical,
+234 mental, and emotional needs of the youth;
+235 “(3) The quality of interaction and interrelationship of the youth with their
+236 parent(s), siblings, relatives, caregivers, and the proposed SOUL family members;
+237 “(4) The terms of the proposed SOUL family agreement, including whether:
+238 “(A) The allocation of rights and responsibilities amongst the members of
+239 the proposed SOUL family is feasible and reasonable, considering the circumstances of the youth
+240 and all members of the SOUL family;
+241 “(B) The fulfillment of the proposed SOUL family agreement ensures the
+242 youth has a stable home and their basic needs are met; and
+243 “(C) The fulfillment of the proposed SOUL family agreement promotes
+244 the youth’s well-being and growth toward independent adulthood;
+245 “(5) The youth’s opinion of their own best interests in the matter; and
+246 “(6) The impact on the youth of remaining in the care and custody of the Agency.
+247 “(g) The Family Court may modify the proposed SOUL family agreement to more fully
+248 support the best interests of the youth if all parties to the SOUL family agreement consent to the
+249 modifications.
+13
+
+ENGROSSED ORIGINAL
+250 “(h) At any time between the filing of this motion and the issuance of a final order
+251 establishing the SOUL family, the Family Court or any party to the SOUL family agreement may
+252 request amendments to the proposed SOUL family agreement.
+253 “(i) After considering all of the evidence presented, and after making a determination
+254 based upon a preponderance of the evidence that the proposed SOUL family is in the youth’s
+255 best interest, the Family Court shall issue an order establishing the proposed SOUL family and
+256 closing the neglect case, however the Family Court may not issue the order establishing the
+257 proposed SOUL family until the following circumstances are met:
+258 “(1) The youth has been living in the proposed SOUL family arrangement for at
+259 least 6 months; and
+260 “(2) The youth requests case closure.
+261 “(j) If the Family Court determines, upon a party’s request or at its own discretion, that
+262 additional time or evidence is necessary to determine whether the proposed SOUL family is in
+263 the youth’s best interest, the Family Court may continue the adjudicatory hearing at a later date.
+264 “(k) A youth’s parent or individual(s) who previously held parental rights at the time the
+265 youth entered into the foster care system may object to the transfer of any rights they hold
+266 under law and have those objections duly considered by the Family Court and addressed
+267 in written findings.
+268 “§ 16-2399.30. Effect of a SOUL family Order.
+14
+
+ENGROSSED ORIGINAL
+269 “(a) A final order establishing a SOUL family shall incorporate the entirety of the SOUL
+270 family Agreement.
+271 “(b) The entry of a SOUL family order closes the neglect case.
+272 “(c) The entry of a SOUL family order does not terminate the parent and child
+273 relationship, including:
+274 “(1) The right of the child to inheritance;
+275 “(2) The parents’ right to consent to the child’s adoption prior to the child
+276 attaining the age of 18;
+277 “(3) The parents’ right to determine the child’s religious affiliation prior to the
+278 child attaining the age of 18;
+279 “(4) The parents’ right to visit or contact the child (except as limited by the
+280 Family Court) prior to the child attaining the age of 18; and
+281 “(5) The parents’ responsibility to provide financial, medical, and other support
+282 for the child.”
+283 “(d) Notwithstanding subsection (a) of this section, the government or the youth through
+284 their legal counsel may move to terminate the parent and child relationship, pursuant to § 16-
+285 2354(a).
+286 “§16-2399.31. Jurisdiction.
+15
+
+ENGROSSED ORIGINAL
+287 “(a) Subject to subsection (b) of this section, the Family Court shall have jurisdiction to
+288 enter a SOUL family order and shall retain jurisdiction to modify a SOUL family order until the
+289 youth reaches 21 years of age; provided, that when the youth reaches 18 years of age, the youth
+290 consents and the Family Court finds it is in the best interest of the youth.
+291 “(b) A youth who exits foster care to a SOUL family may not reenter foster care after age
+292 18.
+293 “§ 16.2399.32. SOUL Family Order – Finality, Appeals, Transcripts.
+294 “(a) Every SOUL family order shall be in writing and shall recite the findings upon
+295 which such order is based, including findings pertaining to the Family Court’s jurisdiction.
+296 “(b) Except as otherwise expressly provided by law, the entry of a SOUL family order
+297 shall be final.
+298 “(c) In all appeals from decisions of the Family Court with respect to a SOUL family
+299 order under this subchapter, the youth shall be identified only by initials in all transcripts, briefs,
+300 and other papers filed, and all necessary steps, as prescribed by rules of the District of Columbia
+301 Court of Appeals, shall be taken to protect the identity of the youth.
+302 “(d) Upon the filing of a motion and supporting affidavit stating that they are financially
+303 unable to purchase a transcript, a party who has filed notice of appeal or of interlocutory appeal
+304 of an order under this subchapter shall be furnished, at no cost or at such part of cost as they are
+16
+
+ENGROSSED ORIGINAL
+305 able to pay, so much of the transcript as is necessary to prepare adequately and support the
+306 appeal.
+307 “(e) An appeal does not operate to stay the order, judgment, or decree appealed from, but
+308 whenever the case is properly before the appellate Family Court, that Family Court, on
+309 application and hearing, may order otherwise if suitable provision is made in the order for the
+310 care and custody of the youth.
+311 “§ 16-2399.33. Confidentiality of Records.
+312 “The provisions of §16-2332 and § 16-2333 shall apply to all records and files that are
+313 created pursuant to proceedings under this subchapter.
+314 “§ 16-2399.34. Unlawful Disclosure.
+315 “Whoever willfully discloses, receives, makes use of, or knowingly permits the use of
+316 information concerning a youth or other person in violation of § 16-2393 shall be guilty of a
+317 misdemeanor and upon conviction thereof shall be fined not more than the amount set forth in §
+318 22-3571.01 or imprisoned for not more than 90 days, or both. A violation of this section shall be
+319 prosecuted by the Office of the Attorney General of the District of Columbia.
+320 “§ 16-2399.35. Modification of a SOUL Family Order.
+321 “(a) The youth may move the Family Court to modify a SOUL family order to:
+322 “(1) Add or remove members of the SOUL family;
+323 “(2) Revise the allocation of rights and responsibilities; or
+17
+
+ENGROSSED ORIGINAL
+324 “(3) Amend the terms of the SOUL family Agreement.
+325 “(b) The youth’s parent or any individual(s) who previously held parental rights at
+326 the time the youth entered into the foster care system may move the Family Court to
+327 modify a SOUL family order if the youth is under the age of 18 and there is a substantial
+328 and material change in the youth’s circumstances.
+329 “(c) Notice of a motion to modify a SOUL family order shall be personally served on all
+330 parties, including any proposed additional members of the SOUL family. If personal service
+331 under this section cannot be effected, then notice shall be made constructively pursuant to rules
+332 of the Superior Court of the District of Columbia.
+333 “(d) The Family Court may issue an order of reference directing the Mayor to file a report
+334 and recommendation regarding the proposed modification of the SOUL family order within 45
+335 days of the filing date of the motion.
+336 “(e) A SOUL family order may be modified if the Family Court finds, by a
+337 preponderance of the evidence, that it is in the youth’s best interests to modify the SOUL family
+338 order.
+339 “(f) The Family Court shall hold an adjudicatory hearing before modifying a SOUL
+340 family order and shall, at the conclusion of the hearing, enter a written order reciting the findings
+341 upon which such order is based, including findings pertaining to the Family Court’s jurisdiction.
+342 “§ 16-2399.36. Subsidy.
+18
+
+ENGROSSED ORIGINAL
+343 “(a) The Mayor may make subsidy payments to members of the SOUL family,
+344 irrespective of their state of residence, pursuant to this section.
+345 “(b) Members of the SOUL family who may be eligible for subsidy payments under this
+346 section are limited to:
+347 “(1) The SOUL caregiver or SOUL caregivers who provide housing for the youth;
+348 and
+349 “(2) The youth.
+350 “(c) The Agency, the youth, and the SOUL caregivers must enter into a subsidy payment
+351 agreement that will be incorporated into the SOUL family Agreement.
+352 “(d) Subsidy payments shall be allocated as follows:
+353 “(1) If the youth is 18 years and 6 months old or younger, the subsidy shall be
+354 paid to the SOUL caregiver or SOUL caregivers who are providing housing;
+355 “(2) If the youth is older than 18 years and 6 months, half of the subsidy shall be
+356 paid to the youth, and the remaining half shall be paid to the SOUL caregiver or SOUL
+357 caregivers who are providing housing.
+358 “(3) The SOUL caregiver may choose to decline all or part of the subsidy, and
+359 that portion shall be paid directly to the youth.
+360 “(e) Notwithstanding subsection (d) of this section, the youth may at any time request the
+361 Agency to pay the entire subsidy to the youth. The Agency shall comply with this request if the
+19
+
+ENGROSSED ORIGINAL
+362 youth is 18 years of age or older and can establish that they are not residing with a SOUL
+363 caregiver.
+364 “(f) Eligibility for subsidy payments under this section shall continue until the youth
+365 reaches 21 years of age.
+366 “(g) The Agency shall disseminate information to prospective members of the SOUL
+367 family as to eligibility for subsidy under this section.
+368 “(h) SOUL family subsidies shall be subject to the availability of appropriations. Nothing
+369 in this section shall be construed to create an entitlement to a SOUL family subsidy for any
+370 person.
+371 “§ 16-2399.37. Rules.
+372 “Within 120 days of the effective date of this subchapter, the Mayor, pursuant to Title I
+373 of the District of Columbia Administrative Procedure 23 Act, approved October 21, 1968 (82
+374 Stat. 1204; D.C. Official Code § 2-501 et. seq.), shall issue rules to implement the provisions of
+375 this act.”.
+376 Sec. 3. Conforming Amendment.
+377 (a) Chapter 23 of Title 16 of the District of Columbia Official Code is amended as
+378 follows:
+379 (1) § 16–2323(c) is amended by adding a new paragraph (5) to read as follows:
+380 “(5) Placed with a SOUL family.”.
+20
+
+ENGROSSED ORIGINAL
+381 Sec. 4. Fiscal impact statement.
+382 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+383 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+384 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+385 Sec. 5. Effective date.
+386 This act shall take effect following approval by the Mayor (or in the event of veto by the
+387 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+388 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+389 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+390 36 D.C. Official Code § 1-204.12(a)).
+21

@@ -1,0 +1,138 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COMMITTEE ON HOUSING
+ROBERT C. WHITE, JR., CHAIR
+COUNCIL OF THE DISTRICT OF COLUMBIA
+Statement of Introduction
+Utility Rates and Ratemaking Amendment Act of 2026
+February 13, 2026
+Today, alongside Councilmembers Pinto, Nadeau, and Parker, I am introducing the Utility Rates
+and Ratemaking Amendment Act of 2026. District residents and businesses have experienced
+sharp and sustained increases in utility bills in recent years. The issue is not unique to D.C. –
+external pressures including rapid data center development, volatile tariffs, and global conflict all
+play a role – but the District is especially vulnerable to market swings, in part because we have
+limited ability to generate electricity locally. Many of these factors fall outside local control, but
+they are not the whole story. Pepco’s shift to multiyear rate plans and Washington Gas’s
+surcharges tied to the District SAFE pipe replacement project have contributed to steadily rising
+electric and gas bills.1,2 These increases persist despite existing consumer protections and despite
+the utilities' commitments to reduce costs.
+Utility companies are in a difficult position. Wholesale costs are rising due to factors beyond
+their control, and they are responsible for safe and reliable delivery in a volatile market.
+However, the tools Pepco and Washington Gas rely on lack the appropriate cost-saving
+incentives and residents are paying the price. The District’s Public Service Commission (PSC)
+has regulatory authority over utility rate cases – this legislation preserves that authority but adds
+necessary guardrails for multiyear rate plans and infrastructure projects in order to shift the
+financial burden off of customers. Multiyear rate plans will still be eligible for approval, but only
+if they are based on historic costs, exclude reconciliation mechanisms, and clearly demonstrate
+customer benefit. Similarly, large gas infrastructure projects may still be approved but must
+prove that alternatives were seriously considered and ensure surcharges are considered in future
+rate cases.
+District residents cannot afford inaction. Typical households are paying nearly $600 more per
+year with no change in usage. 80,000+ Pepco customers are in arrears, owing more than $40
+1 D.C. Public Service Commission; Washington Gas Application to Increase Distribution Rates – FC 1180;
+https://dcpsc.org/Newsroom/HotTopics/Rate-Case-Applications/FC1180.aspx
+2 D.C. Public Service Commission; Pepco “Climate Ready Pathway” Multiyear Rate Plan (CY 2024-2026) - FC 1176.
+https://dcpsc.org/Newsroom/HotTopics/Rate-Case-Applications/FC1176.aspx
+
+COMMITTEE ON HOUSING
+ROBERT C. WHITE, JR., CHAIR
+COUNCIL OF THE DISTRICT OF COLUMBIA
+million,3 and applications for utility assistance programs continue to climb. A recent Lessons
+Learned working group released a report in which the Apartment and Office Building
+Association (AOBA), the Office of the People's Counsel (OPC), and other local government
+representatives called for these reforms.4 And other states, including Maryland, have already
+acted. This legislation would bring a necessary rebalancing of risk and responsibility, protecting
+District ratepayers who have no choice in their utility providers.
+3 Potomac Electric Power Company’s November 2025 Information on Disconnections for Nonpayment. Public Service
+Commission e-docket number ARDIR2025-01 - 12
+4 Formal Case No. 1176 – Lessons Learned Working Group Final Report.
+https://edocket.dcpsc.org/apis/api/Filing/download?attachId=235360&guidFileName=b5cf40f9-d162-49e7-9022-
+ffebbb6eef85.pdf
+
+1
+2
+3
+4 _________________________ ______________________________
+5 Councilmember Brooke Pinto Councilmember Robert C. White, Jr.
+6
+7
+8
+9
+10 _____________________________ ____________________________
+11 Councilmember Brianne K. Nadeau Councilmember Zachary Parker
+12
+13
+14
+15 A BILL
+16
+17 ___________
+18
+19
+20 IN THE COUNCIL OF DISTRICT OF COLUMBIA
+21
+22 _________________
+23
+24 To amend the Public Utilities Act of 1989 to require the Public Service Commission to approve
+25 multiyear rate plans only if the plans are based on historic test years and do not include
+26 reconciliation, specifies how excess return on equity will be refunded to customers, and
+27 clearly demonstrates customer benefit, and to require the Public Service Commission to
+28 approve gas infrastructure projects only if the company clearly demonstrates customer
+29 benefit and that the company analyzed cost-effective alternatives, and to direct the Public
+30 Service Commission to take into account any benefits the company realizes from
+31 infrastructure project surcharges in future rate cases.
+32
+33 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+34 act may be cited as the “Utility Rates and Ratemaking Amendment Act of 2026”.
+35 Sec. 2. Paragraph 2 of section 8 of Chapter 150 of An Act Making appropriations to
+36 provide for the expenses of the District of Columbia for the fiscal year ending June Thirtieth,
+37 nineteen hundred and fourteen, and for other purposes, approved March 4, 1913 (37 Stat. 977;
+38 D.C. Code §34-1101), is amended as follows:
+39 (a) A new section 923 is added to read as follows:
+1
+
+40 "Sec. 923. Rates and Ratemaking.
+41 "(a) Unless otherwise authorized by law, the Commission may approve the use of a
+42 multiyear rate plan for the distribution of base rates only if the plan:
+43 "(1) Sets the proposed base rates on the basis of actual historic costs with
+44 allowance for adjustments to reflect known and measurable changes in costs for the rate effective
+45 period;
+46 "(2) Does not allow for the public utility to file for reconciliation of cost or
+47 revenue variances of the approved revenue component used by the Commission to establish just
+48 and reasonable rates;
+49 "(3) Clearly defines a mechanism for returning, refunding, or crediting any excess
+50 return on equity to customers within a specified timeframe after the conclusion of the rate plan;
+51 "(4) Provides a quantitative cost-benefit analysis demonstrating how ratepayers
+52 can expect to see positive monetary net benefits of the investment;
+53 "(A) The cost-benefit analysis shall include a summary of available
+54 alternatives, and a description of why those alternatives were not pursued, in order to aid the
+55 Commission's prudency review.
+56 "(B) All non-confidential models, assumptions, and supporting data used
+57 to justify a multiyear rate plan shall be made publicly available in the Commission's docket."
+58 "(b)(1) For a gas company to recover costs associated with eligible infrastructure
+59 replacement projects, a plan shall demonstrate:
+60 "(A) A quantitative cost-benefit analysis demonstrating how ratepayers
+61 can expect to see positive net benefits of the investments; and
+2
+
+62 "(B) That the gas company has analyzed available cost-effective options to
+63 defer, reduce, or remove the need to replace, construct, or upgrade components of the gas
+64 company's distribution infrastructure, including leak detection and repair.
+65 "(2) In a base rate proceeding after approval of a plan, the Commission shall, in
+66 establishing a gas company's revenue requirements, take into account any benefits the gas
+67 company realized as a result of a surcharge approved under the plan.".
+68 Sec. 3. Fiscal impact statement.
+69 The Council adopts the fiscal impact statement in the committee report as the fiscal
+70 impact statement required by 4a of the General Legislative Procedures Act of 1975, approved
+71 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+72 Sec. 4. Effective date.
+73 This act shall take effect following approval by the Mayor (or in the event of veto by the
+74 Mayor, action by the Council to override the veto), a 30-day period of Congressional review as
+75 provided in sections 602(c)(1) of the District of Columbia Home Rule Act, approved December
+76 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+3

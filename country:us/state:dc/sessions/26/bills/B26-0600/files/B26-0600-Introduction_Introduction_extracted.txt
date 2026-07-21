@@ -1,0 +1,2090 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+January 23, 2026
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. M0003 and M0004 to Contract No. CW116651 with
+Capital Consulting LLC Approval and Payment Authorization Emergency Act of 2026,” and the
+accompanying emergency declaration resolution.
+The legislation will approve Modification No. M0003 and proposed Modification No. M0004 to
+Contract No. CW116651 with Capital Consulting LLC to provide information technology
+equipment, and to increase the not-to-exceed amount for option year one of the contract to
+$10,000,000. In addition, the legislation will approve payment for the goods and services received
+and to be received under the modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modification. In order to facilitate a response to any questions you may have, please have
+your staff contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at
+(202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Muriel Bowser
+
+1
+2
+3
+4 at the request of the Mayor
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16
+17
+18 To approve, on an emergency basis, Modification No. M0003 and proposed Modification No.
+19 M0004 to Contract No. CWl 16651 with Capital Consulting LLC and to authorize
+20 payment for the goods and services received and to be received under the modifications.
+21
+22 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 act may be cited as the "Modification Nos. M0003 and M0004 to Contract No. CWl 16651 with
+24 Capital Consulting LLC Approval and Payment Authorization Emergency Act of 2026".
+25 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+26 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+27 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+28 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification No.
+29 M0003 and proposed Modification No. M0004 to Contract No. CWl 16651 with Capital
+30 Consulting LLC and authorizes payment in the not-to-exceed amount of $10,000,000 for the
+31 goods and services received and to be received under the modifications.
+32 Sec. 3. Fiscal impact statement.
+1
+
+33 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+34 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+35 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+36 Sec. 4. Effective date.
+37 This act shall take effect following approval by the Mayor (or in the event of veto by the
+38 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+39 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+40 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+41 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive)
+(A) Contract Number: CW116651
+Proposed Contractor: Capital Consulting LLC DBA Tharseo IT
+Proposed Contractor’s Principals: Amit Bahadur, President
+Eric Wimer, CEO
+Contract Amount: Not-to-Exceed (NTE) $10,000,000
+Unit and Method of Compensation: Fixed unit prices will occur upon completion of work
+for each individual delivery/task order.
+Term of Contract: September 17, 2025, through September 16, 2026
+Mod 3, exercise option NTE $1M
+Proposed Mod 4, increase option period to $10M.
+Type of Contract: Indefinite Delivery/Indefinite Quantity with payment based
+upon fixed unit prices.
+Source Selection Method: DC Supply Schedule (DCSS)
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: NTE $10,000,000
+Council Approval: CA25-0970
+Option Period One Amount: NTE $10,000,000
+Option Period Two Amount: NTE $10,000,000
+1
+
+Option Period Three Amount: NTE $10,000,000
+Option Period Four Amount: NTE $10,000,000
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The purpose of this DCSS contract is to facilitate the procurement and acquisition of Information
+Technology (IT) equipment in support of District agency operations. By leveraging pre-negotiated
+terms and competitive pricing from the federal General Administration Services Schedule, this
+ensures timely, cost-effective, and compliant access to essential IT hardware and related products.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+DCSS solicitations are open on a continuous basis for Information Technology and Equipment. The
+application for Capital Consulting, number ITES202420, was submitted on March 21, 2024. The
+base year of the contract was fully executed on September 17, 2024. Eligibility for a DCSS contract
+are determined by the applicant’s ability to meet the District’s compliance requirements, including
+business licensing, tax standing, and certification standards.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+None
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+On October 1, 2025, Capital Consulting LLC was issued M0009 exercising option year four for
+CW96627 on behalf of the D.C. Office of the Chief Technology Officer (OCTO). The contract
+value is $2,254,460.91 with a performance period commencing October 1, 2025, and ending on
+September 30, 2026.
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Based on a thorough review of the application submitted, the Contracting Officer determined that
+Capital Consulting LLC possess the necessary organizational experience, technical expertise, and
+accounting and operational controls to successfully fulfill the requirements of the contract.
+2
+
+Capital Consulting LLC has been providing services to the District since 2014 and has consistently
+maintained a favorable performance record, demonstrating reliability and a strong understanding of
+the District’s operational needs.
+(H) The period of performance associated with the proposed change, including date as of which
+the proposed change is to be made effective:
+Proposed Modification No. M0004 will increase the ceiling of option year one from $1,000,000 to
+$10,000,000.
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+Modification No. M0003: NTE $1,000,000
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+Modification M0003: NTE $1,000,000
+Proposed Modification M0004: NTE $9,000,000
+(K) The date on which the contracting officer was notified of the proposed change:
+The Contracting Officer was notified on October 10, 2025.
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+On September 16, 2025, the Contracting Officer exercised the option to reflect the contractor’s
+DCSS contract activity as identified in the PASS purchase order report.
+(M) The reason for the proposed change:
+The Contracting Officer seeks to raise the contract ceiling from $1,000,000 to 10,000,000 to allow
+the contractor to continue providing IT equipment and licensing products and provision for the
+OCTO and the agencies it supports.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+27 DCMR § 3601
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+3
+
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+The proposed contractor has confirmed that they have not been found to have violated Section 334a
+of the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics
+Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a, and that they are not currently
+and will not be in violation of D.C. Code § 1-1163.34a.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+The subcontracting requirements do not apply to this procurement.
+(Q) Performance standards and the expected outcome of the proposed contract:
+DCSS contracts serve as the primary procurement vehicles for District agencies. These contracts are
+designed to streamline and support recurring procurement needs across agencies. The purpose of
+this DCSS contract is to facilitate the procurement and acquisition of IT equipment in support of
+District agency operations.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+Modification M0003, signed on September 16, 2025, NTE $1,000,000
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Agency Fiscal Officer has certified that funds for the minimum quantity of $10 dollars are
+available for FY 2026 and that minimum-quantity funds for FY 2027 have been budgeted by the
+agency.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The Attorney General for the District of Columbia has reviewed and approved the subject contract.
+Capital Consulting LLC has no pending legal claims against the District.
+(U) A certification that the Citywide Clean Hands database indicates that the proposed contractor
+is current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+4
+
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Clean Hands Database indicates the contractor is current with its District taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+Capital Consulting LLC has certified that it is current with its federal taxes.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+Capital Consulting LLC is currently a certified business enterprise,
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+Capital Consulting LLC is not listed on the District Excluded Parties List or the federal SAM.gov
+database. The submitted Bidder/Offeror, and their bidder offeror form certification does not indicate
+that the contractor has been debarred from providing services to any governmental entities.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+None
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+www.ocp.dc.gov
+(BB)Where the original solicitation, and any amendments or modifications, will be made available
+online:
+www.ocp.dc.gov
+5
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: December 24, 2025 Notice Number: L0015274343
+CAPITAL CONSULTING L.L.C FEIN: **-***9825
+1205 MARION BARRY AVE SE STE 203 Case ID: 18834223
+WCASHINGTON DC 20020-6935
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE CHIEF FINANCIAL OFFICER
+GOVERNMENT OPERATIONS CLUSTER
+OFFICE OF FINANCE AND RESOURCE MANAGEMENT
+MEMORANDUM
+TO: Nancy Hapeman, Chief Procurement Officer
+Office of Contracting and Procurement
+FROM: Alemayehu Awas
+Agency Fiscal Officer
+DATE: December 29, 2025
+SUBJECT: Certification of Funding Availability for DCSS Contracts
+VENDOR: CW116651 – Capital Consulting, LLC
+PERIOD: October 1, 2025, through September 30, 2026
+This is to certify that the Office of Contracting and Procurement allocated $10,000.00 in its
+FY2026 budget to cover potential costs that may be incurred if a minimum order is not achieved
+for the District of Columbia Supply Schedule (DCSS) contracts.
+Each DCSS contract has been established as an indefinite delivery/indefinite quantity (IDIQ)
+contract, and agencies may place orders against each contract by means of an individual Task
+Order (TO) or delivery order (DO). If no orders are placed against a DCSS contract, pursuant to
+the DCSS Terms and Conditions, clause 5, the District guarantees the minimum order for each
+contract in the amount of $10.00 for the base year and four option years. Any additional orders
+placed on the DCSS contracts will be encumbered by the ordering agency prior to issuance.
+There are approximately 420 contractors on the DCSS, and it is estimated that $10,000.00 would
+be sufficient to cover the possibility of having to pay $10.00, upon request, to multiple
+contractors.
+441 4th St, N.W. * Suite 890 North * Washington, D.C. 20001
+Phone: (202) 727-0333 * Fax: (202) 727-0659
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE CHIEF FINANCIAL OFFICER
+GOVERNMENT OPERATIONS CLUSTER
+OFFICE OF FINANCE AND RESOURCE MANAGEMENT
+MEMORANDUM
+TO: Nancy Hapeman, Chief Procurement Officer
+Office of Contracting and Procurement
+FROM: Alemayehu Awas
+Agency Fiscal Officer
+DATE: December 29, 2025
+SUBJECT: Certification of Funding Availability for DCSS Contracts
+VENDOR: CW116651 – Capital Consulting, LLC
+PERIOD: October 1, 2026, through September 30, 2027
+This is to certify that the Office of Contracting and Procurement will allocate $10,000.00 in its
+FY2027 budget to cover potential costs that may be incurred if a minimum order is not achieved
+for the District of Columbia Supply Schedule (DCSS) contracts.
+Each DCSS contract has been established as an indefinite delivery/indefinite quantity (IDIQ)
+contract, and agencies may place orders against each contract by means of an individual Task
+Order (TO) or delivery order (DO). If no orders are placed against a DCSS contract, pursuant to
+the DCSS Terms and Conditions, clause 5, the District guarantees the minimum order for each
+contract in the amount of $10.00 for the base year and four option years. Any additional orders
+placed on the DCSS contracts will be encumbered by the ordering agency prior to issuance.
+There are approximately 420 contractors on the DCSS, and it is estimated that $10,000.00 would
+be sufficient to cover the possibility of having to pay $10.00, upon request, to multiple
+contractors.
+Availability of FY 2027 budget is subject to approval of budget by the Council and Congress.
+441 4th St, N.W. * Suite 890 North * Washington, D.C. 20001
+Phone: (202) 727-0333 * Fax: (202) 727-0659
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+Government Contract Section
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+Executive Office of the Mayor, Mayor Muriel Bowser
+FROM: Robert Schildkraut
+Section Chief
+DATE: December 15, 2025
+SUBJECT: Approval of Modification of Contract for Information Technology
+Equipment and Software
+Contract Number: CW116651
+Contractor: Capital Consulting, LLC
+Contract Amount: NTE $10,000,000.00
+This is to Certify that this Office has reviewed the above-referenced Contract and that we have
+found it to be legally sufficient.
+If you have any questions in this regard, please do not hesitate to call me at (202) 724-4018.
+_______P_.P_._____________________
+Robert Schildkraut
+400 6th Street NW, Suite 9100, Washington, DC 20001 (202) 727-3400
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW116651 1 1
+2. Amendment/Modification 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+Number
+M0003 9/17/25 Information Technology
+Equipment and Software
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Office of Contracting and Procurement
+441 4th Street, NW, Suite 330S 441 4th Street, NW, Suite 330S
+Washington, DC 20001 Washington, DC 20001
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+Capital Consulting LLC. 9B. Dated (See Item 11)
+1205 Marion Barry Avenue SE, Suite 203
+10A. Modification of Contract/Order No
+Washington, D.C. 20020 X CW116651
+Code Facility 10B. Dated (See Item 13)
+9/17/24
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15 and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO
+BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION
+OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or
+telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR.
+C. This supplemental agreement is entered into pursuant to authority of: 27 DCMR, Chapter 36, Section 3601.2
+X D. Other (Specify type of modification and authority) 27 DCMR, Chapter 20, Section 2008, Exercise of Option
+E. IMPORTANT: Contractor is not required to sign this document and return one copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+A. Pursuant to section 3.2 Option to Extend the Term of the Contract, CW116651 is hereby modified as
+follows:
+1. The District of Columbia Office of Contracting and Procurement hereby exercises its Option
+to Extend the Term of the Contract for the period of September 17, 2025, through September
+16, 2026, with a not to exceed contract amount of $1,000,000 for Option Year One.
+B. The contractor is bound by Wage Determination No. 2015-4281, rev. 34, dated July 8, 2025, issued by
+the Department of Labor.
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Amit Bahadur, President
+Constance Weaver-Thomas
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+9/15/2025 9/16/2025
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW116651 1 1
+2. Amendment/Modification 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+Number
+M0004 See Box 16C. Information Technology
+Equipment and Software
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Office of Contracting and Procurement
+441 4th Street, NW, Suite 330S 441 4th Street, NW, Suite 330S
+Washington, DC 20001 Washington, DC 20001
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+Capital Consulting LLC. 9B. Dated (See Item 11)
+1205 Marion Barry Avenue SE, Suite 203
+10A. Modification of Contract/Order No
+Washington, D.C. 20020 X CW116651
+Code Facility 10B. Dated (See Item 13)
+9/17/24
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15 and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO
+BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION
+OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or
+telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+X The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR.
+C. This supplemental agreement is entered into pursuant to authority of: 27 DCMR, Chapter 36, Section 3601.2
+D. Other (Specify type of modification and authority) 27 DCMR, Chapter 20, Section 2008, Exercise of Option
+E. IMPORTANT: Contractor is not required to sign this document and return one copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+A. Pursuant to section 3.2 Option to Extend the Term of the Contract, CW116651 is hereby modified as
+follows:
+1. The District of Columbia Office of Contracting and Procurement hereby increases the ceiling
+of the contract for the period of September 17, 2025, through September 16, 2026, with a not
+to exceed contract amount of $10,000,000 for Option Year One.
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Constance Weaver-Thomas
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+T.Caption -CBEWaker Pa|gofe30
+AWARD/CONTRACT CoE
+ContractNumber 3EffectiveDate ‘FSoliciationRequisition’PurchaseReques/ProjectNo_
+CWI116651 SeeBlock20C. ITES202420
+TesuedBy cee. 5Asbsy{oeertanr3)
+Office ofContractingand Procurement OfficeofContractingand Procurement
+DC Supply ScheduleDivision DCSupplyScheduleDivision
+441 4" Street, NW,Suite330South 441 4" Street,NW,Suite330South
+Washington,DC20001 Washington, DC20001
+Nome ‘OF Conreior(No.Se,CyConyHa,e y Delveny
+Crosoviein RothercontendinechTakOrde
+Capital Consulting LLC. 9,Discountfor promptpayment
+1205 Marion Barry Avenue, SESuite 203 ee
+Washington, DC 20020 ieeae:Feae ez]
+EachTask Order/Delivery
+[DORs] T Order.
+TT SNFr Toe TEPaymentwillbemadeby [cod1e
+syOder “AssetforthwithinindividualTaskor DeliveryOrders.
+ReservedTorTarease Ta AccoanudApnprotpmaitionnDagt
+'ENCUMBRANCECODE: SeeTaskOnderDeliveryOrder
+TSAhem, 3B. Supplies/Services TSC. Qu.|130.Unt|ISEUnitPree 13%,Amount
+‘920-00 | Information Technology Equipment andSoftware SeePriceList
+‘AttachmentA
+“Term. 365daysfromthedateofaward.
+“TheDistrit'sobligationispursuantotheMinimumOrdearstForthTa
+theDCSS TermsandConditionsdatedFebruary 2010&Standard
+Contract ProvisionsdatedMarch2010.
+“TotalAmoofuonniratct >|Min- S10
+Max-$10,000,000
+TETableofCoster
+inion Fae
+FART _THESCHEDULE
+X [1_| ServicoersSuppliesandPrices 2 |X| 7 | ConfirmatiaonndAgresment Ww
+x [2 Specifications/Work Statement 7
+X_[_ 3_|DeliveriesorPerformance 1@
+Xa | Contract Administration Dawa 16
+x ‘OrderofPrecedenceandAttachments 7
+%| 6 [Representations,CertificationsandOther 3B
+Statementsof Applicants
+‘ContigOferwil complete em Tor16sapplicable
+17.PJconTRACTOR'SNEGOTIATEDAGREEMENT(Contactoris 18. __]AWARD(Contnctorisnotrequted wosigathisdocument) Yourofer
+‘requiredtosignthisdocumeanntd retur2ncopicssnissuingoffice.)Contractor ‘onSolicNiumtberaITtESi20o242n0incldingtheadditionsorchangesmadeby
+‘agreesto furnishanddeliverallitems,perform alltheservicessetforthor ‘whichaddiorcthaingoesanesstforthinfllabove,iherebyaccepted 10the
+‘otherwiseidentifiedaboveandonanycontinuationsheets,fortheconsideration itemslistedaboveadonanycontiouatshieoetns.Thisawardconsommattehse
+statedherein, Therightsandobligofathtepiarotienstsothiscontract shallbe contractwhichconsists ofthefollowingdocuments:(a)theGovernment's
+‘subjecttoandgovemed by thefolowingdocuments: a)thisaward/contra(c0), ‘solicitationandalltermsandconditionsthereto,(2)youroer,ad()this
+thesolicitation,ifany,and(c)suchprovisions,representations,certifications,and tract Nofurthercontractualdocumentsnecessary
+‘sstpaectiefihceaitinaos)nasr,eattacheordincorbyproeferreancethereeidn. (Attachments
+i TOR WieafConOTg
+Amit Bahadur PriscillaMack
+a BED ied
+2/16/2024) Priscilla Wack 9-17-24
+OPOTT
+
+SECTION1
+SERVICES ORSUPPLIES ANDPRICES
+Mw DESCRIPTION
+‘TheGovernmentofthe DistrictofColumbia,Office ofContractingand Procurement(OCP),on
+behalfof District agencies shall award thiscontractto provide InformationTechnology
+Equipment and Software insupportofDistrictagencies.
+12 CONTRACTTYPE
+The District’sawardofthiscontractshall establish a District wide, multipleawards, Indefinite
+Delivery/IndefiniteQuantity(IDIQ)typecontract. The contractwill constitutea Districtof
+Columbia Supply Schedule.
+Thiscontractwill allow Districtagencies tousethis vehicle toacquirea widevarietyofservices
+of supplies. The workshall beaccomplished inthemanner andwithin thescopeandtime
+specified in an individual Task Order(TO)forservices or Delivery Order(DO)for suppliesor
+equipment.
+13 SELECTIONOF FEDERAL MULTIPLE AWARDCONTRACT
+‘The Contractorhasadopted theprice list for partoftheequipment andtheprice list and labor
+category descriptions for partofthe labor categoriesofthefollowingfederal multipleaward
+schedulecontract:
+Federal ScheduleNo: 70
+Federal ScheduleContractNo.: 47QTCA21D0036,
+Federal Contract Name: Mythics LLC
+The labor-categorydescriptions forthecontractareincluded intheadopted Mythics LLC.
+IT Price List which isavailabolne theOCPshared driveas:
+“DCSS_SCANO1- ITEquipment & Software- CW116651 Capital ConsultingLLCDBA
+Tharseo IT
+1.4 REQUIREDCBE INFORMATION
+TheContractor’sCertified Business Enterprise (CBE) Certification number is
+LSDZRE34566062025.
+OCSupplySchedule,OCP Pa2gofe30
+ContractNo.:CW116651
+
+1.8 ORDERINGLIMITATIONS ANDINFORMATION
+The servicesandsuppliesshall beprovidedonlyasauthorized bytheTaskOrder(TO)or
+DeliveryOrder(DO)issued inaccordancewiththeOrderingClauseProcedures describedin
+Section 4oftheDCSS TermsandConditions. The total valueoftaskorders shallbein
+compliancewiththeOrderingLimitations and InformationClause inSection$oftheDCSS
+Terms & Conditions,
+Except for anylimitations on quantitiesordollarsset forth intheOrderingLimitationsand
+Information Clause,there is no limit onthenumberoftask ordersthat may beissued.The
+District mayissuetaskorders forrequiredservicesorproductsformultiple projectsatmultiple
+locationssimultaneously.
+1.6 PRICING
+a. Pricesthatareadoptedfromafederal contracttoestablishthe DCSScontractshall
+becomethe item ceiling rates underthe DCSS contract.
+b. Prices offered shall benogreaterthan thepricesfor thecurrentcontractperiod
+establishedundertheadopted federalcontract at thetimeofaward.
+c. Any pricing foranyoptionyearsoffered totheDistrict governmentbeyond thelast
+option periodoftheadoptedfederalcontractshall begovernedbytheoffer letter,
+Attachment A.
+4. The District guaranteesthe minimum orderforeachcontractintheamountof$10forthe
+baseyear andeachofthefour(4) option years,ifexercised. The maximumcontract
+ceiling foreach yearofthecontractis $10,000,000.
+(OCSupplySchedule, OCP Pa3gofe30
+‘ConNot.:rCWa11c66t51
+
+SECTION 2
+SPECIFICATION/WORK STATEMENT
+1. SCOPE: INFORMATIONTECHNOLOGYPRODUCTS
+TheOfficeofContractianndg Procurement ofthe District of Columbia Goverment, on behalf
+all DistrictGovernment agencieshereby establishes amultipleaward, Indefinite
+Delivery/Indefinite Quantity type contract (Schedule). The Contractorshall providethe
+followingservices or supplies.
+2. ‘TYPEOFPRODUCTS
+Contractorsshall providethe equipment,softwareandotherproductsas listedbelow:
+CLIN |__DESCRIPTION—GSASpecial Item Number(SIN)
+132-3. RentalorLeaseof InformationTechnology
+Co Equipment
+‘ong | 28 Purchase ofEquipment
+9003. | 132-12 MaintenanceofEquipment, RepairServiceandlor
+Repaie/Spare Pacts
+oooe | 232 TermSoftware License
+0005_| 132-33 PerpetualSoftwareLicense
+0006__| 132-34 MaintenanceofSofware
+0007 _| 132-50 Training.
+0008 | 132-51 ProfessionalInformationTechnologyServices
+0009_| 132-52 ElectronicCommerceServices
+0010__| 132-53 WirelessServices
+0011 | 132-60 AuthenticationProductsandServices
+DCSupplySchedule,OCP Page4of30
+ConNto.:rCWa11c68t51
+
+CLIN 0001 SPECIAL ITEM NO. 132-3RENTAL OR LEASEOF IT
+EQUIPMENT
+(FPDSCodeW070)
+CLIN0002 SPECIAL ITEM NO. 132-8PURCHASE OFEQUIPMENT
+FSCCLASS7010-SYSTEMCONFIGURATION
+End UserComputers/DesktopComputers
+Professional Workstations
+Servers
+Laptop/Portable/NotebookComputers
+Large ScaleComputers
+Optical and ImagingSystems
+OtherSystemConfigurationEquipmentNot ElsewhereClassified.
+Providespecific information:
+FSCCLASS7025-INPUT/OUTPUTANDSTORAGE DEVICES
+Printers
+Displays
+Graphics,including Video Graphics, Light Pens, Digitizers, Scanners, and
+Touch Screens
+Network Equipment
+Other CommunicationsEquipment
+Optical Recognition InpuvOutputDevices
+‘StorageDevices, includingMagnetic Storage,MagneticTapeStorageand
+Optical DiskStorage
+OtherInput/OutputandStorageDevicesNot ElsewhereClassified.
+Providespecific information:
+DCSupplySchedule,OCP Pa5gofe30
+ContractNo.:CW116851
+
+FSCCLASS 7035-ADP SUPPORTEQUIPMENT
+ADP SupportEquipment
+FSCCLASS 7042- MINIAND MICROCOMPUTERCONTROL DEVICES
+‘MicrocomputerControlDevices
+Telephone AnsweringandVoiceMessagingSystems
+FSC CLASS7058- ADP COMPONENTS
+ADP Boards
+FSCCLASS5995-CABLE,CORD,ANDWIREASSEMBLIES:
+COMMUNICATIONS EQUIPMENT
+‘CommunicationsEquipmentCables
+FSCCLASS6015- FIBEROPTICCABLES
+Fiber OpticCables
+FSCCLASS6020 - FIBEROPTICCABLEASSEMBLIES AND HARNESSES
+Fiber OpticCableAssembliesandHamesses
+FSCCLASS 6145 - WIREAND CABLE,ELECTRICAL
+Coaxial Cables
+FSCCLASS5805 -TELEPHONE AND TELEGRAPH EQUIPMENT
+Telephone Equipment
+‘Audio andVideoTeleconferencingEquipment
+FSCCLASS 5810-COMMUNICATIONS SECURITYEQUIPMENTAND
+COMPONENTS
+Communications SecurityEquipment
+0¢SupplySchedule, OCP Pa6gofe30
+‘ConNot.:rCWa11c66t51
+
+FSCCLASS5815-TELETYPE ANDFACSIMILE EQUIPMENT
+Facsimile Equipment(FAX)
+FSC CLASS $820 - RADIO AND TELEVISION COMMUNICATIONS
+EQUIPMENT, EXCEPTAIRBORNE
+Two-Way RadioTransmitters/Receivers/Antennas
+Broadcast BandRadioTransmitters/Receivers/Antennas
+Microwave RadioEquipment/AntennasandWaveguides
+Satellite CommunicationsEquipment
+FSC CLASS $821 - RADIO AND TELEVISION COMMUNICATIONS.
+EQUIPMENT,AIRBORNE
+AirbomeRadioTransmitters/Receivers
+FSCCLASS5825 -RADIONAVIGATIONEQUIPMENT,EXCEPT AIRBORNE
+Radio NavigationEquipment/Antennas
+FSC CLASS5826-RADIONAVIGATIONEQUIPMENT,AIRBORNE
+Airbome RadioNavigationEquipment
+FSC CLASS 5830 - INTERCOMMUNICATION AND PUBLIC ADDRESS
+SYSTEMS, EXCEPTAIRBORNE
+Pagers and Public Address Systems (wired and wireless transmission,
+Includingbackgroundmusicsystems)
+FSCCLASS841 -RADAREQUIPMENT, AIRBORNE
+Airbome RadarEquipment
+FSCCLASS5895-MISCELLANEOUSCOMMUNICATIONSEQUIPMENT
+MiscellaneousCommunicationsEquipment
+‘DCSupplySchedule, OCP Pa7gofe30
+ContractNo.: CW116651
+
+Provide the following information, as applicable, for the products offered under
+Special ItemNumber 132-8:
+Special Physical,Visual,Speech,and HearingAidEquipment. Providespecific
+information:
+UsedEquipment.Providespecific information:
+Installation forequipmentofferedunderSIN 132-8(FPDSCode NO70)
+Deinstallationforequipmentoffered underSIN 132-8 (FPDSCodeNO70)
+ReinstallationforequipmentofferedunderSIN 132-8(FPDSCodeNO70)
+NOTE: INSTALLATION MUSTBEINCIDENTALTO,INCONJUNCTIONWITH ANDIN
+DIRECT SUPPORT OFTHEPRODUCTSSOLDUNDERSIN 132-8OFTHISSCHEDULEAND
+CANNOTBEPURCHASEDSEPARATELY. IFTHECONSTRUCTION,ALTERATIONOR
+REPAIRISSEGREGABLEANDEXCEEDS
+$2,000,THENTHE REQUIREMENTSOFTHEDAVIS-BACON ACTAPPLY. IN APPLYING
+THEDAVIS-BACONACT,ORDERINGACTIVITIES AREREQUIRED TO
+INCORPORATE WAGERATEDETERMINATIONSINTOORDERS,AS APPLICABLE.
+NOTE VENDORSOFFERING PURCHASE OF EQUIPMENT AREREQUIREDTO
+PROVIDEMAINTENANCE SERVICE AND/ORREPAIRSERVICEANDREPAIR
+PARTS, IN ACCORDANCE WITHNORMAL INDUSTRY PRACTICES, FORTHE
+TYPEOFEQUIPMENTOFFERED, FOR THESCOPEOFTHE CONTRACT(i.e.,ATA
+MINIMUM, THE48CONTIGUOUS STATESANDTHE DISTRICTOFCOLUMBIA).
+SPECIALITEM NO. 132-12 MAINTENANCE OF EQUIPREMPAIERSNERVTIC,E,
+AND REPAIR PARTS/SPARE PARTS
+(FPDSCode for Maintenance andRepair Service - J070; FSC Class forRepair
+Parts/Spare Parts - See FSCClassforbasicequipment)
+Specify whatis beingoffered:
+Maintenance
+Repair Service
+Repair Parts/SpareParts
+Third PartyMaintenance
+OCSupplySchedule,OCP Pa8gofe30
+ConNto.r:CWa11c66t51
+
+SPECIALITEMNO. 132-32TERMSOFTWARE LICENSES
+FSCCLASS7030-INFORMATIONTECHNOLOGYSOFTWARE
+Large ScaleComputers
+Operating SystemSoftware
+ApplicationSoftware
+Electronic Commerce (EC) Software
+Utility Software
+‘CommunicationsSoftware
+CoreFinancialManagementSoftware
+AncillaryFinancialSystemsSoftware
+Special Physical,Visual, Speech,and HearingAidSoftware. Providespecific information:
+Microcomputers
+Operating SystemSoftware
+ApplicationSoftware
+ElectronicCommerce(EC) Software
+UtilitySoftware
+‘CommunicationsSoftware
+CoreFinancialManagement Software
+AncillaryFinancialSystemsSoftware
+Special Physical,Visual, Speech, andHearingAidSoftware.
+Providespecificinformation:
+NOTE: Offerors are encouraged to identify within their software items any component
+interfaces thatsupportopen standardinteroperability. An item’sinterface may be identified as
+interoperable on the basis ofpartic i pation in a Goverment agency- sponsored program or in
+an independent organization program. Interfaces may be identified by reference to an
+interface registered in the component registry locatedat http//www.core.pov,
+SPECIAL ITEMNO. 132-33PERPETUAL SOFTWARELICENSES
+FSCCLASS7030-INFORMATIONTECHNOLOGYSOFTWARE
+(OCSupplySchedule,OCP Page9of30
+‘ContractNo.: CW116851
+
+LargeScaleComputers
+Operating SystemSoftware
+Application Software
+Electronic Commerce(EC)Software
+Utility Software
+CommunicationsSoftware
+Core FinancialManagementSoftware
+Special Physical, Visual,Speech, and HearingAidSoftware.
+Providespecific information:
+Microcomputers
+Operating SystemSoftware
+Application Software
+Electronic Commerce (EC) Software
+Utility Software
+‘CommunicationsSoftware
+Core Financial ManagementSoftware
+Ancillary FinancialSystemsSoftware
+Special Physical,Visual, Speech,andHearing AidSoftware.
+Providespecific information:
+NOTE: Contractorsareencouraged toidentifywithin theirsoftwareitemsany
+component interfacesthat supportopenstandard interoperability. Anitem’s
+identified asinteroperableon thebasisofparticipation inaGovernmentagen
+program orinan independentorganizationprogram. Interfacesmaybe identifiedbyreference
+toaninterface registeredinthecomponentregistry locatedathttp://www.core,gov,
+NOTE: Contractorsareencouraged toofferSpecialItemNo. 132-34 Maintenanceof Softwarein
+conjunctionwithSpecial ItemNos. 132-32TermSoftwareLicensesand/or132-33 Perpetual
+‘SoftwareLicenses.
+SPECIALITEMNO. 132-34MAINTENANCEOFSOFTWARE
+SPECIAL ITEM NO. 132-50 TRAINING COURSES FORINFORMATION TECHNOLOGY
+EQUIPMENT AND SOFTWARE (FPDS Code U012)
+‘OCSupplySchedule, OCP Page 10of30
+ConNto.:rCWa11c66t51
+
+SPECIAL ITEM NO. 132-51 INFORMATIONTECHNOLOGY PROFESSIONALSERVICES
+ITFacilityOperationandMaintenance (FPDSCODE D301)
+ITSystems DevelopmentServices(FPDSCODED302)
+ITSystemsAnalysisServices(FPDSCodeD306)
+‘Automated InformationSystemsDesignandIntegrationServices (FPDS
+CodeD307)
+ProgrammingServices(FPDSCodeD308)
+ITBackupand SecurityServices(FPDS Code D310)
+IT DataConversionServices(FPDSCode D311)
+Computer Aided Design/Computer Aided Manufacturing (CAD/CAM)Services(FPDS
+CodeD313)
+IT Network ManagementServices(FPDSCode D316)
+Creation/Retrieval ofITRelated Automated News Services, Data Services,
+orOther Information Services (FPDS Code D317) (All other information
+servicesbelong under Schedule76)
+Other Information Technology Services, Not Elsewhere Classified (FPDS
+Code D399)
+Note 1: Allnon-professional labor categories must be incidental to and used solely to support
+hardware, software and/or professional services, and cannot be purchased separately.
+Note 2:This solicitation is not intendedto solicit for the resellingofIT Professional Services, except for
+the provisionof implementation, maintenance, integration, or training services in direct support of a
+product. Under such circumstances the services must be performbeyd thepublisheror manufacturer
+oroneoftheir authorizedagents.
+SPECIAL ITEM NO. 132-52 ELECTRONICCOMMERCE SERVICES
+FPDS CODE D304 - ADP AND TELECOMMUNICATIONS TRANSMISSIONSERVICES
+ValueAddedNetwork Services(VANS)
+E-MailServices
+InternetAccess Services
+NavigationServices
+FPDSCODED399- OTHERDATA TRANSMISSION SERVICES,NOT
+ELSEWHERECLASSIFIED(except"Voice"andPagerTransmission Services)
+DCSupplySchedule, OCP Page 11of30
+ConNto.r:CWa11c665t1
+
+SPECIAL ITEMNO. 132-53WIRELESSSERVICES_(FPDSCODED304)
+Excludinglocal and long-distancevoice,data, video,anddedicatedtransmission services
+whichare NOTmobile.)
+PagingServices
+Cellular/PCSVoiceServices
+SPECIAL ITEMNUMBER(SIN) 132-60AUTHENTICATION PRODUCTS
+ANDSERVICES(FPDS D399)
+‘Authenticationproductsandservicesprovideforauthenticationofindividuals forpurposesofphysicaland
+logicalaccesscontrol, electronicsignature, andperformanceofe-business transactionsanddeliveryof
+Governmentservices. Authentication ProductsandServices consistofhardware, software componentsand
+supportingservicesthatprovideforidentity assurance.
+Digital Certificate Products and accompanying PKI Services for external users to conduct electronic
+transactions with Federal agency applications, This facilitates secure electronic access to goverment
+information and services using public key infrastructure/digital signature technology. Digital Certificate
+Products andServices provide the speed and immediacy of electronic transactions while protecting
+business-critical information from interception, tampering, andunauthorized access.
+SignatureCertificates
+EncryptionCertificates
+Public Key Infrastructure (PKI) Professional Ser sto support
+implementation andintegrationforordering activitiesapplications
+Hardware Tokens ~ An optional hardware token for generation of key pair
+and storageofthe privatekey
+Bundled Packages —This enables orderingentities the abilitytoprocure total
+solution packages for authorized contractors that meet all the requirements ofthe program
+management office. This includes, but is not limited to reader,
+software,and hardwaretokens.
+X.509 Digital Certificate Products and accompanying PKI Services for internal use in
+District and Federal agencies and systems, This facilitates physical and electronic access to
+government facilities and networks by authorized personnel using public key
+infrastructure/digital signature technology that meets the U.S. Federal Public Key
+Infrastructure (PKI) Common Policy Framework, and is a key enablerofidentity assurance
+within the Federal sector for accesscontrol protectingFederal networks and information
+systems from unauthorized access, interception,
+DCSupplySchedule, OCP Page 12of30
+ConNto.:rCWa11c68t51
+
+andtampering.
+Personal Identity VerificationAuthenticationCertificates
+‘SmartCard AuthenticationCertificates
+DigitalSignatureCertificates
+KeyManagement(Encryption)Certificates
+Public Key Infrastructure(PKI)ProfessionalServicestosupport implementatianodn integration
+fororderingactivitiesapplications.
+Personal Identity Verification (PIV) Credentials and Services. Thisfacilitates
+trustedphysicaland electronicaccess togovernmentfacilitiesand networks using
+smart card technology. PIV Credentials and Services is a key enabler of identity
+assurance for access control and protects Federal facilities and information systems
+from unauthorized access, interception, and tampering.
+Identity Proofing,Registration,Enrollment,andIssuance Products
+Identity ProofingRegistration,Enrollment,andIssuance Services
+‘SmartCards
+SmartCardApplets
+SmartCard-associated Hardware
+‘SmartCard-associated Middleware
+Professional Servicestosupportimplementationandintegration for
+orderingactivities applications
+Seeenneannaceneconsanesneeneeaensnesassenscaseeseennerenaesonesoaneeneosneasn
+NOTE: The following ARE EXCLUDED from this Information Technology Services, Equipment and
+SoftwareSchedule:
+i, RadarEquipment(except airborneradarequipment.
+ii, Electrical Equipment - ¢.g., Uninterruptible Power Supplies, Computer Back-Up Power Systems,
+Surge Suppressers, Power Line Conditioners, Surge Absorbers, etc. may be offered under this,
+solicitation only in conjunction with the IT equipment these devices support.
+iii, Training Courses forproducts which areoutsidethescope ofthis Schedule.
+. Diskettes, Disk Cartridges, Disk Packs, Tape Cartridges, Tapes, Optical Disks,tonercartridges,
+plotter pens, etc. may be offered only in conjunction with the hardware
+devices which utilizethesesupply items.
+v. Carryingcases,exceptoneperportableCPU purchase.
+vi. Any products or services that are not "commercial" as defined in accordance with FAR 52.101.
+DCSupplySchedule,OCP Page 13of30
+ContractNo.CW!16651
+
+SECTION 3
+DELIVERY AND PERFORMANCE
+3.1. TERMOFCONTRACT
+Thetermof thecontract shallbefor aperiodof one yearfromthedateofaward specointfheicoevedr
+pageofthecontract.
+3.2. OPTIONTO EXTENDTHETERMOFTHECONTRACT
+a. The District may extend thetermofthiscontract for a maximumoffour(4),one-yearoption
+periods,or fractionsthereof, bywritten noticetotheContractorbefore theexpirationofthecontract;
+providedthat the Districtwill givetheContractorapreliminarywritten noticeofitsintenttoextend
+at least thirty(30)days before thecontractexpires. The preliminarynotice does notcommitthe
+District toanextension. TheContractormay waivethethirty(30)daypreliminarynotice
+requirement byprovidingawritten waiverto theContractingOfficerpriortotheexpirationofthe
+contract.
+b. The contractorshallhonorthe pricingoftheGSA Contract referenced inSection 1.3 forthebase
+year and eachofthe four(4)one-yearoption periods.
+c. Ifthe District exercisesthisoption, theextendedcontract shall beconsideredtoincludethisoption
+provision. The pricesfortheoptionperiod shall beas specified inthecontract.
+d. The Districtwillnot exerciseanoptoripaortinal optioniftheContractiosrnot incompliancewith
+thetax filingandpayment requirementsofthe District ofColumbiatax laws, isnotcertified by the
+DepartmentofSmalland Local BusinessDevelopmentas aCertified Business Enterprise.
+e. The total durationofthis contract, includingtheexerciseofanyoptions under thisclause, shall not
+exceedfive (5) years.
+DCSupplySchedule, OCP Page 14of30
+ConNto.r:CWa11c68t51
+
+33 DELIVERABLES
+The contractorshallsubmitall deliverables inwritingaccordingto the followingschedulesand as
+furtherrequired by individual taskordelivery orders:
+NIGP | DESCRIPTIONOF [QUANTITY] DUE |FORMAT/MEDIUM
+Code DELIVERABLE DATES
+‘920 |QuarterlySalesReport | 2copiesto| Onorbefore| Hardcopy. SeeDCSS
+Dcss the 30"day| Te&Crondmitiosns,
+Contracting| afterthe Paragraph 2
+Officeror preceding
+designee three(3)
+‘monthfiscal
+‘quarter
+920 |AuthorizedCatalogor | 2copiesto | Within30| SeeDCSSTerms&
+SchedulePrice Listor | each eligible| businessdays| Conditions, Paragraph
+other FederalAward D.C. Agency| after award 26
+PriceList
+Failuretosubmit thesedeliverablesmaybecausefor terminationofthecontractorthe District's
+decision nottoexercise theoption toextend its term.
+3.4 MAXIMUMCONTRACTCEILING
+a. Pursuant tothe District ofColumbiaSupplyScheduleTermsand Conditions
+(February 2010), Attachment 1, Section 5, the Districtreservestheright toincroredeacrseaese the
+maximumcontractceilingforthis solicitation atanytime viawrittenmodification. The maximum
+contractceilingforeach year forthisschedule is$10,000,000.
+b. ContractingOfficersareencouragedtoseek pricereductions when orders may
+exceed tenpercent (10%)ofthemaximumceiling. TheContractoragrees to
+negotiate price reductions forany items when orders may exceedten(10%)of the
+maximumceiling.
+35 51% DISTRICT RESIDENT’SNEWHIRESREQUIREMENTSANDFIRST SOURCE
+EMPLOYMENTAGREEMENT
+‘TheContractorshallsubmittotheDistrictas deliverablaecopyofreports that arerequiredpursuant to
+section 20eoftheDCSS TermsandConditionsconcerningthe51%District ResidentsNew Hires
+Requirements andtheFirst Source EmploymentAgreement.IftheContractordoesnotsubmit the
+reports as apartofthedeliverables, final paymentto theContractormaynotbe paid.
+DCSupplySchedule, OCP Page 15of30
+‘ConNot.:rCWa116c85t1
+
+SECTION 4
+CONTRACTADMINISTRATION DATA
+41 INVOICE PAYMENT
+Afterthe awardofa Taskor Delivery Order, the Districtwillmakepayments totheContractor,
+@)
+uponthesubmissionofproper invoices orvouchers,attheprices stipulated in thecontract, for
+suppliesdelivered and accepted or servicesperformedandaccepted, lessany discounts,
+allowances or adjustmentsprovided for inthecontractawarded.
+b) ‘TheDistrict wilt paythe Contractoron orbeforethe 30" dayafterreceiving a properinvoice
+from theContractor.
+42 INVOICE SUBMITTAL
+The Contractor shall submitproperinvoices onamonthly basisor as otherwisespecified within
+@)
+theTask or Delivery Order. Invoicesshall beprepared in duplicateandsubmittedtotheagency
+ChiefFinancial Officer (CFO) withconcurrentcopies totheContractingAdministrator (CA).
+The name, address,and telephonenumberofthe appropriate CFO and CAwillbeprovided tothe
+Contractorundereachtaskor deliveryorder.
+) Toconstituteaproper invoice, theContractorshall submit the followinginformation onthe
+invoice;
+* Contractor's name,Federal tax IDand invoicedate(Contractors are encouragedtodate
+invoices asclose tothe dateofmailing or transmittal aspossible);
+* Contract mumber(Block No. 2)ofthe executed Solicitation,Application andAward Form
+(page 1), anddeliveryor taskorderandencumbrance(purchase order) number.
+= Assignmentofan invoice number bytheContractorisrequired;
+Description, price, quantityandthedate(s) that thesupplies/services wereactuallydelivered
+orperformed.
+Othersupporting documentationor information, asrequiredbythe ContractingOfficer:
+©
++ Name, ttle, telephonenumberandcompletemailing address oftheresponsible officialto
+‘whom payment is tobesent;
++ Name,title,phone numberofperson preparingthe invoice;
++ Name, title,phone number andmailing addressofpersontobenotified in theeventof
+defectiveinvoice; and
++ Authorizedsignature
+43 FIRSTSOURCEAGREEMENTREQUESTFOR FINALPAYMENT
+Forcontractssubject tothe51%District ResidentsNew Hires Requirementsand FirstSource
+@
+EmploymentAgreement requirements, final request for payment must beaccompanied bythe
+report or a waiverof compliancediscussed in subsection20eofthe DCSS TermsandConditions.
+DCSupplySchedule,OCP Pa16gofe30
+ConNto.r:CWa11c68t51
+
+(>) No final paymentshall bemade to theContractor until theCFO has received theContracting
+Officer’s final determination orapprovalofwaiver ofthe Contractor’scompliancewith 51%
+District ResidentsNew Hires Requirements andFirst Source Employment Agreement
+requirements.
+4.4 ASSIGNMENTS
+(a) Inaccordance with 27 DCMR 3250, unless otherwiseprohibited by thiscontract, theContractor
+may assign fundsdue orto becomedue as a resultoftheperformanceofthiscontract to abank,
+trustcompany, orother financinginstitution.
+(>) Any assignment shall cover all unpaid amounts payable underthis contract and shall not bemade
+to morethan one party.
+(c) Notwithstanding an assignmentofmoney claims pursuantto authority contained in thecontract,
+theContractor, not theassignee, is required to prepare invoices. Wheresuch an assignment has.
+been made, theoriginal copyofthe invoice must refer to the assignmentand must show that
+paymentoftheinvoiceis to be made directly to theassigneeas follows:
+Pursuant to theinstrumentofassignment dated N/A
+makepaymentofthis invoiceto NA
+(name and addressofassignee).
+45 CONTRACTING OFFICER(CO)
+Contractsshall be entered into and signed onbehalf of the Districtonlyby Contracting Officers. The
+addressand telephone numberoftheContracting Officerforthisapplication is:
+Priscilla Mack
+ChiefContracting Officer
+Office ofContractingand Procurement
+441 4" St. NW Suite 3308
+Washington, DC 20001
+Telephone: (202) 724-5236
+46 AUTHORIZED CHANGES BY THECONTRACTING OFFICER
+The ContractingOfficer istheonly personauthorized to approvechanges in anyoftherequirementsofthe
+contract resulting from theapplication.
+The Contractorshall not comply with anyorder,directive orrequest that changes ormodifies therequirements
+ofthecontract, unless issued in writingand signed by the Contracting Officer.
+In the event theContractoreffects any change at the instruction orrequest ofanyperson otherthan the
+Contracting Officer, the changewill be considered to have been made without authority, and no adjustment will
+be made inthecontract priceto cover anyprice increase incurred asa result thereof.
+OCSupplySchedule,OCP Page 17 of30
+ContractNo.: CW116651
+
+4.7 CONTRACT ADMINISTRATOR(CA)
+The agencyCAforthiscontractwill bedeterminedat thetimeofissuanceoftaskordeliveryorder. The
+CAs responsible for general administrationofthe contractandadvising theContractingOfficer as to
+theContractor's complianceor noncompliance withthecontract. Inaddition, theCAis responsible for
+theday-to-day monitoring andsupervisionofthecontract, ofensuring that theworkconforms tothe
+requirementsofthiscontractandsuchotherresponsibilitiesandauthorities as may bespecifiedinthe
+contract. The agency CAforthiscontract will bedetermined at the timeofissuanceoftaskor delivery
+orders.
+48 THEQUICK PAYMENT ACT
+481 Interest Penaltiesto Contractors
+4.8.1.1 The District will pay interestpenaltieson amounts dueto theContractorundertheQuickPayment
+Act, D.C. OfficialCode § 2-21.01 etseq., as amended, forthe periodbeginningonthedayafter the
+requiredpayment dateandendingon thedateon which paymentoftheamount ismade. Interest
+shall becalculatedatthe rateofatleast 1%permonth. No interestpenaltyshall bepaidifpayment
+for thecompleted deliveryoftheitemofpropertyor service is madeon or beforetherequired
+paymentdate, The requiredpayment date shall be:
+48.1.1.1 |Thedateon whichpayment isdue underthetermsofthiscontract;
+4.8.1.1.2 Not laterthan 7 calendardays, excludinglegal holidays, afterthe dateofdeliveryof
+‘meator meat food products;
+4,8.1.1.3Not later than 10 calendar days, excluding legal holidays,afterthedateofdelivery ofa perishable
+agriculturalcommodity; or
+4.8.1.1.430calendardays, excludinglegal holidays, afterreceipt ofa properinvoice forthe amountofthe
+paymentdue.
+48.1.2 No interest penaltyshall be duetotheContractorifpayment forthe completeddeliveryofgoods or
+services ismade on orbefore:
+4.8.1.2.1 3" dayafterthe requiredpayment date for meator a meatproduct;
+4.8.1.2.2 5" dayafter the requiredpayment date foran agricultural commodity;or
+4.8.1.2.3. 15"day afteranyother requiredpayment date.
+48.1.3 Any amountofan interestpenalty which remains unpaid atthe end ofany30-day period shall be
+sited the principal amountofthe debt andthereafter interest penaltiesshall accrueon theadded
+482 Payments to Subcontractors
+4.8.2.1 ‘TheContractorshall takeoneofthe followingactions within seven (7) days ofreceipt ofanyamount
+paid totheContractorby the District for work performedbyanysubcontractor underthecontract:
+‘DCSupplySchedule,OCP Pa18gofe30
+ConNto.r:CWa11c66t51
+
+4.8.2.1.1 Pay the subcontractor(s) fortheproportionate shareofthetotal payment received from the District
+that is attributable tothesubcontractor(s) forworkperformedunderthecontract; or
+4.8.2.1.2 Notify the CO and thesubcontractor(s), inwriting,oftheContractor's intention to withholdallor
+partofthe subcontractor'spaymentand statethe reasonforthenonpayment.
+4.8.2.2 The Contractor shall paysubcontractorsor suppliers interestpenaltiesonamounts duetothe
+subcontractoror supplierbeginningon theday after thepayment is due andendingon thedateon
+which the payment is made. Interestshall becalculated attherateofat least 1%permonth. No
+interestpenaltyshall bepaid onthefollowingifpaymentfor the completed deliveryoftheitemof
+property orservice is madeonor before the:
+4.8.2.2.1 3" day after therequired payment date formeat or a meat product;
+48.2.2.2 5" dayafterthe requiredpayment dateforan agricultural commodity; or
+48.2.2.3 15" day afteranyother requiredpayment date,
+48.2.3 Any amount ofan interestpenalty which remains unpaid by the Contractorat the endofany 30-day
+period shall be added totheprincipal amountofthe debt tothe subcontractorandthereafter interest
+penalties shall accrue on theaddedamount,
+4.8.2.4 Adisputebetween theContractor andsubcontractor relating totheamounts or entitlementofa
+subcontractortoapaymentor a late paymentinterestpenaltyundertheQuickPaymentAct does not
+constitutea dispute towhich the District isa party. The District maynotbe interpleaded inany
+judicial or administrative proceeding involvingsuchadispute.
+483 Subcontractrequirements
+4.8.3.1 TheContractorshall include ineach subcontractunderthis contract a provision requiringthe
+subcontractor toinclude in itscontractwith any lower-t i ersubcontractoorr supplierthe payment and
+interest clauses requiredunder paragraphs (1)and (2) ofD.C. OfficialCode § 2-221.02(4).
+4.8.3.2 The Contractorshall include in eachsubcontract under this contracta provision thatobligatesthe
+Contractor, atthe electionofthesubcontractor,toparticipate in negotiation ormediationasan
+altemnative to administrative orjudicialresolutionofa dispute between them.
+4.9 WAYTO WORKAMENDMENTACT OF2006
+4.9.1 Exceptas described in6.9.8 below, theContractorshall comply withTitle lof the Wayto
+Work Amendment Actof 2006, effective June9, 2006(D.C. Law 16-118, D.C. Official Code §2-220.01 ef
+eq.)(“Living Wage Actof 2006”), forcontracts for _services intheamountof $100,000or more ina 12-
+month period.
+4.9.2. The Contractorshall payits employeesand subcontractors who performservicesunderthecontractno
+lessthanthecurrent livingwage publishedontheOCPwebsite atwww.ocpde.gov.
+DCSupplySchedule, OCP Page19of30
+ContractNo.:CW116651
+
+4.9.3. The Contractorshall include inanysubcontract for $15,000or more aprovision requiringthe
+subcontractor to pay its employeeswho performservicesunderthe contractno lessthan the current livingwage
+rate.
+494 The Department ofEmployment Servicesmay adjust the livingwage annually and theOCPwill publish
+thecurrent living wagerateon its websiteatwww.ocp.dc.gov.
+4.9.8 The Contractorshallprovide a copyoftheFact SheetattachedasAttachmentF toeach employee and
+subcontractor who performsservicesunderthecontract. TheContractor shallalsopost theNoticeattachaesd
+AttachmentE in a conspicuousplace in its placeof business. The Contractor shall include in anysubcontract
+for$15,000 or more aprovision requiringthesubcontractor topost theNotice inaconspicuousplacein its
+placeofbusiness.
+4.9.6 TheContractorshall maintain itspayroll recordsunderthe contract inthe regularcourseofbusinessfor
+aperiodofatleast three(3)years from thepayroll date,and shall include thisrequirement in itssubcontracts
+for$15,000ormore underthecontract.
+4.9.7 Thepaymentofwagesrequiredunderthe Living Wage Actof2006 shallbe
+consistent with and subjecttotheprovisionsofD.C.Official Code §32-1301 eseg.
+4.9.8 The requirementsofthe LivingWageAct of2006donotapplyto:
+(1) Contracts orotheragreements that aresubject tohigherwage level determinations required
+by federal law;
+(2) Existingand futurecollectivebargaining agreements, provided,that the futurecollective
+bargainingagreementresults in theemployee being paid no less than the established livingwage;
+(3) Contracts forelectricity, telephone, water, seweror other servicesprovided bya regulated
+utility;
+(4) Contractsforservices needed immediatelytoprevent or respond toadisaster or eminent
+threatto public health or safety declared bythe Mayor;
+(5) Contracts orotheragreements that providetraineeswithadditional services including,but
+not limited to, case management andjobreadinessservices; provided that the trainees do not
+replaceemployeessubject to theLiving Wage Actof2006;
+(6) Anemployee under 22yearsof ageemployedduringaschool vacation period,orenrolledas
+a full-timestudent,asdefined bytherespective institution, who is inhighschoolorat an
+accredited institutionofhigher educationandwhoworks less than 25hours perweek;provided
+thatheorshedoesnotreplace employeessubject totheLiving Wage Actof2006;
+(7) Tenants or retailestablishments thatoccupyproperty constructed or improved byreceiptof
+‘government assistance from theDistrict ofColumbia; provided,that the tenant orretail
+establishment did not receive directgovernmentassistance from the District;
+(8) Employees ofnonprofitorganizations thatemploy notmorethan 50 individualsandqualify
+for taxationexemption pursuant to section 501(c)(3)ofthe Internal RevenueCode of 1954,
+approved August 16, 1954(68A Stat. 163;26U.S.C. § 501()(3);
+(9) Medicaidprovider agreements for direct care servicestoMedicaid recipients, provided, that
+the directcareservice is notprovidedthrough ahomecare agency, a community residence
+facility, ora grouphome for mentallyretardedpersons as thoseterms are defined insection 2 of
+the Health-Care andCommunity ResidenceFacility, Hospice, andHomeCare LicensureActof
+1983, effective February24, 1984 (D.C. Law 5-48; D.C.OfficialCode § 44-501); and
+Safety NetAdministrationor the MedicaidAssistance Administration toprovide health services.
+(DCSupplySchedule, OCP Page20of30
+‘ConNot.:rCWa11c68t51
+
+4.9.9 The Mayormay exemptaContractorfromtherequirementsoftheLiving Wage Actof 2006, subject
+totheapproval ofCouncil,inaccordancewith theprovisionsofSection 109ofthe LivingWage Actof2006.
+4.10 INSURANCE
+DeleteSection 23,Insurance,oftheTerms andConditionsdatedFebruary2010and
+substitutethe following clause 4.10, Insurance,in itsplace:
+. GENERAL REQUIREMENTS. TheContractorshall procure and maintain, duringtheentire periodof
+performance underthiscontract, thetypesofinsurancespecifiedbelow. The Contractor shall have its
+insurancebrokeror insurancecompany submitaCertificateofInsurancetotheCO givingevidenceof
+therequired coveragepriortocommencingperformanceunderthiscontract. Innoeventshallanywork
+beperformeduntil therequiredCertificatesofInsurancesignedbyanauthorized representative of the
+insurer(s) havebeen providedto, andacceptedby, theCO. All insuranceshallbewritten with
+financiallyresponsible companiesauthorized todobusiness inthe DistrictofColumbiaor inthe
+jurisdiction where thework is tobeperformedand haveanA.M. BestCompany ratingofA- /VIIor
+higher. The Contractorshallrequireall ofitssubcontractors tocarrythesame insurancerequiredherein.
+Allrequired policiesshall contain a waiverofsubrogationprovisioninfavoroftheDistrictof
+Columbia.
+The Contractorshall includetheDistrict ofColumbiaas anadditional insuredinall
+policies requiredhereundetrobemaintained by theContractorandits subcontractors
+(except forworkers’compensation andprofessional liability insurance) forclaimsagainst
+theDistrict ofColumbiarelatingtoperformanceofthiscontract. The Contractoragrees
+thatany affirmative obligation imposedupontheContractororitssubcontractors
+includingwithout limitationtheliability topaypremiums)shallbethesole obligation of
+theContractorandits subcontractors, andnottheadditional insured. The additional
+insuredstatusundertheContractor's and itssubcontractors’ CommercialGeneral
+Liability insurancepoliciesshallbeaffected usingtheInsurance ServicesOffice, Inc.
+(“ISO”)Additional InsuredEndorsement formCG20 10 11 85(orCG 20 10 0704 and
+CG 20 37 0704)orsuchotherendorsementorcombinationofendorsements providing
+coverageatleastas broad. All oftheContractor's and its subcontractors’ liability
+policies--except for workers’ compensation andprofessional liability insurance--shallbe
+endorsedusing ISO formCG2001 04 13or itsequivalentsoasto indicate thatsuch
+policies provideprimarycoverage (without anyright ofcontributionbyanyother
+insurance,reinsuranceorself-insurance, includinganydeductibleor retention maintained
+by anadditional insured)for all claimsagainst theadditional insuredarisingoutofthe
+performanceofthiscontractbytheContractorand itssubcontractors, oranyonefor
+whomtheContractororitssubcontractors maybeliable. These policies shall includea
+separationofinsuredsclause applicabletotheadditional insured.
+IftheContractor and/orits subcontractors maintain broadercoverageand/orhigherlimits
+than theminimumsshown below, theDistrict requires, andshall beentitled to, the
+broader coverageand/orthehigherlimitsmaintainedbytheContractorand/or
+subcontractors. Anyavailableinsuranceproceeds inexcessofthe specifiedminimum
+limitsofinsuranceandcoverageshall beavailabletotheDistrict.
+DCSupplySchedule, OCP Page21of 30
+‘ConNot.:rCWa11c66t51
+
+1. ComGemneraelLiarbilitcyInsiuranace(ClGL). The Contractor shall maintain a CGL policy, written
+‘onanoccu(rnotrcleaimns-cmadee) basoinIsS,OformCG0001 04 13 (oranotheroccurrence-based
+form with coverage at leastas broad), coveringliability forallongoingand completedoperations ofthe
+Contractor, including ongoingandcompleted operations underall subcontracts,andcovering claims for
+bodily injury, including without limitation sickness, disease or death of any persons, injury to or
+destructionofproperty, including lossofuse resulting therefrom, personal and advertising injury, and
+including coverage for liability arising out of an insured contract (including the tort liability ofanother
+assumed in a contract) and acts of terrorism, whether caused by a foreign or domestic source. Such
+coverage shall have limits of liability ofnot less than $1,000,000 each occurrence, a $2,000,000 general
+aggregate (including a per location or per project aggregate limit endorsement) limit, a $1,000,000
+personal andadvertisinginjury limit, and a$2,000,000 products-completedoperations aggregatelimit.
+2. Automobile Liability Insurance. The Contractor shall maintain commercial (business) automobile
+liability insurance writtenon ISO form CA0001 10 13 (oranotherform with coverageat leastasbroad)
+includingcoverage forall owned, hired, borrowed and non-owned vehiclesand equipment used by the
+Contractor, with minimum per accident limits equal to the greater of (i) the limits set forth in the
+Contractor's commercial automobile liability policy, or (ii)$1,000,000 per occurrencecombined single
+limit forbodily injuryand property damage.
+3. Workers’CompensationInsurance.The Contractorshall maintain Workers’ Compensation insurance in
+accordance with the statutory mandatesofthe District of Columbia or the jurisdiction in which the
+contract isperformed.
+4. Employer's LiabilityInsurance. The Contractor shall maintain employer’s liability insurance as
+follows: $500,000 peraccident for injury; $500,000per employee for disease; and$500,000 forpolicy
+disease limit
+B. PRIMARY AND NONCONTRIBUTORYINSURANCE. The Contractor agrees thatits insurance
+shallbeprimaryand noncontributory. TheContractoragrees thatnootherinsurance availabletothe
+District ofColumbiaoranadditional insured underContractor'spolicy shallapply before the
+Contractor’sinsurancecoveragesarefullyexhausted.
+C. CERTIFICATEOFINSURANCEREQUIREMENTS. Eachcertificateofinsurance
+shall include:
+1. The nameofthe insurancecompany or companies;
+2. The nameofthe insuredcontractor;
+3. The type(s)ofinsurancecoveragebeing provided;
+DCSupplySchedule,OCP Pa22gofe30
+‘ContractNo.:CW116651
+
+The insurancepolicy number(s);
+A
+‘The insurancepolicyeffectivedate(s) and expirationdate(s);
+I Theinsurance liability limits;
+‘TheDistrictcontract number;
+P
+Specific cancellationrequirementsnoted intheCancellationbox(inthe lowerright
+‘handcomer);
+9. TheDistrictasaCertificateHolder(inthe boxinthe lowerlefthandcomer);and
+10. TheDistrict notedasanadditional insured anadwaiverofsubrogationnotedineither
+theinsurancedescription section orcheckedinthe boxesnext tothe applicablelines
+ofcoverage.
+D. DURATION. The Contractorshall all required insurance for two(2)years followingfinal
+acceptanceof thework performedunderthis contract, unlessotherwiseprovidedabove.
+E. LIABILITY. Thesearethe required minimum insurancerequirementsestablished bytheDistrictof
+Columbia. HOWEVER,THE MINIMUM INSURANCE REQUIREMENTSPROVIDED
+ABOVE WILLNOTINANY WAYLIMITTHE CONTRACTOR'SLIABILITYUNDER
+THISCONTRACT.
+F. CONTRACTOR’S PROPERTY. Contractorand subcontractors aresolely responsible forany loss
+ordamagetotheir personalproperty,includingbut notlimited totoolsand equipment,scaffolding
+and temporarystructures,rented machinery, or owned and leasedequipment. A waiverof
+subrogationshall apply in favoroftheDistrictofColumbia.
+G. MEASURE OF PAYMENT. TheDistrictshall not makeany separatemeasureorpayment forthe
+costofinsuranceandbonds. TheContractorshallincludeallof thecostsofinsuranceandbonds in
+thecontractprice.
+H. NOTIFICATIONOFCHANGESTOINSURANCE. The Contractorshali ensurethatallpolicies
+provide that theCOshall begiventhirty(30)dayspriorwritten noticein theeventofcoverage or
+limitchanges,or if thepolicy is canceledpriotro theexpirationdate shown onthecertificate. The
+‘ContractorshallprovidetheCO withten(10)dayspriorwritten noticeintheeventofnon-payment
+ofpremium.The Contractorwill alsoprovidetheCO withanupdatedCertificate ofInsurancewhen
+its insurancecoveragesrenewduringthecontract, andafter.
+I. SUBMISSIONOFCERTIFICATESOF INSURANCE. The Contractorshall haveits insurance
+broker or insurancecompanysubmitCertificatesofInsurance givingevidenceoftherequired
+coveragespriortocommencing work,andasnecessaryduring thetermofthiscontract. Certificates
+ofInsuranceshallbesubmittedto:
+0cSupplySchedule, OCP Pa23gofe30
+‘ConNot:rCWa11c66t51
+
+PriscillaMack
+441 4 StreetNWSuite3308,
+Washington,DC20001
+priscilla.mack@dc.gov
+J, DISCLOSUREOFINFORMATION. TheContractoragrees that theDistrict
+maydisclosethenameandcontact informationofits insurertsoanythirdpartywhich
+presentsaclaimagainsttheDistrict foranydamagesorclaimsresultingfromor
+arising outofwork performedbytheContractor,itsagents,employees,servants,or
+‘subcontractorsintheperformanceofthiscontract.
+4 DISPUTES
+DeleteArticle 14,Disputoeftsh,eStandardContract ProvisionsdatedJuly2010foruse withDistrictof
+‘ColumbiaGovernmentSuppliesandServicesContracts andsubstitutethe followingArticle 14,
+Disputes,initsplace:
+14,Disputes
+Alldisputesarisingunderorrelatingtothecontract shallbe resolvedasprovidedherein.
+(@) ClbyatheiConmtracstor agathieDnistsrictt:Claim,asusedinparagra(pah)ofthis
+clameaunssaweritt,en assertbyitohne Contractor seekinags,amatoftrieghrt,thepayment
+ofmoneyin asumcertain,theadjustment orinterpretationof contractterms,orotherrelief
+arisingunderorrelatingtothecontract.A claimarising under acontrunalicketa, claim
+relatingtothatcontract, isaclaimthatcanberesolvedunder acontractclausethatprovides
+forthereliefsought by theclaimant
+Allclaimsby aContractoragainst theDistrictarisingunder orrelatingto acontract
+shallbe inwriting and shallbesubmittedtotheCO foardecision.TheContractor'sclaimshall
+contain atleastthe following:
+0 AAdescriptofitohneclaimandtheamountindispute;
+(i) Data orother information insupofpthoeclraitm;
+Gil) AbriefdescripotfiothneContractor'seffortstorestoheldivspuete
+priorto filingtheclainy;and
+(ii) ‘TheContractor'srequestforrelioerfotheractbytiheoCOn.
+TheCOmaymeetwith the Contractionrafurtherattempt toresothlecvlaiem by agreement,
+‘TheCOshallissue adecisiononanyclaim within 120caldeaysnaftderraeceirpt of theclaim.
+‘Wheneverpossible, theCOshalltakeintoaccountfactorssuchasthesizeandcomplexityof the
+claimandtheadequacyofthe information insupportoftheclaimprovided bytheContractor.
+‘TheCO'swrittendecision shalldothe following:
+(iv) Provideadescriptionoftheclaimordispute;
+tO} Refertothepertinent contractterms;
+OCSupplySchedule,OCP Pa24gofe30
+ConNto.rCWa11c68t51
+
+(vi) Statethefactualareasofagreement anddisagreement;
+(vii) State thereasonsforthe decision,includinganyspecificfindingsoffact,
+althoughspecificfindingsoffactarenotrequiredand, ifmade, shall notbe
+binding inanysubsequentproceeding:
+(viii) Tall oranypartoftheclaim is determined tobevalid, determinethe
+amountofmonetary settlement,thecontractadjustmenttobemade,orother
+relief to begranted;
+(ix) Indicatethat thewrittendocumentistheCO’sfinaldecision;and
+®) InformtheContractor oftherighttoseek furtherredressby appealingthe
+decision to theContractAppeals Board.
+FailurebytheCOtoissueadecisiononacontractclaim within 120daysofreceiptoftheclaim
+willbedeemedtobeadenialof the claim, andwillauthorizethecommencementofanappeal to
+theContractAppeals Boardasprovided byD.C. OfficialCode § 2-360.04.
+(6)Ifacontractor isunable tosupportany part ofitsclaim and itis determinedthat the
+inability isattributabletoamaterial misrepresentationoffactor fraudonthepartofthe
+Contractor, theContractorshall beliable tothe District for anamount equal tothe
+‘unsupppaortrotfethde claim inaddition toall costs totheDistrictattributabletothecost
+ofreviewing thatpartoftheContractor'sclaim. Liability undert hisparagraph(a)(6)
+shallbedeterminedwithin six(6)yearsofthecommissionofthe misrepresentationof
+factor fraud.
+(7) Pending final decision ofan appeal,action, or final settlement, theContractorshall proceed
+diligently with performanceofthe contract inaccordance with thedecision oftheCO.
+(b) Claimsby theDistrict againsttheContractor: Claim as used in paragraph(b)of this
+clause, means a writtendemand or writtenassertionby theDistrictseeking, asa matter of
+right,the payment ofmoneyina sumcertain,the adjustmentof contract terms,or other
+relief arising underorrelatingto thecontract. A claim arisingunder a contract, unlike aclaim
+relating tothatcontract, isaclaim thatcan be resolved undearcontract clause that provides
+forthereliefsought by theclaimant,
+(1)TheCO shalldecideall claimsby the District against acontractorarisingunderorrelating toa
+contract.
+(2) TheCOshall sendwritten noticeoftheclaimtothecontractor.TheCO’s written
+decisionshalldothefollowing:
+(xi) Provide adescriptionoftheclaim ordispute;
+Referto thepertinent contractterms;
+Statethefactual areasofagreementand disagreement;
+(xii) _Statethereasonsforthedecision, includinganyspecific findingsoffact,
+although specificfindingsoffactarenot
+requiredand, ifmade,shallnotbebinding inanysubsequent
+proceeding;
+(xiii) [fallor anypartoftheclaimis determinedtobevalid, determinethe
+amountofmonetarysettlement, thecontractadjustment tobemade,
+or otherreliefto begranted;
+DCSupply Schedule,OCP Page25of30
+‘ConNot.:CrW1a16c65t1
+
+(xiv) Indicatethat the writtendocumentis the CO’s final decision;and
+(xv) Inform theContractor ofthe righttoseekfurtherredress by
+appealingthedecisiontotheContract Appeals Board.
+(3) The CO shall support thedecisionbyreasons andshall inform theContractorofits
+rights as providedherein,
+(4) Before or after issuingthedecision,theCOmay meet withtheContractortoattemptto
+resolve theclaim byagreement.
+(8) The authority contained inthisparagraph(b) shall not apply to aclaimordispute for
+penalties or forfeitures prescribedbystatute or regulation which anotherDistrictagency is
+specifically authorizedtoadminister,settle or determine.
+(©) Thisparagraph shall notauthorizetheCO to settle,compromise, pay, or otherwiseadjust
+anyclaim involving fraud.
+(©) DecisionsoftheCOshall be final andnot subjecttoreviewunlesstheContractortimelycommencesan
+administrativeappeal forreviewofthe decision,byfilingacomplaintwiththeContract Appeals
+Board,asauthorizedbyD.C. OfficialCode§ 2-360.04,
+@ Pending final decisionofan appeal, action,or final settlement, the Contractorshall
+proceed diligently withperformanceofthecontract in accordance with the decisionofthe
+co.
+4.12 CHANGES
+Deleteclause 15, Changes Clause, ofthe Standard Contract ProvisionsdatedJuly 2010 foruse
+with District ofColumbia GovernmentSupplies and Services
+Contracts andsubstitutethe following clause 15, Changes Clause, in its place:
+15, Changes:
+(a) The COmay,atany time,by written order,and without notice tothe surety, ifany, make
+‘changesinthecontract within thegeneral scope hereof. Ifsuchchangecauses an increaosre
+decrease in thecostofperformanceofthecontract, or inthetime required forperformance,an
+equitableadjustment shall bemade. Any claim foradjustment for a change within thegeneral scope
+mustbeasserted within ten(10)daysfrom thedatethechange is ordered; provided, however,that
+theCO, ifheor shedeterminesthat the factsjustifysuchaction, may receive,consider,and
+adjust anysuchclaim asserted at anytimepriortothedateoffinal settlementofthe contract. Ifthe
+parties fail toagreeupontheadjustmentto bemade,thedisputeshall bedeterminedasprovidedin
+clause 14 Disputes.
+(®) The District shall not require theContractor, andthe Contractor shallnot requirea
+subcontractor, to undertakeanyworkthat is beyondtheoriginal scopeof thecontractor
+subcontract, including workundear District-issuedchange order,when the additional work
+increasesthe contractprice beyondthenot-to-exceedpriceor negotiated maximumpriceofthe
+contract, unlesstheCO:
+(OCSupply Schedule, OCP Page26of30
+ConNtor:CWa11c66t51
+
+(1) Agrees with the Contractor, andifapplicablethesubcontractor, priceforthe
+additional work;
+(2) Obtains acertification offunding to pay forthe additional work;
+(3) Makes awritten, bindingcommitmentwiththeContractortopayfortheadditional
+work within thirty(30)days after theContractorsubmits aproperinvoice; and
+(4) Provides theContractorwith written notice ofthe funding certification.
+(c)The Contractorshall includein its subcontracts aclause thatrequiresthe
+Contractorto:
+(1) Within five (5) business days ofits receiptofnoticeoftheapproved additional funding,
+provide the subcontractorwith noticeoftheamount to bepaid to the subcontractor forthe
+additional workto beperformedby thesubcontractor,
+(2) Pay thesubcontractorany undisputedamount towhich thesubcontractor is entitled for the
+additionalwork withinten(10)daysofreceipt ofpayment from the District; and
+(3) Notify the subcontractorand CO inwritingofthereason(s)the Contractor withholdsany
+payment from a subcontractorfortheadditional work.
+(@) NeithertheDistrict, Contractor, noranysubcontractor may declareanotherparty
+tobe indefault, orassess,claim,orpursue damages fordelays until theparties
+agreeonaprice fortheadditional work.
+DCSupplySchedule, OCP Page27 of30
+ContractNo.: CW116651
+
+SECTION 5
+ORDER OF PRECEDENCE ANDATTACHMENTS
+ORDEROFPRECEDENCE
+Aconflictinlanguageshall beresolvedby giving precedencetothedocument in thehighest orofdpreiorrity
+thatcontains languageaddressingtheissue inquestion.The followingdocumentsare incorporated into the
+contractby referenceinthe followingorderofprecedence:
+1, ContractNumber: CW116651
+2. District ofColumbia SupplySchedule Termsand Conditions,February2010
+3. Standard Contract Provisions forUse with District ofColumbia,July 2010
+ATTACHMENTS
+‘The followingattachmentsare incorporatedinto thecontract:
+1. DCSS Contractor’s OfferLetterandPriceSchedule,datedMay 15, 2024, AttachmentA
+2. WageDetermination2015-4281 Rev. No.29 Dated4/11/2024, AttachmentB
+‘The followingdocuments availableathttps://ocp.de.govare incorporatedinto the contract by reference:
+1. LivingWageAct of2006 Notice, effective January 1,2024
+2. Living WageAct Fact Sheet 2024Notice,effectiveJanuary 1,2024
+DCSupplySchedule,OCP Pa28gofe30
+ContractNo.:CW116651
+
+SECTION 6
+REPRESENTATIONS,CERTIFICATIONS AND _
+OTHER STATEMENTS OF APPLICANTS
+6.1 AUTHORIZEDNEGOTIATORS
+TheContractorrepresentsthat the followingpersons areauthorizedtonegotiaotneits behalf with the
+District in connectionwith thisrequest forContractor: (list names,titles,andtelephonenumbersofthe
+authorized negotiators).
+Names: Amit Bahadur
+Titles: Owner
+Telephone: 804-405-5347
+62 |WALSH-HEALEYACT
+If thiscontract is forthemanufacture or furnishingofmaterials, supplies, articlesor equipment inan
+amount thatexceeds or may exceed $10,000, and issubjecttotheWalsh-HealeyPublic ContractsAct,
+as amended (41 U.S.C. 35-45), the followingtermsand conditions apply:
+(@) All representationsandstipulationsrequiredbytheActand regula tions issuedby the Secretary
+ofLabor (41 CFR 50-201.3)are incorporatedby reference. These representationsand
+stipulations aresubject toall applicablerulingsandinterpretationsoftheSecretaryofLaborthat
+are now, or may hereafter, be ineffect.
+(0) All employees whose work relates tothiscontractshall be paid not less thanthe minimum wage
+prescribed by regulations issued bytheSecretary ofLabor(41 CFR50-202.2)(41 U.S.C.40).
+Leamers, student learners,apprentices,andhandicapped workersmay be employedat lessthan
+theprescribedminimumwage (see41 CFR 50-202.3)tothe same extent thatsuch employment
+ispermittedunder Section 14ofthe FairLabor StandardsAct(29U.S.C. 214).
+(OCSupplySchedule, OCP Pa29gofe30
+ConNto:rCWa11c66t51
+
+SECTION7
+CONFIRMATION ANDAGREEMENT.
+7.1 TheContractoragreestocomplywith all termsand conditionsset forth herein.
+DCSupplySchedule, OCP Page 30of30
+‘ContractNo:CW116651
+
+Attachment A
+i Sin aeee
+Capital Consulting LLC
+cwii6sst
+
+(CapitalConsLuLCDlBAtThiarsnsotgT
+"1205MaronGaryAv96,BTE203
+‘Wangan, 200206395,
+Tatot2029833572
+oepreeatcon
+ATTACHMENTA
+May 15,2024
+TomiaHarrison
+ContractingOfficer
+OfficeofContractingandProcurement
+DCSupplySchedule
+441 4®StreetN.W.,Suite330South
+Washington,D.C. 20001
+RE: CSSSolicitation No.ITES202420
+ContractNo.CW116651
+Caption: InformationTechnologyEquipmentandSoftware
+DearMs.Harrison:
+‘Toprovide InformationTechnology Equipmeanntd SofutndweraConrtraectNo.CW116651,
+CapitalConsulting LLCDBATharseoIT,agreestothepricingthatissetforthintheprice
+schedulethatis attachedtothis letter. Theattachedprice schedule,consistingof37pages,
+adoptspricingthatisat orbelowthepricesthatare inGSAFederalSupplyScheduleServices
+‘ContractNo.47QTCA21D0036thatwas awarded toMythics LLC,Capital ConsultingLLC
+DBATharscoITherebyadoptsthe partial GSAschedulelist.
+‘Thesepricesapply1othebase yearandeachof thefour (4)optionyearsundertheproposed
+DCSScontract.
+Pleasefeelfreetocallmeifyouhaveany questions, Icanbereachedon 202-235-4531
+“Thankingyou inadvanceforyourcooperationandyourconsiderationonthismatter.
+Sincerely,
+Amit Bahedur~ President&COO
+CapitalConsultingLLC DBATharseo IT
+202-235-4531
+Page1of1
+
+iy
+PerrfaeeKempetCtfer Nar |
+sient 207
+7 Cpe iPlMagen CSi anna,
+ie
+Aearn PePilMameCdSer ana
+Env aPiaNg CdEen vedNed
+on[s_on|
+anf an anfs on]
+Po) ae) van|s sen]
+ed
+int s a]
+iets tm]
+ta
+vfs 18)
+ona] sama]
+a
+en] saan]
+E
+=
+s
+5 ndeyadeUle ,
+i
+se
+e
+en
+T
+ca esCe raion a
+=
+
+RCa r HeNTd
+aeHalRatOo a TT
+
+2
+]
+s
+]
+2 a
+[
+= aaea
+]
+a
+/
+z
+ietadVosagin Cal Toad
+or no
+ae an Vale ee a
+aleandVorNesCdev ostRaa oH
+
+HIRGLwahTT mayel 19Ol ce
+aT emeytga ant
+aa ealTe
+Boar eaTaee
+Sone TT Toma TadOra Oa
+DaeSerer NETwahTDrene ad
+maT Ween Tow
+on
+alerald.
+atSeve eNETwshTEreyTdOem
+ee aaa ar a
+eeeSere STATTE aayTIO IO
+0.
+ae TSS GR ayTT
+
+2 0 ee [s iexasnaos|s[wiasmsa]|seoesaSnss|s[asumnooHsT]ss0em ss ]s
+aapear pnenaang te fs waanai|s exann|s erznn|s aiann|s am
+au esgusisaeeaes nanos] esanos|s waanas|s wanes mm
+7» fe wisn |seons]s waanas|s mams|smamas
+oe fas RET asm |s amas wiamn|s waanis|s amos
+oy aestaserssee es anESESCATTOISST, wsrnahy mama |y wamnn|y aarmn[y oman
+15(STSgettgad Geneteeeyeotns) = =m
+os Lapua utes cums] oxmra|s omva]s neva s onan
+w e dace bee ACTTOGACATICO—STT [s Ty a aa m n a ar m as a ] ess o aa n r e es n r e es s ] s s a ca e ra r cr a se|s araserae|s =araeres)
+* fet dedgosioGetcrn b yme) sree [eau
+aw wg case + onea|s omwe|s onan |s oaoa]s mas
+ea + cuca |s omou|s canals onan [seme
+Seay + nsra|s oneness casas] onsen
+fosssmeeeote 5 wines ames wiowe|s wmne
+= ees swim |s wimwan|s ree)
+Saastinoe Shp menTORTISTINTTy wanes] enone fanaa fala
+204[osOd gad Genetcof on ana) eo fs sane
+fs wionse|s won| wmeer
+mals woes women
+5 ions + sume |s wires
+aaa ame are ea
+Sasee[SoSmasaaaerseo[as
+mf Tans vas an
+20 s_sowm|s ames nome] sums
+a[Se ee an Ee nTTome TRF | Ficc aa [sama [osama Yin
+-E E r y D=ea Lh vehnitiseetetiaientdhaiteeriehnisnoimeannmlnedliodl ED Ss assanee]s T rsso a ree]s [ ssS.sorae]Ts sss20046
+ssfera evennepehmermtereeeee s ey, senses eoser|s ansar|s aaser
+me Peerneebarba a Ty anenifs _emn|s ernn[s nen |s amen
+a aae re EE TC
+EI joer e e aee e e ee rie ee a ead 3 _otsg h o e |s—onsao a |s—prsso|s—srsan] sons)
+Hefonttostsge-nsoss oper emma[ tees uma sent —peet
+festa morissette— atts— weeds
+Er = e ta Se
+“ eee FashCrewtani nagwnn” Ts vaseaes]s tarmaan]s tateann|s tame| varwer|
+(a eoaTTore OE fy aes nannfs newsi|s amen ]s wor
+a a aareas fy amrale amale ane |F vee] eam
+7ft downet Fi owaeons |; —aana]s amas amas oana|s aan
+co 5 _wn|s ovules man]s _vnm]s me
+= seals omnes eonls eons eon
+me sms woes wwer[s moms
+= 5 wols mals walt wal ao)
+smal _iana|s ane |s vane] ven
+fs onals tones sone |s ons omar
+1 aaOeprPare ara em pies omnes vas ome mai
+
+e
+l
+e
+p
+e ae Nance
+]
+s
+]
+e
+teSrSab Ln Dli agaren
+l
+S a BapeDAO a
+E p=Baeaeone
+l
+E Sc Shoe an optpe Oeaa ag
+l
+B
+[singeCineCot wr war PeCaso
+an Oo aa som
+aaBaan CaenGraepoNa Pare
+er aa No ae
+a peanRape
+= a
+Som BaEa TIT
+aa a TS
+a a
+is
+20
+|
+Bin,
+meee
+ama
+ume
+seas] 5 sats
+ro a)
+
+)SEI
+SERIS
+5
+
+oy 0] o]s aw]s ea]
+rr oe ans oe
+on on anfsen|s aa
+FPetnoteA heOrePad ndtSUmea es “Tes
+renetb atong ie tywa whpd
+(myeiecnantservemnformaunyproereyaet Oneveeany] $81 au]s —anls ans ove
+rtndaed Pesrcemybspersaadnepdt
+Segahn wrodreyweebdr conan
+eaeSeGPa aren Ton
+Cometsaseeata rcnyte soe onls nls carlson
+saa omls —omfs —aasls oa
+san ous cols an
+ss ao[ s—ooefs ont sands cae
+1s ools cools amas oma cee
+rr) cols als omo|s om]
+son] on] om|s—omm]s on]
+on on
+en on aa
+oa oa
+
+on a «7
+on] an] on]
+on) on an
+a
+on
+iOPnd Url Tanaerseo
+[ae ope emteid nymtv ptsn nor
+wo femed'smwwnensfextinneypemtsnmeret Oxgsmamiaee |S on] a0)
+f eetnpn aemtaepemteioend
+
+0 om uals un
+von]fsusn]s ase]s onsets ase
+rs mais]s ums]s wau]s uns]
+men]s —reee]s mets mols mee]
+on on w]e anls ow
+on] on oo |
+wsn]so]suss|s non
+cuirhetoma en ptamare * womls mls mts els one
+fosnype reeOssaearnwed
+6OotPand UraCTannrte
+punofergbdwn akproba
+Teemanafetraeproset vomfsonse]snse]souse]s ae
+on|s en] ens ens on]
+ud | wafs ans and
+wme]s —unem]ssuesafs une] sno
+val us vfs sfs uae
+as aisle aufsoasls ans
+on|s on] en|s emis on
+anfs—onls —enls ents on
+ass au cu]s — aasls ons
+tn on tals us 139]
+
+on
+a
+an a ass an]
+an) en | a
+on on oa on
+ry
+aelc redGta Tanwinva reer
+lesanteimew ehpnrayech
+en neteapeietmeasienpeyndOrrtenanybated |8 a wa
+acesecre ego adopt ergt
+reed iy ent edoeome poeSa
+OtPnUnaCn Ta owenpug
+4) pepe sleathcoadtmnangyaesaporewasesooyaermnns# |S oy
+enttaeytogtOetaysenae
+PAS Orc adhUnreadGetseevee
+hepop oben deyweschpetcane
+4ioe ecoermenytneannmsCxesvensyictn | as
+inlaidrernay orddpe
+tt lveowl nado wep
+ftOaPaknoliCine«Te seen arene
+p a on ndau es thpunom oe
+as (semanfont pret regre Onssomany rte | on an on ow
+em aS mrenyt itpeene tardepetme
+ade enedmymeenandcr sa
+OePadndakUnart FareneroBe
+tc rap ot nay dod ey vnperme
+ua] ir
+oo oo
+an oa oa
+200) 20]
+an] aa on
+
+* aa|s om] ens on
+eo]s amls aa i) er)
+on| enfs on anfs an]
+no]s see] uo]s se
+permsteperoering cnt ume man“hehpr
+an] ans] nr)
+an ow on|s on
+on am]s ams omls om
+eo om |s ex] sm| s ve
+an] on|s an] en|s on
+oa] cols avis a
+on on]s ams aan|s aa]
+vwn|s—sarsfs wars] noas]s seas
+aa om|s ous] oas|s on
+
+Pa Un arTorestesFon
+bepepe in iednymv ckpn
+"innmnypoedessrtlGessey bet
+"icsattarenoy a grnoedtd tnbe
+eredmy=er ed ree
+Ck Tancarnret pp fagBe
+eyo nan pesonemayenn tofomrme a au an
+svenOnt ane sea eke as
+Ninhrensninanenymeeree
+Unread Thawserepeg eBpe
+t t r e o t m ed w . esitpena ee y o c r d e ek m a e a oe an) on en
+naaelotergdhnweenny
+UnrwadCra«Taterste pepe pep real
+mn
+oedema ntotne ay e nedmena
+on on
+ae epee apa ab wt
+an tn etreemen
+Citas ereeat fp ona
+0 r m u y n n d ah o n es ch e p y n s eenyt t e dadea n h r a o rd P y os a
+diUnaCre -Yevgpungeent npeip
+tlymdeipmn bardto
+tenntk eredtyeda oo als
+[prec tatpemetpetnnettgetinctonemo
+agenPo t
+fontSratab eno =e |
+ma eno nntgey eh
+ay eon me cnpores ey ox an] ons ox]
+enadtread Pamrenye pnt nd
+eaten onlyporn dan go
+YatmreBS OtPedin UedaTa
+p cg hepreeasy nyme ct
+nateal me ayfewa tent s an
+ee a ra evemytv po
+ht rare eymre dl mrp
+ussUralCaespovgaeoOprps
+c n eymts pepe boontree
+necpw mq,Greetnedlnss ue
+er ped ed potaeCadea
+ednlcnn i pen a
+ndaSUnraraCn'-Tasdoar fesapnof
+ou 8dywrenthptotmyberm teen on on]
+ua
+no no]
+sam|s
+
+au | an a0] en
+| os an]s aa
+om ons ox] wsfs os]
+els os asfs ents on
+wal ir ir wus
+rr uo uo ua 1
+anfs—on[s ony enfs on]
+on] on] an|s anf an
+an on] enfs ants on
+on an on aafs en]
+cy eos ao] aos eo]
+nels mals els mals a
+on] an| en|s on]
+a wn]s ow
+oe ny o im ry
+
+uals uals unls unls us
+ans as] a] als 20]
+aels ae als als ase
+wads a4 rr wd u
+fs o a a
+an]s en] on| ans on]
+onfs on enfs —onls an
+aes|s oo eos os]s on
+ae|s ax oa ous|s on]
+san] ens an[s an]
+cc ) oo anfs en]
+eufs —ouls ols ou
+wo]s on ry euls on
+owls aa] aa auofs—r0]
+vomo}s —sasols seems eo] soz
+wals—emls ams wools aan
+
+ass ons ons
+an
+os]
+on] as
+oa
+oa
+on on| an]
+[en candaUnn t aTanan
+7[ otemraronpeng pp eng elanymae pad om om om om
+an an] on
+oss os 0]
+
+an
+i t~ Tetaabemrers orgafr pepo ofeninged
+om sri cheaprimismyraretrenteyfrm | en] om
+‘Questonykrotdmnnway
+a
+on a]
+nc wrennye pram!odoptmrOpelee
+semen ner hednacamofrpeetrPsa
+eddUsdCar Patensdmarerspoetbeporno
+teSnaysen spot ae tee re
+143 ettemcypetewrenOntoteneyhsb naaa
+ey pond ndoptcomerGoedewvema
+reer done sng peed awet
+Pa naCol’ Tiarena
+oleae deyses ehpen aybecame #
+om tienen presarated Oumstoonyorierentaaee |S
+raetaortayWlpena edtmeraedfe
+renyewndhex eam oea pond aS
+Pat ba UtGta Tas iepeoe
+ro cea idtym hp nroe+
+313[Eenete manypee woudOnesioey tea |
+vied hatwinny apommeldt
+ona weanbdote sipsaa
+Omeeb n“Tearhensprm mpeoeeatcg
+dedanynewhpotmy rece ao ay
+1 ettmiedOuriesksenedmare dens”|
+‘eigonudbed ptem Sige fe end
+
+on ows oo
+are ee ee
+ly elt elec
+7 =e
+cams sane ans ans
+ee (re ee
+a waft fs
+ef ope al al
+a NeaSa ss ree eae
+eeesaan as [rales wel
+ote uepop or tya ech
+eet semtecmeeeytscaraeene bere
+
+aa a anfs oan an
+om]s on anfs amis om
+or[petemmmmerempems etererontenantscmiwennwees rssoce|s ssonm]s rseoee|s nemme|s rams]
+aa als a|s alsa
+ox on cass east ons
+au a suls aM |
+rarmeo]s mapeso]s aerneeo]s anso]s ramen
+a]s on emls —amols om
+us uss als ursfs an]
+as|s os en|s — onls as
+en]s ox] es|s ens|s ons
+a 10] Po )
+
+|
+on
+on
+aw eos oo
+Pesnd tvCcTepune 84
+fang ndmyman ptnieream t on on
+measprapr,Oestbsbewaye
+acaewmobgrdeptertgeded
+os oon
+oo
+on oon
+
+aw aa
+oo oe
+on
+Fratmere“ CcPsws vr Cm =F
+[tena rows pr oa tayweb eh
+a SomaytrcmmemasacocntemnatrmgeeryOnromee]5 an
+[Ssreadnetatmm pndbd
+"Sthnehmany ne geen
+Fase
+fnreacadandrea Th neepei
+ans
+ackwrema predva opiOgu
+senmn eebe edsoapmen ea
+
+rr)
+sae
+js aoe
+on ct
+cad Prdprnytependtdotte
+eteftOP Une a=Yora re
+farepremeaglwhprmer
+4) BOSS SateaarptraenguedOareseamrctye |S san
+Ietndadaarey pment dw
+hdr ereettmen bandon cpus
+PaarealGnvta“Ttx einerpreg
+eatingtedotawes captessen
+Pad venraTa conspn|
+(4s|rpr fengca eywe hpma oa
+‘meewnneeypenroaufmodOrsay tore
+(hednos nyerence pte
+thepapecnaingheodwnmeywarswihpoeeemi
+4 estedsmnenfonpeerga ovement |
+(nbdttnetybonimtp nae
+nee weedety een emer
+addaUaeCit“TanemicronspongoTo
+ofonnaaged eymaripa nnersyore
+0) steraecemsegyand Ortamybated |
+uamremetpnartpere ateHd
+avonmany eed ipnd a
+6OePa ndaUnaCea T tneree
+stfromepapecfcnatanngor nfmanysinaacaparsocermayse |S
+oafo nyptteOtny
+fednbdiPmeenaybnpl rredopttome
+SBA beOndePd Un rk Tas
+eepreey ie nymie pet
+(40Rresoenedreennfetapoe aregedOnetenant |S son
+0 [renmaenypteteeneegeelOnetemmny rhea |S
+
+iiOe PdadedUa Ooi Tan
+etoprtet eetaywm kpna
+on on
+oo
+on on eofs —corls aa
+oor oot oa
+anls —omls eas ems en
+
+SRB OaPS alUm nia acare
+ans
+cfs cafe nfs anf aot
+anls—anfs ems cas ont
+en}s—sor{somfs ans an
+auls—om[s— omls—onrfs ont
+ans anfs—om]s ols ae
+oo” er) ee
+cls omfs—aasfs caf ans
+ee ee
+cofs ols omfs als ons
+wits oasfs —aas]s easly ows
+au}s ols aasls cools ans
+oul cals cals ands oa
+[ease tnPtni CTnaman
+“Kemetiacivesmesmnwemedewementee| Sp Sef) it Em
+tonedmoesrr gine ee
+BA fsOP Undon Ta ane
+= ar pop os ndney ewepn |? an] an} an
+ata teenoemaypn gered ane o
+faindaabt es pocenetspare
+
+anfs ens ents on]
+wus ans aufs an
+exfs ans anfs aad
+ants amsls oats aes
+aude eosfs coeds tae
+veols— aoo]s ols can
+cule ams ams]s oa
+C e) eS
+cols aos[s casts ane
+em]s ams aaofs aan
+cals am{s—emels oan
+enols — amls aa
+asa aa
+Th Tse— Th
+Ha—heeer — teerte
+sata te
+2a
+tuusa]stsuae]s_ou]s wu
+
+TihSS engtd eTPATBrag
+ScACEASS90wea rc oe maoT
+Fas EESDa Bae a TET ST
+139 paiena AS)OUweenrtnynaVtTOST
+a = aaa ae
+fonehaheanen
+SSSETNTT
+mn oaiayain
+
+som
+s
+e Tetwetpte me waaSPAREW TeorOO OIOTT | ss
+l at Gs BT EsMl To OT =
+s
+PARE bar gsRca menPSoanHT a
+]
+e jARETaartear gp pmenao TPO NTT ma
+l
+aan
+a
+B
+e
+B
+#
+]
+3
+]
+a Sara 11Ge FoxBADTBAbe 1pmdTO
+) a pa eo ayma
+eTGamesHARTI Toon SOpo STRT
+mane
+= a0
+a = sala LE)
+SAACHESSerVengo acake optpT
+ACHRow Tapaehoaeinipne baa
+SPARC Sar TepmamohNa pepena
+"Taetoroe ITTReonHGpar Tk ar
+FeSTAaE
+IspaRCTomew ba kTBORNELoc 70OromeTAAop
+flmcaFnshEaASISrDaewe]rtrd DOT
+ake1 ErAlstynaa Th
+HFEMIeO
+
+ay ASa aAaaTI TTS ihian|smunal
+wo Petts eat RbalaeyeOaEte,a wale aan
+me fs _wamn|s saan
+os Sa STOTT ;
+Pn 1DSLheesdweoh se 7 oleeen
+=F NTneRBerarSOTE —Y ewes
+pr RCT Tore opps aleaeTome, soo
+sfeitynnasa
+> Preeaec 5 mmse|s movi
+= Fe + pas] aa
+coSES TORT, mals uals
+a fs esocn|s moans]
+7 ena fs mawa]s nawe]s o o
+a aee Bee an aeat o D
+co ad ee eee rT Stans —toet a
+a S—insta—rons}}— eer tet
+sesun|s usan|s usun|s usen|s nen
+va - 2 + moe] monn]ssean] Fe
+5 aga anegoNIMENT [sale aavafs aava[s 5
+mn NSAENERNMTEI |sennts eae amante F
+1 LeRT ATRETON [yarns vam vem] 5
+a esSRTOR Ly nasal s vawar|s sno 5
+oC So r
+at m1 ats
+$ifessteemtaebes at a
+EebaGeTUONTAVT tt — sis t —
+oo ee eTa TETAT ols awe omanfs aaa
+= anatamao sLAeT | os onaels maar =
+oe SIeE TeERT TOTO Ls vans mls ae |s 4
+Soetcnpeestdon te epeepesoePoor
+00fematpmattSirmeauenacanceSoperpetastebe Tae esse ar
+caspeteeeese
+faptntanprrarsoRarmpcalmMIcRTnTlT)
+sat [faitersemmriyacic noemamrersncgenpooper Saal Als ct|en as
+faemannp asn
+oeoan pet wRBp
+12Premvoucgaenifrmennreonetonaatopeaarperoe Sune | cde] simcd| sae
+oeseaice eshaamen
+or S Ba Era aa
+=r | setae
+r
+=
+a
+roatealSameaneeR
+a
+CTaT S s
+r
+ea
+i
+es[a o s L e
+Bu
+e
+s] — a
+ee
+]
+SarEaaay TTTR RTTahaaR TNT sigiecs[smeraasi|v Bluma|sin vac
+SifReaatvsieaersLtegeeceCaonen ameainee seet [Pcean a e|e])
+FePag aaa apam OR GRasaalikasaa|yWaseal ese
+al pseshGnso aera Se oe ee
+7m col lerdal fe _sana|ssonas]s_vomas|s _somae
+= a yee aaTRG TT sqauslimoeel aossin onal
+oo ee rea > tam] _nean|s_nonn|s umn]
+=fe fs _ome|s saws|s_ramo|ms
+= ERTS SITRESTSa)
+
+fs nswn]s usms]s nawes[s nones[s sas
+= enoy ga fommceemim Ty anals canines aann|s aana]s aaa]
+ya ape Yew psnpordoshappb
+a[pommelrena 220%oepot pdbo ee
+ontMp haeeyarape
+apaoTpo ene 8 narTT
