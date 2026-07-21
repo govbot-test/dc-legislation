@@ -1,0 +1,124 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-126
+4
+5
+6 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+7
+8 _________________
+9
+10
+11 To amend the Rental Housing Act of 1985 to prohibit housing providers from separately
+12 charging tenants for the utility charges accrued by the housing accommodation for its
+13 common spaces or vacant units, to require that housing providers give notification to a
+14 tenant of any unpaid amounts owed to the housing provider within 45 days after vacating
+15 a rental unit and to obtain evidence that the tenant was served with the notification at
+16 least 60 days prior to sending the unpaid amount to a debt collector; and to clarify that
+17 housing providers cannot charge tenants for services required under the implied warranty
+18 of habitability.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the “Fair Housing Practices Amendment Act of 2025”.
+22 Sec. 2. The Rental Housing Act of 1985, effective July 17, 1985 (D.C. Law 6-10; D.C.
+23 Official Code § 42-3501.01 et seq.), is amended as follows:
+24 (a) Section 217 (D.C. Official Code § 42–3502.17) is amended by adding a new
+25 subsection (e) to read as follows:
+26 "(e)(1) Upon termination of a tenancy, the housing provider shall request a forwarding
+27 mailing address or email address from the tenant for purposes of providing any notices required
+28 pursuant to this section.
+29 "(2)(A) Within 45 days after termination of the tenancy, the housing provider
+30 shall notify the tenant in writing, either personally or by certified mail at the tenant's last known
+1
+
+ENGROSSED ORIGINAL
+31 address, of any alleged unpaid amounts due to the housing provider pursuant to the terms of the
+32 lease agreement which may include:
+33 "(i) Unpaid rent arrearages;
+34 "(ii) Damage to the rental unit beyond the standards of ordinary
+35 wear and tear as defined in subsection (c) of this section; or
+36 "(iii) Charges to the housing provider for removing furnishings and
+37 items left by the tenant at moveout.
+38 "(B) The notification shall also include:
+39 "(i) Photographs or other documentation supporting the housing
+40 provider's claim for alleged unpaid amounts; and
+41 "(ii) A statement informing the tenant of his or her right to dispute
+42 the alleged unpaid amounts and contact information for the housing provider. Tenants shall have
+43 30 calendar days after the date the housing provider notice is served to dispute the alleged unpaid
+44 amounts. A tenant may provide to the housing provider any evidence that the alleged unpaid
+45 amount is inaccurate or incorrectly attributed to the tenant; provided, that the housing provider
+46 shall provide a written response, which may be mail, electronic mail, or in person, to the tenant
+47 with respect to any information provided under this subsection within 10 days after receipt of the
+48 information from the tenant.
+2
+
+ENGROSSED ORIGINAL
+49 "(3) The housing provider shall keep documentation that the tenant was served
+50 with such notice required by this subsection at least 60 days prior to sending the unpaid amount
+51 to a debt collector, as defined in D.C. Official Code § 28-3814(b)(5).”
+52 (b) Section 510(b-2) is amended to read as follows:
+53 "(b-2)(1)(A) A housing provider shall not charge a fee to a prospective tenant
+54 before move-in, during a tenancy, or after move-out for services required of the housing provider
+55 to maintain a housing accommodation or rental unit in a condition consistent with the implied
+56 warranty of habitability and with Titles 12 and 14 of the District of Columbia Municipal
+57 Regulations, or substantially similar subsequent regulations, including any fee charged to tenants
+58 for services or facilities related to utilities, trash, locks, administrative fees for third-party billing,
+59 or other services or facilities required to be provided.
+60 "(B) Notwithstanding sub-paragraph (A) of this paragraph, nothing in this
+61 subsection prohibits a housing provider from withholding a tenant's security deposit to replace
+62 damaged items if the tenant has caused damage to the unit beyond the standard of ordinary wear
+63 and tear as defined in section 217(c)(3).".
+64 (c) A new section 511 is added to read as follows:
+65 “Sec 511. Prohibition on separately billing a housing accommodation’s utility charges to
+66 tenants.
+3
+
+ENGROSSED ORIGINAL
+67 “(a) Beginning on January 1, 2027, a housing provider, or any third party contracted by
+68 the housing provider, shall not separately charge tenants, other than through monthly rent, for the
+69 utility charges accrued by the housing accommodation for its common spaces or vacant units.
+70 “(b) Nothing in this subsection shall prevent a housing provider from using a Ratio
+71 Utility Billing System to allocate master-metered utility charges to tenants, subject to the
+72 limitations of this section.
+73 "(c) For the purposes of this section, the term:
+74 "(1) "Common space" means all portions of the premises used in common by the
+75 occupants of a building or structure not under the exclusive control of a single tenant, including:
+76 "(A) Lobbies;
+77 "(B) Leasing offices;
+78 "(C) Business centers;
+79 "(D) Pools; and
+80 "(E) Fitness centers.
+81 "(2) "Ratio Utility Billing System" includes a program that utilizes a
+82 mathematical formula for allocating, among the tenants and property ownership in a residential
+83 building, their share of the actual or anticipated water, sewer, electrical, oil, or natural gas
+84 charges billed to the housing provider from a direct or third-party provider of any such utility
+85 service. Permitted allocation methods may include formulas based on square footage, occupancy,
+86 or number of bedrooms.
+4
+
+ENGROSSED ORIGINAL
+87 "(3) "Utility" means:
+88 “(A) Electricity usage;
+89 “(B) Gas usage;
+90 “(C) Wastewater and sewage disposal service usage;
+91 “(D) Water consumption or usage; or
+92 "(E) Internet or telephone usage.".
+93 Sec. 3. Fiscal impact statement.
+94 The Council adopts the fiscal impact statement in the committee report as the fiscal
+95 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+96 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+97 Sec. 4. Effective date.
+98 This act shall take effect following approval by the Mayor (or in the event of veto by the
+99 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+100 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+101 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+102 Columbia Register.
+5

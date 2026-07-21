@@ -1,0 +1,605 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+March 19, 2025
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20001
+Dear Chairman Mendelson:
+Enclosed for consideration and adoption by the Council of the District of Columbia is a proposed
+resolution titled “Georgetown University Revenue Bonds Project Emergency Approval
+Resolution of 2025”, and the accompanying emergency declaration resolution.
+The resolution authorizes the issuance, sale, and delivery of tax-exempt revenue bonds, notes, or
+other obligations in aggregate principal amount not to exceed $675,000,000. The bonds will be
+used for the financing, refinancing, or reimbursing of costs associated with an authorized project
+of the Borrower’s properties located at 3700 O Street, N.W., in Ward 2, and 111 Massachusetts
+Avenue, N.W., 120 F Street, N.W., and 600 New Jersey Avenue, N.W. in Ward 6.
+In accordance with section 490 of the Home Rule Act, it has been determined that the bonds,
+when, as, and if issued, shall be without recourse to the District. The bonds shall not be general
+obligations of the District; shall not be a pledge of or involve the full faith and credit or the
+taxing power of the District; shall not constitute a debt of the District; and shall not constitute a
+lending of public credit for a private undertaking as prohibited in section 602(a)(2) of the Home
+Rule Act. The bonds shall not give rise to any pecuniary liability of the District, and the District
+shall have no obligation with respect to the purchase of the bonds.
+I urge the Council to take prompt and favorable action on the enclosed measure.
+Sincerely,
+Muriel E. Bowser
+Enclosures
+
+~
+1
+2
+3 at the request of the Mayor
+4
+5
+6
+7 A PROPOSED RESOLUTION
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15 To authorize and provide for, on an emergency basis, the issuance, sale, and delivery in an
+16 aggregate principal amount not to exceed $675 million of District of Columbia
+17 revenue bonds in one or more series and to authorize and provide for the loan of the
+18 proceeds of such bonds to assist Georgetown University in the financing,
+19 refinancing, or reimbursing of costs associated with an authorized project pursuant
+20 to section 490 of the District of Columbia Home Rule Act.
+21
+22 RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 resolution may be cited as "Georgetown University Revenue Bonds Project Emergency Approval
+24 Resolution of 2025".
+25 Sec. 2. Definitions.
+26 For the purposes of this resolution, the term:
+27 (1) "Authorized Delegate" means the Mayor or the Deputy Mayor for Planning and
+28 Economic Development, or any officer or employee of the Executive Office of the Mayor to whom
+29 the Mayor has delegated or to whom the foregoing individuals have subdelegated any of the
+30 Mayor's functions under this resolution pmsuant to section 422(6) of the Home Rule Act.
+31 (2) "Bond Counsel" means a firm or firms of attorneys designated as bond counsel from
+32 time to time by the Mayor.
+
+33 (3) “Bonds” means the District of Columbia revenue bonds, notes, or other obligations
+34 (including refunding bonds, notes, and other obligations), in one or more series, authorized to be
+35 issued pursuant to this resolution.
+36 (4) “Borrower” means the owner of the assets financed, refinanced, or reimbursed with
+37 proceeds from the Bonds, which shall be Georgetown University, a nonprofit corporation organized
+38 under an Act of Congress and existing under the laws of the District of Columbia, and exempt from
+39 federal income taxes under 26 U.S.C. § 501(a) as an organization described in 26 U.S.C. §
+40 501(c)(3).
+41 (5) “Closing Documents” means all documents and agreements other than Financing
+42 Documents that may be necessary and appropriate to issue, sell, and deliver the Bonds and to make
+43 the Loan, and includes agreements, certificates, letters, opinions, forms, receipts, and other similar
+44 instruments.
+45 (6) “District” means the District of Columbia.
+46 (7) “Financing Documents” means the documents other than Closing Documents that relate
+47 to the financing, refinancing or reimbursement of transactions to be effected through the issuance,
+48 sale, and delivery of the Bonds and the making of the Loan, including any offering document, and
+49 any required supplements to any such documents.
+50 (8) “Home Rule Act” means the District of Columbia Home Rule Act, approved December
+51 24, 1973 (87 Stat. 774; D.C. Official Code § 1-201.01 et seq.).
+52 (9) “Issuance Costs” means all fees, costs, charges, and expenses paid or incurred in
+53 connection with the authorization, preparation, printing, issuance, sale, and delivery of the Bonds
+54 and the making of the Loan, including, but not limited to, underwriting, legal, accounting, rating
+55 agency, and all other fees, costs, charges, and expenses incurred in connection with the development
+2
+
+56 and implementation of the Financing Documents, the Closing Documents, and those other
+57 documents necessary or appropriate in connection with the authorization, preparation, printing,
+58 issuance, sale, marketing, and delivery of the Bonds and the making of the Loan, together with
+59 financing fees, costs, and expenses, including program fees and administrative fees charged by the
+60 District, fees paid to financial institutions and insurance companies, initial letter of credit fees (if
+61 any), compensation to financial advisors and other persons (other than full-time employees of the
+62 District) and entities performing services on behalf of or as agents for the District.
+63 (10) “Loan” means the District’s lending of proceeds from the sale, in one or more series, of
+64 the Bonds to the Borrower.
+65 (11) “Project” means the financing, refinancing, or reimbursing of the Borrower for all or a
+66 portion of the Borrower’s costs incurred in connection with:
+67 (A) Refunding all or a portion of the outstanding District of Columbia University
+68 Revenue Bonds (Georgetown University Issue) Series 2010, originally issued in the principal
+69 amount of $45,000,000 pursuant to the provisions of the Georgetown University Revenue Bonds
+70 Project Approval Resolution of 2010, effective November 9, 2010 (Res. 18-0660; --- DCR ---), the
+71 proceeds of which were used to finance, refinance, or reimburse the Borrower for all or a portion of
+72 the costs to:
+73 (i) Construct, equip and furnish a new science center (the “Science
+74 Center”) to be located on the Borrower’s main campus at 37th and O Streets, N.W., Washington,
+75 D.C. 20057 (Square 1321, Lot 0827) (the “Main Campus”), consisting of approximately
+76 163,000 square feet above-grade, and associated infrastructure, including, but not limited to,
+77 utilities relocation and realignment of roads in close proximity to the Science Center;
+3
+
+78 (ii) Generally renovate and modernize the Borrower’s facilities at the
+79 Main Campus, including Square 1321, Lots 0811, 0815, 0821 and 0827, at the Borrower’s law
+80 center located at 600 New Jersey Avenue, N.W. Washington, D.C. (Square 0567, Lots 0062 and
+81 0832) (the “Law Center”), and at certain existing Borrower-owned facilities, including student-
+82 occupied townhouses and residence halls, located adjacent to the Main Campus (Square 1222,
+83 Lots 0062, 0801 and 0802; Square 1223, Lots 0065 - 0067, 0072 - 0074, 0085, 0086, 0800, 0801,
+84 0807, 0808, 0810, 0812, 0815, 0826, 0827, 0834, 0840, 0841, 0846, 0847, 0852 and 0853;
+85 Square 1226, Lots 0094 - 0101, 0105 - 0107, 0804, 0806 and 0811 - 0814; Square 1247, Lots
+86 0116 and 0126; and Square 1248, Lots 0126 - 0139, 0145, 0146, 0150 - 0157, 0159 - 0162, 0800
+87 - 0802, 0805, 0806, 0819, 0829 - 0831, 0834, 0835 and 0837), and at certain other Borrower
+88 facilities used in connection with the Law Center (Square 0565, Lot 0020; and Square 0569, Lots
+89 0007, 0008, 0060 - 0067, 0864 and 0865), including, but not be limited to, such items as:
+90 renovation or replacement of mechanical, electrical and utility systems, as well as of structural
+91 elements such as roofs, walls and windows; restoration of sidewalks and roads; and associated
+92 site work;
+93 (iii) Upgrade technology infrastructure and systems throughout the
+94 Borrower’s facilities referred to in subparagraphs (i) and (ii);
+95 (iv) Provide working capital; and
+96 (v) Fund Issuance Costs; and
+97 (B) Refunding all or a portion of the outstanding District of Columbia University
+98 Refunding Revenue Bonds (Georgetown University Issue) Series 2017, originally issued in the
+99 principal amount of $301,575,000 pursuant to the provisions of the Georgetown University
+100 Revenue Bonds Approval Resolution of 2016, effective October 11, 2016 (Res. 21-604 --- DCR ---
+4
+
+101 ), the proceeds of which were used to finance, refinance, or reimburse the Borrower for all or a
+102 portion of the costs of:
+103 (i) Refunding of the District’s outstanding District of Columbia University
+104 Revenue Bonds (Georgetown University Issue) Series 2001B, Series 2001C and Series 2001D; the
+105 proceeds of which were used to finance, refinance or reimburse all or a portion of the Borrower’s
+106 costs of:
+107 (I) The acquisition, construction, installation, furnishing and
+108 equipping of the Performing Arts Center and portions of the Southwest Quadrangle Complex,
+109 including residence hall, dining and parking facilities, and associated site work and utilities costs,
+110 on the Borrower’s Main Campus;
+111 (II) The acquisition, construction, installation, furnishing and
+112 equipping of a new academic building, a new wellness center, and a new contiguous
+113 underground parking garage, located at 550 First St., N.W. (Square 0569, Lot 0864) (the “First
+114 Street Facilities”);
+115 (III) The renovations of and improvements to a variety of facilities
+116 on the Main Campus, including libraries, administrative space, and the Leavey University Center
+117 (the “Leavey Center”) , and certain facilities located adjacent to the Main Campus, including
+118 student-occupied townhouses and residence halls and other uses directly related to the
+119 Borrower’s activities;
+120 (IV) The acquisition, renovation, installation, furnishing and
+121 equipping of a portion of the land and facilities at 2001 Wisconsin Avenue, N.W. and 3300
+122 Whitehaven Street, N.W. (Lot 1024, Square 1299) (commonly known as the “Green-Harris
+123 Complex”);
+5
+
+124 (V) The renovation of and improvements to the Borrower’s
+125 Medical Center campus located at 3900 Reservoir Road, N.W. (Lot 0817, Square 1321) (the
+126 “Medical Center”), including a variety of academic, administrative, and research-related
+127 facilities;
+128 (VI) The upgrading of technology infrastructure and systems
+129 throughout the Borrower’s facilities at the locations referred to in (I) - (VI) above;
+130 (VII) General renovations and modernizations throughout the
+131 Borrower’s facilities at the locations referred to in (I) - (VI) above, including such items as
+132 renovation or replacement of mechanical, electrical, and utility systems; restoration of sidewalks
+133 and roads; renovation of buildings’ brick, trim, windows, floors, and roofs; overhaul of elevators;
+134 renovation or replacement of emergency power systems; and associated site work; and
+135 (ii) The refunding of a portion of the District’s outstanding District of Columbia
+136 University Revenue Bonds (Georgetown University Issue) Series 2007A, consisting of Fixed Rate
+137 Bonds and Growth and Income Securities (GAINS) the proceeds of which were used to finance,
+138 refinance or reimburse all or a portion of the Borrower’s costs to:
+139 (I) Refund the District’s outstanding District of Columbia University
+140 Revenue Bonds (Georgetown University Issue) Series 2001A Bonds, the proceeds of which were
+141 used to finance (a) the acquisition, construction, installation, furnishing and equipping of the
+142 Performing Arts Center and portions of the Southwest Quadrangle Complex, including residence
+143 hall, dining and parking facilities, and associated site work and utilities costs, on the Borrower’s
+144 Main Campus, (b) the acquisition, construction, installation, furnishing and equipping of the First
+145 Street Facilities, (c) the renovations of and improvements to a variety of facilities on the Main
+146 Campus, and certain facilities located adjacent to the Main Campus, (d) the acquisition,
+6
+
+147 renovation, installation, furnishing and equipping of a portion of the land and facilities at the
+148 Green-Harris Complex, (e) the renovation of and improvements to the Borrower’s Medical
+149 Center, including a variety of academic, administrative, and research-related facilities, (f) the
+150 upgrading of technology infrastructure and systems throughout Borrower’s facilities at the
+151 locations referred to in (a) – (e) above, and (g) the general renovations and modernizations
+152 throughout Borrower’s facilities at the locations referred to in (a) – (e) above; and
+153 (II) To finance, refinance or reimburse the Borrower for costs of
+154 (a) equipping and furnishing a portion of the facilities at the Green-Harris Complex consisting of
+155 approximately 240,475 square feet above grade and appurtenant below-grade parking for
+156 approximately 419 vehicles, (b) making general renovations and modernizations throughout the
+157 Borrower’s Main Campus and the Law Center and certain facilities located adjacent to the Main
+158 Campus, (c) the construction, furnishing and equipping of a business school on the Borrower’s
+159 Main Campus, consisting of approximately 170,000 square feet above-grade with approximately
+160 200 below-grade parking spaces and associated infrastructure, including but not limited to
+161 utilities relocated and realignment of roads in close proximity to the business school, and (d)
+162 purchasing certain related equipment and furnishings; and
+163 (iii) The refunding of the District’s outstanding District of Columbia
+164 University Revenue Bonds (Georgetown University Issue) Series 2011, the proceeds of which
+165 were used to finance, refinance or reimburse all or a portion of the Borrower’s costs to:
+166 (I) Construct, equip and furnish the Science Center located on the
+167 Borrower’s Main Campus, consisting of approximately 163,000 square feet above-grade, and
+168 associated infrastructure, including, but not limited to, utilities relocation and realignment of
+169 roads in close proximity to the Science Center;
+7
+
+170 (II) Generally renovate and modernize the Borrower’s facilities at
+171 the Main Campus, including Square 1321, Lots 0811, 0815, 0821 and 0827, at the Borrower’s
+172 Law Center, and at certain facilities, including student-occupied townhouses and residence halls,
+173 located adjacent to the Main Campus (Square 1222, Lots 0062, 0801 and 0802; Square 1223,
+174 Lots 0065 - 0067, 0072 - 0074, 0085, 0086, 0800, 0801, 0807, 0808, 0810, 0812, 0815, 0826,
+175 0827, 0834, 0840, 0841, 0846, 0847, 0852 and 0853; Square 1226, Lots 0094 - 0101, 0105 -
+176 0107, 0804, 0806 and 0811 - 0814; Square 1247, Lots 0116 and 0126; and Square 1248, Lots
+177 0126 - 0139, 0145, 0146, 0150 - 0157, 0159 - 0162, 0800 - 0802, 0805, 0806, 0819, 0829 - 0831,
+178 0834, 0835 and 0837), and at certain other Borrower facilities used in connection with the Law
+179 Center (Square 0565, Lot 0020; and Square 0569, Lots 0007, 0008, 0060 - 0067, 0864 and
+180 0865), which renovations and modernizations included, but are not limited to, such items as:
+181 renovation or replacement of mechanical, electrical and utility systems, as well as of structural
+182 elements such as roofs, walls and windows; restoration of sidewalks and roads; and associated
+183 site work; and
+184 (III) Upgrade technology infrastructure and systems throughout the
+185 Borrower’s facilities referred to in paragraphs (I) and (II) above.
+186 (iv) Fund Issuance Costs; and
+187 (C) Refinancing a 2018 term loan from Truist Bank, the proceeds of which were
+188 used to refinance existing indebtedness of the Borrower;
+189 (D) Certain capital expenditures of the Borrower, including but not limited to, the
+190 construction, renovation, equipping, and development of:
+191 (i) A new academic building located at 111 Massachusetts Avenue NW,
+192 Washington, D.C., 20001;
+8
+
+193 (ii) A research laboratory located in a building at 3950 Reservoir Road
+194 NW, Washington, D.C., 20007;
+195 (iii) The lawn located at 3700 O Street NW, Washington, D.C., 20057;
+196 and
+197 (iv) A new academic building located at 120 F Street NW, Washington,
+198 D.C., 20001, which will be dedicated for use by the Borrower’s Law Center;
+199 (E) Certain working capital expenditures of the Borrower;
+200 (F) Paying a portion of the interest on the Bonds;
+201 (G) Paying any hedge agreement termination costs and certain credit enhancement
+202 and liquidity costs;
+203 (H) Funding a deposit to a debt service reserve fund, if any, for the Bonds; and
+204 (I) Funding certain Issuance Costs.
+205 Sec. 3. Findings.
+206 The Council finds that:
+207 (a) Section 490 of the Home Rule Act provides that the Council may by resolution authorize
+208 the issuance of District revenue bonds, notes, or other obligations (including refunding bonds, notes,
+209 or other obligations) to borrow money to finance, refinance, or reimburse costs, and to assist in the
+210 financing, refinancing, or reimbursing of the costs of undertakings in certain areas designated in
+211 section 490 and may effect the financing, refinancing, or reimbursement by loans made directly or
+212 indirectly to any individual or legal entity, by the purchase of any mortgage, note, or other security,
+213 or by the purchase, lease, or sale of any property.
+9
+
+214 (b) The Borrower has requested the District to issue, sell, and deliver revenue bonds, in one
+215 or more series, in an aggregate principal amount not to exceed $675,000,000 and to make the Loan
+216 for the purpose of financing, refinancing, or reimbursing costs of the Project.
+217 (c) The Project is located in the District and will contribute to the health, education, safety,
+218 or welfare of, or the creation or preservation of jobs for, residents of the District, or to economic
+219 development of the District.
+220 (d) The Project is an undertaking in the area of college and university facilities within the
+221 meaning of section 490 of the Home Rule Act.
+222 (e) The authorization, issuance, sale, and delivery of the Bonds and the Loan to the
+223 Borrower are desirable, are in the public interest, will promote the purpose and intent of section
+224 490 of the Home Rule Act, and will assist the Project.
+225 Sec. 4. Bond authorization.
+226 (a) The Mayor is authorized pursuant to the Home Rule Act and this resolution to assist in
+227 financing, refinancing, or reimbursing the costs of the Project by:
+228 (1) The issuance, sale, and delivery of the Bonds, in one or more series, in an
+229 aggregate principal amount not to exceed $675,000,000; and
+230 (2) The making of the Loan.
+231 (b) The Mayor is authorized to make the Loan to the Borrower for the purpose of financing,
+232 refinancing, or reimbursing the costs of the Project and establishing any fund with respect to the
+233 Bonds as required by the Financing Documents.
+234 (c) The Mayor may charge a program fee to the Borrower, including, but not limited to, an
+235 amount sufficient to cover costs and expenses incurred by the District in connection with the
+236 issuance, sale, and delivery of each series of the Bonds, the District’s participation in the monitoring
+10
+
+237 of the use of the Bond proceeds and compliance with any public benefit agreements with the
+238 District, and maintaining official records of each bond transaction and assisting in the redemption,
+239 repurchase, and remarketing of the Bonds.
+240 (d) The Bond authorization set forth in this resolution includes the authorization to issue
+241 refunding Bonds to refinance any Bonds previously issued under this resolution to finance the
+242 Project; provided, that the maximum principal amount of Bonds outstanding at any time does not
+243 exceed the maximum principal amount of Bonds authorized hereunder.
+244 Sec. 5. Bond details.
+245 (a) The Mayor and each Authorized Delegate is authorized to take any action reasonably
+246 necessary or appropriate in accordance with this resolution in connection with the preparation,
+247 execution, issuance, sale, delivery, security for, and payment of the Bonds of each series, including,
+248 but not limited to, determinations of:
+249 (1) The final form, content, designation, and terms of the Bonds, including a
+250 determination that the Bonds may be issued in certificated or book-entry form;
+251 (2) The principal amount of the Bonds to be issued and denominations of the Bonds;
+252 (3) The rate or rates of interest or the method for determining the rate or rates of
+253 interest on the Bonds;
+254 (4) The date or dates of issuance, sale, and delivery of, and the payment of interest
+255 on the Bonds, and the maturity date or dates of the Bonds;
+256 (5) The terms under which the Bonds may be paid, optionally or mandatorily
+257 redeemed, accelerated, tendered, called, or put for redemption, repurchase, or remarketing before
+258 their respective stated maturities;
+11
+
+259 (6) Provisions for the registration, transfer, and exchange of the Bonds and the
+260 replacement of mutilated, lost, stolen, or destroyed Bonds;
+261 (7) The creation of any reserve fund, sinking fund, or other fund with respect to the
+262 Bonds;
+263 (8) The time and place of payment of the Bonds;
+264 (9) Procedures for monitoring the use of the proceeds received from the sale of the
+265 Bonds to ensure that the proceeds are properly applied to the Project and used to accomplish the
+266 purposes of the Home Rule Act and this resolution;
+267 (10) Actions necessary to qualify the Bonds under blue sky laws of any jurisdiction
+268 where the Bonds are marketed; and
+269 (11) The terms and types of credit enhancement, if any, under which the Bonds may
+270 be secured.
+271 (b) The Bonds shall contain a legend, which shall provide that the Bonds are special
+272 obligations of the District, are without recourse to the District, are not a pledge of, and do not
+273 involve the faith and credit or the taxing power of the District, do not constitute a debt of the
+274 District, and do not constitute lending of the public credit for private undertakings as prohibited in
+275 section 602(a)(2) of the Home Rule Act.
+276 (c) The Bonds shall be executed in the name of the District and on its behalf by the manual
+277 or facsimile signature of the Mayor, and attested by the Secretary of the District of Columbia by the
+278 Secretary of the District of Columbia’s manual or facsimile signature. The Mayor’s execution and
+279 delivery of the Bonds shall constitute conclusive evidence of the Mayor’s approval, on behalf of the
+280 District, of the final form and content of the Bonds.
+12
+
+281 (d) The official seal of the District, or a facsimile of it, shall be impressed, printed, or
+282 otherwise reproduced on the Bonds.
+283 (e) The Bonds of any series may be issued in accordance with the terms of a trust instrument
+284 to be entered into by the District and a trustee to be selected by the Borrower subject to the approval
+285 of the Mayor, and may be subject to the terms of one or more agreements entered into by the Mayor
+286 pursuant to section 490(a)(4) of the Home Rule Act.
+287 (f) The Bonds may be issued at any time or from time to time in one or more issues and in
+288 one or more series.
+289 Sec. 6. Sale of the Bonds.
+290 (a) The Bonds of any series may be sold at negotiated or competitive sale at, above, or
+291 below par, to one or more persons or entities, and upon terms that the Mayor considers to be in the
+292 best interest of the District.
+293 (b) The Mayor or an Authorized Delegate may execute, in connection with each sale of the
+294 Bonds, offering documents on behalf of the District, may deem final any such offering document on
+295 behalf of the District for purposes of compliance with federal laws and regulations governing such
+296 matters and may authorize the distribution of the documents in connection with the sale of the
+297 Bonds.
+298 (c) The Mayor is authorized to deliver the executed and sealed Bonds, on behalf of the
+299 District, for authentication, and, after the Bonds have been authenticated, to deliver the Bonds to the
+300 original purchasers of the Bonds upon payment of the purchase price.
+301 (d) The Bonds shall not be issued until the Mayor receives an approving opinion from Bond
+302 Counsel as to the validity of the Bonds of such series and, if the interest on the Bonds is expected to
+13
+
+303 be exempt from federal income taxation, the treatment of the interest on the Bonds for purposes of
+304 federal income taxation.
+305 Sec. 7. Payment and security.
+306 (a) The principal of, premium, if any, and interest on, the Bonds shall be payable solely from
+307 proceeds received from the sale of the Bonds, income realized from the temporary investment of
+308 those proceeds, receipts and revenues realized by the District from the Loan, income realized from
+309 the temporary investment of those receipts and revenues prior to payment to the Bond owners, other
+310 moneys that, as provided in the Financing Documents, may be made available to the District for the
+311 payment of the Bonds, and other sources of payment (other than from the District), all as provided
+312 for in the Financing Documents.
+313 (b) Payment of the Bonds shall be secured as provided in the Financing Documents and by
+314 an assignment by the District for the benefit of the Bond owners of certain of its rights under the
+315 Financing Documents and Closing Documents, including a security interest in certain collateral, if
+316 any, to the trustee for the Bonds pursuant to the Financing Documents.
+317 (c) The trustee is authorized to deposit, invest, and disburse the proceeds received from the
+318 sale of the Bonds pursuant to the Financing Documents.
+319 Sec. 8. Financing and Closing Documents.
+320 (a) The Mayor is authorized to prescribe the final form and content of all Financing
+321 Documents and all Closing Documents to which the District is a party that may be necessary or
+322 appropriate to issue, sell, and deliver the Bonds and to make the Loan to the Borrower. Each of the
+323 Financing Documents and each of the Closing Documents to which the District is not a party shall
+324 be approved, as to form and content, by the Mayor.
+14
+
+325 (b) The Mayor is authorized to execute, in the name of the District and on its behalf, the
+326 Financing Documents and any Closing Documents to which the District is a party by the Mayor’s
+327 manual or facsimile signature.
+328 (c) If required, the official seal of the District, or a facsimile of it, shall be impressed,
+329 printed, or otherwise reproduced on the Financing Documents and the Closing Documents to which
+330 the District is a party.
+331 (d) The Mayor’s execution and delivery of the Financing Documents and the Closing
+332 Documents to which the District is a party shall constitute conclusive evidence of the Mayor’s
+333 approval, on behalf of the District, of the final form and content of the executed Financing
+334 Documents and the executed Closing Documents.
+335 (e) The Mayor is authorized to deliver the executed and sealed Financing Documents and
+336 Closing Documents, on behalf of the District, prior to or simultaneously with the issuance, sale, and
+337 delivery of the Bonds, and to ensure the due performance of the obligations of the District contained
+338 in the executed, sealed, and delivered Financing Documents and Closing Documents.
+339 Sec. 9. Authorized delegation of authority.
+340 To the extent permitted by District and federal laws, the Mayor may delegate to any
+341 Authorized Delegate the performance of any function authorized to be performed by the Mayor
+342 under this resolution.
+343 Sec. 10. Limited liability.
+344 (a) The Bonds shall be special obligations of the District. The Bonds shall be without
+345 recourse to the District. The Bonds shall not be general obligations of the District, shall not be a
+346 pledge of or involve the faith and credit or the taxing power of the District, shall not constitute a
+15
+
+347 debt of the District, and shall not constitute lending of the public credit for private undertakings as
+348 prohibited in section 602(a)(2) of the Home Rule Act.
+349 (b) The Bonds shall not give rise to any pecuniary liability of the District and the District
+350 shall have no obligation with respect to the purchase of the Bonds.
+351 (c) Nothing contained in the Bonds, in the Financing Documents, or in the Closing
+352 Documents shall create an obligation on the part of the District to make payments with respect to
+353 the Bonds from sources other than those listed for that purpose in section 7.
+354 (d) The District shall have no liability for the payment of any Issuance Costs or for any
+355 transaction or event to be effected by the Financing Documents.
+356 (e) All covenants, obligations, and agreements of the District contained in this resolution,
+357 the Bonds, and the executed, sealed, and delivered Financing Documents and Closing Documents to
+358 which the District is a party, shall be considered to be the covenants, obligations, and agreements of
+359 the District to the fullest extent authorized by law, and each of those covenants, obligations, and
+360 agreements shall be binding upon the District, subject to the limitations set forth in this resolution.
+361 (f) No person, including, but not limited to, the Borrower and any Bond owner, shall have
+362 any claims against the District or any of its elected or appointed officials, officers, employees, or
+363 agents for monetary damages suffered as a result of the failure of the District or any of its elected or
+364 appointed officials, officers, employees, or agents to perform any covenant, undertaking, or
+365 obligation under this resolution, the Bonds, the Financing Documents, or the Closing Documents, as
+366 a result of the incorrectness of any representation in or omission from the Financing Documents or
+367 the Closing Documents, unless the District or its elected or appointed officials, officers, employees,
+368 or agents have acted in a willful and fraudulent manner.
+369 Sec. 11. District officials.
+16
+
+370 (a) Except as otherwise provided in section 10(f), the elected or appointed officials, officers,
+371 employees, or agents of the District shall not be liable personally for the payment of the Bonds or be
+372 subject to any personal liability by reason of the issuance, sale or delivery of the Bonds, or for any
+373 representations, warranties, covenants, obligations, or agreements of the District contained in this
+374 resolution, the Bonds, the Financing Documents, or the Closing Documents.
+375 (b) The signature, countersignature, facsimile signature, or facsimile countersignature of
+376 any official appearing on the Bonds, the Financing Documents, or the Closing Documents shall
+377 be valid and sufficient for all purposes notwithstanding the fact that the individual signatory
+378 ceases to hold that office before delivery of the Bonds, the Financing Documents, or the Closing
+379 Documents.
+380 Sec.12. Maintenance of documents.
+381 Copies of the specimen Bonds and of the final Financing Documents and Closing
+382 Documents shall be filed in the Office of the Secretary of the District of Columbia.
+383 Sec.13. Information reporting.
+384 Within 3 days after the Mayor’s receipt of the transcript of proceedings relating to the
+385 issuance of the Bonds, the Mayor shall transmit a copy of the transcript to the Secretary to the
+386 Council.
+387 Sec. 14. Disclaimer.
+388 (a) The issuance of Bonds is in the discretion of the District. Nothing contained in this
+389 resolution, the Bonds, the Financing Documents, or the Closing Documents shall be construed as
+390 obligating the District to issue any Bonds for the benefit of the Borrower or to participate in or assist
+391 the Borrower in any way with financing, refinancing, or reimbursing the costs of the Project. The
+392 Borrower shall have no claims for damages or for any other legal or equitable relief against the
+17
+
+393 District, its elected or appointed officials, officers, employees, or agents as a consequence of any
+394 failure to issue any Bonds for the benefit of the Borrower.
+395 (b) The District reserves the right to issue the Bonds in the order or priority it determines in
+396 its sole and absolute discretion. The District gives no assurance and makes no representations that
+397 any portion of any limited amount of bonds or other obligations, the interest on which is excludable
+398 from gross income for federal income tax purposes, will be reserved or will be available at the time
+399 of the proposed issuance of the Bonds.
+400 (c) The District, by adopting this resolution or by taking any other action in connection with
+401 financing, refinancing, or reimbursing costs of the Project, does not provide any assurance that the
+402 Project is viable or sound, that the Borrower is financially sound, or that amounts owing on the
+403 Bonds or pursuant to the Loan will be paid. Neither the Borrower, any purchaser of the Bonds, nor
+404 any other person shall rely upon the District with respect to these matters.
+405 Sec. 15. Expiration.
+406 If any Bonds are not issued, sold, and delivered to the original purchaser within 3 years of
+407 the date of this resolution, the authorization provided in this resolution with respect to the issuance,
+408 sale, and delivery of the Bonds shall expire.
+409 Sec. 16. Severability.
+410 If any particular provision of this resolution or the application thereof to any person or
+411 circumstance is held invalid, the remainder of this resolution and the application of such provision
+412 to other persons or circumstances shall not be affected thereby. If any action or inaction
+413 contemplated under this resolution is determined to be contrary to the requirements of applicable
+414 law, such action or inaction shall not be necessary for the purpose of issuing of the Bonds, and the
+415 validity of the Bonds shall not be adversely affected.
+18
+
+416 Sec. 17. Compliance with public approval requirement.
+417 This approval shall constitute the approval of the Council as required in section 147 (f) of
+418 the Internal Revenue Code of 1986, as amended (the “Code”), and section 490(k) of the Home Rule
+419 Act, for the Project to be financed, refinanced, or reimbursed with the proceeds of the Bonds. This
+420 resolution approving the issuance of the Bonds for the Project has been adopted by the Council after
+421 a public hearing held in accordance with section 147(f) of the Code, as such section may be
+422 amended, and the corresponding regulations promulgated by the United States Department of the
+423 Treasury
+424 Sec. 18. Transmittal.
+425 The Council shall transmit a copy of this resolution, upon its adoption, to the Mayor.
+426 Sec. 19. Fiscal impact statement.
+427 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+428 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+429 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+430 Sec. 20. Effective date.
+431 This resolution shall take effect immediately.
+19
+
+GEORGETOWN UNIVERSITY
+Revenue Bond Project
+FACT SHEET
+Georgetown University has requested that the District issue up to $675,000,000 of tax-exempt
+and taxable revenue bonds to authorize and provide for the loan of the proceeds of the bonds to
+assist Georgetown University, in financing, refinancing, or reimbursing of costs associated with
+an authorized project on properties located at 3700 O Street, N.W., in Ward 2, and 111
+Massachusetts Avenue, N.W., 120 F Street, N.W., and 600 New Jersey Avenue, N.W. in Ward 6.
+The Applicant
+Georgetown University (Georgetown), a 501(c)(3) corporation, is a private, non-profit,
+comprehensive, coeducational university founded in 1789, affiliated with the Society of Jesus,
+and open to students of every religious faith. In 1815, Georgetown became the first college to
+receive a federal charter. The main campus is located at 37th and O St., N.W. in Ward 2, and has
+a law school located at 600 New Jersey Avenue, N.W., in Ward 6.
+Georgetown offers a wide array of graduate and undergraduate degree programs and non-degree
+courses of study. Georgetown consists of three graduate and professional schools: Law,
+Medicine, and the Graduate School; four undergraduate schools: Georgetown College and the
+schools of Foreign Service, Nursing, and Business; and the School for Summer and Continuing
+Education, which offers year-round academic programs. Georgetown enrolls more than 11,500
+students in undergraduate, master’s, doctoral, and professional degree programs, attracting
+students from the District of Columbia, all 50 states, and numerous foreign countries. The faculty
+of Georgetown University includes many experts and scholars of national and international
+prominence. To complement its full-time faculty of 1,394 and 311 part-time members, the
+University employs part-time teachers drawn from Washington’s professional community.
+Approximately 1,982 voluntary faculty members assist in the clinical education of students,
+principally in the Medical Center.
+Proposed Project
+The bonds will be used for the financing, refinancing, or reimbursing of costs associated with an
+authorized project of Georgetown’s properties located at 3700 O Street, N.W., in Ward 2, and
+111 Massachusetts Avenue, N.W., 120 F Street, N.W., and 600 New Jersey Avenue, N.W. in
+Ward 6.
+Financing Plan
+A summary of the proposed sources and uses of funds is attached (see Table 1 and Table 2).
+
+Georgetown University
+Feasibility/Structure/Security of the Bonds
+Barclays, serving as the financial advisor to Georgetown, has determined this deal to be
+financially feasible after reviewing the Universities’ financial statements and status.
+The bonds, if issued, will be a general obligation of the University and will be without recourse
+to the District.
+Public Purpose Benefits
+Georgetown University’s facilities offer housing, business and educational programs to District
+residents, while generating revenue and other direct benefits to citizens and residents of the
+District.
+Legal and Regulatory Affairs
+The law firm of Squire Patton Boggs, bond counsel to the Revenue Bond Program, has
+preliminarily determined that DC Prep is a 501(c)(3) organization and that the project constitutes
+a permissible undertaking within the meaning of Section 490(a)(1) of the District of Columbia
+Home Rule Act.
+Based on the foregoing, we have determined that the proposed project complies with criteria for
+approval of proposed financing through the District’s Revenue Bond Program and that the
+proposed project will enhance employment opportunities and contribute to community
+betterment.
+2
+
+Georgetown University
+TABLE 1
+PROPOSED SOURCES AND USES OF FUNDS (TAX EXEMPT PROCEEDS)
+SOURCES OF FUNDS
+Bond Proceeds (Tax Exempt) $467,318,100
+Total Sources of Funds $467,318,100
+USE OF FUNDS
+New Construction $180,000,000
+Refinancing/Refunding $278,155,000
+Cost of Issuance $9,163,100
+Total Uses of Funds $467,318,000
+TABLE 2
+PROPOSED SOURCES AND USES OF FUNDS (TAXABLE PROCEEDS)
+SOURCES OF FUNDS
+Bond Proceeds (Taxable) $207,681,900
+Total Sources of Funds $207,681,900
+USE OF FUNDS
+New Construction $120,000,000
+Refinancing/Refunding $83,465,000
+Cost of Issuance $4,216,900
+Total Uses of Funds $207,681,900
+3
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+Commercial Division
+Tax & Finance Section
+MEMORANDUM
+TO: William Liggins
+Director, Revenue Bond Program
+Office of the Deputy Mayor for Planning and Economic Development
+FROM: Patrick Allen
+Senior Assistant Attorney General
+Commercial Division
+DATE: February 10, 2025
+SUBJECT: Legal Sufficiency Certification of the “Georgetown University Revenue
+Bonds Project Emergency Approval Resolution of 2025”.
+This is to certify that the Commercial Division has reviewed the above-referenced
+resolution and found it to be legally sufficient. If you have any questions in this regard,
+please do not hesitate to call me at (202) 724-7754.
+_________________________________
+Patrick Allen
+Senior Assistant Attorney General

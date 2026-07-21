@@ -1,0 +1,634 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+June 29, 2026
+Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. M0006 and M0007 to Contract No. CW119502 with
+Friendship Place Approval and Payment Authorization Emergency Act of 2026,” and the
+accompanying emergency declaration resolution, not-to-exceed $1,342,150.58.
+The legislation will approve Modification Nos. M0006 and M0007 to Contract No. CW119502
+with Friendship Place to provide short-term family housing, and to increase the not-to-exceed
+amount for option year one of the contract. In addition, the legislation will approve payment for
+the goods and services received and to be received under the modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modification. In order to facilitate a response to any questions you may have, please have
+your staff contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at
+(202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Muriel Bowser
+
+; ~~
+3 Chairman Phil Mendelson
+4 at the request of the Mayor
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16
+17
+18 To approve, on an emergency basis, Modification Nos. M0006 and M0007 to Contract No.
+19 CWl 19502 with Friendship Place, and to authorize payment for the goods and services
+20 received and to be received under the modifications.
+21
+22 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 act may be cited as the "Modification Nos. M0006 and M0007 to Contract No. CWl 19502 with
+24 Friendship Place Approval and Payment Authorization Emergency Act of 2026".
+25 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+26 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+27 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+28 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification
+29 Nos. M0006 and M0007 to Contract No. CWl 19502 with Friendship Place and authorizes
+30 payment in the not-to-exceed amount of $1,342,150.58 for the goods and services received and
+31 to be received under the modifications.
+32 Sec. 3. Fiscal impact statement.
+1
+
+33 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+34 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+35 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+36 Sec. 4. Effective date.
+37 This act shall take effect following approval by the Mayor (or in the event of veto by the
+38 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+39 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+40 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+41 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Tipping)
+(A) Human Care Agreement CW119502
+Number: (Modification Nos. M0006 and M0007)
+Proposed Provider: Friendship Place
+Proposed Contractor’s Principals: Cornelia Kent, VP Administration/CFO
+HCA Approval Amount: Not-to-exceed (NTE) $1,342,150.58
+Unit and Method of Compensation: The human care agreement will be paid a firm fixed
+price based on monthly services rendered and a
+cost-reimbursable compensation based upon the
+amount of allowable costs for damaged or
+deteriorated furniture expenses
+Term of HCA: October 1, 2025, through September 30, 2026
+(Option Period One)
+Type of Contract: Human Care Agreement (HCA)
+Source Selection Method: Request for Qualifications (RFQ)
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: NTE $2,990,446
+Council Approval: CA25-1094
+Option Period One Amount: NTE $2,749,723.40
+Council Approval: CA26-0389
+October 1, 2025 through September 30, 2026
+1
+
+Modification M0006 NTE $873,487.49
+Proposed Modification M0007 NTE $468,663.09
+Council Approval: Pending
+Explanation of difference from base period (if applicable): Option period one will increase due
+to additional funds needed for an overflow shelter for District unhoused residents
+Option Period Two Amount: NTE $3,313,054
+Explanation of difference from base period (if applicable): Option period two will increase by
+10% over the base period.
+Option Period Three Amount: NTE $3,419,834
+Explanation of difference from base period (if applicable): Option period three will increase by
+13% over the base period.
+Option Period Four Amount: NTE $3,542,043
+Explanation of difference from base period (if applicable): Option period four will increase by
+16% over the base period.
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The Government of the District of Columbia, Department of Human Services, is seeking to increase
+funding in option period one for Friendship Place to provide for an overflow shelter when capacity
+is exceeded at the Brooks Site 7. Expanding into overflow sites leveraging available local
+resources, reducing strain on primary facilities and minimizing displacement. Without expansion,
+shelters will exceed capacity and service gaps for vulnerable families.
+The purpose of this Human Care Agreement is to provide comprehensive services necessary to
+operate a Short-Term Family Housing (STFH) site as a home-like environment for families
+experiencing homelessness within the District.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+An electronic Request for Qualifications (RFQ), Doc690502, was issued in the open market utilizing
+the Office of Contracting and Procurement’s. Procurement Automated Support System, on March 8,
+2024, and officially closed on April 17, 2024. The District received nine submissions, in response to
+Doc690502. Seven out of the nine submissions were deemed qualified to provide comprehensive
+services for the STFH. The seven providers that were deemed qualified to perform comprehensive
+services for the STFH were notified on July 5, 2024.
+The responses were evaluated according to the Qualification criteria set forth in Attachment D of
+the RFQ’s “INSTRUCTIONS, CRITERIA, CONDITIONS AND NOTICES TO PROVIDERS”.
+Providers met the criteria and were deemed Qualified.
+2
+
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+No protest were received.
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+CW100388 Permanent Supportive Housing Program-July 1, 2025, through June 30, 2026 – NTE
+$1,865,355.10
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Friendship Place has financial stability and can adequately obtain the resources required for the
+support services of this contract. This evidence is provided from the contractor’s financial history as
+reported by the Dun and Bradstreet Business Report; completed on March 16, 2026.
+(H) The period of performance associated with the proposed change, including the date as of
+which the proposed change is made effective:
+October 1, 2025 – September 30, 2026 (Proposed Modification No. M0007) – the proposed change
+will take effect upon receipt of Council approval.
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+NTE $873,487.49 - Modification No. M0006
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+NTE $1,342,150.58
+(K) The date on which the contracting officer was notified of the proposed change:
+October 21, 2025
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+On October 1, 2025, the Council approved the exercise of option period one under the Human Care
+Agreement. Due to budget limitations with housing programs such as Families Re-Housing and
+3
+
+Stabilization Program (FRSP, a primary shelter exit point for families in STFH), there is a need to
+expand STFH beds to ensure appropriate capacity in the family sheltering system. This contract
+action is necessary to ensure the program's continuity and to provide seamless service delivery to all
+eligible participants.
+(M) The reason for the proposed change:
+The Department of Human Services has a critical need to increase services for Short-Term Family
+Housing due to budget limitations in housing programs such as the Families Re-Housing and
+Stabilization Program, resulting in longer stays in shelter for families. To ensure there will be
+adequate shelter beds for the homeless families system, DHS will need to provide additional shelter
+beds to existing STFH shelters as overflow. The overflow services needed would be Case
+Managers, security officers, and janitorial services. This modification is needed to support the
+Mayor’s initiative to ensure no families in the District are unsheltered.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+27 DCMR, Chapter 36, Section 3601.2(c)
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+A. Friendship Place certifies that they are compliant with the campaign finance Board of Ethics
+and Government Accountability Establishment and Comprehensive Ethics Reform Amendment
+Act of 2011, D.C. Official Code § 1-1163.34a
+B. Friendship Place will comply and will not be in violation of section 334a of the Board of Ethics
+and Government Accountability Establishment and Comprehensive Ethics Reform Amendment
+Act of 2011, D.C. Official Code § 1-1163.34a
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+Friendship Place submitted a subcontracting plan that meets the minimum requirement of the
+District. The subcontracting plan is for 57% or $2,342,956.67 of the dollar volume of the contract to
+certified business enterprises (CBEs) that have been certified by the District of Columbia
+Department of Small and Local Business Development (DSLBD). The Contracting Officer certifies
+that the proposed subcontracting plan meets the requirements.
+4
+
+(Q) Performance standards and the expected outcome of the proposed contract:
+The District expects the Contractor to provide comprehensive services necessary to operate as
+home-like environments for families experiencing homelessness located within the District.
+In Section D of the Human Care Agreement, the District outlined the required deliverables that the
+Contractor is responsible for providing. The goal of this program is to empower every District
+resident to reach their full potential by providing meaningful connections to work opportunities,
+economic assistance, and supportive services.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+NTE $873,487.49 – January 14, 2026
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Office of the Chief Financial Officer has certified that funding is consistent with the applicable
+financial plan and budget.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The Office of the Attorney General has determined this contract to be legally sufficient. Friendship
+Place does not currently have any pending legal claims against the District.
+(U) A certification that the Citywide Clean Hands database indicates that the proposed contractor
+is current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands database indicates the provider is current with its District taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+Based on information contained in the bidder/offeror certification form, Friendship Place has
+certified that it is current with its federal taxes and does not have any outstanding debt to the federal
+government.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+Friendship Place is not a certified local, small, or disadvantaged business enterprise.
+5
+
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+Friendship Place is not debarred or suspended from Federal or District procurements, based on
+searches of the District Office of Contracting and Procurement excluded parties list, Office of
+Inspector General exclusion database, System for Award Management database conducted on
+March 17, 2026.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination and Findings for Human Care Agreement
+Determination and Findings for Contractor's Responsibility
+Determination and Findings for Price Reasonableness
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+www.ocp.dc.gov.
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+www.ocp.dc.gov.
+6
+
+(cid:5)(cid:6)(cid:3)
+:(cid:17);(cid:9)(cid:8)(cid:15)<(cid:9)(cid:15)(cid:5)(cid:3)(cid:17)=(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:18)(cid:14)(cid:13)(cid:5)(cid:8)(cid:14)>(cid:5)(cid:3)(cid:17)=(cid:3)(cid:19)(cid:17)?@<A(cid:14)(cid:12)
+B==(cid:14)>(cid:9)(cid:3)(cid:17)=(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:19)(cid:6)(cid:14)(cid:9)=(cid:3)/(cid:14)(cid:15)(cid:12)(cid:15)>(cid:14)(cid:12)?(cid:3)B==(cid:14)>(cid:9)(cid:8) (cid:0)(cid:0)(cid:2)(cid:0)(cid:3)(cid:4)(cid:7)(cid:5)(cid:8)(cid:9)(cid:9)(cid:5)(cid:10)(cid:3)(cid:7)(cid:11)
+B==(cid:14)>(cid:9)(cid:3)(cid:17)=(cid:3)C(cid:12)D(cid:3)(cid:12)(cid:15)E(cid:3)F(cid:9);(cid:9)(cid:15)@(cid:9)(cid:3) (cid:11)(cid:12)(cid:13)(cid:6)(cid:14)(cid:15)(cid:16)(cid:5)(cid:17)(cid:15)(cid:10)(cid:3)(cid:18)(cid:19)(cid:3)(cid:20)(cid:2)(cid:2)(cid:20)(cid:4)
+(cid:21)(cid:22)(cid:23)(cid:24)(cid:3)(cid:25)(cid:26)(cid:3)(cid:27)(cid:25)(cid:23)(cid:28)(cid:29)(cid:24)(cid:30) (cid:31)(cid:22) (cid:3)!"#(cid:3)$%$& (cid:27)(cid:25)(cid:23)(cid:28)(cid:29)(cid:24)(cid:3)(cid:27)+,-(cid:24).(cid:30)’%%!&()"*")
+/F102(cid:18)(cid:7)G1H(cid:3)HIJ(cid:19)0 /0123(cid:3)4454446(cid:4)7(cid:4)
+(cid:4)9(cid:0)K(cid:3)(cid:11)1(cid:7)(cid:19)B2(cid:7)12(cid:3)JL0(cid:3)2(cid:11) (cid:19)(cid:12)(cid:13)(cid:9)(cid:3)1(cid:18)3(cid:3)(cid:0)876997(cid:0)
+(cid:11)J(cid:7)G12:CB2(cid:3)(cid:18)(cid:19)(cid:3)(cid:3)(cid:20)(cid:2)(cid:2)(cid:0)M5(cid:4)M(cid:2)7
+(cid:3)
+(cid:3)
+abcdefeagdb(cid:3)hf(cid:3)aibgj(cid:3)kgjlm
+J(cid:13)(cid:3)(cid:8)(cid:9)Z(cid:17)(cid:8)(cid:5)(cid:9)E(cid:3)(cid:14)(cid:15)(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:19)?(cid:9)(cid:12)(cid:15)(cid:3)G(cid:12)(cid:15)E(cid:13)(cid:3)(cid:13)\(cid:13)(cid:5)(cid:9)<(cid:10)(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:12)A(cid:17);(cid:9)(cid:3)(cid:8)(cid:9)=(cid:9)(cid:8)(cid:9)(cid:15)>(cid:9)E(cid:3)(cid:14)(cid:15)E(cid:14);(cid:14)E@(cid:12)?n(cid:9)(cid:15)(cid:5)(cid:14)(cid:5)\(cid:3)(cid:6)(cid:12)(cid:13)(cid:3)(cid:15)(cid:17)(cid:3)(cid:17)@(cid:5)(cid:13)(cid:5)(cid:12)(cid:15)E(cid:14)(cid:15)(cid:16)
+?(cid:14)(cid:12)A(cid:14)?(cid:14)(cid:5)\(cid:3)o(cid:14)(cid:5)(cid:6)(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:18)(cid:14)(cid:13)(cid:5)(cid:8)(cid:14)>(cid:5)(cid:3)(cid:17)=(cid:3)(cid:19)(cid:17)?@<A(cid:14)(cid:12)(cid:3)B==(cid:14)>(cid:9)(cid:3)(cid:17)=(cid:3)C(cid:12)D(cid:3)(cid:12)(cid:15)E(cid:3)F(cid:9);(cid:9)(cid:15)@(cid:9)(cid:3)(cid:17)(cid:8)(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:18)(cid:9)Z(cid:12)(cid:8)(cid:5)<(cid:9)(cid:15)(cid:5)(cid:3)(cid:17)=(cid:3)0<Z?(cid:17)\<(cid:9)(cid:15)(cid:5)
+(cid:7)(cid:9)(cid:8);(cid:14)>(cid:9)(cid:13)](cid:3)J(cid:13)(cid:3)(cid:17)=(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)E(cid:12)(cid:5)(cid:9)(cid:3)(cid:12)A(cid:17);(cid:9)(cid:10)(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:14)(cid:15)E(cid:14);(cid:14)E@(cid:12)?n(cid:9)(cid:15)(cid:5)(cid:14)(cid:5)\(cid:3)(cid:6)(cid:12)(cid:13)(cid:3)>(cid:17)<Z?(cid:14)(cid:9)E(cid:3)o(cid:14)(cid:5)(cid:6)(cid:3)(cid:18)(cid:19)(cid:3)(cid:19)(cid:17)E(cid:9)(cid:3)p(cid:3)(cid:4)95(cid:20)8M(cid:20)(cid:10)(cid:3)(cid:3)(cid:5)(cid:6)(cid:9)(cid:8)(cid:9)=(cid:17)(cid:8)(cid:9)
+(cid:5)(cid:6)(cid:14)(cid:13)(cid:3)(cid:19)(cid:9)(cid:8)(cid:5)(cid:14)=(cid:14)>(cid:12)(cid:5)(cid:9)(cid:3)(cid:17)=(cid:3)(cid:19)?(cid:9)(cid:12)(cid:15)(cid:3)G(cid:12)(cid:15)E(cid:13)(cid:3)(cid:14)(cid:13)(cid:3)(cid:14)(cid:13)(cid:13)@(cid:9)E]
+C1CI0(cid:3)(cid:4)9](cid:3)CJqJC1B2(cid:10)(cid:3)I1(cid:19)02(cid:7)12:(cid:10)(cid:3)H0F[1C(cid:7)(cid:10)(cid:3)J(cid:7)(cid:7)0(cid:7)(cid:7)[02C(cid:7)(cid:10)(cid:3)J2(cid:18)(cid:3)/00(cid:7)
+(cid:19)GJHC0F(cid:3)(cid:20)8(cid:3):020FJI(cid:3)I1(cid:19)02(cid:7)0
+(cid:7)rs(cid:19)GJHC0F(cid:3)11](cid:3)(cid:19)I0J2(cid:3)GJ2(cid:18)(cid:7)(cid:3)s0/BF0(cid:3)F0(cid:19)01L12:(cid:3)J(cid:3)I1(cid:19)02(cid:7)0(cid:3)BF(cid:3)H0F[1C
+(cid:18)](cid:19)](cid:3)(cid:19)B(cid:18)0(cid:3)p(cid:3)(cid:4)95(cid:20)8M(cid:20)(cid:3)t(cid:20)(cid:2)(cid:2)Mu
+p(cid:3)(cid:4)95(cid:20)8M(cid:20)(cid:3)HFBG1s1C1B2(cid:3)J:J12(cid:7)C(cid:3)1(cid:7)(cid:7)rJ2(cid:19)0(cid:3)B/(cid:3)I1(cid:19)02(cid:7)0(cid:3)BF(cid:3)H0F[1C
+U+(cid:23)P(cid:25).(cid:28)W(cid:24)S(cid:3)N (cid:3)(cid:31)(cid:24)R(cid:28)OS(cid:22)(cid:3)X(cid:24)OY(cid:28)OV
+N.(cid:22)O(cid:29)P(cid:3)QP(cid:28)(cid:24)(cid:26)#(cid:3)Q(cid:25)RR(cid:24)(cid:29)(cid:23)(cid:28)(cid:25)O(cid:3)(cid:22)OS(cid:3)TO(cid:26)(cid:25).(cid:29)(cid:24),(cid:24)O(cid:23)(cid:3)US,(cid:28)O(cid:28)V(cid:23).(cid:22)(cid:23)(cid:28)(cid:25)O
+C(cid:17)(cid:3);(cid:12)?(cid:14)E(cid:12)(cid:5)(cid:9)(cid:3)(cid:5)(cid:6)(cid:14)(cid:13)(cid:3)>(cid:9)(cid:8)(cid:5)(cid:14)=(cid:14)>(cid:12)(cid:5)(cid:9)(cid:10)(cid:3)Z?(cid:9)(cid:12)(cid:13)(cid:9)(cid:3);(cid:14)(cid:13)(cid:14)(cid:5)(cid:3)[\C(cid:12)D](cid:18)(cid:19)](cid:16)(cid:17);](cid:3)B(cid:15)(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)[\C(cid:12)D(cid:3)(cid:18)(cid:19)(cid:3)(cid:6)(cid:17)<(cid:9)Z(cid:12)(cid:16)(cid:9)(cid:10)(cid:3)>?(cid:14)>^(cid:3)(cid:5)(cid:6)(cid:9)
+_L(cid:12)?(cid:14)E(cid:12)(cid:5)(cid:9)(cid:3)(cid:12)(cid:3)(cid:19)(cid:9)(cid:8)(cid:5)(cid:14)=(cid:14)>(cid:12)(cid:5)(cid:9)(cid:3)(cid:17)=(cid:3)(cid:19)?(cid:9)(cid:12)(cid:15)(cid:3)G(cid:12)(cid:15)E(cid:13)‘(cid:3)(cid:6)\Z(cid:9)(cid:8)?(cid:14)(cid:15)^(cid:3)@(cid:15)E(cid:9)(cid:8)(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:19)?(cid:9)(cid:12)(cid:15)(cid:3)G(cid:12)(cid:15)E(cid:13)(cid:3)(cid:13)(cid:9)>(cid:5)(cid:14)(cid:17)(cid:15)]
+vvwv(cid:3)xyz(cid:3)my{||y(cid:3)m}~(cid:3)m(cid:127)(cid:128)y|(cid:3)}(cid:129)(cid:130)w~(cid:3)}(cid:131)(cid:132)z(cid:128)(cid:133)(cid:134)y(cid:135)(cid:133)~(cid:3)la(cid:3)(cid:129)ww(cid:129)x(cid:136)(cid:137)z(cid:135)(cid:133)|(cid:138)(cid:3)(cid:139)(cid:129)w(cid:129)(cid:140)(cid:3)(cid:130)(cid:129)x(cid:141)(cid:142)wx(cid:142)(cid:136)(cid:143)(cid:144)d(cid:131)(cid:145)(cid:146)la(cid:146)(cid:134)(cid:135)(cid:147)
+(cid:3)
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+DEPARTMENT OF HUMAN SERVICES
+Office of the Agency Fiscal Officer
+MEMORANDUM
+TO: Nancy Hapeman
+Chief ProcurementOfficer
+Office of Contracting and Procurement
+Delicia V. Digitally signed by
+THRU: Delicia V. Moore
+Delicia V. Moore
+forAssociate Chief Finan
+M
+cial
+o
+O
+o
+ff
+r
+ic
+e
+er
+Date: 2026.05.20
+Human Support Services Cluster 15:16:10 -04'00'
+FROM: Hayden Bernard
+Agency Fiscal Offffffiicceerr
+Department of Human Services
+DATE (cid:48)(cid:68)(cid:92)(cid:3)(cid:21)(cid:19), 2026
+SUBJECT: Certification of Funding Availability for Friendship Place – Brooks – Site 7 – Ward 3 - Contract
+# CW119502
+The Office of the Chief Financial Officer hereby certifies that the sum of $1,342,150.58is included in the District’s
+LocalBudget and Financial Planfor Fiscal Year 2026 to fund theincreasecosts associated with the Department of
+Human Services Contract with Friendship Place – Brooks – Site 7 – Ward 3 - for Short Term Family Housing
+Services. This certification supports the Friendship Placecontract during the period from 10/01/25 – 09/30/26. The
+fund allocation is as follows:
+Vendor: Friendship Place – Brooks – Site 7 – Ward 3 Contract #: CW119502
+Fiscal Year 2026 Funding:10/01/2025-9/30/2026
+DIFS DIFS
+DIFS DIFS
+Agency Cost Account Project Award Task Subtask Amount
+Fund Program
+Center
+JA0 1010001 70348 700179 7141002 N/A N/A N/A N/A $2,749,723.40
+JA0 1010001 70348 700179 7141002 N/A N/A N/A N/A $1,342,150.58
+FY 2026 Contract Total: $4,091,873.98
+The total option of thecontract is NTE $4,091,873.98 for the period10/01/2025 through 09/30/2026
+There is nofiscal impactassociated with the contract.Should you have any questions, please contact me at(202)
+671-4240.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: April 22, 2026
+SUBJECT: Approval of Proposed Increased Amount of Option Period One
+of Human Care Agreement
+Short-Term Family Housing Operations
+HCA Number: CW119502
+Vendor: Friendship Place
+HCA Approval Amount: NTE $ 1,342,150.58, for the entire Option Year One
+NTE $4,091,873.98
+This is to Certify that this Office has reviewed the above-referenced Contract and that we have
+found it to be legally sufficient. If you have any questions in this regard, please do not hesitate to
+call me at (202) 724-4018.
+______________________________
+Robert Schildkraut
+400 6th Street NW, Suite 9100, Washington, DC 20001 (202) 727-3400
+
+T ConradNumber PageofPages
+AMENDMENT OF SOLICITATIO/N MODIFICATION OF CONTRACT cw119s02 TT3
+2, AmendmenModiicatonNumbor | 3. EfectveDate “ RequistionPurchaseRequest| 5 SolcilaionCaption
+Mo00s Seeblock 16C ShortTerm Family Housing
+(STFH)
+CasedBy Tole 7 RaanistereaBy(ToTvarTan ieBy
+OfficeofContractingandProcurement DepartmentofHumanServices
+64NewYork AveNE6! FL Family ServicesAdministration
+Washington, DC20002 64NewYorkAve, NE6! FL,
+Washington, DC20002
+'& NameandAddressofContrac(Noo street, ly,counly,sia andzipcode) ‘9A. AmenodfmSoliecitnatiton No.
+FriendshipPlace
+‘3B. Dated (Seehem 11)
+4713 Wisconsin Ave,NW
+‘WashingtoDnC, 20016 10A. ModificationofContracOrdNeor.
+Point ofContact: Comelia Kent CW119502
+E-mail: CKent@echfp.org
+10B. Dated(See Item 13)
+Code | Faciity x
+10/1/2024
+TT. THIS TEMONLYAPPLIESTOAMENDMENTSOFSOLICITATIONS
+‘Theabove-numberedsoictationisamendedassetforthintom 14. ‘ThehouranddalespecifedforreceiptofOffers igextended. isnotextended
+Ottersmustacknowledgereceiptofh'samendmentpriorothehourand datespecifiedinthesolictatonorasamended,byoneoftefolowingmethods:
+(a) Bycompletingle&mansd 15,andreturning copes oftheamendment: 2)Byacknowiedging receiptofthisamendmoneenacth coofpthyeoffersubmited,
+(c)BYseparateletterorfaxwhichincludesaroferoncetothesociationandamendmentnumber. FAILUREOFYOURACKNOWLEDGMENTTOBE
+RECEIVEDATTHEPLACEDESIGNATEDFORTHERECEIPTOFOFFERSPRIORTOTHEHOURAND OATE SPECIFIEDMAYRESULTINTHE
+REJECTIONOFYOUROFFER. Ifbyvueofthisamendment, youdesiretochangeanofferalreadysubmited, suchmaybemadebylettero”fx, proved
+Leachletterortelegrammakesreferencetothesalctationandthisamendment andisreceivedpriorotheopeninghouranddate spectied
+72. AcoouniingandAppropriationData (IRequired)
+13. T HISITEMAPPLIESONLY TOMODIFICATIONS OF GONTRACTORSIORDERS,
+ITMODIFIESTHECONTRACT/ORDER NO. ASDESCRIBEIND ITEM14
+"A Thischangeorderise806pursuantto(SpeeityAuhoriy):
+The changes setforthinlem14aremadeinthe contracVorderno. initem10A,
+X_| © Theabove-numberedcontracVordiesrmodiorfefilecetdhe admivsiraiveChanges(euchaschangesinpayingoffice,appropriationdala
+tc)setforthintem 14, pursuanttotheauthorityof27DCMR3601.2
+ThissupplementalagreementisenleredintopursuanttotheauthorityoF
+'D_ Other(Specify the fypeof modificationand authori) 27DGMR,Chapler20, Seclion2008 ExerciseofOption”
+E.IMPORTANT: Contract_o]r isnot Da isrequiredtosignthisdocumentandreturn, copiestotheissuingoffice.
+114. Description ofAmendment/Modification (Organized byUCF Section headings, including solicitation/contractsubject
+iatterwhere feasible.
+[The Human Care Agreement (HCA) NumberCW119502 identified in Block 10A above, is hereby modified
+las follows:
+A. The purposeofthis modification is to increase the funding foroption period one in the not-to-exceed
+amountof $873,487.49 from $ 2,749,723.40 to $3,623,210.89.
+B. Delete Section B Price Schedule B.3.2Option Period One PerAttachmentA.
+c. Replace Section B Price Schedule B.3.2 Option Period One, Adding CLIN1001 Ramp-Up Services and
+CLIN1009 Overflow Services Per Attachment A
+Delete Section B Price Schedule B.3.6 Estimated GrandTotal Per Attachment A
+Delete Section B Price Schedule B.3.6 EstimatedGrand Total. The estimated grand total is increased in
+the not-to-exceed amount from $ 16,030,100.40 by $873,487.49to the not-to-exceed amount of
+$16,903,588.89 PerAttachment A.
+ALL OTHER TERMS ANDCONDITIONS REMAIN UNCHANGED
+TEA. NameandTileofSignor(Type oFprint "TA. Naof CmontraectingOficer
+" Rachel Conway
+Cornelia KentVPAdministration/CFO y
+5B, Name ofContractor TEC. DaleSigned | 165, DatofCiocmbha 76. DateSigned
+CorneliaKent 1/12/2026 fadd oo _
+1/14/2026
+(Sanaof parsonaero sn laotncontaacion ce
+
+AttachmentA.
+1. Delete Section B.3.2 Option Period One Price Schedule and Replacewith B.3.2 Option Period One Price
+Schedule
+B.3.2 Short-Term Family Housing Site Seven (7)—October 1, 2025, through September 30, 2026
+name: The Brook—s MaximumCapacity 225
+Location: 3318IdahoAvenueNW,Washington, DC20016(Ward3)
+Contract Number
+Lineitem| ServiceDescription Estimated| MonthlyRate of Total
+(CLIN) Quantity Banik Amount
+1001 |STFH RampUpServices
+1 $92,382.39 2 |$92,382.39
+STFH Firmed Fixedcost
+Per Sections C.3.1 through
+1001A | 3.5.15and C.3.17 1 $ 146,099.10
+through C.3.49 12 | s1,753.189.20
+Program Director 12 | $117,500.04
+1002 _| PerSection C.3.5.16(a) ! $9,791.67
+CaseManager Supervisor 12 | $89,069.16
+1003 _| PerSectionC.3.5.16() 1 $7,422.43
+‘Case Managers 12 | $215,839.80
+1004 | PerSectionC.3.5.16(0) 3 $ 17,986.65
+Toos | Operations Managers 1 $8,171.33, 12 | $98,055.96
+PerSection C.3.5.16(d)
+‘Employment and 12 SN/A
+1006 | Educational Specialist ' SN/A
+PerSection C.3.5.16(€)
+1007 | HousingNavigator 1 SNA 12 SNA
+Per Section C.3.5.16(f)
+Toog | Residential Aides (F/T) 7 | $26,285.42 12 | $315,425.04
+PerSectionC.3.5.16(g)
+Residential Aides (P/T)
+10084 | Per Section C.3.5.16(g) 5 § 12,970.35 12 | $155,644.20
+1009 | STFH OverftowServices 1 |$156,221.02 s |$781,105.10
+Option Period OneTotal AmountforSite7 NTE$3,618,210.89
+010 | Fumiture Replacement Maximum $5,000 $ 5,000.00
+PerSection C.3.28
+Option Period OneTotalAmountforSite 7 withCostReimbursementComponent | NTE $3,623,210.89
+
+**Funds are foroperational services. ‘encompasses a rangeofareas including, but not limitedto, non-key
+personnel, client services,staffsupport,janitorial duti s, provision of supplies foroperations, and services
+provided by subcontractors.
+"Funds are only forthe specificyearwith nocarryoverandifthe costexceedsthe not-to-exceedamount forthe
+year, the providerwillcoverthe remaindercost until the next option year.
+2. Delete Section B Price Schedule B.3.6 Estimated Grand Total and replace Section B Price Schedule
+B.3.6 EstimatedGrand Total
+Period ofPerformance Total Price
+BaseYear (B3.1) NTE $2,990,446.00
+Option YearOne (B.3.2) NTE $3,623,210.89
+Option YearTwo(B.3.3) NTE$3,318,054.00
+Option YearThree(B.3.4) |NTE $3,424,834.00
+Option Year Four(B.3.5) NTE 3,547,043.00
+GrandTotal NTE$16,903,588.89
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW119502 1 3
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request 5. Solicitation Caption
+M0007 See block 16C
+Short Term Family Housing
+(STFH)
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Department of Human Services
+64 New York Ave NE 6 th FL Family Services Administration
+th
+Washington, DC 20002 64 New York Ave, NE 6 FL
+Washington, DC 20002
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+Friendship Place
+9B. Dated (See Item 11)
+4713 Wisconsin Ave, NW
+Washington, DC 20016 10A. Modification of Contract/Order No.
+x
+Point of Contact: Cornelia Kent CW119502
+E-mail: CKent@cchfp.org
+10B. Dated (See Item 13)
+Code FaF acility x
+10/1/2024
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above-numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15, and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer submitted;
+or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE
+RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN THE
+REJECTION OF YOUR OFFER. If by virtue of this amendment, you desire to change an offer already submitted, such may be made by letter or fax, provided
+each letter or telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+X B. The above-numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of: 27 DCMR 3601.2
+C. This supplemental agreement is entered into pursuant to the authority of:
+D. Other (Specify the type of modification and authority): 27 DCMR, Chapter 20, Section 2008 “Exercise of Option”
+E. IMPORTANT: Contractor is not is required to sign this document and return 1_ copies to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject
+matter where feasible.
+The Human Care Agreement (HCA) Number CW119502 identified in Block 10A above, is hereby modified
+as follows:
+1. The purpose of this modification is to increase the funding for option period one as follows:
+a. Modification No. M0006 increased the not-to-exceed amount by $873,487.49 from $2,749,723.40
+to $3,623,210.89.
+b. This modification No. M0007 will increase the not-to-exceed amount by an additional $468,663.09
+from $3,623,210.89 to $4,091,873.98.
+c. Total increase to option period one (Modification No. M0006 plus Modification No. M0007) will
+be NTE $1,342,150.58
+2. Delete Section B Price Schedule B.3.2 Option Period One Per Attachment A.
+3. Delete Section B Price Schedule B.3.6 Estimated Grand Total Per Attachment A
+4. Replace Section B Price Schedule B.3.6 Estimated Grand Total. The estimated grand total is increased
+in the not-to-exceed amount from $16,903,588.89 by $468,663.09 to the not-to-exceed amount of
+$17,372,250.98 Per Attachment A.
+ALL OTHER TERMS AND CONDITIONS REMAIN UNCHANGED
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Cornelia Kent VP Administration/CFO
+Rachel Conway
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+3/20/2026
+
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+Attachment A
+1. Delete Section B.3.2 Option Period One Price Schedule
+2. Replace with B.3.2 Option Period One Price Schedule
+B.3.2 Short-Term Family Housing Site Seven (7) – October 1, 2025, through September 30, 2026
+Site name: The Brooks – Maximum Capacity 225
+Location: 3318 Idaho Avenue NW, Washington, DC 20016 (Ward 3)
+Contract
+Number
+Monthly Rate
+Estimated Total
+Line Item Service Description
+of
+Quantity Amount
+(CLIN)
+months
+Firm Fixed Component (CLIN 1001-1009)
+1001 STFH Ramp Up Services
+1 $92,382.39 2 $ 92,382.39
+STFH Firmed Fixed cost
+for site operation
+services**
+Per Sections C.3.1 through
+1001A
+C.3.5.15 and C.3.17 1 $ 146,099.10
+12
+through C.3.49 $ 1,753,189.20
+Program Director 12 $ 117,500.04
+1 $ 9,791.67
+1002 Per Section C.3.5.16(a)
+Case Manager Supervisor 12 $ 89,069.16
+1003 1 $ 7,422.43
+Per Section C.3.5.16(b)
+Case Managers 12 $ 215,839.80
+1004 3 $ 17,986.65
+Per Section C.3.5.16(c)
+Operations Managers 1 $ 8,171.33 12 $ 98,055.96
+1005
+Per Section C.3.5.16(d)
+Employment and 12 $ N/A
+1 $ N/A
+1006 Educational Specialist
+Per Section C.3.5.16(e)
+Housing Navigator 1 $ N/A 12 $ N/A
+1007
+Per Section C.3.5.16(f)
+Residential Aides (F/T) 7 $ 26,285.42 12 $ 315,425.04
+1008
+Per Section C.3.5.16(g)
+Residential Aides (P/T)
+1008A $ 12,970.35 12 $ 155,644.20
+Per Section C.3.5.16(g) 5
+1009 STFH Overflow Services 1 $ 156,221.02 8 $ 1,249,768.19
+NTE $ 4,086,873.98
+Option Period One Total Amount for Site 7
+Cost Reimbursement Component (CLIN 1010)***
+Furniture Replacement Maximum $5,000 $ 5,000.00
+1010
+Per Section C.3.28
+Option Period One Total Amount for Site 7 with Cost Reimbursement Component NTE $ 4,091,873.98
+
+**Funds are for operational services. This encompasses a range of areas including, but not limited to, non-key
+personnel, client services, staff support, janitorial duties, provision of supplies for operations, and services
+provided by subcontractors.
+***Funds are only for the specific year with no carryover and if the cost exceeds the not-to-exceed amount for the
+year, the provider will cover the remainder cost until the next option year.
+3. Delete Section B Price Schedule B.3.6 Estimated Grand Total and replace Section B Price Schedule
+B.3.6 Estimated Grand Total
+Period of Performance Total Price
+NTE $2,990,446
+Base Year (B.3.1)
+Option Year One (B.3.2) NTE $4,091,873.98
+Option Year Two (B.3.3) NTE $3,318,054
+Option Year Three (B.3.4) NTE $3,424,834
+Option Year Four (B.3.5) NTE 3,547,043
+Grand Total NTE $ 17,372,250.98

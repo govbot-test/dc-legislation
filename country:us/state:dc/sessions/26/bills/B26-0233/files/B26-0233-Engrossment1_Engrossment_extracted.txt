@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-233
+4
+5 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+6
+7 ______________________
+8
+9 To amend the District of Columbia Election Code of 1955 to require candidate nomination
+10 petition affidavits to state that the circulator has not altered signer information on a
+11 petition after a signer has signed the petition; to prohibit anyone from altering signer
+12 information provided by the petition signer, except in cases where the signer requests
+13 assistance in signing the petition before signing the petition; to amend the Initiative,
+14 Referendum and Recall Procedures Act of 1979 to require initiative, referendum and
+15 recall petition affidavits to state that the circulator has not altered signer information on a
+16 petition after a signer has signed the petition; and, to prohibit anyone from altering signer
+17 information provided by the petition signer, except in cases where the signer requests
+18 assistance in signing the petition.
+19
+20 BE IT ENACTED BY THE COUNCIL DISTRICT OF COLUMBIA, That this act may be
+21 cited as the “Petition Administration Clarification Amendment Act of 2025”.
+22 Sec. 2. The District of Columbia Election Code of 1955, approved August 12, 1955 (69
+23 Stat. 701; D.C. Official Code § 1-1001.01 et seq.) is amended as follows:
+24 (a) Section 8 (D.C. Official Code 1-1001.08) is amended as follows:
+25 (1) Subsection (b)(3) is amended as follows:
+26 (A) Subparagraph (B) is amended by striking the phrase “; and” and
+27 inserting a semicolon in its place.
+28 (B) Subparagraph (C) is amended by striking the period and inserting the
+29 phrase “; and” in its place.
+1
+
+ENGROSSED ORIGINAL
+30 (C) A new subparagraph (D) is added to read as follows:
+31 “(D) Not written, altered, corrected, clarified, or obscured information on the
+32 petition about the signer of the petition after the signer affixed their signature to the petition.”.
+33 (2) A new subsection (p-1) is added to read as follows:
+34 “(p-1) No person other than the petition signer may write, alter, correct, or clarify on a
+35 nominating petition any information about the petition signer unless the signer requests assistance
+36 in writing, altering, correcting, or clarifying on the petition any information about the signer before
+37 the signer affixes their signature. The use of correction tape or fluid is prohibited.”.
+38 (b) Section 16 (D.C. Official Code § 1-1001.16) is amended as follows:
+39 (1) Subsection (h) is amended by adding a new paragraph (3A) is added to read as
+40 follows:
+41 “(3A) That the circulator of the petition sheet has not written, altered,
+42 corrected, clarified, or obscured information on the petition about the signer of the petition after the
+43 signer affixed their signature to the petition.”.
+44 (2) A new subsection (h-1) is added to read as follows:
+45 “(h-1) No person other than the petition signer may write, alter, correct, or clarify on a
+46 petition sheet for an initiative or referendum unless the signer requests assistance in writing,
+47 altering, correcting, or clarifying on the petition any information about the petition signer before
+48 the signer affixes their signature. The use of correction fluid or tape is prohibited.”.
+49 (c) Section 17 (D.C. Official Code § 1-1001.17) is amended as follows:
+2
+
+ENGROSSED ORIGINAL
+50 (1) Subsection (f) is amended by adding a new paragraph (3A) to read as follows:
+51 “(3A) That the circulator of the petition sheet has not written, altered,
+52 corrected, clarified, or obscured information on the petition about the signer of the petition after the
+53 signer affixed their signature to the petition.”.
+54 (2) A new subsection (f-1) is added to read as follows:
+55 “(f-1) No person other than the petition signer may write, alter, correct, or clarify on a
+56 petition sheet for a recall petition unless the signer requests assistance in writing, altering,
+57 correcting of clarifying on the petition any information about the petition signer before the signer
+58 affixes their signature. The use of correction fluid or tape is prohibited.”.
+59 Sec. 4. Fiscal impact statement.
+60 The Council adopts the fiscal impact statement in the committee report as the fiscal impact
+61 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+62 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+63 Sec. 5. Effective date.
+64 This act shall take effect following approval by the Mayor (or in the event of veto by the
+65 Mayor, action by the Council to override the veto) and a 30-day period of congressional review as
+66 provided in section 602(c)(2) of the District of Columbia Home Rule Act, approved December 24,
+67 1973 (87 Stat. 788; D.C. Official Code § 1-206.02(c)(2)).
+3

@@ -1,0 +1,129 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Statement of Introduction
+Fair Share Housing Targets Act of 2025
+December 19, 2025
+Today, along with Councilmembers Christina Henderson, Janeese Lewis George, Robert C.
+White, Jr., and Zachary Parker, I am introducing the Fair Share Housing Targets Act of 2025. This
+legislation would ensure that the District of Columbia maintains ambitious goals for the production of
+new housing and affordable housing by requiring the Mayor to set new housing targets every 5 years.
+To maintain a principle that all areas of D.C. contribute a fair share of housing, specific targets
+would be established for each of the District's 10 Planning Areas, groups of neighborhoods used for
+planning that do not change with ward boundaries.
+In May 2019, Mayor Bowser released the District's first-ever Mayor's Order on Housing, which
+set a goal of producing 36,000 new homes by the year 2025. This goal was followed up in October 2019
+by the publication of the Mayor's Housing Framework: Creating Goals for Areas of Our City, an
+analysis of existing affordable housing distribution and specific housing production goals by planning
+area.
+These goals made D.C. a leader as the first major U.S. city to establish housing production and
+affordable housing targets on a hyper-local level.
+2025 is now coming to a close with D.C. having met its 36,000 unit target ahead of schedule.
+However, this achievement was not the result of equal contribution across the District. While four
+planning areas met or exceeded their affordable housing targets, six planning areas fell short. To address
+this, the bill would establish a process for assessing and remedying barriers to housing production for
+any planning area that does not meet a housing target, now or in the future.
+
+1
+_____________________________ _____________________________
+Councilmember Christina Henderson Councilmember Brianne K. Nadeau
+_____________________________ _____________________________
+Councilmember Robert C. White, Jr. Councilmember Janeese Lewis George
+_____________________________
+Councilmember Zachary Parker
+A BILL
+_________________________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+_________________________
+1 To require the Mayor to establish 5-year targets for housing production and affordable housing
+2 and track progress towards housing targets on a quarterly basis; and to establish
+3 procedures for analysis and remedy for any Planning Area that does not meet a housing
+4 target.
+5
+6 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+7 act may be cited as the “Fair Share Housing Targets Act of 2025”.
+8 Sec. 2. Definitions.
+9 For the purposes of this act, the term:
+10 (1) "Affordable housing" means income- and rent-restricted housing supported or
+11 subsidized by local and federal programs for households earning less than 80 percent of the area
+12 median income, as that term is defined in Section 2(1) of the Housing Production Trust Fund Act
+13 of 1988, effective March 16, 1989 (D.C. Law 7-202; D.C. Official Code § 42-2801(1)).
+1
+
+14 (2) "Housing target" means a housing production or affordable housing target
+15 established pursuant to paragraphs (B) and (C) of section 3(a)(1).
+16 (3) "Planning Area" means a geographic area defined in Volume 2 of the District
+17 of Columbia Office of Planning's 2021 Comprehensive Plan and the Comprehensive Plan
+18 Amendment Act of 2021, effective August 21, 2021 (D.C. Law 24-20; 68 DCR 6918).
+19 (4) "Target date" means the date 5 years from the effective date of a housing
+20 target established pursuant to section 3.
+21 Sec. 3. Housing production and affordable housing targets.
+22 (a) No later than 180 days from the effective date of this section, and every 5 years
+23 thereafter, the Mayor shall publish and transmit to Council housing targets for each Planning
+24 Area of the District, which shall include:
+25 (1) A housing production target encompassing all new housing units produced;
+26 (2) An affordable housing target; and
+27 (3) The effective start date of the targets, which shall be within the same calendar
+28 year as the date of transmittal to Council;
+29 (4) The proposed methodology to track and enumerate units that shall count
+30 towards the fulfillment of the housing targets.
+31 (A) The addition of new affordable housing covenants on existing units
+32 may be counted towards fulfillment of the affordable housing target as established in subsection
+33 (a)(1) but shall not be counted towards fulfillment of the housing production target as established
+34 in subsection (a)(2).
+2
+
+35 (B) Subsidy or other support provided to preserve an existing affordable
+36 housing unit shall not be counted towards fulfillment of the affordable housing target as
+37 established in subsection (a)(2).
+38 (b) The Mayor shall maintain a publicly accessible dashboard to track progress towards
+39 the fulfillment of housing targets established under this section, which shall be updated no less
+40 than once per quarter.
+41 (1) The dashboard established pursuant to this subsection shall provide
+42 information about the affordability level of units produced in each planning area and shall
+43 distinguish between affordable housing created as a result of new construction and new
+44 affordable housing created through subsidy or the establishment of a covenant on an existing
+45 unit.
+46 (c) The District of Columbia Auditor shall audit the information provided by the Mayor
+47 pursuant to subsection (b) no less than once during each 5-year period.
+48 Sec. 4. Fair share analysis and remedy.
+49 (a) This section applies to any Planning Area in which:
+50 (1) Housing production has not met a target established pursuant to section 3 by
+51 the target date; or
+52 (2) As of January 1, 2026, has not had sufficient units of housing produced within
+53 its boundaries to meet targets established in Mayor's Order 2019-036 and Figure 6 or Appendix 2
+54 of the "Housing Equity Report: Creating Goals for Areas of Our City", published October 2019.
+55 (b)(1) For each Planning Area subject to this section, the Mayor shall, within 120 days of
+56 the target date, select a qualified independent evaluator to assess impediments to housing
+57 production in the Planning Area. The independent evaluator shall transmit to Council and the
+3
+
+58 Mayor a report on impediments that resulted in the Planning Area's failure to meet housing
+59 production and affordable housing targets, and proposed remedies.
+60 (2) The independent evaluator selected by the Mayor pursuant to this subsection
+61 may petition the Zoning Commission, on behalf of the District, for amendments within or related
+62 to the Planning Area, pursuant to Chapters 4, 5, and 13 of Subtitle X of Title 11 of the District of
+63 Columbia Municipal Regulations.
+64 (c) For any Planning Area subject to this section, the Mayor is authorized to submit to
+65 Council any amendments to the relevant Planning Area Element, Future Land Use Map, or
+66 general elements that may be necessary to reduce barriers to housing production in the Planning
+67 Area. Any such amendments may be submitted to Council at any time, notwithstanding the
+68 regular cycle of Comprehensive Plan amendments and rewrites as set forth in section 2(a) of the
+69 Comprehensive Plan Amendment Act of 2021, effective August 21, 2021 (D.C. Law 24-20, 10A
+70 DCMR § 2500 et seq.).
+71 Sec. 5. Fiscal impact statement.
+72 The Council adopts the fiscal impact statement in the committee report as the fiscal
+73 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+74 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+75 Sec. 6. Effective date.
+76 This act shall take effect after approval by the Mayor (or in the event of veto by the
+77 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+78 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+79 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+80 Columbia Register.
+4

@@ -1,0 +1,1118 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3
+4 26-164
+5
+6
+7 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+8
+9 ___________
+10
+11
+12 To amend the Rental Housing Act of 1985 to provide for expedited review of eviction
+13 proceedings stemming from dangerous crime or crime of violence; to amend Chapter 15
+14 of Title 16 of the District of Columbia Official Code to reduce a pre-eviction-hearing
+15 summons period, to provide courts that hear eviction cases with discretion not to dismiss
+16 cases for certain deficiencies, and to codify and update processes for the deposit of rental
+17 payments into the court registry during eviction cases for nonpayment; to amend the
+18 Rental Housing Act of 1985 to grant courts discretion to determine when equities require
+19 the dismissal of a claim by a housing provider, to reduce the pre-filing notice period in
+20 cases seeking eviction for nonpayment, to codify and update procedures for pre-filing
+21 notice to tenants in eviction cases, and to provide for expedited review of eviction
+22 proceedings stemming from dangerous crime or crime of violence; to amend the Rental
+23 Housing Conversion and Sale Act of 1980 to reorganize various existing provisions, to
+24 clarify the applicability of the Tenant Opportunity to Purchase Act of 1980 (“TOPA”) in
+25 circumstances such as the disposition of intestate decedents’ property, to allow for the
+26 entry and exit of non-controlling investors in property ownership entities without
+27 triggering TOPA, to exempt new construction for the 15 years after construction and
+28 certain covenanted affordable housing projects from TOPA, to establish a system of
+29 certified TOPA tenant support providers, to streamline tenant notice provisions and
+30 consolidate certain tenant grievance procedures, , to establish protections from
+31 interference in TOPA processes and enforcement mechanisms, to require DHCD to
+32 develop certain TOPA-related form documents and receive filings of certain TOPA
+33 processes, to define permissible consideration for tenant assignment of TOPA rights, and
+34 to direct DHCD to maintain a public TOPA database; to amend Chapter 48 of Title 47 of
+35 the District of Columbia Official Code to clarify the applicability of recent changes to the
+36 District low-income housing tax credit program; to amend the Inclusionary Zoning
+37 Implementation Amendment Act to facilitate the resale of units; to amend the District of
+38 Columbia Housing Authority Act of 1999 to revise the structure of the board of the
+39 Authority, modify the schedule for annual financial accountability reports, provide
+40 flexibility for board and executive director training, update the public housing resident
+41 bill of rights, and add protections for residents whose public housing properties undergo
+1
+
+ENGROSSED ORIGINAL
+42 federal subsidy repositioning; to amend the District of Columbia Government
+43 Comprehensive Merit Personnel Act of 1978 to adjust Housing Authority board stipends;
+44 and to amend the Confirmation Act of 1978 to conform terminology regarding the
+45 Housing Authority board.
+46
+47 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+48 act may be cited as the “Rebalancing Expectations for Neighbors, Tenants, and Landlords
+49 (RENTAL) Act of 2025”.
+50 TITLE I. RESERVED
+51 TITLE II. PUBLIC SAFETY EVICTIONS
+52 Sec. 201. Section 501(c) of the Rental Housing Act of 1985 effective July 17, 1985 (D.C.
+53 Law 6-10; D.C. Official Code § 42-3505.01(c)), is amended as follows:
+54 (a) The existing text is redesignated as paragraph (1).
+55 (b) Paragraph (1) is amended by striking the phrase “The housing provider” and inserting
+56 the phrase “Except as otherwise provided in paragraph (2)(B) of this subsection, the housing
+57 provider” in its place.
+58 (c) A new paragraph (2) is added to read as follows:
+59 “(2)(A) In each case pursuant to paragraph (1) of this subsection filed after the
+60 effective date of the Rebalancing Expectations for Neighbors, Tenants, and Landlords
+61 (RENTAL) Act of 2025, as approved by the Committee on Housing on July 9, 2025 (Committee
+62 print of Bill 26-164), in which the alleged illegal act within the rental unit or the housing
+63 accommodation would constitute a dangerous crime as defined in D.C. Official Code § 23-
+64 1331(3) or a crime of violence as defined in D.C. Official Code § 23-1331(4):
+2
+
+ENGROSSED ORIGINAL
+65 “(i) The housing provider shall serve on the tenant a 10-day notice
+66 to vacate.
+67 “(ii) The court shall hold a hearing on an expedited basis within 20
+68 days following the filing of the complaint.
+69 “(B) In addition to the defense listed in subsection (c-1) of this section, it
+70 shall be a defense to an action for possession under this subsection based on allegations of
+71 dangerous crime or crime of violence if:
+72 “(i) The tenant did not know or did not have reason to know that
+73 criminal activity was occurring or would likely occur on the premises; or
+74 “(ii) The tenant had done everything that could reasonably be
+75 expected under such circumstances to prevent the commission of violent criminal activity, such
+76 as requesting the housing provider remove the offending household member’s name from the
+77 lease, reporting prior criminal activity to the police, seeking assistance from social service or
+78 counseling agencies, or denying permission, if feasible, for the offending household member to
+79 reside in the dwelling unit.
+80 “(C) If the court determines by a preponderance of evidence that the tenant
+81 or occupant engaged in a dangerous crime as defined in D.C. Official Code § 23-1331(3) or a
+82 crime of violence as defined in D.C. Official Code § 23-1331(4), the Court shall enter a final
+83 judgment for possession and issue a writ of restitution that mandates the eviction of the tenant or
+84 occupant.
+85 TITLE III. COURT EVICTION PROCEDURES
+3
+
+ENGROSSED ORIGINAL
+86 Sec. 301. Section 501 of the Rental Housing Act of 1985, effective July 17, 1985 (D.C.
+87 Law 6-10; D.C. Official Code § 42-3505.01), is amended as follows:
+88 (a) Subsection (a)(4) is amended by striking the phrase “shall dismiss” and inserting the
+89 phrase “may, in its discretion when weighing the prejudice to all parties, dismiss” in its place.
+90 (b) Subsection (a-1) is amended as follows:
+91 (1) Paragraph (1) is amended by striking the phrase “at least 30 days” and
+92 inserting the phrase “at least 10 days” in its place.
+93 (2) A new paragraph (3) is added to read as follows:
+94 “(3) The notice required by this subsection shall be provided as follows:
+95 “(A) By certified mail, or delivery service providing delivery tracking
+96 confirmation, return receipt requested; and
+97 “(B) By hand delivery to the rental unit or by posting on the front door of
+98 the rental unit.”.
+99 Sec. 302. Chapter 15 of Title 16 of the District of Columbia Official Code is amended as
+100 follows:
+101 (a) The table of contents is amended by adding a new section designation to read as
+102 follows:
+103 “§ 16-1502a. Protective orders and court registry payments.”.
+104 (b) Section 16-1501(d) is amended by striking the phrase “shall dismiss the complaint.”
+105 and inserting the phrase “may, in its discretion when weighing the prejudice to all parties,
+106 dismiss the complaint or provide leave for the complainant to correct any deficiencies.” in its
+4
+
+ENGROSSED ORIGINAL
+107 place.
+108 (c) Section 16-1502(a) is amended by striking the phrase “30 days, excluding Sundays
+109 and legal holidays” and inserting the phrase “at least 14 days” in its place.
+110 (d) A new § 16-1502a is added to read as follows:
+111 “§ 16-1502a. Protective orders and court registry payments.
+112 “(a) Any party to a case for restitution of possession based on nonpayment of rent may
+113 move for the entry of a protective order that prospectively requires the defendant to deposit rent
+114 into the court’s registry, in regular monthly intervals, through the conclusion of the case.
+115 “(b) Parties may enter into, vacate, or modify protective orders by consent with the
+116 approval of the court at any time.
+117 “(c) If a motion for a protective order is made before or during the initial hearing in the
+118 case, the court shall address the motion at the initial hearing as follows:
+119 “(1) The court shall inform the defendant of common protective order defenses
+120 that may justify a reduction in protective order monthly amounts, including current violations of
+121 the housing code and disputes over the calculation of the monthly rent amount asserted in the
+122 complaint. The court shall inform the defendant of the possible consequences of knowingly
+123 asserting baseless defenses.
+124 “(2) If the defendant disputes the plaintiff’s assertion of the monthly rent amount
+125 for any reason other than alleged current housing code violations, then the court may issue a
+126 protective order during the initial hearing or may schedule a hearing to determine if the equities
+127 merit the entry of an order. Failure to raise a defense to the monthly rent amount at the initial
+5
+
+ENGROSSED ORIGINAL
+128 hearing shall not constitute a waiver of the defendant’s right to make a motion for adjustments to
+129 the monthly protective order amount after the initial hearing.
+130 “(3) If the only defense to the protective order is based on allegations of current
+131 violations of the housing code, then the court shall issue a preliminary protective order during the
+132 initial hearing and shall schedule a hearing thereafter on any alleged current violations of the
+133 housing code or other defenses that may merit an adjustment to the preliminary protective order.
+134 In determining the amount of the preliminary protective order, the court is not required to
+135 conduct an evidentiary proceeding as part of the initial hearing, but may in its discretion consider
+136 evidence that the parties are prepared to present.
+137 “(d) If a motion for protective order is made after the initial hearing, then the court shall
+138 schedule a hearing to determine if the equities merit the entry of an order.”.
+139 TITLE IV. TENANT OPPORTUNITY TO PURCHASE ACT
+140 Sec. 401. The Rental Housing Conversion and Sale Act of 1980, effective September 10,
+141 1980 (D.C. Law 3-86; D.C. Official Code § 42-3404.01 et seq.), is amended as follows:
+142 (a) A new section 401a is added to read as follows:
+143 “Sec. 401a. Definitions.
+144 “(1) “Department” means the Department of Housing and Community
+145 Development, or any successor agency.
+146 “(2) “Owner” means:
+147 “(A) Any person, any one of a number of persons, or any entity in whom
+148 is vested all or any part of the beneficial ownership, dominion, or title of a housing
+6
+
+ENGROSSED ORIGINAL
+149 accommodation; or
+150 “(B) The committee, conservator, or legal guardian of a person described
+151 in subparagraph (A) of this paragraph a who is non compos mentis, a minor child, or otherwise
+152 under a disability.
+153 “(3)(A) “Tenant” means:
+154 “(i) Any person or persons who, under the terms of a current or
+155 expired written lease or other written rental agreement , are entitled to occupy the housing
+156 accommodation and are liable to the owner for the payment of rent pursuant to the current or
+157 expired lease or other written rental agreement; or
+158 “(ii) Any person identified to the owner pursuant to the tenant
+159 identification procedures provided in section 403(b)(3).
+160 “(B) Nothing in this paragraph shall be construed to limit the definition of
+161 “tenant” for purposes of any other law.
+162 “(4) “Tenant support provider” means:
+163 “(A) Any person or organization certified by the Mayor pursuant to
+164 section 402c; or
+165 “(B) The Office of the Tenant Advocate, as established by section 2065 of
+166 the Office of the Chief Tenant Advocate Establishment Act of 2005, effective October 20, 2005
+167 (D.C. Law 16-33; D.C. Official Code § 42-3531.05).
+168
+169 (b) Section 402 (D.C. Official Code § 42-3404.02) is amended as follows:
+7
+
+ENGROSSED ORIGINAL
+170 (1) The section title is amended to read as follows:
+171 “Sec. 402. Tenant opportunity to purchase.”.
+172 (2) Subsections (a-2)(1), (b), (c), and (d) are repealed.
+173 (3) A new subsection (e) is added to read as follows:
+174 “(e)(1) Within 5 days after a request by any person, the Mayor shall provide:
+175 “(A) Written certifications, including the date of receipt, of any notices
+176 received pursuant to titles IV and V of this act, or, if the Mayor has not received notices
+177 regarding a property specified by the requestor, certification of such non-receipt; and
+178 “(B) Copies of the notices.
+179 “(2) The certifications may be recorded among the records of the Recorder of
+180 Deeds and shall be exempt from filing fees.”.
+181 (c) A new section 402b is added to read as follows:
+182 “Sec. 402b. “Sale” defined; excluded properties.
+183 “(a) For the purposes of subchapters IV and V of this chapter, the terms “sell” or “sale”
+184 shall include:
+185 “(1) The execution of any agreement pursuant to which the owner of the housing
+186 accommodation agrees to some, but not all, of the following:
+187 “(A) Relinquishes possession of the property;
+188 “(B) Extends an option to purchase the property for a sum certain at the
+189 end of the assignment, lease, or encumbrance and provides that a portion of the payments
+190 received pursuant to the agreement is to be applied to the purchase price;
+8
+
+ENGROSSED ORIGINAL
+191 “(C) Assigns all rights and interests in all contracts that relate to the
+192 property;
+193 “(D) Requires that the costs of all taxes and other government charges
+194 assessed and levied against the property during the term of the agreement are to be paid by the
+195 lessee either directly or through a surcharge paid to the owner;
+196 “(E) Extends an option to purchase an ownership interest in the property,
+197 which may be exercised at any time after execution of the agreement but shall be exercised
+198 before the expiration of the agreement; and
+199 “(F) Requires the assignee or lessee to maintain personal injury and
+200 property damage liability insurance on the property that names the owner as the additional
+201 insured.
+202 “(2) A master lease which meets some, but not all, of the factors described in
+203 paragraph (1) of this subsection or which is similar in effect;
+204 “(3) The transfer of an ownership interest in a corporation, partnership, limited
+205 liability company, association, trust entity formed under D.C. Code § 29-1201.01 et seq. or
+206 similar statutory provision of another jurisdiction, or other entity which owns an accommodation
+207 as its sole or principal asset, which, in effect, results in the transfer of the majority of the
+208 ownership interests in the accommodation pursuant to paragraph (1) of this section. For the
+209 purposes of this sub-paragraph, the term[:]
+210 “(1) “Principal asset” means the value of the accommodation relative to the
+211 entity’s other holdings; and the term
+9
+
+ENGROSSED ORIGINAL
+212 “(2) “Majority of the ownership interests” means the ownership interests
+213 associated with the majority of the value of the capital, profits, and losses of the entity in which
+214 the interests are being transferred.
+215 “(b) For the purposes of titles IV and V of this act, and notwithstanding anything to the
+216 contrary herein, the term “sell” or “sale” shall not include the following, provided that a Notice
+217 of Transfer is sent to tenants for these exemptions pursuant to section 403a:
+218 “(1)(A) A transfer, even though for consideration, by a decedent's estate to
+219 members of the decedent's family or a legatee.
+220 “(B) For purposes of this paragraph, the term “members of the decedent’s
+221 family” means:
+222 “(i) A surviving spouse, or domestic partner as defined in section
+223 2(3) of the Health Care Benefits Expansion Act of 1992, effective June 11, 1992 (D.C. Law 9-
+224 114; D.C. Official Code § 32-701(3)), of the decedent, lineal descendants of the decedent, or
+225 spouses of lineal descendants of the decedent;
+226 “(ii) A trust for the primary benefit of the persons referred to in
+227 sub-paragraph (i) and;
+228 “(iii) A partnership, corporation, or other entity controlled by the
+229 individuals referred to in sub-paragraphs (i) and (ii).
+230 “(2) An inter-vivos transfer, even though for consideration, between spouses,
+231 parent and child, siblings, grandparent and grandchild, or domestic partners as defined in section
+232 2(3) of the Health Care Benefits Expansion Act of 1992, effective June 11, 1992 (D.C. Law 9-
+10
+
+ENGROSSED ORIGINAL
+233 114; D.C. Official Code § 32-701(3));
+234 “(3) A transfer of legal title or an interest in an entity holding legal title to a
+235 housing accommodation pursuant to a bona fide deed of trust or mortgage, and thereafter any
+236 transfer by foreclosure sale or deed in lieu of foreclosure pursuant to a bona fide deed of trust or
+237 mortgage;
+238 “(4) A transfer of ownership interests or series of transfers of ownership interests
+239 between or among existing owners of a housing accommodation, or within an entity that directly
+240 or indirectly owns the housing accommodation, that reallocates ownership interests but does not
+241 result in the admission of a new unrelated third-party owner;
+242 “(5) A tax sale or transfer pursuant to tax foreclosure;
+243 “(6) A bankruptcy sale;
+244 “(7) Any transaction involving accommodations otherwise subject hereto
+245 expressly contemplated by a registration statement filed with the Securities and Exchange
+246 Commission prior to February 22, 1994;
+247 “(8) Any transfer of a property directly caused by a change in the form of the
+248 entity owning the property; provided, that the transfer is without consideration, including a
+249 transfer of interests in an entity to an entity under § 29-204.06;
+250 “(9) The transfer of ownership interests in a corporation, partnership, limited
+251 liability company, association, statutory trust entity formed under D.C. Official Code § 29-
+252 1201.01 et seq. or similar provision of another jurisdiction, or other entity that owns an
+253 accommodation; provided, that the sole purpose of the transfer is to admit one or more limited
+11
+
+ENGROSSED ORIGINAL
+254 partners or investor members who make capital contributions at the time of settlement or allow
+255 for the exit of one or more limited partners or investor members who have made capital
+256 contributions, , and:
+257 “(A) Any new limited partners or investors will receive, and any exiting
+258 limited partner or investor members received, tax benefits pursuant to section 42 of the United
+259 States Internal Revenue Code of 1986 approved October 22, 1986 (100 Stat. 2189; 26 U.S.C.
+260 § 42), or a comparable District program; or
+261 “(B) Before and after the transfer, the entity is controlled, directly or
+262 indirectly, by the same person or entity;
+263 “(10) A transfer of title to the housing accommodation to an entity under § 29-
+264 204.06;
+265 “(11) A transfer of bare legal title into a revocable trust, without actual
+266 consideration for the transfer, where the transferor is the current beneficiary of the trust pursuant
+267 to Section 302(17) of the District of Columbia Deed Recordation Tax Act, approved March 2,
+268 1962 (76 Stat. 11; D.C. Official Code 42-1102(17));
+269 “(12) A transfer of the housing accommodation to a named beneficiary of a
+270 revocable trust by reason of the death of the grantor of the revocable trust, pursuant to Section
+271 302 of the District of Columbia Deed Recordation Tax Act, approved March 2, 1962 (76 Stat.
+272 11; D.C. Official Code 42-1102);
+273 “(13) A transfer of the housing accommodation by the trustee of a revocable trust
+274 if the transfer would otherwise be excluded under this chapter if made by the grantor of the
+12
+
+ENGROSSED ORIGINAL
+275 revocable trust, pursuant to Section 302(19) of the District of Columbia Deed Recordation Tax
+276 Act, approved March 2, 1962 (76 Stat. 11; D.C. Official Code 42-1102(19));
+277 “(14) A transfer pursuant to court order or court-approved settlement;
+278 “(15) A transfer by eminent domain or under threat of eminent domain;
+279 “(16) A transfer of interest in an entity that owns a housing accommodation or a
+280 transfer of title to a housing accommodation, if each of the following conditions is satisfied:
+281 “(A) The credit period, as defined in section 42 of the United States
+282 Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2189; 26 U.S.C. § 42)
+283 ("IRC"), for the housing accommodation has ended;
+284 “(B) Immediately prior to the transfer the housing accommodation is
+285 subject to:
+286 “(i) An extended low-income housing commitment, as that term is
+287 defined in Section 42(h)(6)(B) of the IRC (100 Stat. 2189; 26 U.S.C. § 42(h)(6)(B)); or
+288 “(ii) A comparable restrictive covenant as a result of a federal or
+289 District program with occupancy, rent, and income requirements at least as restrictive as under
+290 section 42 of the IRC;
+291 “(C) Before and after the transfer, the owner of the housing
+292 accommodation is controlled, directly or indirectly, by the same person or entity; and
+293 “(D) Immediately following the transfer, the housing accommodation is
+294 for a term of not less than 10 years subject to an existing or new extended low-income housing
+295 commitment or a comparable restrictive covenant as a result of a federal or District program with
+13
+
+ENGROSSED ORIGINAL
+296 occupancy, rent and income requirements at least as restrictive as under section 42 of the IRC.
+297 “(17) A transfer of interest in an entity that owns a housing accommodation or a
+298 transfer of title to a housing accommodation, the sole purpose of which is to qualify for and enter
+299 into a new credit period, as defined in section 42 of the IRC, for purposes of the rehabilitation of
+300 the housing accommodation; provided that, before and after the transfer, the owner of the
+301 housing accommodation is controlled, directly or indirectly, by the same person or entity.
+302 “(18) A sale or other transfer of interest in a property owned by the District of
+303 Columbia Housing Authority;
+304 “(19) A sale or other transfer of interest in a property owned by, licensed as a
+305 hospital, convent, monastery, skilled nursing home, memory care home, assisted living home,
+306 senior personal care independent living home, extended care facility, or convalescent or
+307 rehabilitation home, or in a dormitory owned or leased by an educational institution;
+308 “(20) A sale or other transfer of interest in a new building that has completed
+309 construction, as evidenced by a permanent certificate of occupancy for a new multifamily
+310 building, within the 15 years before the date of sale; or
+311 “(21)(A)The sale or other transfer of a building in which the buyer enters into a
+312 binding covenant, recorded with the Recorder of Deeds on the same day as the day of sale or
+313 other transfer of the building, to maintain at least 51% of the housing units in the building at no
+314 greater than 80% area median income or median family income for a period no less than 20 years
+315 following the date of transferthat:
+316 “(i) At the time of the sale agreement, the purchaser documents the
+14
+
+ENGROSSED ORIGINAL
+317 intended affordability covenant and includes the terms of the covenant in the Notice of Transfer;
+318 and
+319 “(ii) If the purchaser determines that available financing would
+320 allow them to complete a purchase but not adhere to the intended affordability covenant, the
+321 purchase would be considered a sale and tenants must receive an Offer of Sale and the
+322 opportunity to exercise their rights under this act.
+323 “(B) All tenants legally residing in the property at the time of the sale or
+324 transfer shall be entitled to:
+325 “(i) Remain in their residences in accordance with their respective
+326 leases without such residence being deemed in violation of the covenant; and
+327 “(ii) Continued rents and rent increases as would have been
+328 allowed under the terms of their respective leases at the time of sale.
+329 “(C) Upon a unit becoming vacant, the purchaser is required to convert
+330 such unit to comply with the affordability covenant pursuant to this paragraph.
+331 “(D) The Mayor shall issue regulations to establish the terms of the
+332 covenant.
+333 “(c) The burden of proof to establish that a property or transfer is exempt from the
+334 requirements of subchapters IV and V of this chapter shall be on the owner.
+335 “(d)(1) Before an individual enters into a lease for a rental unit located in a housing
+336 accommodation that is not subject to the tenant opportunity to purchase based on subsection
+337 (b)(20) of this section, the owner of the housing accommodation shall provide written notice to
+15
+
+ENGROSSED ORIGINAL
+338 the individual regarding such exemption.
+339 “(2) The owner of each housing accommodation that becomes subject to
+340 subsection (b)(20) on the effective date of the Rebalancing Expectations for Neighbors, Tenants,
+341 and Landlords (RENTAL) Act of 2025, as approved by the Committee on Housing on July 9,
+342 2025 (Committee print of Bill 26-164), shall provide written notice within 90 days after such
+343 date to all tenants of the housing accommodation regarding the change in applicability.
+344 “(3) Failure of the owner of a housing accommodation to provide proper notice
+345 under this subsection shall not affect the validity of an exemption from the tenant opportunity to
+346 purchase applicable to the housing accommodation.”.
+347 (d) A new section 402c is added to read as follows:
+348 “Sec. 402c. Tenant support providers.
+349 “(a) The Mayor shall establish a certification process for tenant support providers, which
+350 shall be selected based on expertise and ability to counsel tenants who seek to exercise their
+351 rights under this subchapter, and regarding:
+352 “(1) The formation and governance of tenant organization and other legal and
+353 collective ownership structures,
+354 “(2) Technical support services for first-time homeowners;
+355 “(3) Obtaining financing for the purchase of Real Properties; or
+356 “(4) Assisting in the process of closing on property transactions.
+357 “(b) The Department shall maintain a list of certified tenant support providers, with
+358 contact information for each, on a publicly accessible website.
+16
+
+ENGROSSED ORIGINAL
+359 “(c) Certification as a tenant support provider shall be valid for 4 years.
+360 “(d) A tenant support provider shall not:
+361 “(1) Act in a manner that is adverse to the interests of a tenant occupying a
+362 property subject to this title;
+363 “(2) Serve a tenant occupying a property in which the tenant support provider, or
+364 any employee thereof, may have a present or future financial interest.
+365 “(e) The Mayor shall promptly investigate any complaint alleging that a tenant support
+366 provider has a conflict of interest or has failed to comply with the requirements of this
+367 subchapter. If after the Mayor determines that a tenant support provider has a conflict of interest
+368 or has failed to comply with the requirements of this title, the Mayor may limit, suspend, or
+369 revoke that tenant support provider’s certification.”.
+370 (e) Section 403 (D.C. Official Code § 42-3404.03) is amended as follows:
+371 (1) The lead-in language is redesignated as subparagraph (a) and amended to read
+372 as follows:
+373 “(a) An offer of sale shall include, at minimum:”.
+374 (2) Paragraph (2) is amended to read as follows:
+375 “(2) A statement that the tenant has the right to purchase the accommodation
+376 under this chapter and a notice that the tenants are entitled to no-cost technical assistance and
+377 training on their rights provided by a tenant support provider approved by the Mayor;”.
+378 (3) Paragraph (4) is amended by striking the phrase “floor plan.” and inserting the
+379 phrase “floor plan;” in its place.
+17
+
+ENGROSSED ORIGINAL
+380 (4) A new paragraph (5) is added to read as follows:
+381 “(5) The name and contact information of all tenant support providers certified by
+382 the Mayor pursuant to section 402c as of the date of issuance of the offer of sale; provided, that if
+383 no such organizations have been certified, the owner will be deemed in compliance with this
+384 paragraph.
+385 (5) A new subsection (b) is added to read as follows:
+386 “(b)(1) The owner shall provide each tenant with a written copy of the offer of sale by
+387 certified mail, a delivery service providing delivery tracking confirmation, or hand delivery.
+388 Notice to tenants shall be sent to their address at the housing accommodation unless a tenant has
+389 supplied in writing to the owner a different address for notice.
+390 “(2) On the same date as copies of the offer of sale are sent to tenants, the owner
+391 shall provide the Mayor with a written copy of the offer of sale and a signed statement
+392 confirming that copies of the offer of sale were provided to each tenant. The offer of sale shall be
+393 sent to the mayor by registered or certified mail, return receipt requested, by commercial
+394 overnight delivery service that maintains proof of delivery, by hand delivery, or by any other
+395 method designated by the Department. If the owner delivers the notification to the Mayor by
+396 hand delivery, the Owner shall obtain a date stamped copy demonstrating the Mayor's receipt.
+397 “(3) If the housing accommodation includes occupied units that are not the subject
+398 of a current or expired written lease or rental agreement, then on the same date as copies of the
+399 offer of sale are sent to tenants, the owner shall post at each building entrance, or unit entrance if
+400 the units do not have a common building entrance, a notice, in a form to be developed by the
+18
+
+ENGROSSED ORIGINAL
+401 Mayor, that an offer is being mailed to tenants as defined in section 401a(6) and that residents
+402 who have a right to occupy the accommodation pursuant to an oral lease must notify the owner
+403 or a designated representative and provide a rent receipt or other proof of tenancy no more
+404 than15 days after receipt of the offer of sale.”.
+405 (f) A new section 403a is added to read as follows:
+406 “Sec. 403a. Notice of transfer.
+407 “(a) If an opportunity to purchase is not provided pursuant to section 402, the owner shall
+408 provide the Mayor written notice of a transfer of an interest (“Notice of Transfer”) in a housing
+409 accommodation or of any ownership interest in a corporation, partnership, limited liability
+410 company, association, entity formed under D.C. Code § 29-1201.01 et. seq. or similar statutory
+411 provision of another jurisdiction, or other entity which owns a housing accommodation.
+412 “(b) Tenants shall have 45 days after the date of receipt of the Notice of Transfer to file a
+413 petition for relief pursuant to sections 503 or 503a.
+414 “(c) For a transfer that is not a sale pursuant to section 402b(b), in addition to the
+415 requirement of subsection (a), an owner shall provide copies of the notice of transfer to each
+416 tenant by certified mail or delivery service providing delivery tracking confirmation. Notice to
+417 tenants shall be sent to their address at the housing accommodation unless a tenant has supplied
+418 in writing to the owner a different address for notice.
+419 “(d) The notice of transfer shall be substantially in the form prescribed by the Mayor and
+420 shall provide at a minimum:
+421 “(1) A statement of the rights of the tenant or the tenant organization under this
+19
+
+ENGROSSED ORIGINAL
+422 chapter;
+423 “(2) An accurate description of the transfer, including whether the transfer will
+424 result in any changes in management, current rents, or any applicable affordability requirements
+425 for the housing accommodation;
+426 “(3) The date of the proposed transfer; and
+427 “(4) The reason, if any, why the owner asserts the transfer may not constitute a
+428 sale as defined in section 402b.
+429 “(e) In addition to any other requirements for the form of the Notice of Transfer
+430 prescribed by this section, a notice of transfer for a housing accommodation to be transferred for
+431 the purposes of receiving tax benefits pursuant to section 42 of the United States Internal
+432 Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2189; 26 U.S.C. § 42), or a
+433 comparable District program, shall include a description of the applicable federal or District
+434 subsidy, and a description of the steps in the transaction employed by the developer to avail itself
+435 of the subsidy.
+436 “(f) The owner’s failure to provide the notice of transfer, or the provision of a notice that
+437 is fraudulent or contains material misrepresentations, shall create a rebuttable presumption that
+438 the transfer constitutes a sale for purposes of titles IV and V of this act.
+439
+440 “(g) A tenant or tenant organization shall be precluded from asserting any rights under
+441 titles IV and V of this act for a transfer exempt under subsection 402b(b)(1).
+442 “(h) Any change in the transfer agreement that would invalidate a claim of exemption
+20
+
+ENGROSSED ORIGINAL
+443 shall be reported in writing to the Mayor, substantially in a form prescribed by the Mayor, and
+444 proper notice shall be provided to the tenant or tenant organization.
+445 (g) A new section 403b is added to read as follows:
+446 “Sec. 403b. Interference prohibited.
+447 “(a) Any person that contacts a tenant organization or individual tenant related to an offer
+448 or negotiation subject to this title shall disclose:
+449 “(1) The names, residence and business addresses of each person with direct,
+450 indirect, legal, or beneficial ownership of a governance or total distributional interest of the
+451 entity as provided for in § 29-102.01(a)(6) and § 29-102.01(a)(7); and
+452 “(2) Any financial connection to the property.
+453 “(b) Neither the owner nor the third party purchaser or any other agent or party with a
+454 financial or other interest in the accommodation shall interfere with the tenants’ exercise of their
+455 rights under this title. Interference includes:
+456 “(1) Attempting to organize the tenants in an effort to persuade the tenants to
+457 waive or exercise rights in any particular manner without fully disclosing the interested party’s
+458 financial or other interest in the outcome;
+459 “(2) Failing to disclose that tenants have a right to no-cost training on their rights
+460 under this subchapter, as well as the right to a consultation with a tenant support provider.”.
+461 (h) Section 404 (D.C. Official Code § 42-3404.04) is amended to read as follows:
+462 “Sec. 404. Third party rights.
+21
+
+ENGROSSED ORIGINAL
+463 “(a) The right of a third party to purchase an accommodation is conditional upon exercise
+464 of tenant rights under this title. The time periods for negotiation of a contract of sale and for
+465 settlement under this title are minimum periods, and the owner may afford the tenants a
+466 reasonable extension of such period, without liability under a third party contract.
+467 “(b) Third parties and their agents shall not interfere with the tenants’ right to organize or
+468 otherwise exercise their rights under this title. Third parties may negotiate with tenants for the
+469 assignment or waiver of rights pursuant to section 406, provided that the third party first
+470 discloses:
+471 “(1) Their identity and that they are interested in purchasing the accommodation;
+472 “(2) That they are not tenant organizers as defined in section 506(a)(2), and do not
+473 represent the interests of the tenants; and
+474 “(3) That the tenants have the right to have a training with certified tenant support
+475 provider before engaging in negotiations.
+476 “(c) Third party purchasers are presumed to act with full knowledge of tenant rights and
+477 public policy under this subchapter.”.
+478 (i) A new section 405a is added to read as follows:
+479 “Sec. 405a. Template agreements and contracts; filing with department.
+480 “(a) No agreement or contract entered into under this subchapter, including development
+481 agreements, shall be deemed valid or enforceable unless the information specified in this section
+482 is filed with the Department within 30 days after signature by all parties.
+483 “(1) Information submitted to the Department shall include:
+22
+
+ENGROSSED ORIGINAL
+484 “(A) Address and ward;
+485 “(B) Unit count;
+486 “(C) Sales price;
+487 “(D) Information related to rent-stabilization;
+488 “(E) Information related to income-restricted units and subsidies; and
+489 “(F) Other information as determined by the Department.
+490 “(b) No later than 180 days after the applicability date of this section and pursuant to
+491 Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82
+492 Stat. 1204; D.C. Official Code § 2-501 et seq.), the Department shall establish:
+493 “(1) A standard template for purchase contracts;
+494 “(2) Rules governing the minimum information required to be included in a
+495 purchase contract.
+496 “(c) The use of templates established pursuant to subsection (b) shall not be mandatory
+497 for execution of an agreement governed by this act.”.
+498 (j) Section 406 (D.C. Official Code § 42-3404.06) is amended to read as follows:
+499 “Sec. 406. Exercise or assignment of rights.
+500 “The tenant may exercise rights under this subchapter in conjunction with a third party or
+501 by assigning or selling those rights to any party, whether private or governmental. The exercise,
+502 assignment, or sale of tenant rights may only be for relocation assistance; provided, that for
+503 purposes of this section the relocation assistance shall not exceed the lesser of one year’s rent or
+504 $12,000, adjusted for inflation annually by the Consumer Price Index for all Urban Consumers;
+23
+
+ENGROSSED ORIGINAL
+505 building affordability; compensation for tenant organizing expenses, including reasonable
+506 attorney fees; unit or building improvements pursuant to DCMR § 14-301; and unit or building
+507 energy efficiency improvements. Such an exercise, assignment, or sale may occur at any time in
+508 the process provided in this subchapter and may be structured in any way the tenant, in the
+509 tenant’s sole discretion, finds acceptable.”.
+510 (k) A new section 415 is added to read as follows:
+511 “Sec. 415. TOPA transparency portal.
+512 “(a)(1) Within one year of the applicability date of this section, the Mayor shall establish
+513 and maintain a publicly accessible and searchable database of information pertinent to this title,
+514 which shall include the following information:
+515 “(A) As applicable, from the Offer of Sale:
+516 “(i) Address and ward;
+517 “(ii) Unit count;
+518 “(iii) Reason for notice;
+519
+520 “(iv) Information related to rent-stabilization; and
+521 “(v) Information related to income-restricted units and subsidies;
+522 “(B) Whether a tenant organization has been registered pursuant to section
+523 402a;
+524 “(C) Which purchaser was selected by the tenant association;
+525 “(D) The total duration of the transaction, from offer of sale to final
+24
+
+ENGROSSED ORIGINAL
+526 closing;
+527 “(E) Outcomes negotiated by the tenant association, including
+528 affordability or building improvements;
+529 “(F) Final sales submitted to the Department pursuant to section 405a; and
+530 “(G) Notices of transfer received pursuant to section 403b.
+531 “(2) The Mayor shall not collect or publish this information prior to the closing of
+532 the transaction.
+533 “(3) To the maximum extent practicable, the database established pursuant to this
+534 section shall be integrated with the Public Accessible Rent Control Housing Database as
+535 established in Section 203a of the Rental Housing Act of 1985, effective October 22, 2015 (D.C.
+536 Law 21-36; D.C. Official Code § 42-3502.03c).
+537 “(b) The database established pursuant to subsection (a) shall publish information
+538 received by the Department on or after the date of its establishment. The publishing of historical
+539 information and data shall be subject to additional funding.
+540 “(c) The publishing of any information pursuant to this section does not guarantee the
+541 completeness or accuracy of such information, and shall not create liability on the part of the
+542 District or by any officer or employee thereof for any damages that result from reliance on the
+543 published information.
+544 “(d)(1) Notwithstanding any other provision of District law, unless otherwise prescribed
+545 by this section, information submitted to the Department pursuant to this title shall be deemed
+546 confidential and shall be exempt from disclosure pursuant to section 202 of the District of
+25
+
+ENGROSSED ORIGINAL
+547 Columbia Administrative Procedure Act, effective March 25, 1977 (D.C. Law 1-96; D.C.
+548 Official Code § 2-532).
+549 “(2) The Mayor, pursuant to Title I of the District of Columbia Administrative
+550 Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.),
+551 may issue rules to govern the sharing or publishing of conclusions and analysis derived from
+552 information that is received pursuant to this title.
+553 “(e) Nothing in this section shall be construed to require the public release of any
+554 information that would otherwise be exempt from disclosure under District law, including
+555 proprietary business information, trade secrets, personal financial data, or other protected
+556 material under DC Official Code §§ 2-531 et seq.”.
+557 (l) A new section 416 is added to read as follows:
+558 “Sec. 416. Unlawful acts.
+559 “It shall be unlawful for any person to:
+560 “(1) Coerce a tenant or tenant organization to waive their rights under this
+561 subchapter;
+562 “(2) Retaliate against or harass a tenant seeking to exercise their rights under this
+563 subchapter; or
+564 “(3) Make fraudulent or misleading statements or engage in conduct intended to
+565 prevent a tenant from exercising their rights under this subchapter.”.
+566
+567 (m) Section 503 is amended to read as follows:
+26
+
+ENGROSSED ORIGINAL
+568 “(a) An aggrieved owner, tenant, or tenant organization may seek enforcement of any
+569 right or provision under this chapter through a civil action in law or equity, and, upon prevailing,
+570 may seek an award of costs and reasonable attorney fees. In an equitable action, the public policy
+571 of this chapter favors the waiver of bond requirements to the extent permissible under law or
+572 court rule.
+573 “(b) Any person suffering a loss due to violations of section 416 shall be entitled to
+574 recover, in addition to the amount of actual damages, double the amount of any interest collected
+575 in violation of this chapter, plus any reasonable attorneys’ fees incurred in the collection of that
+576 amount.”.
+577 TITLE V. RESERVED
+578 TITLE VI. DC LOW-INCOME HOUSING TAX CREDIT
+579 Sec. 601. Chapter 48 of Title 47 of the District of Columbia Official Code is amended as
+580 follows:
+581 (a) Section 47-4801(8) is revived as of the effective date of the Rebalancing Expectations
+582 for Neighbors, Tenants, and Landlords (RENTAL) Act of 2025, as approved by the Committee
+583 on Housing on July 9, 2025 (Committee Print of Bill 26-164), and amended to read as follows:
+584 “(8) “Qualified project” means a rental housing development in the District that
+585 receives an allocation of federal low-income housing tax credits under section 42(h)(1) or (4) of
+586 the Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2085; 26 U.S.C. §
+587 42(h)(1) or (4)) after October 1, 2021, and with respect to which an extended low-income
+588 housing commitment pursuant to section 42(h)(6)(B) of the Internal Revenue Code of 1986,
+27
+
+ENGROSSED ORIGINAL
+589 approved October 22, 1986 (100 Stat. 2085; 26 U.S.C. § 42(h)(6)(B)), between the owner of the
+590 rental housing development and the Department is executed on or after October 1, 2021, and
+591 with respect to which the Department issues an eligibility statement on or before September 30,
+592 2024.”.
+593 (b) Section 47-4802(d) is amended by striking the phrase “eligible projects” and inserting
+594 the phrase “qualified projects or eligible projects” in its place.
+595 (c) Section 47-4803 is amended as follows:
+596 (1) Subsection (a)(1) is amended to read as follows:
+597 “(1) An owner of a qualified project or eligible project may be awarded a District
+598 of Columbia low-income housing tax credit with respect to that qualified project or eligible
+599 project. The amount of the credit awarded annually shall not exceed 9% of the project’s qualified
+600 basis, as determined in accordance with paragraph (3) of this subsection.”.
+601 (2) Subsection (b)(1) is amended to read as follows:
+602 “(1) If an owner of a project that was awarded or otherwise granted a District of
+603 Columbia low-income housing tax credit transfers, sells, or assigns the credit to another
+604 taxpayer, pursuant to § 47-4806, the District of Columbia low-income housing tax credit shall
+605 not be taken, pursuant to subsection (c) of this section, against taxes imposed under this
+606 title unless the owner has filed with the Department, in a form determined by the Department, an
+607 affidavit certifying that the value received by the owner of the qualified project or eligible
+608 project was used to ensure financial feasibility of the qualified or eligible project.”.
+609 (3) Subsection (b)(2) is amended by striking the phrase “an eligible project” and
+28
+
+ENGROSSED ORIGINAL
+610 inserting the phrase “a qualified or eligible project” in its place.
+611 (4) Subsection (f)(1) is amended by striking the phrase “to any eligible project”
+612 and inserting the phrase “to any qualified project or eligible project” in its place.
+613 (d) Section 47-4804 is amended as follows:
+614 (1) Subsection (b)(2) is amended by striking the date “October 1, 2025” and
+615 inserting the date “October 1, 2024” in its place.
+616 (2) Subsection (c)(2) is amended by striking the date “October 1, 2025” and
+617 inserting the date “October 1, 2024” in its place.
+618 TITLE VII. RESERVED
+619 TITLE VIII. RESERVED
+620 TITLE IX. FACILITATION OF RESALE OF INCLUSIONARY ZONING UNITS
+621 Sec. 901. Section 107(2) of the Inclusionary Zoning Implementation Amendment Act of
+622 2006, effective March 14, 2007 (D.C. Law 16-275; D.C. Official Code § 6-1041.07(2)), is
+623 amended by striking the phrase “may purchase an inclusionary unit for the purpose of reselling it
+624 to eligible households” and inserting the phrase “may purchase an inclusionary unit, or facilitate
+625 the purchase or sale of an inclusionary unit, for the purpose of reselling the inclusionary unit to
+626 an eligible household” in its place.
+627 TITLE X. RESERVED
+628 TITLE XI. DISTRICT OF COLUMBIA HOUSING AUTHORITY BOARD OF
+629 DIRECTORS
+630 Sec. 1101. The District of Columbia Housing Authority Act of 1999, effective May 9,
+29
+
+ENGROSSED ORIGINAL
+631 2000 (D.C. Law 13-105; D.C. Official Code § 6-201 et seq.), is amended as follows:
+632 (a) Section 2 (D.C. Official Code § 6-201) is amended as follows:
+633 (1) Paragraph (6) is amended to read as follows:
+634 “(6) “Board” means the Board of Commissioners established by section 4a;
+635 provided, that for the purposes of sections 10(h), 12(r), and 21(b), the term “Board” shall include
+636 any prior form in which the Board existed, since the establishment of the Authority pursuant to
+637 this act.”.
+638 (2) Paragraphs (8), (22), and (33) are repealed.
+639 (3) Paragraph (10) is amended by striking the phrase “Resident Council Advisory
+640 Board” and inserting the phrase “Resident Advisory Board” in its place.
+641 (4) Paragraph (15) is amended by striking the phrase “District of Columbia
+642 Housing Authority” and inserting the word “Authority” in its place.
+643 (5) A new paragraph (17A) is added to read as follows:
+644 “(17A) “Dwelling unit” means any room or group of rooms located within a
+645 residential or mixed-use building and forming a single unit that is used or intended to be used for
+646 living, sleeping, and the preparation and eating of meals.”.
+647 (b) Section 3(b-1)(1)(A) (D.C. Official Code § 6-202(b-1)(1)(A)) is amended as follows:
+648 (1) The lead-in language is amended by striking the phrase “Beginning on
+649 December 1, 2022, and monthly thereafter, the Authority shall submit a report” and inserting the
+650 phrase “The Authority shall submit a quarterly report” in its place.
+651 (2) Sub-subparagraph (iii) is amended by striking the phrase “units have been
+30
+
+ENGROSSED ORIGINAL
+652 vacant in the prior year,” and inserting the phrase “units have been vacant,” in its place.
+653 (c) A new section 4a is added to read as follows:
+654 “Sec. 4a. Board of Commissioners.
+655 “(a) The Authority shall be governed by a Board of Commissioners (“Board”), which
+656 shall consist of 9 members and govern in accordance with this section and section 12.
+657 “(b) Residents of Housing Properties shall elect 2 Commissioners in accordance with
+658 section 12(k). The Authority shall conduct elections for one such Commissioner to take office no
+659 later than December 31, 2025, and every 3 years thereafter, and for the other elected
+660 Commissioner to take office no later than December 31, 2026, and every 3 years thereafter.
+661 “(c) The Mayor shall appoint 7 Commissioners with the advice and consent of the
+662 Council, in accordance with section 2(e) of the Confirmation Act of 1978, effective March 3,
+663 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01(e)), as follows:
+664 “(1) No later than October 1, 2025, and every 3 years thereafter, the Mayor shall
+665 nominate:
+666 “(A) One member who has professional experience in federal housing
+667 laws and regulations; and
+668 “(B) One member who has professional experience in homeless services
+669 system planning and coordinating.
+670 “(2) No later than October 1, 2026, and every 3 years thereafter, the Mayor shall
+671 nominate:
+672 “(A) One member who has professional experience in affordable housing
+31
+
+ENGROSSED ORIGINAL
+673 development, operations, or finance; and
+674 “(B) One member who has professional experience providing legal
+675 assistance in housing matters to low-income District residents.
+676 “(3) No later than October 1, 2027, and every 3 years thereafter, the Mayor shall
+677 nominate:
+678 “(A) One member who has experience as the holder of a housing voucher;
+679 “(B) One member who has professional experience in capital project
+680 financing; and
+681 “(C) One member who has professional experience in accounting and
+682 enterprise financial management.
+683 “(d) No person shall be elected, appointed or reappointed to the Board if the person has
+684 served 9 years or longer, either in consecutive or non-consecutive terms, as a member of the
+685 Board of the Authority, in any form in which the Board existed, since the establishment of the
+686 Authority pursuant to this act.”.
+687 (d) Section 8a(a)(1) (D.C. Official Code § 6-207.01(a)(1)) is amended by striking the
+688 word “February” and inserting the word “June” in its place.
+689 (e) New sections 11a and 11b are added to read as follows:
+690 “Sec. 11a. Transition from temporary Stabilization and Reform Board.
+691 “(a) Each individual who serves as a voting or non-voting member of the temporary
+692 Stabilization and Reform Board of the Authority as of the effective date of the Rebalancing
+693 Expectations for Neighbors, Tenants, and Landlords (RENTAL) Act of 2025, as approved by the
+32
+
+ENGROSSED ORIGINAL
+694 Committee on Housing July 9, 2025 (Committee print of Bill 26-164), shall serve as a voting
+695 interim Commissioner of the Board established by section 4a without need for confirmation or
+696 appointment, until he or she is replaced or reappointed in accordance with this section. Section
+697 12(d) shall not apply to individuals named in this section for purposes of the special initial terms
+698 prescribed in this section.
+699 “(b) No later than October 1, 2025, the Mayor shall nominate an interim Commissioner
+700 with the qualifications identified in section 4a(c)(3)(C) for a 2-year term; provided, that
+701 notwithstanding section 12(c)(2), the Mayor may nominate the Chief Financial Officer or their
+702 Designee, who shall be an employee of the Chief Financial Officer, for such initial 2-year term;
+703 provided, further that Leroy Clay III shall serve as an interim Commissioner until reconfirmed or
+704 replaced in this manner. The 2-year term of the Commissioner appointed pursuant to this
+705 subsection shall expire when the first Commissioner identified in section 4a(c)(3)(C) is
+706 appointed.
+707 “(c) The President of the City-Wide Resident Advisory Board shall serve as an interim
+708 Commissioner until the first Commissioner described under section 4a(b) is elected and takes
+709 office.
+710 “(d) No later than October 1, 2025, the Mayor shall nominate 2 interim Commissioners
+711 with the qualifications listed in section 4a(c)(2)(A) for one-year terms; provided, that Raymond
+712 A. Skinner and James M. Dickerson shall serve as Commissioners until they are reappointed or
+713 replaced in this manner; provided, further that Raymond A. Skinner shall be Chairperson of the
+714 Board until the Board selects a Chairperson pursuant to section 12(m). The 2 Commissioners
+33
+
+ENGROSSED ORIGINAL
+715 appointed pursuant to this subsection shall serve as Commissioners until the second
+716 Commissioner identified under section 4a(b) is elected and takes office and the first
+717 Commissioner appointed pursuant to section 4a(c)(2)(A) takes office.
+718 “(e) Christopher Murphy shall serve as an interim Commissioner until he is reappointed
+719 as or replaced by the first Commissioner appointed pursuant to section 4a(c)(1)(A).
+720 “(f) No later than October 1, 2025, the Mayor shall nominate one interim Commissioner
+721 with the qualifications listed in section 4a(c)(3)(B) for a 2-year term.
+722 “(g) No later than October 1, 2025, the Mayor shall nominate one interim Commissioner
+723 with the qualifications listed in section 4a(c)(3)(A) for a 2-year term; provided, that Denise
+724 Blackson shall serve as a Commissioner until she is reappointed to such 2-year term or replaced
+725 by the appointee to such 2-year term.
+726 “(h) No later than October 1, 2025, the Mayor shall nominate one interim Commissioner
+727 who has attained homeownership with the assistance of the Authority for a one-year term;
+728 provided, that Ronnie Harris shall serve as an interim Commissioner until she is reappointed as
+729 or replaced by such homeownership experience Commissioner pursuant to this subsection.
+730 “(i) Notwithstanding section 12(c)(2), the Mayor may nominate the Executive Director of
+731 the Interagency Council on Homelessness for the initial 3-year term specified in section
+732 4a(c)(1)(B). Theresa Silla shall serve as an interim Commissioner until reappointed or replaced
+733 in this manner.
+734 “(j) Jennifer Reed shall serve as a Commissioner until a quorum of Commissioners
+735 confirmed, reconfirmed, or elected pursuant to this section and section 4a take office.
+34
+
+ENGROSSED ORIGINAL
+736 “(k) Notwithstanding section 1108(c-2)(1) of the District of Columbia Government
+737 Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C.
+738 Official Code § 1-611.08(c-2)(1)):
+739 “(1) Commissioners who are District government employees shall not be entitled
+740 to stipends for their service on the Board.
+741 “(2) Prior to January 1, 2026, stipends for Board service shall be limited to $4,000
+742 per year and an additional stipend of $2,000 per year for the Chairperson.
+743 “(l) This section shall sunset upon all Commissioners of the Board established pursuant
+744 to section 4a taking office.
+745 “Sec. 11b. City-Wide Resident Advisory Board training and consultation.
+746 “(a) The Authority shall establish and implement a comprehensive training program for
+747 members of the City-Wide Resident Advisory Board with the goal of enabling tenant members to
+748 participate fully in the oversight of the Authority’s operation and capital planning. The Authority
+749 shall develop the training program in consultation with public housing residents and public
+750 housing industry professional organizations.
+751 “(b) The Authority shall provide to the City-Wide Resident Advisory Board training on
+752 relevant federal and District laws, leadership development, communication, and negotiations.
+753 “(c) The Authority shall provide a copy of resolutions on the agenda for consideration by
+754 the Board to the City-Wide Resident Advisory Board at least 24 hours before the scheduled date
+755 and time of the Board meeting at which the resolution will be considered.
+756 “(d) The Authority shall seek and consider the input of the City-Wide Resident Advisory
+35
+
+ENGROSSED ORIGINAL
+757 Board when a policy or program change affects residents.
+758 “(e) At least once a quarter, the Board shall invite the City-Wide Resident Advisory
+759 Board to report to the Board on any topics of interest or concerns, and respond to the concerns of
+760 the City-Wide Resident Advisory Board in writing, no later than 45 days following the quarterly
+761 meeting.”.
+762 (f) Section 12 (D.C. Official Code § 6-211) is amended as follows:
+763 (1) The section heading is amended to read as follows:
+764 “Sec. 12. Additional Board provisions.”.
+765 (2) Subsections (a), (e), (f), (g), (j),, (o), and (p) are repealed.
+766 (3) Subsections (b) and (c) are amended to read as follows:
+767 “(b)(1) At least 60 days prior to submitting any nominating resolution to the Council after
+768 December 31, 2025, the Mayor shall publish a notice in the Register that states which of the
+769 Board positions in section 4a the Mayor is working to fill and that invites members of the public
+770 to identify and submit to the Mayor potential nominees for the Mayor to consider; provided, that
+771 the Mayor shall not be required to select a nominee from among the list of individuals identified
+772 by the public. The notice shall provide instructions as to how members of the public can submit
+773 to the Mayor the name, contact information, relevant experience, and such other relevant details
+774 as the Mayor deems necessary of a potential nominee.
+775 “(2) The Mayor shall submit a list of potential nominees submitted in response to
+776 the Mayor’s solicitation described in paragraph (1) of this subsection as an attachment to each
+777 nomination resolution submitted to the Council.
+36
+
+ENGROSSED ORIGINAL
+778 “(c)(1) An individual seeking to serve as a Commissioner identified under section
+779 4a(c)(1), (2), and (3)(B) and (C) shall have 5 or more years of professional experience in a
+780 relevant leadership role out of the last 10 years.
+781 “(2) No officer or employee of the federal or District government may serve as a
+782 Commissioner.”.
+783 (4) Subsection (h) is amended as follows:
+784 (A) Paragraph (1) is amended to read as follows:
+785 “(1) Within 90 days after each Commissioner’s appointment or election, the
+786 Commissioner shall complete training covering the following topics:
+787 “(A) The role of a public housing agency board;
+788 “(B) Ethics for public housing agencies and board members or
+789 commissioners;
+790 “(C) Background on major housing authority programs, including but not
+791 limited to public housing, the Housing Choice Voucher Program, and the rental assistance
+792 demonstration;
+793 “(D) Fair housing and reasonable accommodations;
+794 “(E) Public housing authority budgets, financial oversight, and financial
+795 reporting; and
+796 “(F) Federal procurement requirements.”.
+797 (B) Paragraph (2) is repealed.
+798 (C) Paragraph (3) is amended to read as follows:
+37
+
+ENGROSSED ORIGINAL
+799 “(3) In addition to the training required in paragraph (1) of this subsection, each
+800 Commissioner shall spend at least 4 hours per quarter in training or educational seminars on
+801 corporate governance, public housing and Housing Choice Voucher Program law and
+802 regulations, the Moving to Work program, resident opportunity such as HUD’s Section 3
+803 requirements for economic and employment opportunities, HUD reporting requirements, public
+804 housing performance monitoring and risk management, federal or local language access
+805 guidelines, labor and personnel, real estate and construction, or other subjects related to housing
+806 authority operation, and management. The maximum reimbursable cost, if any, of this training
+807 shall be established by the Board and paid by the Authority.”.
+808 (D) Paragraph (6) is repealed.
+809 (5) Subsection (i) is amended to read as follows:
+810 “(i) The elected Commissioners shall be public housing residents at the time of election;
+811 provided, that an elected Commissioner who ceases to reside in public housing may complete
+812 their term unless removed pursuant to subsection (t) of this section.”.
+813 (6) Subsection (k) is amended as follows:
+814 (A) Paragraph (1) is amended to read as follows:
+815 “(1) Elections of Commissioners by Housing Property residents shall be
+816 conducted in accordance with rules and procedures established by the Board, and shall be held
+817 no sooner than 5 months and no later than 2 months prior to the expiration of the then current 3-
+818 year term. All elections shall be held under the supervision of an independent expert in election
+819 monitoring, to be selected by the Board.”.
+38
+
+ENGROSSED ORIGINAL
+820 (B) Paragraph (2) is amended as follows:
+821 (i) The lead-in language is amended to read as follows:
+822 “(2) The results of each election shall be retained until the elected Commissioner
+823 begins their term pursuant to the next scheduled election. If the elected Commissioner becomes
+824 unable to serve or is removed from the Board as hereinafter provided, that Commissioner’s seat
+825 for the remaining term shall be filled as follows:”.
+826 (ii) Subparagraph (A) is amended by striking the phrase “City-
+827 Wide Resident Council Advisory Board;” and inserting the phrase “City-Wide Resident
+828 Advisory Board;” in its place.
+829 (7) Subsection (m) is amended by striking the sentences “The Mayor shall
+830 designate one of his or her 4 nominees nominated pursuant to subsection (a)(1) of this section as
+831 Chairperson. The ex officio Commissioner shall not be appointed as Chairperson.” and inserting
+832 the sentence “The Board shall elect a Chairperson from among its members.” in its place.
+833 (8) Subsection (q) is amended by striking the phrase “Other than the ex officio
+834 Commissioner and the labor representative who is a Commissioner, no person” and inserting the
+835 phrase “No person” in its place.
+836 (9) Subsection (u) is amended to read as follows:
+837 “(u) The Board may, by majority vote, require that any Commissioner or Executive
+838 Director resolve actual or potential conflicts of interest by reporting the actual or potential
+839 conflict of interest to the general counsel and ethics officer of the Authority for consideration and
+840 determination of required steps, which may include public disclosure of the conflict of interest
+39
+
+ENGROSSED ORIGINAL
+841 and recusal from the decision-making process involving the conflict, divestiture, or any other
+842 manner which complies with federal and District law.”.
+843 (10) Subsection (w) is amended to read as follows:
+844 “(w) The Board shall meet regularly at least 10 times each calendar year. Each meeting
+845 shall provide for a period for public comments, which shall not be limited in time, except that the
+846 time allowed each individual speaker may be reasonably limited. To allow the Board to meet and
+847 entertain any proposed action, there must be a quorum present, which shall consist of 5
+848 Commissioners. Meetings of the Board shall be subject to the Open Meetings Act, effective
+849 March 31, 2011 (D.C. Law 18-350; D.C. Official Code § 2-571 et seq.).”.
+850 (g) Section 14 (D.C. Official Code § 6-213) is amended as follows:
+851 (1) Subsection (c) is amended by striking the phrase “direction and supervision”
+852 and inserting the word “oversight” in its place.
+853 (2) The lead-in language of subsection (d)(1) is amended to read as follows:
+854 “(d)(1) Within 90 days of the Executive Director’s appointment, to the extent
+855 directed by the Board, the Executive Director shall complete training covering the following
+856 topics:”.
+857 (3) A new subsection (e) is added to read as follows:
+858 “(e) As part of the process of selecting an Executive Director, the Board shall seek and
+859 consider the input of public housing residents, voucher holders, and the City-Wide Resident
+860 Advisory Board.”.
+861 (h) Section 26g(b)(2) (D.C. Official Code § 6-232(b)(2)) is amended as follows:
+40
+
+ENGROSSED ORIGINAL
+862 (1) Subparagraph (E) is amended to read as follows:
+863 “(E) To file a complaint that requests an administrative determination of
+864 the resident’s rights when the resident believes that the resident has been aggrieved or adversely
+865 affected by an act or a failure to act by an Authority official, as provided in Authority policy and
+866 regulations;”.
+867 (2) Subparagraphs (G), (H), and (I) are amended to read as follows:
+868 “(G) To have a lease terminated only for serious or repeated violations of
+869 the material terms of the lease, as provided in the relevant provisions of the Authority’s public
+870 housing regulations, which shall be identified in the Bill of Rights;
+871 “(H) To 30 days’ notice of any action to correct, cure, or vacate for
+872 violation of a lease, except where the Authority has determined that the head of household
+873 responsible for the dwelling unit under the lease is deceased and there are no remaining
+874 household members, as provided in the relevant provisions of the Authority’s public housing
+875 regulations, which shall be identified in the Bill of Rights;
+876 “(I) To be relocated away from living conditions that represent an
+877 emergency or a threat to life, health, or safety as determined by the Authority, another
+878 governmental entity, or as a result of a judicial proceeding; to alleviate threat of attack by
+879 criminal elements as verified and documented by the Authority Police Department or any other
+880 police department or law enforcement agency authorized to operate in the District; and in certain
+881 other circumstances, as provided in the relevant provisions of the Authority’s public housing
+882 regulations, which shall be identified in the Bill of Rights;”.
+41
+
+ENGROSSED ORIGINAL
+883 (i) A new section 27 is added to read as follows:
+884 “Sec. 27. Public Housing Subsidy Repositioning Requirements.
+885 “(a) In any repositioning of a Housing Property’s federal subsidy, the Authority shall
+886 adhere to the following principles to the extent applicable and practicable:
+887 “(1) The Authority shall honor the right of households relocated from the Housing
+888 Property in connection with the repositioning, including any household transferred to a housing
+889 voucher program at any point after the inclusion of the Housing Property in a repositioning plan
+890 submitted to HUD, to return to living on the site of the Housing Property.
+891 “(2) The Authority shall engage the residents and resident council of the Housing
+892 Property to jointly develop relocation and continued occupancy plans before any relocation,
+893 detailing resident relocation plans, if required, and continued occupancy both before, during, and
+894 after the subsidy conversion; provided, that the Executive Director may order relocation without
+895 a jointly developed plan to the extent necessary to ensure human safety.
+896 “(3) The Authority shall establish an advisory team that shall participate in at
+897 minimum the planning, entitlement, relocation, and return phases of the project. Residents of the
+898 Housing Property shall constitute at least 25% of the advisory team.
+899 “(4) The Authority shall provide residents of the Housing Property with clearly
+900 written plans and schedules for each phase of the project. These plans will be project-specific
+901 and will be amended as necessary in response to resident input.
+902 “(5) In the design of the improvements or redevelopment, the Authority shall
+903 ensure the inclusion of amenities that make a positive contribution to the life of the residents of
+42
+
+ENGROSSED ORIGINAL
+904 the Housing Property, and shall not include products and services that contribute to the
+905 devastating health indicators that impact residents of low-income communities, such as
+906 childhood asthma.
+907 “(6) The Authority shall negotiate with any development partners to include in the
+908 project and operating budgets a community fund for the benefit of the community of former
+909 Housing Property residents. The sources and uses of any fund shall be worked out with the
+910 Housing Property residents through their elected resident council, subject to approval by the
+911 Board or compliance with regulations adopted by the Board.
+912 “(7) The number of housing units reserved for extremely low-income households
+913 following repositioning shall exceed the number of preexisting affordable housing units at the
+914 Housing Property.
+915 “(8) The Authority shall not submit applications to federal authorities, or seek
+916 Board approval submission of, a Rental Assistance Demonstration or federal Section 18
+917 repositioning, unless the Authority has:
+918 “(A) Conducted at least 2 resident meetings with residents of the Housing
+919 Property; and
+920 “(B) Provided details of the proposal to the City-Wide Advisory Board,
+921 the Mayor’s administration, the chair of the committee of the Council with jurisdiction for the
+922 Authority, the Councilmember for the Ward in which the Housing Property is located, and the
+923 Attorney General, and allowed 15 days for such authorities to provide comments.
+924 “(b) As part of any request to the Board to approve a contract, HUD application, or other
+43
+
+ENGROSSED ORIGINAL
+925 formal action in support of a federal subsidy repositioning, the Executive Director shall provide a
+926 written status update for each implicated Housing Property explaining how the Authority is
+927 complying with each of the principles listed in subsection (a) of this section or, to the extent any
+928 such principle cannot be satisfied, an explanation of any relevant efforts the Authority is
+929 pursuing in lieu of adherence to that principle.
+930 “(c) In addition to any summary required under section 202(c) of the Procurement
+931 Practices Reform Act of 2010, effective April 8, 2011 (D.C. Law 18-371; D.C. Official Code
+932 § 2-352.02(c)), any contract that the Authority submits to the Council in support of a federal
+933 subsidy repositioning of a Housing Property shall contain a status update in the form prescribed
+934 in subsection (b) of this section.
+935 “(d) Nothing in this section shall be construed to establish a new private cause of
+936 action.”.
+937 Sec. 1102. Section 1108(c-2)(1) of the District of Columbia Government Comprehensive
+938 Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-
+939 611.08(c-2)(1)), is amended to read as follows:
+940 “(1) Each Commissioner of the Board of the District of Columbia Housing
+941 Authority (“Board”) shall be entitled to a stipend of $8,000 per year for their service, and the
+942 chairperson shall be entitled to an additional stipend of $4,000 per year; provided, that subsection
+943 (c-3) of this section shall not apply to the chairperson of such Board. Each such Commissioner
+944 also shall be entitled to reimbursement of actual travel and other expenses reasonably related to
+945 attendance at Board meetings and fulfillment of official duties. Stipends and reimbursements
+44
+
+ENGROSSED ORIGINAL
+946 shall be made at least quarterly and prorated, if necessary, to reflect the dates of actual
+947 membership on the Board or dates of service as chairperson of the Board;”.
+948 Sec. 1103. Section 2(e)(27) of the Confirmation Act of 1978, effective March 3, 1979
+949 (D.C. Law 2-142; D.C. Official Code § 1-523.01(e)(27)), is amended to read as follows:
+950 “(27) The Board of the District of Columbia Housing Authority, as established by
+951 section 4a of the District of Columbia Housing Authority Act of 1999, effective _ (D.C. Law _;
+952 D.C. Official Code § 6-203a);”.
+953 TITLE XII. APPLICABILITY; FISCAL IMPACT; EFFECTIVE DATE
+954 Sec. 1201. Applicability.
+955 (a) Amendatory section 401a(4) within section 401(a) and section 401(d) and (k) shall
+956 apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.
+957 (b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in
+958 an approved budget and financial plan, and provide notice to the Budget Director of the Council
+959 of the certification.
+960 (c)(1) The Budget Director shall cause the notice of the certification to be published in
+961 the District of Columbia Register.
+962 (2) The date of publication of the notice of the certification shall not affect the
+963 applicability of the provisions identified in subsection (a) of this section.
+964 Sec. 1202. Fiscal impact statement.
+965 The Council adopts the fiscal impact statement in the committee report as the fiscal
+966 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+45
+
+ENGROSSED ORIGINAL
+967 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+968 Sec. 1203. Effective date.
+969 This act shall take effect following approval by the Mayor (or, in the event of veto by the
+970 Mayor, action by the Council to override the veto), a 30-day period of Congressional review as
+971 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+972 24, 1973 (87 Stat. 813, D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+973 Columbia Register.
+46

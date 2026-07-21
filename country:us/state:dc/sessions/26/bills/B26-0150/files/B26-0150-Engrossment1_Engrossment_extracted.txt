@@ -1,0 +1,118 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3
+4 26-150
+5
+6
+7 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+8
+9 ___________
+10
+11
+12 To amend, on a temporary basis, Title 47 of the DC Official Code to provide for more timely
+13 classification changes for commercial properties that are to be put to residential use; to
+14 provide for an application process to make classification changes; to provide for appeal
+15 rights if such application is denied; and to provide for a claw back in the event the real
+16 property is not timely put to residential use.
+17
+18 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+19 act may be cited as the “Residential Building Permit Classification Temporary Amendment Act
+20 of 2025”.
+21 Sec. 2. Section 47-813 of the District of Columbia Official Code is amended to read as
+22 follows:
+23 (a) Subsection (c-9)(2) is amended as follows:
+24 (1) Subparagraph (A) is amended to read as follows:
+25 “(A) Except as otherwise provided in this paragraph and subject to
+26 paragraphs (4) and (5) of this subsection, Class 1A Property shall be comprised of:
+27 “(i) Residential real property that is improved and its legal use is
+28 for nontransient residential dwelling purposes, and that is not Class 1B Property; provided, that
+1
+
+ENGROSSED ORIGINAL
+29 such property may be used to host transient guests pursuant to an unexpired short-term rental
+30 license endorsement issued pursuant to § 30-201.04; or
+31 “(ii) Real property or a portion of real property for which a
+32 building permit has been issued:
+33 “(I) To construct a new improvement for predominantly
+34 nontransient residential dwelling purpose; or
+35 “(II) To substantially rehabilitate that portion or all of an
+36 existing improvement for exclusively nontransient residential dwelling purposes.”.
+37 (2) Subparagraph (C) is amended by striking the phrase “designated as” and
+38 inserting the phrase “designated solely as” in its place.
+39 (b) The lead-in language of subsection (d-2) is amended by striking the phrase “Class 3
+40 Property or Class 4 Property,” and inserting the phrase “Class 2 Property, Class 3 Property, or
+41 Class 4 Property,” in its place.
+42 (c) A new subsection (d-3) is added to read as follows:
+43 “(d-3)(1) If real property changes classification to Class 1A Property as defined in
+44 subsection (c-9)(2)(A)(ii) during the period:
+45 “(A) October 1 through March 31 of the tax year, the newly reclassified
+46 Class 1A Property, or the portion thereof used exclusively for residential purposes if already
+47 improved or assessed under § 47-829, shall be taxed at the Class 1A Property tax rate for the
+48 entire tax year; or
+2
+
+ENGROSSED ORIGINAL
+49 “(B) April 1 through September 30 of the tax year, the newly reclassified
+50 Class 1A Property, or the portion thereof used exclusively for residential purposes if already
+51 improved or assessed under § 47-829, shall be taxed at the Class 1A Property tax rate for the
+52 second installment only.
+53 “(2) The owner shall apply for a change of classification to Class 1A Property as
+54 defined in subsection (c-9)(2)(A)(ii) of this section and shall promptly provide complete
+55 documentation in a manner prescribed by the Chief Financial Officer to substantiate any such
+56 classification change before it shall be effective.
+57 “(3) A change in classification to Class 1A Property as defined in subsection (c-
+58 9)(2)(A)(ii) of this section shall be effective beginning in the half tax year for which application
+59 is made under paragraph (2) of this subsection.
+60 “(4) If change in classification to Class 1A Property as defined in subsection (c-
+61 9)(2)(A)(ii) of this section is determined to be erroneous because the real property was not put to
+62 predominantly residential use by the earlier of either the issuance of any new or amended
+63 certificate of occupancy (temporary or permanent) for any part of the improvement thereon, or 3
+64 years from issuance of the building permit, or the building permit expired and was not renewed
+65 within 1 year, the Chief Financial Officer shall reclassify and tax the real property without
+66 limitation for each tax year or half tax year in which the real property was improperly classified
+67 as Class 1A Property, subject only to subsection (d-1)(5)(A-i) of this section if the property is
+68 determined to be Class 3 Property or Class 4 Property, or subsection (d-2) of this section. In the
+3
+
+ENGROSSED ORIGINAL
+69 event of such reclassification, penalty and interest shall be added beginning from the day the
+70 correct amount of tax should have been due but not paid if the property had been properly
+71 classified.
+72 “(5) Within 45 days from the date of the notice of denial of Class 1A Property
+73 reclassification under this paragraph of this subsection, the owner may petition for an
+74 administrative review of the rescission or denial and appeal from a final determination thereof to
+75 the same extent as if the appeal were filed under § 47-825.01a(d)(2).
+76 “(6) Notwithstanding the time limitations in paragraphs (4) and (5) of this
+77 paragraph, the Chief Financial Officer, in his or her discretion, may grant an extension of time to
+78 comply or waive penalty and interest assessed pursuant to paragraph (4) of this subsection to
+79 prevent an undue hardship to the owner.
+80 “(7) The provisions of this subsection, subsection (c-9)(2)(A)(ii) of this section,
+81 and § 47-829 shall not supersede the requirement to timely file for mixed-use classification for
+82 the upcoming tax year pursuant to subsection (f) of this section, when the annual assessment for
+83 such upcoming tax year is made under § 47-824 and the certificate of occupancy (final or
+84 temporary) was issued.”.
+85 Sec. 3. Applicability.
+86 This act shall apply as of April 1, 2025.
+87 Sec. 4. Fiscal impact statement.
+4
+
+ENGROSSED ORIGINAL
+88 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+89 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+90 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+91 Sec. 5. Effective date.
+92 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+93 the Mayor, action by the Council to override the veto) and a 30-day period of congressional
+94 review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved
+95 December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+96 (b) This act shall expire after 225 days of its having taken effect.
+5

@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENROLLED ORIGINAL
+A RESOLUTION
+26-42
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+March 4, 2025
+To declare the existence of an emergency, due to congressional review, with respect to the need
+to amend the Autonomous Vehicle Act of 2012 to prohibit driverless testing of
+autonomous vehicles (“AV”) on District roadways without an AV testing permit, and to
+require any person or entity testing AVs with a test operator before an AV testing permit
+becomes available to provide notice to the District Department of Transportation.
+RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+resolution may be cited as the “Autonomous Vehicle Testing Permit Requirement Congressional
+Review Emergency Declaration Resolution of 2025”.
+Sec. 2. (a) The Autonomous Vehicle Testing Program Amendment Act of 2020, effective
+December 23, 2020 (D.C. Law 23-156; 67 DCR 13048), allowed autonomous vehicle (“AV”)
+companies to test AVs on District roadways without an AV testing permit until the District
+Department of Transportation (“DDOT”) makes the permit application available, after which the
+AV company must apply for an AV testing permit or cease testing.
+(b) To maintain interim requirements with which AV testing companies must comply as
+DDOT finalizes its rulemaking on the AV testing, the Council passed the Autonomous Vehicle
+Testing Permit Requirement Second Emergency Amendment Act of 2024, effective December
+24, 2024 (D.C. Act 25-674; 72 DCR 14) (“emergency legislation”). The emergency legislation is
+set to expire on March 24, 2025. The Council also passed the Autonomous Vehicle Testing
+Permit Requirement Second Temporary Amendment Act of 2024, enacted on January 15, 2025
+(D.C. Act 25-708; 72 DCR 832) (“temporary legislation”). The projected law date for the
+temporary legislation is March 27, 2025.
+(c) The Public Life and Activity Zones Amendment (“PLAZA”) Act of 2024, effective
+January 24, 2025 (D.C. Act 25-715; 72 DCR 1085) (“permanent law”), incorporates and makes
+permanent provisions from the emergency and temporary legislation. The projected law date for
+the permanent law is also March 27, 2025.
+(d) Without the provisions of the emergency legislation, temporary legislation, or
+permanent law in place, DDOT cannot conduct proper oversight over AV operations in the
+District, presenting safety challenges for all roadway users.
+1
+
+ENROLLED ORIGINAL
+(e) This congressional review emergency legislation is necessary to prevent a gap in the
+law between the expiration emergency legislation and the effective date of the temporary
+legislation and permanent law.
+Sec. 3. The Council of the District of Columbia finds that the circumstances enumerated
+in section 2 constitute emergency circumstances making it necessary that the Autonomous
+Vehicle Testing Permit Requirement Congressional Review Emergency Amendment Act of 2025
+be adopted after a single reading.
+Sec. 4. This resolution shall take effect immediately.
+2

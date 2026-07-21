@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 _____________________________ _____________________________
+2 Councilmember Christina Henderson Councilmember Janeese Lewis George
+3
+4
+5 _____________________________
+6 Councilmember Anita Bonds
+7
+8 A BILL
+9
+10 ______________
+11
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+13
+14 ___________________________
+15
+16 To amend the District of Columbia Comprehensive Bicycle Transportation and Safety Act of
+17 1984 to provide a process for community engagement and public comment on proposed
+18 protected bike lane projects prior to beginning construction.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the “Public Infrastructure Notice Modernization Amendment Act of 2026”.
+22 Sec. 2. The District of Columbia Comprehensive Bicycle Transportation and Safety Act
+23 of 1984, effective March 16, 1985 (D.C. Law 5-179; D.C. Official Code § 50-1601 et seq.), is
+24 amended by adding a new section 4a to read as follows:
+25 “Sec. 4a. Community engagement and public comment.
+26 “(a)(1) At least 60 days before construction begins on a protected bicycle lane, cycle
+27 track, transit lane, or multimodal priority street (“project”), the Department shall provide notice
+28 that shall include:
+29 “(A) A statement of intent to construct a new project, including the
+30 proposed design;
+
+31 “(B) A statement describing a 60-day period for public comment on the
+32 proposed project, and how affected parties can comment and Advisory Neighborhood
+33 Commissions can submit resolutions on the potential impact of the proposed project;
+34 “(C) An expected construction schedule; and
+35 “(D) Notice of the public hearing required by subsection (b)(3) of this
+36 section.
+37 “(2) The notice required by paragraph (1) of this subsection shall be transmitted
+38 via:
+39 “(A) Electronic mail to the Advisory Neighborhood Commissions
+40 (“ANCs”), all councilmembers, and impacted groups affected by the project; and
+41 “(B) Certified mail or hand-delivery on the proposed route to impacted
+42 neighbors.
+43 “(3)(A) At least 30 days before construction begins on a project, and within the
+44 60-day public comment period, the Department shall hold a public hearing at an accessible
+45 evening or weekend time and in an accessible location in the vicinity of the proposed route.
+46 “(B) At least 15 days before the public hearing, the Department shall
+47 provide notice of this hearing by posting written notice in public buildings including libraries,
+48 recreation centers, senior centers, and along the proposed route, and by placing a notice in the
+49 District of Columbia Register.
+50 “(b) A resolution of an affected ANC shall be given great weight, as described in section
+51 13(d)(3)(A) of the Advisory Neighborhood Commissions Act of 1975, effective March 26, 1976
+52 (D.C. Law 1-58; D.C. Official Code § 1-309.10(d)(3)(A)).
+
+53 “(c) The Mayor shall maintain for public review all records, including the notice provided
+54 to impacted neighbors and groups, notice of the public hearing, records from the public hearing,
+55 comments from affected parties received pursuant to sub-paragraph (a)(1)(B) of this section and
+56 responses thereto, and any other information about the project.
+57 “(d) The Department shall make a determination of whether design changes are required
+58 within 21 days of the closure of the public comment period and provide notice, which shall be
+59 communicated in accordance with the requirements of subsection (a)(2) of this section.
+60 “(e) If the Department determines that the design of the project should be changed
+61 significantly after the public comment period, the Department shall initiate a second period of
+62 public comment prior to beginning construction.
+63 “(f) For the purposes of this section, the term:
+64 “(1) “Department” means the District Department of Transportation.
+65 “(2) “Impacted neighbors” means residents whose street address is either on the
+66 street or on a street directly perpendicular to the street on which construction will take place.
+67 “(3) “Impacted groups” means a school, place of worship, business, nonprofit
+68 organization, or other group whose street address is either on the street or on a street directly
+69 perpendicular to the street on which construction will take place.
+70 “(4) “Changed significantly” means a material modification to the design of a
+71 project that alters the project’s function, use, or impacts, and that was not subject to public
+72 comment during the initial public comment period.”.
+73 Sec. 3. Fiscal impact statement.
+
+74 The Council adopts the fiscal impact statement in the committee report as the fiscal
+75 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+76 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+77 Sec. 4. Effective date.
+78 This act shall take effect after approval by the Mayor (or in the event of veto by the
+79 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+80 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+81 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).

@@ -1,0 +1,137 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COMMITTEE ON HOUSING
+ROBERT C. WHITE, JR., CHAIR
+COUNCIL OF THE DISTRICT OF COLUMBIA
+Statement of Introduction
+Housing Investment Efficiency and Accountability Act of 2026
+February 18, 2026
+Today, alongside Councilmembers Anita Bonds, Trayon White, and Janeese Lewis George, I am
+introducing the Housing Investment Efficiency and Accountability Act of 2026. The Low-
+Income Housing Tax Credit (LIHTC) is one of DC’s most important affordable housing
+tools, leveraging millions in private investment each year. Last year, the District returned
+approximately $3.1 million in 9% LIHTC credits to the national pool, representing over $30
+million in lost housing investment.1 Given the scale of our housing crisis and the growing
+demand for deeply affordable housing, we must ensure that every available federal housing
+dollar is deployed efficiently, strategically, and with financial precision.
+The Housing Investment Efficiency and Accountability Act of 2026 assigns the District of
+Columbia Housing Finance Agency (DCHFA) as the District’s housing credit agency for
+purposes of administering the Low-Income Housing Tax Credit program. DCHFA already
+administers the District’s tax-exempt bond financing and the 4 percent LIHTC program and has
+deep expertise in underwriting, investor relations, and housing finance structuring. Aligning the
+administration of the 9 percent LIHTC program under DCHFA ensures greater coordination
+across financing tools, streamlined execution, and stronger accountability in how credits are
+allocated.
+Affordable housing production in the District depends on the effective layering of federal tax
+credits, local subsidies, bond financing, and private capital. By assigning responsibility for
+LIHTC administration to DCHFA, this legislation strengthens our financing infrastructure and
+positions the District to maximize the impact of limited federal resources. In a moment when
+every housing dollar must work harder, this bill ensures that our affordable housing financing
+system is structured for efficiency, accountability, and long-term success.
+1 Washington City Paper, How DHCD Forfeited $35 Million in Federal Assistance for Affordable Housing and
+Bailed Out a Well-Connected Developer. Suzie Amanuel. Last accessed: Feb. 18, 2026
+https://washingtoncitypaper.com/article/774255/dhcd-forfeited-35-million-federal-affordable-housing/
+
+1 __________________________________ _________________________________
+2 Councilmember Anita Bonds Councilmember Robert C. White, Jr.
+3
+4
+5
+6 __________________________________ _________________________________
+7 Councilmember Trayon White, Sr. Councilmember Janeese Lewis George
+8
+9
+10
+11 A BILL
+12
+13 __________
+14
+15 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+16
+17 __________
+18
+19 To amend the District of Columbia Housing Finance Agency Act of 1979 to clarify that
+20 the District of Columbia Housing Finance Agency shall administer the Low-
+21 Income Housing Tax Credit program. To amend Title 47 of the District of
+22 Columbia Official Code to make conforming changes.
+23
+24 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+25 act may be cited as the “Housing Investment Efficiency and Accountability Act of 2026.”
+26 Sec. 2. Section 302 of the District of Columbia Housing Finance Agency Act, effective
+27 March 3, 1979 (D.C. Law 2-135; D.C. Official Code § 42-2703.02), is amended as follows:
+28 (a) A new subsection (c) is added as follows:
+29 “(c) The Agency shall serve as the District’s housing credit agency for purposes of
+30 administering the Low Income Housing Tax Credit Program, as defined in in section
+31 206(f)(2)(A), or any rental unit for which the housing provider receives tax credits pursuant to
+32 the Low Income Housing Tax Credit Program, as defined in section 2(5) of the Low-Income
+33 Housing Tax Credit Fund Act of 2004, effective April 8, 2005, (D.C. Law 15-299; D.C. Official
+34 Code § 42-2853.01(5));”.
+35 Sec. 3. Chapter 48 of Title 47 of the District of Columbia Official Code is amended as
+
+36 follows:
+37 (a) Section 47-4801 is amended as follows:
+38 (1) Paragraph (1) is amended by striking the phrase “Department” and inserting
+39 the phrase “Agency” in its place.
+40 (2) Paragraph (2) is amended by striking the phrase “Department” means the
+41 Department of Housing and Community Development, or its successor agency” and inserting the
+42 phrase “Agency” means the District of Columbia Housing Finance Agency, or its successor
+43 agency.
+44 (3) Paragraph (4) is amended by striking the phrase “Department” and inserting
+45 the phrase “Agency” in its place.
+46 (4) Paragraph (8) is amended by striking the phrase “the Department is executed
+47 on or after October 1, 2021, and with respect to which the Department issues an eligibility
+48 statement” and inserting the phrase “the Agency is executed on or after October 1, 2021, and
+49 with respect to which the Agency issues an eligibility statement” in its place.
+50 (5) Paragraph (9) is amended by striking the phrase “Department” and inserting
+51 the phrase “Agency” in its place.
+52 (b) Section 4802 is amended as follows:
+53 (1) Subsection (d) is amended by striking the phrase “Department” and inserting
+54 the phrase “Agency” in its place.
+55 (2) Subsection (e) is amended by striking the phrase “Department” and inserting
+56 the phrase “Agency” in its place.
+57 (c) Section 47-4803 (b) is amended as follows:
+58 (1) Subsection (b)(1) is amended by striking the phrase “Department, in a form
+
+59 determined by the Department” and inserting the phrase “Agency, in a form determined by the
+60 Agency” in its place.
+61 (2) Subsection (b)(2) is amended by striking the phrase “Department” and
+62 inserting the phrase “Agency” in its place.
+63 (d) Section 47-4804 is amended by:
+64 (1) Subsection (a) is amended by striking the phrase “Department” and inserting
+65 the phrase “Agency” in its place.
+66 (2) Subsection (c)(1) is amended by striking the phrase “Department” and
+67 inserting the phrase “Agency” in its place.
+68 (e) Section 47-4805 of the DC Official Code is amended by striking the word
+69 "Department" and inserting the phrase "District of Columbia Housing Finance Agency" in its
+70 place.
+71 (f) Section 47-4807 is amended by:
+72 (1) Subsection (a) is amended by striking the phrase “Department” and inserting
+73 the phrase “Agency” in its place.
+74 (2) Subsection (b) is amended by striking the phrase “Department” and inserting
+75 the phrase “Agency” in its place.
+76 (g) Section 47-4808 of the DC Official Code is amended by striking the word
+77 "Department" and inserting the phrase "District of Columbia Housing Finance Agency" in its
+78 place.
+79 (h) Section 47-4809 of the DC Official Code is amended by striking the word
+80 "Department" and inserting the phrase "District of Columbia Housing Finance Agency" in its
+81 place.
+
+82 (i) Section 47-4810 of the DC Official Code is amended by striking the word
+83 "Department" and inserting the phrase "District of Columbia Housing Finance Agency" in its
+84 place.
+85 Sec. 4. Fiscal Impact statement.
+86 The Council adopts the fiscal impact statement in the committee report as the fiscal
+87 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+88 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+89 Sec. 5. Effective date.
+90 This act shall take effect following approval by the Mayor (or in the event of veto by the
+91 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+92 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+93 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+94 Columbia Register.

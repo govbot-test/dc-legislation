@@ -1,0 +1,297 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+OFFICE OF COUNCILMEMBER BROOKE PINTO
+THE JOHN A. WILSON BUILDING
+1350 PENNSYLVANIA AVENUE, N.W., SUITE 106
+WASHINGTON, D.C. 20004
+March 24, 2025
+Nyasha Howard, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, N.W.
+Washington, DC 20004
+Dear Secretary Howard,
+Today, along with Councilmember Anita Bonds, I am introducing the “Fair Hiring Opportunities
+for Public Employment (HOPE) Amendment Act of 2025.” This bill seeks to provide fairness and
+transparency in the District’s hiring process for returning citizens.
+The District has a model “ban the box” policy that prevents both District government and private
+employers from asking criminal background questions on job applications. The advantage of this
+policy is that it prevents employers from automatically screening out individuals with criminal
+backgrounds and allows those individuals a greater opportunity to represent themselves to a
+potential employer. However, thousands of District residents return from local or federal
+corrections facilities each year and face many barriers to employment. Nationally, the
+unemployment rate for formerly incarcerated people is nearly five times higher than the general
+population.1 Employment is one of the strongest predictors of successful reentry, and so it is critical
+that we provide opportunities for employment and career growth for returning citizens.2
+The District has a number of transitional employment programs to provide job readiness and job
+training for returning citizens who face barriers to employment. However, these individuals
+sometimes face challenges switching from these training programs to full-time employment. To
+address these barriers, this bill would ensure that individuals already employed or participating in
+a District-facilitated transitional employment program, such as Project Empowerment, have an
+opportunity for their recent job performance to weigh heavily in the consideration of their
+application for permanent employment. In recognition of their commitment to these programs, this
+bill would also provide a hiring preference for individuals who have completed a District-
+facilitated transitional employment program, such as Project Empowerment.
+This bill also seeks to establish more objective evaluative criteria, create more transparency, and
+provide more support in the hiring process. It would clarify the process by which criminal history
+reports are prepared and reviewed to ensure that only relevant information is reviewed and
+establish more objective criteria for evaluating criminal histories for employment suitability
+purposes. Additionally, the bill requires that, should an applicant need assistance submitting a
+1 Stephanie Ferguson, Makinzi Hoover, Isabella Lucy, The Workforce Impact of Second Chance Hiring, US
+Chamber of Commerce (September, 2024), available here.
+2 Criminal Justice Coordinating Council. Reentry in the District of Columbia: Supporting Returning Citizens'
+Transitions into the Community, available here. https://cjcc.dc.gov/page/reentry-district-columbia-supporting-
+returning-citizens-transitions-community
+
+response to demonstrate rehabilitation, the applicant be connected with community partner
+organizations that provide career-development resources to help them complete this process.
+Further, when a candidate is deemed unsuitable, the bill requires the program administrator and
+agency hiring coordinator to provide a formal writing to the applicant outlining the final denial,
+the reason for the denial, the steps of the appeals process, and the earliest date an applicant may
+re-apply. It also requires DCHR to present an annual report to the Council about returning citizen
+hiring practices, hiring rates, and reasons for denials.
+By providing additional support to individuals who successfully complete a transitional
+employment program and by establishing more objective evaluative criteria, enhancing
+transparency, and providing support in the hiring process, we can support successful reentry and
+reduce recidivism.
+Should you have any questions about this legislation, please contact my Committee and
+Legislative Director, Linn Groft, at lgroft@dccouncil.gov.
+Thank you,
+Brooke Pinto
+Ward 2 Councilmember
+Chairwoman, Committee on the Judiciary and Public Safety
+Council of the District of Columbia
+
+1 _____________________________ _____________________________
+2 Councilmember Anita Bonds Councilmember Brooke Pinto
+3
+4
+5
+6
+7 A BILL
+8
+9 _________________________
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13 _________________________
+14
+15
+16 To amend Title 6-B of the District of Columbia Municipal Regulations to establish a
+17 hiring preference for graduates of qualifying transitional employment programs and to clarify the
+18 process by which an applicant’s criminal history is considered when applying for employment
+19 with District government.
+20
+21 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+22 act may be cited as the “Fair Hiring Opportunities for Public Employment (HOPE) Amendment
+23 Act of 2025”.
+24 Sec. 2. Title 6-B is amended as follows:
+25 (a) Section 212 (6-B DCMR § 212) is amended as follows:
+26 (1) Subsection 212.1 is amended by striking the phrase “or foster care youth
+27 preference” and inserting the phrase “foster care youth preference, or qualifying transitional
+28 employment program graduate preference” in its place.
+29 (b) A new section 216 is added to read as follows:
+30 “216 QUALIFYING TRANSITIONAL EMPLOYMENT PROGRAM GRADUATE
+31 EMPLOYMENT PREFERENCE
+32 “216.1 An individual who applies for a competitive appointment or promotion, meets the
+
+33 qualifications of the position to which they have applied, and has graduated from Project
+34 Empowerment or a similar transitional employment program through the Department of
+35 Employment Services (DOES) or other District agency will qualify for a transitional
+36 employment program graduate employment preference and shall be awarded a ten (10)-point
+37 hiring preference.
+38 “216.2 All job postings shall inform District candidates of their eligibility for any
+39 applicable transitional employment program graduate hiring preference. Such job postings shall
+40 also inform candidates of the programs for which completion currently grants eligibility for the
+41 hiring preference.
+42 “216.3 DCHR shall annually identify all programs providing hiring preference eligibility
+43 and communicate the list of eligible programs to agency employers. Agency employers shall
+44 include this list in all relevant job postings.
+45 “216.4 Applicants who claimed transitional employment program graduate preference
+46 shall furnish proof of eligibility in a manner prescribed by the personnel authority.”
+47 (c) A new section 416-a is added to read as follows:
+48 “416-a CRIMINAL HISTORY REPORTS AND RELEVANCE SCREENS
+49 “416-a.1 (a) The program administrator shall request a criminal history report that
+50 includes only convictions and pending criminal charges. If the criminal history report includes
+51 extraneous information not limited to convictions and pending criminal charges, the program
+52 administrator shall extract any convictions and pending criminal charges.
+53 “(b) If no convictions or pending criminal charges remain, nothing in the criminal
+54 history may prevent the applicant from passing the enhanced suitability screening.
+55 “416-a.2 (a) Initial determinations of unsuitability should be made based on convictions
+
+56 bearing a reasonable, direct connection to the responsibilities of the role for which the individual
+57 has applied. The program administrator shall apply a Relevance Screen to the criminal history
+58 report. For each conviction or pending prosecution in the criminal history report, the program
+59 administrator shall use the Relevance Screen to determine whether the conviction or pending
+60 prosecution is relevant to the duties and responsibilities of that employment position. If it is
+61 relevant, then the conviction or pending prosecution shall remain in the report. If it is not
+62 relevant, then the conviction or pending prosecution shall be removed from the report.
+63 “(b) If no convictions or pending criminal charges remain, nothing in the criminal
+64 history may prevent the applicant from passing the enhanced suitability screening. Any
+65 remaining convictions or pending criminal charges shall constitute the Relevant Criminal History
+66 Report.
+67 “416-a.3 (a) The program administrator shall develop a “Relevance Screen” outlining
+68 which convictions should be considered in the hiring process for a particular position. The
+69 Relevance Screen is used to determine what information in the criminal history report is relevant
+70 to the position for which the applicant has been conditionally approved.
+71 “(b) To develop a Relevance Screen, the program administrator, in collaboration
+72 with the hiring agency representative, shall:
+73 “(1) Beginning with the job description for the position, identify which
+74 duties and responsibilities contribute to certain risks arising from the nature of the job. The
+75 program administrator shall reference the position description, including the enhanced suitability
+76 screening designation category (safety, protection, or security sensitive); the brief explanation of
+77 the duties and responsibilities supporting the designation; the statement explaining the enhanced
+78 suitability screenings required for the position, as required by § 406.6; and Relevance Screen
+
+79 Development Guidance issued by the agency.
+80
+81 “(2) Apply an appropriate “look back” period within which to consider
+82 prior convictions. An appropriate look back period will screen only for convictions that are
+83 recent enough to indicate significant risk.
+84 “(A) For felonies other than offenses in Guideline Groups 1, 2, or
+85 3, a criminal history shall include any convictions for which the sentence was completed not
+86 more than 8 years before the date of application for employment.
+87 “(B) For misdemeanors, a criminal history shall include any
+88 convictions for which the sentence was completed not more than 5 years before the date of
+89 application for employment.
+90 “(C) Convictions for sex offenses and child abuse or cruelty to
+91 children shall not be excluded by the lookback period.
+92 “416-a.4 A Relevance Screen should be used when assessing criminal histories for
+93 similar positions. A Relevance Screen may be updated periodically.
+94 “416-a.5 The program administrator shall endeavor to use the same relevance screen for
+95 identical or similar positions.”
+96 (d) Section 417 is amended as follows:
+97 (1) Subsection 417.1 is amended to read as follows:
+98 “417.1 The program administrator shall transmit the Relevant Criminal History
+99 Report to the respective hiring agency and conduct a coordinated review with the hiring agency
+100 representative. Where the applicant’s Relevant Criminal History Report contains any convictions
+101 or pending criminal charges, there shall be a presumption that the applicant remains qualified for
+
+102 the position for which a conditional offer of employment has been extended.”
+103 (2) Subsection 417.2 is amended to read as follows:
+104 “417.2 The program administrator, in conjunction with the agency hiring
+105 representative, shall assess any information in the Relevant Criminal History Report and make an
+106 initial determination whether their history would prevent the individual from adequately and
+107 faithfully fulfilling the duties and responsibilities of the position for which they have received a
+108 conditional offer of employment.”
+109 (3) Subsection 417.3 is repealed.
+110 (4) Subsection 417.4 is amended to read as follows:
+111 “417.4 The program administrator, in conjunction with the hiring coordinator at the
+112 respective agency, shall review the Relevant Criminal History Report to produce a written
+113 evaluation of an individual’s criminal history to determine whether he or she is suitable for
+114 District service. To make this determination, the program administrator shall consider any
+115 relevant criminal offense in the context of the specific duties and responsibilities of the position
+116 and the bearing, if any, that the relevant convictions or pending prosecutions in the Relevant
+117 Criminal History Report has on those duties and responsibilities.
+118 “(a) Factors to consider in making this determination shall include:
+119 “(1) Whether the position offers the opportunity for the same or a similar offense
+120 to occur;
+121 “(2) Whether circumstances leading to the conduct for which the person was
+122 convicted will recur in the position;
+123 “(3) The length of time that has passed since the criminal offense(s);
+124 “(4) The age of the individual at the time of the criminal offense(s);
+
+125 “(5) The frequency and seriousness of the criminal offense(s);
+126 “(6) Any mitigation information provided by the individual in response to the
+127 relevant information in the criminal history report;
+128 “(7) Any social or environmental conditions contribution to the offense;
+129 “(8) For applicants currently employed by a District agency or participating in a
+130 qualifying transitional employment program, agency or program review of the applicant’s prior
+131 job performance and demonstrated professional capacity; and
+132 “(9) The District’s policy favoring re-entry of ex-offenders into its work force.
+133 “(b) For applicants currently serving a District agency in a position newly classified as
+134 requiring enhanced suitability screening, applying to a new position within the District
+135 government subject to enhanced suitability screening, reappointed to a position within the
+136 District government requiring enhanced suitability screening, or applying within District
+137 government after completing Project Empowerment or a similar transitional employment
+138 program through the Department of Employment Services (DOES) or other District agency,
+139 consideration of the agency’s assessment of the applicant’s prior job performance and
+140 demonstrated professional capacity is particularly appropriate and should be afforded significant
+141 weight.”
+142 (e) Section 424 is amended to read as follows:
+143 “424 CLARIFYING DEROGATORY INFORMATION
+144 “424.1 Whenever a general and enhanced suitability screening reveals derogatory
+145 information the program administrator shall:
+146 “(a) Notify the individual that there will remain a presumption that the individual remains
+147 qualified for the position.
+
+148 “(a-1) Notify the individual as to the source, nature, and potential impact of the
+149 derogatory information; and
+150 “(b) Allow the individual no less than ten (10) business days and no more than twenty-
+151 one (21) calendar days to provide a response, through an in-person interview or written response
+152 if not available for an interview, to the derogatory information. The personnel authority may
+153 authorize a shorter time period under extraordinary circumstances.
+154 “(c) Applicant shall be advised that they may submit a statement with evidence to
+155 demonstrate mitigation or rehabilitation, along with any other information the applicant wishes
+156 to provide to explain derogatory information found. Along with the applicant’s statement,
+157 additional relevant evidence of mitigation or rehabilitation may include letters of
+158 recommendation from community members and certificates of completion from programs or
+159 education.
+160 “424.2 (a) Applicants should be advised that they may request assistance completing a
+161 response to information arising from a Relevant Criminal History Report.
+162 “(b) Should an applicant request assistance pursuant to 424.2(a), the program
+163 administrator shall provide the applicant with a list, including up-to-date contact information, of
+164 agencies and local community partner organizations providing assistive career and professional
+165 development resources for returning citizens.
+166 “(c) The program administrator shall identify and maintain relationships with such
+167 partner agencies and organizations, encouraging the provision of supportive resources for the
+168 purposes of this subsection.
+169 “424.3 When response to derogatory information is received, employers shall hold the
+170 position open until review of the applicant’s response is complete.”
+
+171 (f) New sections 425 and 426 are added to read as follows:
+172 “425 REVIEW OF APPLICANT RESPONSE TO DEROGATORY INFORMATION
+173 “425.1 The program administrator shall respond to an applicant’s response to derogatory
+174 information no later than twenty-one (21) calendar days after receipt of written response or after
+175 conduction of an in-person interview.
+176 “425.2 Evidence of mitigation or rehabilitation may be established by:
+177 “(a) Evidence showing that at least one year has elapsed since release from any
+178 correctional institution without subsequent conviction of a crime;
+179 “(b) Evidence showing compliance with terms and conditions of probation or
+180 parole; or
+181 “(c) Any other evidence of mitigation or rehabilitation and present fitness
+182 provided, including, but not limited to, letters of reference.
+183 “425.3 The program administrator and all DCHR staff conducting review of applicant
+184 responses to derogatory information shall be required to complete a training in best practices
+185 governing trauma-informed evaluations of returning citizen responses on an annual basis.”
+186 “426 DETERMINATION OF UNSUITABILITY BASED ON ENHANCED
+187 SUITABILITY SCREENING REULTS
+188 “426.1 Should the program administrator deem an applicant unsuited for the position to
+189 which they have applied based on information contained in the Relevant Criminal History
+190 Report, the program administrator shall notify the individual in a formal writing stating:
+191 “(a) The final denial or disqualification;
+192 “(b) The reason(s) for the determination of unsuitability for the position;
+193 “(c) Explanation of the appeals process; and
+
+194 “(d) The earliest date at which the applicant may reapply for a position of employment
+195 with the agency.
+196 “426.2 DCHR shall submit, at the close of each Council period, a confidential report to
+197 the Council which will review the District’s hiring practices in an effort to ensure that people
+198 with criminal records are not unreasonably denied employment with the District. This report
+199 shall include:
+200 “(a) The number of job applicants deemed unsuitable for government employment during
+201 an enhanced suitability screening and who have relevant criminal convictions or pending
+202 prosecutions;
+203 “(b) An anonymized summary of the rationales behind determinations of unsuitability;
+204 and
+205 “(c) The number of successful appeals for reconsideration of unsuitability.”
+206 (g) Section 499 is amended by adding a new definition as follows:
+207 “Returning Citizen –– an individual who has been incarcerated for a cumulative period of
+208 six (6) months or more during the five (5) years preceding application for employment.”
+209 Sec. 3. Fiscal impact statement.
+210 The Council adopts the fiscal impact statement in the committee report as the fiscal
+211 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+212 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+213 Sec. 4. Effective date.
+214 This act shall take effect after approval by the Mayor (or in the event of veto by the
+215 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+216 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+
+217 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+218 Columbia Register.

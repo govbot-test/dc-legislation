@@ -1,0 +1,1473 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+March 26, 2025
+The Honorable Phil Mendelson, Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an emergency
+bill, the “Modification Nos. 15, 16, 17, 17a, 17b, 17c, and 18 to Contract No. CW98887 with Great
+American Corporation Approval and Payment Authorization Emergency Act of 2025,” and the
+accompanying emergency declaration resolution in the not-to-exceed amount of $4,841,171.40, from
+November 16, 2024 through May 15, 2025.
+The legislation will approve Modification Nos. 15, 16, 17, 17a, 17b, 17c, and 18 to Contract No.
+CW98887 with Great American Corporation to provide hot/cold ready-to-eat, frozen boxed meals and
+supplements to Department of Aging and Community Living meal delivery program participants. In
+addition, the legislation will approve payment for the goods and services received and to be received
+under the modifications.
+My administration is available to discuss any questions you may have regarding the proposed contract
+modifications. In order to facilitate a response to any questions you may have, please have your staff
+contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at (202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+
+-#
+~~..a--
+1
+2 Chairman Phil Mendelson
+3 at the request of the Mayor
+4
+5 A BILL
+6
+7
+8
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12
+13
+14
+15 To approve, on an emergency basis, Modification Nos. 15, 16, 17, 17a, 17b, 17c, and 18 to
+16 Contract No. CW98887 with Great American Corporation, and to authorize payment for
+17 the goods and services received and to be received under the modifications.
+18
+19 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+20 actmaybecitedasthe"ModificationNos.15, 16, 17, 17a, 17b, 17c, and 18toContractNo.
+21 CW98887 with Great American Corporation Approval and Payment Authorization Emergency
+22 Act of 2025".
+23 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+24 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+25 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+26 2011 (D.C. Law 18-3 71; D.C. Official Code § 2-352.02), the Council approves Modification
+27 Nos. 15, 16, 17, 17a, 17b, 17c, and 18 to Contract No. CW98887 with Great American
+28 Corporation and authorizes payment in the not-to-exceed amount of $4,841,171.40 for the goods
+29 and services received and to be received under the modifications.
+30 Sec. 3. Fiscal impact statement.
+
+31 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+32 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+33 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+34 Sec. 4. Effective date.
+35 This act shall take effect following approval by the Mayor (or in the event of veto by the
+36 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+37 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+38 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+39 D.C. Official Code § 1-204.12(a)).
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive)
+(A) Contract Number: CW98887
+Proposed Contractor: Great American Corporation (GAC)
+Proposed Contractor’s Principals: Daniel Amare, President
+Meseretu Amare, Principal
+Kevin Linnane, Director of Operations
+Contract Amount: $4,841,171.40 NTE
+Unit and Method of Compensation: Fixed Unit Rates.
+Term of Contract: May 16, 2024 - May 15, 2025
+Type of Contract: Human Care Agreement
+Source Selection Method: Request for Qualification
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: $3,515,136.75 NTE
+(Council Approval Resolution No. CA24-0672)
+Option Period 1 Amount: $4,077,797.58 NTE
+(Council Approval Resolution No. R25-0201)
+Option Period 2 Amount: $4,841,171.40 NTE
+(Council Approval Resolution No. CA25-0745 - $2,082,639.53)
+Explanation of difference from base period (if applicable):
+1
+
+The difference is a 38% increase over the base year price. Five percent increase in the contractor
+rates for inflation. The remainder of the increase is the result of the increase in the amount meals as
+a result of the increase in the number of participants in the DACL meal program.
+Option Period 3 Amount: $5,078,381.29 NTE
+Explanation of difference from base period (if applicable):
+The difference is a 69% increase over the base year price. Five percent increase in the contractor
+rates for inflation. The remainder of the increase is the result of the increase in the amount meals as
+a result of the increase in the number of participants in the DACL meal program.
+Option Period 4 Amount: $5,325,972.95 NTE
+Explanation of difference from base period (if applicable):
+The difference is a 66% increase over the base year price. Five percent increase in the contractor
+rates for inflation. The remainder of the increase is the result of the increase in the amount meals as
+a result of the increase in the number of participants in the DACL meal program.
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The Department of Aging and Community Living (“DACL”) is seeking to fully exercise option year
+two of the contract with Great American Corporation to continue to provide hot/cold ready-to-eat,
+frozen boxed meals and supplements for the DACL’s meal delivery program participants.
+These services are critical and urgent because they provide the District's senior residents aged 60
+years and older with nutritious meals containing one-third of the Dietary Reference Intakes as
+established by the Food and Nutrition Board and they meet the current Dietary Guidelines for
+Americans.
+In addition, Great American Corporation provides meals with the flexibility to accommodate daily
+changes in delivery location and meal quantities. Participants in the DACL program receive hot and
+freshly prepared, ready-to-eat meals delivered to community dining sites daily. They also provide
+meals for special senior events hosted by the District (DACL and Mayor).
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+The solicitation, DOC590203, was advertised in the Washington Times newspaper and published in
+PASS to DC Supply Schedule holders on November 30, 2021, with a closing date of January 14,
+2022. A virtual pre-proposal conference was held on December 7, 2021. Three CBE vendors
+submitted proposals in response to the solicitation: Run Veggie, Ocean Pro, and Great American
+Corporation, and each was qualified by the Technical Evaluation Panel (TEP). Each of the offerors
+submitted a Contractor Qualification Record (CQR).
+In accordance with 27 DCMR Section 1905.6, the primary basis for selection for the Human Care
+Agreement provider was the pre-qualifying of the Contractor Qualification Record of the applicant.
+The contracting officer (CO) and the TEP reviewed and evaluated the provider’s technical
+2
+
+competence, menus and nutrition of meals offered, prices, resumes, professional qualifications, the
+relevant professional and business licenses, capacity to accomplish the required work in the required
+time; experience with similar scope of work, the contractor’s past performance and other
+documentation submitted by the provider. In addition, the contracting officer reviewed through other
+readily available sources compliance verifying mechanisms and determined that each of the offerors
+has satisfied the requirements specified in the Request for Qualifications.
+The decision to award the three offerors was based on the evaluation criteria outlined in 27 DCMR
+Section 1905.6 “Selection of Human Care Agreement Contractor. All three offerors were awarded a
+letter contract.
+Prior to definitizing the HCA, DACL decided to continue receiving services from only two of the
+offerors, Great American Corporation and Run Veggie. As a result, the letter contract with OceanPro
+Industries (OceanPro), was terminated for convenience and the capacity of services distributed to the
+remaining two offerors. OceanPro remained a qualified vendor so that we can provide an HCA at a
+later date, for up to 3 years. In 2024, an HCA was entered into with OceanPro and services from Run
+Veggie were discontinued.
+The CO conducted an independent assessment of each proposal submission. As a result of the CO’s
+assessment, the CO has decided it’s in the best interest of the District to award the Human Care
+Agreement to the three Offerors that submitted bids.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+No protests have been filed.
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+(i) Purchase order 703129 under Blanket Purchase Agreement (BPA) Option Year One –
+FY24-FAO-Leadership Academy – Facilitation for Meals Cohort 3; BPA No. DCMPD-
+2023-A-235500.
+(ii) Purchase order 716280 -Food catering services for Metropolitan Police Department
+(iii) Numerous purchase orders with DC schools and various government agencies for specific
+events – catering services for: Office of Neighborhood Safety and Engagement, Department
+of Human Services, Metropolitan Police Department, Department of Public Works,
+Department of Motor Vehicles, D. C. Public Schools, Office of Chief Financial Officer,
+Department of Aging Community Living, and D.C. Health Department
+3
+
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Great American Corporation has the necessary organization, equipment, skills, and management
+expertise to perform the required services needed by the district. Great American Corporation has
+expert knowledge of the program and an understanding of the Districts laws and regulations of the
+Dietary Reference Intake. Great American Corporation is not on the excluded parties list and has not
+been debarred, suspended, or ineligible from federal procurement.
+DACL has rated Great American Corporation’s performance during the base year and option year
+one as very good.
+According to the company’s financial statement, Great American Corporation has adequate financial
+resources to perform under the HCA. The Office of Contracting and Procurement deemed Great
+American Corporation responsible.
+(H) The period of performance associated with the proposed change, including date as of which
+the proposed change is to be made effective:
+April 5, 2025 – May 15, 2025
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+Aggregate Value: $1,000,000
+Comprised of Modification 015: NTE $490,000
+Modification 017a: NTE $490,000
+Modification 017c: NTE $20,000
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+$2,758,531.87
+(K) The date on which the contracting officer was notified of the proposed change:
+July 2024 for extension from partial option to a full option year exercise.
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+The contracting officer partially executed the remainder of option year two to allow the contractor
+to continue to provide meals to the District seniors under the DACL community dining sites
+program.
+4
+
+(M) The reason for the proposed change:
+The agency initially requested to exercise the option for the six-month period only, as they advised
+OCP they would be switching to provide the requirements through the grant process. The agency
+changed the direction they were considering (grant process) to continue with utilizing OCP
+procurement to contract for contractors to provide the service.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+27 DCMR 3601.3(c)
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+Great American Corporation certifies that they are compliant with the campaign finance Board of
+Ethics and Government Accountability Establishment and Comprehensive Ethics Reform
+Amendment Act of 2011, D.C. Official Code § 1-1163.34a
+Great American Corporation will comply and will not be in violation of section 334a of the Board
+of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform
+Amendment Act of 2011, D.C. Official Code § 1-1163.34a
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+Great American Corporation is a certified business enterprise per the District’s Department of
+Small and Local Business Development and will self-perform.
+(Q) Performance standards and the expected outcome of the proposed contract:
+The performance standards and expected outcome of the proposed contract includes the contractor,
+in accordance with the requirements and terms and conditions of the HCA, will prepare and deliver
+meals daily to the designated community dining sites as requested by DACL through task orders or
+purchase orders.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+5
+
+Modification 013: NTE $231,000 dated 5/6/2024
+Modification 014: NTE $1,851,639.53 dated 6/7/2024 (Council Approval Resolution No. CA25-
+0745)
+Modification 015: NTE $490,000 November 16, 2024
+Modification 017a: NTE $490,000 January 16, 2025
+Modification 017c: NTE $20,000 February 19, 2025
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+Per the certification of funding, the agency’s Associate Chief Financial Officer certified that funds
+in the required amount are available to fund the services.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The Office of the Attorney General (OAG) has reviewed the proposed modification for legal
+sufficiency and deemed it legally sufficient.
+(U) A certification that Citywide Clean Hands database indicates that the proposed contractor is
+current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands database indicates the contractor is current with its District taxes, as of
+January 13, 2025.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+Based on information contained in the Bidder Offeror Certification form, Great American
+Corporation has certified that it is current with its federal taxes and does not have any outstanding
+debt to the federal government.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+Great American Corporation is a certified local, small, or disadvantaged business enterprise.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+6
+
+None
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+Great American Corporation is not debarred or suspended from Federal or District procurements,
+based on searches of the District Office of Contracting and Procurement excluded parties list, Office
+of Inspector General exclusion database, and the Federal government’s System for Award
+Management database.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+(i) Determination and Findings for Human Care Agreement; dated November 23, 2021.
+(ii) Determination and Findings for Price Reasonableness; dated December 4, 2024.
+(iii) Determination and Findings for Responsibility; dated January 13, 2025.
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+The HCA and any amendments will be available online at https//ocp.dc.gov
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+The original solicitation and any amendments or modifications are available online at
+https//ocp.dc.gov
+7
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: March 26, 2025 Notice Number: L0013931436
+GREAT AMERICAN CORPORATION FEIN: **-***6138
+2625 EVARTS ST NE Case ID: 18549952
+WCASHINGTON DC 20018-1401
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE CHIEF FINACIAL OFFICER
+GOVERNMENT OPERATIONS CLUSTER
+OFFICE OF FINANCE AND RESOURCE MANAGEMENT
+MEMORANDUM
+TO: Nancy Hapeman
+Chief Procurement Officer
+Office of Contracting and
+Procurement
+FROM: Paul Blake
+Agency Fiscal Officer
+Government Operations Cluster
+DATE: March 25, 2025
+SUBJECT: Certification of Funding Availability for Great American Corp. Contract #CW98887
+The Office of the Chief Financial Officer (OCFO) hereby certifies that the sum of $2,758,531.87 is included in the
+District’s Local Budget and Financial Plan approved by Congress for Fiscal Year 2025 to fund the contract costs
+for Elderly Meals Services associated with the Department of Aging and Community Living (DACL). This
+certification supports the contract period from November 17, 2024, through May 15, 2025, the extended period of
+(6 months). The total contract value is $2,758,531.87.00. Funding allocation is as follows:
+Fiscal Year 2025 Funding:
+RQ
+Contract (or PO if Fiscal
+Vendor Period applicable) Amount Year
+November 17,
+Great American Corp 2024 to
+May, 15, TBD $2,758,531.87 2025
+2025
+If you have any questions, please feel free to call Paul Blake, Agency Fiscal Officer, at (202) 727-9833.
+441 4th St, N.W. * Suite 890 North * Washington, D.C. 20001
+Phone: (202) 727-0333 * Fax: (202) 727-0659
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Sarina Loy
+Deputy Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: February 25, 2025
+SUBJECT: Approval of Human Care Agreement for Seniors Meal Delivery Program
+Services
+Contract Number: CW98887
+Contractor: Great American Corporation
+Contract Amount: $4,841,171.40
+This is to Certify that this Office has reviewed the above-referenced Contract and that we have
+found it to be legally sufficient conditioned on OCP obtaining and evidencing a proper
+insurance certification that includes the required coverage and amounts. If you have any
+questions in this regard, please do not hesitate to call me at 724-4018.
+______________________________
+Robert Schildkraut
+400 6th Street, NW, Suite 79100, Washington, DC 20001 (202) 727-3400 Fax (202) 347-8922
+
+11/13/2024
+
+11/25/2024
+
+(CW98887, Mod 16
+GreatAmericanCorporation
+ATTACHMENTA-1
+GREAT AMERICAN CORPORATION
+PRICE SCHEDULE-OPTION YEARTWO
+B3. Option YearTwo Period ofPerformance
+B.3.1. TheContractorshall providefirm fixedunitprices foreachCLIN item in the
+Food Service Category/Categories the Offeror is proposing to provide, as specified
+in Section B.3and in accordancewiththestatementof work describedin Section C.
+CLIN Item Description Unit | Quantity PricePerUnit
+|Home Delivered Meal Hot/Cold
+2001. Ready-to-Eat 1 | Upto60,596 |N/A
+2002, |Home Delivered Meal Ho/Cold 1 Upto 3,500
+eady-to-Ea—t Vegetarian A
+HomeDelivered Meal Hot/Cold 1 |Upto6000 WA
+2003| Ready-to-Eat
+Culturally Sensitive
+2004| Home Delivered Meal Hov/Cold 1 | Upto3s00 WA
+Ready-to-Eat Medically Tailored
+TransportationHot/ColdAll vA
+Ready-to-Eat Meals Home 1 | Upt073,596
+2005| Delivered Meals
+“ForOption YearTwo, CLINS 2001 thru 2005 arenotapplicable”.
+B.3.2 The Contractor shall provide firm fixed unit prices for each CLIN item in
+the Food Service Category/Categories the Offeror is proposing to provide, as
+specified in Section B.3 and in accordance with the statement ofwork described
+in Section C.
+Pa2gofe22,
+
+(CW98887,Mod 16
+‘GreatAmericanCorporation
+CLIN ‘Item Description Unit Quantity Price Total
+Per
+Unit
+2006| Frozen Meal (Holiday 1 Up to 1800 $10.68
+Premium) Pre-Cooked NA
+Complete Meal
+1 | Upto NIA
+2007_| FrozenMeal 84,000 $9.58
+Transportation Frozen Home 1
+Delivered Meals,PerClient Up to7000| $11.02 per NIA
+2008.| Delivery(sevenmealsper delivery
+delivery)
+[For Option YearTwo, CLINS 2006 thru 2008 are not applicable
+B.3.3 The Contractorshall provide firm fixed unit prices foreach CLIN item inthe
+Food ServiceCategory/Categories the Offeroris proposing to provide, as specified
+in Section B.3 and in accordance with the statement ofwork described in Section
+Ge
+CLIN Item Description Unit | Quantity PricePerUnit | TotalPrice
+2009. |Community DiningSiteBulk 1 [Upto $8.53 $1,831,339.82
+leals 214,694
+2010 |Community DiningSiteCold
+[Boxed ReadytoeatMeals 1 Upto $8.76 $936,514.08
+106,908
+‘ommunity DiningSite HotPre
+2011 platedreadytoserve 1 [upto se,s9 $8.76 $513,300.96
+“ommunity DiningSiteCulturally
+2012 Sensitive 1 Upto2614) $12.12 $316,877.40
+[Community DiningSite $143,024.52
+2013 |Vegetarian 1 [upto 16,327, $8.76
+Community DiningSite, ‘$171,169.60
+2014 MedicallyTailored 1 Upto 17,36 $9.86
+Pa3gofe22,
+
+(CW98887,Mod 16
+GreatAmericanCorporation
+‘Shelf stable meals- Boxedready ‘Up t0200 $7.52 ‘$1,504.00
+2015 eat meal.
+Upto 255, [813.77 perperson $3,511.35
+{Continental Breakfas1t- shall
+2016a
+-onsistofdifferentcombinations
+fa varietyofpastries, donuts,
+/ogurt, health bars, 100%fruit
+juice,coffee,creamer,sugar,
+fbagelsw/sour cream
+20166 Continental Breakfast2 shall Upto255 $17.57 $4,480.35
+onsistof:meat: bacon,sausage
+(oneporkoneTurkey),toast,eggs,
+fpotatoes, 100% fruit juice,coffee,
+reamer, sugar, paperware,
+jutensils,cupsandset-upshould be
+included incost
+Boxed LunchesforSpecial
+2017 [Events(i.e. sandwich, fruit, ip to2,366 $12.06 28,533.96
+everagecookies, vegetable
+fsalad, water,appropriate
+yndiments)
+[Food Supplies (Utensils to
+$194,766.44
+include one each heavy-duty
+Kknife, fork, spoonnapkin 1 Per Upto $0.44permeal
+2018 individuallywrapped; Meal 442,651
+individuallywrappedstraws,
+[plastic sandwich bags forbread,
+[plates (10 inch or3
+ompartment), placemats, 8oz.
+[Salad bowls, 80zcoffee cups
+kandcoffeestirrers. Coffee,
+[DecafCoffee, Tea, Non-dairy,
+suga&r sugarsubstitute. 8 oz
+‘Soup bowls.
+2019 [FoodSuppliesCondiments for Per Upto
+fmeal item as appropriateto Meal 442,651 $0.44permeal $194,766.44
+jincludeketchup,mustard, salad
+iressingtwo packets per80z
+fsalad, mayonnaise, salt&pepper
+individualpackages, regular
+“offee,Decafcoffee, tea,
+ondairy creamer, sugarand
+ugarsubstitute.
+[General Site Suppliesto include
+ppapertowels(threerolls per
+$44.10 $47,010.60
+eek), heavy duty 60-gallon Per ipt01,066 (41 sites)
+rash bags(twenty bagsper Delivery.
+2020 eek),aprons (twentyaprons (Two
+jperweek), hair nets (twenty hair Deliveries}
+hnets perweek),plastic gloves [permonth)
+Pa4gofe22
+
+cwosss7M,od16
+GreatAmericanCorporation
+{twenty sets ofplastic gloves
+rerweek).
+Generalsitesupplies-Disposable Per
+2021 orreusableservingutensilsto Site(Two| Up t0.90| $55.12 persite $4,960.80
+include: Tongs,spatulas, serving deliveries (4 Sites)
+spoonsand Ladlesfor soupsand perYear)
+sauces. Digitalthermometer
+(threeeachsite), refrigerator
+thermometer(twoeach
+ite)
+[TransportationCommunity ipt06426 $13.78 $88,550.28
+2022 Bites
+“ForOption YearTwo Not-to-Exceed (NTE) Subtotal CLINS 2009- $4,480,310.60
+2022
+B S . e 3 r . vi 4 c T e h C e at C e o g n o t r r y a / c C t a o t r e s g h o a r ll ie p s ro t v h i e d O e ff f e i r rm or fi is xe p d ro un p i o t si pr n i g ce to s p f r o o r v e i a d c e h , C as LI sp N ec i i t f e i m ed in in th S e ec F t o i o o d n
+B.3and inaccordance withthestatementofwork describedin Section C,
+Total
+CLIN ‘Item Description Unit | Quantity PricePer
+Unit
+2023 | Nutrition Supplements | 1Case| Upto92| $90.00per NA
+NeproButterPecan case
+2023a| Nutrition Supplements
+‘Nepro Vanilla Case 1 U 3 pt 2 o $90 c . a 0 s 0 e per NA
+2023b| Nutrition Supplements
+‘NeproWildberry 1 Case Upto $90.00per N/A
+‘Nutrition Supplements 118 case
+2023¢|EnsureClear 1 Case| Upto48 $40 c . a 0 s 0 e per N/A
+NutritionSupplements
+2023| EnsurePlusVanilla 1 Case 3 U 4 p 7 t 0 o $40 c . a 0 s 0 eper N/A
+2023e|Nuitition Supplements
+Ensure PlusChocolate 1 Case Upto 40.00percase NA
+1368
+2023f| Nutrition Supplements
+EnsurePlus Strawberry 1 Case Upto $40.00 per NA
+2001 case
+Pa5ogfe22
+
+‘CW98887,Mod 16
+GreatAmericanCorporation
+2023g__| Nutrition Supplements
+Boost Vanilla 1Case | Upto | $61.92 per NIA
+504 case
+2023h_| Nutrition Supplements
+BoostChocolate 1Case| Upto | $61.92 per NA
+547 case
+20231_| Nutrition Supplements
+BoostStrawberry 1Case | Upto | $61.92per N/A
+547 case
+‘TransportationNutrition
+Supplements 1per | Upto | $10.50per NIA
+2023) client_| 4,500 delivery
+For Option Year Two, CLINS 2023 thru 2023) are not applicable
+B3.5TheContractorshallprovidefirm fixedunitpricesforeachCLIN itemintheFood
+Service Category/CategoriestheOfferorisproposingtoprovide, asspecified inSection.
+B.3and inaccordance with thestatementofwork describedin Section C.
+‘CLIN Item Description
+Unit Total
+Mayor's Annual HolidayParty
+2024 Mayor'sAnnual Holiday |Tmeal_| Upto $38.52 ‘$115,560.00
+Party:Meals- 3,000
+(Traditional Holiday
+Menu), Meal includes
+complete meal.
+MealsconsistofHot Plate—
+entrée, vegetables, dressing,
+starchy vegetable, roll
+Cold Boxconsistof
+Beverage,Salad,Dessert,
+Water,Tablecloths, Plastic,
+(clear)
+2025 Mayor'sAnnual Holiday | Per Upto S761 per $22,837.50
+Party: Suppliesforsetup |meal —_| 3,000
+andserviceofeach eventas unit
+listedin Section C.3.12
+2026 Mayor'sAnnual Ho li day |(Hourly)| Upto240 $42.00 per $3,200.00
+Party: Foodserversare upto 20, hour
+neededattheminimum of | servers
+fourhoursperevent
+Senior Symposium
+Page6of 22
+
+(CW98887, Mod 16
+GreatAmericanCorporation
+2027‘ SeniorSymposium: Meals-|1 meal] Upto $46.90 ] ‘$93,800.00
+includes hotfoodandcold 2,000
+food boxes.Meal includes
+completemeal.
+MealsconsistofHotPlate~
+entrée, vegetables,dressing,
+starchy vegetable, roll
+Cold Boxconsistof
+Beverage, Salad, Dessert,
+Water,Tablecloths, Plastic,
+(lear)
+2028 | Senior Sy m 5 Per Upto $7.99 $15,980.00
+‘Suppliesforsetup and meal | 2,000
+serviceof eachevent as
+listed in Section C.3.12
+2029 | Senior Symposium: Food | Hourly | Upto240 342.00per $3,200
+serversareneededatthe | (upto
+hour
+minimumoffourhours per|20
+event servers)
+Centenarian Event
+2030 |Centenarian Event: Meals-|I meal |Upto400 $31.45 $12,579.00
+includeshotfoodandcold
+foodboxes. Meal includes
+complete meal.
+MealsconsistofHot Plate—
+entrée,vegetables,dressing,
+starchy vegetable, roll
+Cold Boxconsistof
+Beverage,Salad,Dessert,
+Water,Tablecloths, Plastic,
+(clear)
+2031 | Centenarian Event: Per Upto400 $8.39 $3,355.80
+‘Suppliesforsetupand meal
+serviceofeacheventas
+listed inSectionC.3.12
+2032 CentenarianEvent: Food |Hourly |Upto240 $20.00 per
+$3,200.00
+serversareneededatthe | (upto hour
+minimumoffourhoursper | 20
+event servers)
+Senior Fest
+2 033 SeniorFest Tmeal | Upto $34.67 per
+2,500 unit
+Option Year Two NTE Subtotal CLINS 2024-2033 ‘$360,389.80
+|
+Pa7gofe22
+
+(CW98887, Mod16
+GreatAmericanCorporation
+‘Option YearTwoSummary
+CLINS2001-2005 NA
+CLINS2006-2008 N/A
+CLINS2009-2022 $4,480,310.60
+CLINS2023-2023] NA
+‘CLINS 2024-2033 $360,389.80.
+NTE OptionYearTwoTotal $4,840,700.40
+Page8of22
+
+(CW98887, Mod 16
+GreatAmericanCorporation
+ATTACHMENT A-2
+GREAT AMERICANCORPORATION
+PRICE SCHEDULE -OPTION YEAR THREE,
+B44. Option YearThree Period ofPerformance
+B.4.1. TheContractorshall providefirm fixed unitpricesforeach CLIN item inthe
+Food Service Category/Categories the Offeror is proposingto provide, as specified
+in Section B.2 and inaccordance with the statement ofwork described in Section C.
+CLIN Item Description Unit| Quantity |PricePerUnit Total
+|HomeDeliveredMeal Hot/Cold NA
+3001 [Ready-to-Eat 1 | Upto60,596 $9.19
+3002, |Home DeliveredMeal HouCold 1 | Upto3,500 $9.19) NA
+JReady-to-Eat—Vegetarian
+NA
+HomeDeliveredMealHotCold | 1 | Upto6000 $12.72
+3003| Ready-to-Eat
+Culturally Sensitive
+NA
+3004| HomeDelivered Meal HovCold | 1| Up to3500 $9.19
+Ready-to-Eat Medically Tailored
+S157 NA
+‘TransportationHo/Cold All
+Ready-to-EatMeals Home 1 | Up 1073,596
+3005 | Delivered Meals
+|For Option Year Three, CLINS 3001 thru 3005 are not applicable
+B.4.2 The Contractorshall provide firm fixed unit pricesfor each CLIN item in the
+Food ServiceCategory/Categoriesthe Offeroris proposing to provide, as specified
+in Section B.4 and in accordance withthe statement ofwork described in Section
+cl
+Page9of22
+
+(CW98887,Mod 16
+GreatAmericanCorporation
+CLIN Item Description| Unit Quantity Price Per Total
+Unit
+3006| FrozenMeal(Holiday 1 Up to 1800 S121
+Premium) Pre- N/A
+‘Cooked Complete
+Meal
+T | Upto84,000 NA
+3007__| FrozenMeal $10.05
+‘Transportation Frozen 1
+Home Delivered Meals, Upt07000 $11.57 per NIA
+3008|PerClient Delivery(seven delivery
+mealsper
+delivery)
+|For Option Year Three, CLINS 3006 thru 3008 are not applicable
+B.4.3The Contractor shall provide firm fixed unit prices foreach CLIN item in
+the Food Service Category/Categories the Offeror is proposing to provide, as
+specified in Section B.4 and in accordance withthe statementofwork described
+in Section C.
+CLIN Item Description | Unit | Quantity [PricePerUnit Total
+3009 |Community DiningSiteBulk} 1 [Upto $8.95, $1,921,511.30
+leals, P14,694
+3010 [CommunityDiningSiteCold]
+[Boxed Ready toeatMeals 1 Upto $9.19 $982,484.52
+106,908
+“ommunity DiningSiteHot/|
+3011 [Preplatedreadytoserve 1 [Upto 58,599 $9.19 $538,497.24
+‘ommunity DiningSite
+3012 {CulturallySensitive 1 Ipto26,145} $12.72 $332,564.40
+‘ommunity DiningSite
+3013 |Vegetarian 1 [Upto 16,327, $9.19 $150,045.13,
+Page 10of22
+
+‘CW98887,Mod 16
+GreatAmericanCorporation
+‘ommunity DiningSite,
+3014 ledicallyTailored bpto 17,36 $10.35 $179,676.00
+3015 shelf stablemeals- Boxed [upto200 $7.89 $1,578.00
+ready toeatmeal.
+Upto 255 $14.45 per $3,684.75
+[Continental Breakfast] shall
+30160 consistof different person
+-ombinationsof avariety of
+astries, donuts, yogurt,
+iealth bars, 100%fruitjuice,
+coffee,creamer, sugar,
+agelsw/sourcream.
+3016b [Continental Breakfast2 shall $18.44 per $4,702.20
+consistof: meat: bacon, ipt0 255 person
+sausage (oneporkone
+Turkey), toast,eggs,
+toes, 100% fruitjuice,
+coffee,creamer, sugar,
+perware, utensils,cupsand|
+et-upshouldbe included in
+st
+Boxed Lunches for
+3017 pecial Events(i.e. ip to 2,366 $12.66 perunit $29,953.56
+sandwich, fruit, beverage
+kookies,vegetablesalad,
+ater, appropriate
+yndiments)
+|Food Supplies (Utensilsto
+jinclude oneeach heavy-
+Kiuty knife, fork, spoon l1PerMeat pto {$0.46 permeal $203,619.46
+3018 napkin in d iv idually 142,651
+wrapped; individually
+Iwrappedstraws,plastic
+kandwich bags for bread,
+[plates (10 inch or 3
+-ompartment), placemats,
+02, Salad bowls, 80z
+‘offeecupsand coffee
+‘irrers. Coffee, Decaf
+offee, Tea,Non-dairy,
+sugar&sugarsubstitute,
+oz Soup bowls.
+3019 [Food SuppliesCondiments
+formeal item asappropriate Per pto $0.46 per meal $203,619.46
+0 includeketchup,mustard, Meal 142,651
+faladdressingtwopackets
+pper80zsalad,mayonnaise,
+kalt&pepperindividual
+ppackages,regularcoffee,
+[Decafcoffee,tea,nondairy
+reamer,sugarandsugar
+Page 11of 22
+
+‘CW98887,Mod16
+GreatAmericanCorporation
+substitute.
+[General SiteSupplies to
+include papertowels (three $46.30 $49,355.80,
+rolls per week), heavy Per feto 1,066| (41 sites)
+Kiuty 60-gallon trash bags |Delivery.
+3020 {twenty bagsperweek), (Two
+aprons(twentyaprons per {Deliveries}
+eek), hairnets(twenty permonth}
+lairnets perweek), plastic
+Bis(twenty sets of
+lastic gloves per week).
+Generalsitesupplies- Per $5787
+3021| Disposableorreusable |Site(Two |Upto90 persite $5,208.30
+servingutensitlosinclude:|deliveries {41 Sites)
+Tongs,spatulas, serving [per Year)
+spoonsand Ladlesfor
+soups and sauces. Digital
+thermometer (three each
+site), refrigerator
+thermometer(twoeach
+)
+[Transportation Community 1 Jpto6,426| $14.47per $92,984.22
+3022 [DiningSites
+‘$4,732,380.04
+{Option Year Three NTE Subtotal CLINS 3009-3022
+B.4.4TheContractorshallprovidefirmfixedunitpricesforeachCLIN
+itemintheFood
+ServiceCategory/Categoriesthe Offeror is proposingtoprovide, asspecified in Section
+B.4and in accordancewiththe statementofworkdescribedin SectionC.
+Total
+CLIN| _Item Deseription Unit_| Quantity | PricePer Unit
+3023 | Nutrition Supplements | 1Case| Upto92 | $90.00percase NA
+NeproButterPecan
+'3023a_| NutritionSupplements
+Nepro Vanilla 1Case_| Upto132_| $90.00percase NA
+30236| Nutrition Supplements
+Nepro Wildberry 1Case_| Upto 118_| $90.00percase N/A
+‘NutritionSupplements
+3023e_| EnsureClear 1Case_| Upto48 | $40.00 percase N/A
+‘NutritionSupplements
+3023d_| Ensure Plus Vanilla 1Case_| Upto 3470 | $40.00percase NA
+Page 12of22
+
+‘CW98887,Mod 16
+GreatAmericanCorporation
+3023e|Nutrition Supplements
+Ensure PlusChocolate | 1Case | Upto 1368| 40.00 percase N/A
+3023f|Nutrition Supplements
+Ensure PlusStrawberry | 1Case| Upto2001 | $40.00 percase N/A
+3023g| Nutrition Supplements
+BoostVanilla 1Case | Upto504 | $61.92percase N/A
+3023h_| Nutrition Supplements
+BoostChocolate 1 Case| Upto547 | $61.92 percase NIA
+30231_| Nutrition Supplements
+BoostStrawberry 1Case_| Upto 547_| $61.92 percase N/A
+‘TransportationNutrition
+Supplements I per | Upto4,500| $10.50 perdelivery N/A
+3023) client
+For Option Year Three, CLINS 3023 thru 3023) are notapplicable
+B.4.5TheContractorshall provide firmfixed unit pricesforeachCLIN item inthe Food
+Service Category/CategoriestheOfferorisproposingtoprovide,asspecified
+in Section
+B.4and in accordance withthestatementofwork describedin Section C.
+CLIN
+Unit PricePer
+Unit Total
+Mayor'sAnnual Holiday Party
+3024] Mayor'sAnnual Holiday Tmeal|Upto 3,000] $40.45 ‘$121,350.00
+MealsconsistofHotPlate—~
+entrée, vegetables,dressing,
+starchy vegetable, roll
+Beverage,Salad,Dessert,
+Water,Tablecloths, Plastic,
+(clear)
+3 025 M Pa a r y ty o : r' S s up A p n l n i u e a s l fo H r ol se i t da u y pand Permeal| Upto3,000 $7.99 $23,971.50
+serviceofeacheventas listed
+in SectionC.3.12
+Page 13 of22
+
+‘CW98887,Mod 16
+GreatAmericanCorporation
+3026 Mayor'sAnnual Holiday (Hourly) up Upto240 $44.10per $3,200.00
+Party: Foodserversare hour
+to20
+neededatthe minimumof servers
+four hoursperevent
+SeniorSymposium
+3027 ‘Senior Symposium: Meals- T meal Upto 2,000 $49.24 $98,480.00
+includes hotfoodandcold
+foodboxes. Meal includes
+complete meal.
+Mealsconsist ofHotPlate—
+entrée,vegetables, dressing,
+starchyvegetable,roll
+Cold Boxconsistof
+Beverage, Salad, Dessert
+Water, Tablecloths,Plastic,
+(clear)
+SeniorSymposium: Supplies Permeal Upto2,000 $8.30 ‘$16,780.00
+forset upandserviceofeach
+eventas listed in Section
+C3.12
+3029 SeniorSymposium: Food Hourly (up Upto240 $44.10per $3,200.00
+servers areneededatthe 1020 hour
+minimumoffour hoursper servers)
+event
+Centenarian Event
+3030 CentenarianEvent: Meals- T meal Upto 400 $33.02 $13,207.95,
+includes hotfoodandcold
+food boxes. Meal includes
+‘completemeal.
+MealsconsistofHotPlate—
+entrée, vegetables,dressing,
+starchyvegetable, roll
+Cold Boxconsist of
+Beverage, Salad, Dessert,
+Water,Tablecloths,Plastic,
+(clear)
+Permeal Upt0400 $8.81 $3,523.50
+eventas listedin Section
+C3.12
+‘Centenarian Event: Food Hourly (up Upto240 $44.10 $3,200.00
+servers are neededatthe 10 20 perhour
+minimumoffourhoursper servers)
+event
+Page 14of 22
+
+(CW98887, Mod 16
+GreatAmericanCorporation
+Senior Fest
+3033| SeniorFest I meal| Upto2,500 $36.40 $91,011.38
+Option YearThree NTE Subtotal CLINS 3024-3033 $378,008.42
+B.4.6 Option Year Three Price ScheduleSummary
+OptionYearThreeSummary
+CLINS 3001-3005, N/A
+CLINS3006-3008 N/A
+CLINS3009-3022 $4,732,380.04
+CLINS3023-3023} NA
+CLINS3024-3033, $378,908.47
+NTE Option YearThreeTotal $5,111,288.46_
+Page 15of22
+
+(CW98887,Mod16
+GreatAmericanCorporation
+ATTACHMENT A-3
+GREATAMERICAN CORPORATION
+PRICE SCHEDULE-OPTIONYEAR FOUR
+BS. Option YearFourPeriodofPerformance
+B.S5.1. TheContractorshall provide firmfixedunitprices foreachCLIN item in the
+Food Service Category/Categories the Offeror is proposing to provide, as specified
+in Section B.Sand in accordance with the statementofwork describedin Section C.
+CLIN Item Description Unit| Quantity | Price Per Unit Total
+|HomeDelivered Meal Ho/Gold NA
+4001 [Ready-to-Eat 1 | Upto60,s96| $9.64
+4002 |Home Delivered Meal Hot/Cold 1 Upto3,500 NA
+|Ready-to-Eat~Vegetarian $9.64
+NA
+Home DeliveredMeal Hot/Cold I Up to6000 $13.35,
+4003| Ready-to-Eat
+CulturallySensitive
+$9.64 N/A
+4004|Home Delivered Meal Hot/Cold 1 Up to3500
+Ready-to-Eat Medically Tailored
+NA
+TransportationHot/ColdAll $12.15
+Ready-to-Eat Meals Home 1 Up to73,596
+Delivered Meals
+JOption YearFour, CLINS 4001 thru 4005 are not applicable
+B.5.2 TheContractorshall provide firm fixed unit pricesfor each CLIN item in the
+Food Service Category/CategoriestheOfferor is proposingto provide, as specified
+in Section B.S and in accordance with the statement of work described in Section
+Gs
+Page 16of22
+
+(CW98887,Mod16
+GreatAmericanCorporation
+CLIN Item Description| Unit | Quantity Price Per Total
+Unit
+4006 | FrozenMeal(Holiday 1 Up to 1800 $11.77
+Premium) Pre-Cooked NA
+‘Complete Meal
+T | Upto 84,000 NA
+4007 | FrozenMeal $10.55 per
+unit
+‘Transportation Frozen T
+Home Delivered Meals, Up 107000 $11.57 per NIA
+4008|PerClient Delivery (seven delivery
+mealsper
+delivery)
+{Option YearFour, CLINS 3006 thru 3008 are not applicable
+BS.3 TheContractorshall provide firm fixed unit prices foreach CLIN item in
+the Food Service Category/Categories the Offeror is proposing to provide, as
+specified in Section B.5 and in accordance withthe statementofwork described
+in Section C.
+CLIN ItemDescription Unit Quantity/Price PerUnit NTE Total
+4009 {Community DiningSiteBulk| 1 |Upto $9.39 $2,015,976.66
+leals 214,694
+4010 [CommunityDining SiteCold
+|Boxed ReadytoeatMeals. 1 |Upto $9.64 $1,030,593.12
+[106,908
+ommunity DiningSite Hot
+4011 /Preplatedreadytoserve 1 |Upto $9.64 $564,865.44
+38,596
+‘ommunity Dining Site
+4012 CulturallySensitive 1 Ipto $13.35 $349,035.75
+226,145
+|CommunityDiningSite
+4013 |Vegetarian 1 |Upto $9.64 $157,392.28
+116,327,
+Page 17of 22
+
+(CW98887,Mod 16
+GreatAmericanCorporation
+|Community DiningSite,
+4014. Medically Tailored
+$10.86 $188,529.60
+7,360
+4015 Shelfstablemeals- Boxed 1 [upto200 $8.28 $1,656.00
+readytoeatmeal.
+‘ontinental Breakfast!-shall Upto255 $15.17per $3,868.35
+4016a fonsistofdifferent
+person
+smbinations ofavariety of
+tries,donuts,yogurt,
+wealthbars, 100% fruitjuice,
+ofifee,creamer,sugar,
+gelsw/sourcream
+4016b [Continental Breakfast2 shall 1 [Upto255 $19.36 $4,936.80
+‘onsistof: meat: bacon,
+usage(onepork one
+[Turkey),toast, eggs,
+potatoes, 100%fruitjuice,
+coffee,creamer,sugar,
+fea utensils,cupsand|
+set-up shouldbeincluded in
+ost
+BoxedLunchesfor
+4017 |Special Events(i.e. 1 ipto2,366]$13.29per
+$31,444.14
+indwich, fruit, beverage
+okies, vegetable salad,
+ater, appropriate
+condiments)
+‘ood Suppli es(Utensils to
+1PerMeal |Upto
+[$0.48 permeal $212,472.48
+142,651
+rapped; individually
+wrappedstraws, plastic
+sandwich bags forbread,
+lates (10 inch or3
+-ompartment), placemats,
+oz. Salad bowls, 80z
+coffeecupsand coffee
+‘irrers. Coffee,Decaf
+fee, Tea,Non-dairy,
+suga&r sugarsubstitute, 8
+Soup bowls.
+4019 [Food SuppliesCondiments Per
+formeal itemasappropriate Meal |Up to ‘$0.48 per meal $212,472.48
+0includeketchup,mustard, 142,651
+laddressingtwopackets
+er80zsalad, mayonnaise,
+alt& pepper individual
+ickages, regularcoffee,
+caf coffee, tea, nondairy
+Page 18of22
+
+‘CW98887,Mod16
+GreatAmericanCorporation
+Teamer,sugarandsugar
+substitute.
+|General Site Sup;
+include papertowels(three $48.61 $51,818.26
+lls perweek), heavy Per lUpto 1,066} (Al sites)
+luty 60-gallon trash bags Delivery
+4020 {twenty bagsperweek), (Two
+leprons (twentyaprons per Deliveries
+reek), hair nets (twenty [permonth)
+Es nets perweek), plastic
+loves(twenty sets of
+lasticgloves perweek).
+‘General sitesupplies- Per 360.76 $5,468.40
+Disposableorreusable Site(Two Up10.90 persite
+serving utensilsto include: deliveries (41 Sites)
+‘Tongs, spatulas,serving per Year)
+spoonsandLadles for
+soupsandsauces. Digital
+thermometer (three each
+site), refrigerator
+thermometer(twoeach
+ite)
+[TransportationCommunity
+ipto6,426] $15.19 $97,610.94
+4022 PiningSites
+{Option YearFourNTE Subtotal CLINS 2009-2022 $4,928,140.70
+B.S.4 The Contractor shall provide firm fixed unit prices for each CLIN item in the
+Food Service Category/Categories the Offeror is proposing to provide, as specified in
+SectionB.S and in accordancewiththe statementofwork describedin Section C.
+Total
+CLIN, ItemDescription Unit Quantity Price PerUnit
+4023 |Nutrition Supplements 1 Case Upto92 $90.00percase NA
+Nepro ButterPecan
+4023a_| Nutrition Supplements
+40236 | N Nu e t p r r i o tio V n an S i u ll p a plements 1Case Up to 132 $90.00percase N/A
+NeproWildberry 1 Case Upto 118 $90.00percase N/A
+‘NutritionSupplements
+4023¢_| N E u n t s r u i r t e io C n le S a u r pplements 1 Case Up to48. $40.00per case N/A
+4023d_| EnsurePlus Vanilla 1 Case Upto 3470 $40.00percase NA
+Page 19of22
+
+(CW98887,Mod 16,
+GreatAmericanCorporation
+4023e|Nutrition Supplements
+EnsurePlus Chocolate | 1Case | Upto 1368| 40.00percase NIA
+4023f|Nutrition Supplements
+EnsurePlus Strawberry | 1Case | Upto2001 | $40.00percase N/A
+4023g_| Nutrition Supplements
+Boost Vanilla 1Case| Upto 504| $61.92percase N/A
+4023h| NutritionSupplements
+BoostChocolate 1Case | Upto547 | $61.92 percase N/A
+40231_| Nutrition Supplements
+BoostStrawberry 1Case_| Upto 547_| $61.92 percase NA
+‘TransportationNutrition
+Supplements, 1 per| Upto 4,500| $10.50perdelivery N/A
+4023} client
+For Option Year Four, CLINS 4023 thru 4023} are not applicable
+B.5.5 TheContractor shall providefirmfixed unit
+ServiceCategory/CategoriestheOfferorisproposingto provide, as specified in Section
+B.S and inaccordance with the statementofwork described in Section C.
+CLIN | Item Description Unit
+Total
+Mayor’sAnnual HolidayParty
+4024 |Mayor'sAnnual Holiday T meal Upto3,000|$42.47 |$127,410.00
+Party: Meals-
+(Traditional Hotiday Menu).
+Meal includescompletemeal.
+Mealsconsist ofHot Plate~
+entrée,vegetables, dressing,
+starchy vegetable, roll
+Cold Boxconsist of
+Beverage, Salad, Dessert,
+Water, Tablecloths, Plastic,
+(clear)
+4025 | Mayor's Annual Holiday |Permeal |Upt03,000|$8.39 ‘$25,170.08
+Party: Supplies forset upand
+serviceofeacheventas listed
+in SectionC.3.12
+Page20of22
+
+(CW98887,Mod16
+GreatAmericanCorporation
+4026 Mayor's Annual Holiday (Hourly)up|Up to240 $4631 per $3,704.80
+Party: Food servers are hour
+to20
+needed attheminimum of servers
+fourhoursperevent
+SeniorSymposium
+4027] SeniorSymposium: Meals- T meal Upto2,000 $51.70 $103,400.00
+includeshotfoodandcold
+foodboxes.Mealincludes
+completemeal.
+MealsconsistofHotPlate—
+entrée,vegetables,dressing,
+starchyvegetable, roll
+Cold Boxconsist of
+Beverage, Salad, Dessert,
+Water, Tablecloths,Plasti
+(clear)
+4028 | SeniorSymposium: Supplies Permeal |Upto 2,000 $8.81 $17,620.00
+forsetupandserviceofeach
+eventas listed in Section
+3.12
+4029 | SeniorSymposium: Food Hourly(up | Upto240 $46.31 per $3,704.80
+serversareneeded atthe 1020 hour
+minimumoffourhours per servers)
+event
+‘Centenarian Event
+4030] Centenarian Event: Meals- T meal Upto400 $34.67 $13,868.35
+includes hotfood andcold
+foodboxes. Meal includes
+‘completemeal.
+Mealsconsist ofHotPlate—
+entrée,vegetables,dressing,
+starchy vegetable,roll
+ColdBox consistof
+Beverage,Salad, Dessert,
+Water, Tablecloths, Plastic,
+(clear)
+4031 | Centenarian Event: Suppl Permeal |Upto 400 $9.25 $3,699.77
+forset upandserviceofeach
+eventas listedin Section
+C3.12
+4032 |Centenarian Event: Food Hourly(up |Upto240 $46.31 per $3,704.89
+serversareneeded atthe 1020 hour
+minimumoffourhoursper servers)
+event
+Page21 of 22
+
+(CW98887, Mod16
+GreatAmericanCorporation
+‘SeniorFest
+4033 SeniorFest I meal Up to 2,500| $38.22 per| $95,561.94
+unit
+Option YearFourNTE Subtotal CLINS 3024-3033 $397,844.54
+B.5.6 Option Year Four PriceScheduleSummary
+Option Year FourSummai
+CLINS 4001-4005 N/A
+CLINS4006-4008 NA
+CLINS 4009-4022 ‘$4,928,140.70
+CLINS4023-4023} NIA
+CLINS 4024-4033 $397,844.54
+NTEOption YearFourTotal $5,325,985.24
+Page22of22
+
+12/5/2024
+
+1. Contract Number Page of
+MODIFICATION OF CONTRACT
+1
+PageI s
+CW98887
+2
+2.Amendment/Modification Number 3.Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+1
+1 RK291580 1Community Dining and Home
+M017a January 17, 2025
+Delivered Meals
+6. Issued by: Code I 7.Administered by (If other than line 6)
+and
+of
+Officet h Contracting and Procurement Depaitment of Aging Community Living
+441 4 StreetD, CN W, Suite 310 South 500 K
+Street NE, Washington, DC
+20002
+Washington, 20001
+8. Name and Address of Contractor (No. stree� city, county, state and zip code) 9A. Amendment of Solicitation No.
+Mr. Kevin Linnane X 9B. Dated (See Item 11)
+Great American Corporation
+2625 EVARTS STREET NE UNIT B 1C OWA.9 M8o8d8ifi7ca tion of Contract/Order No.
+WASHINGTON DC20018-1410
+Kevin@dutchmillcatering.com
+10B. Dated (See Item 13)
+Code Facility 05/16/2022
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS D D
+0The above numbered solicitation Is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment p0rio r to the hour and date specified in the solicltation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15, and returning copies of the amendment (b) By acknowledging receipt of this amendment on each copy of the
+offer submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR
+ACKNOWLEDGMENT TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED
+MAY RESULT IN REJECTION OF YOUR OFFER. If by virtue of tt1is amendment you desire to cl1ange an offer already submitted, such may be made by letter
+or fax, provided each letter or telearam makes reference to the solicitation and this amendment, and is received orior to the ooenina hour and data specified.
+12.Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS ,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR 3601.3(b)
+The changes set forth in Item 14 are made in the contract/order no. in item 1O A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR. Chapter 36, Section 3601.2.
+C. This supplemental agreement is entered in1o pursuant to authority of:
+X
+D.Other (Specify type of modification and authority)
+Contract Modification -27 DCMR, Chapter 36, Section 3601(c)
+D
+E.IMPORTANT:
+Contractor is not [8J is required to sign this document and return _1_ copies to the issuing office.
+14.
+Description of Amendment/Modification:
+This
+modification is modified as follows:
+1. 7, 2025 7, 2025.
+Partial option year two period of performance term date is revised from Februaty to March
+2. $490,000 pf
+Obligates and additional total for the extfreonmde d$2 p,5er7i2o,d6 93.p5e0r for$m3a,0nc62e ,u6n9d3e.5r 0o.ption year two. As a result,
+the cumulative not-to-exceed increases to
+3. 2015-4281, 32 23, 2024.
+Incorporated by reference the Wage Determination Revision dated December
+4.
+Incorporated by reference, the Districts Department of Employment Services Living Wage Fact Sheet
+$17.50
+and Living Wage Notice, detailing the Districts minimum wage and living wage rate of per
+1 30, 2025 $18.00 1.2025.
+hour effective January through June and per hour effective July
+9A OA
+Exceptfu asl lp rovided herein, all terms and conditions of the document is referenced in Item or I remain unchanged
+and in force and effect.
+
+CW98887 Mod 17a
+Great American Corporation
+1/16/2025
+
+1 CanvaaNariber Page of
+o
+MODIFICATION OF CONTRACT éwoeesr ats
+72. A
+M
+m
+o
+en
+i
+d
+7
+mentModification Number | 3
+S
+.
+e
+E
+e
+ffe
+b
+ct
+o
+i
+x
+ve
+1
+D
+6
+a
+C
+t
+.
+e ‘4, Requisition/PurchaseRequest No. | 5
+o
+. So
+n
+lct
+y
+atio
+D
+n
+in
+C
+i
+a
+n
+p
+g
+ti
+o
+on
+n Horie
+T siea by Code 7 aadbyWateranTe6)
+OfficeofContracting and Procurement Department ofAging and CommunityLiving
+441 4% Street, NW, Suite310 South ‘ > Washi +5)
+Washington, DC 20001 500K Street NE, Washington, DC 20002
+Nameand AddressofContractor(No. aveet, ly, county, sateendzipCode) BA AmendofmSoelctnatiton No.
+Mr. KevinLinnane x [8B DatedGee tem 17)
+GreatAmerican Corporation
+2625EVARTS STREET NE UNITB "TOA ModiicationofContracvorderNo.
+WASHINGTON DC20018-1410 cwse887
+Kevin@dutchmillcatering.com
+VOB. Dated(Seeliam73)
+Code Facility 05/16/2022
+T-THIS ITEMONLYAPPLIESTOAMENDMENTSOFSOLICITATIONS
+[trasnve menor sicttin amendstn ns Twoi aata spearceo fers Cs ens] rtee
+iusacknaledgerecapafhis amendmentpattheheuranddaepectedintesatano:ss amended, byane oftheoloingmethods
+“ah 8ycoeleng Honesare anatunin"gO- ""colsete ener) ennemodngroelOve amencatoneacscoyofthe
+offer sco: o(6BYseparalateorfxWich middas foferonon foesolctabin andsreonamelamber, FAILURE OF YOUR
+ACKOWLEDEMENT TOBE RECEIVEDATTHEPLACEDESIGNATEDFORTHERECEIPT OF OFFERS PRIOR TOTHsHOURANDDATE SPECIFIED
+MAYRESULT INREJECTIONOF YOUROFFER. iby vitueofheamoncmentyoudesireto change anofer alreadyeubmtied,suchmay bernadoby lller
+orfax,providedeachltrereegrammakesreferoncsothesofctalon and ts amondmer. andsroclvedpirtotne opaninghouand datespaced
+12. AccountingandAppropriationData (¥Required)
+75. THISITEMAPPLIES ONLYTOMODIFICATIONS OFCONTRACTSIORDERS
+ITMODIFIESTHECONTRACT/ORDERNO. AS DESCRIBEDINITEM 14
+XK] A Thischangeoridsisesured pursuantto(SpecifyAuthority) 27 OCMR3601.31)
+“Thechangessetforth inlem 14aremadeinthecontractorderno. intem 10A.
+Theabovenumberedcontract/orderismodifiedtoreflec the adminietralivechanges(such aschanges Jnpaying offos, appropriation dala
+tc.) set forthintem 14, pursuantottheaulhorty of 27 DCMR,Chapter 36,Section 3601.2
+Thissupplemental agreement isentered intopursuantfoauthority of:
+- Gther(Specty ypeofmodiicatonand authoniyy
+Contract Modification~27 DCMR,Chapter 20, Section 2008
+E.IMPORTANT: —Contractoirs[n_o]t [/ isrequiredtosighthisdocument and return _1__copies to theissuing office.
+14, Description ofAmendment/Modification:
+‘This modification is modifiedas follows:
+1, Tocorrect price calculations and quantities, as applicable in CLINS 2025, 2026, 2029, 2030, 2031, 2032, 3026,
+3029, 3032, 3033, 4026, 4029, and 4032. Thedetail changesare asfollows:
+‘TheTotal in CLIN 2025 is corrected to read $22,830 (from $22,837.50)
+e 100)
+g ‘TheTotal in CLINS 2026, 2029and 2032 is corrected to read $3,360 (from $:
+The total in CLIN 2030 iscorrected to read $12,580(from $12,579).
+e
+a Thetotal in CLIN 3033 iscorrectedto read$91,000(from$91,011.38)
+e
+‘TheTotal in CLINS 3026, 3029and 3032 is corrected to read $3,360 (from $3,200)
+e
+‘TheTotal in CLINS 4026, 4029and 4032is corrected to read $3,528 (from $3,200)
+m
+In CLIN 2026,2029, 2032, 3026, 3029, 3032, 4026, 4029 and 4032 the quantityis correctedtoread “upto
+e
+80” (from “up (0 240”).
+
+2/19/2025
+
+1 Corivac Naber Pageof
+MODIFICATION OF CONTRACT cwosss7 TT
+‘&AmendmentModifcationNumber| 3. EffectiveDato % Requistion/PurcheseRequestNo.|5.SolctatonCaption.
+Mot7e Seebox 16C. feneestisar rome
+6.issuedby: Code 7,Adminbiy(sIfottheertrhanelidne 6)
+repakContractingand er DepartmentofAgingan"dCommunity Living
+centrteebte,|s0 NW, 00 Su 1 l 500 K Street NE, Washington, DC 20002
+7 NameandAddressofConractoNro eo iy,cou.Sal an apcade) SK FriofaSontnatontNo
+Mr. KevinLinnane x [8 DaGeto teerdTHy
+GreatAmericanCorporation
+2625EVARTS STREETNE UNITB 10A. ModifoifcConatrtacti/Oordner No.
+WASHINGTONDC20018-1410 Cw98867
+Kevin@dutchmillcatering.com
+OB, Dated (SeeTemTy
+Code Faciy 05/16/2022
+Ti THISITEMONLYAPPLIESTOAMENOMENTS OFSOLICITATIONS:
+| [ltrsstove ruber stcttonisenendesatsloth fam14.The hou anddatepectedforeco offers]isenonooa I srtonendea
+(Orsmustacirowiege eco ofisamanda orthhouranddataspeci Ineastatonoreamended byoeoftheflowing medods
+(3)8ycompleting ams8and 15,andreturing -_"Q._ copisofthe amendment: 0)By scknowiedgingrecatoffsamendmentoneach copy ofthe
+flor sre)BYseperate atolxWGNnua» atarncetoesociationan amengmeNtnumber. FAILOFUYROUER
+ACKNOWLEDGMENTTOBERECEIVED AT THEPLACE DESIGNATEDFOR THERECEIPTOFOFFERS PRIOR TOTHEHOURANDOATESPECIFIED
+MAY RESU LTINREJEOCFYTOUIROFOFENR.ify viteosemendmert youdose change anole eysubmited.suchmaybamadebyltr
+‘orfax,provedeach eterotelegram makesreferencetothesolicaion andtisamendment.andis celvedpietotheopeninghouranddatespecie.
+"2.AccaonduApprnoprtiatiionDnatag(WfRequired)
+TS.THISITEMAPPLIES ONLYTOMODIFICATIONSOFCONTRACTSIORDERS,
+IT MODIFIES THECONTRACTNO/.OASRDEDSCERIRBEDINITEM 14
+XX |A.Thischangeorderiissuedpursuantto(SpecifyAuthonty): 27 OCMR3601.31)
+‘Thechangessetfor initem 14aremadeinthecontractlorderno.Intem 10A.
+'BTheabovenumberedcontracVorderismodified toreflectheadministrativechanges(euchas changes ih payingoffce, appropriationdata
+ic.)sotforthintem 14,pursuanttothe authorityof27OCMR, Chapter36, Section3601.2.
+‘C.Thissupplementalagreementisenteredinfopursuantfo authorityof
+'D. Other(Specilytypeofmodificationandauthorty)
+ContractModification-27 DCMR,Chapter20, Section2008
+E.IMPORTANT: Contractoris[n_o]t BS)isrequiredtosignthisdocumentandreturn —1__copiestotheisuing ofc.
+14. Description ofAmendment/Modification:
+Thismodification ismodifiedasfollows:
+1. Obligates additionalfunds intheamountof$20,000.00. The totalamountobligatedincreases from$980,000to
+$1,000,000.
+Exceptas provided herein, all termsand conditionsofthe document is referenced in Item 9A or 1A remain unchanged
+and infull forceandeffect.
+TSA,NarveandTileofSigner(TypeoFprim) TEA,NameofContactOMiTenegr
+BernadetteCatalan
+(evn Livene Dy
+iisNan oe (btSa as amoop DatSat
+Pe LK Nererere |o2/z/ eunadati Catalan 2121/2025
+‘SeLeee ros =121[202©|SnofaConrcningOer
+
+Y
+7 Convact Namber Pageof
+MODIFICATION OF CONTRACT cwesss7 7ea
+7 RmendmentModticNaumtboenr|3 EfeciveDate “7 RequiiionPurcnaveRequest No. | 5, SolcTavonCaption
+Mots Ail5, 2025 SommuntyDing entHome
+S-lesuebyd Cote 7 asbyt(TatrerTanohe6)
+OfficeofContractingand Procurement DepartmentofAgingand Community
+441 4° Street, NW, Suite700South 500 K StreetNE,
+Ml Washington, DC 20002
+'E NameandAddressofContracor(Ne sree, ly, couniy, sateandtpcade) ‘BA AmendmentofSoictationNo
+Mr. Kevin Linnane x [BB DatedGeetemTH)
+GreatAmericanCorporation
+2625EVARTSSTREETNE UNITB "TOA Modification ofContracvOrderNo
+WASHINGTONDC20018-1410 cw9eee7
+Kevin@dutchmilleateringcom
+0B, Dated(Seetem19)
+Code Fecity 05/16/2022
+Ti-THIS ITEMONLYAPPLIESTOAMENDMENTS OFSOLICITATIONS
+[Ltreabovenumberedsoictaton isamendedastotinter14. ThehouranddatspciedforreceiptofOars isextended. ena extended
+(orsmustacknowledgereceiptofhsamenementror thehou an datspecedintheeclotatonoraamendes, byoneoftefolowing methads
+(a)Bycompletingfame8 and9,andretumieg ~~ copsotheerence)Syacknamseging recatfeamercinetonahpyofthe
+fersubmited:o()BYseperateetoerfrax wichBENEaefarncotothesolctaton andamendmentruber, PALURE OFYOUR
+‘ACKNOWLEDGMENTTOBERECEIVEDATTHEPLACEDESIGNATEDFORTHERECEIPTOFOFFERS PRIORTOTHEHOURANDOATESPECIFIED
+MAYRESULTIN REJECTION OFYOUROFFER. toyvituaoeamendmec!youdesefochangeanofareadysuoied. suchmaybemadebyeter
+‘orfax providedeacheterotlgrammakes‘ferencefothegoictatonarsthssmendme and recevedprtheopeningNauanddaaspecied
+"72 AccountingandAppropriationData(ifRequired)
+Ta. THISTEM APPLIESONLYTOMODIFICATIONS OFGONTRACTSIORDERS,
+ITMODIFIESTHE CONTRAGTIORDERNO. ASDESCRIBED INITEM14,
+"A Thischangeorderissvedpursuantto(SpecifyAuthority): 27DCM3601.30)
+“Thechangessetforthinlem14aremadeinthe contracVorderno. initem10.
+'E TheabovenumberedconiracVorder ismodifiefodreflecheadministrativechanges(suchasChangesipayingofice, appropriationGala
+tc) setfortintem14, pursuanttotheauthorityof27OCMR, Chapter36, Section 3601.2
+‘T-This supplementalagreementisenteredinfopursuantfoaunontyof:
+%__] B- GiherSpeciytype ofmodificationandauthor)
+ContractModification-27 DCMR, Chapter20, Section 2008
+EIMPORTANT: Contract_or]isnot _ Dai)s requiredtosigthisdocumentandretum _1__copies totheissuing offce
+14. DescriptionofAmendment/Modification:
+‘This modification:
+1. Fullyexercisesoptionyeartwoofthe HCA.
+2. Extends the periodofperformanceofoption yeartwoof the HCA from April 4, 2025 to May 15, 2025.
+3. Increases thetotal not-to-exceed amount foroptionyeartwo ofthe HCA by $1,758,531.87, from
+$3,082,639.53 to $4,841,171.40,
+Exceptas providedherein,alltermsandconditionsof thedocument isreferenced in Item 9A or 10A remain unchanged
+andin full force andeffect.
+TS A, NameandTieofS igner(T ypeor Pam) TGANameof ContractingOficor
+BernadetteCatalan
+CKAT'S
+SD, NameofContactor TSC.DateSigned | 16D. DistofrCoilucmbtia THDateSigned
+Ysfps (Signature ofConc Offer)

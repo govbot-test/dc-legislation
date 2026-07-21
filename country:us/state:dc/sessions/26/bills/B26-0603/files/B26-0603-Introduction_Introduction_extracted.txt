@@ -1,0 +1,135 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+OFFICE OF COUNCILMEMBER BROOKE PINTO
+THE JOHN A. WILSON BUILDING
+1350 PENNSYLVANIA AVENUE, N.W., SUITE 106
+WASHINGTON, D.C. 20004
+February 24, 2026
+Nyasha Howard, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, N.W.
+Washington, DC 20004
+Dear Secretary Howard,
+Today, I, along with Chairman Mendelson, am introducing the “Body-Worn Camera Transparency
+for Use of Force Amendment Act of 2026.” This bill would enhance transparency with use of force
+incidents involving federal agencies.
+District residents deserve transparency when there is a serious use of force or officer-involved
+death involving federal agencies. Current law requires that the Mayor release body-worn camera
+recordings of Metropolitan Police Department (“MPD”) officers present in the event of an officer-
+involved death or serious use of force by an MPD officer. However, there is no such requirement
+for release of MPD body-worn camera recordings when the officer-involved death or serious use
+of force involves a law enforcement officer from another agency.
+Additionally, on December 18, 2025, Councilmember Pinto sent a letter to MPD requesting data
+about how federal law enforcement officers are being deployed in joint patrols with MPD officers.
+While MPD’s initial response to the letter did not address these specific questions, MPD
+subsequently provided responses to performance oversight pre-hearing questions from the
+Committee on the Judiciary and Public Safety and indicated that such information was not able to
+be shared.
+To enhance transparency around federal law enforcement serious uses of force as well as patrols
+with MPD, the Body-Worn Camera Transparency for Use of Force Amendment Act of 2026
+would:
+• Require the public release of MPD body-worn camera recordings of all officer-involved
+deaths or serious use of force incidents as well as the names of all officers involved and a
+description of the incident. For body-worn camera recordings involving an officer-
+involved death, the decedent’s next of kin must provide consent for the footage to be
+released. For recordings of a serious use of force incident, the alleged victim or guardian if
+the victim is a minor must consent to its release.
+• Require that MPD’s public database of MPD body-worn camera recordings and names of
+all officers directly involved with an officer-involved death since January 1,
+2026, include names of directly involved federal law enforcement officers, as available.
+
+• Require a roll call record of all federal agents in attendance at daily MPD roll call to provide
+transparency with MPD joint patrols with federal agencies.
+Should you have any questions about this legislation, please contact my Committee and Legislative
+Director, Linn Groft, at lgroft@dccouncil.gov.
+Thank you.
+Best,
+Brooke Pinto
+
+1
+2
+3 ________________________ ________________________
+4 Chairman Phil Mendelson Councilmember Brooke Pinto
+5
+6
+7
+8 A BILL
+9
+10 _________________________
+11
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+13
+14 _________________________
+15
+16
+17 To amend the Body-Worn Camera Regulation and Reporting Requirements Act of 2015 to
+18 require release of body-worn camera recordings of Metropolitan Police Department
+19 Officers present in the event of an officer-involved death or serious use of force by a law
+20 enforcement officer other than a Metropolitan Police Department officer; and to require
+21 that the Metropolitan Police Department record and share information about all law
+22 enforcement officers present at roll calls.
+23
+24 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may
+25 be cited as the “Body-Worn Camera Transparency for Use of Force Amendment Act of
+26 2026”.
+27 Sec. 2. Section 3004 of the Body-Worn Camera Regulation and Reporting Requirements
+28 Act of 2015, effective October 22, 2015 (D.C. Law 21-36; D.C. Official Code § 5-116.33), is
+29 amended as follows:
+30 (a) Subsection c(2)(A) is amended as follows:
+31 (1) Sub-subparagraph (i)(I) is amended to read as follows:
+32 “(I) The names and body-worn camera recordings of all
+33 Metropolitan Police Department officers as well as the names, as available, of all other law
+34 enforcement officers directly involved in the officer-involved death or serious use of force; and”.
+
+35 (2) Sub-subparagraph (ii) is amended by striking the phrase “; and” and inserting
+36 the phrase “, provided that for all officer-involved deaths since January 1, 2026, the information
+37 reported pursuant to this sub-subparagraph shall include the names of all Metropolitan Police
+38 Department officers, as well as the names of other law enforcement officers, as available,
+39 directly involved in the officer-involved death; and” in its place.
+40 (b) Subsection (e)(1) is amended by striking the phrase “serious use of force” and
+41 inserting the phrase “serious use of force directly involving an MPD officer” in its place.
+42 (c) Subsection (g)(3) is amended as follows:
+43 (1) Subparagraph (A) is amended by striking the phrase “Metropolitan Police
+44 Department officer” and inserting the phrase “Metropolitan Police Department officer, or any
+45 other law enforcement officer while an MPD officer is present” in its place.
+46 (2) Subparagraph (B) is amended by striking the phrase “Metropolitan Police
+47 Department officer” and inserting the phrase “Metropolitan Police Department officer, or any
+48 other law enforcement officer while an MPD officer is present” in its place.
+49 (3) Subparagraph (C) is amended by striking the phrase “Metropolitan Police
+50 Department officer” and inserting the phrase “Metropolitan Police Department officer, or any
+51 other law enforcement officer while an MPD officer is present” in its place.
+52 (4) Subparagraph (D) is amended by striking the phrase “Metropolitan Police
+53 Department canine” and inserting the phrase “Metropolitan Police Department canine, or canine
+54 of any other law enforcement officer while an MPD officer is present” in its place.
+55 Sec. 3. (a) Beginning on the effective date of this Act, the Metropolitan Police
+56 Department shall record the following information for all law enforcement officers, other than
+57 MPD officers, present at roll call:
+
+58 (1) Full name;
+59 (2) Badge identification number or other identifying number;
+60 (3) Law enforcement agency represented; and
+61 (4) Assignment for the shift.
+62 (b) The Department shall make the information recorded pursuant to subsection (a) of
+63 this section available to the Chairperson of the Council Committee with jurisdiction over the
+64 Metropolitan Police Department (“Chairperson”) upon request within 5 business days of such
+65 request.
+66 (c) The Department shall provide aggregate information regarding paragraphs (3) and (4)
+67 of subsection (a) of this section available to the public upon request by the Chairperson within 5
+68 business days of such request.
+69 Sec. 3. Fiscal impact statement.
+70 The Council adopts the fiscal impact statement in the committee report as the fiscal
+71 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+72 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+73 Sec. 4. Effective date.
+74 This act shall take effect after approval by the Mayor (or in the event of veto by the
+75 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+76 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+77 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+78 Columbia Register.

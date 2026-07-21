@@ -1,0 +1,168 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2
+3
+4 Chairman Phil Mendelson Councilmember Matthew Frumin
+5
+6
+7
+8 Councilmember Brianne K. Nadeau Councilmember Charles Allen
+9
+10
+11
+12 Councilmember Anita Bonds Councilmember Christina Henderson
+13
+14
+15
+16
+17 Councilmember Janeese Lewis George Councilmember Zachary Parker
+18
+19
+20
+21 Councilmember Brooke Pinto
+22
+23
+24 A BILL
+25
+26 _________
+27
+28
+29 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+30
+31 __________________
+32
+33
+34 To amend the Rental Housing Act of 1985 to remove the exemption from the Rent Stabilization
+35 Program for units rented to tenants using a tenant-based subsidy, to prohibit the
+36 administrator of any tenant-based subsidy from paying an increased rent without
+37 receiving proper notice that the increase is compliant with the Rent Stabilization
+38 Program, to prohibit agreements to waive the requirements of the Rent Stabilization
+39 Program, to empower the subsidy administrator to challenge any inappropriate rent and to
+40 prohibit it from denying any reasonable rent increase, and to provide for reasonable
+41 increases to unit rent after a tenant voluntarily vacates the unit.
+42
+43 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+44 act may be cited as the “Rent Stabilization Protection Amendment Act of 2025”.
+1
+
+45 Sec. 2. The Rental Housing Act of 1985, effective July 17, 1985 (D.C. Law 6-10; D.C.
+46 Official Code § 42-3502.05 et seq.), is amended as follows:
+47 (a) Section 103 (D.C. Official Code § 42-3501.03) is amended as follows:
+48 (1) Paragraph (29B) is amended by striking the phrase “title II of this act” and
+49 inserting the phrase “sections 205(g) through (h), 206 through 216, and 224 of this act” in its
+50 place.
+51 (2) A new paragraph (33B) is added to read as follows:
+52 “(33B) “Subsidy administrator” means a federal or District agency or instrumentality or
+53 other organization that makes rent payments to a housing provider as part of a tenant-based
+54 subsidy program.”
+55 (3) A new paragraph (36B) is added to read as follows:
+56 “(36B) “Tenant-based subsidy program” means a federally or District-funded program
+57 through which money is paid by a subsidy administrator to a housing provider as partial or total
+58 rent, including the Housing Choice Voucher Program, the Local Rent Supplement Program, the
+59 Family Re-housing Stabilization Program.”
+60 (b) Section 205 (D.C. Official Code § 42-3502.05) is amended as follows:
+61 (1) Section 205(a)(1) is amended to read as follows:
+62 “(a) Except as provided in subsection (e) of this section, the Rent Stabilization Program
+63 shall apply to each rental unit in the District; provided, that the following rental units shall be,
+64 upon proper registration with the Rent Administrator in accordance with subsection (f) of this
+65 section, exempt from the requirements of the Rent Stabilization Program:
+66 “(1)(A) Any rental unit:
+67 “(i) In a federally- or District-owned housing accommodation;
+2
+
+68 “(ii) In any housing accommodation with respect to which the
+69 mortgage or rent is federally- or District-subsidized, if that subsidy is conditioned on the housing
+70 provider limiting the rent for the subject rental unit and is not made pursuant to title III of this
+71 Act, except as provided in subparagraph (B) of this paragraph; or,
+72 “(iii) That is rented or co-leased by a home and community-based
+73 services waiver provider and is occupied by a tenant with a disability as defined in section
+74 103(29A) .
+75 “(B)(i) The exemption provided by subparagraph (A)(ii) shall not include
+76 a rental unit leased to and occupied by a tenant participating in a tenant-based subsidy program
+77 under a lease commencing or renewed on or after October 1, 2026. If a rental unit leased to and
+78 occupied by a tenant participating in a tenant-based subsidy program is under a month-to-month
+79 lease, the exemption provided by subparagraph (A)(ii) shall not apply after April 1, 2027.
+80 “(ii) For a rental unit subject to the Rent Stabilization Program
+81 pursuant to subparagraph (B)(i):
+82 “(I) Neither the tenant nor the subsidy administrator shall
+83 sign a voluntary agreement pursuant to section 215;
+84 “(II) Section 224 shall not apply to such tenants; and,
+85 “(III) Both the tenant and the subsidy administrator shall
+86 have standing to challenge any rent adjustment pursuant to section 216 and to obtain relief in
+87 accordance with section 901.
+88 “(iii) For any rental unit for which the exemption previously
+89 provided by this paragraph terminates pursuant to subparagraph (B)(i), the allowable rent
+3
+
+90 charged pursuant to the Rent Stabilization Program shall be computed in accordance with
+91 section 209.
+92 (c) A new section 205(g)(3) is added to read as follows:
+93 “(3) For a rental unit subject to the Rent Stabilization Program pursuant to section
+94 205(a)(1)(B), a housing provider shall serve on the subsidy administrator a copy of any notice
+95 required by paragraph (1) of this subection.
+96 (d) A new section 205(j) is added to read as follows:
+97 “(j) A subsidy administrator shall make a payment to a housing provider only after
+98 receiving a copy of the notice required to be served on the tenant required by the Rent
+99 Stabilization Program. The total rent paid to the housing provider may not exceed the amount
+100 lawfully computed under the Rent Stabilization Program and timely filed with the Rent
+101 Administrator.
+102 “(1) Each subsidy administrator shall annually send to the Rent Administrator a
+103 list of units that it is subsidizing that are subject to the Rent Stabilization Program and the rent
+104 paid for each unit.
+105 “(2) For so long as a tenant participating in a tenant-based subsidy program
+106 occupies a rental unit subject to the Rent Stabilization Program, the subsidy administrator shall
+107 take care and exercise all available legal remedies to ensure that any rent adjustment for the
+108 rental unit complies with the Rent Stabilization Program.
+109 “(3) The subsidy administrator shall not deny a request for annual increase that is
+110 in compliance with the Rent Stabilization Program unless the proposed rent would:
+111 “(i) be unreasonable pursuant to federal regulations governing the housing
+112 assistance payment and rent (at 24 C.F.R. § 982.507 or its successor); or,
+4
+
+113 “(ii) deviate from any other federal or District law or regulation setting or
+114 approving rent levels for subsidized tenancies.
+115 “(4) Nothing in this Title is intended to allow a tenant who is part of a tenant-
+116 based subsidy program to be treated differently from any other tenant in violation of the D.C.
+117 Human Rights Act.”
+118 (e) Section 206(e) (D.C. Official Code § 42–3502.06(e)) is amended to read as follows:
+119 “(e) “For a rental unit subject to the Rent Stabilization Program pursuant to Subparagraph
+120 205(a)(1)(B), a petition under section 216(a) shall always be timely. For any other rental unit, no
+121 tenant may file a petition with respect to any rent adjustment, under any section of this chapter,
+122 more than 3 years after the effective date of the adjustment.
+123 (f) Section 216 (D.C. Official Code § 42–3502.16) is amended by striking the word
+124 “tenant” wherever it appears and inserting the phrase “subsidy administrator, if one exists for the
+125 unit, or tenant of the unit”.
+126 (g) Section 209(a)(1)(A) (D.C. Official Code § 42–3502.09(a)(1)(A)) is amended to read
+127 as follows:
+128 “(A)(i) If the unit is not vacant when the exemption terminates or expires:
+129 “(I) The sum of the rent charged on the date the unit
+130 became exempt and each subsequent adjustment of general applicability authorized pursuant to
+131 subsection 206(b); or
+132 “(II) If the unit was exempt pursuant to section 205(a)(1)
+133 for more than 12 years, the sum of the rent charged on the date the unit became exempt and
+134 101.5% of each subsequent adjustment of general applicability authorized pursuant to section
+135 206(b);
+5
+
+136 “(ii) If the unit is vacant when the exemption terminates or expires:
+137 “(I) 110% of the sum authorized under sub-subparagraph
+138 (i) of this subparagraph, if the previous tenant occupied the unit for 12 years or less; or
+139 “(II) 120% of the sum authorized under sub-subparagraph
+140 (i) of this subparagraph, if the previous tenant occupied the unit for more than 12 years.”
+141 Sec. 3. Fiscal impact statement.
+142 The Council adopts the fiscal impact statement in the committee report as the fiscal
+143 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+144 approved October 16, 2006 (12 Stat. 2038; D.C. Official Code § 1-301.47a).
+145 Sec. 4. Effective date.
+146 This act shall take effect following approval by the Mayor (or in the event of veto by the
+147 Mayor, action by the Council overriding the veto) and a 30-day period of congressional review
+148 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+149 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+6

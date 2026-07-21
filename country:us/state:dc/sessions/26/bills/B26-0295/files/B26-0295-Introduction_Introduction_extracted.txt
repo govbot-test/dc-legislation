@@ -1,0 +1,489 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+June 25, 2025
+Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. M10 and M11 to Contract No. CW94742 with Verizon
+Communications Approval and Payment Authorization Emergency Act of 2025,” and the
+accompanying emergency declaration resolution.
+The legislation will approve Modification Nos. M10 and M11 to Contract No. CW94742 with
+Verizon Communications to manage and maintain telecommunications services for the
+Government of the District of Columbia, and to fully exercise option year three of the contract.
+In addition, the legislation will approve payment for the goods and services received and to be
+received under the modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modifications. In order to facilitate a response to any questions you may have, please
+have your staff contact Marc Scott, Chief Operating Officer, Office of Contracting and
+Procurement, at (202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+
+1
+~
+2
+3
+4 at the request of the Mayor
+5
+6
+7 A BILL
+8
+9
+10
+11
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+13
+14
+15
+16
+17 To approve, on an emergency basis, Modification Nos. Ml0 and Ml 1 to Contract No. CW94742
+18 with Verizon Communications, and to authorize payment for the goods and services
+19 received and to be received under the modifications.
+20
+21 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+22 act may be cited as the "Modification Nos. Ml0 and Ml 1 to Contract No. CW94742 with
+23 Verizon Communications Approval and Payment Authorization Emergency Act of 2025".
+24 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+25 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+26 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+27 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification
+28 Nos. MIO and Ml 1 to Contract No. CW94742 with Verizon Communications, and authorizes
+29 payment in the not-to-exceed amount of $2,950,642.44 for the goods and services received and
+30 to be received under the modifications.
+31 Sec. 3. Fiscal impact statement.
+1
+
+32 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+33 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+34 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+35 Sec. 4. Effective date.
+36 This act shall take effect following approval by the Mayor (or in the event of veto by the
+37 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+38 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+39 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+40 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive)
+(A) Contract Number: CW94742
+Modification Nos. M10 and M11
+Proposed Contractor: Verizon Business Network Services, LLC
+Proposed Contractor’s Principal: Sherelle Watkins
+Contract Amount: Not-to-Exceed (NTE) $2,950,642.44
+(Option Year Three)
+Unit and Method of Compensation: Fixed unit prices
+Term of Contract: April 29, 2025, through April 28, 2026
+Mod 10: partial option for April 29, 2025, through
+August 29, 2025
+Proposed Mod 11: will exercise the remainder of
+the option year, August 30, 2025, through April 28,
+2026
+Type of Contract: Indefinite Delivery/Indefinite Quantity
+Source Selection Method: General Services Administration (GSA)
+(B) For a contract containing option periods, the contract amount for the base period and for each
+option period. If the contract amount for one or more of the option periods differs from the
+amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: $3,470,986.59
+Council Approval: CA24-0462
+Option Period One Amount: $2,949,457.71
+Council Approval: CA25-0138
+1
+
+Explanation of difference from the base period (if applicable):
+Initial service setup charges were taken into consideration in the base year price.
+Option Period Two Amount: $2,950,642.44
+Council Approval: CA25-0676
+Explanation of difference from the base period (if applicable):
+Initial service setup charges were taken into consideration in the base year price.
+Option Period Three Amount: $2,950,642.44
+Explanation of difference from the base period (if applicable):
+Initial service setup charges were taken into consideration in the base year price.
+Option Period Four Amount: $2,949,457.71
+Explanation of difference from the base period (if applicable):
+Initial service setup charges were taken into consideration in the base year price.
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+Under the proposed modification, Verizon Business Network Services, LLC, shall continue
+managing and maintaining telecommunications services for the Government of the District of
+Columbia such as (1) voice services, (2) telecommunications services, and (3) private line services
+via the GSA Enterprise Infrastructure Solutions contract.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+OCP issued a Request for Task Order Proposal, Doc564821, on May 24, 2021, with a closing
+date of July 26, 2021. The District received one proposal from Verizon Business Network
+Services, LLC.
+The evaluation criteria were as follows:
+Factor 1: Technical Design and Approach
+Factor 2: Service Delivery, Operations and Management Approach
+Factor 3: Past Performance
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+None
+(F) A description of any other contracts the proposed contractor is currently seeking or holds with
+the District:
+2
+
+None
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Verizon currently provides telecommunications products and services to the District and has
+demonstrated its satisfactory performance. The contractor maintains the organization, financial
+stability, and personnel to perform the required services.
+Verizon has performed satisfactorily in the District of Columbia for more than 10 years on multiple
+contracts. Furthermore, based on the findings of the Dun and Bradstreet report dated May 29, 2025,
+Verizon Business Network Services, LLC, is in a satisfactory financial position to perform the
+requirements of this contract and has been determined responsible.
+(H) The period of performance associated with the proposed change, including date as of which
+the proposed change is to be made effective:
+M10: April 29, 2025 through August 29, 2025 (partial option exercise)
+Proposed M11: August 30, 2025 through April 28, 2026 (remainder of option exercise)
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+M10: NTE $983,547.48
+Proposed M11: NTE $1,967,094.96
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+M10: NTE $983,547.48
+Proposed M11: NTE $1,967,094.96
+(K) The date on which the contracting officer was notified of the proposed change:
+April 18, 2025
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+The contracting officer executed a partial option to ensure the contractor continues providing
+essential cellular services for public safety users within the District government pending Council
+approval.
+3
+
+(M) The reason for the proposed change:
+The contracting officer executed a partial option to ensure the contractor continues providing
+essential cellular services for public safety users within the District government pending Council
+approval.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+27 DCMR §§ 2008 and 3601
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+As per Verizon Business Network Services, LLC’s bidder offeror form received on January 25,
+2025, Verizon Business Network Services, LLC, has confirmed that they have not been found to
+have violated Section 334a of the Board of Ethics and Government Accountability Establishment
+and Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a.
+Additionally Verizon Business Network Services, LLC, confirmed that they are not currently and
+will not be in violation of D.C. Code § 1-1163.34a.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+The subcontracting requirements do not apply to this procurement.
+(Q) Performance standards and the expected outcome of the proposed contract:
+Verizon Business Network Services, LLC’s performance will be regularly and routinely monitored
+by OCTO. The expected outcome is for Verizon Business Network Services, LLC, to provide the
+District with circuit switched voice service, telecommunications services and private line services.
+(R) The amount and date of any expenditure of funds by the District pursuant the contract prior
+to its submission to the Council for approval:
+NTE $983,547.48
+4
+
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+A funding certification was completed by the Agency Fiscal Officer that complies with D.C.
+Official Code §§ 47-392.01 and 47-392.02
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The Office of the Attorney General has reviewed the proposed contract for legal sufficiency and
+deemed it legally sufficient. Verizon Business Network Services, LLC, has no pending legal claims
+against the District.
+(U) A certification that the Citywide Clean Hands database indicates that the proposed contractor
+is current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+According to the District’s Clean Hands Certification, the contractor is current with its District
+taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+Verizon Business Network Services, LLC, has certified that it is current with its federal taxes.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+Verizon Business Network Services, LLC, is not a certified local, small, or disadvantaged business
+enterprise.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+5
+
+The contractor is not listed on the District of Columbia’s Excluded Parties list nor registered in the
+SAM.gov database. The submitted Bidder/Offeror certification does not indicate that the contractor
+has been debarred from providing services to any governmental entities.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+None
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+OCP.DC.GOV
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+OCP.DC.GOV
+6
+
+(cid:5)(cid:6)(cid:3)
+;(cid:17)<(cid:9)(cid:8)(cid:15)=(cid:9)(cid:15)(cid:5)(cid:3)(cid:17)>(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:18)(cid:14)(cid:13)(cid:5)(cid:8)(cid:14)?(cid:5)(cid:3)(cid:17)>(cid:3)(cid:19)(cid:17)@A=B(cid:14)(cid:12)
+C>>(cid:14)?(cid:9)(cid:3)(cid:17)>(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:19)(cid:6)(cid:14)(cid:9)>(cid:3)/(cid:14)(cid:15)(cid:12)(cid:15)?(cid:14)(cid:12)@(cid:3)C>>(cid:14)?(cid:9)(cid:8) (cid:0)(cid:0)(cid:2)(cid:0)(cid:3)(cid:4)(cid:7)(cid:5)(cid:8)(cid:9)(cid:9)(cid:5)(cid:10)(cid:3)(cid:7)(cid:11)
+C>>(cid:14)?(cid:9)(cid:3)(cid:17)>(cid:3)D(cid:12)E(cid:3)(cid:12)(cid:15)F(cid:3)G(cid:9)<(cid:9)(cid:15)A(cid:9)(cid:3) (cid:11)(cid:12)(cid:13)(cid:6)(cid:14)(cid:15)(cid:16)(cid:5)(cid:17)(cid:15)(cid:10)(cid:3)(cid:18)(cid:19)(cid:3)(cid:20)(cid:2)(cid:2)(cid:20)(cid:4)
+(cid:21)(cid:22)(cid:23)(cid:24)(cid:3)(cid:25)(cid:26)(cid:3)(cid:27)(cid:25)(cid:23)(cid:28)(cid:29)(cid:24)(cid:30) (cid:31)(cid:22) (cid:3)!"(cid:3)#$#% (cid:27)(cid:25)(cid:23)(cid:28)(cid:29)(cid:24)(cid:3)(cid:27)+,-(cid:24).(cid:30)&$$’(’$)#*’
+H0G1IC2(cid:3)(cid:19)CJJK21(cid:19)LD1C2(cid:7) /0123(cid:3)445444677(cid:4)
+MC(cid:3)NCO(cid:3)9(cid:20)P (cid:19)(cid:12)(cid:13)(cid:9)(cid:3)1(cid:18)3(cid:3)(cid:0)7869:(cid:2)(cid:20)
+NL(cid:7)Q12;(cid:3)G1(cid:18);0(cid:3)2R(cid:3)(cid:3)(cid:2)P6(cid:20)(cid:2)5(cid:2)9(cid:20)P
+(cid:3)
+(cid:3)
+fghijkjflig(cid:3)mk(cid:3)fnglo(cid:3)ploqr
+L(cid:13)(cid:3)(cid:8)(cid:9)_(cid:17)(cid:8)(cid:5)(cid:9)F(cid:3)(cid:14)(cid:15)(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:19)@(cid:9)(cid:12)(cid:15)(cid:3)d(cid:12)(cid:15)F(cid:13)(cid:3)(cid:13)‘(cid:13)(cid:5)(cid:9)=(cid:10)(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:12)B(cid:17)<(cid:9)(cid:3)(cid:8)(cid:9)>(cid:9)(cid:8)(cid:9)(cid:15)?(cid:9)F(cid:3)(cid:14)(cid:15)F(cid:14)<(cid:14)FA(cid:12)@s(cid:9)(cid:15)(cid:5)(cid:14)(cid:5)‘(cid:3)(cid:6)(cid:12)(cid:13)(cid:3)(cid:15)(cid:17)(cid:3)(cid:17)A(cid:5)(cid:13)(cid:5)(cid:12)(cid:15)F(cid:14)(cid:15)(cid:16)
+@(cid:14)(cid:12)B(cid:14)@(cid:14)(cid:5)‘(cid:3)t(cid:14)(cid:5)(cid:6)(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:18)(cid:14)(cid:13)(cid:5)(cid:8)(cid:14)?(cid:5)(cid:3)(cid:17)>(cid:3)(cid:19)(cid:17)@A=B(cid:14)(cid:12)(cid:3)C>>(cid:14)?(cid:9)(cid:3)(cid:17)>(cid:3)D(cid:12)E(cid:3)(cid:12)(cid:15)F(cid:3)G(cid:9)<(cid:9)(cid:15)A(cid:9)(cid:3)(cid:17)(cid:8)(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:18)(cid:9)_(cid:12)(cid:8)(cid:5)=(cid:9)(cid:15)(cid:5)(cid:3)(cid:17)>(cid:3)0=_@(cid:17)‘=(cid:9)(cid:15)(cid:5)
+(cid:7)(cid:9)(cid:8)<(cid:14)?(cid:9)(cid:13)a(cid:3)L(cid:13)(cid:3)(cid:17)>(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)F(cid:12)(cid:5)(cid:9)(cid:3)(cid:12)B(cid:17)<(cid:9)(cid:10)(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:14)(cid:15)F(cid:14)<(cid:14)FA(cid:12)@s(cid:9)(cid:15)(cid:5)(cid:14)(cid:5)‘(cid:3)(cid:6)(cid:12)(cid:13)(cid:3)?(cid:17)=_@(cid:14)(cid:9)F(cid:3)t(cid:14)(cid:5)(cid:6)(cid:3)(cid:18)(cid:19)(cid:3)(cid:19)(cid:17)F(cid:9)(cid:3)u(cid:3)(cid:4)P5(cid:20)79(cid:20)(cid:10)(cid:3)(cid:3)(cid:5)(cid:6)(cid:9)(cid:8)(cid:9)>(cid:17)(cid:8)(cid:9)
+(cid:5)(cid:6)(cid:14)(cid:13)(cid:3)(cid:19)(cid:9)(cid:8)(cid:5)(cid:14)>(cid:14)?(cid:12)(cid:5)(cid:9)(cid:3)(cid:17)>(cid:3)(cid:19)@(cid:9)(cid:12)(cid:15)(cid:3)d(cid:12)(cid:15)F(cid:13)(cid:3)(cid:14)(cid:13)(cid:3)(cid:14)(cid:13)(cid:13)A(cid:9)Fa
+D1Dv0(cid:3)(cid:4)Pa(cid:3)DLOLD1C2(cid:10)(cid:3)v1(cid:19)02(cid:7)12;(cid:10)(cid:3)M0GJ1D(cid:7)(cid:10)(cid:3)L(cid:7)(cid:7)0(cid:7)(cid:7)J02D(cid:7)(cid:10)(cid:3)L2(cid:18)(cid:3)/00(cid:7)
+(cid:19)dLMD0G(cid:3)(cid:20)7(cid:3);020GLv(cid:3)v1(cid:19)02(cid:7)0
+(cid:7)KN(cid:19)dLMD0G(cid:3)11a(cid:3)(cid:19)v0L2(cid:3)dL2(cid:18)(cid:7)(cid:3)N0/CG0(cid:3)G0(cid:19)01H12;(cid:3)L(cid:3)v1(cid:19)02(cid:7)0(cid:3)CG(cid:3)M0GJ1D
+(cid:18)a(cid:19)a(cid:3)(cid:19)C(cid:18)0(cid:3)u(cid:3)(cid:4)P5(cid:20)79(cid:20)(cid:3)w(cid:20)(cid:2)(cid:2)9x
+u(cid:3)(cid:4)P5(cid:20)79(cid:20)(cid:3)MGCd1N1D1C2(cid:3)L;L12(cid:7)D(cid:3)1(cid:7)(cid:7)KL2(cid:19)0(cid:3)C/(cid:3)v1(cid:19)02(cid:7)0(cid:3)CG(cid:3)M0GJ1D
+Z+(cid:23)U(cid:25).(cid:28)\(cid:24)X(cid:3)S (cid:3)(cid:31)(cid:24)W(cid:28)TX(cid:22)(cid:3)](cid:24)T^(cid:28)T[
+S.(cid:22)T(cid:29)U(cid:3)VU(cid:28)(cid:24)(cid:26)"(cid:3)V(cid:25)WW(cid:24)(cid:29)(cid:23)(cid:28)(cid:25)T(cid:3)(cid:22)TX(cid:3)YT(cid:26)(cid:25).(cid:29)(cid:24),(cid:24)T(cid:23)(cid:3)ZX,(cid:28)T(cid:28)[(cid:23).(cid:22)(cid:23)(cid:28)(cid:25)T
+D(cid:17)(cid:3)<(cid:12)@(cid:14)F(cid:12)(cid:5)(cid:9)(cid:3)(cid:5)(cid:6)(cid:14)(cid:13)(cid:3)?(cid:9)(cid:8)(cid:5)(cid:14)>(cid:14)?(cid:12)(cid:5)(cid:9)(cid:10)(cid:3)_@(cid:9)(cid:12)(cid:13)(cid:9)(cid:3)<(cid:14)(cid:13)(cid:14)(cid:5)(cid:3)J‘D(cid:12)Ea(cid:18)(cid:19)a(cid:16)(cid:17)<a(cid:3)C(cid:15)(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)J‘D(cid:12)E(cid:3)(cid:18)(cid:19)(cid:3)(cid:6)(cid:17)=(cid:9)_(cid:12)(cid:16)(cid:9)(cid:10)(cid:3)?@(cid:14)?b(cid:3)(cid:5)(cid:6)(cid:9)
+cH(cid:12)@(cid:14)F(cid:12)(cid:5)(cid:9)(cid:3)(cid:12)(cid:3)(cid:19)(cid:9)(cid:8)(cid:5)(cid:14)>(cid:14)?(cid:12)(cid:5)(cid:9)(cid:3)(cid:17)>(cid:3)(cid:19)@(cid:9)(cid:12)(cid:15)(cid:3)d(cid:12)(cid:15)F(cid:13)e(cid:3)(cid:6)‘_(cid:9)(cid:8)@(cid:14)(cid:15)b(cid:3)A(cid:15)F(cid:9)(cid:8)(cid:3)(cid:5)(cid:6)(cid:9)(cid:3)(cid:19)@(cid:9)(cid:12)(cid:15)(cid:3)d(cid:12)(cid:15)F(cid:13)(cid:3)(cid:13)(cid:9)?(cid:5)(cid:14)(cid:17)(cid:15)a
+yyzy(cid:3){|}(cid:3)r|~(cid:127)(cid:127)|(cid:3)r(cid:128)(cid:129)(cid:3)r(cid:130)(cid:131)|(cid:127)(cid:3)(cid:128)(cid:132)(cid:133)z(cid:129)(cid:3)(cid:128)(cid:134)(cid:135)}(cid:131)(cid:136)(cid:137)|(cid:138)(cid:136)(cid:129)(cid:3)qf(cid:3)(cid:132)zz(cid:132){(cid:139)(cid:140)}(cid:138)(cid:136)(cid:127)(cid:141)(cid:3)(cid:142)(cid:132)z(cid:132)(cid:143)(cid:3)(cid:133)(cid:132){(cid:144)(cid:145)z{(cid:145)(cid:139)(cid:146)(cid:147)i(cid:134)(cid:148)(cid:149)qf(cid:149)(cid:137)(cid:138)(cid:150)
+(cid:3)
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE CHIEF FINANCIAL OFFICER
+GOVERNMENT OPERATIONS CLUSTER
+MEMORANDUM
+TO: Keyana Alexander
+Contract Specialist
+Office of Contracting and Procurement
+FROM: for Alemayehu Awas
+Agency Fiscal Officer
+DATE: June 10, 2025
+SUBJECT: FY 2025 Certification of Funding for Telecom Services - Verizon Business Network Services, LLC
+The Office of Finance and Resource Management (OFRM) and the Buyer Agencies have budgeted sufficient Local and
+Inter-Agency funding in FY 2025 to cover estimated telecom costs concerning the above referenced vendor. Funding to
+cover the FY 2026 portion of estimated telecom cost concerning the above referenced vendor is contingent upon the
+approval of the District’s FY 2026 budget by the Council and the Congress.
+Contract Specialist Keyana Alexander
+Vendor Name Verizon Business Network Services, LLC.
+Fiscal Year FY25 and FY26
+FY25 Period 4/29/2025 - 9/30/2025
+FY26 Period 10/1/2025 - 4/28/2026
+Contract Number CW94742
+Contract Option Option Year 3
+Enterprise Infrastructure Solutions (EIS)
+Award: Task Order 1 Services
+1. Voice Services
+2. Telecommunication Services
+3. Private Line Services
+Amount Requested for FY25 $1,230,000.00
+Amount Requested for FY26 $1,720,642.44
+Amount Requested Total $2,950,642.44
+Should you have any questions, please feel free to contact me at 202-727-6535.
+441 4th Street, NW – Suite 890N – Washington, DC 20001
+Phone: (202) 727-0333 – Fax: (202) 727-2202
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: June 05, 2025
+SUBJECT: Approval of Full Exercise of Year 3 for the Task Order for EIS Services for
+the District
+Contractor: Verizon Business Network Services, LLC
+Contract Number: CW94742
+Contract Amount: $2,950,642.44
+This is to Certify that this Office has reviewed the above-referenced Contract and that we have
+found it to be legally sufficient.
+If you have any questions in this regard, please do not hesitate to call me at (202) 724-4018.
+______________________________
+Robert Schildkraut
+400 6th Street NW, Suite 9100, Washington, DC 20001 (202) 727-3400
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT
+CW94742 1 2
+2.Amendment/Modification Number 3.Effective Date 4.Requisition/Purchase Request 5.Solicitation Caption
+No.
+M10 April 29, 2025 Enterprise Infrastructure
+Solutions (EIS) Award: Award 1-
+Task Order 1
+6.Issued by: Code 7.Administered by (If other than line 6)
+Office of Contracting and Procurement Office of the Chief Technology Officer (OCTO)
+Information Technology Procurement Cluster EDM/Application Development & Operations
+441 4th Street, NW, Suite 330S 200 I Street, SE
+Washington, DC 20001 Washington, DC 20003
+8.Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+Verizon Business Network Services, LLC 9B. Dated (See Item 11)
+22001 Loudoun County Parkway
+10A. Modification of Contractor/Order No.
+Ashburn, VA 20147 CW94742
+X
+10B. Dated (See Item 13)
+April 29, 2022
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not
+extended. Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the
+following methods: (a) By completing Items 8 and 15, and returning one (1) copy of the amendment: (b) By acknowledging receipt of this amendment
+on each copy of the offer submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE
+OF YOUR ACKNOWLEDGMENT TO BE RECEIVED AT THE PLACE DESIGNATED FORTHE RECEIPT OF OFFERS PRIOR TO THE HOUR
+AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already
+submitted, such may be made by letter or fax, provided each letter or telegram makes reference to the solicitation and this amendment, and is
+received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If Required)
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Section 3601.2(b)
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B.The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of: 3601.3 (c)
+C.This supplemental agreement is entered into pursuant to authority of 27 DCMR 3601.2 (c)
+x D.Other (Specify type of modification and authority) Exercise of Option, 27 DCMR § 2008.1
+E.IMPORTANT: Contractor is not is required to sign this document and return one (1) copy to the issuing office.
+14.Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+Contract CW94742is hereby modified to include the following:
+Pursuant to Section 5, Option to Extend the Term of the Contract, The Government of the District
+of Columbia, Office of Contracting and Procurement, on behalf of the Office of the Chief
+Technology Officer, hereby partially exercises Option Year Three to extend the period of
+performance from April 29, 2025 through August 29, 2025 in the amount of $983,547.48.
+All other terms and conditions remain unchanged
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Heather Reynolds
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+4/28/2025
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+Contract No. CW94742
+Contract Recap
+Base Year $3,470,986.59
+M0001: Administrative (CO Change) $0.00
+M0002: Supplemental $0.00
+M0003: Administrative (CO Change) $0.00
+Base Year Cumulative Total $3,470,986.59
+M0004: OY1 $2,949,457.71
+M0005: Supplemental $1,184.73
+M0006: Administrative (CO Change) $0.00
+M0007: Supplemental $0.00
+Option Year One Cumulative Total $2,950,642.44
+M0008: OY2 $2,950,642.44
+Option Year Two Cumulative Total $2,950,642.44
+M0009: Add Circuits
+Option Year Three Cumulative Total $2,950,642.44
+M10: Partial Exercise of Option Year 3 $983,547.48
+
+1. Contract Number Page of
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT Pages
+CW94742 1 2
+2. Amendment/Modification 3. Effective Date 4. Requisition/Purchase 5. Solicitation Caption
+Number Request No.
+M11 August 30,2025 Enterprise Infrastructure
+Solutions (EIS) Award:
+Award 1-Task Order 1
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Office of the Chief Technology Officer
+Information Technology Procurement Cluster (OCTO)
+441 4th Street, NW, Suite 330S EDM/Application Development & Operations
+Washington, DC 20001 200 I Street, SE
+Washington, DC 20003
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+Verizon Business Network Services, LLC 9B. Dated (See Item 11)
+22001 Loudoun County Parkway
+10A. Modification of Contractor/Order No.
+Ashburn, VA 20147 CW94742
+X
+10B. Dated (See Item 13)
+April 29, 2022
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended.
+is not extended. Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as
+amended, by one of the following methods: (a) By completing Items 8 and 15, and returning one (1) copy of the amendment: (b) By
+acknowledging receipt of this amendment on each copy of the offer submitted; or (c) BY separate letter or fax which includes a reference to
+the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED AT THE PLACE DESIGNATED
+FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR OFFER. If
+by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or
+telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Section 3601.2(b)
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office,
+appropriation data etc.) set forth in item 14, pursuant to the authority of: 3601.3 (c)
+x C. This supplemental agreement is entered into pursuant to authority of 27 DCMR 3601.2 (c)
+D. Other (Specify type of modification and authority) Exercise of Option, 27 DCMR § 2008.1
+E. IMPORTANT: Contractor is not is required to sign this document and return one (1) copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where
+feasible.)
+Contract CW94742 with Verizon Business Network Services, LLC is hereby modified as follows:
+Pursuant to Section 5, Option to Extend the Term of the Contract, The Government of the
+District of Columbia, Office of Contracting and Procurement, on behalf of the Office of the
+Chief Technology Officer, hereby proposes the exercise Option Year Three, to extend the
+term of the task order from August 30, 2025, through April 28, 2026 in the amount of
+$1,967,094.96.
+All other terms and conditions remain unchanged.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Heather Reynolds- White
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+Contract No. CW94742/M0007
+Base Year $3,470,986.59
+M0001: Administrative (CO Change) $0.00
+M0002: Supplemental $0.00
+M0003: Administrative (CO Change) $0.00
+Base Year Cumulative Total $3,470,986.59
+M0004: OY1 $2,949,457.71
+M0005: Supplemental $1,184.73
+M0006: Administrative (CO Change) $0.00
+M0007: Supplemental $0.00
+Option Year One Cumulative Total $2,950,642.44
+M0008: OY2 $2,950,642.44
+Option Year Two Cumulative Total $2,950,642.44
+M0009: Add Circuits
+Option Year Three Cumulative Total $2,950,642.44
+M10: Partial Exercise of Option Year 3 $983,547.48
+M11: Proposed Exercise of Option Year 3 $1,967,094.96

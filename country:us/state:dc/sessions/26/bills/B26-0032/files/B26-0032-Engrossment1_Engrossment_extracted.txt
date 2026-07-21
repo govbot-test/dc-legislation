@@ -1,0 +1,345 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-32
+4
+5
+6 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+7
+8 _________________
+9
+10
+11 To amend Title 28 of the District of Columbia Official Code to enact the Uniform Special Deposits
+12 Act to establish clear criteria for what constitutes a special deposit, to permit parties to opt-
+13 in to the protections of the act by agreement, to establish the conditions under which a bank
+14 is obligated to pay a special deposit to a beneficiary, to provide that neither the depositor
+15 nor the beneficiary have a property interest in a special deposit, to clarify the applicability
+16 of the creditor process on a special deposit, to clarify the legality of a bank’s right to
+17 exercise a setoff or right to recoupment against a special deposit that its unrelated to the
+18 special deposit, to establish a 5-year default term for special deposits, to provide that this
+19 act shall be applied and construed in a manner that promotes uniformity among the
+20 jurisdictions that adopt it, and to provide for its application to existing and future special
+21 deposits.
+22
+23 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+24 act may be cited as the “Uniform Special Deposits Act of 2025”.
+25 Sec. 2. Title 28 of the District of Columbia Official Code is amended as follows:
+26 (a) Subtitle II of the table of contents is amended by adding a new chapter designation to
+27 read as follows:
+28 “Chapter 29A. Uniform Special Deposits.”.
+29 (b) A new Chapter 29A is added to read as follows:
+30 “Chapter 29A. Uniform Special Deposits.
+1
+
+ENGROSSED ORIGINAL
+31 “Sec.
+32 “28-2951. Definitions
+33 “28-2952. Scope; choice of law; forum.
+34 “28-2953. Variation by agreement or amendment.
+35 “28-2954. Requirements for special deposit.
+36 “28-2955. Permissible purpose.
+37 “28-2956. Payment to beneficiary by bank.
+38 “28-2957. Property interest of depositor or beneficiary
+39 “28-2958. When creditor process enforceable against bank.
+40 “28-2959. Injunction or similar relief.
+41 “28-2960. Recoupment or setoff.
+42 “28-2961. Duties and liability of bank.
+43 “28-2962. Term and termination.
+44 “28-2963. Principles of law and equity.
+45 “28-2964. Uniformity of application and construction.
+46 “§ 28-2965. Transitional provision.
+47 “§ 28-2951. Definitions.
+48 “For the purposes of this chapter, the term
+49 “(1) “Account agreement” means an agreement that:
+2
+
+ENGROSSED ORIGINAL
+50 “(A) Is in a record between a bank and one or more depositors;
+51 “(B) May have one or more beneficiaries as additional parties; and
+52 “(C) States the intention of the parties to establish a special deposit
+53 governed by this chapter.
+54 “(2) “Bank” means a person engaged in the business of banking and includes a
+55 savings bank, savings and loan association, credit union, and trust company. Each branch or
+56 separate office of a bank is a separate bank for the purposes of this chapter.
+57 “(3) “Beneficiary” means a person that:
+58 “(A) Is identified as a beneficiary in an account agreement; or
+59 “(B) If not identified as a beneficiary in an account agreement, may be
+60 entitled to payment from a special deposit:
+61 “(i) Under the account agreement; or
+62 “(ii) On termination of the special deposit.
+63 “(4) “Contingency” means an event or circumstance stated in an account
+64 agreement that is not certain to occur but must occur before the bank is obligated to pay a
+65 beneficiary.
+66 “(5) “Creditor process” means attachment, garnishment, levy, notice of lien,
+67 sequestration, or similar process issued by or on behalf of a creditor or other claimant.
+68 “(6) “Depositor” means a person that establishes or funds a special deposit.
+3
+
+ENGROSSED ORIGINAL
+69 “(7) “District” means the District of Columbia.
+70 “(8) “Good faith” means honesty in fact and observance of reasonable
+71 commercial standards of fair dealing.
+72 “(9) “Knowledge” of a fact means:
+73 “(A) With respect to a beneficiary, actual knowledge of the fact; or
+74 “(B) With respect to a bank holding a special deposit:
+75 “(i) Actual knowledge of the fact by an individual, if the bank:
+76 “(I) Has established a reasonable routine for
+77 communicating material information to the individual to whom the bank has assigned
+78 responsibility for the special deposit; and
+79 “(II) Maintains reasonable compliance with the routine; or
+80 “(ii) If the bank has not established and maintained reasonable
+81 compliance with a routine described in sub-subparagraph (i) of this subparagraph or otherwise
+82 exercised due diligence, implied knowledge of the fact that would have come to the attention of
+83 an individual to whom the bank has assigned responsibility for the special deposit.
+84 “(10) “Obligated to pay a beneficiary” means a beneficiary is entitled under the
+85 account agreement to receive from the bank a payment when:
+86 “(A) A contingency has occurred; and
+87 “(B) The bank has knowledge the contingency has occurred.
+4
+
+ENGROSSED ORIGINAL
+88 “(11) “Permissible purpose” means a governmental, regulatory, commercial,
+89 charitable, or testamentary objective of the parties stated in an account agreement. The term
+90 includes an objective to:
+91 “(A) Hold funds:
+92 “(i) In escrow, including for a purchase and sale, lease, buyback, or
+93 other transaction;
+94 “(ii) As a security deposit of a tenant;
+95 “(iii) That may be distributed to a person as remuneration,
+96 retirement or other benefit, or compensation under a judgment, consent decree, court order, or
+97 other decision of a tribunal; or
+98 “(iv) For distribution to a defined class of persons after
+99 identification of the class members and their interest in the funds;
+100 “(B) Provide assurance with respect to an obligation created by contract,
+101 such as earnest money to ensure a transaction closes;
+102 “(C) Settle an obligation that arises in the operation of a payment system,
+103 securities settlement system, or other financial market infrastructure;
+104 “(D) Provide assurance with respect to an obligation that arises in the
+105 operation of a payment system, securities settlement system, or other financial market
+106 infrastructure; or
+5
+
+ENGROSSED ORIGINAL
+107 “(E) Hold margin, other cash collateral, or funds that support the orderly
+108 functioning of financial market infrastructure or the performance of an obligation with respect to
+109 the infrastructure.
+110 “(12) “Person” means an individual, estate, business or nonprofit entity,
+111 government or governmental subdivision, agency, or instrumentality, or other legal entity. The
+112 term includes a protected series, however denominated, of an entity if the protected series is
+113 established under law that limits, or limits if conditions specified under law are satisfied, the
+114 ability of a creditor of the entity or of any other protected series of the entity to satisfy a claim
+115 from assets of the protected series.
+116 “(13) “Record” means information:
+117 “(A) Inscribed on a tangible medium; or
+118 “(B) Stored in an electronic or other medium and retrievable in
+119 perceivable form.
+120 “(14) “Special deposit” means a deposit that satisfies the requirements set forth in
+121 § 28-2954.
+122 “§ 28-2952. Scope; choice of law; forum.
+123 “(a) This chapter applies to a special deposit under an account agreement that states the
+124 intention of the parties to establish a special deposit governed by this chapter, regardless of
+125 whether a party to the account agreement or a transaction related to the special deposit, or the
+126 special deposit itself, has a reasonable relation to the District.
+6
+
+ENGROSSED ORIGINAL
+127 “(b) The parties to an account agreement may choose a forum in the District for settling a
+128 dispute arising out of the special deposit, regardless of whether a party to the account agreement
+129 or a transaction related to the special deposit, or the special deposit itself, has a reasonable
+130 relation to the District.
+131 “(c) This chapter does not affect:
+132 “(1) A right or obligation relating to a deposit other than a special deposit under
+133 this chapter; or
+134 “(2) The voidability of a deposit or transfer that is fraudulent or voidable under
+135 other law.
+136 § 28-2953. Variation by agreement or amendment.
+137 “(a) The effect of §§ 28-2951 through 28-2955, §§ 28-2957 through 28-2960, and § 28-
+138 2963 may not be varied by agreement, except as provided in those sections. Subject to subsection
+139 (b) of this section, the effect of §§ 28-2956, 28-2961, and 28-2962 may be varied by agreement.
+140 “(b) A provision in an account agreement or other record that substantially excuses
+141 liability or substantially limits remedies for failure to perform an obligation under this chapter is
+142 not sufficient to vary the effect of a provision of this chapter.
+143 “(c) If a beneficiary is a party to an account agreement, the bank and the depositor may
+144 amend the agreement without the consent of the beneficiary only if the agreement expressly
+145 permits the amendment.
+146 “(d) If a beneficiary is not a party to an account agreement and the bank and the depositor
+7
+
+ENGROSSED ORIGINAL
+147 know the beneficiary has knowledge of the agreement’s terms, the bank and the depositor may
+148 amend the agreement without the consent of the beneficiary only if the amendment does not
+149 adversely and materially affect a payment right of the beneficiary.
+150 “(e) If a beneficiary is not a party to an account agreement and the bank and the depositor
+151 do not know whether the beneficiary has knowledge of the agreement’s terms, the bank and the
+152 depositor may amend the agreement without the consent of the beneficiary only if the
+153 amendment is made in good faith.
+154 “§ 28-2954. Requirements for special deposit.
+155 “(a) A deposit is a special deposit if it is:
+156 “(1) A deposit of funds in a bank under an account agreement;
+157 “(2) For the benefit of at least 2 beneficiaries, one or more of which may be a
+158 depositor;
+159 “(3) Denominated in a medium of exchange that is currently authorized or
+160 adopted by a domestic or foreign government;
+161 “(4) For a permissible purpose stated in the account agreement; and
+162 “(5) Subject to a contingency.
+163 “§ 28-2955. Permissible purpose.
+164 “(a) A special deposit must serve at least one permissible purpose stated in the account
+165 agreement from the time the special deposit is created in the account agreement until termination
+8
+
+ENGROSSED ORIGINAL
+166 of the special deposit.
+167 “(b) If, before termination of the special deposit, the bank or a court determines the
+168 special deposit no longer satisfies subsection (a) of this section, §§ 28-2957 through 2960 of this
+169 chapter shall cease to apply to any funds deposited in the special deposit after the special deposit
+170 ceases to satisfy subsection (a) of this section.
+171 “(c) If, before termination of a special deposit, the bank determines the special deposit no
+172 longer satisfies subsection (a) of this section, the bank may take action it believes is necessary
+173 under the circumstances, including terminating the special deposit.
+174 “§ 28-2956. Payment to beneficiary by bank.
+175 “(a) Unless the account agreement provides otherwise, the bank is obligated to pay a
+176 beneficiary if there are sufficient actually and finally collected funds in the balance of the special
+177 deposit.
+178 “(b) Except as provided in subsection (c) of this section, the obligation to pay the
+179 beneficiary is excused if the funds available in the special deposit are insufficient to cover such
+180 payment.
+181 “(c) Unless the account agreement provides otherwise, if the funds available in the
+182 special deposit are insufficient to cover an obligation to pay a beneficiary, a beneficiary may
+183 elect to be paid the funds that are available or, if there is more than one beneficiary, a pro rata
+184 share of the funds available. Payment to the beneficiary making the election under this
+185 subsection discharges the bank’s obligation to pay a beneficiary and does not constitute an
+9
+
+ENGROSSED ORIGINAL
+186 accord and satisfaction with respect to another person obligated to the beneficiary.
+187 “(d) Unless the account agreement provides otherwise, the obligation of the bank
+188 obligated to pay a beneficiary is immediately due and payable.
+189 “(e) The bank may discharge its obligation under this section by:
+190 “(1) Crediting another transaction account of the beneficiary; or
+191 “(2) Taking other action that:
+192 “(i) Is permitted under the account agreement for the bank to obtain a
+193 discharge; or
+194 “(ii) Otherwise would constitute a discharge under law.
+195 “(f) If the bank obligated to pay a beneficiary has incurred an obligation to discharge the
+196 obligation of another person, the obligation of the other person is discharged if action by the
+197 bank under subsection (e) of this section would constitute a discharge of the obligation of the
+198 other person under law that determines whether an obligation is satisfied.
+199 “§ 28-2957. Property interest of depositor or beneficiary.
+200 “(a) Neither a depositor nor a beneficiary has a property interest in a special deposit.
+201 “(b) Any property interest with respect to a special deposit is only in the right to receive
+202 payment if the bank is obligated to pay a beneficiary and not in the special deposit itself. Any
+203 property interest under this subsection is determined under other law.
+204 “§ 28-2958. When creditor process enforceable against bank.
+10
+
+ENGROSSED ORIGINAL
+205 “(a) Subject to subsection (b) of this section, creditor process with respect to a special
+206 deposit is not enforceable against the bank holding the special deposit.
+207 “(b) Creditor process is enforceable against the bank holding a special deposit with
+208 respect to an amount the bank is obligated to pay a beneficiary or a depositor if the process:
+209 “(1) Is served on the bank;
+210 “(2) Provides sufficient information to permit the bank to identify the depositor or
+211 the beneficiary from the bank’s books and records; and
+212 “(3) Gives the bank a reasonable opportunity to act on the process.
+213 “(c) Creditor process served on a bank before it is enforceable against the bank under
+214 subsection (b) of this section does not create a right of the creditor against the bank or a duty of
+215 the bank to the creditor. Other law determines whether creditor process creates a lien enforceable
+216 against the beneficiary on a contingent interest of a beneficiary, including a depositor as a
+217 beneficiary, even if not enforceable against the bank.
+218 “§ 28-2959. Injunction or similar relief.
+219 “A court may enjoin, or grant similar relief that would have the effect of enjoining, a
+220 bank from paying a depositor or beneficiary only if payment would constitute a material fraud or
+221 facilitate a material fraud with respect to a special deposit.
+222 “§ 28-2960. Recoupment or setoff.
+223 “(a) Except as provided in subsection (b) or (c) of this section, a bank may not exercise a
+11
+
+ENGROSSED ORIGINAL
+224 right of recoupment or setoff against a special deposit.
+225 “(b) An account agreement may authorize the bank to debit the special deposit:
+226 “(1) When the bank becomes obligated to pay a beneficiary, in an amount that
+227 does not exceed the amount necessary to discharge the obligation;
+228 “(2) For a fee assessed by the bank that relates to an overdraft in the special
+229 deposit account;
+230 “(3) For costs incurred by the bank that relate directly to the special deposit; or
+231 “(4) To reverse an earlier credit posted by the bank to the balance of the special
+232 deposit account, if the reversal occurs under an event or circumstance warranted under other law
+233 of the District governing mistake and restitution.
+234 “(c) The bank holding a special deposit may exercise a right of recoupment or setoff
+235 against an obligation to pay a beneficiary, even if the bank funds payment from the special
+236 deposit.
+237 “§ 28-2961. Duties and liability of bank.
+238 “(a) A bank does not have a fiduciary duty to any person with respect to a special deposit.
+239 “(b) When the bank holding a special deposit becomes obligated to pay a beneficiary, a
+240 debtor-creditor relationship arises between the bank and beneficiary.
+241 “(c) The bank holding a special deposit has a duty to a beneficiary to comply with the
+242 account agreement and this chapter.
+12
+
+ENGROSSED ORIGINAL
+243 “(d) If the bank holding a special deposit does not comply with the account agreement or
+244 this chapter, the bank is liable to a depositor or beneficiary only for damages proximately caused
+245 by the noncompliance. Except as provided by other law of the District, the bank is not liable for
+246 consequential, special, or punitive damages.
+247 “(e) The bank holding a special deposit may rely on records presented in compliance with
+248 the account agreement to determine whether the bank is obligated to pay a beneficiary.
+249 “(f) If the account agreement requires payment on presentation of a record, the bank shall
+250 determine within a reasonable time whether the record is sufficient to require payment. If the
+251 agreement requires action by the bank on presentation of a record, the bank is not liable for
+252 relying in good faith on the genuineness of the record if the record appears on its face to be
+253 genuine.
+254 “(g) Unless the account agreement provides otherwise, the bank is not required to
+255 determine whether a permissible purpose stated in the agreement continues to exist.
+256 “§ 28-2962. Term and termination.
+257 “(a) Unless otherwise provided in the account agreement, a special deposit terminates 5
+258 years after the date the special deposit was first funded.
+259 “(b) Unless otherwise provided in the account agreement, if the bank cannot identify or
+260 locate a beneficiary entitled to payment when the special deposit is terminated, and a balance
+261 remains in the special deposit, the bank shall pay the balance to the depositor or depositors as a
+262 beneficiary or beneficiaries.
+13
+
+ENGROSSED ORIGINAL
+263 “(c) A bank that pays the remaining balance as provided under subsection (b) of this
+264 section has no further obligation with respect to the special deposit.
+265 “§ 28-2963. Principles of law and equity.
+266 “Subtitle I of this title, District consumer protection law, District laws governing deposits
+267 generally, District law related to escheat and abandoned or unclaimed property, and the
+268 principles of law and equity, including law related to capacity to contract, principal and agent,
+269 estoppel, fraud, misrepresentation, duress, coercion, mistake, and bankruptcy, supplement this
+270 chapter except to the extent inconsistent with this chapter.
+271 “§ 28-2964. Uniformity of application and construction.
+272 “In applying and construing this chapter, consideration must be given to the need to
+273 promote uniformity of the law among jurisdictions that enact it.
+274 “§ 28- 2965. Transitional provision.
+275 “This chapter applies to:
+276 “(1) A special deposit made under an account agreement executed on or after the
+277 effective date of the Uniform Special Deposits Act of 2025, passed by the Committee on
+278 Business and Economic Development on October 15, 2025 (Committee print for Bill 26-32); and
+279 “(2) A deposit made under an agreement executed before the effective date of this
+280 act, if:
+281 “(A) All parties entitled to amend the agreement agree to make the deposit
+14
+
+ENGROSSED ORIGINAL
+282 a special deposit governed by this chapter; and
+283 “(B) The special deposit referenced in the amended agreement satisfies §
+284 28-2954.”.
+285 Sec. 3. Fiscal impact statement.
+286 The Council adopts the fiscal impact statement in the committee report as the fiscal
+287 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+288 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+289 Sec. 4. Effective Date
+290 This act shall take effect following approval by the Mayor (or in the event of veto by the
+291 Mayor, action by the Council to override the veto) and a 30-day period of Congressional review
+292 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+293 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+15

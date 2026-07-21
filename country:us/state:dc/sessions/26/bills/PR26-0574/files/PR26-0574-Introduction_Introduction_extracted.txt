@@ -1,0 +1,702 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+(cid:6)(cid:10)(cid:8)(cid:4)(cid:3)(cid:5)(cid:13)(cid:2)(cid:7)(cid:11)(cid:9)(cid:3)(cid:8)(cid:13)
+(cid:6)(cid:1)(cid:12)(cid:7)(cid:8)(cid:13)
+(cid:48)(cid:59)(cid:104)(cid:61)(cid:83)(cid:120)(cid:17)(cid:20)(cid:5)(cid:120)(cid:20)(cid:16)(cid:20)(cid:25)(cid:120)
+(cid:57)(cid:82)(cid:65)(cid:120)(cid:42)(cid:100)(cid:96)(cid:100)(cid:105)(cid:59)(cid:60)(cid:89)(cid:65)(cid:120)(cid:54)(cid:82)(cid:86)(cid:89)(cid:120)(cid:48)(cid:65)(cid:96)(cid:62)(cid:65)(cid:89)(cid:108)(cid:100)(cid:96)(cid:120)
+(cid:36)(cid:83)(cid:59)(cid:86)(cid:104)(cid:91)(cid:59)(cid:96)(cid:120)
+(cid:36)(cid:100)(cid:110)(cid:97)(cid:61)(cid:87)(cid:90)(cid:120)(cid:100)(cid:66)(cid:120)(cid:109)(cid:84)(cid:65)(cid:120)(cid:37)(cid:87)(cid:108)(cid:109)(cid:104)(cid:86)(cid:61)(cid:109)(cid:120)(cid:100)(cid:66)(cid:120)(cid:36)(cid:100)(cid:90)(cid:110)(cid:91)(cid:60)(cid:87)(cid:59)(cid:120)
+(cid:45)(cid:100)(cid:83)(cid:96)(cid:120)(cid:32)(cid:10)(cid:120)(cid:58)(cid:86)(cid:90)(cid:108)(cid:100)(cid:97)(cid:120)(cid:35)(cid:111)(cid:87)(cid:89)(cid:62)(cid:87)(cid:96)(cid:80)(cid:120)
+(cid:17)(cid:21)(cid:24)(cid:16)(cid:54)(cid:65)(cid:96)(cid:96)(cid:108)(cid:117)(cid:90)(cid:113)(cid:59)(cid:96)(cid:86)(cid:59)(cid:120)(cid:33)(cid:113)(cid:65)(cid:96)(cid:110)(cid:65)(cid:5)(cid:120)(cid:51)(cid:58)(cid:5)(cid:120)(cid:56)(cid:110)(cid:86)(cid:109)(cid:65)(cid:120)(cid:24)(cid:16)(cid:23)(cid:120)
+(cid:58)(cid:59)(cid:108)(cid:83)(cid:87)(cid:96)(cid:81)(cid:109)(cid:100)(cid:96)(cid:5)(cid:120)(cid:38)(cid:36)(cid:120)(cid:20)(cid:16)(cid:16)(cid:16)(cid:23)(cid:120)
+(cid:37)(cid:65)(cid:59)(cid:104)(cid:120)(cid:36)(cid:82)(cid:59)(cid:86)(cid:104)(cid:91)(cid:59)(cid:96)(cid:120)(cid:48)(cid:65)(cid:96)(cid:62)(cid:65)(cid:89)(cid:108)(cid:100)(cid:96)(cid:29)(cid:120)
+(cid:43)(cid:96)(cid:120)(cid:59)(cid:61)(cid:61)(cid:100)(cid:105)(cid:62)(cid:59)(cid:96)(cid:61)(cid:65)(cid:120)(cid:114)(cid:86)(cid:109)(cid:82)(cid:120)(cid:108)(cid:65)(cid:61)(cid:109)(cid:86)(cid:100)(cid:96)(cid:120)(cid:20)(cid:120)(cid:100)(cid:66)(cid:120)(cid:109)(cid:82)(cid:65)(cid:120)(cid:36)(cid:100)(cid:96)(cid:72)(cid:104)(cid:91)(cid:59)(cid:109)(cid:87)(cid:100)(cid:96)(cid:120)(cid:32)(cid:61)(cid:109)(cid:120)(cid:100)(cid:66)(cid:120)(cid:17)(cid:28)(cid:26)(cid:27)(cid:5)(cid:120)(cid:65)(cid:68)(cid:65)(cid:61)(cid:109)(cid:87)(cid:113)(cid:65)(cid:120)(cid:48)(cid:59)(cid:105)(cid:61)(cid:82)(cid:120)(cid:22)(cid:5)(cid:120)(cid:17)(cid:28)(cid:26)(cid:28)(cid:120)(cid:3)(cid:37)(cid:11)(cid:36)(cid:11)(cid:120)(cid:46)(cid:59)(cid:114)(cid:120)(cid:20)(cid:7)(cid:120)
+(cid:18)(cid:23)(cid:20)(cid:31)(cid:120)(cid:37)(cid:10)(cid:36)(cid:15)(cid:120)(cid:52)(cid:69)(cid:61)(cid:87)(cid:59)(cid:90)(cid:120)(cid:36)(cid:100)(cid:62)(cid:65)(cid:120)(cid:119)(cid:120) (cid:19)(cid:8)(cid:24)(cid:20)(cid:21)(cid:10)(cid:16)(cid:17)(cid:4)(cid:6)(cid:120)(cid:59)(cid:97)(cid:62)(cid:120)(cid:102)(cid:111)(cid:104)(cid:108)(cid:111)(cid:59)(cid:97)(cid:109)(cid:120)(cid:109)(cid:100)(cid:120)(cid:108)(cid:65)(cid:61)(cid:109)(cid:87)(cid:100)(cid:97)(cid:120)(cid:23)(cid:120)(cid:100)(cid:66)(cid:120)(cid:109)(cid:84)(cid:65)(cid:120)(cid:49)(cid:59)(cid:109)(cid:65)(cid:106)(cid:59)(cid:90)(cid:120)(cid:49)(cid:100)(cid:104)(cid:109)(cid:59)(cid:90)(cid:87)(cid:109)(cid:117)(cid:120)(cid:55)(cid:65)(cid:113)(cid:87)(cid:65)(cid:114)(cid:120)
+(cid:36)(cid:100)(cid:92)(cid:92)(cid:86)(cid:109)(cid:109)(cid:65)(cid:65)(cid:120)(cid:39)(cid:108)(cid:109)(cid:59)(cid:60)(cid:90)(cid:87)(cid:108)(cid:83)(cid:91)(cid:65)(cid:96)(cid:109)(cid:120)(cid:33)(cid:61)(cid:109)(cid:120)(cid:100)(cid:66)(cid:120)(cid:20)(cid:16)(cid:17)(cid:27)(cid:5)(cid:120)(cid:65)(cid:68)(cid:65)(cid:61)(cid:109)(cid:87)(cid:113)(cid:65)(cid:120)(cid:44)(cid:110)(cid:96)(cid:65)(cid:120)(cid:24)(cid:5)(cid:120)(cid:20)(cid:16)(cid:17)(cid:27)(cid:120)(cid:3)(cid:38)(cid:10)(cid:36)(cid:12)(cid:120)(cid:47)(cid:59)(cid:114)(cid:120)(cid:20)(cid:20)(cid:8)(cid:17)(cid:17)(cid:17)(cid:31)(cid:120)(cid:37)(cid:10)(cid:36)(cid:11)(cid:120)(cid:52)(cid:70)(cid:61)(cid:86)(cid:59)(cid:89)(cid:120)(cid:36)(cid:100)(cid:62)(cid:65)(cid:120)
+(cid:119)(cid:120)(cid:26)(cid:9)(cid:25)(cid:26)(cid:17)(cid:13)(cid:16)(cid:22)(cid:4)(cid:5)(cid:120)(cid:43)(cid:120)(cid:59)(cid:91)(cid:120)(cid:102)(cid:89)(cid:65)(cid:59)(cid:108)(cid:65)(cid:62)(cid:120)(cid:109)(cid:100)(cid:120)(cid:97)(cid:100)(cid:91)(cid:87)(cid:97)(cid:59)(cid:109)(cid:65)(cid:120)(cid:109)(cid:83)(cid:65)(cid:120)(cid:75)(cid:90)(cid:90)(cid:100)(cid:114)(cid:86)(cid:96)(cid:80)(cid:120)(cid:102)(cid:65)(cid:104)(cid:108)(cid:100)(cid:97)(cid:30)
+(cid:37)(cid:104)(cid:10)(cid:120)(cid:51)(cid:59)(cid:97)(cid:61)(cid:117)(cid:120)(cid:41)(cid:59)(cid:60)(cid:59)(cid:120)
+(cid:58)(cid:86)(cid:108)(cid:108)(cid:87)(cid:100)(cid:91)(cid:86)(cid:97)(cid:80)(cid:120)(cid:55)(cid:100)(cid:59)(cid:63)(cid:120)
+(cid:35)(cid:65)(cid:109)(cid:83)(cid:65)(cid:108)(cid:62)(cid:59)(cid:5)(cid:120)(cid:48)(cid:37)(cid:120)(cid:20)(cid:16)(cid:27)(cid:17)(cid:25)(cid:120)
+(cid:76)(cid:104)(cid:120)(cid:104)(cid:65)(cid:59)(cid:102)(cid:102)(cid:100)(cid:87)(cid:97)(cid:109)(cid:91)(cid:65)(cid:97)(cid:109)(cid:120)(cid:59)(cid:108)(cid:120)(cid:59)(cid:97)(cid:120)(cid:87)(cid:97)(cid:62)(cid:87)(cid:113)(cid:87)(cid:63)(cid:110)(cid:59)(cid:90)(cid:120)(cid:114)(cid:87)(cid:109)(cid:84)(cid:120)(cid:65)(cid:116)(cid:102)(cid:65)(cid:104)(cid:87)(cid:65)(cid:97)(cid:61)(cid:65)(cid:120)(cid:87)(cid:98)(cid:120)(cid:100)(cid:60)(cid:108)(cid:109)(cid:65)(cid:109)(cid:104)(cid:87)(cid:61)(cid:108)(cid:120)(cid:59)(cid:98)(cid:62)(cid:120)(cid:80)(cid:117)(cid:99)(cid:65)(cid:61)(cid:100)(cid:90)(cid:100)(cid:80)(cid:118)(cid:120)(cid:79)(cid:100)(cid:93)(cid:120)(cid:59)(cid:120)(cid:37)(cid:87)(cid:108)(cid:109)(cid:104)(cid:86)(cid:61)(cid:109)(cid:120)(cid:85)(cid:100)(cid:108)(cid:102)(cid:87)(cid:109)(cid:59)(cid:90)(cid:120)
+(cid:100)(cid:104)(cid:120)(cid:60)(cid:87)(cid:104)(cid:109)(cid:82)(cid:87)(cid:96)(cid:81)(cid:120)(cid:61)(cid:65)(cid:96)(cid:109)(cid:65)(cid:105)(cid:120)(cid:91)(cid:65)(cid:91)(cid:60)(cid:65)(cid:104)(cid:120)(cid:100)(cid:66)(cid:120)(cid:109)(cid:83)(cid:65)(cid:120)(cid:48)(cid:59)(cid:109)(cid:65)(cid:107)(cid:59)(cid:89)(cid:120)(cid:48)(cid:100)(cid:105)(cid:109)(cid:59)(cid:89)(cid:86)(cid:109)(cid:117)(cid:120)(cid:55)(cid:65)(cid:113)(cid:86)(cid:65)(cid:114)(cid:120)(cid:36)(cid:100)(cid:92)(cid:92)(cid:87)(cid:109)(cid:109)(cid:65)(cid:65)(cid:120)(cid:75)(cid:104)(cid:120)(cid:59)(cid:120)(cid:109)(cid:65)(cid:104)(cid:91)(cid:120)(cid:109)(cid:100)(cid:120)(cid:65)(cid:96)(cid:62)(cid:120)(cid:44)(cid:59)(cid:96)(cid:110)(cid:59)(cid:105)(cid:118)(cid:120)(cid:20)(cid:5)(cid:120)
+(cid:20)(cid:16)(cid:20)(cid:28)(cid:10)(cid:120)
+(cid:39)(cid:96)(cid:61)(cid:90)(cid:100)(cid:108)(cid:65)(cid:64)(cid:5)(cid:120)(cid:117)(cid:100)(cid:110)(cid:120)(cid:114)(cid:86)(cid:90)(cid:90)(cid:120)(cid:73)(cid:96)(cid:62)(cid:120)(cid:60)(cid:86)(cid:100)(cid:81)(cid:104)(cid:59)(cid:102)(cid:84)(cid:86)(cid:61)(cid:59)(cid:90)(cid:120)(cid:87)(cid:96)(cid:77)(cid:104)(cid:91)(cid:59)(cid:109)(cid:87)(cid:100)(cid:97)(cid:120)(cid:62)(cid:65)(cid:109)(cid:59)(cid:86)(cid:90)(cid:87)(cid:97)(cid:81)(cid:120)(cid:109)(cid:83)(cid:65)(cid:120)(cid:65)(cid:116)(cid:102)(cid:65)(cid:104)(cid:87)(cid:65)(cid:99)(cid:61)(cid:65)(cid:120)(cid:100)(cid:66)(cid:120)(cid:109)(cid:84)(cid:65)(cid:120)(cid:59)(cid:60)(cid:100)(cid:113)(cid:65)(cid:8)(cid:94)(cid:65)(cid:99)(cid:109)(cid:87)(cid:100)(cid:96)(cid:65)(cid:62)(cid:120)
+(cid:96)(cid:100)(cid:92)(cid:86)(cid:96)(cid:65)(cid:65)(cid:5)(cid:120)(cid:109)(cid:100)(cid:81)(cid:65)(cid:109)(cid:82)(cid:65)(cid:105)(cid:120)(cid:114)(cid:86)(cid:109)(cid:82)(cid:120)(cid:59)(cid:120)(cid:102)(cid:105)(cid:100)(cid:102)(cid:100)(cid:108)(cid:65)(cid:64)(cid:120)(cid:105)(cid:65)(cid:108)(cid:100)(cid:90)(cid:111)(cid:109)(cid:86)(cid:100)(cid:96)(cid:120)(cid:109)(cid:100)(cid:120)(cid:59)(cid:108)(cid:108)(cid:86)(cid:108)(cid:109)(cid:120)(cid:109)(cid:82)(cid:65)(cid:120)(cid:36)(cid:100)(cid:110)(cid:96)(cid:61)(cid:86)(cid:89)(cid:120)(cid:63)(cid:110)(cid:104)(cid:86)(cid:96)(cid:81)(cid:120)(cid:109)(cid:83)(cid:65)(cid:120)(cid:61)(cid:100)(cid:96)(cid:72)(cid:104)(cid:92)(cid:59)(cid:109)(cid:86)(cid:100)(cid:96)(cid:120)(cid:102)(cid:105)(cid:100)(cid:61)(cid:65)(cid:108)(cid:108)(cid:11)(cid:120)
+(cid:43)(cid:120)(cid:115)(cid:100)(cid:110)(cid:89)(cid:64)(cid:120)(cid:59)(cid:102)(cid:102)(cid:105)(cid:65)(cid:61)(cid:87)(cid:59)(cid:109)(cid:65)(cid:120)(cid:109)(cid:82)(cid:65)(cid:120)(cid:36)(cid:100)(cid:110)(cid:96)(cid:61)(cid:86)(cid:90)(cid:1)(cid:108)(cid:120)(cid:65)(cid:59)(cid:104)(cid:90)(cid:86)(cid:65)(cid:108)(cid:109)(cid:120)(cid:61)(cid:100)(cid:96)(cid:108)(cid:86)(cid:63)(cid:65)(cid:105)(cid:59)(cid:109)(cid:86)(cid:100)(cid:97)(cid:120)(cid:100)(cid:66)(cid:120)(cid:109)(cid:82)(cid:86)(cid:108)(cid:120)(cid:96)(cid:100)(cid:92)(cid:87)(cid:96)(cid:59)(cid:109)(cid:87)(cid:100)(cid:96)(cid:120)(cid:67)(cid:101)(cid:104)(cid:120)(cid:61)(cid:100)(cid:96)(cid:74)(cid:105)(cid:95)(cid:59)(cid:109)(cid:86)(cid:100)(cid:96)(cid:14)(cid:120)(cid:54)(cid:90)(cid:65)(cid:59)(cid:108)(cid:65)(cid:120)
+(cid:63)(cid:100)(cid:120) (cid:96)(cid:100)(cid:109)(cid:120) (cid:82)(cid:65)(cid:108)(cid:86)(cid:109)(cid:59)(cid:109)(cid:65)(cid:120)(cid:109)(cid:100)(cid:120)(cid:61)(cid:100)(cid:96)(cid:109)(cid:59)(cid:61)(cid:109)(cid:120)(cid:92)(cid:65)(cid:5)(cid:120) (cid:100)(cid:104)(cid:120) (cid:56)(cid:109)(cid:65)(cid:113)(cid:65)(cid:96)(cid:120)(cid:58)(cid:59)(cid:89)(cid:88)(cid:65)(cid:104)(cid:5)(cid:120) (cid:38)(cid:86)(cid:105)(cid:65)(cid:61)(cid:109)(cid:100)(cid:105)(cid:5)(cid:120) (cid:50)(cid:59)(cid:117)(cid:100)(cid:104)(cid:2)(cid:108)(cid:120)(cid:53)(cid:71)(cid:61)(cid:65)(cid:120) (cid:100)(cid:66)(cid:120)(cid:57)(cid:59)(cid:90)(cid:65)(cid:96)(cid:109)(cid:120)(cid:59)(cid:96)(cid:64)(cid:120)
+(cid:34)(cid:102)(cid:102)(cid:100)(cid:86)(cid:96)(cid:109)(cid:92)(cid:65)(cid:96)(cid:109)(cid:108)(cid:5)(cid:120)(cid:108)(cid:82)(cid:100)(cid:112)(cid:89)(cid:62)(cid:120)(cid:109)(cid:82)(cid:65)(cid:120)(cid:36)(cid:100)(cid:111)(cid:96)(cid:61)(cid:87)(cid:90)(cid:120)(cid:105)(cid:65)(cid:103)(cid:111)(cid:87)(cid:104)(cid:65)(cid:120)(cid:59)(cid:64)(cid:62)(cid:87)(cid:109)(cid:87)(cid:100)(cid:96)(cid:59)(cid:90)(cid:120)(cid:86)(cid:96)(cid:78)(cid:105)(cid:92)(cid:59)(cid:109)(cid:86)(cid:100)(cid:96)(cid:10)(cid:120)
+
+1
+2 airman Phil Mendelson
+3 at the request of the Mayor
+4
+5
+6 A PROPOSED RESOLUTION
+7
+8
+9
+10 IN THE COUNCIL OF THE DISTRICT O,F COLUMBIA
+11
+12
+13
+14
+15 To confirm.t he teap_pointment of Dr. Nancy Gaba to the Maternal Mortality Review Committee.
+16
+17 RESOLVED, BY THE COUNCJL OP THE DISTRICT OF COLUMBIA, That this
+L8 resolution may he cited as the "Maternal Mortality Review Cornrnittee Dr. Nancy Gaba
+19 Confirmatil;)n Resolution of 2026.'' ..
+20 See. 2. The Council of the District of Columbia confinns, the reappointment of:
+21
+22 Dr. Nancy Gaba
+23 Wissioming Road
+24 Bethesda, MD 208 l 6
+25
+26 as an individual with experien.ce in obstetrics and.gynecology from a District hospital or birthing
+21 cen.te.r member of the Maternal Mortallty Review Committee, established by section 3 of the
+28 Maternal Mortali:ty Review Committee Establishment Act of 2018, effective June 5, 2018 (D.C.
+29 Law 22-J 11; D.C. Official Code§ 7-671.02), for a term to end January 2, 2029.
+30 Sec. 3. The Council of the District of Columbia shall transmit a copy of this resolution,
+31 u,pQ.n its adoption,: to the nqminee and to the Mayo.r.
+32 Sec. . 4. This resolution shall take effect immediately.
+
+NANCY DEBORAH GABA, MD, FACOG
+Nee: Nancy D. Super
+Curriculum Vitae
+EDUCATION
+Undergraduate B.A. (Cum Laude in Biopsychology)-Vassar 1983-1987
+College, Poughkeepsie, NY
+Graduate M.D TheGeorgeWashington University School of 1989-1993
+Medicine and Health Sciences,Washington, DC
+Internship ‘The GeorgeWashington University Schoolof 1993,
+Medicine and Health Sciences - Departmentof
+Obstetrics and Gynecology, Washington, DC
+Residency TheGeorgeWashington UniversitySchoolof 1994-1997
+Medicine and Health Sciences - Department of
+Obstetricsand Gynecology,Washington, DC
+Administrative The GeorgeWashington UniversitySchoolof 1996-1997
+ChiefResident Medicine and Health Sciences- Department of
+Obstetricsand Gynecology,Washington, DC
+EMPLOYMENT
+ResearchAssistant Rockefeller University 1987-1989
+Laboratoryof Human Behaviorand
+Metabolism (withJules Hirsch, MD)
+Instructor ‘The GeorgeWashington University 1997
+Assistant Professor ‘The GeorgeWashington University 1997-2007
+
+NancyD. Gaba, MO.
+Page2
+Associate Professor The George Washington University 2007-2013
+Professor The George Washington University 2013-present
+PROFESSIONAL REGISTRATIONS, LICENSES, CERTIFICATIONS
+Diplomate The American Board of Obstetrics 1999
+and Gynecology
+Fellow ‘TheAmerican College ofObstetricians 2000
+‘And Gynecologists
+Medical License Washington, DC Exp. 12/31/24
+Narcotics Certification Exp. 12/31/23
+HONORS
+* Graduated Cum Laude in Biopsychology, VassarCollege 1987
++ The Kate Roberts Award for Excellence in Biology, VassarCollege 1987
+* President, Kane-King-Dodek Obstetrical HonorSociety 1993-1994
+* Administrative ChiefResident, The GeorgeWashington University, 1996-1997
+Department ofObstetricsand Gynecology
++ Allan B. Weingold Award for Excellence in Resident and Medical 1997
+Student Education, The GeorgeWashington University,
+Department ofObstetrics and Gynecology
+* Association of Professorsof Obstetrics and Gynecology Faculty 2001
+Excellence In TeachingAward
++ Prize winning poster presented at APGO/CREOG Annual Meeting 2004
+Resident Managementof CervicalDysplasia: Relating Objective
+FundofKnowledge to Core Competencies
+
+‘NancyD. Gaba,MD.
+Page3
+* Washingtonian Top Doctors 2002, 2005,
+2008, 2012,
+2014, 2016,
+2018, 2020,
+2022, 2023,
+2024
+* Faculty Award of Excellence, The George Washington University, 2005
+DepartmentofObstetricsand Gynecology
+* Prizewinning poster presented atAPGO/CREOG Annual Meeting 2005
+The Influence ofSeniorElectiveson Choice ofResidency Program
+* American College ofObstetricsand Gynecology District IV 2006
+Outstanding Faculty — Donald F. Richardson Award
++ Excellence in TeachingAward, The George Washington University, 2006, 2007
+Department ofObstetrics and Gynecology
+* Prize Winning Oral Presentation atAPGO/CREOG Annual Meeting 2007
+Depression: A Needs AssessmentforCurriculum Development
+* Northeast Group on Educational Affairs Innovations in Medical 2007, 2008
+Education Award
+* ACGME ParkerJ. Palme—r Courage to Teach Award Recipient 2008-2009
+‘+ Member oftheAmerican Congressof Obstetricians and 1997-Present
+Gynecologists
+* FellowofThe American College ofObstetricians and Gynecologists 2000-Present
++ Council on Resident Education in Obstetrics and Gynecology 2012
+(CREOG)Award for Excellence in Teaching
+* Founding Executive Board Member, Society forAcademic 2012-Present
+Specialists in General Obstetrics and Gynecology (SASGOG)
+* Elected by peers toAlpha Omega Alpha Medical HonorSociety 2014
+SOCIETIES
++ Membeorf the Kane-King-Dodek Obstetrical Honor Society 1993-Present
++ Memberofthe American Congress ofObstetricians and 1997-Present
+Gynecologists
+
+NancyD. Gaba,MO.
+Page4
+* Member ofthe Association ofProfessors of Gynecologyand 1997-Present
+Gynecology
+* FellowofThe American College ofObstetricians and Gynecologists 2000-Present
++ Memberof The Society for Academic Specialists in General 2012-Present
+Obstetrics and Gynecology
+* MemberofAlpha OmegaAlpha Medical Honor Society 2014-Present
+* MemberofCouncil ofUniversityChairs in Obstetrics and Gynecology 2014-Present
+ADMINISTRATIVE DUTIES & UNIVERSITY ACTIVITIES
+Departmental/Medical Faculty Associates
+* Administrative ChiefResident, The George Washington University, 1996-1997
+Department ofObstetrics and Gynecology
+* Associate Director, Residency Program, The GeorgeWashington 1997-2002
+University, Department ofObstetrics and Gynecology
+* Chair, Obstetrics and Gynecology Curriculum Committee, 1997-2012
+The George Washington University
+* Washington Obstetrics and GynecologyAnnual Ethics Retreat 1999-2003
+Executive Committee
+* Director, Residency Program - The George Washington University, 2002-2012
+Department of Obstetrics and Gynecology
++ Committee Member, Touchworks EMR Advisory Council, The 2006-2007
+GeorgeWashington University Medical FacultyAssociates,
+Department ofObstetrics and Gynecology
+* Director, Division ofGeneral Obstetrics and Gynecology 2006-2014
+The George Washington University Medical FacultyAssociates,
+Department ofObstetricsand Gynecology
+* Chair, Faculty Recruitment Committee, The GeorgeWashington 2006-2014
+University Medical FacultyAssociates, Department ofObstetrics
+and Gynecology
+* Vice Chair, The GeorgeWashington University Medical Faculty 2010-2014
+Associates, DepartmentofObstetrics and Gynecology,
+* Cultural Transformation CoreTeam Member, 2011-2013
+
+NancyD. Gaba,MD.
+Page5
+‘The George Washington University Medical Faculty
+Associates, Department ofObstetrics and Gynecology,
+* Oscar |, and Mildred S. Dodek and Joan B. andOscar|. Dodek 2014-Present
+Professor and Chair, The George Washington University
+Medical FacultyAssociates, Department ofObstetrics
+and Gynecology
++ At-Large Board Member, The George Washington University 2014-2023
+Medical FacultyAssociates
++ Board Secretary, The GeorgeWashington University 2018-2023
+Medical FacultyAssociates
+* Chair, Access Committee, The George Washington University 2015-2020
+Medical FacultyAssociates
+* Claims Committee Member, The George Washington University 2016-Present
+Medical FacultyAssociates
+2016-2020
+* Co-Chair and Founder, Professionalism and Civility Council,
+The George Washington University Medical FacultyAssociates
+‘* Chair, Anti-Racism ThinkTank. The GeorgeWashington University 2020-Present
+Medical FacultyAssociates, Department of Obstetrics and
+Gynecology
+‘School ofMedicine
+* Committee Member, Undergraduate Medical StudentCurriculum 1997-2002
+Committee, The George Washington University
++ Executive Committee Member, Graduate Medical Education 1997-2014
+Committee, The George Washington University
+‘+ Medical Faculty Senate, The George Washington University, 2002-2006
+‘+ Associate Dean for Graduate Medical Education, and Designated 2008-2014
+Institutional Official (DIO), The George Washington University
+‘© Chair, Committee on The Learning Environment, The George 2009-2014
+Washington University
++ Committee Member, Curriculum Oversight Group (COG), The 2010-2012
+George Washington University
+* Committee Member, Search Committeeforthe Associate Deanfor 2012
+Finance, The GeorgeWashington University
+
+NancyD. Gaba, M.D.
+Page6
+* Committee Chair, Search CommitteefortheAssistant Dean for 2015
+StudentAffairs, The George Washington University
+* Committee Chair, LCME Self-StudyWorking Group- Medical 2015
+Students. The GeorgeWashington University
+* Committee Chair, Pathology Chair Search Committee 2019
+The George Washington University
+* Committee Member, School of Medicine Promotion Policy 2020-Present
+Task Force
+* Committee co-Chair, LCME Self-StudyWorking Group- 2022-2024
+The Learning Environment The GeorgeWashington University
+* Committee Member, Children’s National Hospital ChiefAcademic 2023-2024
+Officerand PediatricsChair Search Committee
+The George Washington University
+* Committee Chair, Associate Dean forGME/DIO Search Committee 2023-2024
+The George Washington University
+Hospital
+* Committee Member, Medical Records Committee, The George 1997-1999
+Washington University, Washington, DC
+* Chair, Medical Records Committee, The George Washington 1999-2003
+University Hospital, Washington, DC
+* Elected Committee Member, The George Washington University 2006-2008
+Hospital Medical Executive Committee
+* Elected Committee Member, The GeorgeWashington University 2012-2014
+Hospital Medical Executive Committee
++ Executive Committee Member, The GeorgeWashington University 2014-Present
+Hospital Medical Executive Committee
+* Chair, Women’s Services Transformation Committee, The 2016-Present
+George Washington University Hospital
++ Hospital Quality Council Member, The GeorgeWashington 2018-Present
+University Hospital
++ Patient Safety Council Member, The George Washington 2018-Present
+University Hospital
+
+NancyD. Gaba, M.D.
+Page7
+University
+* Committee Member, Search Committeeforthe Provost for 2019
+The GeorgeWashington University
+* Co-Chair Strategic Planning Committee- World Class Faculty 2019-2020
+The GeorgeWashington University
+Regional
+* Committee Member, Improving Ob Care in DC 2018-Present
+* Invited Member, Mayor Bowser's Maternal Mortality Review 2020-Present
+Committee
+* Committee Member, DC Perinatal Quality Consortium 2021-Present
+National
+‘* University Representativeto AAMC Groupon Women In Medicine 2009-2014
+And Science
+* Faculty Member, CREOG School for Residency Program Directors 2008-2020
+* Faculty Member, APGO Surgical Education Scholars Program 2009-Present
+* Co-Director, APGO Surgical Education Scholars Program 2016-Present
+* Board Examiner, American Board ofObstetrics and Gynecology 2010-Present
+* AAMC Groupon Resident Affairs (GRA) Nominating Committee 2011
+‘+ AAMC Careers in Medicine Advisory Committee Member 2011-2014
+* SASGOG Organizational Group Member, and Co-Chair of 2011-2014
+Membership Committee
+* President, The SocietyforAcademic Specialists in General 2014-2016
+Obstetrics and Gynecology
+Chair, Development Committee, The Society forAcademic 2016-Present
+Specialists in General Obstetrics and Gynecology
+* Development Committee Member, APGO. 2016-2022
+
+‘NancDy. Gaba, MO.
+Page8
+* Chair, APGO Corporate Liaison Council 2020-2022
+* SASGOG Research Course Steering CommitteeMember 2020-Present
+* At-Large Board Member, Council of UniversityChairs in 2021-Present
+Obstetrics and Gynecology
+* President-elect, Council of University Chairs in 2023-Present
+Obstetrics and Gynecology
+* Annual Meeting Co-chair, Council ofUniversity Chairs in 2023-Present
+Obstetrics and Gynecology
+* Chair, Education Committee, Council of University Chairs in 2023-Present
+Obstetrics and Gynecology
+EDUCATIONAL ACHIEVEMENTS
+* APGO/Solvay Educational Scholar 2002-2003
+* APGO/Ethicon Surgical Scholar 2006
++ Merck Implanon/Nexplanon Regional Trainer 2010-2013
+* Developed and Implemented Residents as Teachers Program 2007
+(RATS): Departments ofObstetrics and Gynecology,
+Anesthesiology, Neurosurgery, Surgery and Emergency Medicine
+* AAMC- GME Leadership Course for DIOs 2010
+Completed 18-month, 3-part course
+* Developed and Implemented Medical Education Fellowship at GW 2011
+EDITORIAL ACTIVITIES and CONSULTANT APPOINTMENTS,
+* Ad-HocJournal Reviewer: Obstetrics and Gynecology 2007-Present
+* Ad-Hoc Journal Reviewer: Journal of Sexual Medicine 2008-Present
+* Associate Editor: Postgraduate Obstetrics and Gynecology 2012-Present
+
+NancyD. Gaba,M.O.
+Page9
+RESEARCH AND GRANT SUPPORT
+* Preconception lodine Levels and Impactof Pregnancy on Thyroid Function Tests
+1RB#011213. Pl: Alex Stagnaro Green, Nancy D. Gaba (Co-Pl) and Emmerita Dogo-
+Isonagie
++ Amold P. Gold Foundation. $2,000 start-up grant and annualfunding forGold
+Humanism Honor Society (GHHS) pilot resident chapter (2012-2014)
+* Deans Office Educational Quality Improvement Project (EQUIP) Grant2004
+($10,000)
+* HHS/NIH/NIAID Post-Graduate Medical Resident Rotation at NIH (2008 ~ 2014)
+PI Nancy D. Gaba, Co PI Gigi El Bayoumi
+‘* Effectsofanon-nutritive sweetener reduction intervention in pregnancy
+and lactation on maternal and fetal infant outcomes (the SWEETPEA trial) site PI
+‘Naney D. Gaba, PI Allison Sylvetsky PhD ClinicalTrials.gov Identifier:
+NCT04674033
+PUBLICATIONS
+Papers in Refereed Journals
+Ruckman RN, Wondafrash T, Brasseux C, Super ND, StratmeyerM: Effects of
+ultrasound and verapamil on the developing heart. Teratology, 1992; 45:478.
+Gaba ND. Lyme Disease. CREOG Resident Quiz Series, American College of
+Obstetricians and Gynecologists, Washington, DC2006.
+Gaba ND, Macri CJ, Greenberg L, and Blatt B. Improving Teaching Skills in OB/GYN
+Residents: Evaluation ofa Residents-As-Teachers Program: Am J Obstet Gynecol,
+196(1):87.e1-7, 2007 Jan.
+Macri CJ, Gaba ND, Sitzer LM Freese L, Bathgate SL, and Larsen JW.
+Implementation and evaluation ofa genetics curriculum to improve obstetrician-
+gynecologist residents' knowledge and skills in genetic diagnosis and counseling. AmJ
+Obstet Gynecol , 2005; 193: 1794-7.
+Kinder C, Bathgate SL, Gaba ND and Macri CJ. Pregnancy in a woman with a continent
+appendicovesicostomy. J Reprod Med. 2006 Sep;51(9):719-21.
+
+NancyD. Gaba,MO.
+Page 10,
+Parviainen EK, Gaba ND. Gynecologic Cryosurgery. eMedicine from WebMD. Updated
+May20, 2016. Available at: ‘http://emedicine.medscape.com/article/269982-.
+Gaba, ND. Areviewand commentaryon the paper: DisparityBetweenResidentand
+Attending Physician Perceptions ofIntraoperative Supervision andEducation. GME
+Focus, April 2010.
+Gaba, ND.A review and commentary on the paper: Characteristics ofSuccessful
+Applications and Interviews: An Analysis of Integrated Plastic Surgery Residency
+Programs. GMEFocus, December2009.
+KellerJM and Gaba ND. Oral Contraceptives and Sexual Function. The Female Patient,
+September 2010.
+Vora S Stematakos M and Gaba ND. LipotamousAngiomyofibroblastoma: A Case
+Report in a Latina Patient. Reproductive Medicine, 2011. Jul-Aug;56(7-8):345-50.
+Keller JM, Blatt, BJ, Greenberg L. and Gaba ND. Residents asTeachers: Investigation
+ofa 21% Century360-Degree Evaluation Program. JournalofGraduate Medical
+Education. 2012
+KellerJM, Gaba ND, Blatt BJ, Plack M and Greenberg L. Using a commercially
+available web-based evaluation system to enhance residents’ teaching. JGME.
+2012;4(1):64-67.
+Gimovsky AC and Gaba ND. Operative Obstetrics: Past, Present and Future.
+Postgraduate Obstetrics and Gynecology, February28, 2012, Vol 32 (4).
+Gaba ND and Keller JM. A 3-Step Approach to ManagementofAdnexal Masses in
+Reproductive-agewomen. The Female Patient. March 2012.
+Berger J, Daneshpayeh N, Sherman M, KellerJM, Gaba ND, Perel L, Blatt BJ and
+Greenberg L. Anesthesia Residents asTeachers (ART) Program. JGME. March 2012
+Gaba ND, Polite FG, Keller JM and YoungAE. To Erris Human, to Provide Safe,
+Quality, and Cost-Effective Hysterectomy is Divine! Clinical Obstetrics and Gynecology,
+March 2014 Vol 7(1): 128-139.
+Keller, JM and Gaba ND, Contraception for patientsWith Lupus, ABOG/SASGOG.
+Pearls of Excellence, 2015
+Lalwani S, Witmyer J, Gaba ND, Frankfurter D, Preimplantation Genetic Screening:
+What25 Years Has Taught Us, Postgraduate Obstetricsand Gynecology2015
+Eto C. and Gaba ND Improving the Diagnosis and ManagementofInterstitial
+Cystitis, Postgraduate Obstetricsand Gynecology, 2015
+Gaba, ND The Sky is not Falling forthe AcademicObstetrician Gynecologist, Obstetrics
+and Gynecology, Lettertothe Editor, 2015,
+
+NancDy.Gaba, M.D.
+Page 11
+Marko Kl and Gaba ND Tailoring Morning Reports to an Internal Medicine Residency in
+Qatar, GME Focus: Journal of Graduate Medical Education, 2015
+Cigna S, Gaba ND and Larsen JWGeta Handleon the Scanzoni
+Maneuver, ContemporaryObstetrics andGynecology 2016
+Gard K, Marko K, Gaba ND Therapy for VasomotorSymptoms, Postgraduate Obstetrics
+and Gynecology, 2016
+Greenberg L, Blatt B, KellerJ and Gaba ND Cana Residents as Teachers Program
+Impact a Department's Educational Transformation?, The Journal ofFaculty
+Development, 2016
+MelzerA, Marko K, KrapJf, MartinezA, Sheth Sand Gaba ND Testing the Feasibility of
+Remote Patient Monitoring in Prenatal Care Using a Mobile App and Connected
+Devices, JMIR, , 2016 Oct-Dec; 5(4): €200. Published online 2016 Nov
+18. doi: 10.2196/resprot.6167
+Margulies S L, Benham J, Liebermann J, AmdurR,Keller JM and Gaba ND. Adverse
+Events in Obstetrics: Impacts on Providers and Staff ofMaternity Care. Cureus 12(1):
+€6732. Published online 1/21/2020. doi:10.7759/cureus.6732
+Alvarez RD, Chelmow D, Johnson DD, Francis SL, Gaba ND and Espey E. Reimagining
+the Council of UniversityChairs in Obstetrics and Gynecology in Evolving Times.
+American JournalofObstetrics and Gynecology, March 2023
+hi i.org/10.1016/.aj0g.2023.01.038
+Chapters in Books
+Parviainen EL, Gaba ND: Gynecologic Cryosurgery. E-Medicine (on-line textbook),
+2001, updated 2005, 2007.
+Gaba ND. Pelvic Inflammatory Disease andPelvicAdhesions, In Female Sexual
+Pain Disorders. Ed Goldstein, A. Wiley-Blackwell, March 30, 2009.
+Moawad G, and Gaba ND. SecondaryAmenorrhea Due to Asherman’s Syndrome. In
+Acute Care and Emergency Gynecology. Eds. Chelmow, Isaacs and Carrol. Cambridge
+University Press 2014
+Bathgate S and Gaba ND Preconception Evaluation. In The Office CareofWomen. Ed.
+Olsen and Rizk, Cambridge UniversityPress, 2016
+Gaba ND, A55 year Old Woman With a White Itchy Lesion on theVulva (Lichen
+Sclerosus). In Office Gynecology. Ed. Chelmow, Karjane, Riccioti and Young,
+‘Cambridge University Press, 2019
+Cigna ST, KellerJM, and Gaba ND. Operative Vaginal Delivery. Ed. Norwitz, Decker
+Obstetrics and Gynecology 2020
+
+NancyD. Gaba, M.D.
+Page12
+Cigna S, HoeppnerC, Perkins J and Gaba ND. Sexual Health in Geriatric Patients.in
+Clinics in Geriatric Medicine: Women's Health. Eds. Cobbs and Blackstone, Elsevier,
+2021
+PRESENTATIONS
+Regional Presentations and Posters
+Gaba ND BlattB, Macri CJ Greenberg L. Improving Teaching Skills in OBGYN
+Residents: AControlled Evaluation ofa Residents-As-Teachers Program. Peer reviewed
+poster presentation atThe North East Group on Educational Affairs Annual Conference
+March 2006
+Gaba ND, Alagia DP, Robinson JA, and Chahine EB. Teaching Residents
+Thermachoice Endometrial Ablation: Evaluation ofAn Objective Structured
+Assessmentof Technical Skills (OSATS). Poster presented atThe George Washington
+University School of Medicine and Health Sciences Research Day, March 2008.
+Gaba ND, Patel Grimm, KellerJM and Macri CJ. Opening the DoortoA Career in
+Obstetrics and Gynecology: A Clinical Skills Labfor 1* and 2° Year Medical Students.
+Poster Presented at The Department ofObstetrics and Gynecology Kane King Dodek.
+‘Student Honor Society and Resident Research Session, The George Washington
+UniversitySchool of Medicine and Health Sciences, May 2010.
+Vora S. and Gaba ND. Vulvar Angiomyofibroma: A Case Report. Poster presented at
+The Department of Obstetrics and Gynecology Kane King Dodek Student HonorSociety
+and Resident Research Session, The GeorgeWashington University School of Medicine
+and Health Sciences, May 2010.
+GimovskyAC and Gaba ND. The Teaching Resident: A Model forLeadership
+Development and Ob/Gyn Residents’ Experience. Poster Presented atThe George
+Washington University Medical CenterResearch Day, March 2012.
+National Presentations and Posters
+Super ND, Hemmes RB: Body weight atthe time of conception determines sex ratio
+and littersize. Federation ofAmerican ScientistsforExperimentalBiology. 1986
+‘Super ND, Rosenbaum M, Smiley R, Malbon CC, Leibel RL, Hirsch J: Regional
+differences in stimulatory and inhibitory G-proteins in abdominal and gluteal
+subcutaneous adipose tissue in man. Presented before the American Society for Clinical
+Nutrition, 1990.
+
+NancyD. Gaba, MD.
+Page 13,
+Gaba ND, Gorenberg DM: Resident self-learning techniques on-call. Oral presentation
+atAPGO/CREOG Annual Meeting, March 2000.
+Levey KA, Gaba ND: A modelfor evaluating medical information sites on the internet.
+Poster presented atAPGO/CREOG Annual Meeting, March 2000.
+Levey KA, Gaba ND: A model forteaching episiotomy repair. Poster presented at
+APGO/CREOG Annual Meeting, March 2001
+Gaba ND, Ashkin EM, Larsen JW. Acompetency-based evaluation of resident
+management ofshoulderdystocia. General Session Platform Presentation at
+APGO/CREOG Annual Meeting, March 2002.
+Gaba ND. Developing a systems based practice curriculumforobstetricsand
+gynecology residents; A needs assessment. APGO/Solvay Educational Scholars
+project. Poster presented atAPGO/CREOG Annual Meeting, March 2003
+Gaba ND, Parviainen, EL. Assessing residentcompetency in obtaining informed
+consent. Poster presented atAPGO/CREOG Annual Meeting, March 2003.
+Weltman AL, Gaba ND. Resident satisfaction in the role ofteaching medical students.
+Poster presented atAPGO/CREOGAnnual Meeting, March 2003.
+Gaba ND, Parviainen ELK, Kendell MJ, and Macri CJ. Resident Managementof
+Cervical Dysplasia: Relating Objective Fund ofKnowledge to Core Competencies. Prize
+winning poster presented at APGO/CREOG Annual Meeting March 2004.
+Ghatan TS, Macri CJ, Gaba ND, Parviainen ELK. Implementation ofComputerized Sign-
+outs in Responsetothe ACGME Duty Hour Requirements. Poster presented at
+APGO/CREOG Annual Meeting March 2004.
+Gaba ND, Parviainen ELK, Kendell MJ, Macri CJ. Colposcopy- OSCE: A Multi-
+CompetencyAssessment. Oral presentation atAPGO/CREOGAnnual Meeting March
+2004.
+Gaba ND, De Stefano KA, Wise SI, and Macri CJ. The Influence of Senior Electives on
+Choice of Residency Program. Prize winning posterpresented at APGO/CREOG
+Annual Meeting March 2005.
+Macri CJ, Gaba ND, Sitzer LM Freese L, Bathgate SL, and Larsen JW.
+Implementation and evaluation ofa genetics curriculum to improve obstetrician-
+gynecologist residents’ knowledge and skills in geneticdiagnosis and counseling. Poster
+presented atAPGO/CREOG Annual Meeting March 2005.
+MacColl CR, Jerdonek M, Gaba ND and Macri CJ. “Bad-Mouthing” ofOb/Gyn: How
+does itaffect medical students? Poster presented atAPGO/CREOG Annual Meeting
+March 2006.
+Gaba ND, Alagia DP, Robinson JA, and Chahine EB. Teaching Residents
+Thermachoice Endometrial Ablation: Evaluation ofAn Objective StructuredAssessment
+
+NancyD. Gaba, M.O.
+Page 14
+ofTechnical Skills (OSATS). Presented at Education Plenary Session atThe
+Association ofGynecologic Laparoscopists Annual Meeting, November 2007.
+Patel-Grimm S, Gaba ND, and Macri CJ. Depression: A NeedsAssessmentfor
+Curriculum Development. PrizeWinning Oral Presentation atAPGO/CREOGAnnual
+Meeting, March 2007.
+Janakiraman V, Liebermann JV, VinnikA, ZopfRand Gaba ND, Helping Residents in
+Obstetrics and Gynecology Reduce Stress and Burnout: A Needs Assessment. Poster
+presented atAPGO/CREOG Annual Meeting March 2008.
+Keller JM, Gaba ND, Macri CJ. Practice Based Learning and Improvement: AToolbox
+For Residents. Oral Presentation atAPGO/CREOG Annual Meeting, March 2008.
+Gaba ND, Patel-Grimm S, “Opening the Door ToACareer in Ob/Gyn; A Clinical Skills
+Lab for 1* and 2° Year Medical Students” Presentation/WorkshopAPGO Faculty
+Development Seminar, Palm Beach Fl. January 2009
+Marfori CQ, KellerJM, Macri CJ, Gaba ND, A Curriculum forTeaching and Measuring
+ResidentCompetency in Transvaginal Ultrasound”. Poster presented atAPGO-CREOG.
+Annual Meeting March 2009.
+BergerJ, Sherman M, Blatt BJ, Gaba ND, KellerJM and Greenberg L. Anesthesiology
+Residents as Teachers Program. Poster presentation, Society ofAcademic
+Anesthesiologist, May 2010.
+KellerJM, Blatt BJ, Greenberg L. and Gaba ND. Residents as Teachers: Investigation
+ofa 21* Century 360-Degree Evaluation Program. Oral Presentation atAPGO/CREOG
+Annual Meeting March 2011.
+KellerJM, Blatt BJ, Greenberg L. and Gaba ND. Residents as Teachers: Qualitative
+Analysis of Resident and Student Perceptions. Poster Presented at, APGO/CREOG
+Annual Meeting, March 2011
+Patel Grimm S, Keller JM and Gaba ND. Mentorship: A21* Century Model. Oral
+Presentation atAPGO/CREOG Annual Meeting, March 2012
+KrapfJM, Blatt BJ, Greenberg L, KellerJM and Gaba ND. Exploring the Value of Peer
+Clinical Coaching on First Year Residents’ Quality of Experience and Clinical
+Performance. Poster Presentation. NEGEAAnnual Retreat, March 2012.
+Overcash RT, KrapfJM and Gaba ND. Residents’ Perception ofthe Impact ofthe 2011
+ACGME Duty HourStandards on Patient Safety and QualityofCare. Poster
+presentation atAPGO/CREOG Annual Meeting March 2012.
+Gimovsky AC and Gaba ND. TheTeaching Resident: AModel forLeadership
+Development and Ob/Gyn Residents’ Experience. PosterPresented atAPGO/CREOG
+Annual Meeting March 2012.
+
+NancyD. Gaba,M.D.
+Page 15
+Gaba ND Negotiating a Successful Career Pathway as a General Obstetrician
+Gynecologist in an Academic Setting. Breakout session presented at SASGOG
+Inaugural Meeting, May 2013
+Todd S, Gaba ND, KrapfJ and Larsen JW. Forceps Delivery oftheAftercoming Head in
+Breech Delivery: An Obstetric Emergency. Educational video presented at
+APGO/CREOG Annual Meeting March 2014,
+Marko KC, KrapfJM, Gaba ND. Adapting a Universal ShoulderDystocia Protocol: Stop
+‘Signs, Detours and WhatWe Have Learned. Roundtable discussion presented at
+APGO/CREOG Annual Meeting March 2014
+Greenberg L, KrapfJM, Blatt BJ, Keller JM and Gaba ND. Addressing Individualized
+Learning Plans Through Peer Coaching: A Model for Pediatrics. PAS, 2014
+Gaba ND, Barnabei VM, AdamsKand ParkerJ. The Magic of Mentoring. Breakout
+session APGO/CREOG Annual Meeting March 2014.
+Braverman J and Gaba ND, Risk factorsforcesarean delivery among teenagers and
+non-teenagers, Poster at GW Research Day, 2015
+Gaba ND, Curran D and Swaim LS Understanding The AcademicGeneralist (and why
+thistitle isobsolete), APGO/CREOGAnnual Meeting, Workshop, 2015
+Gaba ND Becoming an Academic Generalist in Ob/Gyn, ACOGAnnual Clinical Meeting,
+2015
+Gaba ND Cutting Edge Topics in General Obstetrics and Gynecology, ACOG Annual
+Clinical Meeting, 2015
+Marko K, PingeWr and Gaba ND, Primary Cesarean Prevention: A Collaborative Model
+ofCare atThe George Washington University, ACOG Annual Clinical Meeting/
+SASGOG Scientific Session, Oral Presentation, 2015
+Smith P, Sutton P, Stotland N, Paulson J, Larsen JW, and Gaba ND Reproductive
+Environmental Health Education: ASurvey ofU.S. Obstetricsand Gynecology
+Residency Programs, PosterPresentation, APGO/CREOG Annual Meeting, MD, 2015
+KrapfJM, MartinezAG, Ganju N, Gaba ND, and Marko KI. Remote Capture and
+Monitoring of Clinical Data during Pregnancy, Poster Presentation, ACOG Annual
+Clinical and Scientific Meeting, 2015
+Mohamed M, Gaba ND, NesterenkoT, Aly H, Juvenile Rheumatoid Arthritis may be
+associated with preterm birth and poor fetal growth, Poster Presentation, Pediatric
+Academic SocietyAnnual Meeting, 2015
+Gaba ND, Barnabei VM andAdams KM. So Farand Yet So Close: The Magic of
+Distance Mentoring, Poster Presentation, APGO/CREOG Annual Meeting, 2015
+
+NancyD. Gaba,M.D.
+Page 16
+INVITED PRESENTATIONS
+National Presentations
+Contraceptionfor Breastfeeding Women, Contraceptive Technologies Conference,
+Washington DC, 2003.
+Mentorshipin the 21% Century Presented atACOG District IVAnnual Meeting, Palm
+Beach Florida, 2006.
+Gaba ND, Alagia DP, Robinson JA, and Chahine EB. Teaching Residents
+Thermachoice Endometrial Ablation: Evaluation of An Objective Structured Assessment
+of Technical Skills (OSATS). Presented at Education Plenary Session atThe
+Association of Gynecologic Laparoscopists Annual Meeting, November 2007.
+Mentorshipin the 21* CenturyPresented atWashington University Graduate Medical
+Education Retreat, St. Louis, MO. 2008.
+‘Adult Learning Principles, Carolinas Medical Center Department ofObstetrics and
+Gynecology, Grand Rounds, 2013
+Residents as Teachers, Carolinas Medical Center, 2013.
+Cutting Edge Topics in Obstetrics and Gynecology, American Congress
+of Obstetricians and Gynecologists (ACOG) Annual Clinical Meeting,
+Chicago ll, 2014
+How to GetPromoted. GeorgeWashington University Department ofObstetrics and
+Gynecology Grand Rounds, 2014.
+Adult Learning Principles, Baylor College of Medicine, Department ofObstetrics and
+Gynecology, Grand Rounds, 2015
+We KnowWhatWeAre But We Know NotWhatWe May Be: The History and Futureof
+SASGOG,MedstarWashington Hospital Center, Grand Rounds, 2015
+We KnowWhatWeAre But We Know NotWhatWe May Be: The History and Future of
+SASGOG, Mount Sinai Beth Israel, Grand Rounds, 2016
+Principles ofAdult Learning, University of Minnesota Visiting Professorand Research
+DayKeynote Speaker, May 2019
+Developing Your Careeras a Leader in Obstetrics and Gynecology, Societyfor
+Academic Specialists in General Obstetrics and Gynecology (SASGOG) invited panelist,
+May 2020
+
+NancyD. Gaba, MD.
+Page17
+Innovations in Women’s Services and the COVID-19 Response, BabyScriptsWebinar,
+June2020)
+Feedback for Adult Leamers: It’s MoreThan “Good Job!” The 42 Annual Rose and
+Wilfred Cohen Lectureship in Obstetrics and Gynecology, ZuckerSchool ofMedicine at
+Hofstra/Northwell Health, February2021.
+Changing Culture to EnhanceYour Division: Division DirectorSeries, Society for
+Academic Specialists in General Obstetrics and Gynecology (SASGOG) National
+Meeting (Virtual)April 2021
+Regional Presentations
+MistreatmentofMedical StudentsandResidents, What Does theEvidence Show?
+Fairfax Hospital Grand Rounds, April 1999.
+Menstrual Disorders in Women The GeorgeWashington University Hospital Annual
+‘Community Outreach Fibroid Seminars, 2007-2013.
+Frontiers in Medicine: The Empowered Patient: The Truth Behind Drugs, Herbs and
+Vitamins. Memberofpanel forum, 2010
+Doctor, Do |Really NeedaPap Smear? CommunityOutreach Education, Congregation
+Beth El, Bethesda, MD, 2007.
+Navigating thedifficult Cervix: An evidencebasedapproach Holy Cross Hospital Grand
+Rounds. 2008
+PID and The PEACHtrial: Lessons Learned. Holy Cross Hospital Grand Rounds. 2009
+Women Physician's Panel AMWAluncheon 2009.
+New Breast CancerScreening Guidelines. FocusonWomen’s Health Issues2010.
+INOVA Health System. Falls Church Virginia. November2010.
+MentoringofResidents, Guidelines forSuccess. GeorgeWashington University
+Department ofObstetricsand Gynecology Grand Rounds, 2010.
+Sleep Deprivation and Fatigue. GeorgeWashington University Department ofObstetrics
+and Gynecology Grand Rounds, 2011.
+DutyHourRestrictions: Should TheyBe Restrictedto Residents? Sibley Hospital Grand
+Rounds, June2011
+Menstruation and Me: Exploring Periods Across Culture, Policy, Medicine and Art. GWU
+Women's Leadership Program Panelist, 2024
+
+NancyD. Gaba, M.O.
+Pago 18
+SERVICE TO COMMUNITY
++ Gynecologic Consultant, Washington Free Clinic, 1998-2000
+Washington, DC
+* Kids Against Hunger Event Organizer 2010-Present
+* Volunteer, N Street Village Women's Shelter 2016-Present
+‘+ Volunteer, Central Union Mission 2010-Present
+* Co-Chair, Careers in Women’s Health Symposium for Under 2020
+Represented Minority High School Students
+
+*
+* e
+EARI
+= m
+Io
+Executive Officeof the Mayor— Mayor’s OfficeofTalentand Appointments
+John A. WilsonBuilding | 1350Pennsylvania Avenue, Suite600 | Washington, DC 20004
+Dr. Nancy Gaba
+Dr. Nancy Gaba has served on the faculty at the George Washington
+University School ofMedicine and Health Sciences in the Department of
+Obstetrics andGynecologysince 1997. Dr. Gaba became theOscarI. and
+MildredS. DodekandJoan B. and OscarI. Dodek,Jr. ProfessorandChair
+ofthe DepartmentofObstetrics and Gynecology atGW in March 2014.
+Dr. Gaba has been the Residency Program Director and served as the
+Associate Dean for Graduate Medical Education and Designated
+Institutional Official (DIO) at The George Washington University School
+ofMedicine and Health Sciences from2007-2014. She has also servedas
+the Division Director for General Obstetrics and Gynecology and Vice
+Chair of the Department of Obstetrics and Gynecology. She currently
+serves as the Secretary ofthe BoardofDirectors for the George Washington University Medical
+Faculty Associates, where she is alsoco-chair ofthe Professionalism andCivility Council
+Dr. Gaba’s clinical interests include ambulatory gynecology, menopause management, cervical
+dysplasia, and operative hysteroscopy. She also enjoys complicated obstetrics including
+managementofthe breechpresentation andoperative vaginal delivery.
+Hernational roles include service as an ABOG oral examiner, faculty on the CREOG School for
+Program Directors, co-director and faculty in APGO"s Capstone Surgical Education Scholars
+Program, as well as service on numerousothernational committees. Dr. Gabais a founding Board
+Member and immediate past President ofSASGOG. She is dedicated to her role as an educator
+and mentor and has won numerous teaching awards, including the prestigious Donald F.
+Richardson award and theACGME ParkerPalmer Courage to Teach Award.
+‘A Maryland resident,Dr.Gaba earned herBachelorofArtsinBiopsychology fromVassarCollege
+and herDoctorofMedicine from the George Washington University.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Executive Office of Mayor Muriel Bowser
+Office of the General Counsel to the Mayor
+To: Kimberly A. Bassett, Steve Walker
+From: Betsy Cavendish
+Date: January 16, 2026
+Subject: Legal sufficiency review of a resolution reappointing Dr. Nancy Gaba as a
+member of the Maternal Mortality Review Committee
+This is to Certify
+that this office has reviewed the above-referenced resolution and
+found it to be legally unobjectionable. If you have any questions in this regard, please do not
+hesitate to call Michael Porcello, Deputy General Counsel, Executive Office of the Mayor, at
+202-727-0872, or me at 202-724-7681.
+______________________________
+Elizabeth Cavendish
+______________________________________________________________________________
+The John A. Wilson Building • 1350 Pennsylvania Avenue, NW • Suite 300 • Washington, D.C. 20004 • Office (202) 724-7681

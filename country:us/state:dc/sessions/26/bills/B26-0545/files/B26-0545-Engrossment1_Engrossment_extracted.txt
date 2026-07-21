@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-545
+4
+5 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+6
+7 _______________
+8
+9 To amend the Relief for River East at Grandview Condominium Owners Act of 2024 to provide
+10 housing relief to certain owners and former owners of the River East at Grandview
+11 Condominiums by establishing eligibility for Home Purchase Assistance Program grants,
+12 converting existing Home Purchase Assistance Program loans to grants, and limiting the
+13 affordability covenant period for former owners Inclusionary Zoning and Accessory
+14 Dwelling ownership units to 15 years; and to address related tax considerations and
+15 reporting requirements.
+16
+17 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA,
+18 That this act may be cited as the “River East at Grandview Homeownership Relief and
+19 Restoration Amendment Act of 2026”.
+20 Sec. 2. The Relief for River East at Grandview Condominium Owners Act of 2024,
+21 effective September 18, 2024 (D.C. Law 25-217; D.C. Official Code § 42–2081 et seq.) is
+22 amended as follows:
+23 (a) Section 2132 (D.C. Official Code § 42–2081) is amended as follows:
+24 (1) A new subsection (c-1) is added to read as follows:
+25 “(c-1) “Former Property Owner” means an individual who purchased a condominium
+26 unit at the River East at Grandview Condominiums between July 2017 and March 2019 and who
+27 no longer owns that unit.
+1
+
+ENGROSSED ORIGINAL
+28 (2) Paragraph (l) is amended by striking the period and inserting the phrase “and purchased
+29 the condominium unit between July 2017 and March 2019.” in its place.
+30 (b) A new Section 2135 is added to read as follows:
+31 “Sec. 2135 HPAP loan conversion to grant and shortening the length of IZ or ADU
+32 affordability covenant for Property Owners and Former Property Owners
+33 “(a) DHCD shall provide relief under this section to Property Owners or Former Property
+34 Owners as follows:
+35 (1) DHCD shall make Property Owners or Former Property Owners who have
+36 not purchased another primary residence since leaving the Property eligible for HPAP assistance,
+37 pursuant to the Home Purchase Assistance Fund Act of 1978, effective September 20, 1978
+38 (D.C. Law 2-135; D.C. Official Code § 42–2601 et seq.), in the form of a grant toward the
+39 purchase of a primary residence in the District of Columbia. The Property Owner or Former
+40 Property Owner shall be excluded from credit requirements for the HPAP program.
+41 (2) DHCD shall convert outstanding HPAP loans for Property Owners or Former
+42 Property Owners who previously received HPAP assistance to purchase a primary residence in
+43 the District of Columbia into grants. This provision shall not apply to any subsequent purchase
+44 beyond the first primary residence.
+45 (A) DHCD and the Office of Tax and Revenue shall record any release,
+46 modification, or other instrument necessary to reflect the conversion in the land records.
+2
+
+ENGROSSED ORIGINAL
+47 (3) DHCD shall award HPAP grants of up to $50,000 to be used towards the
+48 payment of a primary residence mortgage principal balance, in the form of a recast or refinance
+49 of the current mortgage, for Property Owners or Former Property Owners who purchased a
+50 primary residence in the District of Columbia without HPAP assistance. This provision shall not
+51 apply to any subsequent purchase beyond the first primary residence.
+52 (4) A Property Owner or Former Property Owner who has purchased, or will
+53 purchase, an IZ or ADU unit as their next primary residence under 14 DCMR § 2200 et seq. shall
+54 receive priority when applying for an IZ or ADU ownership unit. The affordability covenant on
+55 that unit shall terminate 15 years after the date the Property Owner or Former Property Owner
+56 closed on a condominium unit at the Property. This provision applies only to the first qualifying
+57 unit and does not apply to any later purchases. DHCD shall record and make publicly available
+58 the termination of any covenant under this paragraph.
+59 “(b) Notwithstanding any other provision of law:
+60 (1) Any amount received under this section shall be excluded from District gross
+61 income for purposes of Title 47 of the District of Columbia Official Code; and
+62 (2) Any amount realized by reason of the conversion or forgiveness of an HPAP
+63 loan under subsection (a)(2) shall also be excluded from District gross income for purposes of
+64 Title 47 of the District of Columbia Official Code. The Office of Tax and Revenue shall issue
+65 guidance to implement this subsection.
+3
+
+ENGROSSED ORIGINAL
+66 “(c) By September 1, 2027, and annually thereafter through Fiscal Year 2032, DHCD
+67 shall submit to the Council a report identifying:
+68 (1) The number of individuals receiving relief and the total amount of relief
+69 received under each paragraph of subsection (a);
+70 (2) The ward in which each grant recipient purchased a property; and
+71 (3) Any administrative or fiscal challenges in implementing this section.
+72 “(d) Nothing in this section shall be construed to create an entitlement or to require the
+73 District to make payments in excess of funds appropriated for the purpose of this section.”.
+74 Sec 3. Applicability
+75 This act shall sunset after December 31, 2032.
+76 Sec. 4. Fiscal impact statement.
+77 The Council adopts the fiscal impact statement in the committee report as the fiscal
+78 impact statement required by section, 602(c)(3) of the District of Columbia Home Rule Act,
+79 approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(3)).
+80 Sec. 5. Effective date.
+81 This act shall take effect following approval by the Mayor (or in the event of veto by the
+82 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+83 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+84 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+85 Columbia Register.
+4

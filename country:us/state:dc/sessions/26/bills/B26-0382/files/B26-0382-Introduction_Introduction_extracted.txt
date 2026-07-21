@@ -1,0 +1,109 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2 ________________________________
+3 Councilmember Charles Allen
+4
+5
+6
+7 A BILL
+8
+9 ___________
+10
+11
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+13
+14 ___________
+15
+16
+17 To amend, on a temporary basis, the Office of Citizen Complaint Review Establishment Act of
+18 1998 to expand the membership of the Police Complaints Board, and to allow the Office
+19 of Police Complaints’ Executive Director to initiate their own complaint if they discover
+20 evidence of abuse or misuse of police powers that was not alleged in the original complaint,
+21 including the failure to intervene or report to a supervisor when another officer used
+22 excessive force, engaged in other forms of misconduct, or violated a rule or regulation; and
+23 to amend Chapter 3 of Title 14 of the District of Columbia Official Code to clarify that
+24 certain provisions only apply to a victim who is under the age of 18.
+25
+26 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+27 act may be cited as the “Comprehensive Policing and Justice Reform Technical Temporary
+28 Amendment Act of 2025”.
+29 Sec. 2. The Office of Citizen Complaint Review Establishment Act of 1998, effective
+30 March 26, 1999 (D.C. Law 12-208; D.C. Official Code § 5-1101 et seq.), is amended as follows:
+31 (a) Section 4 (D.C. Official Code § 5-1103) is amended by adding a new paragraph (3B)
+32 to read as follows:
+33 “(3B) “MPD” means the Metropolitan Police Department.”.
+1
+
+34 (b) Section 5(a) (D.C. Official Code § 5-1104(a)) is amended by striking the phrase
+35 “There is established a Police Complaints Board (“Board”). The Board shall be composed of 5
+36 members, one of whom shall be a member of the MPD, and 4 of whom shall have no current
+37 affiliation with any law enforcement agency.” and inserting the phrase “There is established a
+38 Police Complaints Board. The Board shall be composed of 9 members, which shall include one
+39 member from each Ward and one at-large member, none of whom, after the expiration of the
+40 term of the currently serving member of the MPD, shall be affiliated with any law enforcement
+41 agency.” in its place.
+42 (c) Section 8 (D.C. Official Code § 5-1107) is amended as follows:
+43 (1) A new subsection (g-1) is added to read as follows:
+44 “(g-1)(1) If the Executive Director discovers evidence of abuse or misuse of police
+45 powers that was not alleged by the complainant in the complaint, the Executive Director may:
+46 “(A) Initiate the Executive Director’s own complaint against the subject
+47 police officer; and
+48 “(B) Take any of the actions described in subsection (g)(2) through (6) of
+49 this section.
+50 “(2) The authority granted pursuant to paragraph (1) of this subsection shall
+51 include circumstances in which the subject police officer failed to:
+52 “(A) Intervene in or subsequently report any use of force incident in which
+53 the subject police officer observed another law enforcement officer, including an MPD officer,
+54 utilizing excessive force or engaging in any type of misconduct, pursuant to MPD General Order
+55 901.07, its successor directive, or a similar local or federal directive; or
+2
+
+56 “(B) Immediately report to their supervisor any violations of the rules and
+57 regulations of the MPD committed by any other MPD officer, and each instance of their use of
+58 force or a use of force committed by another MPD officer, pursuant to MPD General Order
+59 201.26, or any successor directive.”.
+60 (2) Subsection (h) is amended by striking the phrase “subsection (g)” and
+61 inserting the phrase “subsection (g) or (g-1)” in its place.
+62 Sec. 3. Chapter 3 of Title 14 of the District of Columbia Official Code is amended as
+63 follows:
+64 (a) Section 14-310(b)(4) is amended as follows:
+65 (1) Subparagraph (B) is amended by striking the phrase “whom the victim has”
+66 and inserting the phrase “whom a victim under 18 years of age has” in its place.
+67 (2) Subparagraph (C) is amended by striking the phrase “the victim” and inserting
+68 the phrase “a victim who is under 18 years of age” in its place.
+69 (b) Section 14-311(b)(4) is amended as follows:
+70 (1) Subparagraph (B) is amended by striking the phrase “with whom the victim
+71 has” and inserting the phrase “with whom a victim under 18 years of age has” in its place.
+72 (2) Subparagraph (C) is amended by striking the phrase “the victim” and inserting
+73 the phrase “a victim who is under 18 years of age” in its place.
+74 (c) Section 14-312(b)(4) is amended as follows:
+75 (1) Subparagraph (B) is amended by striking the phrase “with whom the victim
+76 has” and inserting the phrase “with whom a sexual assault victim under 18 years of age has” in
+77 its place.
+3
+
+78 (2) Subparagraph (C) is amended by striking the phrase “the sexual assault
+79 victim” and inserting the phrase “a sexual assault victim who is under 18 years of age” in its
+80 place.
+81 Sec. 4. Applicability.
+82 Section 2 shall expire on the applicability date of section 105 of the Comprehensive
+83 Policing and Justice Reform Amendment Act of 2022, effective April 21, 2023 (D.C. Law 24-
+84 345; 70 DCR 953).
+85 Sec. 5. Fiscal impact statement.
+86 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+87 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+88 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+89 Sec. 6. Effective date.
+90 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+91 the Mayor, action by the Council to override the veto) and a 30-day period of congressional
+92 review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved
+93 December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+94 (b) This act shall expire after 225 days of its having taken effect.
+4

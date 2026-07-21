@@ -1,0 +1,1330 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+June 24, 2025
+Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the "Modification No. M03 to Contract No. DCAM-2 l-NC-RFQ-0002Q with
+Spectrum Management Approval and Payment Authorization Emergency Act of 2025", and the
+accompanying emergency declaration resolution.
+The legislation will approve Modification No. M03 to Contract No. DCAM-21-NC-RFQ-0002Q
+with Spectrum Management for interior and exterior general maintenance and repair services. In
+addition, the legislation will approve payment for the goods and services received and to be
+received under the modification.
+If you have any questions regarding the contraction modification, please contact Delano Hunter,
+Director, Department of General Services ("DGS"), or have your staff contact Eric Njonjo, Acting
+Chief of Contracts and Procurement, DGS, at (202) 727-2800.
+I urge the council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+
+~
+1
+2
+3 at the request of the Mayor
+4
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16 To approve, on an emergency basis, Modification No. M03 to Contract No. DCAM-21-NC
+17 RFQ-0002Q with Spectrum Management, and to authorize payment for the goods and
+18 services received and to be received under the modification.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the "Modification No. M03 to Contract No. DCAM-21-NC-RFQ-0002Q with
+22 Spectrum Management Approval and Payment Authorization Emergency Act of 2025".
+23 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+24 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+25 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+26 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification No.
+27 M03 to Contract No. DCAM-21-NC-RFQ-0002Q with Spectrum Management and authorizes
+28 payment in the not-to-exceed amount of $5,000,000 for the goods and services received and to
+29 be received under the modification.
+30 Sec. 3. Fiscal impact statement.
+31 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+32 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+33 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code§ l-301.47a).
+
+34 Sec. 4. Effective date.
+35 This act shall take effect following approval by the Mayor (or in the event of veto by the
+36 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+37 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+38 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+39 D.C. Official Code § 1-204.12(a).
+
+Contracts & Procurement
+Pursuant to Section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended,
+D.C. Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive)
+(A) Contract Number: DCAM-21-NC-RFQ-0002Q
+Modification No. M03 to Exercise
+Option Year Three
+Proposed Contractor: Spectrum Management, LLC
+Proposed Contractor’s Principals: George Simpson, President
+Contract Amount: Guaranteed Minimum: $50
+Not-To-Exceed (“NTE”): $5,000,000
+Term of Contract: October 1, 2024, through September 30,
+2025
+Type of Contract: Indefinite Delivery/Indefinite Quantity
+Source Selection Method: Request for Qualification
+(B) For a contract containing option periods, the contract amount for the base period and
+for each option period. If the contract amount for one or more of the option periods
+differs from the amount for the base period, provide an explanation of the reason for
+the difference:
+Base Year Amount: Guaranteed Minimum: $50
+Aggregate NTE Amount: $995,000
+Option Year One: Modification No. M01
+Guaranteed Minimum: $50
+Aggregate NTE Amount: $995,000
+Option Year Two: Modification No. M02
+Council Approval: CA25-0419, September 29, 2023
+Option Year Two Amount: Guaranteed Minimum: $50
+Aggregate NTE Amount: $5,000,000
+Explanation of difference from base and option year one period (if applicable): The
+increases to the work-order tickets submitted by client agencies through the work-order
+management system require the facilities team to have an agile approach to mitigating
+Department of General Services 3924 Minnesota Avenue, NE, Washington D.C. 20019
+
+Page 2 of 9
+previously classified low-priority workorders in an effort to maintain and increase
+customer satisfaction.
+Option Year Three: Proposed Modification No. M03
+Option Year Three Amount: Guaranteed Minimum: $50
+Aggregate NTE Amount: $5,000,000
+(C) The goods or services to be provided, the methods of delivering goods or services, and
+any significant program changes reflected in the proposed contract:
+The pre-qualified Contractors are solicited on a per-project basis and awarded task orders
+to provide general on-call maintenance and/or repair services for the following trades and
+services: HVAC, electrical, plumbing, carpentry, painting, concrete and masonry and other
+auxiliary maintenance services, which include but not limited to: (i) annual school
+readiness projects, (ii) emergency response, (iii) routine services, (iv) preventative
+maintenance services, (v) project-driven work and/or (vi) concentrated work order
+reduction efforts, each with clearly established scopes and timeline parameters.
+All work required for these projects is further detailed and released through competitive
+requests for task order proposals issued pursuant to awarded Basic Ordering Agreement
+(“BOA”) contracts. The project locations include but are not limited to schools, parks,
+recreation facilities, municipal buildings, and others.
+(D) The selection process, including the number of offerors, the evaluation criteria, and
+the evaluation results, including price, technical or quality, and past performance
+components:
+On July 6, 2021, the Department issued a Request for Qualification (“RFQ”) to solicit
+Statements of Qualifications (“SOQs”) from certified Small Business Enterprise (“SBE)
+firms to qualify and join the DGS Services Schedule for General Contractors,
+Skilled/Unskilled Trade Subcontractors & Related Facility Maintenance, Repair & Other
+Specialized Service Contractors, who are interested in prequalifying to provide small
+general construction, facility maintenance, and repair service type projects at various
+properties within the District’s real estate portfolio. In general, the pre-qualified
+Contractors will be solicited and tasked to provide On-Call Maintenance and/or Repair
+Services for the following trades: HVAC, electrical, plumbing, carpentry, painting,
+concrete and masonry and other auxiliary maintenance services, which include but not
+limited to: (i) annual school readiness projects, (ii) emergency response, (iii) routine
+services, (iv) preventative maintenance services, (v) project-driven work and/or (vi)
+concentrated work order reduction efforts, each with clearly established scopes and
+timeline parameters.
+It is contemplated that the work required for these projects will be further detailed and
+released through competitive task orders issued pursuant to BOAs. The project locations
+include but are not limited to schools, parks, recreation facilities, municipal buildings, and
+Department of General Services 3924 Minnesota Avenue, NE, Washington D.C. 20019
+
+Page 3 of 9
+others. For award determination, a Contractor would need a minimum evaluated score of
+seventy-five (75) points.
+The RFQ was posted on DGS website and email notifications were also sent to potential
+SBE firms identified through market research as local companies capable of providing the
+required services. In addition, an email with the web site link was sent to the Department
+of Small and Local Business Development (“DSLBD”) Opportunities Team to forward to
+all CBE firms.
+The Department issued two (2) addenda to the RFQ.
+Addendum No. 01, issued on July 7, 2021:
+1. Deleted and Replaced Section [A.8] – Designation of Solicitation for the Small
+Business Set-Aside Market Only
+2. Deleted and Replaced Last Day for Questions to July 8, 2021
+3. Deleted and Replaced SOQ Delivery Information to July 14, 2021, no later than 4:00
+p.m. EST via electronic submission.
+Addendum No. 02, issued on July 13, 2021:
+1. Deleted and Replaced Proposal Submission Date and Time to July 19, 2021, no later
+than 4:00 p.m. EST.
+2. Add/Incorporated Explanation to Prospective Offerors
+3. Add/Incorporated Form of Contract (the “Basic Ordering Agreement”) as Exhibit B
+4. Deleted and Replaced SOQ Application – Attachment A – SOQ Application Revised
+July 12, 2021
+5. Deleted and Replaced Workers Compensation Insurance History.
+On the SOQ due date, July 19, 2021, forty-five (45) firms (collectively, the “Offerors”, and
+each individually, an “Offeror”) submitted SOQs in a timely manner, and as such were
+deemed non-responsive.
+SOQ Evaluation Process:
+The SOQ submissions were examined to determine whether they met all the requirements
+of the RFQ. The SOQs from the responsive Offerors were then scored on a scale of zero
+(0) to one-hundred twelve (112) points.
+Technical Evaluation:
+The (112) points include (100) points for the technical criteria (Demonstrated Experience
+of the Firm; Demonstrated Experience and Training of the Firm’s Personnel; Proposed
+Approach; and Subcontracting), and up to (12) points based on the Offeror’s status as a
+CBE.
+Demonstrated Experience of the Firm 15 points
+Demonstrated Experience and Training of the Firm’s Personnel 35 points
+Department of General Services 3924 Minnesota Avenue, NE, Washington D.C. 20019
+
+Page 4 of 9
+Proposed Approach 35 points
+Subcontracting 15 points
+Total 100 points
+Offerors who scored the minimum evaluation score of 75 points were prequalified and
+awarded BOA.
+Contract Award:
+After conducting comprehensive independent evaluation of the submitted SOQs, DGS pre-
+qualified and awarded BOA contracts to multiple firms including Spectrum Management.
+These pre-qualified vendors demonstrated the required expertise, personnel qualifications,
+and adherence to District procurement standards. As pre-qualified BOA contract holders,
+the vendors are shortlisted and eligible to compete for project-driven request for task order
+proposals for general construction, facility maintenance, and repair services across District-
+owned properties.
+(E) A description of any bid protest related to the award of the contract, including
+whether the protest was resolved through litigation, withdrawal of the protest by the
+protestor, or voluntary corrective action by the District. Include the identity of the
+protestor, the grounds alleged in the protest, and any deficiencies identified by the
+District as a result of the protest:
+The award of the Contract was not protested.
+(F) A description of any other contracts the proposed contractor is currently seeking or
+holds with the District:
+DCAM-21-NC-RFP-00115 – Property Management Services OJS Barry Building
+(G) The background and qualifications of the proposed contractor, including its
+organization, financial stability, personnel, and performance on past or current
+government or private sector contracts with requirements similar to those of the
+proposed contract:
+The Contractor is a Washington, DC based full-service facilities management and
+maintenance company providing property and facilities management/maintenance services
+in the government, commercial and institutional sectors. The Contractor has provided
+services to the District’s portfolio of properties for more than 17 years for contracts that
+are similar or larger in scope, size and complexity to the project, including as the incumbent
+contractor providing similar services for the previous six (6) years at the Barry Building
+(formerly One Judiciary Square Building). The Contractor has been determined
+responsible in accordance with 27 DCMR § 4706.1.
+(H) The period of performance associated with the proposed change, including date as of
+which the proposed change is to be made effective:
+Department of General Services 3924 Minnesota Avenue, NE, Washington D.C. 20019
+
+Page 5 of 9
+The Contract’s period of performance for Option Year Three is October 1, 2024, through
+September 30, 2025.
+(I) The value of any work or services performed pursuant to a proposed change for
+which the Council has not provided approval, disaggregated by each proposed change
+if more than one proposed change has been aggregated for Council review:
+$5,000,000 NTE
+(J) The aggregate dollar value of the proposed changes as compared with the amount of
+the contract as awarded:
+$5,000,000 NTE
+(K) Date on which the contracting officer was notified of the proposed change:
+September 5, 2024.
+(L) The reason why the proposed change was sent to Council for approval after it is
+intended to take effect:
+The Department of General Services (DGS) submitted the Spectrum BOA contract
+(DCAM-21-NC-RFQ-0002Q Modification No. M03) to IQ on June 16, 2024, requesting
+approval to exercise Option Year Three for the period of October 1, 2024 – September 30,
+2025. Subsequently, on June 25, 2025, DGS submitted the requested BOA package edits
+to the Executive Office of the Mayor (EOM).
+However, a LIMS filing error resulted in the wrong Spectrum Management contract
+receiving deemed approval twice, as outlined below:
+• August 5, 2024 – The Contracting Officer (CO) notified EOM that the LIMS package
+(CA25-0195) contained the incorrect vendor’s documents. The approval was listed for
+Spectrum Management LLC (DCAM-21-NC-RFQ-0002Q Modification No. M03), but
+the associated Legislation Text and Legislative History documents belonged to Sequoia
+Row.
+• August 6, 2024 – DGS was informed that the LIMS filing error had been corrected.
+• October 1, 2024 – The CO executed Contract Modification No. M03 exercising Option
+Year Three, extending the contract’s period of performance from October 1, 2024 –
+September 30, 2025, with a not-to-exceed (NTE) amount of $5 million.
+• In conclusion the August 2024 corrective action attempted resulted in the wrong
+Spectrum contract documents mistakenly filed twice. The final LMIS filing under
+CA25-0195 contained Spectrum Contract (DCAM-21-NC-RFP-0015), which was
+previously filed and deemed approved under LIMS CA25-0863. The original LIMS
+Department of General Services 3924 Minnesota Avenue, NE, Washington D.C. 20019
+
+Page 6 of 9
+filing CA25-0195 for Contract No. DCAM-21-NC-RFQ-0002Q Modification No. M03
+did not receive proper council Deemed Approval.
+Efforts are ongoing to improve DGS internal filing verification processes and ensure proper
+confirmation of deemed approval for all future submissions.
+(M) The reason for the proposed change:
+DGS submitted this Spectrum BOA contract (DCAM-21-NC-RFQ-0002Q, Modification
+No. M03) to Council, seeking approval to exercise Option Year Three for the period of
+October 1, 2024 – September 30, 2025, before Council recess in summer 2024. However,
+the filing before Council included contract documents for a separate Spectrum contract; as
+a result, this contract package was not approved by Council as required by District law.
+Upon discovering this error, DGS has resubmitted the contract here to allow for the contract
+package to receive the required review and approval by Council.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+27 DCMR § 2008.
+(O) A certification that the proposed contractor has been determined not to violate section
+334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-
+1163.34a; and (2) A certification from the proposed contractor that it currently is not
+and will not be in violation of section 334a of the Board of Ethics and Government
+Accountability Establishment and Comprehensive Ethics Reform Amendment Act of
+2011, D.C. Official Code § 1-1163.34a:
+Based upon a certification from the Contractor, the Contractor has been determined not to
+be in violation of D.C. Official Code § 1-1163.34a; and will not be in violation of D.C.
+Official Code § 1-1163.34a.
+(P) A summary of the subcontracting plan required under section 2346 of the Small,
+Local, and Disadvantaged Business Enterprise Development and Assistance Act of
+2005, as amended, D.C. Official Code § 2-218.01 et seq. (“Act”), including a
+certification that the subcontracting plan meets the minimum requirements of the Act
+and the dollar volume of the portion of the contract to be subcontracted, expressed
+both in total dollars and as a percentage of the total contract amount:
+The Contractor is a certified business enterprise in accordance with the Act (CBE Number:
+LSDZRE35084032028). Notwithstanding the foregoing, the Contractor is not required to
+submit a subcontracting plan for the exercise of the contract option period term.
+(Q) Performance standards and the expected outcome of the proposed contract:
+Department of General Services 3924 Minnesota Avenue, NE, Washington D.C. 20019
+
+Page 7 of 9
+The contractor shall provide general building maintenance and repair type services to
+specified locations in the District and at increments that are subject to the terms and
+conditions of the awarded Task Order.
+(R) The amount and date of any expenditure of funds by the District pursuant to the
+contract prior to its submission to the Council for approval:
+TASK
+ORDER CAPTION POP START POP END TO VALUE
+NO.
+CMC/PMS SERVICES AT BANNEKER HIGH
+TO6 12/30/2024 9/30/2025 $521,649.22
+SCHOOL
+CMC/PMS SERVICES AT COOLIDGE / IDA B.
+TO7 12/15/2024 9/30/2025 $992,452.55
+WELLS
+TO8 CMC/PMS SERVICES AT DUNBAR 12/14/2024 9/30/2025 $1,020,841.22
+TO9 CMC OFFICE OF CABLE TV 12/23/2024 9/30/2025 $418,839.06
+TO10 CMC ROOSEVELT SHC 1/19/2025 9/30/2025 $693,376.43
+TO11 CMC 200 I STREET 1/18/2025 6/30/2025 $875,550.08
+TOTAL $4,522,708.56
+(S) A certification that the proposed contract is within the appropriated budget authority
+for the agency for the fiscal year and is consistent with the financial plan and budget
+adopted in accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Office of the Chief Financial Officer has certified the availability of the required funds and the
+expenditure is consistent with the District’s approved financial plan and budget.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The proposed contract modification has been reviewed by the Office of the Attorney
+General and certified as legally sufficient. The contractor currently has no legal claims
+pending against the District.
+(U) A certification that the Citywide Clean Hands database indicates that the proposed
+contractor is current with its District taxes. If the Citywide Clean Hands Database
+indicates that the proposed contractor is not current with its District taxes, either: (1)
+a certification that the contractor has worked out and is current with a payment
+schedule approved by the District; or (2) a certification that the contractor will be
+current with its District taxes after the District recovers any outstanding debt as
+provided under D.C. Official Code § 2-353.01(b):
+As of May 15, 2025, a certification has been issued by the Citywide Clean Hands database
+indicating that the proposed contractor is current with its District taxes.
+Department of General Services 3924 Minnesota Avenue, NE, Washington D.C. 20019
+
+Page 8 of 9
+(V) A certification from the proposed contractor that it is current with its federal taxes,
+or has worked out and is current with a payment schedule approved by the federal
+government:
+The Contractor has certified that it is in compliance with federal tax laws.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged
+business enterprise as defined in the Small, Local, and Disadvantaged Business
+Enterprise Development and Assistance Act of 2005, as amended; D.C. Official Code
+§ 2-218.01 et seq.:
+According to the DSLBD website, the Contractor is a certified Local, Small, or
+Disadvantaged Business Enterprise. The Contractor’s CBE Number is
+LSDZRE35084032028 with an expiration date of March 12, 2028.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+The Department is also in the process of preparing the council package for Modification
+No. M04 to exercise Option Year Four (OY4), extending the term of the contract from
+October 1, 2025, through September 30, 2026. The package will be submitted for Council
+passive approval.
+(Y) A statement indicating whether the proposed contractor is currently debarred from
+providing services or goods to the District or federal government, the dates of the
+debarment, and the reasons for debarment:
+The proposed contractor is not debarred or excluded from providing services to the District
+or federal governments.
+(Z) Any determination and findings issues relating to the contract’s formation, including
+any determination and findings made under D.C. Official Code § 2-352.05
+(privatization contracts):
+Not Applicable.
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+Contract award information, Contract and Modifications are available on the Department’s
+website.
+Department of General Services 3924 Minnesota Avenue, NE, Washington D.C. 20019
+
+Page 9 of 9
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+The original solicitation and any amendments were posted on the Department’s website.
+Department of General Services 3924 Minnesota Avenue, NE, Washington D.C. 20019
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: May 15, 2025 Notice Number: L0014094633
+SPECTRUM MANAGEMENT FEIN: **-***4539
+1229 PENNSYLVANIA AVE SE Case ID: 18601917
+WCASHINGTON DC 20003-2227
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+Contracts & Procurement
+Memorandum
+To: Delano Hunter
+Director
+Department of General Services
+From: Antoinette Hudson Beckham
+Agency Fiscal Officer
+Department of General Services
+Reference: DGS Services Schedule Pre-qualification of General Contractors, Skilled/Unskilled
+Trade Subcontractors & Related Facility Maintenance, Repair & Other Specialized
+Service Contractors (Contract No.: DCAM-21-NC-RFQ-0002Q), Spectrum
+Management, LLC
+Date: May 15, 2025
+Subject: Fiscal Sufficiency Review
+The proposed Modification No. M03 to the Indefinite Delivery, Indefinite Quantity (“ID/
+IQ”) Contract DCAM-21-NC-RFQ-0002Q, for DGS Services Schedule Pre-qualification of
+General Contractors, Skilled/Unskilled Trade Subcontractors & Related Facility Maintenance,
+Repair & Other Specialized Service Contractors Spectrum Management, LLC (the
+“Contractor”) has an annual guaranteed ordering minimum of $50.00 and non-guaranteed
+maximum Not-To-Exceed (“NTE”) ordering ceiling of $5,000,000.00 for Fiscal Year 2025.
+The Contractor will provide Services pursuant to the issuance of individual Task Orders during
+the period of October 1, 2024, through September 30, 2025.
+As the Agency Fiscal Officer of the Department, I hereby acknowledge that the Mayor’s Proposed
+FY 2025 Budget for Skilled/Unskilled Trade Subcontractors & Related Facility Maintenance,
+Repair & Other Specialized Service Contractors includes funds for the proposed modification to
+the Contract with Spectrum Management, LLC. in the amount of $50.00, and funds supporting
+individual Task Orders, if any, will be subject to the availability of funding during Fiscal Year
+2025. The Fiscal Year 2025 budget and Financial Plan are approved.
+__________________________________
+Antoinette Hudson Beckham
+Agency Fiscal Officer
+Department of General Services 3924 Minnesota Avenue, NE, Washington D.C. 20019
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+BRIAN L. SCHWALB PRIVILEGED AND CONFIDENTIAL
+ATTORNEY GENERAL ATTORNEY-CLIENT COMMUNICATION
+LEGAL COUNSEL DIVISION
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal Counsel Division
+DATE: May 30, 2025
+SUBJECT: Legal Sufficiency Review of Modification No. M03 to Contract No. DCAM-21-NC-
+RFQ-0002Q with Spectrum Management, LLC Approval and Payment
+Authorization Emergency Act of 2025 and Accompanying Emergency Declaration
+Resolution (AE-25-350)
+_____________________________________________________________________________________
+This is to Certify that
+the Office of the Attorney General has reviewed the
+above-referenced legislation and found it to be legally sufficient. If you have any questions in this
+regard, please do not hesitate to call me at (202) 262-6402.
+_________________________________
+Adele El-Khouri
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004
+Phone (202) 262-6402 Email: adele.el-khouri@dc.gov
+3
+
+MODIFICATION OF CONTRACT 1. Contract Number Page of Pages
+DCAM-21-NC-RFQ-0002Q 1 2
+2. Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Contract Caption
+DGS Services Schedule Pre-qualification of General
+Contractors, Skilled/Unskilled Trade Subcontractors &
+M03 1-Oct-2024 NA
+Related Facility Maintenance, Repair & Other Specialized
+Service Contractors
+6. Issued By: 7. Administered By (If other than line 6)
+Department of General Services Department of General Services
+Contracting and Procurement Division Facilities Management Division
+3924 Minnesota Avenue, NE, 5th Floor 3924 Minnesota Avenue, NE, 5th Floor
+Washington, DC 20019 Washington, DC 20019
+Attention: Benjamin Kassa kokou.kassa@dc.gov Attention: Sean Link PH: 202-698-1184 EMAIL: sean.link@dc.gov
+8. Name and Address of Contractor (No. Street, city, country, state and ZIP Code) 9A. Amendment of Solicitation No.
+Reginald Derrickson 9B. Dated (See Item 11)
+Spectrum Management
+1229 Pennsylvania Avenue, SE 10A. Modification of Contract/Order No.
+Washington, D.C. 20003 DCAM-21-NC-RFQ-0002Q
+X
+Phone: 202-546-2080 | rderrickson@smusa.us 10B. Dated (See Item 13)
+July 15, 2022
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in Item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the
+following methods: (a) By completing Items 8 and 15, and returning copies of the amendment: (b) By acknowledging receipt of this
+amendment on each copy of the offer submitted; or (c) By separate letter or fax which includes a reference to the solicitation and
+amendment number. FAILURE OF YOUR ACKNOWLEDGEMENT TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS
+PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change
+an offer already submitted, such change may be made by letter or fax, provided each letter or telegram makes reference to the
+solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to: (Specify Authority)
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation
+date, etc.) set forth in item 14.
+C. This supplemental agreement is entered into pursuant to authority of:
+D. Other (Specify type of modification and authority) Contract DCAM-21-NC-RFQ-0002Q and Title 27 DCMR Section 4727
+X
+E. IMPORTANT: Contractor is not, X is required to sign this document and return 1 copy to the issuing office.
+14. Description of modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+DGS Services Schedule Pre-qualification of General Contractors, Skilled/Unskilled Trade Subcontractors &
+Contract No. DCAM-21-NC-RFQ-0002Q is hereby modified as follows:
+Related Facility Maintenance, Repair & Other Specialized Service Contractors
+1. In accordance with Section 1.6 Option Year, the District hereby exercises Option Year Three (OY3). The Contract Period of Performance is October 1,
+2024 through September 30, 2025.
+2. The Department will order and the Contractor shall deliver at least the minimum of $50.00 and a maximum non-guaranteed of $5,000,000.00 in Contract
+services during the Option Year Three (OY3).
+3. CONTRACT RECAP: The total Contract ceiling for all Task Orders issued against this Contract during OY3 shall Not-Exceed the Non-Guaranteed
+ordering ceiling of $5,000,000.00
+4.
+The US Department of Labor Wage Determination Schedule No.2015-4281 Rev No. 29 dated April 11, 2024 is hereby incorporated as Exhibit A by this
+Modification No. M03.
+5. The Contractor agrees and acknowledges that it shall be in compliance with the most current requirements of the District of Columbia Living Wage Act of
+2006, D.C. Official Code §§ 2-220.01 – 2-220.11, that are applicable on the effective date of the Contract. The current requirements are hereby
+incorporated as Exhibit B to this Modification No. M03. The Contractor further agrees and acknowledges that the requirements of the Living Wage Act of
+2006 may be updated from time to time, and time shall be incorporated into the Contract via a subsequent modification.
+6. All other Terms and Conditions of Contract DCAM-21-NC-RFQ-0002Q remain unchanged.
+7. RELEASE: It is mutually agreed that in exchange for this Modification and other consideration, the Contractor hereby releases, waives, settles, and holds
+the Department harmless from any and all actual or potential claims or demands for delays, disruptions, additional work, additional time, additional costs,
+contract extensions, compensation, or liability under any theory, whether known or unknown, that the Contractor may have now or in the future against
+the Department arising from or out of, as a consequences or result of, relating to or in any manner connected with this Modification, the above-referenced
+Services, and the work provided pursuant to the Agreement.
+Except as provided herein, all terms and conditions of the document referenced in Item (9A or 10A) remain unchanged and in full force and effect
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+DOMONIQUE L. BANKS
+Reginald Derrickson II, Chief Operating Officer Contracting Officer, Supervisory Contract Specialist
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+10/1/2024
+6/14/2024
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+(Continuation)
+Contract Number Modification No. Page of Pages
+DCAM-21-NC-RFQ-0002Q M03 2 2
+1. Base Year Term July 15, 2022 through September 30, 2022
+a. IDIQ Contract Minimum of $50.00 up to a Non-Guaranteed Maximum of $995,000.00 $995,000.00
+$ 995,000.00
+TOTAL BASE YEAR NOT-TO-EXCEED CONTRACT VALUE 995,000.00
+2. Option Year One (OY1) October 1, 2022 through September 30, 2023
+Modification No. 01 a. IDIQ Contract Minimum of $50.00 up to a Non-Guaranteed Maximum of $995,000.00 $995,000.00
+$ 995,000.00
+TOTAL OPTION YEAR ONE (OY1) NOT-TO-EXCEED CONTRACT VALUE $ 995,000.00
+3. Option Year Two (OY2) October 1, 2023 through September 30, 2024
+Modification No. 02 a. IDIQ Contract Minimum of $50.00 up to a Non-Guaranteed Maximum of $5,000,000.00 $5,000,000.00
+$ 5,000,000.00
+TOTAL OPTION YEAR TWO (OY2) NOT-TO-EXCEED CONTRACT VALUE $ 5,000,000.00
+4. Option Year Three (OY3) October 1, 2024 through September 30, 2025
+Modification No. 03 a. IDIQ Contract Minimum of $50.00 up to a Non-Guaranteed Maximum of $5,000,000.00 $5,000,000.00
+$ 5,000,000.00
+TOTAL OPTION YEAR THREE (OY3) NOT-TO-EXCEED CONTRACT VALUE $ 5,000,000.00
+YEAR-TO-DATE CONTRACT GRAND TOTAL (BASE PERIOD + OY1 + OY2 + OY3 + OY4) 11,990,000.00
+
+EXHIBIT A
+
+5/24/24, 5:05 PM SAM.gov
+"REGISTER OF WAGE DETERMINATIONS UNDER | U.S. DEPARTMENT OF LABOR
+THE SERVICE CONTRACT ACT | EMPLOYMENT STANDARDS ADMINISTRATION
+By direction of the Secretary of Labor | WAGE AND HOUR DIVISION
+| WASHINGTON D.C. 20210
+|
+|
+|
+| Wage Determination No.: 2015-4281
+Daniel W. Simms Division of | Revision No.: 29
+Director Wage Determinations| Date Of Last Revision: 04/11/2024
+_______________________________________|____________________________________________
+Note: Contracts subject to the Service Contract Act are generally required to
+pay at least the applicable minimum wage rate required under Executive Order
+14026 or Executive Order 13658.
+_____________________________________________________________________________________
+|If the contract is entered into on or |Executive Order 14026 generally applies to |
+|after January 30, 2022, or the |the contract. |
+|contract is renewed or extended (e.g., |The contractor must pay all covered workers |
+|an option is exercised) on or after |at least $17.20 per hour (or the applicable |
+|January 30, 2022: |wage rate listed on this wage determination,|
+| |if it is higher) for all hours spent |
+| |performing on the contract in 2024. |
+________________________________________|____________________________________________
+|If the contract was awarded on or |Executive Order 13658 generally applies to |
+|between January 1, 2015 and January 29,|the contract. |
+|2022, and the contract is not renewed |The contractor must pay all covered workers |
+|or extended on or after January 30, |at least $12.90 per hour (or the applicable |
+|2022: |wage rate listed on this wage determination,|
+| |if it is higher) for all hours spent |
+| |performing on the contract in 2024. |
+_____________________________________________________________________________________
+The applicable Executive Order minimum wage rate will be adjusted annually. Additional
+information on contractor requirements and worker protections under the Executive Orders
+is available at www.dol.gov/whd/govcontracts.
+____________________________________________________________________________________
+States: District of Columbia, Maryland, Virginia
+Area: District of Columbia Statewide
+Maryland Counties of Calvert, Charles, Prince George's
+Virginia Counties of Alexandria, Arlington, Fairfax, Falls Church, Fauquier,
+Loudoun, Manassas, Manassas Park, Prince William, Stafford
+____________________________________________________________________________________
+**Fringe Benefits Required Follow the Occupational Listing**
+OCCUPATION CODE - TITLE FOOTNOTE RATE
+01000 - Administrative Support And Clerical Occupations
+01011 - Accounting Clerk I 21.35
+01012 - Accounting Clerk II 23.96
+01013 - Accounting Clerk III 26.80
+01020 - Administrative Assistant 38.79
+01035 - Court Reporter 28.71
+01041 - Customer Service Representative I 17.17***
+01042 - Customer Service Representative II 18.74
+01043 - Customer Service Representative III 21.03
+01051 - Data Entry Operator I 18.16
+01052 - Data Entry Operator II 19.81
+01060 - Dispatcher, Motor Vehicle 24.53
+01070 - Document Preparation Clerk 19.93
+01090 - Duplicating Machine Operator 19.93
+https://sam.gov/wage-determination/2015-4281/29 1/11
+
+5/24/24, 5:05 PM SAM.gov
+01111 - General Clerk I 18.31
+01112 - General Clerk II 19.98
+01113 - General Clerk III 22.42
+01120 - Housing Referral Assistant 26.61
+01141 - Messenger Courier 21.58
+01191 - Order Clerk I 18.41
+01192 - Order Clerk II 20.09
+01261 - Personnel Assistant (Employment) I 21.50
+01262 - Personnel Assistant (Employment) II 24.05
+01263 - Personnel Assistant (Employment) III 26.82
+01270 - Production Control Clerk 26.81
+01290 - Rental Clerk 20.61
+01300 - Scheduler, Maintenance 21.33
+01311 - Secretary I 21.33
+01312 - Secretary II 23.86
+01313 - Secretary III 26.61
+01320 - Service Order Dispatcher 21.93
+01410 - Supply Technician 38.79
+01420 - Survey Worker 22.08
+01460 - Switchboard Operator/Receptionist 18.14
+01531 - Travel Clerk I 22.65
+01532 - Travel Clerk II 24.70
+01533 - Travel Clerk III 26.66
+01611 - Word Processor I 18.97
+01612 - Word Processor II 21.29
+01613 - Word Processor III 23.81
+05000 - Automotive Service Occupations
+05005 - Automobile Body Repairer, Fiberglass 28.60
+05010 - Automotive Electrician 27.46
+05040 - Automotive Glass Installer 25.87
+05070 - Automotive Worker 25.87
+05110 - Mobile Equipment Servicer 22.24
+05130 - Motor Equipment Metal Mechanic 28.91
+05160 - Motor Equipment Metal Worker 25.87
+05190 - Motor Vehicle Mechanic 28.91
+05220 - Motor Vehicle Mechanic Helper 20.35
+05250 - Motor Vehicle Upholstery Worker 24.14
+05280 - Motor Vehicle Wrecker 25.87
+05310 - Painter, Automotive 27.46
+05340 - Radiator Repair Specialist 25.87
+05370 - Tire Repairer 19.20
+05400 - Transmission Repair Specialist 28.91
+07000 - Food Preparation And Service Occupations
+07010 - Baker 17.68
+07041 - Cook I 20.22
+07042 - Cook II 23.51
+07070 - Dishwasher 16.96***
+07130 - Food Service Worker 17.01***
+07210 - Meat Cutter 21.58
+07260 - Waiter/Waitress 17.08***
+09000 - Furniture Maintenance And Repair Occupations
+09010 - Electrostatic Spray Painter 26.83
+09040 - Furniture Handler 14.06***
+09080 - Furniture Refinisher 22.55
+09090 - Furniture Refinisher Helper 16.71***
+09110 - Furniture Repairer, Minor 19.82
+09130 - Upholsterer 19.86
+11000 - General Services And Support Occupations
+11030 - Cleaner, Vehicles 16.85***
+11060 - Elevator Operator 17.46
+11090 - Gardener 24.79
+11122 - Housekeeping Aide 17.74
+11150 - Janitor 17.74
+11210 - Laborer, Grounds Maintenance 18.88
+11240 - Maid or Houseman 16.96***
+https://sam.gov/wage-determination/2015-4281/29 2/11
+
+5/24/24, 5:05 PM SAM.gov
+11260 - Pruner 18.02
+11270 - Tractor Operator 22.69
+11330 - Trail Maintenance Worker 18.88
+11360 - Window Cleaner 18.59
+12000 - Health Occupations
+12010 - Ambulance Driver 24.09
+12011 - Breath Alcohol Technician 28.19
+12012 - Certified Occupational Therapist Assistant 38.30
+12015 - Certified Physical Therapist Assistant 36.32
+12020 - Dental Assistant 23.78
+12025 - Dental Hygienist 51.13
+12030 - EKG Technician 41.73
+12035 - Electroneurodiagnostic Technologist 41.73
+12040 - Emergency Medical Technician 24.09
+12071 - Licensed Practical Nurse I 25.20
+12072 - Licensed Practical Nurse II 28.19
+12073 - Licensed Practical Nurse III 31.44
+12100 - Medical Assistant 22.39
+12130 - Medical Laboratory Technician 31.94
+12160 - Medical Record Clerk 25.58
+12190 - Medical Record Technician 28.61
+12195 - Medical Transcriptionist 20.72
+12210 - Nuclear Medicine Technologist 46.61
+12221 - Nursing Assistant I 14.54***
+12222 - Nursing Assistant II 16.35***
+12223 - Nursing Assistant III 17.84
+12224 - Nursing Assistant IV 20.04
+12235 - Optical Dispenser 26.69
+12236 - Optical Technician 23.50
+12250 - Pharmacy Technician 21.46
+12280 - Phlebotomist 22.95
+12305 - Radiologic Technologist 40.40
+12311 - Registered Nurse I 31.84
+12312 - Registered Nurse II 38.95
+12313 - Registered Nurse II, Specialist 38.95
+12314 - Registered Nurse III 47.12
+12315 - Registered Nurse III, Anesthetist 47.12
+12316 - Registered Nurse IV 56.48
+12317 - Scheduler (Drug and Alcohol Testing) 34.93
+12320 - Substance Abuse Treatment Counselor 29.01
+13000 - Information And Arts Occupations
+13011 - Exhibits Specialist I 24.30
+13012 - Exhibits Specialist II 30.10
+13013 - Exhibits Specialist III 36.82
+13041 - Illustrator I 24.49
+13042 - Illustrator II 30.33
+13043 - Illustrator III 37.10
+13047 - Librarian 42.46
+13050 - Library Aide/Clerk 19.29
+13054 - Library Information Technology Systems 38.33
+Administrator
+13058 - Library Technician 24.01
+13061 - Media Specialist I 27.67
+13062 - Media Specialist II 30.94
+13063 - Media Specialist III 34.50
+13071 - Photographer I 22.33
+13072 - Photographer II 25.16
+13073 - Photographer III 31.50
+13074 - Photographer IV 38.14
+13075 - Photographer V 45.78
+13090 - Technical Order Library Clerk 24.23
+13110 - Video Teleconference Technician 30.84
+14000 - Information Technology Occupations
+14041 - Computer Operator I 27.25
+14042 - Computer Operator II 30.48
+https://sam.gov/wage-determination/2015-4281/29 3/11
+
+5/24/24, 5:05 PM SAM.gov
+14043 - Computer Operator III 33.99
+14044 - Computer Operator IV 37.76
+14045 - Computer Operator V 41.82
+14071 - Computer Programmer I (see 1)
+14072 - Computer Programmer II (see 1)
+14073 - Computer Programmer III (see 1)
+14074 - Computer Programmer IV (see 1)
+14101 - Computer Systems Analyst I (see 1)
+14102 - Computer Systems Analyst II (see 1)
+14103 - Computer Systems Analyst III (see 1)
+14150 - Peripheral Equipment Operator 27.25
+14160 - Personal Computer Support Technician 37.76
+14170 - System Support Specialist 41.82
+15000 - Instructional Occupations
+15010 - Aircrew Training Devices Instructor (Non-Rated) 40.86
+15020 - Aircrew Training Devices Instructor (Rated) 49.42
+15030 - Air Crew Training Devices Instructor (Pilot) 59.24
+15050 - Computer Based Training Specialist / Instructor 40.86
+15060 - Educational Technologist 46.24
+15070 - Flight Instructor (Pilot) 59.24
+15080 - Graphic Artist 38.51
+15085 - Maintenance Test Pilot, Fixed, Jet/Prop 59.24
+15086 - Maintenance Test Pilot, Rotary Wing 59.24
+15088 - Non-Maintenance Test/Co-Pilot 59.24
+15090 - Technical Instructor 32.56
+15095 - Technical Instructor/Course Developer 39.83
+15110 - Test Proctor 26.28
+15120 - Tutor 26.28
+16000 - Laundry, Dry-Cleaning, Pressing And Related Occupations
+16010 - Assembler 19.59
+16030 - Counter Attendant 19.59
+16040 - Dry Cleaner 22.40
+16070 - Finisher, Flatwork, Machine 19.59
+16090 - Presser, Hand 19.59
+16110 - Presser, Machine, Drycleaning 19.59
+16130 - Presser, Machine, Shirts 19.59
+16160 - Presser, Machine, Wearing Apparel, Laundry 19.59
+16190 - Sewing Machine Operator 23.34
+16220 - Tailor 24.28
+16250 - Washer, Machine 20.53
+19000 - Machine Tool Operation And Repair Occupations
+19010 - Machine-Tool Operator (Tool Room) 31.46
+19040 - Tool And Die Maker 38.21
+21000 - Materials Handling And Packing Occupations
+21020 - Forklift Operator 23.78
+21030 - Material Coordinator 26.81
+21040 - Material Expediter 26.81
+21050 - Material Handling Laborer 18.44
+21071 - Order Filler 17.70
+21080 - Production Line Worker (Food Processing) 23.78
+21110 - Shipping Packer 19.99
+21130 - Shipping/Receiving Clerk 19.99
+21140 - Store Worker I 18.66
+21150 - Stock Clerk 22.41
+21210 - Tools And Parts Attendant 23.78
+21410 - Warehouse Specialist 23.78
+23000 - Mechanics And Maintenance And Repair Occupations
+23010 - Aerospace Structural Welder 45.12
+23019 - Aircraft Logs and Records Technician 35.77
+23021 - Aircraft Mechanic I 42.85
+23022 - Aircraft Mechanic II 45.12
+23023 - Aircraft Mechanic III 47.32
+23040 - Aircraft Mechanic Helper 30.16
+23050 - Aircraft, Painter 40.69
+23060 - Aircraft Servicer 35.77
+https://sam.gov/wage-determination/2015-4281/29 4/11
+
+5/24/24, 5:05 PM SAM.gov
+23070 - Aircraft Survival Flight Equipment Technician 40.69
+23080 - Aircraft Worker 38.32
+23091 - Aircrew Life Support Equipment (ALSE) Mechanic 38.32
+I
+23092 - Aircrew Life Support Equipment (ALSE) Mechanic 42.85
+II
+23110 - Appliance Mechanic 25.28
+23120 - Bicycle Repairer 19.30
+23125 - Cable Splicer 40.48
+23130 - Carpenter, Maintenance 28.16
+23140 - Carpet Layer 22.54
+23160 - Electrician, Maintenance 33.41
+23181 - Electronics Technician Maintenance I 35.18
+23182 - Electronics Technician Maintenance II 37.35
+23183 - Electronics Technician Maintenance III 39.32
+23260 - Fabric Worker 27.66
+23290 - Fire Alarm System Mechanic 29.84
+23310 - Fire Extinguisher Repairer 25.49
+23311 - Fuel Distribution System Mechanic 37.07
+23312 - Fuel Distribution System Operator 28.53
+23370 - General Maintenance Worker 24.26
+23380 - Ground Support Equipment Mechanic 42.85
+23381 - Ground Support Equipment Servicer 35.77
+23382 - Ground Support Equipment Worker 38.32
+23391 - Gunsmith I 25.49
+23392 - Gunsmith II 29.64
+23393 - Gunsmith III 33.13
+23410 - Heating, Ventilation And Air-Conditioning 31.79
+Mechanic
+23411 - Heating, Ventilation And Air Contidioning 33.49
+Mechanic (Research Facility)
+23430 - Heavy Equipment Mechanic 30.95
+23440 - Heavy Equipment Operator 28.45
+23460 - Instrument Mechanic 35.15
+23465 - Laboratory/Shelter Mechanic 31.46
+23470 - Laborer 18.44
+23510 - Locksmith 32.72
+23530 - Machinery Maintenance Mechanic 31.20
+23550 - Machinist, Maintenance 31.20
+23580 - Maintenance Trades Helper 18.43
+23591 - Metrology Technician I 35.15
+23592 - Metrology Technician II 37.03
+23593 - Metrology Technician III 38.83
+23640 - Millwright 29.89
+23710 - Office Appliance Repairer 22.96
+23760 - Painter, Maintenance 23.35
+23790 - Pipefitter, Maintenance 33.08
+23810 - Plumber, Maintenance 31.42
+23820 - Pneudraulic Systems Mechanic 33.13
+23850 - Rigger 34.16
+23870 - Scale Mechanic 29.64
+23890 - Sheet-Metal Worker, Maintenance 30.59
+23910 - Small Engine Mechanic 23.01
+23931 - Telecommunications Mechanic I 37.06
+23932 - Telecommunications Mechanic II 39.03
+23950 - Telephone Lineman 43.07
+23960 - Welder, Combination, Maintenance 28.60
+23965 - Well Driller 29.56
+23970 - Woodcraft Worker 33.13
+23980 - Woodworker 25.49
+24000 - Personal Needs Occupations
+24550 - Case Manager 21.35
+24570 - Child Care Attendant 17.20
+24580 - Child Care Center Clerk 21.46
+24610 - Chore Aide 16.90***
+https://sam.gov/wage-determination/2015-4281/29 5/11
+
+5/24/24, 5:05 PM SAM.gov
+24620 - Family Readiness And Support Services 21.35
+Coordinator
+24630 - Homemaker 21.35
+25000 - Plant And System Operations Occupations
+25010 - Boiler Tender 40.12
+25040 - Sewage Plant Operator 29.55
+25070 - Stationary Engineer 40.12
+25190 - Ventilation Equipment Tender 28.25
+25210 - Water Treatment Plant Operator 29.55
+27000 - Protective Service Occupations
+27004 - Alarm Monitor 27.39
+27007 - Baggage Inspector 19.39
+27008 - Corrections Officer 31.85
+27010 - Court Security Officer 30.66
+27030 - Detection Dog Handler 21.69
+27040 - Detention Officer 31.85
+27070 - Firefighter 31.96
+27101 - Guard I 19.39
+27102 - Guard II 21.69
+27131 - Police Officer I 33.39
+27132 - Police Officer II 37.10
+28000 - Recreation Occupations
+28041 - Carnival Equipment Operator 20.27
+28042 - Carnival Equipment Repairer 22.16
+28043 - Carnival Worker 15.65***
+28210 - Gate Attendant/Gate Tender 21.04
+28310 - Lifeguard 15.38***
+28350 - Park Attendant (Aide) 23.53
+28510 - Recreation Aide/Health Facility Attendant 17.18***
+28515 - Recreation Specialist 29.16
+28630 - Sports Official 18.75
+28690 - Swimming Pool Operator 25.76
+29000 - Stevedoring/Longshoremen Occupational Services
+29010 - Blocker And Bracer 35.06
+29020 - Hatch Tender 35.06
+29030 - Line Handler 35.06
+29041 - Stevedore I 32.73
+29042 - Stevedore II 37.23
+30000 - Technical Occupations
+30010 - Air Traffic Control Specialist, Center (HFO) (see 2) 51.58
+30011 - Air Traffic Control Specialist, Station (HFO) (see 2) 35.56
+30012 - Air Traffic Control Specialist, Terminal (HFO) (see 2) 39.17
+30021 - Archeological Technician I 22.95
+30022 - Archeological Technician II 25.67
+30023 - Archeological Technician III 31.79
+30030 - Cartographic Technician 31.79
+30040 - Civil Engineering Technician 37.80
+30051 - Cryogenic Technician I 35.21
+30052 - Cryogenic Technician II 38.90
+30061 - Drafter/CAD Operator I 22.95
+30062 - Drafter/CAD Operator II 25.67
+30063 - Drafter/CAD Operator III 28.61
+30064 - Drafter/CAD Operator IV 35.21
+30081 - Engineering Technician I 22.92
+30082 - Engineering Technician II 25.72
+30083 - Engineering Technician III 28.79
+30084 - Engineering Technician IV 35.64
+30085 - Engineering Technician V 43.61
+30086 - Engineering Technician VI 52.76
+30090 - Environmental Technician 31.79
+30095 - Evidence Control Specialist 31.79
+30210 - Laboratory Technician 28.21
+30221 - Latent Fingerprint Technician I 37.63
+30222 - Latent Fingerprint Technician II 41.56
+30240 - Mathematical Technician 38.51
+https://sam.gov/wage-determination/2015-4281/29 6/11
+
+5/24/24, 5:05 PM SAM.gov
+30361 - Paralegal/Legal Assistant I 25.58
+30362 - Paralegal/Legal Assistant II 31.69
+30363 - Paralegal/Legal Assistant III 38.77
+30364 - Paralegal/Legal Assistant IV 46.90
+30375 - Petroleum Supply Specialist 38.90
+30390 - Photo-Optics Technician 31.79
+30395 - Radiation Control Technician 38.90
+30461 - Technical Writer I 31.47
+30462 - Technical Writer II 38.50
+30463 - Technical Writer III 46.57
+30491 - Unexploded Ordnance (UXO) Technician I 32.78
+30492 - Unexploded Ordnance (UXO) Technician II 39.66
+30493 - Unexploded Ordnance (UXO) Technician III 47.53
+30494 - Unexploded (UXO) Safety Escort 32.78
+30495 - Unexploded (UXO) Sweep Personnel 32.78
+30501 - Weather Forecaster I 35.21
+30502 - Weather Forecaster II 42.82
+30620 - Weather Observer, Combined Upper Air Or (see 2) 28.61
+Surface Programs
+30621 - Weather Observer, Senior (see 2) 31.79
+31000 - Transportation/Mobile Equipment Operation Occupations
+31010 - Airplane Pilot 39.66
+31020 - Bus Aide 18.33
+31030 - Bus Driver 26.31
+31043 - Driver Courier 20.84
+31260 - Parking and Lot Attendant 16.85***
+31290 - Shuttle Bus Driver 19.93
+31310 - Taxi Driver 17.71
+31361 - Truckdriver, Light 22.77
+31362 - Truckdriver, Medium 24.71
+31363 - Truckdriver, Heavy 27.88
+31364 - Truckdriver, Tractor-Trailer 27.88
+99000 - Miscellaneous Occupations
+99020 - Cabin Safety Specialist 19.33
+99030 - Cashier 15.83***
+99050 - Desk Clerk 16.90***
+99095 - Embalmer 34.10
+99130 - Flight Follower 32.78
+99251 - Laboratory Animal Caretaker I 18.47
+99252 - Laboratory Animal Caretaker II 20.18
+99260 - Marketing Analyst 38.33
+99310 - Mortician 34.10
+99410 - Pest Controller 21.91
+99510 - Photofinishing Worker 22.57
+99710 - Recycling Laborer 22.98
+99711 - Recycling Specialist 28.16
+99730 - Refuse Collector 20.95
+99810 - Sales Clerk 16.89***
+99820 - School Crossing Guard 18.75
+99830 - Survey Party Chief 31.00
+99831 - Surveying Aide 19.26
+99832 - Surveying Technician 29.45
+99840 - Vending Machine Attendant 17.03***
+99841 - Vending Machine Repairer 21.64
+99842 - Vending Machine Repairer Helper 17.03***
+***Workers in this classification may be entitled to a higher minimum wage under
+Executive Order 14026 ($17.20 per hour) or 13658 ($12.90 per hour). Please see the
+Note at the top of the wage determination for more information. Please also note
+that the minimum wage requirements of Executive Order 14026 and 13658 are not
+currently being enforced as to contracts or contract-like instruments entered into
+https://sam.gov/wage-determination/2015-4281/29 7/11
+
+5/24/24, 5:05 PM SAM.gov
+with the federal government in connection with seasonal recreational services or
+seasonal recreational equipment rental for the general public on federal lands. The
+minimum wage requirements of Executive Order 14026 also are not currently being
+enforced as to any contract or subcontract to which the states of Texas, Louisiana,
+or Mississippi, including their agencies, are a party.
+____________________________________________________________________________________
+Note: Executive Order (EO) 13706, Establishing Paid Sick Leave for Federal
+Contractors, applies to all contracts subject to the Service Contract Act for which
+the contract is awarded (and any solicitation was issued) on or after January 1,
+2017. If this contract is covered by the EO, the contractor must provide employees
+with 1 hour of paid sick leave for every 30 hours they work, up to 56 hours of paid
+sick leave each year. Employees must be permitted to use paid sick leave for their
+own illness, injury or other health-related needs, including preventive care; to
+assist a family member (or person who is like family to the employee) who is ill,
+injured, or has other health-related needs, including preventive care; or for
+reasons resulting from, or to assist a family member (or person who is like family
+to the employee) who is the victim of, domestic violence, sexual assault, or
+stalking. Additional information on contractor requirements and worker protections
+under the EO is available at www.dol.gov/whd/govcontracts.
+ALL OCCUPATIONS LISTED ABOVE RECEIVE THE FOLLOWING BENEFITS:
+HEALTH & WELFARE: $4.98 per hour, up to 40 hours per week, or $199.20 per week or
+$863.20 per month
+HEALTH & WELFARE EO 13706: $4.57 per hour, up to 40 hours per week, or $182.80 per
+week, or $792.13 per month*
+*This rate is to be used only when compensating employees for performance on an SCA-
+covered contract also covered by EO 13706, Establishing Paid Sick Leave for Federal
+Contractors. A contractor may not receive credit toward its SCA obligations for any
+paid sick leave provided pursuant to EO 13706.
+VACATION: 2 weeks paid vacation after 1 year of service with a contractor or
+successor, 3 weeks after 5 years, and 4 weeks after 15 years. Length of service
+includes the whole span of continuous service with the present contractor or
+successor, wherever employed, and with the predecessor contractors in the
+performance of similar work at the same Federal facility. (Reg. 29 CFR 4.173)
+HOLIDAYS: A minimum of eleven paid holidays per year: New Year's Day, Martin
+Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Juneteenth
+National Independence Day, Independence Day, Labor Day, Columbus Day, Veterans'
+Day, Thanksgiving Day, and Christmas Day. (A contractor may substitute for any of
+the named holidays another day off with pay in accordance with a plan communicated
+to the employees involved.) (See 29 CFR 4.174)
+THE OCCUPATIONS WHICH HAVE NUMBERED FOOTNOTES IN PARENTHESES RECEIVE THE FOLLOWING:
+1) COMPUTER EMPLOYEES: This wage determination does not apply to any individual
+employed in a bona fide executive, administrative, or professional capacity, as
+defined in 29 C.F.R. Part 541. (See 41 C.F.R. 6701(3)). Because most Computer
+Systems Analysts and Computer Programmers who are paid at least $27.63 per hour (or
+at least $684 per week if paid on a salary or fee basis) likely qualify as exempt
+computer professionals under 29 U.S.C. 213(a)(1) and 29 U.S.C. 213(a)(17), this wage
+determination may not include wage rates for all occupations within those job
+families. In such instances, a conformance will be necessary if there are nonexempt
+employees in these job families working on the contract.
+Job titles vary widely and change quickly in the computer industry, and are not
+determinative of whether an employee is an exempt computer professional. To be
+exempt, computer employees who satisfy the compensation requirements must also have
+a primary duty that consists of:
+https://sam.gov/wage-determination/2015-4281/29 8/11
+
+5/24/24, 5:05 PM SAM.gov
+(1) The application of systems analysis techniques and procedures, including
+consulting with users, to determine hardware, software or system functional
+specifications;
+(2) The design, development, documentation, analysis, creation, testing or
+modification of computer systems or programs, including prototypes, based on and
+related to user or system design specifications;
+(3) The design, documentation, testing, creation or modification of computer
+programs related to machine operating systems; or
+(4) A combination of the aforementioned duties, the performance of which
+requires the same level of skills. (29 C.F.R. 541.400).
+Any computer employee who meets the applicable compensation requirements and the
+above duties test qualifies as an exempt computer professional under both section
+13(a)(1) and section 13(a)(17) of the Fair Labor Standards Act. (Field Assistance
+Bulletin No. 2006-3 (Dec. 14, 2006)). Accordingly, this wage determination will not
+apply to any exempt computer employee regardless of which of these two exemptions is
+utilized.
+2) AIR TRAFFIC CONTROLLERS AND WEATHER OBSERVERS - NIGHT PAY & SUNDAY PAY: If you
+work at night as part of a regular tour of duty, you will earn a night differential
+and receive an additional 10% of basic pay for any hours worked between 6pm and 6am.
+If you are a full-time employed (40 hours a week) and Sunday is part of your
+regularly scheduled workweek, you are paid at your rate of basic pay plus a Sunday
+premium of 25% of your basic rate for each hour of Sunday work which is not overtime
+(i.e. occasional work on Sunday outside the normal tour of duty is considered
+overtime work).
+** HAZARDOUS PAY DIFFERENTIAL **
+An 8 percent differential is applicable to employees employed in a position that
+represents a high degree of hazard when working with or in close proximity to
+ordnance, explosives, and incendiary materials. This includes work such as
+screening, blending, dying, mixing, and pressing of sensitive ordnance, explosives,
+and pyrotechnic compositions such as lead azide, black powder and photoflash powder.
+All dry-house activities involving propellants or explosives. Demilitarization,
+modification, renovation, demolition, and maintenance operations on sensitive
+ordnance, explosives and incendiary materials. All operations involving re-grading
+and cleaning of artillery ranges.
+A 4 percent differential is applicable to employees employed in a position that
+represents a low degree of hazard when working with, or in close proximity to
+ordnance, (or employees possibly adjacent to) explosives and incendiary materials
+which involves potential injury such as laceration of hands, face, or arms of the
+employee engaged in the operation, irritation of the skin, minor burns and the like;
+minimal damage to immediate or adjacent work area or equipment being used. All
+operations involving, unloading, storage, and hauling of ordnance, explosive, and
+incendiary ordnance material other than small arms ammunition. These differentials
+are only applicable to work that has been specifically designated by the agency for
+ordnance, explosives, and incendiary material differential pay.
+** UNIFORM ALLOWANCE **
+If employees are required to wear uniforms in the performance of this contract
+(either by the terms of the Government contract, by the employer, by the state or
+local law, etc.), the cost of furnishing such uniforms and maintaining (by
+laundering or dry cleaning) such uniforms is an expense that may not be borne by an
+employee where such cost reduces the hourly rate below that required by the wage
+determination. The Department of Labor will accept payment in accordance with the
+following standards as compliance:
+https://sam.gov/wage-determination/2015-4281/29 9/11
+
+5/24/24, 5:05 PM SAM.gov
+The contractor or subcontractor is required to furnish all employees with an
+adequate number of uniforms without cost or to reimburse employees for the actual
+cost of the uniforms. In addition, where uniform cleaning and maintenance is made
+the responsibility of the employee, all contractors and subcontractors subject to
+this wage determination shall (in the absence of a bona fide collective bargaining
+agreement providing for a different amount, or the furnishing of contrary
+affirmative proof as to the actual cost), reimburse all employees for such cleaning
+and maintenance at a rate of $3.35 per week (or $.67 cents per day). However, in
+those instances where the uniforms furnished are made of ""wash and wear""
+materials, may be routinely washed and dried with other personal garments, and do
+not require any special treatment such as dry cleaning, daily washing, or commercial
+laundering in order to meet the cleanliness or appearance standards set by the terms
+of the Government contract, by the contractor, by law, or by the nature of the work,
+there is no requirement that employees be reimbursed for uniform maintenance costs.
+** SERVICE CONTRACT ACT DIRECTORY OF OCCUPATIONS **
+The duties of employees under job titles listed are those described in the
+""Service Contract Act Directory of Occupations"", Fifth Edition (Revision 1),
+dated September 2015, unless otherwise indicated.
+** REQUEST FOR AUTHORIZATION OF ADDITIONAL CLASSIFICATION AND WAGE RATE, Standard
+Form 1444 (SF-1444) **
+Conformance Process:
+The contracting officer shall require that any class of service employee which is
+not listed herein and which is to be employed under the contract (i.e., the work to
+be performed is not performed by any classification listed in the wage
+determination), be classified by the contractor so as to provide a reasonable
+relationship (i.e., appropriate level of skill comparison) between such unlisted
+classifications and the classifications listed in the wage determination (See 29 CFR
+4.6(b)(2)(i)). Such conforming procedures shall be initiated by the contractor
+prior to the performance of contract work by such unlisted class(es) of employees
+(See 29 CFR 4.6(b)(2)(ii)). The Wage and Hour Division shall make a final
+determination of conformed classification, wage rate, and/or fringe benefits which
+shall be paid to all employees performing in the classification from the first day
+of work on which contract work is performed by them in the classification. Failure
+to pay such unlisted employees the compensation agreed upon by the interested
+parties and/or fully determined by the Wage and Hour Division retroactive to the
+date such class of employees commenced contract work shall be a violation of the Act
+and this contract. (See 29 CFR 4.6(b)(2)(v)). When multiple wage determinations are
+included in a contract, a separate SF-1444 should be prepared for each wage
+determination to which a class(es) is to be conformed.
+The process for preparing a conformance request is as follows:
+1) When preparing the bid, the contractor identifies the need for a conformed
+occupation(s) and computes a proposed rate(s).
+2) After contract award, the contractor prepares a written report listing in order
+the proposed classification title(s), a Federal grade equivalency (FGE) for each
+proposed classification(s), job description(s), and rationale for proposed wage
+rate(s), including information regarding the agreement or disagreement of the
+authorized representative of the employees involved, or where there is no authorized
+representative, the employees themselves. This report should be submitted to the
+contracting officer no later than 30 days after such unlisted class(es) of employees
+performs any contract work.
+3) The contracting officer reviews the proposed action and promptly submits a report
+of the action, together with the agency's recommendations and pertinent
+information including the position of the contractor and the employees, to the U.S.
+Department of Labor, Wage and Hour Division, for review (See 29 CFR 4.6(b)(2)(ii)).
+https://sam.gov/wage-determination/2015-4281/29 10/11
+
+5/24/24, 5:05 PM SAM.gov
+4) Within 30 days of receipt, the Wage and Hour Division approves, modifies, or
+disapproves the action via transmittal to the agency contracting officer, or
+notifies the contracting officer that additional time will be required to process
+the request.
+5) The contracting officer transmits the Wage and Hour Division's decision to the
+contractor.
+6) Each affected employee shall be furnished by the contractor with a written copy
+of such determination or it shall be posted as a part of the wage determination (See
+29 CFR 4.6(b)(2)(iii)).
+Information required by the Regulations must be submitted on SF-1444 or bond paper.
+When preparing a conformance request, the ""Service Contract Act Directory of
+Occupations"" should be used to compare job definitions to ensure that duties
+requested are not performed by a classification already listed in the wage
+determination. Remember, it is not the job title, but the required tasks that
+determine whether a class is included in an established wage determination.
+Conformances may not be used to artificially split, combine, or subdivide
+classifications listed in the wage determination (See 29 CFR 4.152(c)(1))."
+https://sam.gov/wage-determination/2015-4281/29 11/11
+
+EXHIBIT B
+
+THE LIVING WAGE ACT OF 2006
+D.C. Code §§ 2-220.01 – 2-220.11
+Recipients of new contracts or government assistance shall pay affiliated employees and subcontractors who
+perform services under the contracts no less than the current living wage.
+Effective January 1, 2024, until June 30, 2024, the living wage rate is $17.05 per hour.
+Effective July 1, 2024, the District’s Minimum Wage and Living Wage will increase to
+$17.50.
+The requirement to pay a living wage applies to:
+▪ All recipients of contracts in the amount of $100,000 or more, and all subcontractors that receive
+$15,000 or more from the funds received by the recipient from the District of Columbia, and
+▪ All recipients of government assistance in the amount of $100,000 or more, and all subcontractors of
+these recipients that receive $50,000 or more from the government assistance received by the
+recipient from the District of Columbia.
+“Contract” means a written agreement between a recipient and the District government.
+“Government assistance” means a grant, loan, or tax increment financing that result in a financial benefit
+from an agency, commission, instrumentality, or other entity of the District government.
+“Affiliated employee” means any individual employed by a recipient who received compensation directly
+from government assistance or a contract with the District of Columbia government, including employees of
+the District of Columbia, any employee of a contractor or subcontractor of a recipient who performs
+services pursuant to government assistance or contract. The term “affiliated employee” does not include
+those individuals who perform only intermittent or incidental services with respect to the contract or
+government assistance or who are otherwise employed by the contractor, recipient, or subcontractor.
+Certain exemptions apply: 1) Contracts or agreements subject to wage determinations required by federal law
+which are higher than the wage required by this Act; 2) Existing and future collecting bargaining agreements,
+provided that the future agreement results in employees being paid no less than the current living wage; 3)
+contracts for electricity, telephone, water , sewer performed by regulated utilities; 4) contracts for services needed
+immediately to prevent or respond to a disaster or imminent threat declared by the Mayor; 5) contracts awarded to
+recipients that provide trainees with services, including but not limited to case management and job readiness
+services, provided the trainee does not replace employees; 6) employees under 22 years of age employed during a
+school vacation period, or enrolled as a full-time student who works less than 25 hours per week; 7) tenants or
+retail establishments that occupy property constructed or improved by government assistance, provided there is no
+receipt of direct District government assistance; 8) employees of nonprofit organizations that employ not more
+than 50 individuals and qualify for 501(c)(3) status; 9) Medicaid provider agreements for direct care services to
+Medicaid recipients, provided, that the direct care service is not provided through a home care agency, a
+community residence facility, or a group home for persons with intellectual disabilities as those terms are defined
+in section 2 of the Health-Care and Community Residence Facility, Hospice, and Home Care Licensure Act of
+1983; D.C. Official Code § 44-501; and 10) contracts or agreements between managed care organizations and the
+Health Care Safety Net Administration or the Medicaid Assistance Administration to provide health services.
+Home Care Final Rule: The Department of Labor extended overtime protections to home care workers and
+workers who provide companionship services. Employers within this industry are now subject to recordkeeping
+provisions.
+Each recipient and subcontractor of a recipient shall provide this notice to each affiliated employee covered by this notice, and
+shall also post this notice in a conspicuous site in its place of business. All recipients and subcontractors shall retain payroll
+records created and maintained in the regular course of business under District of Columbia law for a period of at least 3 years.
+To file a claim, visit: Department of Employment Services , Office of Wage-Hour, 400 Virginia Ave., SW, 4th Flr, Washington,
+D.C. 20024; call: (202) 671-1880; or file your claim on-line: does.dc.gov. Go to “File a Claim” tab.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Department of Employment Services
+MURIEL BOWSER DR. UNIQUE MORRIS-HUGHES
+MAYOR DIRECTOR
+LIVING WAGE ACT FACT SHEET
+The Living Wage Act of 2006, D.C. Code §§ 2-220.01 – 2-220.11, provides that District of Columbia government
+contractors and recipients of government assistance (grants, loans, tax increment financing), in the amount of
+$100,000 or more, shall pay affiliated employees wages at no less than the current living wage rate.
+Effective January 1, 2024 until June 30, 2024, the living wage rate is $17.05
+per hour.
+Effective July 1, 2024, the District’s Minimum Wage and Living Wage will
+increase to $17.50 per hour.
+Subcontractors of D.C. government contractors, who receive $15,000 or more from the contract, and subcontractors
+of the recipients of government assistance, who receive $50,000 or more from the assistance, are also required to pay
+their affiliated employees no less than the current living wage rate.
+“Affiliated employee” means any individual employed by a recipient who receives compensation directly from
+government assistance or a contract with the District of Columbia government, including any employee of a
+contractor or subcontractor of a recipient who performs services pursuant to government assistance or a contract.
+The term “affiliated employee” does not include those individuals who perform only intermittent or incidental
+services with respect to the government assistance or contract, or who are otherwise employed by the contractor,
+recipient or subcontractor.
+Exemptions – The following contracts and agreements are exempt from the Living Wage Act:
+1. Contracts or other agreements that are subject to higher wage level determinations required by federal
+law (i.e., if a contract is subject to the Service Contract Act and certain wage rates are lower than the
+District’s current living wage, the contractor must pay the higher of the two rates);
+2. Existing and future collective bargaining agreements, provided that the future collective bargaining
+agreement results in the employee being paid no less than the current living wage;
+3. Contracts for electricity, telephone, water, sewer or other services provided by a regulated utility;
+4. Contracts for services needed immediately to prevent or respond to a disaster or imminent threat to
+public health or safety declared by the Mayor;
+5. Contracts or other agreements that provide trainees with additional services including, but not limited
+to, case management and job readiness services, provided that the trainees do not replace employees
+subject to the Living Wage Act;
+4058 Minnesota Ave, N.E. • Suite 3600 • Washington, D.C. 20019 • Office: 202.671.1900
+
+6. An employee, under 22 years of age, employed during a school vacation period, or enrolled as full-time
+student, as defined by the respective institution, who is in high school or at an accredited institution of
+higher education and who works less than 25 hours per week; provided that students not replace
+employees subject to the Living Wage Act;
+7. Tenants or retail establishments that occupy property constructed or improved by receipt of
+government assistance from the District of Columbia; provided, that the tenant or retail establishment
+did not receive direct government assistance from the District of Columbia;
+8. Employees of nonprofit organizations that employ not more than 50 individuals and qualify for taxation
+exemption pursuant to Section 501 (c) (3) of the Internal Revenue Code of 1954, approved August 16,
+1954 (68 A Stat. 163; 26. U.S.C. §501(c)(3));
+9. Medicaid provider agreements for direct care services to Medicaid recipients, provided, that the direct
+care service is not provided through a home care agency, a community residence facility, or a group
+home for persons with intellectual disabilities as those terms are defined in section 2 of the Health-Care
+and Community Residence Facility, Hospice, and Home Care Licensure Act of 1983; D.C. Official
+Code § 44-501; and
+10. Contracts or other agreements between managed care organizations and the Health Care Safety Net
+Administration or the Medicaid Assistance Administration to provide health services.
+Enforcement
+The Department of Employment Services (DOES) Office of Wage-Hour and the D.C. Office of Contracting and
+Procurement share monitoring responsibilities.
+Home Care Final Rule: The Department of Labor extended overtime protections to home care workers
+and workers who provide companionship services. Employers within this industry are now subject to
+recordkeeping provisions.
+If you learn that a contractor subject to this law is not paying at least the current living wage, you should report it to
+the contracting officer. If you believe that your employer is subject to this law and is not paying at least the current
+living wage, you may file a complaint with the DOES Office of Wage - Hour, located at 4058 Minnesota Avenue,
+N.E. Suite 3600, Washington, D.C. 20019, call (202) 671-1880, or file your claim on-line: www.does.dc.gov. Go to
+“File a Claim” tab.
+For questions and additional information, contact the Office of Contracting and Procurement at (202) 727-0252 or the
+Department of Employment Services on (202) 671-1880.
+Please note: This fact sheet is for informational purposes only as required by Section 106 of the Living Wage Act. It should not
+be relied on as a definitive statement of the Living Wage Act or any regulations adopted pursuant to the law.

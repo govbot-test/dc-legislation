@@ -1,0 +1,159 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1
+2 ________________________
+3 Councilmember Brooke Pinto
+4
+5
+6 A BILL
+7
+8 _________________________
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12 _________________________
+13
+14
+15 To amend, on a temporary basis, the Act to Regulate Public Conduct on Public Passenger
+16 Vehicles to provide that the adjudication of fare evasion citations shall be pursuant to the
+17 Department of Consumer, and Regulatory Affairs Civil Infractions Act of 1985; to amend
+18 the Omnibus Police Reform Amendment Act of 2000 to allow applicants for sworn
+19 officers of the Metropolitan Police Department to count certain credit hours for
+20 completion of the initial training program towards the requirement that certain applicants
+21 complete 60-hours of post-secondary education at an accredited college or university; to
+22 amend Title 23 of the District of Columbia Official Code to clarify the authority of
+23 Metropolitan Police Department warrantless arrest requirements, and to create an
+24 exception to the rebuttable presumption for pretrial detention for robbery where the
+25 victim does not sustain a physical injury and burglary in the second degree; to amend
+26 Chapter 8 of Title 16 of the District of Columbia Official Code to clarify that offenses
+27 eligible in the future for automatic sealing are currently eligible for sealing by motion;
+28 and to amend the Secure DC Omnibus Amendment Act of 2024 to repeal the sunset date
+29 of certain provisions regarding pretrial detention.
+30
+31 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+32 act may be cited as the “Peace DC Omnibus Temporary Amendment Act of 2025”.
+33 Sec. 2. Section 1101 of Title 6A of the District of Columbia Municipal Regulations (6A
+34 DCMR §1101), is amended as follows:
+35 (a) The section heading is amended by striking the phrase “SECTION 4-114" and
+36 inserting the phrase “SECTION 5-129.02” in its place.
+37 (b) Subsection 1101.1 is repealed.
+
+38 (c) Subsection 1101.2 is amended by striking the phrase “Code §4-114 (1981)” and
+39 inserting the phrase “Code § 5-129.02” in its place.
+40 (d) Subsection 1101.3 is amended by striking the phrase “Code §4-114 (1981)” and
+41 inserting the phrase “Code § 5-129.02” in its place.
+42 (e) Subsection 1101.7 is amended by striking the phrase “Code §4-114 (1981)” and
+43 inserting the phrase “Code § 5-129.02” in its place.
+44 (f) Subsection 1101.8 is amended by striking the phrase “Code §4-114 (1981)” and
+45 inserting the phrase “Code § 5-129.02” in its place.
+46 (g) Subsection 1101.10 is amended by striking the phrase “Code §4-114 (1981)” and
+47 inserting the phrase “Code § 5-129.02” in its place.
+48 (h) Subsection 1101.12 is amended by striking the phrase “Code §4-114 (1981)” and
+49 inserting the phrase “Code § 5-129.02” in its place.
+50 Sec. 3. Section 202(e)(1) of the Omnibus Police Reform Amendment Act of 2000,
+51 effective October 4, 2000 (D.C. Law 13-160; D.C. Official Code § 5–107.01(e)(1)), is amended
+52 to read as follows:
+53 “(1) Successfully completed 60 hours of post-secondary education at an
+54 accredited college or university; except that, if MPD enters into an agreement with an accredited
+55 college or university to award credit hours to recruits successfully completing the Department’s
+56 initial training program for recruits, an applicant may satisfy up to 20 credits of the 60 credit
+57 hour requirements in this paragraph by earning credits through the initial training program for
+58 recruits;”.
+59 Sec. 4. Title 23 of the District of Columbia Official Code is amended as follows:
+60 (a) Section 23-581(a) is amended as follows:
+2
+
+61 (1) Paragraph (2) is amended as follows:
+62 (A) Subparagraph (C) is amended as follows:
+63 (i) Strike the phrase “Theft of property valued less than $250” and
+64 insert the phrase “Theft of property that has some value” in its place.
+65 (ii) Strike the phrase “section 111 [D.C. Official Code, §22-3211]”
+66 and insert the phrase “section 112 [D.C. Official Code §22-3212(b)]” in its place.
+67 (B) Subparagraph (D) is amended as follows:
+68 (i) Strike the phrase “Theft of property valued in excess of $250”
+69 and insert the phrase “Theft of property valued at $1,000 or more; Theft twice or more in a 6-
+70 month period with an aggregate value of $1,000 or more” in its place.
+71 (ii) Strike the phrase “section 111 [D.C. Official Code, §22-3211]”
+72 and insert the phrase “section 112(a) [D.C. Official Code §22-3212(a)]” in its place.
+73 (C) Subparagraph (E) is amended by striking the phrase “Unauthorized
+74 disposal of solid waste” and inserting the phrase “Unauthorized disposal of solid waste,
+75 hazardous waste, or medical waste” in its place.
+76 (2) Paragraph (3) is amended as follows:
+77 (A) Strike the phrase “section 9(b-1) (D.C. Official Code § 50-2201.04(b-
+78 1)” and insert the phrase “section 9(c) (D.C. Official Code § 50-2201.04(c))” in its place.
+79 (B) Strike the phrase “section 10(b) (D.C. Official Code § 50-2201.05(b))
+80 [repealed]” and insert the phrase “section 3(b) (D.C. Official Code § 50-2206.11)” in its place.
+81 (C) Strike the phrase “Operating or physically controlling a vehicle when
+82 under the influence of intoxicating liquor or drugs, when operating ability is impaired by
+83 intoxicating liquor, or when the operator’s blood, breath, or urine contains the amount of alcohol
+3
+
+84 which is prohibited by section 10(b).” and insert the phrase “Driving under the influence (DUI)
+85 of alcohol or a drug.” in its place.
+86 (D) Strike the phrase “section 13(e) (D.C. Official Code § 50-1403.01(e)”
+87 and insert the phrase “section 13(f) (D.C. Official Code §50-1403.01(f))” in its place.
+88 (b) Section 23-1322(c)(9) is amended to read as follows:
+89 “(9) Committed a crime of violence, as that term is defined in § 23-1331(4);
+90 except, that robbery where the victim does not sustain a physical injury and burglary in the
+91 second degree shall not be subject to the rebuttable presumption of detention under this
+92 subsection.”.
+93 Sec. 5. Section 5(a) of the Act to Regulate Public Conduct on Public Passenger Vehicles,
+94 effective September 23, 1975 (D.C. Law 1-18; D.C. Official Code § 35-254), is amended as
+95 follows:
+96 (a) Paragraph (1) is amended by striking “of this section” and inserting the phrase “and
+97 (1A) of this section” in its place.
+98 (b) Paragraph (2)(A) is amended to read as follows:
+99 “(A) Violations penalized under this subsection shall be adjudicated by the
+100 Office of Administrative Hearings in accordance with the Department of Consumer and
+101 Regulatory Affairs Civil Infractions Act of 1985, effective October 5, 1985 (D.C. Law 6-42;
+102 D.C. Official Code § 2-1801.01 et seq.).”.
+103 Sec. 6. Chapter 8 of Title 16 of the District of Columbia Official Code is amended as
+104 follows:
+105 (a) Section 16-805(c)(1) is amended as follows:
+106 (1) Subparagraph (A) is amended by striking the phrase “prior to the effective
+4
+
+107 date of the Second Chance Amendment Act of 2022, passed on 2nd reading on December 20,
+108 2022 (Enrolled version of Bill 24-63)” and inserting the phrase “on or before September 30,
+109 2027” in its place.
+110 (2) Subparagraph (B) is amended by striking the phrase “the effective date of the
+111 Second Chance Amendment Act of 2022, on 2nd reading on December 20, 2022 (Enrolled
+112 version of Bill 24-63), shall be sealed” and inserting the phrase “October 1, 2027, shall be sealed
+113 by October 1, 2027, or” in its place.
+114 (b) Section 16-806 is amended as follows:
+115 (1) Subsection (a)(1)(B) is amended to read as follows:
+116 “(B)(i) The offense is not an offense listed in § 16-805(b) and the person
+117 cited, arrested, or charged files a written motion prior to October 1, 2027; or
+118 (ii) The offense is an offense listed in § 16-805(b); and”.(2)
+119 Subsection (i) is amended by adding a new paragraph (7) to read as follows:
+120 “(7) Notwithstanding paragraph (6) of this subsection, the dismissal of a motion
+121 under this section between March 1, 2025, and the effective date of the Peace DC Omnibus
+122 Amendment Act of 2025, as approved by the Committee on the Judiciary and Public Safety on
+123 June 11, 2025 (Committee print of Bill 26-197), shall not preclude a movant from filing and the
+124 Court from entertaining subsequent motions sooner than one year after the date on which the
+125 initial motion was resolved.”.
+126 Sec. 7. The Secure DC Omnibus Amendment Act of 2024, effective June 8, 2024 (D.C.
+127 Law 25-175; 71 DCR 2732), is amended as follows:
+128 (a) Section 18(c)(2) is repealed.
+129 (b) Section 30(k) is repealed.
+5
+
+130 Sec. 8. Applicability.
+131 Section 6 shall apply as of March 1, 2025.
+132 Sec. 9. Fiscal impact statement.
+133 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+134 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+135 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+136 Sec. 10. Effective date.
+137 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+138 the Mayor, action by the Council to override the veto), a 30-day period of congressional review
+139 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+140 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+141 Columbia Register.
+142 (b) This act shall expire after 225 days of its having taken effect.
+6

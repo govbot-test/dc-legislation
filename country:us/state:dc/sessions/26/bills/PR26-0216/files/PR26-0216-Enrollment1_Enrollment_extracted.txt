@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENROLLED ORIGINAL
+A RESOLUTION
+26-132
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+June 3, 2025
+To declare the existence of an emergency with respect to the need to extend the deadline for
+District housing providers to register their respective rental properties in the new
+RentRegistry, and to require owners of rental accommodations that are exempt from rent
+stabilization to report current and prior rent amounts for the previous 2 calendar years at
+the time of registration.
+RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+resolution may be cited as the “Rental Housing Registration Extension Emergency Declaration
+Resolution of 2025”.
+Sec. 2. (a) On June 2, 2025, the new RentRegistry went live, and housing providers will
+be required to submit all documentation under section 203a of the Rental Housing Act of 1985,
+effective October 22, 2015 (D.C. Law 21-36; § 42-3502.03c), within 90 days of the database
+becoming accessible to housing providers. While housing providers are required to enter
+additional information into the Department of Housing and Community Development’s
+(“DHCD”) online database within 90 days, more time is needed to mitigate administrative
+burdens and ensure that housing providers can provide this documentation in compliance with
+the law.
+(b) Within 90 days after completion of the publicly accessible rent control housing
+database, housing providers must file a new registration statement and, if applicable, a new claim
+of exemption for housing accommodation for which the housing provider is receiving rent or is
+entitled to receive rent via the online housing provider portal;
+(c) The Rental Accommodations Division has been informed by housing industry
+stakeholders that housing providers do not understand the new requirements and need additional
+time to ensure compliance;
+(d) Some housing providers of exempt rental accommodations have expressed concern
+that the Rent Administrator lacks the authority to require submission of current rent and rent
+amounts from the previous 2 calendar years and argued that this requirement is burdensome;
+however, this rent history data is essential to providing a comprehensive snapshot of the
+District’s rental market and will only be required at the time of registration, not on a recurring
+1
+
+ENROLLED ORIGINAL
+basis. Clarifying this requirement on an emergency basis will reduce confusion, strengthen legal
+authority for its collection, and support full functionality of the RentRegistry system at launch.
+(e) With the amount of information required for entry into the RentRegistry, housing
+providers will need more than 90 days to adjust their business practices and staffing needs;
+(f) Given that the RentRegistry will not contain any information previously submitted to
+the Rental Accommodations Division prior to June 2, 2025, housing providers, especially those
+operating larger or multiple properties, will need additional time.
+Sec. 3. The Council of the District of Columbia determines that the circumstances
+enumerated in section 2 constitute emergency circumstances making it necessary that the Rental
+Housing Registration Extension Emergency Amendment Act of 2025 be adopted after a single
+reading.
+Sec. 4. This resolution shall take effect immediately.
+2

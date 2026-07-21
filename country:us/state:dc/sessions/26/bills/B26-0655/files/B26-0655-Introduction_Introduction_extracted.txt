@@ -1,0 +1,157 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1 ______________________________
+2 Chairman Phil Mendelson
+3
+4
+5 A BILL
+6
+7 _______
+8
+9 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+10
+11 ______________________
+12
+13
+14 To prohibit government agencies, individuals, businesses, and private associations and
+15 organizations from, upon receipt of a written request, publicly displaying publicly
+16 available content that includes a judicial officer's personal information.
+17
+18 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+19 act may be cited as the “Protecting Judicial Privacy Act of 2026”.
+20 Sec. 2. Definitions.
+21 (1) “Government agency" means any agency, employee, or instrumentality of the
+22 District government.
+23 (2) "Home address" includes a judicial officer's permanent residence and any
+24 secondary residences affirmatively identified by the judicial officer, but does not include a
+25 judicial officer's work address.
+26 (3) "Immediate family" includes a judicial officer's spouse, child, parent, or any
+27 blood relative of the judicial officer or the judicial officer's spouse who lives in the same
+28 household as the judicial officer.
+29 (4) "Judicial officer" includes actively employed or retired:
+30 (A) Justices of the United States Supreme Court;
+31 (B) Judges of the United States Court of Appeals;
+1
+
+32 (C) Judges and magistrate judges of the United States District Court;
+33 (D) Judges of the United States Bankruptcy Court;
+34 (E) Judges of the District of Columbia Court of Appeals; and
+35 (F) Judges and magistrate judges of the Superior Court of the District of
+36 Columbia.
+37 (5) "Personal information" means a home address, home telephone number,
+38 mobile telephone number, pager number, personal email address, social security number, federal
+39 tax identification number, checking and savings account numbers, credit card numbers, marital
+40 status, and identity of children under the age of 18.
+41 (6) "Publicly available content" means any written, printed, or electronic
+42 document or record that provides information or that serves as a document or record maintained,
+43 controlled, or in the possession of a government agency that may be obtained by any person or
+44 entity, from the Internet, from the government agency upon request either free of charge or for a
+45 fee, or in response to a request under the Freedom of Information Act.
+46 (7) "Publicly display" means to communicate to another or otherwise make
+47 available to the general public, including through publication on the internet and social media
+48 applications.
+49 (8) "Written request" means written notice signed by a judicial officer or a
+50 representative of the judicial officer's employer requesting a government agency, person,
+51 business, or association to refrain from posting or displaying publicly available content that
+52 includes the judicial officer's personal information.
+53 Sec 3. Prohibition on publicly displaying a judicial officer's personal information by
+54 government agencies.
+2
+
+55 (a) A government agency shall not publicly display publicly available content that
+56 includes a judicial officer's personal information, provided that the government agency has
+57 received a written request in accordance with this act that it refrain from disclosing the judicial
+58 officer's personal information.
+59 (b) After a government agency has received a written request, that agency shall remove
+60 the judicial officer's personal information from publicly available content within 5 business days.
+61 After the government agency has removed the judicial officer's personal information from
+62 publicly available content, the agency shall not publicly post or display the information and the
+63 judicial officer's personal information shall be exempt from the Freedom of Information Act
+64 unless the government agency has received consent from the judicial officer to make the personal
+65 information available to the public.
+66 (c) If a government agency fails to comply with a written request to refrain from
+67 disclosing personal information, the judicial officer may bring an action seeking injunctive or
+68 declaratory relief in the Superior Court of the District of Columbia.
+69 Sec. 4. Prohibition on publicly displaying a judicial officer's personal information on the
+70 Internet by persons, businesses, associations or other private organizations.
+71 (a)(1) No person, business, association or other private organization shall publicly post or
+72 display on the Internet, including but not limited to, Internet phone directories, Internet search
+73 engines, Internet data aggregators, and Internet service providers, publicly available content that
+74 includes a judicial officer's personal information, provided that the judicial officer has made a
+75 written request to the person, business, association or other private organization that it refrain
+76 from disclosing the personal information.
+3
+
+77 (2) No person, business, association, or other private organization shall solicit,
+78 sell, or trade on the Internet, including but not limited to, Internet phone directories, Internet
+79 search engines, Internet data aggregators, and Internet service providers, a judicial officer's
+80 personal information with the intent to pose an imminent and serious threat to the health and
+81 safety of the judicial officer or the judicial officer's immediate family.
+82 (b) After a person, business, association, or other private organization has received a
+83 written request from a judicial officer to protect the privacy of the officer's personal information,
+84 that person, business, association, or other private organization shall have 48 hours to remove the
+85 personal information from the Internet.
+86 (c) After a person, business, association, or other private organization has received a
+87 written request from a judicial officer, that person, business, association, or other private
+88 organization shall ensure that the judicial officer's personal information is not made available on
+89 any website or subsidiary website controlled by that person, business, association, or other
+90 private organization.
+91 (d) After receiving a judicial officer's written request, no person, business, association, or
+92 other private organization shall transfer the judicial officer's personal information to any other
+93 person, business, association, or other private organization through any medium.
+94 (e) A judicial officer whose personal information is made public as a result of a violation
+95 of this act may bring an action seeking injunctive or declaratory relief in the Superior Court of
+96 the District of Columbia. If the Court grants injunctive or declaratory relief, the person, business,
+97 association, or other private organization responsible for the violation shall be required to pay the
+98 judicial officer's costs and reasonable attorney's fees.
+4
+
+99 Sec. 5. Written request requirement.
+100 (a) No government agency, person, business, association, or other private organization
+101 shall be found to have violated any provision of this act if the judicial officer fails to submit a
+102 written request calling for the protection of the judicial officer's personal information.
+103 (b) A written request shall be valid if:
+104 (1) The judicial officer sends a written request directly to the government agency,
+105 person, business, association, or other private organization; or
+106 (2) If the Mayor establishes a policy and procedure for a judicial officer to file the
+107 written request with the Mayor to notify government agencies, the judicial officer may send the
+108 written request to the Mayor.
+109 (A) Each year, the Mayor shall provide the Council with information on
+110 the number of judicial officers who have submitted a written request to the Mayor under this act.
+111 (c) A representative from the judicial officer's employer may submit a written request on
+112 the judicial officer's behalf, provided that:
+113 (1) The judicial officer gives written consent to the representative; and
+114 (2) The representative agrees to furnish a copy of that consent when a written
+115 request is made. The representative shall submit the written request as provided in subsection (b)
+116 of this section.
+117 (d)(1) A judicial officer's written request shall specify what personal information shall be
+118 maintained private.
+119 (2) If a judicial officer wishes to identify a secondary residence as a home address
+120 as that term is defined in this act, the designation shall be made in the written request.
+121
+5
+
+122 (3) A judicial officer shall disclose the identity of the officer's immediate family
+123 and indicate that the personal information of these family members shall also be excluded to the
+124 extent that it could reasonably be expected to reveal the personal information of the judicial
+125 officer.
+126 (e) A judicial officer's written request is valid until the judicial officer provides the
+127 government agency, person, business, association, or other private organization with written
+128 permission to release the private information.
+129 (f) A judicial officer's written request expires on death.
+130 Sec. 6. Fiscal impact statement.
+131 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+132 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+133 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+134 Sec. 7. Effective date.
+135 This act shall take effect following approval by the Mayor (or in the event of veto by the
+136 Mayor, action by the Council to override the veto), and a 30-day period of congressional review
+137 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+138 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+139
+6
