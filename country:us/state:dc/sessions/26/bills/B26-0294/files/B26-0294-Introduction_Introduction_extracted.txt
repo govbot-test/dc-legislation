@@ -1,0 +1,3940 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+June 25, 2025
+Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Contract No. CW123725 with Modaxo Traffic Management USA, Inc.
+Approval and Payment Authorization Emergency Act of 2025,” and the accompanying emergency
+declaration resolution.
+The legislation will approve Contract No. CW123725 with Modaxo Traffic Management USA,
+Inc., to support the provision of ticket processing and adjudication services to support the District’s
+enforcement of its parking and traffic laws.
+My administration is available to discuss any questions you may have regarding the proposed
+contract. In order to facilitate a response to any questions you may have, please have your staff
+contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at (202) 724-
+8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Muriel Bowser
+
+1 ~~
+2
+3 ~ hairman Phil Mendelson
+4 at the request of the Mayor
+5
+6
+7 A BILL
+8
+9
+10
+11
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+13
+14
+15
+16
+17 To approve, on an emergency basis, Contract No. CW123725 with Modaxo Traffic Management
+18 USA, Inc., and to authorize payment for the goods and services received and to be
+19 received under the contract.
+20
+21 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+22 act may be cited as the "Contract No. CW123725 with Modaxo Traffic Management USA, Inc.
+23 Approval and Payment Authorization Emergency Act of 2025".
+24 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+25 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+26 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+27 2011 (D.C. Law 18-3 71; D.C. Official Code § 2-352.02), the Council approves Contract No.
+28 CW123725 with Modaxo Traffic Management USA, Inc., and authorizes payment in the not-to
+29 exceed amount of $6,002,005.94 for the goods and services received and to be received under the
+30 contract.
+31 Sec. 3. Fiscal impact statement.
+
+32 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+33 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+34 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+35 Sec. 4. Effective date.
+36 This act shall take effect following approval by the Mayor (or in the event of veto by the
+37 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+38 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+39 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+40 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive)
+(A) Contract Number: CW123725
+Proposed Contractor: Modaxo Traffic Management USA, Inc.
+Proposed Contractor’s Principals: William Robert Delaney, Chief Executive Officer
+Contract Amount: $6,002,005.94
+Unit and Method of Compensation: Fixed price with a cost reimbursement component
+Term of Contract: January 29, 2025, through May 29, 2025
+Type of Contract: Fixed price with a cost reimbursement component
+Source Selection Method: Emergency
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: $6,002,005.94
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The contractor shall provide ticket processing services for the Department of Motor Vehicles
+(DMV). The contractor will also collect fines for citations issued by the Metropolitan Police
+Department for traffic violations.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+1
+
+Emergency Contract
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+None
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+CW118832, Ticket Processing Services
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Modaxo Traffic Management USA, Inc., has the necessary organization and management expertise
+to perform the required services. Modaxo Traffic Management USA, Inc., has expert knowledge
+and understanding of the District of Columbia’s ticket processing services. In addition, Modaxo
+Traffic Management USA, Inc., has no record of debarment or suspension actions at this time based
+on the federal, state, and District Excluded Parties Lists System.
+Based on past performance evaluations obtained by the Office of Contracting and Procurement,
+Modaxo Traffic Management USA, Inc., has provided satisfactory services to the District overall.
+(H) The period of performance associated with the proposed change, including the date as of
+which the proposed change is to be made effective:
+January 29, 2025, through May 29, 2025
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+$6,002,005.94
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+$6,002,005.94
+(K) The date on which the contracting officer was notified of the proposed change:
+January 28, 2025
+2
+
+(L) The reason why the proposed change was sent to Council for approval after it was intended to
+take effect:
+This contract was awarded as an emergency. The contracting officer moved forward with an
+emergency contract to ensure continuity of services. Failure to continue ticket processing services
+would have impeded the District’s ability to enforce its traffic laws and regulations by issuing tickets
+and fines. This would have significantly impacted public safety and the District’s financial resources.
+(M) The reason for the proposed change:
+While the contract goes through the Council approval process, the contracting officer executed an
+emergency to allow the contractor to continue providing services.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+D.C. Official Code § 2-354.05; 27 DCMR § 1702 (Emergency Procurements).
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+Modaxo Traffic Management USA, Inc., has confirmed that they have not been found to have
+violated section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a.
+Additionally, Modaxo Traffic Management USA, Inc., confirmed that they are not currently and
+will not be in violation of D.C. Code § 1-1163.34a.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+The contractor has agreed to meet the subcontracting requirement of 35%, which will be
+$2,100,702.08 of the contract’s total amount of $6,002,005.94.
+(Q) Performance standards and the expected outcome of the proposed contract:
+The DMV will regularly and routinely monitor the contractor’s performance. The expected outcome
+of the contract is for the contractor to provide the District with efficient and cost-effective services
+for ticket processing in accordance with the terms of the contract.
+3
+
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+$6,002,005.94
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+According to the funding certificate dated March 31, 2025, the proposed contract is within the
+appropriated budget.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The Office of the Attorney General has reviewed the proposed contract for legal sufficiency and
+certified that it is legally sufficient.
+The contractor currently does not have any legal claims against the District.
+(U) A certification that Citywide Clean Hands database indicates that the proposed contractor is
+current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+According to the District’s Clean Hands Certification dated May 9, 2025, the contractor is current
+with its District taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes or has
+worked out and is current with a payment schedule approved by the federal government:
+The proposed contractor has certified that they are current with their federal taxes.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+The contractor, Modaxo Traffic Management USA, Inc., is not a certified local, small, or
+disadvantaged business enterprise.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+4
+
+None
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+Modaxo Traffic Management USA, Inc., has no record of debarment or suspension actions based
+on the Federal System for Award Management report and the District Excluded Parties Lists
+System.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination and Findings for an Emergency Justification
+Determination and Findings for Contractor Responsibility
+Determination and Findings for Price Reasonableness
+Determination and Findings for Cost Reimbursement
+(AA) Where the contract and any amendments or modifications, if executed, will be made
+available online:
+OCP Website: ocp.dc.gov
+(BB) Where the original solicitation and any amendments or modifications will be made
+available online:
+OCP Website: ocp.dc.gov
+5
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: May 9, 2025 Notice Number: L0014181762
+MODAXO TRFFIC MNGEENT USA INC. FEIN: **-***2964
+1110 CONTINENTAL PL NE Case ID: 18605613
+CCEDAR RAPIDS IA 52402-2037
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+DEPARTMENT OF MOTOR VEHICLES
+MEMORANDUM
+To: Nancy Hapeman
+Chief Procurement Officer
+Office of Contracting and Procurement
+From: Shaniqua Richardson
+Budget Officer
+Department of Motor Vehicles
+OCFO Government Service Cluster
+Date: June 18, 2025
+Subject: REVISED FY25 Funding Certification Ticket ProcessingContract(CW123725)-
+This memorandum certifies that the Department of Motor Vehicles has budget authority in the amount of
+$6,034,830.83for FY 2025 to fund the Ticket Processing 120-day emergency contract extensionwith Modaxo
+Traffic Management USA, Inc., Contract No. CW123725. The time period for the emergency contract is from
+January 29, 2025 through May 29, 2025.
+If you have any questions or require additional information, please call ShaniquaRichardson via
+MSTeams.or email atshaniqua.richardson@dc.gov.
+cc: Gabriel Robinson, Agency Director DMV
+Wanda Butler, Adjudication Administrator -DMV
+Karen Tate, Quality Program Officer DMV
+LaChelle Burr, Agency Fiscal Officer DMV
+Samira Davis, Supervisory Contract Specialist-OCP
+95 M Street, SW, Suite 300, Washington, DC 20024 202-727-2200
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+Legal Counsel Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal Counsel Division
+DATE: May 5, 2025
+RE: Legal Sufficiency Review of the “Contract No. CW123725 with Modaxo Traffic
+Management USA, Inc. Approval and Payment Authorization Emergency Act of
+2025” and Accompanying Declaration Resolution
+(AE-25-261)
+_____________________________________________________________________________________
+This is to Certify that
+the Office of the Attorney General has reviewed the
+above-referenced legislation and determined that it is legally sufficient. If you have any questions,
+please do not hesitate to call me at (202) 262-6402.
+_________________________________
+Adele El-Khouri
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004 Phone (202) 262-6402 Email: adele.el-khouri@dc.gov
+
+1. Reserved for later use Page of Pages
+AWARD/CONTRACT
+1 94
+Emergency Contact
+2. Contract Number 3. Effective Date 4.Requisition/Purchase Request/Project No.
+CW123725 January 29, 2025
+5. Issued By: Code 6. Administered by (If other than line 5)
+Office of the Contracting and Procurement DC Department of Motor Vehicles
+441 4th Street, N.W., Suite 330 South 95 M Street, SW, 3rd Floor
+Washington, D.C. 20001 Washington, DC 20024
+7. Name and Address of Contractor (No. Street, city, county, state, and Zip Code) 8.Delivery
+FOB Origin Other
+Modaxo Traffic Management USA, Inc.
+9. Discount for prompt payment:
+5265 Rockwell Drive NE
+Cedar Rapids, IA 52402
+10.Submit invoices to the address shown in Section 7
+(2 copies unless otherwise specified)
+Duns No. TIN
+11. Ship to/Mark For Code 12. Payment will be made by Code
+DC Department of Motor Vehicles DC Department of Motor Vehicles
+95 M Street, SW, 3rd Floor 95 M Street, SW, 3rd Floor
+Washington, DC 20024 Washington, DC 20024
+13. Remit Address: 14. Accounting and Appropriation Data
+ENCUMBRANCE CODE:
+Same as 12
+15A. Item 15B. Supplies/Services 15C. 15D. Unit 15E. Unit Price 15F. Amount
+Qty.
+Ticket and Adjudication Services System
+Total Amount of Contract: Not to exceed (NTE) $6,002,005.94
+16. Table of Contents
+(X) Section Description Page (X) Sectio Description Page
+n
+PART I – THE SCHEDULE PART II – CONTRACT CLAUSES
+X 1 Award/Contract Form 1 I Contract Clauses 107
+2 Price Schedule 2 PART III – LIST OF DOCUMENTS, EXHIBITS AND OTHER
+X ATTACHMENTS
+X 3 Services-Specifications/Work Statement 8 9 List of Attachments 118
+X 4 Packing and Marking 74
+X 5 Inspection and Acceptance 75 Representations, Certifications, and Other 119
+X 6 Deliveries or Performance 76 Statements of Offerors
+X 7 Contract Administration data 79 Instructions, conditions & notices to Offerors
+X 8 Special Contract Requirements 87 Evaluation factors for award
+The Contracting Officer will complete Item 17 or 18 as applicable.
+17. CONTRACTOR’S NEGOTIATED AGREEMENT 18. AWARD (Contractor is not required to sign this document.)
+(The contractor is required to sign this document and return (2) copies to the Your offer on Solicitation Number, including the additions or
+issuing office.) The contractor agrees to furnish and deliver all items and perform changes made by which additions or changes are set forth in full
+all the services set forth or otherwise identified above and on any continuation above, is hereby accepted as to the items listed in B.3 and on any
+sheets for the consideration stated herein. The rights and obligations of the continuation sheets. This award consummates the contract, which
+parties to this Agreement shall be subject to and governed by the following consists of the following documents: (a) this award/contract and (b)
+documents: (a) this award/contract, (b) the solicitation, as amended, and (c) such your offer. No further contractual document is necessary.
+provisions, representations, certifications, and specifications, as are attached or
+incorporated by reference herein. (Attachments are listed herein.)
+19A. Name and Title of Signer (Type or print) 20A. Name of Contracting Officer
+William Robert Delaney, President Derrick White
+19B. 19C. Date 20B. District of Columbia 20C. Date Signed
+Signed
+February 3, 2025 1/28/2025
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+CW123725 - Ticket and Adjudication Services System
+SECTION B: CONTRACT TYPE, SUPPLIES OR SERVICES AND PRICE
+B.1 The Government of the District of Columbia, through the Office of Contracting and
+Procurement, on behalf of the Department of Motor Vehicles (DMV) (the District), hereby
+has a continued need for the services of Modaxo Traffic Management USA, Inc to provide
+ticket processing and related support.
+B.2 This is an Emergency Contract with a 120-day period with payment based on (firm)
+fixed prices and with a cost reimbursement component for approved expenses associated with the
+contract, as set forth in Section B.4 of the Contract.
+B.3 PRICE SCHEDULE - EMERGENCY CONTRACT
+B.3.1 EMERGENCY CONTRACT- 120 days- January 29, 2025, through May 29, 2025
+CLIN Item Description UoM Quantity Unit Price Total 120 Day
+3001 Ticket Processing 4-month
+3001AA First 100,000 (Month) per month 400,000 $ 2.99 $ 1,196,000.00
+Void and warning tickets (Parking
+3001AB per month
+and moving) 0 $ - $ -
+3001AC Photo warning tickets per month 0 $ 2.46 $ -
+3001AD 100,001 - 200,000 (Month) per month 400,000 $ 2.78 $ 1,112,000.00
+3001AE 200,001 - 300,000 (Month) per month
+400,000 $ 2.62 $ 1,048,000.00
+3001AF Over 300,000 + per month
+535,906 $ 2.49 $ 1,334,405.94
+Subtotal Ticket Processing Count and
+Subtotal
+Fee
+1,735,906 $ 4,690,405.94
+3002 DMV Special Project Programming hours 300 Included
+Reimbursable Ceiling $1,311,600.00
+Grand Total Not to exceed (NTE) $ 6,002,005.94
+2
+
+CW123725 - Ticket and Adjudication Services System
+B.3.2 EMERGENCY CONTRACT- Cost Reimbursable Component
+CLIN
+3002 Description 120 days
+B.4.1 Postage $927,200.00
+B.4.2 DMV fees $270,000.00
+B.4.3 Radio communications $0.00
+B.4.4 Supplemental equipment $0.00
+B.4.5 Network cabling $0.00
+B.4.6 SMS Text Messaging ($3,600 per month) $14,400.00
+B.4.7 Other Agency Development Work $100,000.00
+Subtotal $1,311,600.00
+B.4 Cost Reimbursable Component
+The district shall reimburse the Contractor for the following direct costs:
+1. Postage for mailing notices, excluding collection notices (not to exceed $927,200. per year).
+2. Fees charged by state motor vehicle agencies for names and addresses of out-of-state violators,
+excluding fees to obtain names and addresses relative to any ticket assigned to the Contractor For
+delinquent collections (not to exceed $270,000.00 per year).
+3. Costs for radio communications airtime to support mobile data computer interface with the
+ticket system, including MDTs computer interface used by Boot Crews, ROSA, and other
+DPW equipment and not provided or supported elsewhere in this contract (not to exceed $0.00 per
+year).
+4.Supplemental workstations, scanners, check verifiers, and printers requested in writing by the
+Contracting Officer's Technical Representative (not to exceed $0.00 per year).
+5. Network and communication costs necessary to service and support additional DMV sites
+(other than the core service centers at 301 C Street and the M Street service center, and the
+APEX offices at 441 4th Street) or to enable existing sites to become full-service if
+requested in writing by the Contracting Officer's Technical Representative (not to exceed
+$0.00 per year).
+6. SMS Text Messaging (not to exceed $14,400.00 per year)
+7. Other Agency Development Work (Not to exceed $100,00.00 per year)
+3
+
+SECTION C - DESCRIPTION/SPECIFICATIONS/WORKSTATEMENT
+Specifications'
+C.l Scope
+The Government of the District of Columbia, through the Office of
+ContractingandProcurement,on behalf ofthe Department ofMotor
+Vehicles(DMV)(theDistrict), hereby secures theservicesofthe
+Contractortoprovideticket processing andrelatedservices.
+This is an emergencycontractwith a 120 daysperiodwith payment
+based on(firm)fixedpricesandwith a cost reimbursement component
+for approved expenses associated with the contract,as set forthin
+Section B.4 of the Contract.
+C.1.1 Background
+The Department of Motor Vehicle (DMV), in conjunction with the
+MetropolitanPoliceDepartment(MPD),DepartmentofPublicWorks
+(DPW), Department ofTransportation(DDOT),andtheOffice of
+Finance and Treasury (OFT) is workingtoimprovethe business
+processes,customerservice,andfinancialtransactionsrelatedtoticket
+C.2 processing, adjudication,automatedenforcement,andBoot,tow,and
+meter operations.
+C.2.1
+TheContractor shall implement,withinthirty(30)daysaftercontract
+award,ticket processing supportservicesforthe Department ofMotor
+Vehicles (DMV), Metropolitan Police Department (MPD), and
+DepartmentofPublicWorks(DPW).This contractaddressesthe
+functionality needsoftheticket processing services, includingtheticket
+System,back-office processes, mailing, and noticing. A future, separate
+contractwilladdress functionality needs for lockboxandcollection
+·C.2.2 services.
+Enforcement officers in DPW, MPD, and Law Enforcement officers
+from 26 other agencies issue tickets in the District of Columbia.
+Approximately 80% of parking tickets are entered by any of the· above
+officers into hand-held devices. The remaining tickets are manually
+written and will require data entry.
+C.2.3
+4
+
+! - . .
+C.2.4 The District has a need to provide improved and efficient customer
+service to Customers in the District for the processing of moving
+(including Red Light and Photo Enforcement) and parking tickets and
+for the delivery of adjudication services. This goal includes the
+implementation of a new ticket processing service and reporting •
+enhancements.
+C.2.5 The District will improve enforcement activities and processing, using
+an existing interface between DPW, MPD, and DMV, for improved
+identification of Wanted Vehicles, Boot and Tow Eligible Vehicles, and
+a reduction in improper ticketing. The ticket processing service shall:
+• Allow Users to view all ticket types, data, and
+associated• images, including parking, moving, photo radar, and
+photo speeding tickets.
+• Produce one Notice to Customers, including all
+outstanding ticket types and activity.
+• Allow Customers to make one full or only a partial
+payment for one or more ticket types.
+C.2.6 The ticket processing Database, including all images and Data
+Elements, is the property of the District of Columbia. To further
+improve enforcement activities and processing, authorized DMV
+Application Users shall have access to the Database through routine
+reports as well as an ad hoc reporting capability. For special project
+purposes, DMV Application Users can access all Database Fields,
+Database Records, images (including electronic Word documents, audio
+files, and scanned document images), a Data Dictionary, and the Data
+Schema.
+C.2.7 In addition to the ticket processing Application System, the Contractor
+shall provide the District hardware and software required to run the
+ticket processing Application, including but not limited to desktop
+computers, laptop computers, servers, communication lines, switches,
+routers, wiring, printers, check readers, barcode readers and scanners
+along with maintenance. Within the three core DMV sites (301 C
+Street, 95 M Street SW, and APEX at 441 4th St), the Contractor is
+responsible for moves, adds, and changes.' All infrastructure related to
+this System is the responsibility of the Contractor, including
+telecommunications, processing, dataset, web and imaging servers, and
+switches. For maximum availability, the Contractor shall ensure there is
+no single point of failure within the infrastructure and shall provide the
+District System servers are full of redundancy and fail-over capability.
+'
+C.2.8 The Contractor shall provide initial training as well as refresher
+training at least quarterly for all DMV Adjudication services Users.
+The contractor shall provide a full online User manual with a keyword
+search , capability to the DMV; the User manual shall be updated prior
+/
+to implementation changes for training purposes.
+l
+5 f;
+. f
+(
+
+C.2.9 The Contractor shall have a full-time on-site employee at Adjudication
+Services headquarters, currently 301 C Street, N.W., with technical
+knowledge and skills to resolve System issues, assist in researching
+errors, and supplement training. This Contractor's on-site employee
+shall be on-site during business hours, Monday through Friday, 8:00
+a.m. - 5:00 p.m., except during District holidays. To ensure full-time
+coverage, a backup person will be on site when the prime support
+person is absent. This Contractor's on-site employee, who cannot be
+the project manager, must have adequate technical skills and be
+acceptable to the DMV management.
+C.2.10 The Contractor shall provide District help desk support for all Systems
+and equipment required for the service. Help desk services shall be
+available from 7:30 a.m. to 5:30 p.m. daily, except during District
+holidays and during overtime periods upon advance notice by the Chief
+Hearing Examiner.
+C.2.11 Sections of the Contract
+C.2.11.1 The statement of work (SOW) described below supports ticket
+processing, adjudication, enforcement, and payment processing.
+C.2.11.2 The SOW is divided into three major sections, Ticket Processing
+Services, Back-office Support Services, and Mailing Service.
+C.2.11.3 Ticket Processing Services (Reference. C.3.1)
+The Contractor shall automatically process parking and moving
+violations (including photo/radar enforcement), including, but not
+limited to, Imaging, Treatment, Adjudication, ticket payment, and notice
+generation. The ticket service shall incorporate current technologies:
+web-based Applications, web services, XML, and SFTP, which provide
+web service interfaces with the DPW Handhelds, MDT/Cs, and other
+DPW systems.
+C.2.11.4 Back-office Support Services (Reference. C.4)
+The Contractor shall process handwritten tickets, mail-in payments,
+Correspondence, e-mail responses, problem research and mail
+adjudication activity. Payments include all DMV activities related to
+tickets (e.g., Fines, penalties, impoundment Fees, Boot and tow Fees).
+The Contractor shall incorporate document imaging and management in
+back-office processing.
+6
+
+C.2.11.5 Mailing Service (Reference C.5)
+, The Contractor shall perform high-volume letter generation activity
+including printing, folding, stuffing, and mailing of Notices for all ticket
+and ticket related Notice processing needs based on an electronic file
+produced nightly and electronically sent to the Contractor. (Note- A
+second purpose of this electronic file is to provide an electronic
+document that can be linked to the appropriate Ticket record. Thus,
+when reviewing a Ticket record, all notices sent to the customer are
+images accessible to the DMV User.
+C.2.11.6 The Contractor shall produce the following list of deliverables, validate
+the accuracy, and manage the processes for the DMV (See Section F.2)
+in support of all sections and shall be responsible for management of
+these deliverables.
+• Develop the Project Plan and Schedule.
+• Develop a detailed Application Process.
+• Provide a list of final Documentation.
+• Develop and implement the Stress Test Plan.
+• Develop and implement the Integration Plan.
+• Develop and implement the Software Test Plan
+including interfaces and full regression testing.
+• Develop and implement the User Acceptance Test Plan.
+• Develop before and after Business Process and Flow
+Model.
+• Develop and implement User Training Plan.
+• Populate Business Objects for reporting.
+• Develop and implement a Business Continuity Plan.
+• Develop and implement a Database Conversion Plan.
+• Develop and manage the Training Schedule.
+• Develop Application User Manual.
+• Develop User Training Material and Training Manual.
+• Develop a Project Review Package.
+• Produce System Documentation provided through the
+Web Services server.
+• Produce Operations and Maintenance Guide.
+C.3 Ticket Processing Service
+C.3.1 Background
+C.3.1. l To serve the public, the District of Columbia government keeps traffic
+flowing safely by issuing Infractions for civil traffic and parking
+violations. DPW, MPD, and other authorized agencies issue these
+Infractions. The DMV has the responsibility to collect the Fines,
+penalties, and Fees associated with the tickets and to support ticket
+7 . l
+f
+
+Adjudication.
+C.3.1.2 ·These agencies need a tool to assist in ticketing, Capture and manage
+ticket information, support the payment and notification functions, and
+control Treatment.
+C.3.1.3 This contract focuses on the ticket processing service application. In
+addition to managing the ticket and Treatment processes, the
+Application provides services for the DMV, such as imaging,
+adjudication scheduling, appeals scheduling, booting management,
+impound management, and Wanted Vehicle detection. Separate but
+related functions are back-office activities for imaging, Correspondence
+management, and mailing services.
+C.3.2 REQUIREMENTS
+C.3.2.1 The functions in this section pertain to the ticket processing service and
+the capabilities of that Application. Throughout the document, the word
+''User" refers to a District (i.e., DMV, MPD, DPW, et al.) employee
+interacting directly with the application. The term "Customer" refers to
+individuals or organizations that interact with the DMV, with the
+exception of vendors supporting the process. The Contractor shall
+provide the DMV with an Application with the following capabilities.
+For clarity, the phrase "The Contractor shall" is omitted from each item;
+for the entire document, consider that phrase implied for each item.
+C.3.2.2 User Interface, Online Information Requests, and Security. The
+Contractor shall:
+C.3.2.2.1 User Interface: Provide the DMV with a Web Interface that is
+independent of access location for Users who need to access and
+manipulate ticket information.
+• C.3.2.2.2.1 Supply a Browser Interface for all User interactions with the
+Application that allows access to ticket information, such as violation
+data, customer data, vehicle data, hearing data, fine and payment data,
+notice data, correspondence data, and captured images.
+C.3.2.3.1 Online Information Requests
+C.3.2.3.1.1 Allow Customers to enter requests via the Internet for ticket
+adjudication information and provide printer-friendly options, including,
+but not limited to, images of the ticket, images of previously mailed
+notices, and images of correspondence previously sent by the Customer.
+C.3.2.3.1.2 Provide the DMV security of Web access by assigning a PIN code and
+8
+
+restricting access to Customers who have entered a previously registered
+PIN for customers wanting to see their full account history. Customers
+will still be able to use the Web to pay Tickets without needing to
+register for a PIN.
+C.3.2.3.1.3 Provide customer access using multiple keywords, i.e., ticket number, tag
+number, driver name, or VIN.
+C.3.2.3.1.4 Send the delivery address, i.e., mailing address, and e-mail address, as
+defined by the Delivery Type to the Notification module (Reference.
+C.3.8).
+C.3.2.3.1.5
+Allow Customers to query the current status of a ticket.
+C.3.2.3.1.6
+Allow customers to schedule a hearing using a list of available dates and
+times.
+C.3.2.4
+Security: Ensure the integrity of the data and information that the
+Application manages through the Third-normal Form and Referential
+Integrity and allow access only for Authorized Persons. The Contractor
+shall:
+C.3.2.4.1
+Provide the DMV with secure access using user identification and password.
+C.3.2.4.2
+Provide the DMV with a User profile capability to control access to
+Application Functions.
+C.3.2.4.3
+Limit User access to one remote device at a time, except for System
+administrators (i.e., the same User cannot be logged on to more than one
+device at a given point in time).
+C.3.2.4.3
+Provide a "Double Blind" entry for all keyed ticket and payment fields.
+C.3.2.5
+Booting and Towing. Enable Users to search for Tag Number (vehicle
+plate number) or VIN (vehicle identification number) in the ticket
+processing Database. Determine if a vehicle should be Booted or
+Towed. The Contractor shall:
+C.3.2.5.1
+Identify Boot-eligible Vehicles. The Contractor shall:
+C.3.2.5.1.1
+Determine if the vehicle entered by a DPW Booting officer is eligible
+for Booting based on eligibility rules provided by the District.
+(Currently, a vehicle is eligible for Booting if it has three or more
+Delinquent Tickets, the plate has not been Booted in the prior 30 days,
+at least one of the Boot Eligible tickets was written in the past year, and
+the vehicle is not a Fleet-program Vehicle.). Eligibility rules should be
+user-driven in a Variable-driven Table.
+9
+
+C.3.2.5.2 Automatically place the vehicle in a Boot Queue when the vehicle is
+eligible for Booting.
+C.3.2.5.2.1 Automatically download a list of boot-eligible Tag Numbers daily to the
+DPW SFTP Server for download to remote computing devices or
+Sighting vehicles.
+C.3.2.5.2.2 Upon Sighting of a boot-eligible Tag Number by DPW field
+enforcement personnel, evaluate the boot-eligible status using the
+downloaded file in the Handhelds or MDTs and return an indicator to
+field enforcement personnel whether a Tag Number has remained
+eligible for Booting.
+C.5.2.5.2.1 Automatically display the Tag Number currently eligible for Booting,
+the number of tickets on the Tag Number that are eligible for Booting,
+and the dollar amount associated with these tickets.
+C.3.2.5.3 Identify Tow-eligible Vehicles. The Contractor shall:
+C.3.2.5.3.1 Determine if a vehicle Sighted by an officer is eligible for towing based
+on User definable eligibility rules provided by the District (A vehicle is
+eligible for Towing if the type of Infraction defines that DPW needs to
+tow the vehicle or if a vehicle has remained immobilized (Booted) on
+the street for a certain period.).
+C.3.2.5.3.2 Automatically interface with the Centralized Towing CAD System and
+transfer Towing data to the Ticket Processing System when a vehicle is
+towed, to include the Tag Number, time and date, towed-from location
+and towed-to location.
+C.3.2.5.3.3 Pursuant to a Tag Number query to determine boot eligibility,
+automatically display on the Handheld based upon the downloaded file
+from the DPW SFTP Server, if the Tag Number is currently eligible for
+Towing.
+C.3.2.5.3.4 If a Tag Number is currently eligible for Towing, display for Towing
+crews the Tag Number, vehicle location, vehicle make and color. A Tag
+Number shall be eligible for Towing when it has remained on the street
+longer than 72 hours from the time of Booting.
+C.3.2.5.4 Wanted Vehicles: Accept a file daily from DMV listing stolen and
+Wanted Vehicles and download to the DPW SFTP Server for the
+Handhelds and MDTs.
+C.3.2.5.4.1 Upon capture of a Tag Number into a Handheld or MDT device, alert
+10
+
+the law enforcement officer or ticket writer who Sighted the vehicle that
+the vehicle is a. s tolen or Wanted Vehicle.
+.
+C.3.2.6 Ticket Issuance (MPD Module): Issue new tickets for Infractions related
+to automated traffic enforcement. The Contractor shall receive a batch file
+daily from MPD's Red Light and Photo Radar Contractor, including the
+digital images for all Red-Light records.
+C.3.2.6.1 MPDs Red Light and Photo Radar Contractor review all photos to
+determine which are of quality and potentially acceptable as the basis
+for the generation of a ticket. The Images that pass this screening are
+sent to the MPD Pre-Processing Module in the Ticket Processing
+System for subsequent handling. The data contained in this file is
+defined in the MPD Red Light and Photo Radar Contract section. The
+Contractor shall:
+C.3.2.6.2 Queue the records and Images to provide the DMV capability for
+authorized MPD officers to preview Images and accept/deny for ticket
+purposes. For Accepted Images, the Contractor shall process Notices on
+MPD letterhead for Red Light and Photo Radar Tickets within 72 hours.
+For Denied Images, the Contractor shall maintain photos with reasons
+for denial for MPD reference purposes.
+C.3.2.6.2.1 Maintain a chain of custody for all documents relating to the operation
+of the program that will include secure record-keeping and evidence
+storage procedures.
+Issue Notices of Infractions: The Contractor shall acquire name and
+address records and create the first Notice of Infraction for mailing.
+C.3.2.6.2.2 For Red Light Violations, the Contractor shall print Citations that include
+three color digitized violation Images of a quality acceptable to the
+District. The Images must clearly show:
+a. the vehicle prior to touching the first line of the crosswalk, and at least
+one of the governing Traffic Signal Heads with the red indication
+illuminated.
+b. the same vehicle continuing through the intersection and
+c. the vehicle's Registration Plate is clearly readable to the average naked
+eye.
+C.3.2.6.2.3 For Mobile Speed Violations, the Contractor shall print Citations that
+include two color digitized violation Images of a quality acceptable to
+the District.
+a.The first Image must clearly show the vehicle in violation.
+11
+
+b.The second Image must be an enhanced Image of the Vehicle Tag
+C.3.2.6.2.4 For Fixed Pole Speed Violations, the Contractor shall print Citations that
+include three color digitized violation Images of a quality acceptable to
+the District.
+a. The first Image must clearly show the vehicle in violation.
+b. The second Image must clearly show the distance of travel
+accordance with the Established Interval.
+c. The third Image must be an enhanced Image of the Vehicle Tag.
+C.3.2.6.2.5 The Contractor shall provide the DMV with printed Citation books that
+include court-approved language, the date and time of the violation, the
+location of the intersection, the amount of the Civil Penalty imposed, a
+legend for reading the embedded violation data, the date by which the Civil
+Penalty shall be paid, method of payment, and bar code. The District shall
+provide the required format for the Citation.
+C.3.2.6.2.6 The Contractor shall provide the DMV printed Citations that include a
+portion or a stub that can be returned with payment or to request court
+hearing.
+C.3.2.6.2.7 The Contractor shall mail each Citation that has been approved by
+MPD, with a return envelope, by first class mail, to the Registered
+Owner of the vehicle determined to be in violation.
+C.3.2.6.2.8 The Contractor shall submit a CD, in a protective case, that lists all
+Citations mailed, including the Citation Number and the name and
+address of the vehicle owner, with the monthly invoice.
+C.3.2.6.2.9 The Contractor shall provide the DMV and submit required information
+(e.g., maintenance log data, deployment logs, photographs of the violation)
+in support of the Adjudication Administrative Hearing process.
+C.3.2.6.3 Ticket Tracking: To facilitate the management of Ticket Information,
+track individual tickets, and to support all current functions of the
+District's ROSA program. The Contractor shall:
+C.3.2.6.3.1 Put in place controls to prevent duplicate Ticket Numbers.
+C.3.2.6.3.2 Support alphanumeric Ticket Numbers.
+C.3.2.6.3.3 Track by Tag Number, VIN, and Driver's License Number.
+12
+
+Capture, store, and process digital Images associated with Parking
+, Violations when available.
+Oversight: Provide the DMV supervisory view and override capability
+C.3.2.6.4
+to facilitate the oversight of ticket processing activities. The Contractor
+shall:
+Provide the DMV the capability to manually flag and assign Ticket
+C.3.2.6.4.1
+Transactions for supervisory approval.
+Provide the DMV the capability to enforce supervisory approval for
+C.3.2.6.4.2
+business transactions and work steps.
+Log supervisory approval activities within the Application.
+C.3.2.6.4.3
+Infraction Types: To standardize the various kinds of Infractions and to
+C.3.2.6.S
+keep information pertaining to those Infractions together, maintain a
+catalog of Infraction Types in the application database of the system.
+The Contractor shall provide a User driven capability to:
+Facilitate the creation and maintenance of Infraction Types.
+C.3.2.6.5.1
+Maintain Transaction Type information: Infraction Type, Infraction
+C.3.2.6.5.2
+Description, and Responsibility Type (driver/owner).
+. Maintain Penalty Information: monetary amount.
+C.3.2.6.5.3
+Maintain Treatment Information: Treatment Schedule.
+C.3.2.6.5.4
+Maintain Action Information: issue Ticket and tow the vehicle.
+C.3.2.6.5.5
+Maintain Reference Information: legal references.
+C.3.2.6.5.6
+Maintain Accounting Information: general ledger (GL) account code.
+• C.3.2.6.5.7
+Disposition Codes. The Contractor shall provide a User driven
+C.3.2.6.6
+capability to:
+Create and maintain a catalog of Disposition Codes.
+C.3.2.6.6.1
+Maintain type information: Disposition Code, disposition description.
+C.3.2.6.6.2
+Maintain reference information: legal references.
+C.3.2.6.6.3
+Transaction Identifiers. The Contractor shall provide a User driven
+C.3.2.6.7
+capability to:
+13
+
+C.3.2.6.7.1 Maintain a catalog of transaction identifiers to standardize the various
+lands of Financial Transactions and to keep information pertaining to
+those transactions together.
+C.3.2.6.7.2 Maintain Transaction Type Information: transaction identifier and
+transaction description.
+C.3.2.6.7.3 Maintain Reference Information: legal references.
+C.3.2.6.7.4 Maintain Accounting Information: general ledger (GL) account code.
+C.3.2.6.8 Imaging: To ensure that all available information has been captured,
+including manually written tickets and regular correspondence, as well as
+images of any paper-based information, the Contractor shall store this
+information. This includes any Notices sent to a customer. Save the
+Notice as an Image that can be viewed for that Customer, along with any
+other Notices or ticket Images associated with that Customer.
+C.3.2.6.8.1 Capture and store Images from paper documents.
+C.3.2.6.8.2 Maintain the link between Images and associated tickets.
+C.3.2.6.9 Data Validation: To ensure the integrity of the information that the
+Application manages, the Contractor shall enforce the following
+validation rules.
+C.3.2.6.9.1 Verify that a ticket is entered only once.
+C.3.2.6.9.2 Automatically verify that the street address, city, state, and zip code
+represent an actual address location based on U.S.P.S address validation.
+C.3.2.6.9.3 Standardize the address format (U.S.P.S standard)
+C.3.2.7 Treatment Schedule: To facilitate the treatment process, maintain
+Treatment Schedules within the Contractor's system. The Contractor
+shall provide a User driven capability to:
+C.3.2.7.1 Assign Treatment Schedule to Infraction Type.
+C.3.2.7.2 Assign separate Treatment Schedules to Fleet tickets.
+C.3.2.7.3 Create and maintain Treatment Schedules containing the Treatment
+Process rules, specifying Notices the Application sends when the
+Application applies Fees and penalties.
+14
+
+Assign Treatment Schedules to tickets based on the type of Infraction.
+C.3.2.7.4
+Use District business days on the calendar when advancing the Treatment
+C.3.2.7.5
+Process.
+Evaluation Rules: To facilitate flexibility in the maintenance of
+C.3.2.7.6
+business rules, the Contractor shall provide a User driven capability to
+apply the following rules:
+Create and maintain evaluation rules.
+C.3.2.7.6.1
+Evaluate the inclusion of the current time in a period.
+C.3.2.7.6.2
+Evaluate the inclusion of the current date in a period.
+C.3.2.7.6.3
+Evaluate the parking permit status of the vehicle.
+C.3.2.7.6.4
+Evaluate the state in which the vehicle is registered.
+C.3.2.7.6.5
+Evaluate if a vehicle is registered on the ROSA Exemption List. Evaluate
+C.3.2.7.6.6
+the number of Overdue Tickets.
+C.3.2.7.6.7
+Evaluate Fleet participation status.
+C.3.2.7.6.8.
+Evaluate parking restrictions. What is the parking designation:
+C.3.2.7.6.9
+residential area or business area? What are the parking duration
+restrictions: two hours or four hours?
+Calendar: To support scheduling functions, maintain schedules, the
+C.3.2.7.7
+Contractor shall:
+Supply a calendar function.
+C.3.2.7.7.1
+Track what days the District and DMV business days are.
+C.3.2.7.7.2
+Supply a scheduling function.
+C.3.2.7.7.3
+Allow scheduling of single event.
+C.3.2.7.7.4
+Allow scheduling of recurring events. (Similar to how Microsoft
+C.3.2.7.7.5
+Outlook schedules recurring events.)
+Reports: To view the status of ticket processing activities and measure
+C.3.2.7.8
+changes in that status, produce reports using Business Objects. The
+Contractor shall:
+15
+
+Provide the DMV standard Adjudication reports as part of the delivered
+C.3.2.7.8.1
+system.
+Generate standard reports on a scheduled or recurring basis or on
+C.3.2.7.8.2
+request.
+Provide the DMV the capability to generate and view reports online via
+C.3.2.7.8.3
+a web browser.
+Enable authorized Users to view reports on a Web page.
+C.3.2.7.8.4
+Enable an authorized User to print reports.
+C.3.2.7.8.5
+Enable an authorized User to export ad hoc reports to a file that can later
+C.3.2.7.8.6
+be imported into other applications, such as spreadsheets and
+documents, for documentation and analysis.
+Interfaces
+C.3.3
+To adequately fulfill its tasks, request services from other Systems,
+including DMV and SOAR, using web services. The functions as written
+in this section pertain to services that this Application sends to and
+receives from other Systems through a secure FTP server located
+outside the DC infrastructure at the Contractor's site. (Refer to the
+Technical Addendum for more information on this connectivity.) Unless
+otherwise noted, the Contractor shall:
+Centralized Towing System: The Contractor shall:
+C.3.3.1
+Interface with the District towing System, which maintains the towing
+C.3.3.1.1
+information.
+• C.3.3.1.2 Request towing Fee from the towing System.
+Provide information about eligible vehicles for towing to the towing
+C.3.3.1.3
+system.
+Provide DPW with information about vehicles eligible for release to the
+C.3.3.1.4
+towing System. Vehicles are eligible for release when all outstanding
+tickets are paid or adjudicated, and all tow and storage Fees are paid.
+DPW AIMS System Interface: (Auto Impoundment Management
+System). Interface with the District Auto Impoundment Management
+C.3.3.1.7
+System, which tracks all abandoned vehicles and the activity regarding
+16
+
+the vehicles from the time they arrive on the storage lot to the time they
+are released, auctioned, or scrapped and impounded at the DPW storage
+facility. The Contractor shall:
+Request storage Fees from the AIMS System via the Web Data Transfer
+C.3.3.1.7.1
+Module.
+Update the AIMS System with DMV Ticket Payment Penalties and
+C.3.3.1.7.2
+Fees.
+Update the Ticket Processing System on Tickets paid with auction funds,
+C.3.3.1.7.3
+including partial adjustments.
+Provide information about vehicles that are eligible for release to the
+C.3.3.1.7.4
+AIMS System. Vehicles are eligible for release when all outstanding
+tickets are paid or adjudicated, and all tow and storage Fees are paid.
+DPW LPRS Interface. During parking enforcement patrols, the
+C.3.3.2
+Contractor shall:
+Interface with the District's license plate recognition System for vehicle
+C.3.3.2.1
+identification and parking enforcement with tire imaging and chalking
+enforcement.
+Integrate LPRS Images with the vehicle tag Database for adjudication
+C.3.3.2.2
+and Correspondence processes.
+Download the appropriate file to issue an alert or update to the license
+C.3.3.2.3
+plate recognition System if the tag is wanted or stolen.
+Download appropriate file to the DPW SFTP Server to issue alert or
+C.3.3.2.4
+update to license plate recognition System if vehicle tag is eligible for
+and exemption from Register of Out-of-State Vehicle (ROSA)
+enforcement tickets. All current functions and interfaces will continue to
+be supported.
+DPW Centralized Towing System Interface. The Contractor shall:
+C.3.3.3
+Interface through a batch download with the Centralized Towing
+C.3.3.3.l
+System's web vehicle locator through use of CAD listener in posting
+Fees owed on all vehicles towed by DPW.
+Notifications. According to the Treatment Schedule, the Contractor
+C.3.4
+shall:
+C.3.4.1 Support Notice generation, including but are not limited to:
+17
+
+• Automated (Red Light and Photo Radar) Ticket Issued
+on MPD letterhead
+• Automated (Red Light and Photo Radar) Ticket Overdue
+• Automated (Red Light and Photo Radar) Deemed
+Admission
+• Moving Tickets Overdue (Notice of Suspension)
+• Moving Tickets Deemed Admission
+• Moving Tickets Non-Compliant Status (to state
+jurisdiction)
+• Moving Tickets Compliant Status (to state jurisdiction)
+• Parking Tickets Overdue
+• Parking Tickets Deemed Admission
+• Partial Payment
+• Post-Hearing Payment Overdue
+• ROSA Enforcement Information - Notices, warnings and
+tickets
+C.3.4.2 Support Adjudication Correspondence including but not limited to:
+• Outcome of Adjudication
+• Hearing Date Scheduled
+• Appeal Filing Date
+• Outcome of Appeal
+C.3.4.3 Support Financial Notices, including but are not limited to:
+C.3.4.3.1 Overpayment - Generate and send a letter for self-certification for any
+refund checks.
+C.3.4.3.2 Underpayment - Notices with the amount paid, the amount still due, the
+date payment is required, and the Penalty shall be sent to the Customer.
+C.3.4.3.3 Late Payment/Delinquent - The Customer shall be sent a Notice with the
+amount due, the original due date, the ticket information, the Penalty
+due, the new due date, and the Penalty escalations.
+C.3.4.3.4 Print the mail date on all Notices. This is the system-generated date plus
+X days. The DMV determines the number of days for each notice through
+a user-defined table.
+C.3.4.4 Prior to sending a Notice, the Contractor shall:
+C.3.4.4.1 Obtain all Ticket service data related to the Ticket, License Number, and
+Registration of the specific ticket or Notice.
+18
+
+C.3.4.4.2 Consolidate all of this information into one Notice and send it to the
+Customer. This one Notice contains all the information the Contractor
+has regarding outstanding tickets for this Customer. Overdue tickets
+and delinquent tickets sent to collections have also been noted.
+C.3.4.5 Types of Notices:
+C.3.4.5.1 Paper Notifications. The Contractor shall:
+C.3.4.5.1.1 Facilitate form printing.
+C.3.4.5.1.2 Obtain approval of all User-defined new or modified forms before they
+are used.
+C.3.4.6 Tracking Correspondence. The Contractor shall track and store the
+following in the database:
+C.3.4.6.1 Image and store all Correspondence received by the DMV.
+C.3.4.6.2 Track each Notice as the Application sends it.
+C.3.4.6.3 Track all outgoing Correspondence.
+C.3.4.6.4 Store an electronic copy of the incoming Correspondence.
+C.3.4.6.5 Provide web access to view all Correspondence and images to include
+Notices, Correspondence, Red Light Photo images, and Audio Files.
+C.3.4.6.6 Track Nixie Processing.
+C.3.4.6.7 Capture Mailing Date, Correspondence Type, Sender Name, and Sender
+Address.
+C.3.5 Payment Processing
+C.3.5.1 Payment Processing- GENERAL. For walk-in, mail-in, web, and
+telephone payments, the Contractor shall:
+C.3.5.1.1 Process all ticket payment transactions including automated
+enforcement and paper tickets.
+C.3.5.2 Gather all outstanding ticket payment items
+C.3.5.2.1 Search for all tickets and associated Fines, penalties, and Fees based on
+Name, Driver's License Number, Tag Number, and VIN.
+19
+
+Tickets include all parking tickets, moving violations, red light and photo
+C.3.5.2.2
+radar, Boot and tow, and storage Fees.
+If a vehicle is auctioned, the auction proceeds offset outstanding tickets,
+C.3.5.2.3
+tow and storage Fees, and any other ticket-related Fees. This is handled
+by an interface with AIMS. If, however, after all Fees and Fines are
+paid, there is a remaining balance, the balance shall be credited by
+AIMS to the general fund (SOAR account to be Provided by the
+DMV). As part of this process, the AIMS System generates a Notice to
+the Customer identifying the actions taken, including listing the ticket
+Fines and other Fees paid with the auction proceeds and any remaining
+amount owed by the Customer (assuming the auction Fee did not cover
+all Fines and penalties). This is accomplished with a two-way interface,
+with the Ticket Processing System providing Ticket information to
+AIMS and AIMS providing back tickets that were paid or not paid.
+One payment for all outstanding ticket payment items. The Contractor
+C.3.5.3
+shall:
+C.3.5.3.l Allow Customer to pay one payment for all outstanding ticket Fines,
+penalties, Fees, and to pay for one or more items.
+Provide a User-defined table to Capture and store the District
+C.3.5.3.2
+Government General Ledger Account code and a Transaction Identifier.
+C.3.5.3.3 Support various (Parking/Moving/Red-light/Radar) Ticket Types
+identified by separate GL Account Codes.
+C.3.5.4
+Payment Transaction Summary for Finance. The Contractor shall:
+C.3.5.4.1 Send summary payment information on a daily basis to the accounting
+System (SOAR) electronically, including but not limited to the
+following:
+C.3.5.4.2 Identification information
+C.3.5.4.2.1 Customer Service Representative ID or Employee ID
+C.3.5.4.2.3 Date of activity
+C.3.5.4.2.4 Activity information, including transaction counts and amounts broken
+down by the following categories:
+• Ticket activity type
+• GL Account Code for activity
+• Method of payment activity (support split payments)
+20
+
+Payment Vali1ation. The Contractor shall:
+C.3.5.5
+Process credit card, debit card, E-check, check, verify, and accept
+C.3.5.5.1
+validation through a secured financial services partner. Note that the
+payment will be encumbered at the time the check or E-check is
+processed. If there are insufficient funds to cover the transaction, the
+payment will be denied. In this case, the check will be imaged and
+associated with the ticket number, including a notation that payment was
+denied due to insufficient funds and the associated transaction code and
+authorization for future reference purposes. The Contractor shall send a
+Notice to the Customer, including the check and the reason for denial of
+service.
+Accept authorization from the validation system, along with the
+C.3.5.5.2
+authorization ID, date, and time for the appropriate system.
+Ticket Payment Processing. The Contractor shall
+C.3.5.6
+Support the processing of all ticket types.
+Ticket Information Retrieval. The Contractor shall:
+C.3.5.6.1
+Capture the following Data Elements for each ticket payment. This
+C.3.5.6.1.l
+includes but is not limited to:
+• Ticket Number/s
+• Ticket type
+• Tag Number
+• VIN Number
+• Driver's License Number (for moving violations)
+• Name and Address
+• Due Date
+• Fine Amount
+• Boot, Tow, and Storage Fees
+• Penalties
+Ticket Payment Capture. The Contractor shall:
+C.3.5.6.2
+Obtain and store the following ticket payment information during the
+C.3.5.6.2.1
+transaction. This includes but is not limited to:
+• Customer Service Representative ID or Employee ID
+(not needed for web transactions)
+• Location ID (where payment is made)
+• Agency ID
+21
+
+• Transaction Purpose Code
+• Payment Amount
+• Process Date and Time
+• Transaction Number (unique identifier assigned by
+System)
+• Method of Payment/s (Support Split Payments)
+• Transaction Vehicle (check#, credit card#)
+• Ticket number
+• Account type, i.e., SOAR account
+C.3.5.6.2.2 If an in-person payment is made, print the receipt with the transaction
+number included in the barcode.
+C.3.5.6.3 Transfer Ticket Payment Information. The Contractor shall:
+C.3.5.6.3.1 Send the following financial information to a designated District of
+Columbia System. This includes but is not limited to:
+• Ticket Number/s
+• Customer Service Representative ID or Employee ID
+• Location ID
+• Agency ID
+• Transaction Purpose Code
+• Amount Paid per ticket
+• Posting Date (date ticket is considered paid)
+• Availability Date (date payment is in the System)
+• Transaction Number
+• Method of Payment/s (Support Split Payments)
+• Transaction Vehicle (check#, credit card#, money order
+#)
+• Authorization ID from the validating System for the check,
+credit card and E-check.
+C.3.5.6.3.2 When a ticket is not found in the System, Capture ticket data from the
+Customer for entry into the Ticket Processing Service for audit
+purposes. This includes but is not limited to:
+•
+Ticket Number
+•
+Batch Number
+• Batch Date
+• Process Date
+• Tag Number
+• Driver's License Number
+•
+Ticket Amount
+22
+
+• Amount Paid
+• Check/Credit Card/Money Order Number/E-check
+verification number
+• Method of Payment
+C.3.5.6.3.3 Once the Ticket is entered into the System, combine the data above in
+one ticket record along with the Ticket image.
+C.3.5.7 Walk-In Payments. The Contractor shall:
+Support payments at the DMV service centers.
+C.3.5.7.1 Image Capture and Storage. The Contractor shall:
+Capture document Images for exceptions or issues with the payment.
+C.3.5.7.2 Data Capture, Validation, and Storage. The Contractor shall
+C.3.5.7.2.1 Process the following payment methods:
+Credit Card acceptance and electronic validations.
+C.3.5.7.2.2
+The debit card acceptance receipt has pin approval and a signature,
+which is scanned.
+Cash
+C.3.5.7.2.3
+Money Order
+C.3.5.7.2.4
+E-check
+C.3.5.7.2.5
+E-check acceptance and validation (where the cashier feeds the check
+C.3.5.7.2.6
+into a scanner, and the Customer's account is debited for the amount of
+the check)
+Check funds are encumbered at the time of payment. If notified that
+C.3.5.7.2.7
+insufficient funds are available, the Customer is notified, and the
+transaction concluded (unless they subsequently decide to pay in cash).
+Checks are accepted in the System if the check processing System is
+unavailable.
+Capture Data Elements for each ticket payment within the System to
+C.3.5.7.2.8
+allow the ability to audit against the Ticket service.
+Prevent duplicate entry of ticket or payment information.
+C.3.5.7.2.9
+Validate and cross-check the following data to reduce duplicate
+C.3.5.7.2.10
+payments.
+23
+
+• Ticket number
+C.3.5.7.2.11
+•
+Infraction Type
+•
+Tag Number
+•
+Driver's license Number
+•
+VIN
+•
+Payments for Missing Tickets. The Contractor shall:
+C.3.5.7.2
+Accept a payment against a ticket number.
+C.3.5.7.2.1
+Capture and store VIN, Driver’s License, Tag Number, and other
+C.3.5.7.2.2 identifying information, if available.
+Print and Store Customer Receipts. The Contractor shall:
+C.3.5.7.3
+Generate a receipt for the Customer with all pertinent information Per
+C.3.5.7.3.1 ticket type.
+Provide the DMV electronic storage of receipt information for future
+C.3.5.7.3.2 audits and tracking.
+Web Payments. The Contractor shall:
+C.3.5.7.4
+Allow Customers to pay for all parking, red-light and photo radar, and
+moving violations on the Web using either the ticket or tag number.
+Site Appearance, Security, General Functions. The Contractor shall:
+C.3.5.7.5
+Mirror the existing look and feel of the DC.GOV website and include a
+C.3.5.7. 5.l comments section, contact information, and online help.
+Provide the ability for a customer to obtain a PIN to log in, allowing the
+• C.3.5.7.5.2
+capability to view all pertinent information, such as Notices, Ticket
+Images, and Correspondence. However, a PIN is not needed if the
+customer just plans to pay a ticket(s).
+Have adequate security to prevent unauthorized users from viewing the
+C.3.5.7.5.3
+information of another Customer.
+Link to DC.GOV website, and to DPW Towing site.
+C.3.5.7.5.4
+Phone Payment (IVR) In support of phone payment, the Contractor
+C.3.5.7.6
+shall:
+Allow Customers to pay for all parking, red-light and photo radar, and
+C.3.5.76.1
+24
+
+moving violations on the phone using either the ticket or tag number.
+Accept payment with Debit or Credit cards.
+C.3.5.7.6.2
+Have the ability to select each type of activity via the NR.
+C.3.5.7.6.3
+The customer can cancel the transaction at any time during the process.
+C.3.5.7.6.4
+Search, Retrieval, and Selection. The Contractor shall:
+C.3.5.8 Provide the DMV the ability to search by ticket number, name, VIN,
+D/L number, and Tag Number to find tickets.
+C.3.5.8.1
+Display all ticket information, including associated Images.
+C.3.5.8.2
+Include outstanding tickets, Overdue Tickets, and recently paid tickets
+based on the timeframe entered by the Customer.
+C.3.5.8.3
+Show either one or all tickets and payment information based on the
+ticket and Tag Numbers combination. Do not display name and address
+C.3.5.8.4
+or images. Show and allow a selection of tickets that must be paid to
+retrieve a Booted or Towed vehicle and tickets that may be optionally
+paid.
+Provide User search capability for Fleet program numbers. The
+Contractor shall:
+C.3.5.8.5
+Allow the Customer to log in using the Fleet number/pin and select from
+a list of tickets.
+C.3.5.8.5.1
+Allow the Customer to pay all outstanding tickets, select specific tickets
+for payment, or hear from a list of outstanding tickets.
+C.3.5.8.5.2
+Capture, Validate, and Store Payment Information. The Contractor
+shall:
+C.3.5.9
+Capture, validate, and store information for ticketing activity. Support
+C.3.5.9.1 payments by the following methods.
+• Credit Card
+C.3.5.9.1.1
+• Debit Card
+• ACH Debit- (Customers enter the bank routing number
+and account number from the bottom of their checks, and their
+accounts are debited for the amount they have authorized/entered
+before the transaction is accepted).
+•
+25
+
+Connect the Customer with a secure payment site (e.g., Verisign), when
+C.3.5.9.1.2 , the Customer is ready to pay.
+Post-payment Actions. The Contractor shall:
+C.3.5.9.2
+Allow Customers to print receipts with a printer-friendly format button
+C.3.5.9.2.1 option.
+Interface with the towing system to allow for immediate release of Boots
+C.3.5.9.2.2
+or impounded vehicles.
+Provide the DMV web confirmation of payments.
+C.3.5.9.2.3
+Fleet/Corporate Program payments. The Contractor shall:
+C.3.5.9.3
+The Fleet/corporate programs module shall support any ticket or charge
+C.3.5.9.3.l type for companies and government agencies conducting business
+within the District. Currently, only parking tickets are supported. The
+System shall:
+Accept payments over the Web.
+C.3.5.9.3.2
+Display all outstanding tickets.
+C.3.5.9.3.3
+Allow selection of tickets the authorized company representative wants
+C.3.5.9.3.4
+to pay.
+Provide the DMV totals for all tickets selected for payment.
+C.3.5.9.3.5
+In-Person Payments. The Contractor shall:
+C.3.5.9.4
+Allow in-person payments by company representatives.
+C.3.5.9.4.1
+Accept payment based upon tickets pre-selected by authorized company
+C.3.5.9.4.2
+representative.
+Accept a bulk ticket payment with a single check or credit card to cover
+• C.3.5.9.4.3
+all outstanding tickets in a Fleet.
+Accept Payments from Fleet Vehicle Operators
+C.3.5.9.4.4
+Allow anyone to pay for tickets issued under a Fleet plan. If the ticket is
+C.3.5.9.4.5
+paid, it will not be reflected on the Fleet plan reports.
+Installment Plans (payment plans). The Contractor shall:
+C.3.5.10
+26
+
+Accommodate payment plans, allowing Customers to spread payments
+for one or more tickets over a fixed period with System-defined terms,
+Eligibility
+C.3.5.10.1
+Provide a User-defined capability to Capture rules for payment plan
+C.3.5.10.1.2
+eligibility. DMV staff shall be able to limit plan eligibility by various
+factors, including DC residence, the amount owed (e.g., $250
+minimum), and previous use of payment plans.
+When processing payments in person, determine if the Customer is
+C.3.5.10.1.2
+eligible for a payment plan and alert the cashier/clerk of the Customer's
+eligibility.
+Plan Setup and Modification. The Contractor shall:
+C.3.5.10.2
+Set up an installment payment plan for eligible Customers with
+C.3.5.10.2.1
+permissions based on User ID and security.
+Provide the DMV each Installment Plan with a "plan" number tied to
+C.3.5.10.2.2
+the person's driver's license number or Tag Number. The plan shall
+have a due date for installment payments which will result in a 'hold'
+put on the vehicle or driver record in Destiny such that nonpayment will
+result in revocation of the vehicle registration or driver license. The
+Contractor will Provide the DMV payment plan information in a daily
+batch file. The DMV staff will handle the 'hold' processing in Destiny.
+Generate a contract for Customer signature. The contract is with the
+C.3.5.10.2.3
+DMV, accepting responsibility and the stated consequences. Image the
+contract and link it to the Tickets in question.
+Support a suspended status delaying Treatment Process actions for the
+C.3.5.10.2.4
+period of the plan.
+Send a suspend status to stop noticing activity on the selected tickets.
+C.3.5.10.2.5
+Provide the DMV the capability to modify an existing plan by adding
+C.3.5.10.2.6
+additional tickets and Fees or extending the timeframe.
+Can only add X tickets and extend X months. (Definable by the DMV)
+C.3.5.10.2.7
+Payment plan adjustment requires management override.
+C.3.5.10.2.8
+Plan Payment Notices. The Contractor shall:
+C.3.5.10.3
+27
+
+Send Notices monthly providing Customers with the status of payments,
+, outstanding balances, and time left on the Installment Plan. In addition,
+the Notice shall provide the DMV with a payment slip.
+Plan Information Display. The Contractor shall:
+C.3.5.10.4
+Display the Installment Plan summary level data with defined fields that
+C.3.5.10.4.1
+reflect the current plan status.
+Provide the DMV, at a minimum, the following data on payment plans:
+C.3.5.10.4.2
+• Plan number
+• Current status
+• Name of participant/s
+• Address of participant/s
+• Phone number of participant/s
+• Original amount due and down payment
+• Agreed-upon payment schedule
+• Amount of each payment
+• Beginning date of payments
+• Current balance due
+• Tag Number/s
+• Payment transaction history, including all processing
+dates, amounts, paid methods of payment
+• Tickets
+• Participant's Driver License Number/s
+• Comments
+Plan Rules Application. The Contractor shall:
+C.3.5.10.5
+Enforce a minimum initial payment of (x) percent of all outstanding
+C.3.5.10.5.1 ticket Fines, penalties, and Fees. This shall be a User-defined capability
+authorized by a supervisor or manager.
+Apply payments to the oldest items first.
+C.3.5.10.5.2
+Apply any dollar amount that does not cover an entire ticket charge to
+C.3.5.10.5.3
+the next oldest ticket.
+Provide the DMV with the ability to reinstate ticket enforcement status
+C.3.5.10.5.4
+and normal notice in the event of an overdue ticket.
+Plan Reports
+C.3.5.10.6
+28
+
+Generate reports to assist the Department in the oversight of the
+C.3.5.10.6.1 Program, including but not limited to:
+• Funds collected by time period
+• Funds collected by installment Plans
+• Number of plans established
+• Incorrect Payments/Refunds
+• Number of Defaulted Payment Plans
+When the payment received is different from the ticket amount, partial
+C.3.5.10.6.2 payments are applied. If the payment is an overpayment, the additional
+funds are applied to other outstanding tickets, or, if there are no
+additional tickets, the overpayment is refunded.
+Partial Payments. The Contractor shall:
+C.3.5.11
+Accept partial payments when money is received via mail.
+C.3.5.11.1
+Overpayments. The Contractor shall:
+C.3.5.11.2
+Support overpayments with limited automatic refunds as defined below.
+C.3.5.11.2.1
+Apply overpayments to any tickets, Fines, penalties, and Fees based
+C.3.5.11.2.2 upon a definable schedule of priority.
+Info: If additional fees or tickets are found, return the payment to the
+C.3.5.11.2.3 customer.
+Provide the DMV with an online display of the financial history of
+C.3.5.11.2.4 refunded tickets and imaging of documents when applicable.
+Allow subsequent online adjustments in Fines, penalties, and Fees by
+· C.3.5.11.2.5 Authorized Persons to facilitate customer service.
+Invalid Payment Transactions. The Contractor shall:
+C.3.5.12
+Dishonored Checks
+C.3.5.12.1
+Support dishonored check processing.
+C.3.5.1).1.1
+Accept a file from the Check Assist System into Ticket Service; apply
+C.3.5.12.1.2 the bounced check Fee and restart the Treatment Process. (NOTE: As
+funds for checks shall normally be debited at the time of payment,
+bounced checks will only occur if the payment Contractor (e.g.,
+Verisign) service is unavailable and the User must accept the check
+without being able to
+29
+
+determine if there are sufficient funds, and debit the account
+accordingly.)
+Block payment by check when a Customer has a prior dishonored
+C.3.5.12.1.3
+check within X time period (months) defined in a database table.
+Send dishonored check information to the designated District of
+C.3.5.12.1.4
+Columbia System.
+Apply the dishonored check Fee to only one charge defined by the
+C.3.5.12.1.5
+GL Account Code. A predetermined ranking of all GL Account codes
+will determine where the charge is applied. The ranking is user-
+definable.
+C.3.5.12.1
+Retracted Credit Card and Debit Card transactions. The Contractor
+shall:
+C.3.5.12.2.1
+Process credit card and debit card retractions.
+C.3.5.12.2.2
+Accept a file from the Credit/debit card processing System with the
+reversal.
+C.3.5.12.2.3
+Send the retracted charge information to the designated District
+of Columbia System.
+C.3.5.13
+Financial reconciliation
+C.3.5.13.1
+End of Day Closeout - Cashier Window. The Contractor shall:
+C.3.5.13.1.1
+Support reconciliation for Cashier Window/ Counter payments, end of
+day closeout and "virtual" closeout for breaks/lunch, including audit
+capability of the cashier function for all drawer payment methods.
+• C.3.5.13.1.2
+Calculate the totals for each charge type and total due for the Customer.
+C.3.5.13.1.3
+Calculate totals for each payment type and total collected. Includes
+Cash, Check, Credit Card, Debit Card, E-check, money order, and
+certified check.
+C.3.5.13.1.4
+Require the cashier/clerk to calculate and enter the total for each
+C.3.5.13.1.5 payment type separately.
+Compare clerk-entered totals to calculated totals. Calculate and
+C.3.5.13.1.6 identify all adjustments and resulting net payment.
+Produce electronic settlement sheet showing charge types totals
+and total collections. •
+30
+
+Provide the DMV with a printout of the settlement sheet.
+C.3.5.13.1.7
+Provide the DMV with an electronic acceptance by the supervisor
+C.3.5.13.1.8
+(matching drawer contents to electronic settlement).
+Prevent the cashier from proceeding with the next day's work until the
+C.3.5.13.1.9
+previous day's accounts have been reconciled.
+Provide supervisor override for safety measures described above, along
+C.3.5.13.1.10
+with the ability to adjust the accounts and numbers. Track the usage of
+supervisor overrides.
+End of Day Closeout - Service Location. The Contractor shall:
+C.3.5.13.2
+Support reconciliation for all tellers in a service location for any chosen
+C.3.5.13.2.1 period.
+Calculate totals for each charge type and total due for the location.
+C.3.5.13.2.2
+Calculate totals for each payment type and total collected. Includes
+C.3.5.13.2.3
+Cash, Check, Credit Card, Debit Card, E-check, money order, and
+certified check. Calculate all adjustments and resulting net payments for
+all cashiers.
+Produce an electronic settlement sheet showing the total per ticket type
+C.3.5.13.2.4
+and the total collections.
+Provide a printout of the settlement sheet for the DMV.
+C.3.5.13.2.5
+For the DMV, the supervisor must provide electronic acceptance
+C.3.5.13.2.6
+(matching all drawer contents to the electronic settlement sheet)
+controlled by the log-in ID.
+. C.3.5.13.2.7
+Prevent duplicate entry of ticket or payment information
+C.3.5.13.2.8
+Validate and cross-check the following data to help eliminate duplicate
+payments.
+• Ticket number
+• Infraction Type
+• Tag Number
+• Driver's license Number
+• VlN
+• Date/Time
+C.3.5.13.2.9 Image documents are used for exceptions or issues with the payment,
+such as tickets not found in the ticket service.
+31
+
+Provide authorized supervisors the ability to make adjustments to
+C.3.5.13.2.10 payment information. These are defined as financial adjustments.
+Audit. The Contractor shall:
+C.3.5.14
+Include auditing capabilities for transactions.
+C.3.5.14.1
+Support Electronic Auditing.
+C.3.5.14.2
+Generate an automated audit file with all manually processed tickets
+C.3.5.14.3
+received.
+Generate automated audit file with all Handheld and MDT generated
+C.3.5.14.4
+tickets received.
+Generate automated audit file with all automated (red light and photo
+C.3.5.14.5
+radar) tickets generated.
+Generate an automated audit file with all paid tickets by method and
+C.3.5.14.6
+ticket type, along with the user ID of the employee who accepted the
+payment.
+C.3.5.14.7
+Provide data for audits to the DMV, including:
+• VIN or Tag Number
+• . Driver's License Number
+• Notice Number
+• Due Date
+• GL Account Code
+• Amount
+• Ticket Number/s
+• Fine Amount
+• Tow or Boot Fees
+• Penalties
+• Customer Service Representative ID or Employee ID
+• Location ID
+• Payment amount
+• Process Date
+• Transaction Number (assigned by System)
+• Method of Payment/s (Support Split Payments)
+• Transaction Vehicle (check#, credit card#)
+C.3.5.14.8
+Provide an on-line history for Users of all financial adjustments.
+C.3.5.14.9
+Identify all (Parking/Moving/Red-light/Radar) ticket types by separate
+GL Account Codes.
+32
+
+Reflect an online indicator or message advising the adjustment
+C.3.5.14.10
+transaction and the User of the person who made the adjustment.
+Track all Database updates by User, time, date, reason, and location.
+C.3.5.14.11
+The System shall record each financial activity as a separate transaction.
+C.3.5.14.12 •
+This means that if there is a correction, adjustment, cancellation, or
+closure of a previous transaction, the Application tracks the correction,
+adjustment, cancellation, or closure as a separate financial transaction.
+C.3.5.14.13
+Associate the transaction with a general ledger GL Account Code and
+the transaction number.
+C.3.5.14.14
+Capture and store charge information: Posting Date and time, monetary
+amount.
+C.3.5.14.15
+Capture and store transaction information: availability date and time,
+User id, agency, site, and purpose. User id defines who posted the
+financial transaction. Purpose is the reason for the transaction.
+C.3.6 Treatment. The Contractor shall:
+C.3.6.1 Manage the Treatment Process. The Treatment Process defines the
+procedures for handling and communicating with a Customer who is not
+following through on an obligation to pay Fines, Fees, or penalties. The
+functions as written in this section pertain to the Treatment Process.
+C.3.6.2 Assign a Treatment Schedule to the ticket when the Application issues a ticket.
+C.3.6.3 Automatically stop the Treatment Schedule when the Customer pays the
+outstanding balance for the ticket in full.
+C.3.6.4 Automatically halt the Treatment Schedule when the ticket has gone to
+adjudication or a scheduled hearing.
+C.3.6.5 Automatically resume Treatment Schedule for ticket when adjudication
+disposition is unfavorable to Plaintiff.
+C.3.6.6 Treatment Schedule: To facilitate the Treatment Process and provide
+the capability of DMV Users to create and maintain Treatment
+Schedules. The Contractor shall:
+C.3.6.6.1 Automatically add penalties and Fees as the Treatment Schedule
+defines.
+C.3.6.6.2
+Automatically move tickets to the collection as the Treatment Schedule
+defines. These are the default tickets.
+33
+
+Automatically send non-compliance information to the vehicle
+C.3.6.6.3
+Registration System is based on the progression of the Treatment
+Schedule for a ticket issued to a vehicle registration owner, as well as
+when the Customer has satisfied their obligation.
+Automatically send non-compliance information to the driver's license
+C.3.6.6.4
+System based on the progression of the Treatment Schedule for a ticket
+issued to a driver as well as when the Customer has satisfied their
+obligation.
+Automatically send non-compliance information to driver's license
+C.3.6.6.5
+Systems of other jurisdictions based on the progression of the Treatment
+Schedule for a ticket issued to a driver as well as when the driver has
+satisfied their obligation.
+Adjudication. The Contractor shall:
+C.3.7
+Allow a Customer to contest the validity of a traffic Citation through
+C.3.7.1 adjudication. A Customer may contest a ticket issued for Parking
+Infractions, Moving Infractions, and Infractions cited through automated
+and manual moving enforcement. The Customer submits a request to the
+DMV for adjudication by mail, telephone, online, or in person to the. When
+submitting a request for adjudication, the Customer chooses between two
+different formats for the adjudication: (1) a review of records by
+adjudicator alone or (2) a face-to-face review of records by Customer and
+adjudicator.
+Parking tickets are typically adjudicated on a walk-in basis while moving
+C.3.7.2 violations are scheduled as the Law Enforcement officer is required to be
+present at the hearing. Customers may, however, waive their right to have
+the officer present and submit a written defense for consideration by the
+hearing examiner. Additionally, photo enforcement ticket hearings must
+be scheduled in advance to allow the government an opportunity to
+prepare the case jacket.
+Adjudication Request: Accept and process adjudication requests. The
+C.3.7.3 Contractor shall:
+Provide the capability for a Plaintiff to make a request for adjudication
+C.3.7.3.l person.
+Provide the capability for a Plaintiff to make a request for adjudication
+C.3.7.3.2
+by telephone.
+Provide the capability for a Plaintiff to make a request for adjudication
+C.3.7.3.3
+by mail. Provide a queuing process for multiple reviewers of mail
+34
+
+adjudications and capability for decisions to be documented and
+, processed.
+Provide the capability for a Plaintiff to make a request for adjudication
+C.3.7.3.4
+online.
+Ensure that a ticket is eligible for hearing based on when in the
+C.3.7.3.5
+Treatment Schedule process the request is received.
+Automatically place a ticket in the Plaintiffs Case Folder when the
+C.3.7.3.6
+Application has approved it for adjudication.
+Automatically request parking meter status from the DDOT meter
+C.3.7.3.7
+System when the Application has approved a parking meter ticket for
+adjudication.
+Automatically stop Treatment Schedule when DMV approves
+C.3.7.3.8
+adjudication for a ticket.
+Case Folder: To ease the review process during hearings, assemble and
+C.3.7.4 store a folder (package) that contains all information regarding one or
+more tickets that are heard together. The Contractor shall:
+Enable multiple tickets to be included in a single Case Folder.
+C.3.7.4.1
+Include information in the Case Folder pertaining to each ticket.
+C.3.7.4.2
+Include contact information about the Plaintiff.
+C.3.7.4.3
+Include digital Images associated with tickets.
+C.3.7.4.4
+Include organization information (if any): organization name,
+. C.3.7.4.5 organization identification, Application date, address, telephone
+number, and e-mail address.
+Include ticket information: ticket number, vehicle information, Sighting
+C.3.7.4.6 Information, Infraction information, driver contact information, and
+contact information about the vehicle registration owner, contact
+information about the vehicle title owner, Customer comments, and
+official comments.
+Include any financial information: payments, refunds, and correction.
+C.3.7.4.7
+Include any Correspondence: outgoing Correspondence and incoming
+C.3.7.4.8 Correspondence.
+35
+
+Include Images of any material provided by the Plaintiff.
+C.3.7.4.9.
+Include parking meter status if available.
+C.3.7.4.10
+Assign a case number.
+C.3.7.4.11
+Adjudication Queue: To organize and manage the adjudication
+C.3.7.5 process, maintain a queue for unscheduled reviews. The Contractor
+shall:
+Maintain a queue for mail in cases reviewed by the adjudicator alone.
+C.3.7.5.1 When an adjudicator signs onto the System for mail adjudication
+reviews, the next case in queue will be presented for their review. In
+mail adjudication and in-person hearings the hearing record will allow
+the adjudicator to enter extensive comments related to the disposition, in
+addition to containing boilerplate legal references.
+Maintain a queue for unscheduled hearings reviewed by the adjudicator
+C.3.7.5.2
+and the Plaintiff.
+Maintain a queue for unscheduled online hearings reviewed by the
+C.3.7.5.3
+adjudicator and the Plaintiff.
+Calculate an approximate hearing time for unscheduled hearings based
+C.3.7.5.4
+on number of tickets to adjudicate in the queue, the average duration for
+adjudication, and the hours of operation.
+Traffic Enforcement Officer Schedule: To facilitate the presence of
+C.3.7.6 traffic enforcement officers, maintain and communicate a schedule of
+hearings for the traffic enforcement officers. The Contractor shall:
+Maintain availability schedule for traffic enforcement officers.
+C.3.7.6.1
+Use the availability schedule of the traffic enforcement officer when
+C.3.7.6.2
+scheduling hearings where the presence of the traffic enforcement
+officer is needed.
+Automatically send an electronic notification to the enforcement agency
+C.3.7.6.3 of scheduled hearings.
+Interpreter Schedule: To facilitate the presence of interpreters,
+C.3.7.7 maintain and communicate a schedule of hearings for the interpreters.
+The Contractor shall:
+Maintain availability schedule for interpreters.
+36
+
+Use the availability schedule of the interpreter when scheduling
+• C.3.7.7.2 hearings where the presence of the interpreter is needed.
+'
+Automatically send an electronic notification to the interpreter of
+C.3.7.7.3
+scheduled hearings.
+Scheduling: To service Customers who request adjudication hearings,
+C.3.7.8 maintain a schedule defining when a Customer is available for a review.
+The Contractor shall:
+Maintain a schedule for all hearings
+C.3.7.8.1
+C.3.7.8.2 Automatically schedule the hearing based on the availability of the
+officer(s) who issued the ticket(s).
+C.3.7.8.3 Automatically schedule the hearing based on the availability of an
+interpreter if needed.
+C.3.7.8.4 Default a scheduled hearing to the first available time.
+C.3.7.8.5 Enable the Plaintiff to reschedule a hearing one time, seventy-two hours
+in advance.
+C.3.7.8.6 Enable manual change of a hearing time by authorized Users.
+C.3.7.9 Notification: To communicate information, status, and decisions to the
+Customer; integrate with the notification function. The Contractor shall:
+C.3.7.9.1 Generate Notice when:
+• the Application denies a request for adjudication or
+• the adjudicator enters a disposition in a case or
+• the Application schedules a hearing or
+• the Plaintiff fails to appear for a scheduled hearing or
+• the Application reschedules a hearing or
+• the Plaintiff has exceeded its limits for the number of
+times the Plaintiff can reschedule a hearing
+C.3.7.9.2 Gather information needed for a photo enforcement Notice to include
+any digital Images associated with the Infraction.
+C.3.7.9.3 Assign Notice Type.
+C.3.7.9.4 Assign any insert identifier.
+C.3.7.9.5 Assign Delivery Type.
+37
+
+Pass delivery address as defined by the Delivery Type. Examples of
+C.3.7.9.6
+addresses are mailing address, e-mail address, instant message (IM)
+address, and printer address.
+Post Decision Activities. The Contractor shall:
+C.3.7.10
+Automatically resume Treatment Schedule for ticket when adjudication
+C.3.7.10.l
+disposition is unfavorable to the Plaintiff.
+Automatically close a ticket when adjudication disposition is favorable
+C.3.7.10.2
+to the Plaintiff.
+Capture Disposition Code, notes from the adjudicator, and date and time
+C.3.7.10.3
+of resolution when a hearing adjudication is resolved.
+Include Disposition Code, notes from the adjudicator, and date and time
+C.3.7.10.4
+of resolution in the Case Folder.
+Enable the adjudicator to waive or reduce a ticket Fine.
+C.3.7.10.5
+Enable the adjudicator to waive or reduce a Fee associated with a ticket.
+C.3.7.10.6
+Automatically provide final disposition letter to the Plaintiff.
+C.3.7.10.7
+Miscellaneous. The Contractor shall:
+C.3.7.11
+Enable a Plaintiff to contest multiple tickets for multiple vehicles in a
+C.3.7.11.1
+single hearing. All tickets are included in a single Case Folder.
+Facilitate online access to the Case Folder.
+C.3.7.11.2
+Appeal. After an adjudicator has upheld a ticket, the Customer may appeal
+C.3.7.12
+the decision. The Customer submits a request for appeal by mail,
+telephone, online, or in person. The Appeals Court then reviews the appeal
+behind closed doors. Unless otherwise noted, the Contractor shall:
+Accept and process appeal requests.
+C.3.7.12.1
+Ensure that a ticket is eligible for appeal based on how long after the
+hearing disposition the hearing request is filed. (For mail-in requests,
+C.3.7.12.2
+the appeal is filed on the date the request is postmarked. For walk-in
+requests, the appeal is filed on the date Customer makes the request. For
+telephone requests, the appeal is filed on the date the Customer calls to
+make the request. For online requests, the appeal is filed on the date the
+Customer makes the online request.)
+38
+
+Ensure that a ticket is eligible for appeal based on whether the Plaintiff
+C.3.7.12.3
+has fulfilled its financial obligation relating to the ticket it wants to
+appeal.
+C.3.7.12.3.l Plaintiff has paid all Fines, penalties and Fees associated with the ticket.
+C.3.7.12.3.2 Plaintiff has paid the appeal Fee.
+Plaintiff has paid any transcript Fees associated with the appeal, if
+C.3.7.12.3.3
+applicable.
+Make a transcript request (printed and digital file) for appeals regarding
+C.3.7.12.4
+tickets for Moving Infractions.
+Capture the Disposition Code to indicate that the appeal is processed if
+C.3.7.12.5
+the Plaintiff has satisfied the preconditions for appeal before the end of
+the appeal period. The Disposition Code shall trigger the generation of
+an acknowledgement of receipt Notice to the Customer
+Automatically update the Disposition Code to indicate that the appeal is
+C.3.7.12.6
+dismissed if the Plaintiff has not been able to satisfy the preconditions
+for appeal before the end of the appeal period. The Disposition Code
+shall trigger the generation of an appeal dismissal letter to the Customer.
+Case Folder: To ease the review process during hearings, assemble and
+C.3.7.13
+store a folder that contains all information regarding one or more tickets
+that are heard together. The Contractor shall:
+Use the same Case Folder for the appeal review as was created for the
+C.3.7.13.1
+adjudication review.
+Appeals Queue: To organize and manage the appeals process, maintain
+C.3.7.14
+a queue or schedule for appeals. The Contractor shall:
+C.3.7.14.1 Maintain a schedule or queue for cases reviewed by the Appeals Board.
+C.3.7.14.2 Maintain User definable thresholds for the number of cases in a queue.
+Generate an alert for the supervisor when the number of cases in a
+C.3.7.14.3
+queue exceeds the threshold.
+Transcript: To ensure that all available information about a ticket is
+C.3.7.15
+Captured, maintain and store transcripts. The Contractor shall:
+Capture an image of the court transcript as well as the digital Audio
+C.3.7.15.1
+File.
+39
+
+Miscellaneous. The Contractor shall:
+C.3.7.16
+Enable a Plaintiff to contest multiple tickets for multiple vehicles in a
+C.3.7.16.1
+single hearing. All tickets are included in the same Case Folder.
+Provide online access to the Case Folder to authorized Users.
+C.3.7.16.2
+Capture Disposition Code, and date and time of resolution when an
+C.3.7.16.3
+appeal is resolved.
+Notify DMV of Disposition Code when an appeal is resolved.
+C.3.7.16.4
+Notification
+C.3.8
+Notification: To communicate information, status, and decisions to the
+C.3.8.1
+Customer, in support the notification function. The Application uses a
+notification service to format and distribute Correspondence. The
+Contractor shall:
+Generate a Notice when
+C.3.8.1.1
+• the Application accepted a request for appeal
+• the Application dismisses a request for appeal
+• the judge enters a disposition for au appeal
+• the Plaintiff fails to appear for an appeal
+•
+Correspondence. To fulfill its tasks to assist in the ticketing process,
+C.3.8.2
+store digital image and information on all incoming aud outgoing
+Correspondence. The functions as written in this section pertain to tracking
+Correspondence. Unless otherwise noted, the Contractor shall:
+Tracking Correspondence: To support the adjudication process,
+C.3.8.2.1
+Capture all Correspondence.
+Track each Notice as the Application generates it.
+C.3.8.2.1.1
+Facilitate the imaging Capture of outgoing Correspondence. If the
+C.3.8.2.1.2
+Notice is computer-generated, ensure a 'copy' of the Notice as printed is
+attached to the infraction. If the Notice is a back-office-generated letter,
+provide the capability to Capture the document in the ticket processing
+service and link it to the appropriate record.
+Facilitate the imaging and Capture of conventional incoming
+C.3.8.2.1.3
+Correspondence.
+Facilitate the Capture of incoming electronic Correspondence.
+C.3.8.2.1.4
+40
+
+Facilitate the Capture of telephone Correspondence.
+C.3.8.2.1.5
+Capture postmarked mailing date, Correspondence Type, name of
+C.3.8.2.1.6
+sender, and address of sender.
+Facilitate the linkage of Correspondence information to a ticket number.
+C.3.8.2.1.7
+Facilitate the linkage of Correspondence information to a vehicle
+C.3.8.2.1.8
+registration.
+Facilitate the linkage of Correspondence information to a driver's
+C.3.8.2.1.9
+license.
+Parking and moving violation Enforcement. Assist the traffic
+C.3.9
+enforcement officer in gathering ticket information. The functions as
+written in this section pertain to the parking enforcement. The Contractor
+shall provide the following data to Law Enforcement:
+Exchange information. The Contractor shall:
+C.3.9.1
+Provide vehicle and model based on Tag Number.
+C2.9.l.1
+Provide driver information based on vehicle primary owner.
+C2.9.l.2
+When traffic tickets are issued, check to see if the vehicle is eligible for
+C2.9.l.3
+other tickets.
+Automatically determine if the vehicle registration owner's record
+C2.9.l.4
+warrants tickets for other Infractions.
+Determine if Law Enforcement wants the vehicle (stolen or used in
+C2.9.l.5
+criminal activity).
+Provide vehicle description based on Tag Number.
+C2.9.l.6
+Determine if the vehicle is eligible for Booting or towing.
+C2.9.l.7
+Determine if the vehicle in its current location is violating any parking
+C2.9.l.8
+restrictions.
+Determine if the vehicle was towed to its current location. If so, the
+C2.9.l.9
+vehicle is generally not eligible for further tickets resulting from the
+vehicle's location.
+Determine if the vehicle registration has expired.
+C2.9.l.10
+41
+
+Determine if the vehicle warrants tickets for other Infractions.
+C2.9.l.11
+'Ticket Reassignment: To allow Capture of reassigned liability on a
+C.3.9.2
+photo enforcement ticket, provide functionality to District Users to
+reassign the ticket to the responsible party. The Contractor shall:
+Provide capability for District User reassignment of moving and parking
+C.3.9.2.1
+enforcement tickets that are issued to a vehicle registered by a
+participant of the Fleet Program to the driver's license holder at the
+request of the Fleet Program participant.
+Capture responsible party driver's license number and address and
+C.3.9.2.2
+validate new responsible party's Driver License Number to determine if
+it is an active driver license. Search Destiny for the DL if a DC driver;
+otherwise, search NLETS or pass-through WALES for validation of
+non-DC driver licenses.
+Enable the reassignment of responsible party to be rolled back. This is
+C.3.9.2.3
+necessary if the newly assigned responsible party denies responsibility,
+or if the reassigned DL provided by the Customer, is not valid.
+Assign Treatment Schedule to ticket when the Application reassigns the
+C.3.9.2.4
+ticket.
+Handwritten Ticket Issuance: The ticketing service shall have the
+C.3.9.3
+capability to Capture and process handwritten ticket data. The
+Contractor shall:
+Gather Information: The Application Captures information from
+C.3.9.3.1
+handwritten tickets.
+Capture Image of handwritten tickets.
+C.3.9.3.2
+· C.3.9.3.3 Capture information on handwritten ticket.
+Capture information pertaining to the Parking Infraction.
+C.3.9.3.4
+Capture information pertaining to the Moving Infraction.
+C.3.9.3.5
+Read ticket information from ticket (using Optical Character
+C.3.9.3.6
+Recognition (OCR) or bar code): ticket number.
+Use imaging technology to automate data Capture when possible.
+C.3.9.3.7
+Ensure that the System generated ticket numbers do not duplicate the
+C.3.9.3.8
+ticket numbers in the manual ticket books.
+42
+
+C.3.10 Booting and Towing. Manage the Booting and towing process. The
+' functions as written in this section pertain to the Booting enforcement
+The Contractor shall:
+C.3.10.1 Boot Eligibility: Determine if a vehicle is eligible for Booting based
+upon a file downloaded daily to the DPW SFTP Server and then
+downloaded by DPW to the Handheld Devices.
+C.3.10.1.1 Enable the assignment of one or more evaluation rules to a tracking
+type.
+C.3.10.1.2 Automatically determine when vehicles are eligible for Booting.
+C.3.10.2 Tow Eligibility. The Contractor shall:
+C.3.10.2.1 Automatically determine if a Booted vehicle is eligible for towing based
+on how long it has been Booted.
+C.3.10.2.2 Consider business days on the calendar when determining if the vehicle
+is tow-eligible.
+C.3.10.2.3 Notify the towing System with a file downloaded when a Booted
+vehicle becomes tow-eligible.
+C.3.10.3 Fee: There is a Fee associated with Booting a vehicle. The Contractor
+shall:
+C.3.10.3.1 Provide the capability to the District User to apply a Booting Fee to a
+vehicle. Provide the capability to apply a Boot Escape Fee when the
+Boot is removed by the Customer.
+C.3.10.4 Boot Release: When an owner satisfies the conditions that led to the
+Boot, the Boot Crew releases the Boot on the owner's vehicle. The
+Contractor shall:
+C.3.10.4.1 Automatically place vehicles in the release queue when they are eligible
+for release.
+C.3.10.4.2 Show in the Boot Queue vehicles that are eligible for Boot Release.
+C.3.10.4.3 Towing and impoundment: Support the towing and impoundment
+process. The functions as written in this section pertain to the towing
+and impoundment process. Unless otherwise noted, the Contractor shall:
+C.3.10.4.4 Download a file to the DPW SFTP Server containing vehicles that are
+43
+
+eligible for towing. A vehicle is eligible for towing if the type of
+Infraction defines that DPW must tow the vehicle.
+C.3.10.4.5 Automatically determine if a vehicle is eligible for towing. A vehicle is
+eligible for towing if DPW has Booted it for a certain period.
+C.3.10.4.6 Notify the towing System about vehicles that are tow-eligible.
+C.3.10.4.7 Notify the towing System about vehicles that are eligible for release.
+Vehicles are eligible for release when all outstanding tickets are paid or
+adjudicated.
+C.3.10.5 Fees: There is a Fee associated with towing and storing a vehicle. The
+Contractor shall:
+C.3.10.5.1
+Obtain towing Fee from towing System.
+C.3.10.5.2
+Obtain storage Fee from towing System.
+C.3.11
+FLEET PROGRAM
+C.3.11.1
+The Application manages the Fleet Programs. The requirements as written
+in this section pertain to the governmental, commercial, and rental Fleet
+Programs. Unless otherwise noted, the Contractor shall:
+C.3.11.2
+Program Maintenance
+C.3.11.2.1
+The Contractor manages the Fleet Program.
+• Facilitate the Fleet application process.
+• Facilitate a mail-in application process.
+• Facilitate an online application process.
+• Generate a contract for Customer signature.
+• Facilitate the Fleet set-up process.
+• Facilitate the maintenance of corporate information.
+• Facilitate the maintenance of Fleet information.
+• Facilitate the Fleet termination process.
+C.3.11.3
+Eligibility. The Contractor shall:
+C.3.11.3.1
+Verify that an applicant is eligible to participate in the Fleet Program.
+C.3.9113.2
+Validate eligibility requirements for a company or agency to participate
+in the Fleet Program.
+C.3.11.3.3
+Fleet companies must either own or have long-term lease agreements on
+the vehicles.
+44
+
+C.3.11.3.4 Fleet companies must register five or more commercial vehicles.
+C.3.11.3.5 Fleet companies must not have any outstanding parking tickets to register.
+C.3.11.4 Payee Management. The Contractor shall:
+C.3.11.4.1 To support the Fleet Program, the Application allows for the reassignment
+of financially responsible party.
+C.3.11.4.2 Facilitate the reassignment of responsible payment party.
+C.3.11.4.3 Send ticket to new responsible party.
+C.3.11.4.4 Assign Treatment Schedule to ticket when the Application reassigns the
+ticket.
+C.3.11.4.5 The Application presents information in a manner that allows the viewer
+to accomplish its task in the most efficient manner.
+C.3.11.5 Display summary. The Contractor shall:
+C.3.11.5.1 Display program summary information: company name, company
+address, certifying official's name, and certifying official's telephone
+number.
+C.3.11.5.2 Display summary information for each vehicle: vehicle registration
+number, and internal vehicle identification.
+C.3.11.5.3 Display summary ticket information for each vehicle: ticket number, issue
+date, Infraction Type, and monetary amount due.
+C.3.11.5.4 Display adjudication status for each adjudicated ticket: hearing schedule
+or disposition.
+C.3.11.6 Display details. The Contractor sha11:
+C.3.11.6.1 Display program detail information: company name, company address,
+certifying official's name, and certifying official's telephone number,
+company identification, application date, termination date, and approval
+code.
+C.3.11.6.2 Display detailed information for each vehicle: vehicle registration number,
+state, registration expiration date, Vehicle Identification Number (VIN),
+vehicle make, color, body style, internal vehicle identification, and vehicle
+owned/leased.
+45
+
+Display adjudication status for each adjudicated ticket: hearing date,
+C.3.11.6.3
+, disposition, adjudicator code, and all ticket payment information.
+.
+•
+Allow a User to print displayed information for offline viewing.
+C.3.11.6.4
+C.3.11.6.5 Allow a User to export displayed information to a file that can later be
+imported in other Applications, such as spreadsheets and documents, for
+documentation and analysis.
+C.3.11.7 Miscellaneous. The Contractor shall:
+C.3.11.7.1 Exempt Fleet vehicles from Booting, but not from towing.
+C.3.11.7.2 Exclude non-vehicle based tickets from the Fleet Program.
+C.3.11.8 Treatment Schedule. The Contractor shall:
+C.3.11.8.1 To facilitate the Treatment Process, facilitate the creation and maintenance
+of User defined Treatment Schedules.
+C.3.11.8.2 Enable the assignment of separate Treatment Schedules to Fleet ticket.
+C.3.11.9 Rental Fleet Application. The Contractor shall:
+C.3.11.9.l Capture information about rental Fleets.
+C.3.11.9.2 Capture contact information: certifying corporate official.
+C.3.11.9.3 Capture Fleet information: vehicle information, internal vehicle
+identification, and vehicle owned/leased.
+C.3.11.9.4 Capture application information: company identification, application
+date, termination date, reason for termination, and approval code.
+C.3.11.10 Government Fleet Application. The Contractor shall:
+C.3.11.10.1
+Capture information about government Fleets.
+C.3.11.10.2
+Capture contact information: certifying agency official.
+C.3.11.10.3 Capture Fleet information: vehicle information, internal vehicle
+identification, and vehicle owned/leased.
+C.3.11.10.4 Capture application information: agency identification, application date,
+termination date, reason for termination, and approval code.
+46
+
+Fleet Program Reporting. Manage the Fleet Programs for ticket
+C.3.11.10.5
+processing. The functions as written in this section pertain t the
+governmental, commercial, and rental Fleet Programs. Unless otherwise
+noted, the Contractor shall:
+Status Reports: Generate and notify Fleet Program participants and
+C.3.11.11
+certifying officials of the availability of their regularly scheduled
+reports.
+C.3.11.11.1 Generate regularly scheduled Notices to the Fleet Program participants
+and certifying officials on tickets issued to vehicles registered in the
+Fleet Program, the current status of those tickets including payments
+made and hearings requested, and vehicles registered in the program.
+C.3.12 Remote Devices. The Contractor shall:
+C.3.12.1 Remote Devices - General. Capture and process information gathered
+with remote devices, such as handheld devices and mobile data units. The
+functions as written in this section pertain to Modular Handheld Devices
+and MDTs and the function of these remote devices. Unless otherwise
+noted, the Contractor shall provide the following capability:
+C.3.12.2 Gather Information: Capture information resulting from any activities
+relating to parking or moving enforcement using a daily file upload
+from the DPW SFTP Server or from other manual Tickets entered by
+the contractor. The Contractor shall:
+C.3.12.2.1 Gather information pertaining to parking enforcement.
+C.3.12.2.2 Gather information pertaining to time tracking.
+C.3.12.2.3 Gather information pertaining to moving enforcement.
+• C.3.12.2.4 Gather information pertaining to registration of out-of-state automobile
+enforcement (ROSA).
+C.3.12.2.5 Gather information pertaining to Boot enforcement.
+C.3.12.2.6 Gather information pertaining to towing enforcement.
+C.3.12.2.7 Gather information pertaining to meter functionality.
+C.3.12.3 Data Availability: To enable a parking or traffic enforcement officer to
+effectively enforce parking and moving restrictions, provide access to
+vital information. The Contractor shall:
+47
+
+Obtain a batch file daily from DMV with vehicle registration
+C.3.12.3.1
+information.
+Search on the VIN or Tag Number to determine if the vehicle or tag is
+C.3.12.3.2
+stolen or wanted.
+If the vehicle is wanted by Law Enforcement, alert the officer who Cited
+C.3.12.3.3
+the vehicle that the vehicle is wanted by Law Enforcement.
+Maintain residential Parking Zone information.
+C.3.12.3.4
+Maintain up-to-date Infraction Type data.
+C.3.12.3.5
+Maintain up-to-date ticket forms.
+C.3.12.3.6
+Have access to up-to-date meter inventory information.
+C.3.12.3.7
+Inquiry: Present information in a manner that allows the traffic
+C.3.12.4
+enforcement officers to accomplish their tasks in the most efficient
+manner.
+Provide capability to inquire on tickets.
+C.3.12.4.1
+Inquire on ticket based on vehicle Tag Number.
+C.3.12.4.2
+Inquire on ticket based on Vehicle Identification Number (VIN).
+C.3.12.4.3
+Retrieve vehicle activity information based on vehicle Tag Number.
+C.3.12.4.4
+Obtain a file daily from DMV with Vehicle Identification Number
+C.3.12.4.5
+(VIN).
+Retrieve ticket activity information based on ticket number.
+C.3.12.4.6
+Retrieve ticket activity information based on sighting location.
+C.3.12.4.7
+Retrieve ticket activity information based on badge id.
+C.3.12.4.8
+Retrieve ticket activity information based on any combinations of these
+C.3.12.4.9
+parameters.
+Remote Devices - Cameras. Accept digital Images, from the MPD Red
+C.3.12.5
+Light and Photo Radar Ticket. The functions as written in this section
+pertain to the Capture and use of Images. Unless otherwise noted, the
+Contractor shall:
+48
+
+Capture Infraction information directly from the MPD application:
+C.3.12.5.1
+camera identification, date and time, sighting location, Infraction Type,
+maximum allowable vehicle speed, speed of the vehicle, maximum
+allowable vehicle height, height of vehicle, reliability information,
+badge id (for radar cameras), beat number, and agency.
+Review Process by MPD Prior to Entry into the Ticketing Service
+C.3.12.6
+An authorized officer from MPD shall review queued images from the
+C.3.12.6.1
+Red Light Contractor and approve the issuance of a ticket resulting from
+an Infraction Captured by a traffic camera. If the officer does not deem
+that the photo is sufficient for a ticket, Capture the photo in a file in the
+ticketing System for rejected photos along with the date and officer ID
+and an explanation for the rejection. This information can be accessed
+by camera number, date, officer ID, and location. Otherwise, if the
+officer deems the photo Captured the violation, the Contractor shall:
+Provide security to ensure access and approval is limited to MPD
+C.3.12.6.2
+officers.
+Accept ticket approval from the MPD System.
+C.3.12.6.3
+Attach to current record for that driver or vehicle or create new record
+C.3.12.6.4
+using the Tag Number.
+Send the traffic ticket Captured from a traffic camera to the vehicle
+C.3.12.6.5
+registration owner. The Notice shall contain the Image and pertinent
+information. The Notice shall be generated within 72 hours.
+Generate a Notice of Infraction on MPD letterhead.
+C.3.12.6.6
+Back-Office Service
+C.4
+Background
+C.4.1
+The Contractor shall provide the personnel, and equipment required in
+handling all Correspondence processing (e.g., payments), manual ticket
+processing, mail-in adjudication, documents imaging and all back
+office-related activities associated with ticket services. The Contractor
+shall also provide office space to the District, located within the District,
+for this operation and include at least two offices for DMV staff.
+49
+
+C.4.2 PROCESS REQUIREMENTS
+C.4.2.1 Manual Processing
+Although the majority of tickets will be electronically Captured, the
+C.4.2.1.1
+Contractor shall support manual work required to process (e.g., imaging
+and data entry and payment processing) mail-in requests and manual
+ticket processing. The mail-in requests include ticket payments that
+should go to the lockbox operation but are sent by mistake directly to
+DMV or are deposited in the DMV lobby box. (Note: In general, all
+payments for a DMV ticket transaction should process directly to the
+lockbox operation but this does not always occur as desired.)
+Additionally, other activities include requests for adjudication actions,
+hearing scheduling, refund processing, appeals, consolidated payments
+(i.e., one payment for multiple ticket transactions), research and
+problem resolution, and all other back-office related activities handled
+by the DMV in reference to ticket processing. Each request may have
+more than one item or action that is required. The detail of how to
+handle each is provided below.
+C.4.2.2 Mail-in Ticket Payments
+The Contractor may receive mail-in payments. This includes all types of
+C.4.2.2.1
+tickets. A Lockbox P.O. Box number is provided on tickets for the
+Customer to mail payment. Some Customers, however, do not use the
+PO Box; rather, they send their payment direct to DMV. The P.O. Box
+number relates to the lockbox service which is a separate CONTRACT.
+The Back-Office service, however, will also handle receipt of mail that
+should have gone to the lockbox but was inadvertently sent directly to
+DMV. The System or Contractor shall provide the following to the
+District in support of mailed payments:
+C.4.2.2.2 Process the mailed tickets and payments. This includes:
+• Provide a courier to collect the items from the DMV
+service centers. Date and time-stamp each.
+• Scan the documents, including the envelopes, into the
+System, along with validations. Ensure postmark is Captured.
+• Record the receipt of payment.
+• Capture and process into the System all Data Elements
+necessary from each ticket and payment.
+C.4.2.2.3 Scan (i.e., a bar code will be present on all documents generated by the
+System to expedite finding the record in the ticket System). The
+50
+
+Contractor shall enter the Data Elements, including but not limited to
+the following, if available:
+C.4.2.2.3.1 • Tag Number for quality control edits (verifies correct
+record, Double Blind entry if not obtained using Barcode)
+• Operator ID (automatically Captured by the System in
+most cases based on login ID)
+• Process Date
+• Amount Paid (Double Blind entry)
+• Check Number
+• Method of Payment
+• Notice Number
+• Notice Date (delinquent) if applicable
+C.4.2.2.4 Information on the type of Notice to generate is addressed in the ticket
+processing service provider SOW. Capture ticket data for audit
+purposes, when the ticket is not found in the System. (This may occur,
+for example, if someone receives a hand written ticket and comes in to
+pay before the ticket book is turned in for processing.) This goes into
+the Ticket System.
+C.4.2.2.4.1 • Operator ID
+• Process Date
+• Tag Number (Double Blind entry)
+• Drivers License Number, if applicable.
+•
+Ticket Amount
+• Amount Paid (Double Blind entry)
+• Check Number
+• Method of Payment
+• Notice Date (delinquent) if applicable
+• Notice Type if applicable
+• Ticket Number
+C.4.2.2.5 Generate report of payments received.
+C.4.2.2.5.1 Generate reports electronically, with remote viewing capabilities.
+C.4.2.2.5.2 Generate daily report showing tickets awaiting verification and
+reconciliation purposes prior to deposit.
+C.4.2.3 Support error status resolution. The Contractor shall:
+C.4.2.3.1 Assign error status codes to support all potential errors to include but
+not limited to:
+51
+
+C.4.2.3.2 Ticket number invalid.
+C.4.2.3.3 ' Program ID invalid: Fleet Program, Rental Program, or Installment
+Plan.
+C.4.2.3.4 Resolve all errors within 24 hours depending upon System availability
+(not counting System downtime).
+C.4.2.3.5 Contract, at Contractor's expense, an outside audit firm approved by the
+District to perform audits of all activity and financial transactions every 3
+months.
+C.4.2.4 Manual Ticket Processing.
+C.4.2.4.1 Approximately 20% of the District Parking Tickets are written by
+District enforcement officers using manual ticket books. fu addition to
+photo enforcement, moving violations are issued by District police
+using manual ticket books. Volumes are expected to be 450,000 -
+550,000 annually initially, but may decrease as MDT and hand-held
+devices proliferate. The Contractor shall process these tickets. The
+Contractor shall:
+1. Provide automated ticket stock to be utilized by ticket writers using
+remote handheld devices and MDTs. Ticket stock specifications must be
+linked to the technical requirements of the remote handheld devices and
+MDTs used and the needs of DPW or other using agencies.
+2. Maintain inventory control and coordinate inventory levels.
+3. Include, on invoices to the District, direct costs for ticket printing that
+shall be reimbursed by the District.
+4. Be responsible for the proper functioning of ticket stock for the
+intended purpose.
+C.4.2.4.1.1 Process tickets for parking and moving violations. These tickets can
+come from a variety of agencies, including MPD, DPW, GAO, Capital
+Police, Park Police, and other enforcement agencies.
+C.4.2.4.1.2 Date and time stamp all tickets processed and assign a batch number (if
+processed in batch mode).
+C.4.2.4.1.3 Manually code issuing agency number and violation, and key all Data
+Elements with double-blind verification, to include:
+Parking tickets: ticket number, date/month/year/time, Tag Number,
+state code, vehicle make, vehicle location (including quadrant),
+violation code, meter number, Fine amount, issuing agency, badge
+number, and any comments noted on the back of the ticket. For voided
+tickets, the System shall reflect the dollar amount as $0.
+52
+
+Moving tickets: operator permit number, ticket number,
+date/month/year/time, Tag Number, state code, vehicle make, violation
+Iocation (including quadrant), violation code, indicator if hazardous
+material or CDL license, Fine amount, issuing agency, badge number,
+CAD number and accident number. For warning tickets, the System
+shall reflect the dollar amount as $0.
+• Reconcile tickets to the number of records updated and dollar
+C.4.2.4.1.3.1
+amounts to dollar value written on tickets
+• Perform edit processing and research edit discrepancies
+• Generate balancing reports
+• Store tickets for a minimum period of one year, and retrieve any
+individual ticket from storage upon User request
+The data on the vehicle and owner, if not on the ticket, will be obtained
+C.4.2.4.1.4
+by the service provider from various sources to populate the ticket
+record.
+Enter manual tickets into the Ticket System by the end of the next
+C.4.2.4.1.5
+business day.
+Provide error status resolution. The Contractor shall:
+C.4.2.4.1.6
+Assign error status codes to support all potential errors to include but
+C.4.2.4.1.6.1
+not limited to invalid Infraction code and missing information
+Resolve 95% of all errors within 24 hours working with District
+C.4.2.4.1.6.2
+Employees. After 24 hours the remaining 5% should be couriered over
+to the "C" street DMV site, with attention to the Hearing Support Manager.
+Mail-in Adjudication
+C.4.2.4.1.7
+The Customer can either pay a ticket or request adjudication. Adjudication
+• C.4.2.4.1.7.1 encompasses an in-person hearing request for moving or radar tickets, a
+request for resolution via mail, web adjudication, re- scheduling of
+hearings, and potential appeals. The Contractor shall process all of related
+mail appropriately into the Ticket System. The Contractor shall:
+Provide one Post Office box for adjudication requests that are mailed. The
+Contractor has the option to obtain more than on PO box to be used for
+C.4.2.4.1.7.2 each ticket type, allowing pre-sorting.
+53
+
+Accept and scan all documents provided for the following requests.
+C.4:2.4.1.8
+In-person hearing schedule request.
+C.4.2.4.1.8.1
+Adjudication by mail including back-office support of the Fleet
+C.4.2.4.1.8.2
+Adjudication program.
+Rescheduling of hearing
+C.4.2.4.1.8.3
+Appeals. The Contractor shall:
+C.4.2.5
+C.4.2.5.1 Process the requests into the Ticket System. This includes capturing the
+Data Elements necessary from the requests and processing the data
+appropriately. (Details below)
+C.4.2.5.2 Process any requests placed in the drop box. This will include providing a
+courier to pick up from each service center (and also deliver to each service
+center.) This will include, for example, transactions that are incomplete
+and need to be researched by DMV staff. This also includes capturing the
+Data Elements necessary from the requests and processing the data
+appropriately.
+C.4.2.6 Correspondence. The Contractor shall:
+C.4.2.6.1 Date and time stamp all requests.
+C.4.2.6.2 Enter requests directly into the Ticket System. The ticket information will
+be automatically populated if a barcode is available, but the Contractor
+shall enter the Data Elements; including but not limited to:
+C.4.2.6.2.1 Employee ID for processing clerk
+C.4.2.6.2.2 Process Date
+C.4.2.6.2.3 Type of request (i.e., mail-in adjudication, schedule hearing, reschedule
+hearing appeals); this shall entail reading of the Correspondence content
+and designation of a workflow queue into which the Correspondence
+should be electronically routed for further processing by DMV staff.
+The Correspondence shall be electronically indexed to the associated ticket
+number.
+C.4.2.6.2.4 Notice Date (delinquent) if applicable
+C.4.2.6.2.5 Notice Type if applicable
+C.4.2.6.3 Capture and store adjudication request information for audit purposes
+54
+
+when ticket is not found in Ticket System. This can occur when a ticket is
+manually issued to a Customer, and the ticket has not been turned in '
+for processing
+C.4.2.6.3.1 Process Date
+C.4.2.6.3.2 Tag Number (if provided)
+C.4.2.6.3.3 Driver’s License Number (if
+provided) C.4.2.6.3.4 Ticket Amount
+C.4.2.6.3.5 Notice Date (if applicable)
+C.4.2.6.3.6 Notice Type (if applicable)
+C.4.2.6.3.7 Process all adjudication requests within one business day.
+C.4.2.6.3.8 Image the front (and back if it contains information) of all documents
+and the front of all envelopes into the Ticket System by ticket number.
+C.4.2.6.4 Provide error status resolution.
+C.4.2.6.4.1 Contractor shall assign error status codes to support all potential errors
+to include but not limited to: no ticket number and missing information
+C.4.2.6.4.2 Contractor shall resolve all errors within 24 hours depending upon
+System availability. (not including System downtime)
+C.4.2.7 Other Correspondence
+C.4.2.7.1 If the Contractor receives questions specific to the processing by the
+Contractor, they shall respond to the Customer and scan a copy of the
+Correspondence. The Contractor may receive letters asking questions that
+are not specific to the processing and that the Contractor is unable to
+answer. In these cases, the Contractor shall forward the original document
+to the specified person at the appropriate agency (e.g., DMV, adjudication,
+MPD, DPW). The Contractor shall:
+C.4.2.7.2 Send the original over to DMV ("C" street), with attention to the Hearing
+Support Manager.
+C.4.2.7.3 The Contractor shall also scan, track and store all received
+Correspondence along with the replies and, where possible, associate the
+scanned Image with a ticket for the person in question.
+55
+
+C.5 Mailing Service SOW
+C.5.1 The Contractor shall provide mailing services that include the ability to
+generate, fold, stuff and mail the Notices and information. The
+Contractor shall provide for the resources and the equipment needed to
+perform this service. Postage shall be billed at cost on a monthly basis.
+The chart below provides estimated yearly volumes for the Notices sent
+to Customers.
+C.5.2 The Contractor shall send parking and moving ticket overdue Notices
+(aprox. 800,000), photo enforcement tickets (aprox. 575,000), photo
+enforcement overdue Notices (aropx. 246,000), and hearing
+appointment letters (aprox. 21,000) to Customers each year, exclusive
+of delinquent collections activity which is a component of a separate
+CONTRACT.
+C.5.3 The Contractor shall provide the service for a minimum of a two-year
+contract, with three (optional) one-year extensions. The contract shall
+also provide for a month-to-month default structure after the initial term
+is complete. Other term options will be considered.
+C.5.4 The Contractor shall also make recommendations based upon their
+expertise, for process improvements and best practices that could be
+implemented by the District in support of this effort.
+C.5.5 PROCESS REQUIREMENTS
+C.5.5.1 Notification PRINTING AND Mailing:
+In support of paper notifications, the Contractor shall:
+C.5.5.2 Printing. The Contractor shall:
+C.5.5.2.1 Receive an electronic file of notifications from the Ticket Processing
+System on a daily basis and generate Notices within 24 hours.
+C.5.5.2.2 Print Notices onto proper forms with proper logo. (Logo will be
+provided.) Types include but are not limited to:
+C.5.5.2.3 Ticket forms: the forms used to issue tickets.
+C.5.5.2.4 Notices forms: the forms used to generate Notices for the Treatment
+Process.
+C.5.5.2.5 Pre-drafted Correspondence forms: the forms used for Correspondence
+outside the normal ticketing and Treatment Process.
+56
+
+Pre-drafted Fleet application forms: the forms used for applying for
+C.5.5.2.6
+participation in a Fleet Program.
+Pre-drafted Fleet Program contract forms: the forms used for establishing
+C.5.5.2.7
+participation in a Fleet Program.
+Pre-drafted Installment Plan contract forms: the forms used to establish
+C.5.5.2.8
+participation in an Installment Plan.
+Mail adjudication hearing records.
+C.5.5.2.9
+Mailing. The Contractor shall:
+C.5.5.3
+Mail Forms using address provided on the electronic file. Whenever
+C.5.5.3.l
+possible, take advantage of bulk and pre-sorted by zip code rates.
+Validate Name and address through a third party Contractor.
+C.5.5.3.2
+Provide all necessary materials in support of mailings.
+C.5.5.3.3
+Ticket forms: the forms used to issue tickets.
+C.5.5.3.4
+Notices forms: the forms used to generate Notices for the Treatment
+C.5.5.3.5
+Process shall be User definable and can be edited easily by authorized
+Users.
+Pre-drafted Correspondence forms: the forms used for Correspondence
+C.5.5.3.6
+outside the normal ticketing and Treatment Process.
+Pre-drafted Fleet application forms: the forms used for applying for
+C.5.5.3.7
+participation in a Fleet Program.
+Pre-drafted Fleet Program contract forms: the forms used for establish
+C.5.5.3.8
+participation in a Fleet Program.
+Pre-drafted Installment Plan contract forms: the forms used to establish
+C.5.5.3.9
+participation in an Installment Plan.
+Mail adjudication hearing records.
+C.5.5.3.10
+57
+
+SECTION D: PACKAGING AND MARKING
+The packaging add marking requirements for this contract are governed by the Shipping
+Instructions Clause number 2 of the Government of the District of Columbia's Standard
+Contract Provisions for use with Supplies and Services Contracts, dated November> 2004
+(Section I).
+SECTION E: INSPECTION AND ACCEPTANCE
+The inspection and acceptance requirements for this contract are governed by clause number
+6, Inspection of Services, of the Government of the District of Columbia's Standard Contract
+Provisions for use with Supplies and Services Contracts, dated July 2010 (Section I). The
+Contractor is advised that Exhibit 1 to this CONTRACT includes additional Quality
+Assurance, Testing and Acceptance Criteria requirements that supplement the Standard
+Contract Provisions requirements.
+58
+
+SECTION F - DELIVERIES OR PERFORMANCE
+F.1 TERM OF CONTRACT
+The term of this emergency contract shall be for 120 days from the date of award.
+F.2 DELIVERABLES for CLINS 0001, 000lAA, 0002, 1001, 1001AA 1002, 2001,
+2001AA, 2002, 3001, 3001AA, 3002. (In section C.2.11.6)
+Deliverable Qty Format/Method Due Deliver to
+of Delivery Date
+Project Plan including 1 Electronic 10/1/24 COTR
+project schedule See Section G.8
+Detailed Application 1 Electronic 10/15/24 COTR
+Processes See Section G.8
+List of all fmal 1 Electronic 10/15/24 COTR
+documentation that will See Section G.8
+be delivered as a part of
+this contract
+Stress Test Plan 1 Electronic 11/1/24 COTR
+See Section G.8
+Integration Test Plan 1 Electronic . 11/1/24 COTR
+See Section G.8
+Software Test Plan to 1 Electronic 11/1/24 COTR
+include interface See Section G.8
+testing.
+User Acceptance Test 1 Electronic 11/1/24 COTR
+Plan See Section G.8
+Before and After 1 Electronic 11/1/24 COTR
+Business Process and See Section G.8
+Flow Model
+User Training Plan 1 Electronic 11/1/24 COTR
+See Section G.8
+Business Objects 1 Electronic 12/1/24 COTR
+'Universe' populated See Section G.8
+for ad hoc and regular
+user-driven reports
+Business Continuity 1 Electronic 12/1/24 COTR
+Plan See Section G.8
+Database Conversion 1 Electronic 12/1/24 COTR
+Plan See Section G.8
+Deliverable Qty Format/Method Due Deliver to
+of Delivery Date
+Training Schedule 1 Electronic 12/15/24 COTR
+
+SeeSectionG.8
+ApplicationUser 50/1 Paper/Electronic 11/1/24 COTR
+.
+Manual .doc SeeSection G.8
+Usertrainingmaterial .50/1 Paper/Electronic 11/1/24 COTR
+includingtraining .doc SeeSectionG.8
+manual
+ProjectReview I Electronic.doc 12/1/24 COTR
+Package SeeSectionG.8
+SystemDocumentation 1 Electronic.doc 12/15/24 COTR
+especiallyfor push/pull SeeSectionG.8
+and other capabilities
+provided through the
+'
+web services server
+Operations and 12/1 Paper/Electronic 12/15/24 COTR
+Maintenance Guide .doc SeeSection G.8
+F.4 TYPE OF CONTRACT
+F.4.1 Thisis anEmergencycontractwith a 120 days period with payment based on (firm) fixed
+pricesandwith a costreimbursement component for approved expensesassociatedwiththecontract, as
+set forth in Section B.4 of the Contract.
+60
+
+SECTION G: CONTRACT ADMINISTRATION DATA
+G. INVOICE PAYMENT
+Gl.1 The District will make payments to the Contractor, upon the submission of proper
+invoices, at the prices stipulated in this contract, for supplies delivered and accepted
+and/or services performed and accepted, less any discounts, allowances or
+adjustments provided for in this contract. The Contractor shall invoice any required
+equipment, other than the equipment specified for system implementation, upon
+written approval of the contracting officer. The District will withhold 10% payable
+at the conclusion of the 3-month stabilization period.
+Gl.2 The District will pay the Contractor on or before the 30th day after receiving a proper
+invoice from the Contractor which has been approved by the District.
+G2 INVOICE SUBMITTAL
+G2.1 The Contractor shall submit proper invoices on a monthly basis or as otherwise
+specified in Section G.3 assuming all deliverables due that month have been
+delivered and accepted. This includes the deliverables identified in Section F
+above. To ensure the Contractor receives reasonable turnaround, all documents
+must be reviewed within one week of submission and changes or concerns noted
+with an additional week to review and accept the changes or concerns.
+Consequently drafts of the deliverables should be submitted at least three weeks
+prior to the due date to ensure acceptance by the due date. Three copies of the
+approved documents shall be delivered as well as the electronic version of the
+document. Payment for the month in question will be held until the deliverables
+are received and approved. Invoices shall be prepared in duplicate and submitted
+to the agency Chief Financial Officer (CFO) with concurrent copies to the
+Contracting Officer's Technical Representative (COTR) specified in G.7 below.
+The address of the CFO is:
+Department of Motor Vehicles
+Accounts Payable Section
+301 C Street, N.W.
+Washington, DC 20001
+G2.2 To constitute a proper invoice, the Contractor shall submit the following information
+on the invoice:
+G2.2.1 Contractor's name, Federal tax ID, DUNS number and invoice date (Contractors are
+encouraged to date invoices as close to the date of mailing or transmittal as
+possible.);
+., 61
+
+G2.2.2 Contract number, block number two (2) and encumbrance number, block number
+twenty-one (21) of the Solicitation Cover Sheet. Assignment of an invoice number by
+the Contractor is also recommended;
+G2.2.3Description, price, quantity and the date(s) that the supplies/services were actually
+delivered and/or performed;
+G2.2.4 The original and two (2) copies of invoices for cost reimbursable expenses.
+The Contractor shall invoice any required equipment, other than the equipment
+specified for system implementation, upon written approval of the contracti.ng
+officer;
+G2.2.5 Other supporting documentation or information, as required by the contracting officer;
+.
+G2.2.6 Name, title, telephone number and complete mailing address of the responsible
+• official to whom payment is to be sent;
+G2.2.7 Name, title, phone number of person preparing the invoice;
+G2.2.8 Name, title, phone number and mailing address of person (if different from the
+person identified in G2.2.6 above) to be notified in the event of a defective
+invoice; and
+G2.2.9 Authorized signature.
+G3 PAYMENT
+Payment will be made based on the amounts for reimbursable and monthly
+services as specified and set forth in Section B, the Schedule of the Contract.
+G4 ASSIGNMENTS
+G.4.1 In accordance with 27 DCMR 3250, unless otherwise prohibited by this contract,
+the Contractor may assign funds due or to become due as a result of the
+performance of this contract to a bank, trust company, or other financing
+institution
+G.4.2 Any assignment shall cover all unpaid amounts payable under this contract and shall
+not be made to more than one party.
+G.4.3 Notwithstanding an assignment of money claims pursuant to authority contained
+in the contract, the Contractor, not the assignee, is required to prepare invoices.
+Where such an assignment has •been made, the original copy of the invoice must •
+refer to the assignment and must show that payment of the invoice is to be made
+62
+
+Directly to the assignee as follows:
+Pursuant to the instrument of assignment dated
+Make a payment of this invoice to _
+(name and address of assignee)
+G.5 THE QUICK PAYMENT CLAUSE
+G.5.1 Interest Penalties to Contractors
+G.5.1.1 The District will pay interest penalties on amounts due to the Contractor under the
+Quick Payment Act, D.C. Official Code §2-221.01 et seq., for the period
+beginning on the day after the required payment date and ending on the date on
+which payment of the amount is made. Interest shall be calculated at the rate of
+1% per month. No interest penalty shall be paid if payment for the completed
+delivery of the item of property or service is made on or before:
+a) the 3rd day after the required payment date for meat or a meat product;
+b) the 5th day after the required payment date for an agricultural commodity or
+c) the 15th day after the required payment date for any other item.
+G.5.1.2 Any amount of an interest penalty that remains unpaid at the end of any•
+30-day period shall be added to the principal amount of the debt, and
+thereafter, interest penalties shall accrue on the added amount.
+G.5.2 Payments to Subcontractors
+G.5.2.1 The Contractor shall take one of the following actions within 7 days of receipt
+of any amount paid to the Contractor by the District for work performed by any
+Subcontractor under a contract:
+a) Pay the Subcontractor for the proportionate share of the total payment
+received from the District that is attributable to the Subcontractor for work
+performed under the contract or
+b) Notify the District and the Subcontractor, in writing, of the Contractor's
+intention to withhold all or part of the Subcontractor's payment and state
+the reason for the nonpayment.
+G.5.2.2 The Contractor shall pay any lower-tier Subcontractor or supplier interest
+penalties on amounts due to the Subcontractor or supplier beginning on the day
+after the payment is due and ending on the date on which the payment is made.
+Interest shall be calculated at the rate of 1% per month. No interest penalty shall
+be paid on the following if payment for the completed delivery
+63
+
+Oftheitemof propertyorserviceis madeonorbefore:
+a) the3rdday aftertherequiredpaymentdateformeat orameatproduct;
+b) the5thdayaftertherequiredpaymentdateforanagricultural
+commodity or
+c) the15thdayaftertherequiredpaymentdateforanyotheritem.
+G.5.2.3 Any amountofaninterestpenaltythat remains unpaid by the Contractor at
+the end of any 30-day period shall be added to the principal amount of the
+debt to the Subcontractor, and thereafter,interestpenaltiesshallaccrueon
+the added amount.
+G.5.2.4 AdisputebetweentheContractorandSubcontractorrelatingtotheamounts
+orentitlementofaSubcontractortoa payment oralatepaymentinterest
+penaltyundertheQuickPaymentActdoesnotconstituteadisputetowhich
+theDistrict ofColumbia is aparty. TheDistrict ofColumbia maynotbe
+interpleadedinanyjudicialoradministrativeproceeding involvingsuch a
+dispute.
+G.6 CONTRACTING OFFICER (CO)
+Contracts may be entered into and signed on behalf ofthe District Government
+only by contracting officers. The address and telephone number of the
+Contracting Officer is:
+Derrick White
+Chief Contracting Officer
+Office of Contracting and Procurement
+441 4th Street, N.W., Suite 300S
+Washington, D.C. 20001
+Telephone: (202) 724-5278
+G.7 AUTHORIZED CHANGES BY THE CONTRACTING OFFICER
+G.7.1 The Contracting Officer is the onlyperson authorized to approvechanges in any
+of the requirements ofthis contract.
+G.7.2 TheContractorshallnotcomplywithanyorder,directive, or request that changes or
+modifies the requirements of this contract unless issued in writing and signed by the
+Contracting Officer.
+G.7.3 Intheeventthe Contractoreffects anychangeat theinstructionor request ofany
+person otherthanthe Contracting Officer, the changewill be considered to have
+beenmadewithoutauthority,andnoadjustmentwillbemadeinthecontractprice
+to cover anycost increaseincurred as a result thereof
+64
+
+G.8 CONTRACTINGOFFICER'S TECHNICAL REPRESENTATIVE (COTR)
+GS.1 The COTR is responsible for the general administration of the contract and
+advising the Contracting Officer on the Contractor's compliance or
+noncompliance with the contract. In addition, the COTR is responsible for the
+day-to-day monitoring and supervision of the contract, of ensuring that the work
+conforms to the requirements of this contract and such other responsibilities and
+authorities as may bespecifiedin thecontract.TheCOTRfor this contractis:
+Karen Tate
+Quality Program Officer
+Department of Motor Vehicles
+95 M Street, SW
+Washington, DC 20024
+Telephone: (202) 719 0694
+Email: Karen.Tate@dc.gov
+G.8.2 Itis understood andagreed thatthe COTR shall not have the authoritytomake
+any changes in the specifications/scope of work or terms and conditions of
+the contract.
+G.8.3 Contractor shall be held fully responsible for any changes not authorized in
+advance, inwriting, by the Contracting Officer, may be denied compensation or
+otherrelieffor any additionalwork performed that is not so authorized, andmay
+also berequired, at no additional cost to theDistrict, to take all corrective action
+necessitated by reason of the unauthorized changes.
+G.8.4 COST REIMBURSEMENT CEILING
+a) CostreimbursementceilingsforthiscontractaresetforthinSectionsB.3 and
+B.4 of the Schedule.
+b) Thecostsforperforming thiscontractshallnotexceedthecost
+reimbursementceilingspecified inSectionsB.3andB.4oftheScheduleas
+set forthin the contract.
+c) TheContractoragreesto useitsbesteffortstoperformtheworkspecified in
+thiscontractandto meet allobligationsunderthiscontractwithinthecost
+reimbursement ceilings.
+d) TheContractorshallnotifytheContractingOfficer,inwriting,whenever
+there isreasontobelievethat thetotalcostfortheperformanceof this
+contract willbeeithergreaterorsubstantiallylessthanthe cost
+reimbursement ceilings.
+65
+
+e) As part of the notification, the Contractor shall provide the Contracting Officer a
+revised estimate of the total cost of performing this contract.
+f) The District is not obligated to reimburse the Contractor for costs incurred
+in excess of the cost reimbursement ceiling specified in B.3 listed in the
+Contract, and the Contractor is not obligated to continue performance under
+this contract (including actions under the Termination clauses of this
+contract), or otherwise incur costs in excess of the cost reimbursement
+ceilings specified in B.3 listed in the Contract, until the Contracting Officer
+notifies the Contractor, in writing, that the estimated cost has been increased
+and provides revised cost reimbursement ceilings for performing this
+contract.
+g) No notice, communication, or representation in any form from any person
+other than the Contracting Officer shall change the cost reimbursement
+ceilings. In the absence of the specified notice, the District is not obligated
+to reimburse the Contractor for any costs in excess of the costs
+reimbursement ceilings, whether such costs were incurred during the course
+of contract performance or as a result of termination.
+h) If any cost reimbursement ceiling specified in B.4 listed in the Contract is
+increased, any costs the Contractor incurs before the increase that are in
+excess of the previous cost reimbursement ceiling shall be allowable to the
+same extent as if incurred afterward unless the Contracting Officer issues a
+termination or other notice directing that the increase is solely to cover
+termination or other specified expenses.
+i) A change order shall not be considered an authorization to exceed the
+applicable cost reimbursement ceiling specified in B.3 as set forth in the
+Contract unless the change order specifically increases the cost
+reimbursement ceiling.
+66
+
+SECTION H - SPECIAL CONTRACT REQUIREMENTS
+H.1 HIRING OF EMPLOYEES
+By accepting this contract, the Contractor agrees, that the District, at its
+discretion, after completion of the contract period, may hire an individual who is
+performing services as a result of this contract, without restriction, penalties or
+Fees.
+H.2 DEPARTMENT OF LABOR WAGE DETERMINATIONS
+The Contractor shall be bound by the Wage Determination No. 1994-2103, Revision
+No. 35, dated 05/23/2006, issued by the U.S. Department of Labor in accordance
+with the Service Contract Act and incorporated herein as Attachment
+J.1.1 of this Contract. The Contractor shall be bound by the wage rates for the
+term of the Contract. If an option is exercised, the Contractor shall be bound by
+the applicable wage rate at the time of the option. If the option is exercised and
+the Contracting Officer for the option obtains a revised wage determination, that
+determination is applicable for the option periods; the Contractor may be entitled
+to an equitable adjustment.
+H.3 AUDITS, RECORDS, AND RECORD RETENTION
+H.3.1 At any time or times before final payment and three (3) years thereafter, the
+Contracting Officer may_ have the Contractor's invoices or vouchers and statements
+of cost audited. For cost reimbursement contracts, any payment may be reduced
+by amounts found by the Contracting Officer not to constitute allowable costs. as
+adjusted for prior overpayment or underpayment. In the event that all payments
+have been made to the Contractor by the District Government and an overpayment
+is found, the Contractor shall reimburse the District for said overpayment within
+thirty (30) days after written notification.
+. H.3.2 The Contractor shall establish and maintain books, records, and documents (including
+electronic storage media) in accordance with generally accepted accounting
+principles and practices which sufficiently and properly reflect all revenues and
+expenditures of funds provided by the District under the contract that results from
+this solicitation.
+H.3.3 The Contractor shall retain all records, financial records, supporting documents,
+statistical records, and any other documents (including electronic storage media)
+pertinent to the contract for a period of five (5) years after termination of the
+contract, or if an audit has been initiated and audit findings have not been
+resolved at the end of five (5) years, the records shall be retained until resolution
+of the audit findings or any litigation which may be based on the terms of the
+contract.
+67
+
+H.3.4 The Contractor shall assure that these records shall be subject at all reasonable
+times to inspection, review, or audit by Federal, District, or other personnel duly
+authorized· by the Contracting Officer.
+H.3.5 Persons duly authorized by the Contracting Officer shall have full access to and
+the right to examine any of the Contractor's contract and related records and
+documents, regardless of the form in which kept, at all reasonable times for as
+long as records are retained.
+H.3.6 The Contractor shall include these aforementioned audit and record keeping
+requirements in all approved subcontracts and assignments.
+H.4 PUBLICITY
+The Contractor shall at all times obtain the prior written approval from the
+Contracting Officer before it, any of its officers, agents, employees or
+Subcontractor either during or after expiration or termination of the contract make
+any statement, or issue any material, for publication through any medium of
+communication, bearing on the work performed or data collected under this
+contract.
+H.5 CONFLICT OF INTEREST
+H.5.1 No official or employee of the District of Columbia or the Federal Government who
+exercises any functions or responsibilities in the review or approval of the
+undertaking or carrying out of this contract shall, prior to the completion of the
+project, voluntarily acquire any personal interest, direct or indirect, in the contract or
+proposed contract. (DC Procurement Practices Act of 1985, D.C. Law 6-85,
+D.C. Official Code section 2-310.0land Chapter 18 of the DC Personnel
+Regulations).
+H.5.2 The Contractor represents and covenants that it presently has no interest and shall not
+acquire any interest, direct or indirect, which would conflict in any manner or degree
+with the performance of its services hereunder. The Contractor further covenants
+not to employ any person having such known interests in the performance
+of the contract.
+H.6 PROTECTION OF PROPERTY:
+The Contractor shall be responsible for any damage to the building, interior, or their
+approaches in delivering equipment covered by this contract.
+H.7 CONTRACTOR RESPONSIBILITIES
+H.7.1 The Contractor shall have sole responsibility for the complete effort specified in
+68
+
+the contract.
+H.7.2 Payment will be made only to the Contractor.
+H.7.3 The Contractor shall have sole responsibility for all payments due any
+subcontractor.
+H.7.4 The Contractor is responsible for the professional quality, technical accuracy and
+timely completion and submission of all deliverables, services or commodities
+required to be provided under the contract. The Contractor shall, without additional
+compensation, correct or revise any errors, omissions, or other deficiencies in its
+deliverables and other services.
+H.7.5 The approval of deliverables furnished under this contract shall not in any way
+relieve the Contractor of responsibility for the technical adequacy of its work. The
+review, approval, acceptance or payment for any of the services shall not be
+construed as a waiver of any rights that DC may have arising out of the
+Contractor's performance of this contract.
+H.7.6 The Contractor shall submit a certificate of insurance indicating current
+insurance with a company licensed in the District, with liability limits in
+accordance with the contract (reference Section 1.11.)
+H.8 ADVISORY AND ASSISTANCE SERVICES
+H.8.1 The contract is a "non-personal services contract". It is therefore understood and
+agreed that the Contractor and/or the Contractor's employees:
+H.8.2 Shall perform the services specified herein as independent Contractors, not as
+employees of the District government;
+H.8.3 Shall be responsible for their own management and administration of the work
+required and bear sole responsibility for complying with any and all technical,
+schedule, financial requirements or constraints attendant to the performance of
+this contract;
+H.8.4 Shall be free from supervision or control by any District government employee with
+respect to the manner or method of performance of the services specified; but
+H.8.5 Shall, pursuant to the District government's right and obligation to inspect, accept or
+reject work, comply with such general direction of the CO, or the
+H.8.6 Duly authorized representative of the CO as is necessary to ensure
+accomplishment of the contract objective.
+69
+
+H.9 KEY PERSONNEL
+H.9.1 The Project (Manager is considered to be essential to the work being performed
+hereunder. The Project Manager must be approved by the Contracting Officer and
+COTR. The Contractor shall notify the COTR, as identified in Section G.8, and
+the Contracting Officer as identified in Section G..7 at least fifteen (15) calendar days
+prior to removing the Project Manager if the Contractor deems that removal of the
+Project Manager is necessary in order to maintain and ensure the integrity and best
+interest of the project. The Contracting Officer may also deem that removal of the
+Project Manager is necessary in order to maintain and ensure the integrity and best
+interest of the project and provide fifteen (15) calendar days notice. The Contractor
+shall provide a plan to temporarily and permanently fill the position.
+H.9.2 The Contractor shall provide written notification of the removal of the Project
+Manager in advance of the scheduled removals and within 24 hours· for
+unscheduled removals. The written justification shall provide explanations and
+justification of the removal of the Project Manager as well as the Contractor's
+plan to temporarily and permanently fill the position.
+H.9.3 The Contractor shall not replace the Project Manager without written permission
+from the Contracting Officer.
+70
+
+H.10 Performance Measurements
+Service Level Agreement
+a Process payments $500 per missed batch, except for All payments received in Lockbox must be posted to the
+received at research items, not to exceed Contractor's system within 24 hours of receipt or no later than
+lockbox and $3,000 for any given processing day the end of the following business day (i.e. Payments received on
+update within 24 Monday must be posted by 11:59pm Tuesday). There will be a
+hours $500 service credit for each batch of payments that is no
+entered into the system within this timeframe. The total service
+credit amount shall not exceed $3,000 for any given processing
+day.
+b Process electronic $100 per missed batch, not to Update handwritten Citations to the Contractor's system within
+tickets within one exceed $3,000 per processing day two business days of receipt from the District, and electronic
+business day and Citations within one business day of receipt from the District
+manual tickets There will be a service credit of $100 per batch for each day o
+within two delay beyond the requirement, not to exceed $3,000 for any
+business days given processing day.
+Process manual For purposes of this section, the term 'process' shall mean the
+tickets within one transmission and posting of a batch of tickets to the main
+business day database. A single batch transmission shall not be deemed to
+have failed on the basis of transmission failures in connection
+with certain isolated tickets within the batch. The Contracto
+shall have the right to remove a reasonable number of items
+from the batch as necessary to research problem tickets, correc
+discrepancies, and/or perform other reconciliations. Such
+corrections shall be completed within 48 hours after the
+transmission of the batch from which the defective tickets were
+removed, or returned to the issuing agency for resubmission.
+d Process incoming The contract shall credit the District, Contractor shall process incoming correspondence within three
+correspondence on a monthly invoice, $100 for (3) working days of receipt. Contractor shall credit the Distric
+(image suspend, every day in which the percentage of $100 for every day in which the percentage of correspondence
+and route to the correspondence processed within processed within 3 working days falls below 90%.
+appropriate three working days falls below 90% For purposes of this requirement, "processing" shall mean
+workflow queue, or suspending the image of such correspondence and routing the
+prepare and mail a same to a designated workflow queue, or preparing and mailing a
+personalized or personalized or form letter response, as appropriate based upon
+form letter is pre-established business rules. The Contractor's decision to
+appropriate) within assign an item to one queue rather than another shall not be a
+three working days basis for determining noncompliance with this service leve
+ofreceipt requirement. The parties agree to periodically sample and review
+the Contractor's assignments in specific cases for purposes of
+quality control, to ensure that such assignments are generally made
+in accordance with the District's overall guidance and direction.
+e Warranty data If a ticket is dismissed or the fine The District will hold the Contractor responsible for any
+entry accuracy amount reduced due to a data entry Contractor error which results in the dismissal of a ticket or a
+or coding error, the Contractor shall reduction in the amount of the corresponding fine. Such
+reimburse the District for the dollar Contractor error must be subject to objective verification, and
+value of lost revenue plus the fixed must be one that renders the ticket or a portion of the fine
+fee for processing the ticket. The unenforceable. The Contractor shall establish a unique
+Contractor shall correct ticket errors disposition code or codes for ticket dismissals or reductions on
+within one working day of District the basis of Contractor data entry or coding errors; however,
+notification and the system shall credits for Contractor error shall not necessarily be limited to
+reflect the correction within two dismissals or reductions entered by the unique disposition
+working days code(s), provided that the District can demonstrate that
+Contractor error was the causative factor for the dismissal or
+reduction. Contractor error ma result from:
+71
+
+(A) Contractor's failure to comply with written procedures
+established • by the District or the Contractor for the
+processing of parking Citations; or
+(B) Specific defects in data entry or coding which are
+proven by visual review of source documents and
+comparison to system output, comparison of output in line
+with standard written procedures, or other accepted
+industry methods for error detection.
+In cases of such Contractor error it shall be the Contractor's
+responsibility to reimburse to the District the amount of any fixed
+fee paid for processing the ticket, together with any lost revenue
+resulting from the error.
+f Correct system The Contractor shall report monthly For purposes of this service level requirement, the term "system
+and application on performance pursuant to all and application" refers to the ticket system and its user-
+outages and system or application service accessed ancillary applications that are provided by the
+malfunctions requests, with the origination and Contractor within the scope of the contract. Outages involving
+completion date and time, reported public networks, or the District's own network infrastructure, are
+symptom, cause, and resolution. excluded. Notification of an outage or malfunction shall
+The Contractor shall provide a credit constitute any communication, written or verbal, to the
+on the monthly invoice for failure to Contractor's help desk or other mechanism agreed by the
+perform in accordance with the parties, advising of the outage or malfunction. The term
+Service Level Tables - General "malfunction" refers to a material failure of the system or
+Service Level Provisions and application to perform in accordance with its agreed-upon
+Section I - Response to System technical specifications, resulting in a loss of previously-
+Failures delivered functionality. This service level request does not apply
+to requests for modifications and enhancements of existing
+functionality or to changes necessitated by the District's
+adoption of new or updated business rules until both parties
+agree that the modifications or enhancements are operationally
+stable. The parties shall address requests for modifications and
+enhancements through the change control process established
+under the Agreement.
+g Respond to user The Contractor shall report monthly The Contractor shall respond to user hardware malfunctions
+hardware on maintenance performance according to the attached Service Level Tables. -General
+malfunctions pursuant to all hardware malfunction Service Level Provisions and Section 2. - Hardware Support
+service requests, with origination For purposes of this service level requirement, hardware shall
+and completion date and time, refer to Contractor's system hardware, personal computers,
+reported symptoms, causes, and Local Area Network hardware and printers which fail to perform
+resolution. The Contractor shall in accordance with their agreed-upon technical specifications.
+provide a credit on the monthly MDTs and handhelds are excluded unless provided through this
+invoice, for failure to perform in contract. "User hardware malfunctions" are those which have
+accordance with the Service Level been submitted by a user under a proper service request.
+Tables - General Service Level
+Provisions and Section 2 -
+Response to Svstem Failures.
+h Resolve or The Contractor shall report monthly The parties shall agree on a time schedule for response and
+complete user performance pursuant to all user resolution based on the type, e.g. category, of request.
+requests and requests and complaints, with
+complaints origination and completion date and
+time, and resolution. The Contractor
+shall provide a credit on the monthly
+invoice, for failure to perform in
+accordance with the Service Level
+Tables - General Service Level
+Provisions and Section 3 - Other
+Support Requests !Non-Hardware\
+72
+
+system The Contractor shall make available In the event an availability level of 99.6 percent is not maintained
+Warranty
+the ticket processing system for any calendar month, the City shall reduce the Contractor's
+availability
+including all of its modules and invoice for that month by subtracting the actual availability level
+feat res• at all sites ,listed on the percentage from the 99.6 percent standard. The Citation
+monthly Systems Availability report processing monthly invoice shall be reduced by the resulting
+for use during regular business percentage. For example, if the availability level is 85.6 percent,
+hours with a monthly aggregate the reduction would be 14 percent of that month's Citation
+performance standard of 99.6%. processing invoice. The system availability requirement shall
+The Contractor shall credit the include catastrophic failures. If system availability is less than
+following amount on the monthly 99.6% during a reporting period which includes one or more
+invoice if the performance standard incidents of catastrophic failure, the systems availability credit
+is not met; monthly net processing shall supersede the Severity 1 credit listed on the Response
+charges. limes the percentage Schedule ("Specific Service Levels").
+difference between the attained
+measure and the standard. At sites
+where hearings are conducted,
+system availability shall include all
+modules and features regularly used
+to conduct in person and mail
+hearings and to accept payments.
+Failure to meet the system
+availability performance standard
+shall not be subject to the maximum
+invoice credit shown on the Service
+Level Tables- General Service Level
+a
+Warranty Pay by The Pay by Web feature shall be Accessibility refers to the ability to use the application for its
+Web accessibility accessible to paying customers 24 intended function, with the intended result. In the event an
+hours a day, seven days a week, availability level of 99.6% is not maintained during
+the
+99.6% of the time, except for measurement period, Contractor shall credit the District
+based
+scheduled maintenance periods as on the following schedule:
+agreed by the Technical
+Representative. Accessibility shall 99% - 99.6% accessibility, $2,500 credit
+also be in accordance with the Under 99% accessibility, $5,000 credit
+attached Service Level Tables.
+General Service Level Provisions
+73
+
+Service Level Tables
+General Service Level Provisions:
+1. Exclusions: Contractor will be excused for its failure to achieve a Service Level
+and from paying any otherwise-applicable Service Level Credits to the extent that
+such failure is directly attributable to:
+• The failure by District to perform in a reasonably timely manner any of its
+obligations under the Agreement;
+• The acts or omissions of third parties outside of the control of Contractor;
+• A force majeure event.
+2. Amount at Risk: in no event shall the total amount of Service Level Credits
+payable by Contractor for Service Level failures occurring during a calendar
+month exceed ten percent (10%) of its total monthly charges to District (excluding
+taxes, material costs and pass-through expenses), except for failure to meet the
+system availability standard identified in Service Level Standard 1(i) above.
+For avoidance of doubt the Contractor’s aggregate Service Level Credit liability
+over the entire contract shall not exceed 10% of the total charges invoiced to
+the District by to the Contractor.
+3. Single Events Giving Rise to Multiple Penalties: To the extent that a single event or
+failure results in multiple Service Level failures, Contractor shall only be responsible
+for payment of the Service Level Credit that carries the highest monetary amount.
+All other Service Level Credits shall be excused.
+74
+
+Specific Service Levels:
+1. Responseto- System Failures
+Service
+Level Credit.
+$1000 for
+System Correct Severity 1 system Number
+downtime each
+Support outages and malfunctions Severity
+Severity 1
+according to Response outages or • Failures
+Schedule set forth below malfunctions that occurring during system
+non-business outage or
+last longer than 1
+malfunction
+business hour
+hours
+where
+shall be zero • Force
+Contractor
+during majeure
+fails to
+measurement • Technical
+provide
+period components
+correction
+outside the direct
+in
+control of
+accordance
+Contractor
+with
+Response
+Monthly Schedule
+• Scheduled $500 for
+System Correct Severity 2 system Number of
+downtime each
+Support outages and malfunctions Severity 2
+Severity 2
+according to Response outages or • Failures
+system
+Schedule set forth below malfunctions that occurring during
+outage or
+last longer than 4 non-business
+malfunction
+hours shall be hours
+where
+zero during • Force
+Contractor
+measurement majeure
+fails to
+period • Technical
+provide
+components
+correction
+outside the direct
+in
+control of
+accordance
+Contractor
+with
+Response
+Schedule
+75
+
+Measurement .-service'.'.:\\:<( -\:·._.
+rbd6iIA ••• Measureirl iiW '
+System Monthly Correct Severity 3 system Number of • Scheduled $250 for
+Support outages and malfunctions Severity 3 downtime each
+according to Response outages or • Failures Severity 3
+Schedule set forth below malfunctions that occurring during system
+last longer than 1 non-business
+outage or
+business day hours
+malfunction
+shall be I or less • Force
+in excess of
+during majeure
+1 where
+measurement • Technical Contractor
+period components
+fails to
+outside the direct provide
+control of correction
+Contractor in
+accordance
+with
+Response
+Schedule
+Response Schedule:
+.Severity I: Defmition: Conmlete system outage, or functionality of entire system affected
+Resoonse: Service/Reouest must be restored/completed within I business hour of receipt of request
+.Severity 2: Defmition: Failure or deterioration in normal service level of any significant sub-system or
+annlication within the complete ticket system affecting multiple users
+Response: Service/Request must be restored/comnleted within 4 hours of receipt of request.
+Severity 3: Definition: Any outage, malfunction or deterioration in normal service level of any significant sub-
+system or ann!ication within the complete ticket system that is isolated to one user
+Response: Service/Reouest must be restored/completed within I business day ofreceiot ofrequest
+Other Assumptions:
+• The District shall utilize Contractor's monthly system report data to assess the
+applicability of Service Level Credits.
+76
+
+2. Hardware Support
+Response Response Time • Failures during non- business $5000 per
+Time1 for hardware support calls, the Response hours measurement
+support calls Time shall be less than or • Requests or failures during non- period where
+shall be witlrin 2 equal to two (2) business business hours objective is
+business hours hours. If less than five • Willful or malicious acts or not met
+of service call requests are made during omissions of non-Contractor
+the reporting period, the personae!
+number of requests less one • Virus attacks or denial of service
+shall be in compliance. attacks
+• Force majeure
+• Technical components outside
+the direct control of Contractor
+Resolution Monthly On site or over- For 80% of the hardware • Failures during non- business $5000 per
+Time2 the-wire support calls, the Resolution hours measurement
+resolution Time Time shall be less than or • Willful or malicious acts or period where
+for hardware equal to four (4) business omissions of non-Contractor objective is
+support calls hours. If less than five personae! not met
+shall be witlrin 4 requests are made during • Failure by District to perform
+business hours the reporting period, the key obligations (e.g. provide timely
+of initial return number of requests less one feedback or iofonnation)
+call shall be in compliance. • Virus attacks or denial of service
+attacks
+• Force majeure
+• Technical components outside
+the direct control of Contractor
+1 Response Time shall be defined as the elapsed time between (a) the notification or
+reporting of a problem by way of a service call, and (b) the initial return call by
+Contractor personnel.
+2 Resolution Time shall be defined as the elapsed time between (a) the initial return call
+by Contractor personnel, and (b) the actual commencement of meaningful resolution
+• efforts by the Contractor personnel responsible for resolution.
+The District shall utilize Contractor's monthly system report data to assess the
+applicability of Service Level Credits.
+77
+
+3. Other Support Requests (Non-Hardware)
+Servfce Measurement . ,Excused Events
+cr<11tf"''••••·•··
+Pj,rlcid'
+Response Monthly Response Time for other For 80% of the support • Requests $3000 per
+Time1 support · request(s) (nou- requests, the Response made during measurement
+hardware) shall be shall be Time shall be as per. non- business period where
+as per schedule agreed to by schedule agreed to by hours shall be objective is not
+District and Contractor the parties. If less than counted as met
+One schedule shall apply to five requests are made received on the
+all support requests based during the reporting next business
+on a categorization of the period, the number of day
+request type requests less one shall
+be in com liance.
+Resolution .Monthly Resolution Time for each For 80% of the support • Failure by $3000 per
+Time2 project shall be as per requests, the District to measurement
+schedule agreed to by Resolution Time shall perform key period where
+District and Contractor be as per schedule obligations (e.g. objective is not
+One schedule shall apply to agreed to by the provide timely met, or $3,000
+all support requests based parties. If less than five feedback and per
+on a categorization of the requests are made approvals) measurement
+request type during the reporting period if any
+period, the number of request
+requests less one shall categorized
+be in compliance. "urgent" is not
+met
+1 Response Time shall be defined as the elapsed time between (a) the notification or
+reporting of a problem by way of a service call, and (b) the Initial Return Call by
+Contractor personnel. The purpose of the Initial Return Call will be to schedule a time
+during which the parties will discuss the specifics of the support request.
+2 Resolution Time shall be defined as the elapsed. time between the project commencement
+and completion dates per schedule agreed to by parties.
+Other Assumption:
+• All requests shall be made by authorized Client representatives agreed to
+by the parties.
+• The District shall utilize Contractor's monthly system report data to assess
+the applicability of Service Level Credits.
+H.11 FIRST SOURCE
+H.11.1 The Contractor shall comply with the First Source Employment Agreement Act
+of 1984, as amended, D.C. Official Code, sec. 2-219.01 et seq. (First Source
+Act).
+H.11.2 The Contractor shall enter into and maintain, during the term of the contract, a
+First Source Employment Agreement, in which the Contractor shall agree
+that:
+78
+
+(1) The first source for finding employees to fill all jobs created in order
+to perform this contract shall be the Department of Employment Services
+(DOES); and
+(2) The first source for finding employees to fill any vacancy occurring
+in all jobs covered by the First Source Employment Agreement shall be the
+First Source Register.
+H.11.3 The Contractor shall submit to DOES, no later than the I 0th day of each month
+following execution of the contract, a First Source Agreement Contract
+Compliance Report (Contract Compliance Report) verifying its compliance with
+the First Source Agreement for the preceding month. The contract compliance
+report for the contract shall include the:
+(I) Number of employees needed;
+(2) Number of current employees transferred;
+(3) Number of new job openings created;
+(4) Number of job openings listed with DOES;
+(5) Total number of all District residents hired for the reporting
+period and the cumulative total number of District residents hired;
+and
+(6) Total number of all employees hired for the reporting
+period and the cumulative total number of employees hired,
+including:
+(a) Name;
+(b) Social Security number;
+(c) Job title;
+(d) Hire date;
+(e) Residence; and
+(f) Referral source for all new hires.
+The Contractor shall provide a monthly report by position type of all
+persons employed during the month in question. The position type should be
+of sufficient detail to determine the type of work being performed by the
+employee.
+H.11.4 If the contract amount is equal to or greater than $100,000, the Contractor
+agrees that 51% of the new employees hired for the contract shall be District
+residents.
+H.11.5 With the submission of the Contractor's final request for payment from
+the District, the Contractor shall:
+(1) Document in a report to the Contracting Officer its compliance
+with the section H.11.4 of this clause; or
+(2) Submit a request to the Contracting Officer for a waiver of
+compliance with section H.11.4 and include the following
+79
+l
+
+documentation:
+(a) Material supporting a good faith effort to comply;
+. (b) Referrals provided by DOES and other referral sources;
+(c) Advertisement of job openings listed with DOES and other
+referral sources; and
+(d) Any documentation supporting the waiver request pursuant to
+section H.11.6.
+H.11.6 The contracting officer may waive the provisions of section H.11.5 if the
+contracting officer finds that:
+(1) A good faith effort to comply is demonstrated by the Contractor;
+(2) The Contractor is located outside the Washington Standard Metropolitan
+Statistical Area and none of the contract work is performed inside the
+Washington Standard Metropolitan Statistical Area which includes the
+District of Columbia; the Virginia Cities of Alexandria, Falls Church,
+Manassas, Manassas Park, Fairfax, and Fredericksburg, the Virginia Counties
+of Fairfax, Arlington, Prince William, Loudon, Stafford, Clarke, Warren,
+Fauquier, Culpeper, Spotsylvania, and King George; the Maryland
+Counties of Montgomery, Prince Georges, Charles, Frederick, and Calvert;
+and the West Virginia Counties of Berkeley and Jefferson.
+(3) The Contractor enters into a special workforce development training or
+placement arrangement with DOES; or
+(4) DOES certifies that there are insufficient numbers of District residents in
+the labor market possessing the skills required by the positions created as a
+result of the contract.
+H.11.7 Upon receipt of the Contractor's final payment request and related
+documentation pursuant to sections H.11.5 and H.11.6, the Contracting Officer
+shall determine whether the Contractor is in compliance with section H.11.4 or
+whether a waiver of compliance pursuant to section H.11.6 is justified. 1f the
+Contracting Officer determines that the Contractor is in compliance, or that a
+waiver of compliance is justified, the contracting officer shall, within two
+business days of making the determination forward a copy of the determination to
+the Agency Chief Financial Officer and the COTR.
+H.11.8 Willful breach of the First Source Employment Agreement, or failure to submit
+the report pursuant to section H.l 1.5, or deliberate submission of falsified data,
+may be enforced by the Contracting Officer through imposition of penalties,
+including monetary fines of 5% of the total amount of the direct and indirect
+labor costs of the contract. The Contractor shall make payment to DOES. The
+Contractor may appeal to the D.C. Contract Appeals Board as provided in the
+contract any decision of the contracting officer pursuant to this section H.11.8.
+H.11.9 The provisions of sections H.11.4 through H.11.8 do not apply to nonprofit
+organizations.
+80
+
+H.12 Subcontracting Plan
+Any prime _Contractor responding to a solicitation in which there is an SBE
+subcontracting set-aside, shall submit, within 5 days of the contracting officer's
+request, a notarized statement detailing its subcontracting plan. Each subcontracting
+plan shall include the following:
+H.12.1 A description of the goods and services to be provided by SBEs;
+H.12.2 A statement of the dollar .value of the bid or proposal that pertains to the subcontracts
+to be performed by the SBEs;
+H.12.3 The names and addresses of all proposed Subcontractors who are SBEs;
+H.12.4 The name of the individual employed by the prime Contractor who will
+administer the subcontracting plan, and a description of the duties of the
+individual;
+H.12.5 A description of the efforts the prime Contractor will make to ensure that SBEs will
+have an equitable opportunity to compete for subcontracts;
+H.12.6 In all subcontracts that offer further subcontracting opportunities, assurances that
+the prime Contractor will include a statement, approved by the contracting officer,
+that the Subcontractor will adopt a subcontracting plan similar to the
+subcontracting plan required by the contract;
+H.12.7 Assurances that the prime Contractor will cooperate in any studies or surveys that
+may be required by the contracting officer, and submit periodic reports, as
+requested by the contracting officer, to allow the District to determine the extent
+of compliance by the prime Contractor with the subcontracting plan;
+H.12.8 List the type of records the prime Contractor will maintain to demonstrate procedures
+adopted to comply with the requirements set forth in the subcontracting plan, and
+include assurances that the prime Contractor will make such records available for
+review upon the District's request; and
+H.12.9 A description of the prime Contractor's recent effort to locate SBEs and to award
+subcontracts to them.
+H.13 Enforcement and Penalties for Willful Breach of Subcontracting Plan
+The willful breach by a Contractor of a subcontracting plan for utilization of local,
+small, or disadvantaged businesses in the performance of a contract, the failure to
+submit any required subcontracting plan monitoring or compliance report, or the
+deliberate submission of falsified data may be enforced by the DSLBD through
+the imposition of penalties, including monetary fines of$15,000 or 5% of the total
+81
+
+amount of the work that the Contractor was to subcontract to local, small, or
+disadvantaged businesses, whichever is greater, for each such breach, failure, or
+falsified submission.
+82
+
+SECTION I: CONTRACT CLAUSES
+'
+1.1 APPLICA BILITY OF STANDARD CONTRACT PROVISIONS
+The Standard Contract Provisions for use with District of Columbia Government
+Supply and Services Contracts dated July 2010 (Section I) are incorporated as part
+of this Contract.
+1.2 CONTRACTS THAT CROSS FISCAL YEARS
+Continuation of this contract beyond the current fiscal year is contingent upon future
+fiscal appropriations.
+1.3 CONFIDENTIALITY OF INFORMATION
+The Contractor shall keep in absolute strict confidence and shall not disclose any
+information obtained by the Contractor relating to any employee or customer of
+the District. Such information shall be kept in absolute confidence by the
+Contractor and shall not be used by the Contractor in connection with any other
+matters, and any such information shall not be disclosed to any other person, firm,
+or corporation except, in accordance with the District and Federal laws governing
+the confidentiality of records.
+1.4 TIME
+Time, if stated in a number of days, will include Saturdays, Sundays, and
+holidays, unless otherwise stated herein
+1.5 RESTRICTION ON DISCLOSURE AND USE OF DATA
+Offerors who include in their proposal data that they do not want disclosed to the
+public or used by the District Government except for use in the procurement process
+shall
+1.5.1 Mark the title page with the following legend:
+"This proposal includes data that shall not be disclosed outside the District
+Government and shall not be duplicated, used or disclosed in whole or in part for
+any purpose except for use in the procurement process.
+1.5.2 If however, a contract is awarded to this Offeror as a result of or in connection with
+the submission of this data, the District Government shall have the right to duplicate,
+use, or disclose the data to the extent consistent with the District's needs in the
+procurement process.
+83
+
+1.5.3 Mark each sheet of data it wishes to restrict with the following legend:
+"Use or disclosure of data contained on this sheet is subject to the restriction on the
+title page of this proposal."
+1.6 RIGHTS IN DATA
+All data (including images) gathered, generated or used for ticket processing
+services, and supporting documentation and material are the property of the
+District of Columbia.
+1.6.1 "Data," as used herein, means recorded information, regardless of form or the media
+on which it may be recorded. The term includes technical data and computer
+software. The term does not include information incidental to contract
+administration, such as financial, administrative, cost or pricing, or management
+information. •
+1.6.2 The term "Technical Data," as used herein, means recorded information, regardless
+of form or characteristic, of a scientific or technical nature. It may, for example,
+document research, experimental, developmental, or engineering work or be usable
+or used to define a design or process or to procure, produce, support, maintain, or
+operate material. The data may be graphic or pictorial delineations in media such as
+drawings or photographs, text in specifications, or related performance or design-
+type documents or computer printouts. Examples of technical data include research
+and engineering data, engineering drawings and associated lists, specifications,
+standards, process sheets, manuals, technical reports, catalog item identifications,
+related information, and computer software documentation. Technical data does not
+include computer software or financial, administrative, cost and pricing, or other
+information incidental to contract administration.
+1.6.3 The term "Computer Software", as used herein, means computer programs and
+computer databases. "Computer Programs", as used herein, means a series of
+instructions or statements in a form acceptable to a computer, designed to cause
+the computer to execute an operation or operations. "Computer Programs" include
+operating systems, assemblers, compilers, interpreters, data management systems,
+utility programs, sort-merge programs, and automated data processing equipment
+maintenance diagnostic programs, as well as applications programs such as payroll,
+inventory control, and engineering analysis programs with the exception of the
+push/pull capability and other utilities and programs developed for the web services
+server (which will belong to the District at the end of the contract). Computer
+programs may be either machine-dependent or machine-independent and may be
+general-purpose in nature or designed to satisfy the requirements of a particular user.
+84
+
+1.6.4 The term "computer databases," as used herein, means a collection of data in a
+form capable of being processed and operated on by a computer.
+1.6.5 All data produced in this Contract's performance shall be the District's sole property.
+The Contractor hereby acknowledges that all data, including, without limitation,
+computer program codes, produced by the Contractor solely for the District under
+this Contract, are works made for hire and are the sole property of the District;
+but, to the extent any such data may not, by operation of law, be works made for hire,
+Contractor hereby transfers and assigns to the District the ownership of copyright in
+such works, whether published or unpublished. The Contractor agrees to give the
+District all assistance reasonably necessary to perfect such rights, including, but
+not limited to, the works and supporting documentation and the execution of any
+instrument required to register copyrights. The Contractor agrees not to assert any
+rights in common law or in equity in such data. The Contractor shall not publish or
+reproduce such data in whole or in part or in any manner or form or authorize others
+to do so without the District's written consent until the District may have released
+such data to the public. Notwithstanding this section, the Contractor retains all rights
+and does not transfer any rights not specified herein for the Contractor’s Preexisting
+Intellectual Property defined below.
+1.6.6 The District shall have restricted rights in data, including computer software and all
+accompanying documentation, manuals, and instructional materials, listed or
+described in a license or agreement made a part of this contract, which the parties
+have agreed will be furnished with restricted rights, provided however,
+notwithstanding any contrary provision in any such license or agreement, such
+restricted rights shall include, as a minimum the right to:
+The contractor shall retain all rights, titles, and interests in and to all of its Preexisting Intellectual
+Property used, provided, or delivered by the Contractor to the DISTRICT in connection with the
+performance of this Agreement. For purposes of this Agreement, “Contractor Preexisting Intellectual
+Property” means all pre-existing and independently developed intellectual property and any derivation
+thereof, including but not limited to designs, models, inventions, processes, methodologies, software,
+associated documentation, software upgrades, modifications and customizations, copyrightable material
+and other tangible and intangible materials authored, and combinations thereof, prepared, created,
+made, delivered, conceived or reduced to practice, in whole or in part, by Contractor prior to this
+Agreement, or if developed after execution of this Agreement, then developed independently of this
+Agreement in the normal course of Contractor’s operations for general use by clients.
+The contractor grants to DISTRICT a non-exclusive, non-transferable license to use the Contractor's
+Preexisting Intellectual Property based on the fees contained in this Agreement to implement the
+Automated Traffic Enforcement Program and related back-office software services for the duration of
+this Agreement. The DISTRICT may make copies of any user manuals for backup and archival
+purposes, and originals and any copies thereof shall be returned to the Contractor at the expiration of
+the contract. The DISTRICT will not reverse engineer, decompile, or otherwise attempt to derive the
+source code for the Contractor Preexisting Intellectual Property.
+In addition to the above-granted rights, the following restrictions apply to the License to Use:
+85
+
+1. DISTRICT may not sell, rent, or lease the Contractor Preexisting Intellectual Property software, nor
+disassemble, alter, modify, assign, translate, adapt, or make derivative works of the Contractor
+Software.
+2. DISTRICT agrees not to remove or destroy any proprietary markings or legends placed upon or
+contained within the Contractor Preexisting Intellectual Property products, software, or any related
+materials or documentation.
+3. DISTRICT agrees not to sell, lease, rent, or transfer Contractor Preexisting Intellectual Property or
+equipment to a competitor of Contractor, nor allow any unauthorized access to Contractor Preexisting
+Intellectual Property
+1.6.7 The restricted rights set forth in section I.6.6 are of no effect unless
+(i) The data is marked by the Contractor with the following legend:
+RESTRICTED RIGHTS LEGEND
+86
+
+Use, duplication, or disclosure is subject to restrictions stated in Contract
+No.
+, With ---------------------------------- (Contractor's Name) and
+(ii) If the data is computer software, the related
+computer software documentation includes a prominent statement of the
+restrictions applicable to the computer software. The Contractor may not place
+any legend on the computer software indicating restrictions on the District's
+rights in such software unless the restrictions are set forth in a license or
+agreement made a part of the contract prior to the delivery date of the software.
+Failure of the Contractor to apply a restricted rights legend to such computer
+software shall relieve the District of liability with respect to such unmarked
+software.
+1.6.8 Whenever any data, including computer software, are to be obtained from a
+Subcontractor under this contract, the Contractor shall use Section I.6 in the
+subcontract without alteration. No other clause shall be used to enlarge or
+diminish the District's or the Contractor's rights in that Subcontractor data or
+computer software which is required for the District.
+1.6.9 For all computer software furnished to the District with the rights specified in Section
+I.6.5, the Contractor shall furnish to the District a copy of the source code with such
+rights of the scope specified in Section I.6.5.
+1.6.10 The Contractor shall indemnify save and hold harmless the District, its officers,
+agents, and employees acting within the scope of their official duties
+87
+
+Against any actual and direct liability, including costs and expenses, (i) for
+violation of proprietary rights, copyrights, or rights of privacy arising out of the
+District’s authorized use of any Contractor Preexisting Intellectual Property
+furnished under this contract.
+1.6.11 Nothing contained in this clause shall imply a license to the District under any patent
+or be construed as affecting the scope of any license or other right otherwise granted
+to the District under any patent, with the exception of the technology, programs, and
+utilities developed for the web services server.
+1.6.12 Paragraphs 1.6.6, 1.6.7, I.6.8, 1.6.11, and 1.6.12 above do not apply to material
+furnished to the Contractor by the District and incorporated in work furnished under
+the contract, provided that the Contractor identifies such incorporated material at the
+time of delivery of such work
+1.7 OTHER CONTRACTORS
+The Contractor shall not commit or permit any act that will interfere with the
+performance of work by another District Contractor or by any District employee.
+1.8 PRE-AWARD APPROVAL The award and enforceability of this contract is
+contingent upon approval of the Council of the District of Columbia.
+In accordance with D.C. Official Code §2-301.0Sa, the mayor must submit to the Council
+for approval any contract action over one million dollars within 12 months. In accordance
+with D.C. Official Code §2-301.0Sa and §1- 204.Sl(c), the Council of the District of
+Columbia must approve the award of any contract with obligations extending beyond
+the fiscal year for which appropriated.
+1.9 SUBCONTRACTS
+The Contractor hereunder shall not subcontract any of the Contractor's work or
+services to any Subcontractor without the prior written consent of the Contracting
+Officer. Any work or service so subcontracted shall be performed pursuant to a
+subcontract agreement, which the District shall have the right to review and approve
+prior to its execution by the Contractor. Any such subcontract · shall specify that the
+Contractor and the Subcontractor shall be subject to every provision of this contract.
+Notwithstanding any such subcontract approved by the District, the Contractor shall
+remain liable to the District for all Contractor's work and services required
+hereunder.
+88
+
+1.10 CONTINUITY OF SERVICES
+I.10.1 The Contractor recognizes that the services provided under this contract are vital
+'
+to the District of Columbia and must be continued without interruption and that,
+upon contract expiration or termination, a successor, either the District
+Government or another Contractor, may continue to provide these services at the
+District's option. To that end, the Contractor agrees to:
+1.10.2 Furnish phase-out and phase-in (transition) training in all aspects of systems
+support and operation, including database training, program overview and
+architecture, and all support processes used to maintain the system.
+1.10.3 Exercise its best efforts and cooperation to effect an orderly and efficient transition
+to a successor, including assistance in mapping and migrating the database to the
+successor's database.
+I.10.4 Ensure all documentation required in the contract is complete and up-to-date and
+in a usable electronic format and a printed copy for archival purposes. The final
+monthly payment depends upon the delivery and acceptance of complete and up-
+to-date usable electronic format of all required documentation.
+1.10.S Provide a full description of the files, data records, data elements, and any other
+relevant information needed, along with a sample 'download' of the database for
+migration testing purposes at least three months prior to the end of the contract. A
+full download of all records will be provided at the end of the contract, and
+I.I 0.6 Exercise best efforts and cooperation to effect an orderly and efficient transition
+to a successor.
+I.I0.7 Release all support staff from any non-compete agreements at the end of the contract
+to allow the district to maintain as many support staff as needed to secure institutional
+knowledge and memory.
+1.11 INSURANCE
+The Contractor shall obtain the minimum insurance coverage set forth below prior
+to award of the contract and within ten (10) calendar days after being called upon by
+the District to do so and keep such insurance in force throughout the contract period.
+1.11.1 Bodily Injury: The Contractor shall carry bodily injury insurance coverage written
+in the comprehensive form of a policy of at least $500,000 per occurrence.
+1.11.2 Property Damage: The Contractor shall carry property damage insurance of at least
+$20,000 per occurrence.
+89
+
+1.11.3 Workers' Compensation: The Contractor shall carry workers' compensation
+insurance covering all of its employees employed upon the premises and in
+connection with its other operations pertaining to this contract, and the Contractor
+agrees to 'comply at all times with the provisions of the workers' compensation
+laws of the District.
+1.11.4 Employer's Liability: The Contractor shall carry employer's liability coverage of
+at least one hundred thousand dollars ($100,000).
+1.11.5 Automobile Liability: The Contractor shall maintain automobile liability insurance
+written on the comprehensive policy form. The policy shall provide for bodily injury
+and property damage liability, covering the operation of all automobiles used in
+connection with performing the contract. Policies shall provide coverage of at least
+$200,000 per person, $500,000 per occurrence for bodily injury, and $20,000 per
+occurrence for property damage.
+1.11.6 All insurance provided by the Contractor as required by this section, except
+comprehensive automobile liability insurance, shall set forth the District as an
+additional named insured. All insurance shall be written with responsible companies
+licensed by the District of Columbia's Department of Insurance and Securities
+Regulation with a certificate of insurance to be delivered to the District's
+Contracting Officer within fourteen (14) days of contract award. The insurance
+policies shall provide for at least thirty (30) days written notice to the District before
+their termination or material alteration.
+1.12 EQUAL EMPLOYMENT OPPORTUNITY
+In accordance with the District of Columbia Administrative Issuance System,
+Mayor's Order 85-85 dated June 10, 1985, the forms for completion of the Equal
+Employment Opportunity Information Report are incorporated herein as Attachment
+J4. An award cannot be made to any Offeror who has not satisfied the equal
+employment requirements as set forth by the Department of Human Rights, Office
+of Local Business Development.
+• 1.13 FIRST SOURCE EMPLOYMENT AGREEMENT
+The Contractor shall maintain compliance with the terms and conditions of the First
+Source Employment Agreement executed between the District of Columbia and the
+Contractor throughout the entire duration of the contract, including option periods,
+if any.
+I. 14 ORDER OF PRECEDENCE
+The following documents are incorporated into the CONTRACT by reference in the
+following order of precedence. Any inconsistency or conflict in language shall be
+resolved by giving precedence in the following order: the Supplies or
+90
+
+Services and Price/Cost Section (Section B), Specifications/Work Statement (Section
+C), the Special Contract Requirements (Section H), the Contract Clauses (Section I),
+Representations, Certifications (Section K), the Standard Contract Provisions·
+(Attachment J: -2), Exhibits 1,2, 3 and 4.
+1.15 OPTION FOR TRANSITION SERVICES
+The Contractor recognizes that the services provided under this contract are Vital to
+the District of Columbia and must continue without interruption. In the event that
+either (a) the contract expires or (b) the District terminates the contract, and either
+these events occur during the contract, or more than 120 days prior to the end of the
+contract, the District can exercise the Option for Transition Services for a period of
+up to 120 days. In the event that the District exercises this Option for Transition
+Services, the Contractor agrees to:
+i. Furnish phase-out, phase-in (transition) training.
+ii. Exercise its best efforts and cooperation to effect an orderly and efficient
+transition to a successor.
+iii. Negotiate a plan with a successor in good faith to determine the nature and
+extent of phase-in phase-out services required. The plan shall specify a
+training program and a date for transferring responsibilities for each division
+of work described in the plan and shall be subject to the Contracting Officer's
+approval.
+iv. Provide sufficient experienced personnel during the period of the Option
+for Transition Services to ensure that the services called for by this contract
+are maintained at the required level of proficiency.
+v. Allow as many of its personnel and subcontractor personnel as practicable
+to remain on the job to help the successor maintain the continuity and
+consistency of the services required by this contract. The Contractor Will be
+paid for Transition Services in accordance with the price Schedule in Section
+B.3 for a period of up to 120 days.
+1.16 CONTRACTS IN EXCESS OF ONE MILLION DOLLARS
+Any contract in excess of $1,000,000 shall not be binding or give rise to any claim
+or demand against the District until approved by the Council of the District of
+Columbia and signed by the Contracting Officer.
+1.17 DOCUMENTS INCORPORATED BY REFERENCE
+The following document is incorporated by reference and made a part of this
+contract:
+1. District of Columbia standard Contract Provision Dated July 2010.
+2. Attachment A: Indemnification to replace Indemnification Section 9 in SCP.
+91
+
+1.18 TOTAL AGREEMENT
+This contract, including any specifically incorporated documents, constitutes the
+total and entire agreement between the parties. All previous discussions, writings
+and agreements are merged herein.
+92
+
+ATTACHMENT A
+9. Indemnification:
+The Contractor agrees to defend and indemnify the District, its officers,
+agencies, departments, agents, and employees (collectively the "District")
+from and against any third-party claims, losses, liabilities, penalties, fines,
+forfeitures, demands, causes of action, suits, costs, and expenses attributed
+thereto (including reasonable cost of defense and attorneys' fees), attributed to
+the willful misconduct, reckless or gross negligence of Contractor,
+Contractor's officers, employees, agents, servants, subcontractors, or any
+other person acting for or by permission of the Contractor in performance of
+this Contract.
+Except for the fees and amount expressly due and payable to Contractor hereunder
+and notwithstanding anything else in the Agreement, Contractor's cumulative
+liability for any and all damages arising out of or relating to its performance of the
+Services and this Contract in the aggregate will not exceed twice the amount
+invoiced by Contractor to the District for the total charges payable to Contractor
+pursuant under this Agreement for such one hundred and twenty (120) days.
+UNDER NO CIRCUMSTANCES WILL EITHER PARTY TO THIS
+AGREEMENT BE LIABLE FOR ANY INCIDENTAL, CONSEQUENTIAL,
+INDIRECT, PUNITIVE OR SPECIAL DAMAGES ARISING OUT OF OR IN
+CONNECTION WITH THIS AGREEMENT, HOWEVER CAUSED AND BASED
+ON ANY THEORY OF LIABILITY.
+The Contractor assumes all risks for direct and indirect damage or injury to
+the property or persons used or employed in performance of this Contract.
+93
+
+The Contractor shall also repair or replace any District property that is
+damaged by the Contractor, Contractor's officers, employees, agents,
+servants, subcontractors, or any other person acting for or by permission of
+the Contractor while performing work hereunder
+The indemnification obligation under this section shall not be limited by the
+existence of any insurance policy and shall survive the termination of this
+Contract. The District agrees to give Contractor written notice of any claim of
+indemnity under this section.
+Additionally, Contractor shall have the right and sole authority to control the
+defense or settlement of such claim, provided that no contribution or action by
+the District is required in connection with the settlement. Monies due or to
+become due the Contractor may be retained by the District as necessary to
+satisfy any outstanding claim which the District may have against the
+Contractor.
+94

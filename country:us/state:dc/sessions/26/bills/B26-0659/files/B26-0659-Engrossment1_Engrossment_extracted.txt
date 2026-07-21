@@ -1,0 +1,1091 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1
+2
+3
+4 A BILL
+5
+6 26-659
+7
+8
+9 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+10
+11 ___________
+12
+13
+14 To adopt the local portion of the budget of the District of Columbia government for the fiscal
+15 year ending September 30, 2027.
+16
+17 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+18 act may be cited as the “Fiscal Year 2027 Local Budget Act of 2026”.
+19 Sec. 2. Adoption of the local portion of the Fiscal Year 2027 budget.
+20 The following expenditure levels are adopted pursuant to section 446(a) of the District of
+21 Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 801; D.C. Official Code § 1-
+22 204.46(a)), as the local portion of the budget for the government of the District of Columbia for
+23 the fiscal year ending September 30, 2027.
+24 DISTRICT OF COLUMBIA BUDGET FOR THE FISCAL YEAR
+25 ENDING SEPTEMBER 30, 2027
+26 The following amounts are appropriated for the District of Columbia government for the
+27 fiscal year ending September 30, 2027 (“Fiscal Year 2027”), out of the General Fund of the
+28 District of Columbia (“General Fund”), except as otherwise specifically provided; provided, that:
+1
+
+ENGROSSED ORIGINAL
+29 (1) Notwithstanding any other provision of law, except as provided in sections
+30 446A, 446B, and 450A of the District of Columbia Home Rule Act, approved November 22,
+31 2000 (114 Stat. 2440; D.C. Official Code §§ 1-204.46a, 1-204.46b, and 1-204.50a), D.C. Official
+32 Code §§ 47-369.01 and 47-369.02, and provisions of this act, the total amount appropriated in
+33 this act for operating expenses for the District of Columbia for Fiscal Year 2027 shall not exceed
+34 the sum of the total revenues of the District of Columbia for such fiscal year or $21,828,717,079
+35 (of which $12,229,900,871 shall be from local funds, $750,242,019 shall be from dedicated
+36 taxes, $1,352,397,079 shall be from federal grant funds, $4,188,440,725 shall be from Medicaid
+37 payments, $764,391,462 shall be from other funds, $38,500,000 shall be from other federal
+38 funds, $13,095,406 shall be from private grant funds, $1,357,336 shall be from private donations,
+39 $153,297,999 shall be from funds requested to be appropriated by the Congress as federal
+40 payments pursuant to the Fiscal Year 2027 Federal Portion Budget Request Act of 2026, passed
+41 on _______, 2026 (Enrolled version of Bill 26-____) (“Fiscal Year 2027 Federal Portion Budget
+42 Request Act of 2026”), $133,060,665 shall be from enterprise and other funds – dedicated taxes,
+43 and $2,204,033,517 shall be from enterprise and other funds);
+44 (2) Of the local funds, such amounts as may be necessary may be derived from
+45 the General Fund balance;
+46 (3) Amounts appropriated under this act shall be increased or decreased to reflect
+47 the amount of federal payment funds appropriated by Congress for Fiscal Year 2027;
+48 (4) Amounts appropriated under this act may be increased by the proceeds of one-
+2
+
+ENGROSSED ORIGINAL
+49 time transactions that are expended for emergency or unanticipated operating or capital needs;
+50 provided, that such increases shall be approved by enactment of local District law and shall
+51 comply with all reserve requirements contained in the District of Columbia Home Rule Act,
+52 approved December 24, 1973 (87 Stat. 774; D.C. Official Code § 1-201.01 et seq.);
+53 (5) Local funds are appropriated, without regard to fiscal year, in such amounts as
+54 may be necessary to pay vendor fees, including legal fees, that are obligated in this fiscal year, to
+55 be paid as a fixed percentage of District revenue recovered from third parties on behalf of the
+56 District under contracts that provide for payment of fees based upon and from such District
+57 revenue as may be recovered by the vendor;
+58 (6) Amounts appropriated under this act as operating funds may be transferred to
+59 enterprise and capital funds and such amounts, once transferred, shall retain appropriation
+60 authority consistent with the provisions of this act;
+61 (7) There may be reprogrammed or transferred for operating expenses any local
+62 funds transferred or reprogrammed in this or the 4 prior fiscal years from operating funds to
+63 capital funds, and such amounts, once transferred or reprogrammed, shall retain appropriation
+64 authority consistent with the provisions of this act; except, that there may not be reprogrammed
+65 for operating expenses any funds derived from bonds, notes, or other obligations issued for
+66 capital projects;
+67 (8) The local funds (including dedicated taxes) and other funds appropriated by
+68 this act may be reprogrammed and transferred as provided in Subchapter IV of Chapter 3 of Title
+3
+
+ENGROSSED ORIGINAL
+69 47 of the District of Columbia Official Code, or as otherwise provided by law, through
+70 November 15, 2027;
+71 (9) Local funds and other funds appropriated under this act may be expended by
+72 the Mayor for the purpose of providing food and beverages, not to exceed $30 per employee per
+73 day, to employees of the District of Columbia government while such employees are deployed in
+74 response to or during a declared snow or other emergency;
+75 (10) Local funds and other funds appropriated under this act may be expended by
+76 the Mayor to provide food and lodging, in amounts not to exceed the General Services
+77 Administration per diem rates, for youth, young adults, and their parents or guardians who
+78 participate in a program of the District of Columbia government that involves overnight travel
+79 outside the District of Columbia;
+80 (11) Notwithstanding any other provision of law, local funds are appropriated,
+81 without regard to fiscal year, to the extent such funds are certified as available by the Chief
+82 Financial Officer of the District of Columbia, to pay termination costs of multiyear contracts
+83 entered into by the District of Columbia during this fiscal year, to design, construct, improve,
+84 maintain, operate, manage, or finance infrastructure projects procured pursuant to the Public-
+85 Private Partnership Act of 2014, effective March 11, 2015 (D.C. Law 20-228; D.C. Official Code
+86 § 2-271.01 et seq.), including, by way of example and not limitation, a project for the
+87 replacement and modernization of the District of Columbia’s streetlight system, and such
+88 termination costs may be paid from appropriations available for the performance of such
+4
+
+ENGROSSED ORIGINAL
+89 contracts or the payment of termination costs or from other appropriations then available for any
+90 other purpose, not including the emergency cash reserve fund (D.C. Official Code § 1-
+91 204.50a(a)) or the contingency cash reserve fund (D.C. Official Code § 1-204.50a(b)), which,
+92 once allocated to these costs, shall be deemed appropriated for the purposes of paying
+93 termination costs of such contracts and shall retain appropriations authority and remain available
+94 until expended;
+95 (12) Notwithstanding any other provision of law, local funds are appropriated,
+96 without regard to fiscal year, to the extent such funds are certified as available by the Chief
+97 Financial Officer of the District of Columbia, to pay termination, transfer, or change of
+98 ownership costs of multiyear contracts entered into by the District of Columbia during this fiscal
+99 year, to design, construct, improve, maintain, operate, manage, and finance infrastructure
+100 projects for the purpose of on-site generation and distribution of energy, including, by way of
+101 example and not limitation, a project on the St. Elizabeths campus for the construction and
+102 operation of an energy resources microgrid, and such termination, transfer, or change of
+103 ownership costs may be paid from appropriations available for the performance of such contracts
+104 or the payment of termination, transfer, or change of ownership costs or from other
+105 appropriations then available for any other purpose, not including the emergency cash reserve
+106 fund (D.C. Official Code § 1-204.50a(a)) or the contingency cash reserve fund (D.C. Official
+107 Code § 1-204.50a(b)), which, once allocated to these costs, shall be deemed appropriated for the
+108 purposes of paying termination, transfer or change of ownership costs of such contracts and shall
+5
+
+ENGROSSED ORIGINAL
+109 retain appropriations authority and remain available until expended;
+110 (13) During Fiscal Year 2027, notwithstanding any other provision of law, the
+111 District of Columbia may enter into annual and multiyear agreements with the National Park
+112 Service for the purposes of planning, designing, constructing, maintaining, improving, and
+113 operating District of Columbia transportation infrastructure and related appurtenances on
+114 National Park Service land in the District of Columbia, and may in each fiscal year of such
+115 agreement expend such funds to implement the agreement as may be appropriated and available
+116 in that fiscal year for such purposes;
+117 (14) Any unspent amount remaining in a non-lapsing fund listed in the
+118 appropriations below at the end of Fiscal Year 2026 is to be continually available, allocated, and
+119 appropriated, and may be expended, for the purposes of such fund in Fiscal Year 2027 in
+120 addition to any amounts deposited in and appropriated to such fund in Fiscal Year 2027; and
+121 (15) The Chief Financial Officer shall take such steps as are necessary to ensure
+122 that the foregoing requirements are met, including the apportioning by the Chief Financial
+123 Officer of the appropriations and funds made available during Fiscal Year 2027:
+124 GOVERNMENTAL DIRECTION AND SUPPORT
+125 For governmental direction and support, $1,257,059,712 (including $1,021,734,309 from
+126 local funds, $507,202 from dedicated taxes, $42,938,873 from federal grant funds, $190,960,992
+127 from other funds, and $918,336 from private donations), to be allocated as follows:
+128 (1) Board of Elections. $13,503,839 from local funds;
+6
+
+ENGROSSED ORIGINAL
+129 (2) Board of Ethics and Government Accountability: $4,092,650 (including
+130 $3,934,552 from local funds and $158,098 from other funds); provided, that all funds deposited,
+131 without regard to fiscal year, into the following funds are authorized for expenditure and shall
+132 remain available for expenditure until September 30, 2027: the Ethics Fund, the Lobbyist
+133 Administration and Enforcement Fund, and the Open Government Fund;
+134 (3) Captive Insurance Agency: $11,440,613 (including $10,595,024 from local
+135 funds and $845,589 from other funds); provided, that all funds deposited, without regard to fiscal
+136 year, into the Medical Captive Insurance Claims Reserve Fund are authorized for expenditure
+137 and shall remain available for expenditure until September 30, 2027; provided further, that all
+138 funds deposited during Fiscal Year 2027 into the following funds are authorized for expenditure
+139 and shall remain available for expenditure until September 30, 2027: the Captive Trust Fund and
+140 the Subrogation Fund;
+141 (4) Contract Appeals Board: $2,018,978 from local funds;
+142 (5) Council of the District of Columbia: $41,384,656 from local funds; provided,
+143 that not to exceed $50,000 of this amount shall be available for the Chairman for official
+144 reception and representation expenses and for purposes consistent with the Discretionary Funds
+145 Act of 1973, approved October 26, 1973 (87 Stat. 509; D.C. Official Code § 1-333.10); provided
+146 further, that funds appropriated under this act may be used to pay expenses for employees of the
+147 Council of the District of Columbia to obtain or maintain professional credentials in the District
+148 that are related to their employment at the Council, including bar admission fees, bar dues and
+7
+
+ENGROSSED ORIGINAL
+149 fees, court admission fees, and examinations to obtain such credentials; provided further, that
+150 funds appropriated under this act may be used for uniform apparel for employees of the Council
+151 of the District of Columbia; provided further, that Councilmembers of the Council of the District
+152 of Columbia may use the electric car charging station located outside the John A. Wilson
+153 Building to charge their personal vehicles in accordance with policies established by the
+154 Secretary to the Council; provided further, that amounts provided under this paragraph shall be
+155 available for the making of payment of legal settlements or judgments that have been entered
+156 against the Council; provided further, that not to exceed $390,000 of this amount shall be
+157 available to assess and enhance the physical security of Councilmembers’ permanent residences,
+158 of which not to exceed $260,000 shall be available to assess the physical security of each
+159 Councilmember’s permanent residence and not to exceed $10,000 shall be available for each
+160 Councilmember to implement the recommendations of the authorized security assessment to
+161 enhance the physical security of the Councilmember’s permanent residence, consistent with a
+162 policy promulgated by the Secretary to the Council; provided further, that all funds deposited,
+163 without regard to fiscal year, into the Council Technology Projects Fund are authorized for
+164 expenditure and shall remain available for expenditure until September 30, 2027;
+165 (6) Department of General Services: $480,910,162 (including $397,602,293 from
+166 local funds, $507,202 from dedicated taxes, and $82,800,667 from other funds); provided, that
+167 all funds deposited during Fiscal Year 2027 into the following funds are authorized for
+168 expenditure and shall remain available for expenditure until September 30, 2027: the Eastern
+8
+
+ENGROSSED ORIGINAL
+169 Market Enterprise Fund and the West End Library and Fire Station Maintenance Fund;
+170 (7) Department of Human Resources: $20,238,819 (including $11,246,428 from
+171 local funds and $8,992,391 from other funds); provided, that all funds deposited, without regard
+172 to fiscal year, into the following funds are authorized for expenditure and shall remain available
+173 for expenditure until September 30, 2027: Agreement with Independent Agencies Fund, Defined
+174 Benefits Retirement Fund, Health Benefit Assessment Fund, and Reimbursements from Other
+175 Governments Fund;
+176 (8) Employees’ Compensation Fund: $18,276,541 from local funds; provided, that
+177 all funds deposited, without regard to fiscal year, into the Employees’ Compensation Fund are
+178 authorized for expenditure and shall remain available for expenditure until September 30, 2027;
+179 (9) Executive Office of the Mayor: $32,718,715 (including $28,586,521 from
+180 local funds, $4,109,080 from federal grant funds, and $23,114 from other funds); provided, that
+181 not to exceed $25,000 of such amount, from local funds, shall be available for the Mayor for
+182 official reception and representation expenses and for purposes consistent with the Discretionary
+183 Funds Act of 1973, approved October 26, 1973 (87 Stat. 509; D.C. Official Code § 1-333.10);
+184 provided further, that all funds deposited during Fiscal Year 2027 into the following funds are
+185 authorized for expenditure and shall remain available for expenditures until September 30, 2027:
+186 the Emancipation Day Fund, the Office of Lesbian, Gay, Bisexual, Transgender, and
+187 Questioning Affairs Fund, and the Office of Veterans Affairs Fund;
+188 (10) Mayor’s Office of Legal Counsel: $1,941,427 from local funds;
+9
+
+ENGROSSED ORIGINAL
+189 (11) Metropolitan Washington Council of Governments: $1,483,960 from local
+190 funds;
+191 (12) Office of Advisory Neighborhood Commissions: $2,774,532 from local
+192 funds; provided, that all funds deposited, without regard to fiscal year, into the following funds
+193 are authorized for expenditure and shall remain available for expenditure until September 30,
+194 2027: the Advisory Neighborhood Commissions Technical Support and Assistance Fund and the
+195 Office of Advisory Neighborhood Commission Security Fund;
+196 (13) Office of Campaign Finance: $8,023,726 from local funds; provided, that all
+197 funds deposited during Fiscal Year 2027 into the Fair Elections Fund are authorized for
+198 expenditure and shall remain available for expenditure until September 30, 2027;
+199 (14) Office of Contracting and Procurement: $26,650,538 (including $20,853,738
+200 from local funds and $5,796,800 from other funds); provided, that all funds deposited during
+201 Fiscal Year 2027 into the Surplus Property Fund are authorized for expenditure and shall remain
+202 available for expenditure until September 30, 2027;
+203 (15) Office of Disability Rights: $3,734,903 (including $3,108,591 from local
+204 funds and $626,312 from federal grant funds);
+205 (16) Office of Employee Appeals: $2,925,407 from local funds;
+206 (17) Office of Finance and Resource Management: $32,896,312 (including
+207 $32,673,609 from local funds and $222,703 from other funds); provided, that all funds deposited
+208 during Fiscal Year 2027 into the Utilities Payment for Non-DC Agencies Fund are authorized for
+10
+
+ENGROSSED ORIGINAL
+209 expenditure and shall remain available for expenditure until September 30, 2027;
+210 (18) Office of Labor Relations and Collective Bargaining: $3,434,505 from local
+211 funds;
+212 (19) Office of Risk Management: $4,047,086 from local funds;
+213 (20) Office of the Attorney General for the District of Columbia: $159,785,587
+214 (including $103,548,885 from local funds, $31,091,887 from federal grant funds, $24,226,479
+215 from other funds, and $918,336 from private donations); provided, that not to exceed $25,000 of
+216 this amount, from local funds, shall be available for the Attorney General for official reception
+217 and representation expenses and for purposes consistent with the Discretionary Funds Act of
+218 1973, approved October 26, 1973 (87 Stat. 509; D.C. Official Code § 1-333.10); provided
+219 further, that local and other funds appropriated under this act may be used to pay expenses for
+220 District government attorneys at the Office of the Attorney General for the District of Columbia
+221 to obtain professional credentials, including bar dues and court admission fees, that enable these
+222 attorneys to practice law in other state and federal jurisdictions and appear outside the District in
+223 state and federal courts; provided further, that all funds deposited, without regard to fiscal year,
+224 into the following funds are authorized for expenditure and shall remain available for
+225 expenditure until September 30, 2027: the Child Support-Reimbursements and Fees Fund, the
+226 Child Support-Interest Income Fund, the Child Support-Temporary Assistance for Needy
+227 Families Fund, the Drug-, Firearm-, or Prostitution-Related Nuisance Abatement Fund, and the
+228 Litigation Support Fund; provided further, that this amount may be further increased by amounts
+11
+
+ENGROSSED ORIGINAL
+229 deposited into the Attorney General Restitution Fund, the Vulnerable and Elderly Person
+230 Exploitation Restitution Fund, and the Tenant Receivership Abatement Fund, which shall be
+231 continually available, without regard to fiscal year, until expended;
+232 (21) Office of the Chief Financial Officer: $221,181,516 (including $181,092,800
+233 from local funds, $550,000 from federal grant funds, and $39,538,716 from other funds);
+234 provided, that not to exceed $10,600 of such amount, from local funds, shall be available for the
+235 Chief Financial Officer for official reception and representation expenses and for purposes
+236 consistent with the Discretionary Funds Act of 1973, approved October 26, 1973 (87 Stat. 509;
+237 D.C. Official Code § 1-333.10); provided further, that amounts appropriated by this act may be
+238 increased by the amount required to pay banking fees for maintaining the funds of the District of
+239 Columbia; provided further, that all funds deposited, without regard to fiscal year, into the
+240 following funds are authorized for expenditure and shall remain available for expenditure until
+241 September 30, 2027: the Internet Gaming Revenue Fund, the Other Post-Employment Benefits
+242 Fund, and the Child Trust Fund; provided further, that all funds deposited during Fiscal Year
+243 2027 into the following funds are authorized for expenditure and shall remain available for
+244 expenditure until September 30, 2027: the DC Lottery Reimbursement Fund, the Defined
+245 Contribution Plan Administration Fund, the Delinquent Debt Fund, the Dishonored Check Fees
+246 Fund, the Health Benefits Fees Fund, the Payroll Services Fees Fund, the Recorder of Deeds
+247 Automation Fund, the Service Contracts Fund, the Tobacco Fund Reimbursement Fund, and the
+248 United Medical Center Closeout Fund;
+12
+
+ENGROSSED ORIGINAL
+249 (22) Office of the Chief Technology Officer: $113,215,893 (including
+250 $83,590,597 from local funds, $3,361,769 from federal grant funds, and $26,263,528 from other
+251 funds); provided, that all funds deposited, without regard to fiscal year, into the following funds
+252 are authorized for expenditure and shall remain available for expenditure until September 30,
+253 2027: the DC-NET Services and Innovation Fund and the Technology Infrastructure Services
+254 Support Fund;
+255 (23) Office of the City Administrator: $10,301,861from local funds; provided,
+256 that not to exceed $10,600 of such amount, from local funds, shall be available for the City
+257 Administrator for official reception and representation expenses and for purposes consistent with
+258 the Discretionary Funds Act of 1973, approved October 26, 1973 (87 Stat. 509; D.C. Official
+259 Code § 1-333.10);
+260 (24) Office of the District of Columbia Auditor: $7,563,130 from local funds;
+261 provided, that all funds deposited, without regard to fiscal year, into the Audit Engagement Fund
+262 are authorized for expenditure and shall remain available for expenditure until September 30,
+263 2027;
+264 (25) Office of the Inspector General: $23,622,254 (including $19,422,428 from
+265 local funds, $3,199,826 from federal grant funds, and $1,000,000 from other funds); provided,
+266 that all funds deposited, without regard to fiscal year, into the Inspector General Support Fund
+267 are authorized for expenditure and shall remain available for expenditure until September 30,
+268 2027;
+13
+
+ENGROSSED ORIGINAL
+269 (26) Office of the Secretary: $5,546,869 (including $4,453,962 from local funds
+270 and $1,092,907 from other funds); provided, that all funds deposited during Fiscal Year 2027
+271 into the Distribution Fee Fund are authorized for expenditure and shall remain available for
+272 expenditure until September 30, 2027;
+273 (27) Office of the Senior Advisor: $1,502,621 from local funds;
+274 (28) Public Employee Relations Board: $1,510,732 from local funds;
+275 (29) Statehood Initiatives: $266,883 from local funds; provided, that all funds
+276 deposited, without regard to fiscal year, into the New Columbia Statehood Fund are authorized
+277 for expenditure and shall remain available for expenditure until September 30, 2027; and
+278 (30) Uniform Law Commission: $65,000 from local funds.
+279 ECONOMIC DEVELOPMENT AND REGULATION
+280 For economic development and regulation, $543,951,506 (including $356,740,887 from
+281 local funds, $49,804,378 from dedicated taxes, $42,158,445 from federal grant funds,
+282 $56,747,797 from other funds, and $38,500,000 from other federal funds), to be allocated as
+283 follows:
+284 (1) Business Improvement Districts Transfer: $43,100,000 (including $2,100,000
+285 from local funds and $41,000,000 from other funds); provided, that, in the event that revenue
+286 dedicated by local law to a business improvement district exceeds the amount set forth in this
+287 paragraph, the General Fund budget authority may be increased as needed to transfer all such
+288 revenue, pursuant to local law, to the business improvement district.
+14
+
+ENGROSSED ORIGINAL
+289 (2) Commission on the Arts and Humanities: $47,586,443 (including $3,533,666
+290 from local funds, $43,025,777 from dedicated taxes and $1,027,000 from federal grant funds);
+291 provided, that all funds deposited, without regard to fiscal year, into the Arts and Humanities
+292 Fund are authorized for expenditure and shall remain available for expenditure until September
+293 30, 2027; provided further, that budgeted funds in the available fund balance of the Arts and
+294 Humanities Fund may be obligated in Fiscal Year 2027 pursuant to grant awards, through
+295 September 30, 2030, and that such funds so obligated are authorized for expenditure and shall
+296 remain available for expenditure until September 30, 2030;
+297 (3) Department of Housing and Community Development: $135,422,337
+298 (including $53,395,923 from local funds, $39,668,714 from federal grant funds, $38,500,000
+299 from other federal funds, and $3,857,700 from other funds); provided further, that all funds
+300 deposited, without regard to fiscal year, into the following funds are authorized for expenditure
+301 and shall remain available for expenditure until September 30, 2027: the Home Again Revolving
+302 Fund, the Housing Preservation Fund, the Negotiated Employee Affordable Housing Fund, and
+303 the Section 108 Debt Reserve Account; provided further, that all funds deposited, without regard
+304 to fiscal year, into the Rental Housing Registration Fund are authorized for expenditure starting
+305 at the beginning of the applicable time period set forth section in 203e(d) of the Rental Housing
+306 Act of 1985, effective October 30, 2018 (D.C. Law 22-168; D.C. Official Code § 42-
+307 3502.03e(d)), and shall remain available for expenditure until September 30, 2027; provided
+308 further, that all funds deposited during Fiscal Year 2027 into the following funds are authorized
+15
+
+ENGROSSED ORIGINAL
+309 for expenditure and shall remain available for expenditure until September 30, 2027: the
+310 Department of Housing and Community Development Unified Fund and the Home Purchase
+311 Assistance Fund;
+312 (4) Department of Small and Local Business Development: $22,944,774
+313 (including $22,224,558 from local funds and $720,217 from federal grant funds); provided, that
+314 all funds deposited, without regard to fiscal year, into the following funds are authorized for
+315 expenditure and shall remain available for expenditure until September 30, 2027: the Small
+316 Business Capital Access Fund, the Small Business Licensing Fee Reimbursement Relief Fund,
+317 the Streetscape Business Development Relief Fund, and the Ward 7 and Ward 8 Entrepreneur
+318 Grant Fund;;
+319 (5) Housing Authority Payment: $214,520,432 from local funds;
+320 (6) Office of Cable Television, Film, Music, and Entertainment: $12,008,025
+321 (including $6,155,107 from local funds and $5,852,918 from other funds); provided, that all
+322 funds deposited, without regard to fiscal year, into the following funds are authorized for
+323 expenditure and shall remain available for expenditure until September 30, 2027: the Film,
+324 Television and the Entertainment Rebate Fund; provided further, that all funds deposited during
+325 Fiscal Year 2027 into the OCTFME Special Account are authorized for expenditure and shall
+326 remain available for expenditure until September 30, 2027;
+327 (7) Office of Planning: $12,124,347 (including $11,468,347 from local funds,
+328 $626,000 from federal grant funds, and $30,000 from other funds); provided, that all funds
+16
+
+ENGROSSED ORIGINAL
+329 deposited during Fiscal Year 2027 into the following funds are authorized for expenditure and
+330 shall remain available for expenditure until September 30, 2027: the Historic Landmark-District
+331 Protection (Local) Fund, the Targeted Homeowner Grant Fund, and the Historical Landmark-
+332 District Protection (O-Type) Fund;
+333 (8) Office of the Deputy Mayor for Planning and Economic Development:
+334 $44,080,756 (including $31,891,105 from local funds, $6,778,601 from dedicated taxes,
+335 $116,514 from federal grant funds, and $5,294,536 from other funds); provided, that all funds
+336 deposited, without regard to fiscal year, into the following funds are authorized for expenditure
+337 and shall remain available for expenditure until September 30, 2027: the Economic Development
+338 Special Account, the Industrial Revenue Bond Account, the Soccer Stadium Financing Fund, the
+339 Vitality Fund, and the Walter Reed Reinvestment Fund; provided further, that all funds deposited
+340 during Fiscal Year 2027 into the following funds are authorized for expenditure and shall remain
+341 available for expenditure until September 30, 2027: the St. Elizabeths East Campus
+342 Redevelopment Fund and the Walter Reed Redevelopment Fund;
+343 (9) Office of the Tenant Advocate: $4,724,595 (including $4,011,953 from local
+344 funds and $712,642 from other funds); provided, that all funds deposited during Fiscal Year
+345 2027 into the Rental Unit Fee Fund are authorized for expenditure and shall remain available for
+346 expenditure until September 30, 2027;
+347 (10) Office of Zoning: $4,210,378 from local funds;
+348 (11) Real Property Tax Appeals Commission: $2,009,173 from local funds; and
+17
+
+ENGROSSED ORIGINAL
+349 (12) Rental Housing Commission: $1,220,246 from local funds.
+350 PUBLIC SAFETY AND JUSTICE
+351 For public safety and justice, $1,977,320,162 (including $1,699,240,924 from local
+352 funds, $230,644,242 from federal grant funds, $300,000 from Medicaid payments, $42,836,997
+353 from other funds, $948,000 from federal payment funds requested to be appropriated by the
+354 Congress under the heading “Federal Payment for Judicial Commissions” in the Fiscal Year
+355 2027 Federal Portion Budget Request Act of 2026, $600,000 from federal payment funds
+356 requested to be appropriated by the Congress under the heading “Federal Payment for the
+357 District of Columbia National Guard” in the Fiscal Year 2027 Federal Portion Budget Request
+358 Act of 2026, $2,749,999 from federal payment funds requested to be appropriated by the
+359 Congress under the heading “Federal Payment to the Criminal Justice Coordinating Council” in
+360 the Fiscal Year 2027 Federal Portion Budget Request Act of 2026; provided, that the foregoing
+361 amounts shall be increased or decreased to reflect the amount of federal payment funds
+362 appropriated by Congress for Fiscal Year 2027, to be allocated as follows:
+363 (1) Commission on Judicial Disabilities and Tenure: $1,244,426 (including
+364 $646,426 from local funds and $598,000 from federal payment funds requested to be
+365 appropriated by the Congress under the heading “Federal Payment for Judicial Commissions” in
+366 the Fiscal Year 2027 Federal Portion Budget Request Act of 2026); provided, that the foregoing
+367 amounts shall be increased or decreased to reflect the amount of federal payment funds
+368 appropriated by Congress for the agency for Fiscal Year 2027;
+18
+
+ENGROSSED ORIGINAL
+369 (2) Corrections Information Council: $1,090,894 from local funds;
+370 (3) Criminal Justice Coordinating Council: $4,857,836 (including $1,957,837
+371 from local funds, $150,000 from federal grant funds, and $2,749,999 from federal payment funds
+372 requested to be appropriated by the Congress under the heading “Federal Payment to the
+373 Criminal Justice Coordinating Council” in the Fiscal Year 2027 Federal Portion Budget Request
+374 Act of 2026); provided, that the foregoing amounts shall be increased or decreased to reflect the
+375 amount of federal payment funds appropriated by Congress for the agency for Fiscal Year 2027;
+376 (4) Department of Corrections: $229,036,605 (including $211,830,838 from local
+377 funds and $17,205,767 from other funds); provided, that all funds deposited in Fiscal Year 2027
+378 into the following funds are authorized for expenditure and shall remain available for
+379 expenditure until September 30, 2027: the Correction Reimbursement-Juveniles Fund, the
+380 Department of Corrections Reimbursement Fund, and the Inmate Welfare Fund;
+381 (5) Department of Forensic Sciences: $28,882,441 (including $28,514,096 from
+382 local funds and $368,345 from federal grant funds); provided, that all funds deposited, without
+383 regard to fiscal year, into the Department of Forensic Sciences Laboratory Fund are authorized
+384 for expenditure and shall remain available for expenditure until September 30, 2027;
+385 (6) Department of Youth Rehabilitation Services: $101,984,756 from local funds;
+386 (7) District of Columbia National Guard: $23,763,917 (including $6,099,294 from
+387 local funds, $17,034,623 from federal grant funds, $30,000 from other funds, and $600,000 from
+388 federal payment funds requested to be appropriated by the Congress under the heading “Federal
+19
+
+ENGROSSED ORIGINAL
+389 Payment for the District of Columbia National Guard” in the Fiscal Year 2027 Federal Portion
+390 Budget Request Act of 2026); provided, that the foregoing amounts shall be increased or
+391 decreased to reflect the amount of federal payment funds appropriated by Congress for the
+392 agency for Fiscal Year 2027; provided further, that the Mayor shall reimburse the District of
+393 Columbia National Guard for expenses incurred in connection with services that are performed
+394 in emergencies by the National Guard in a militia status and are requested by the Mayor, in
+395 amounts that shall be jointly determined and certified as due and payable for these services by
+396 the Mayor and the Commanding General of the District of Columbia National Guard; provided
+397 further, that such sums as may be necessary for reimbursement to the District of Columbia
+398 National Guard under the preceding proviso shall be available pursuant to this act, and the
+399 availability of the sums shall be deemed as constituting payment in advance for emergency
+400 services involved;
+401 (8) District of Columbia Sentencing Commission: $1,739,550 from local funds;
+402 (9) Fire and Emergency Medical Services Department: $402,630,093 (including
+403 $302,308,345 from local funds, $98,522,288 from federal grant funds, and $1,799,460 from
+404 other funds); provided, that all funds deposited in Fiscal Year 2027 into the Fire and Emergency
+405 Medical Services Department EMS Reform Fund are authorized for expenditure and shall remain
+406 available for expenditure until September 30, 2027;
+407 (10) Homeland Security and Emergency Management Agency: $101,022,414
+408 (including $10,749,565 from local funds and $90,272,849 from federal grant funds);
+20
+
+ENGROSSED ORIGINAL
+409 (11) Judicial Nomination Commission: $387,355 (including $37,355 from local
+410 funds and $350,000 from federal payment funds requested to be appropriated by the Congress
+411 under the heading “Federal Payment for Judicial Commissions” in the Fiscal Year 2027 Federal
+412 Portion Budget Request Act of 2026); provided, that the foregoing amounts shall be increased or
+413 decreased to reflect the amount of federal payment funds appropriated by Congress for the
+414 agency for Fiscal Year 2027;
+415 (12) Metropolitan Police Department: $687,896,179 (including $673,917,599
+416 from local funds, $7,550,633 from federal grant funds, and $6,427,947 from other funds);
+417 provided, that all funds deposited during Fiscal Year 2026 into the following funds are
+418 authorized for expenditure and shall remain available for expenditure until September 30, 2027:
+419 the Asset Forfeiture Fund and the Miscellaneous Fund;
+420 (13) Office of Administrative Hearings: $13,160,563 (including $12,860,563 from
+421 local funds and $300,000 from Medicaid payments);
+422 (14) Office of Human Rights: $9,652,059 (including $9,232,910 from local funds
+423 and $419,150 from federal grant funds);
+424 (15) Office of Neighborhood Safety and Engagement: $22,846,605 from local
+425 funds; provided, that the Office of Neighborhood Safety and Engagement is authorized to spend
+426 appropriated funds for the purposes set forth in section 101 of the Neighborhood Engagement
+427 Achieves Results Amendment Act of 2016, effective June 30, 2016 (D.C. Law 21-125; D.C.
+428 Official Code § 7-2411); provided further, that all funds deposited, without regard to fiscal year,
+21
+
+ENGROSSED ORIGINAL
+429 into the Neighborhood Safety and Engagement Fund are authorized for expenditure and shall
+430 remain available for expenditure until September 30, 2027;
+431 (16) Office of Police Complaints: $3,295,343 from local funds;
+432 (17) Office of the Chief Medical Examiner: $16,252,964 (including $15,697,255
+433 from local funds, $240,409 from federal grant funds, and $315,301 from other funds); provided,
+434 that all funds deposited in Fiscal Year 2027 into the Medical Examiner Pathology and
+435 Toxicology Fund are authorized for expenditure and shall remain available for expenditure until
+436 September 30, 2027;
+437 (18) Office of the Deputy Mayor for Public Safety and Justice: $14,176,136 from
+438 local funds;
+439 (19) Office of Unified Communications: $60,186,154 (including $43,727,632
+440 from local funds and $16,458,522 from other funds); provided, that all funds deposited, without
+441 regard to fiscal year, into the Emergency and Non-Emergency Number Telephone Calling
+442 Systems Fund are authorized for expenditure and shall remain available for expenditure until
+443 September 30, 2027; provided further, that all funds deposited during Fiscal Year 2027 into the
+444 Public Services Telecommunications Fund are authorized for expenditure and shall remain
+445 available for expenditure until September 30, 2027;
+446 (20) Office of Victim Services and Justice Grants: $109,247,873 (including
+447 $92,561,926 from local funds, $16,085,946 from federal grant funds, and $600,000 from other
+448 funds); provided, that $31,786,532 shall be made available to award a grant to the District of
+22
+
+ENGROSSED ORIGINAL
+449 Columbia Bar Foundation for the purpose of administering the Access to Justice Initiative,
+450 including the Access to Justice Grants Program, the District of Columbia Poverty Lawyer Loan
+451 Repayment Assistance Program, and the Civil Legal Counsel Projects Program; provided further,
+452 that the funds authorized for expenditure for the Access to Justice Initiative shall remain
+453 available for expenditure, without regard to fiscal year, until September 30, 2027; provided, that
+454 all funds deposited, without regard to fiscal year, into the Crime Victims Assistance Fund are
+455 authorized for expenditure and shall remain available for expenditure until September 30, 2027;
+456 provided further, that all funds deposited during Fiscal Year 2027 into the following funds are
+457 authorized for expenditure and shall remain available for expenditure until September 30, 2027:
+458 the Community-Based Violence Reduction Fund and the Private Security Camera Incentive
+459 Fund; and
+460 (21) Police Officers’ and Firefighters’ Retirement System: $143,966,000 from
+461 local funds.
+462 PUBLIC EDUCATION SYSTEMS
+463 For the public education systems, $4,450,436,310 (including $3,859,593,885 from local
+464 funds, $419,832,455 from federal grant funds, $90,071,434 from other funds, $5,641,536 from
+465 private grant funds, $297,000 from private donations, $40,000,000 from federal payment funds
+466 requested to be appropriated by the Congress under the heading “Federal Payment for Resident
+467 Tuition Support” in the Fiscal Year 2027 Federal Portion Budget Request Act of 2026 for the
+468 purposes specified in sections 3 and 5 of the District of Columbia College Access Act of 1999,
+23
+
+ENGROSSED ORIGINAL
+469 approved November 12, 1999 (113 Stat 1328; D.C. Official Code §§ 38-2702 and 38-2704), and
+470 $35,000,000 from federal payment funds requested to be appropriated by the Congress under the
+471 heading “Federal Payment for School Improvement” in the Fiscal Year 2027 Federal Portion
+472 Budget Request Act of 2026 for the purposes specified in section 3004(b) of the Scholarships for
+473 Opportunity and Results Act, approved April 15, 2011 (125 Stat 200; D.C. Official Code § 38-
+474 1853.04(b)); provided, that the foregoing amounts shall be increased or decreased to reflect the
+475 amount of federal payment funds appropriated by Congress for Fiscal Year 2027, to be allocated
+476 as follows:
+477 (1) Department of Employment Services: $183,486,698 (including $68,807,291
+478 from local funds, $49,186,006 from federal grant funds, $64,665,376 from other funds, and
+479 $828,025 from private grant funds); provided, that the Department of Employment Services is
+480 authorized to spend appropriated funds to provide food and non-alcoholic beverages and
+481 monetary and non-monetary incentives for participants in its programs, as provided by other
+482 District or federal law, and to provide food and non-alcoholic beverages to its employees, as
+483 provided by other District or federal law; provided further, that all funds deposited, without
+484 regard to fiscal year, into the following funds are authorized for expenditure and shall remain
+485 available for expenditure until September 30, 2027: the Reed Act Fund, the Unemployment and
+486 Workforce Development Administrative Fund, the Unemployment Insurance Interest Account,
+487 the Unemployment Insurance Special Administrative Expense Account, the Universal Paid
+488 Leave Administration Fund, the Workers’ Compensation Administration Fund, and the Workers’
+24
+
+ENGROSSED ORIGINAL
+489 Compensation Special Fund; provided further, that all funds deposited during Fiscal Year 2027
+490 into the following funds are authorized for expenditure and shall remain available for
+491 expenditure until September 30, 2027: the Apprenticeship Fees Fund, the Jobs Trust Fund, and
+492 the Wage Theft Prevention Fund;
+493 (2) Department of Parks and Recreation: $77,954,208 (including $74,954,208
+494 from local funds and $3,000,000 from other funds); provided, that all funds deposited in Fiscal
+495 Year 2027 into the Parks and Recreation Fund are authorized for expenditure and shall remain
+496 available for expenditure until September 30, 2027; provided further, that the Department of
+497 Parks and Recreation is authorized to spend appropriated funds from the Parks and Recreation
+498 Fund for the purposes set forth in section 4 of the Recreation Act of 1994, effective March 23,
+499 1995 (D.C. Law 10-246; D.C. Official Code § 10-303);
+500 (3) District of Columbia Public Charter School Board: $16,809,173 (including
+501 $2,789,500 from local funds and $14,019,673 from other funds);
+502 (4) District of Columbia Public Charter Schools: $1,463,680,186 from local
+503 funds; provided, that there shall be quarterly disbursement of funds to the District of Columbia
+504 public charter schools, with the first payment to occur within 15 days of the beginning of the
+505 fiscal year; provided further, that if the entirety of this allocation has not been provided as
+506 payments to any public charter schools currently in operation through the per pupil funding
+507 formula, the funds shall remain available for expenditure until September 30, 2027 for public
+508 education in accordance with section 2403(b)(2) of the District of Columbia School Reform Act
+25
+
+ENGROSSED ORIGINAL
+509 of 1995, approved April 26, 1996 (110 Stat. 1321; D.C. Official Code § 38-1804.03(b)(2));
+510 provided further, that of the amounts made available to District of Columbia public charter
+511 schools, $230,000 shall be made available to the Office of the Chief Financial Officer as
+512 authorized by section 2403(b)(6) of the District of Columbia School Reform Act of 1995,
+513 approved April 26, 1996 (110 Stat. 1321; D.C. Official Code § 38-1804.03(b)(6)); provided
+514 further, that, notwithstanding the amounts otherwise provided under this heading or any other
+515 provision of law, there shall be appropriated to the District of Columbia public charter schools on
+516 July 1, 2027, an amount equal to 30 percent, or for new charter school local education agencies
+517 that opened for the first time after December 31, 2026, an amount equal to 45 percent, of the
+518 total amount of the local funds appropriations provided for payments to public charter schools in
+519 the budget of the District of Columbia for Fiscal Year 2028 (as adopted by the District), and the
+520 amount of such payment shall be chargeable against the final amount provided for such
+521 payments for Fiscal Year 2028; provided further, that the annual financial audit for the
+522 performance of an individual District of Columbia public charter school shall be funded by the
+523 charter school;
+524 (5) District of Columbia Public Library: $86,996,807 (including $84,491,336
+525 from local funds, $1,258,471 from federal grant funds, $1,200,000 from other funds, and
+526 $47,000 from private donations); provided, that not to exceed $8,500 of such amount, from local
+527 funds, shall be available for the Chief Librarian of the District of Columbia Public Library for
+528 official reception and representation expenses and for purposes consistent with the Discretionary
+26
+
+ENGROSSED ORIGINAL
+529 Funds Act of 1973, approved October 26, 1973 (87 Stat. 509; D.C. Official Code § 1-333.10);
+530 provided further, that all funds deposited, without regard to fiscal year, into the following funds
+531 are authorized for expenditure and shall remain available until expended: the Books From Birth
+532 Fund, the Copies and Printing Fund, the DCPL Revenue-Generating Activities Fund, the E-Rate
+533 Reimbursement Fund, and the Library Collections Account; provided further, that no later than
+534 February 2, 2027, the Chief Financial Officer shall increase the budget authority for the Books
+535 From Birth Fund, the Copies and Printing Fund, the DCPL Revenue-Generating Activities Fund,
+536 the E-Rate Reimbursement Fund, and the Library Collections Account by the amount of
+537 resources remaining in each fund as of the close of Fiscal Year 2026;
+538 (6) District of Columbia Public Schools: $1,508,707,114 (including
+539 $1,450,327,880 from local funds, $33,080,114 from federal grant funds, $6,051,385 from other
+540 funds, $1,747,735 from private grant funds, and $17,500,000 from federal payment funds
+541 requested to be appropriated by the Congress under the heading “Federal Payment for School
+542 Improvement” in the Fiscal Year 2027 Federal Portion Budget Request Act of 2026); provided,
+543 that the foregoing amounts shall be increased or decreased to reflect the amount of federal
+544 payment funds appropriated by Congress for Fiscal Year 2027; provided further, that not to
+545 exceed $10,600 of such local funds shall be available for the Chancellor for official reception
+546 and representation expenses and for purposes consistent with the Discretionary Funds Act of
+547 1973, approved October 26, 1973 (87 Stat. 509; D.C. Official Code § 1-333.10); provided
+548 further, that, notwithstanding the amounts otherwise provided under this heading or any other
+27
+
+ENGROSSED ORIGINAL
+549 provision of law, there shall be appropriated to the District of Columbia Public Schools on July
+550 1, 2027, an amount equal to 10 percent of the total amount of the local funds appropriations
+551 provided for the District of Columbia Public Schools in the budget of the District of Columbia
+552 for Fiscal Year 2028 (as adopted by the District), and the amount of such payment shall be
+553 chargeable against the final amount provided for the District of Columbia Public Schools for
+554 Fiscal Year 2028; provided further, that all funds deposited, without regard to fiscal year, into the
+555 following funds are authorized for expenditure and shall remain available for expenditure until
+556 September 30, 2027: the At-Risk Supplemental Allocation Preservation Fund, the Afterschool
+557 Program-Copayment Fund, the District of Columbia Public Schools Food Services Fund, the
+558 District of Columbia Public Schools Sales and Sponsorship Fund, the E-Rate Education Fund,
+559 and the Reserve Officer Training Corps Fund; provided further, that the District of Columbia
+560 Public Schools is authorized to spend appropriated funds consistent with section 105(c)(5) of the
+561 Public Education Reform Amendment Act of 2007, effective June 12, 2007 (D.C. Law 17-9;
+562 D.C. Official Code § 38-174(c)(5)); provided further, that all funds deposited during Fiscal Year
+563 2027 into the DCPS School Facility Colocation Fund are authorized for expenditure and shall
+564 remain available for expenditure until September 30, 2027;
+565 (7) District of Columbia State Athletics Commission: $1,797,074 (including
+566 $1,597,074 from local funds and $200,000 from other funds); provided, that all funds deposited
+567 during Fiscal Year 2027 into the State Athletics Activities, Programs, and Office Fund are
+568 authorized for expenditure and shall remain available for expenditure until September 30, 2027;
+28
+
+ENGROSSED ORIGINAL
+569 (8) Non-Public Tuition: $57,464,309 (including $56,864,309 from local funds and
+570 $600,000 from federal grant funds);
+571 (9) Office of the Deputy Mayor for Education: $34,580,721 (including
+572 $34,275,721 from local funds,$55,000 from private grant funds, and $250,000 from private
+573 donations);
+574 (10) Office of the State Superintendent of Education: $703,895,099 (including
+575 $316,742,459 from local funds, $325,706,864 from federal grant funds, $935,000 from other
+576 funds, $3,010,776 from private grant funds, $40,000,000 from federal payment funds requested
+577 to be appropriated by the Congress under the heading “Federal Payment for Resident Tuition
+578 Support” in the Fiscal Year 2027 Federal Portion Budget Request Act of 2026, and $17,500,000
+579 from federal payment funds requested to be appropriated by the Congress under the heading
+580 “Federal Payment for School Improvement” in the Fiscal Year 2027 Federal Portion Budget
+581 Request Act of 2026); provided, that the foregoing amounts shall be increased or decreased to
+582 reflect the amount of federal payment funds appropriated by Congress for the agency for Fiscal
+583 Year 2027; provided further, that all funds deposited, without regard to fiscal year, into the
+584 following funds are authorized for expenditure and shall remain available for expenditure until
+585 September 30, 2027: the Access to Quality Child Care Fund, the Charter School Credit
+586 Enhancement Fund, the Special Education Enhancement Fund, and the Student Enrollment
+587 Fund; provided further, that all funds deposited during Fiscal Year 2027 into the following funds
+588 are authorized for expenditure and shall remain available for expenditure until September 30,
+29
+
+ENGROSSED ORIGINAL
+589 2027: the Advanced Technical Centers Fund, the Community Schools Fund, and the Early
+590 Childhood Educator Pay Equity Fund;
+591 (11) Special Education Transportation: $133,216,046 (including $123,215,046
+592 from local funds and $10,001,000 in federal grant funds); provided, that, notwithstanding the
+593 amounts otherwise provided under this heading or any other provision of law, there shall be
+594 appropriated to the Special Education Transportation agency under the direction of the Office of
+595 the State Superintendent of Education, on July 1, 2027, an amount equal to 10 percent of the total
+596 amount of the local funds appropriations provided for the Special Education Transportation
+597 agency in the budget for the District of Columbia for Fiscal Year 2028 (as adopted by the
+598 District), and the amount of such payment shall be chargeable against the final amount provided
+599 for the Special Education Transportation agency for Fiscal Year 2028; provided further, that
+600 amounts appropriated under this paragraph may be used to offer financial incentives as necessary
+601 to reduce the number of routes serving 2 or fewer students;
+602 (12) State Board of Education: $3,718,204 from local funds;
+603 (13) Teachers’ Retirement System: $77,052,000 from local funds;
+604 (14) Unemployment Compensation Fund: $4,980,390 from local funds; and
+605 (15) University of the District of Columbia Subsidy Account: $96,098,280 from
+606 local funds; provided, that this appropriation shall not be available to subsidize the education of
+607 nonresidents of the District at the University of the District of Columbia, unless the Board of
+608 Trustees of the University of the District of Columbia adopts, for the fiscal year ending
+30
+
+ENGROSSED ORIGINAL
+609 September 30, 2027, a tuition-rate schedule that establishes the tuition rate for nonresident
+610 students at a level no lower than the nonresident tuition rate charged at comparable public
+611 institutions of higher education in the metropolitan area; provided further, that, notwithstanding
+612 the amounts otherwise provided under this heading or any other provision of law, there shall be
+613 appropriated to the University of the District of Columbia on July 1, 2027, an amount equal to 10
+614 percent of the total amount of the local funds appropriations provided for the University of the
+615 District of Columbia in the budget of the District of Columbia for Fiscal Year 2028 (as adopted
+616 by the District), and the amount of such payment shall be chargeable against the final amount
+617 provided for the University of the District of Columbia for Fiscal Year 2028; provided further,
+618 that not to exceed $10,600 of such local funds shall be available for the President of the
+619 University of the District of Columbia for official reception and representation expenses and for
+620 purposes consistent with the Discretionary Funds Act of 1973, approved October 26, 1973 (87
+621 Stat. 509; D.C. Official Code § 1-333.10).
+622 HUMAN SUPPORT SERVICES
+623 For human support services, $7,561,131,489 (including $2,568,341,162 from local funds,
+624 $251,661,162 from dedicated taxes, $492,933,695 from federal grant funds, $4,188,140,725
+625 from Medicaid payments $53,596,509 from other funds, $2,330,236 from private grant funds,
+626 $128,000 from private donations, and $4,000,000 from federal payment funds requested to be
+627 appropriated by the Congress under the heading “Federal Payment for Testing and Treatment of
+628 HIV/AIDS” in the Fiscal Year 2027 Federal Portion Budget Request Act of 2026); provided, that
+31
+
+ENGROSSED ORIGINAL
+629 the foregoing amounts shall be increased or decreased to reflect the amount of federal payment
+630 funds appropriated by Congress for Fiscal Year 2027; to be allocated as follows:
+631 (1) Child and Family Services Agency: $206,407,383 (including $156,184,628
+632 from local funds, $50,117,755 from federal grant funds, $75,000 in private grant funds, and
+633 $30,000 in private donations);
+634 (2) Department of Aging and Community Living: $65,171,757 (including
+635 $50,918,720 from local funds, $11,088,701 from federal grant funds, and $3,164,336 from
+636 Medicaid payments);
+637 (3) Department of Behavioral Health: $365,920,227 (including $272,691,579
+638 from local funds, $72,131,912 from federal grant funds, $5,786,810 from Medicaid payments,
+639 $14,873,902 from other funds,$343,024 from private grant funds, and $93,000 from private
+640 donations); provided, that all funds deposited, without regard to fiscal year, into the following
+641 funds are authorized for expenditure and shall remain available or expenditure until September
+642 30, 2027: the Addiction Prevention and Recovery Administration-Choice in Drug Treatment
+643 (HCSN) Fund, the DMH Medicare and 3rd Party Reimbursement Fund, the DMH Federal
+644 Beneficiary Reimbursement Fund, and the Opioid Abatement Fund;
+645 (4) Department of Health: $281,114,672 (including $92,847,153 from local funds,
+646 $159,125,072 from federal grant funds, $23,230,235 from other funds, $1,912,212 from private
+647 grant funds, and $4,000,000 from federal payment funds requested to be appropriated by the
+648 Congress under the heading “Federal Payment for Testing and Treatment of HIV/AIDS” in the
+32
+
+ENGROSSED ORIGINAL
+649 Fiscal Year 2027 Federal Portion Budget Request Act of 2026); provided, that the foregoing
+650 amounts shall be increased or decreased to reflect the amount of federal payment funds
+651 appropriated by Congress for the agency for Fiscal Year 2027; provided further, that all funds
+652 deposited, without regard to fiscal year, into the following funds are authorized for expenditure
+653 and shall remain available for expenditure until September 30, 2027: the 988 Lifeline and Crisis
+654 Services Fund, the AIDS Drug Assistance Program Fund, the Animal Education and Outreach
+655 Fund, the Civil Monetary Penalties Fund, the Health Occupations Regulation Fund, the Health
+656 Professional Recruitment Fund (Medical Loan Repayment), the Human Services Facility Fee
+657 Fund, the JUUL Settlement Fund, and the Smoking Cessation Fund; provided further, that all
+658 funds deposited during Fiscal Year 2027 into the following funds are authorized for expenditure
+659 and shall remain available for expenditure until September 30, 2027: the Board of Medicine
+660 Fund, the ICF/MR Fees and Finds Fund, the Pharmacy Protection Fund, the State Health
+661 Planning and Development Agency Admission Fees Fund, and the State Health Planning and
+662 Development Agency Fees Fund;
+663 (5) Department of Health Care Finance: $5,584,074,759 (including
+664 $1,173,349,845 from local funds, $251,661,162 from dedicated taxes, $10,238,139 from federal
+665 grant funds, $4,144,046,042 from Medicaid payments, and $4,780,571 from other funds);
+666 provided, that all funds deposited, without regard to fiscal year, into the following funds are
+667 authorized for expenditure and shall remain available for expenditure until September 30, 2027:
+668 the DC HealthCare Alliance Reform Fund, the Home and Community-Based Services
+33
+
+ENGROSSED ORIGINAL
+669 Enhancement Fund, the Hospital Provider Fee Fund, the Hospital Fund, the Individual Insurance
+670 Market Affordability and Stability Fund, the Nursing Facility Quality of Care Fund, and the
+671 Stevie Sellow’s Quality Improvement Fund; provided further, that all funds deposited during
+672 Fiscal Year 2027 into the following funds are authorized for expenditure and shall remain
+673 available for expenditure until September 30, 2027: the Bill of Rights (Grievance and Appeals)
+674 Fund, the Healthy DC and Health Care Expansion Fund, the Medicaid Provider Fraud
+675 Reimbursement, and the New Hospital at St. Elizabeths Startup Reserve Fund;
+676 (6) Department of Human Services: $824,532,105 (including $651,433,281 from
+677 local funds, $155,393,835 from federal grant funds, $330,000 from other funds, and $17,369,989
+678 from federal Medicaid payments, and $5,000 from private donations); provided, that all funds
+679 deposited, without regard to fiscal year, into the SNAP Reinvestment Fund are authorized for
+680 expenditure and shall remain available for expenditure until September 30, 2027; provided
+681 further, that all funds deposited during Fiscal Year 2027 into the SSI Payback Fund are
+682 authorized for expenditure and shall remain available for expenditure until September 30, 2027;
+683 (7) Department on Disability Services: $231,057,295 (including $168,063,666
+684 from local funds, $34,838,280 from federal grant funds, $17,773,547 from Medicaid payments,
+685 and $10,381,801 from other funds); provided, that all funds deposited, without regard to fiscal
+686 year, into the following funds are authorized for expenditure and shall remain available for
+687 expenditure until September 30, 2027: the Contribution to Costs of Supports Fund, the Cost of
+688 Care for Non-Medicaid Clients Fund, and the Randolph Shepherd Unassigned Facilities Fund;
+34
+
+ENGROSSED ORIGINAL
+689 (8) Office of the Deputy Mayor for Health and Human Services: $2,119,196 from
+690 local funds; and
+691 (9) Office of the Ombudsperson for Children: $733,094 from local funds.
+692 OPERATIONS AND INFRASTRUCTURE
+693 For operations and infrastructure, $1,603,346,103 (including $1,120,229,225 from local
+694 funds, $79,711,000 from dedicated taxes, $123,066,403 from federal grant funds, $275,201,841
+695 from other funds,$5,123,634 from private grant funds, and $14,000 from private donations ), to
+696 be allocated as follows:
+697 (1) Alcoholic Beverage and Cannabis Administration: $11,987,417 (including
+698 $2,713,516 from local funds and $9,273,901 from other funds); provided, that all funds
+699 deposited, without regard to fiscal year, into the following funds are authorized for expenditure
+700 and shall remain available for expenditure until September 30, 2027: the Alcoholic Beverage and
+701 Cannabis Administration Fund, the Dedicated Taxes Fund, and the Medical Cannabis
+702 Administration Fund;
+703 (2) Department of Buildings: $66,952,662 (including $49,485,010 from local
+704 funds, $1,599,171 from federal grant funds, and $15,868,480 from other funds); provided, that
+705 all funds deposited in Fiscal Year 2027 into the following funds are authorized for expenditure
+706 and shall remain available for expenditure until September 30, 2027: the Expedited Building
+707 Permit Review Fund, the Green Building Fund, and the Nuisance Abatement Fund;
+708 (3) Department of Energy and Environment: $201,972,457 (including
+35
+
+ENGROSSED ORIGINAL
+709 $30,401,668 from local funds, $89,785,437 from federal grant funds, $76,661,718 from other
+710 funds and $5,123,634 from private grant funds); provided, that all funds deposited, without
+711 regard to fiscal year, into the following funds are authorized for expenditure and shall remain
+712 available for expenditure until September 30, 2027: the Air Quality Construction Permits Fund,
+713 the Anacostia River Clean Up and Protection Fund, the Benchmarking Enforcement Fund, the
+714 Clean Land Fund/Brownfield Revitalization Fund, the District Energy Fund, the District of
+715 Columbia Wetland Stream and Mitigation Trust Fund, the Economy II Fund, the Energy
+716 Assistance Trust Fund, the Fishing License Fund, the Hazardous Waste and Toxic Chemical
+717 Source Reduction Fund, the Indoor Mold Assessment and Remediation Fund, the Lead
+718 Poisoning Prevention Fund, the Leaking Underground Storage Tank Trust Fund, the Municipal
+719 Aggregation Fund, the Pesticide Product Registration Fund, the Rail Safety and Security Fund,
+720 the Renewable Energy Development Fund, the Residential Aid Discount Fund, the Residential
+721 Essential Services Fund, the Soil Erosion and Sediment Control Fund, the Special Energy
+722 Assessment Fund, the Stormwater Fees Fund, the Stormwater In-Lieu Fee Payment Fund, the
+723 Storm Water Permit Review Fund, the Sustainable Energy Trust Fund, the Sustainable Materials
+724 and Building Fund, the Underground Storage Tank Regulation Fund, and the WASA Utility
+725 Discount Program Fund; provided further, that funds in the available fund balance of the
+726 Renewable Energy Development Fund may be obligated in Fiscal Year 2027, pursuant to grant
+727 awards, through September 30, 2030, and that such funds so obligated are authorized for
+728 expenditure and shall remain available for expenditure until September 30, 2030;
+36
+
+ENGROSSED ORIGINAL
+729 (4) Department of For-Hire Vehicles: $14,351,459 (including $3,881,453 from
+730 local funds and $10,470,006 from other funds); provided, that all funds deposited, without regard
+731 to fiscal year, into the following funds are authorized for expenditure and shall remain available
+732 for expenditure until September 30, 2027: the Public Vehicles-for-Hire Consumer Service Fund
+733 and the Taxicab Assessment Act Fund;
+734 (5) Department of Insurance, Securities, and Banking: $35,246,094 (including
+735 $127,760 from local funds and $35,118,334 from other funds); provided, that all funds deposited,
+736 without regard to fiscal year, into the following funds are authorized for expenditure and shall
+737 remain available for expenditure until September 30, 2027: the Capital Access Fund, the Captive
+738 Insurance Fund, the Foreclosure Mediation Fund, the HMO Assessment Fund, the Insurance
+739 Assessment Fund, the Insurance Regulatory Trust Fund, the Loan Participation Fund, and the
+740 Securities and Banking Fund;
+741 (6) Department of Licensing and Consumer Protection: $30,184,116 (including
+742 $15,771,904 from local funds and $14,412,212 from other funds); provided, that all funds
+743 deposited in Fiscal Year 2027 into the following funds are authorized for expenditure and shall
+744 remain available for expenditure until September 30, 2027: the Basic Business License Fund, the
+745 Corporate Recordation Fund, the Combat Sports Commission Fund, the Occupational and
+746 Professional Licensing Administration Special Account, and the Vending Regulation Fund;
+747 provided further, that all funds deposited, without regard to fiscal year, into the following funds
+748 are authorized for expenditure and shall remain available for expenditure until September 30,
+37
+
+ENGROSSED ORIGINAL
+749 2027: the Appraisal Fee Fund and the Real Estate Guaranty and Education Fund;
+750 (7) Department of Motor Vehicles: $70,650,721 (including $62,320,131 from
+751 local funds and $8,330,590 from other funds); provided, that all funds deposited, without regard
+752 to fiscal year, into the Department of Motor Vehicles Kiosk Fund and the Motor Vehicle
+753 Inspection Fund are authorized for expenditure and shall remain available for expenditure until
+754 September 30, 2027;
+755 (8) Department of Public Works: $193,343,947 (including $179,232,078 from
+756 local funds and $14,111,869 from other funds); provided, that all funds deposited, without regard
+757 to fiscal year, into the following funds are authorized for expenditure and shall remain available
+758 for expenditure until September 30, 2027: the Solid Waste Disposal Cost Recovery Special
+759 Account and the Super Can Program Fund;
+760 (9) District Department of Transportation: $149,052,106 (including $94,407,301
+761 from local funds, $31,007,805 from federal grant funds, and $23,637,000 from other funds);
+762 provided, that all funds deposited, without regard to fiscal year, into the following funds are
+763 authorized for expenditure and shall remain available for expenditure until September 30, 2027:
+764 the Bicycle Sharing Fund, the Bus Service Enhancement Fund, the DC Circulator Fund, the DC
+765 Water Facility Work Fund, the DDOT Enterprise Fund-Non Tax Revenues Fund, the Parking
+766 Meter and Transit Services Pay-by-Phone Transaction Fee Fund, the Performance Parking
+767 Program Fund, the Sustainable Transportation Fund, the Tree Fund, the Transportation Initiatives
+768 Fund, and the Transportation Infrastructure Project Review Fund; provided further, that there are
+38
+
+ENGROSSED ORIGINAL
+769 appropriated in addition any amounts received, or to be received, without regard to fiscal year,
+770 from the Potomac Electric Power Company, or any of its related companies, successors, or
+771 assigns, for the purpose of paying or reimbursing the District Department of Transportation for
+772 the costs of designing, constructing, acquiring, and installing facilities, infrastructure, and
+773 equipment for use and ownership by the Potomac Electric Power Company, or any of its related
+774 companies, successors, or assigns, related to or associated with the undergrounding of electric
+775 distribution lines in the District of Columbia, and any interest earned on those funds, which
+776 amounts and interest shall not revert to the unrestricted fund balance of the General Fund at the
+777 end of a fiscal year or at any other time, and shall be continually available without regard to
+778 fiscal year limitation until expended for the designated purposes;
+779 (10) Office of the People’s Counsel: $13,986,918 (including $965,048 from local
+780 funds and $13,021,870 from other funds); provided, that all funds deposited, without regard to
+781 fiscal year, into the Office of People’s Counsel Agency Fund are authorized for expenditure and
+782 shall remain available for expenditure until September 30, 2027;
+783 (11) Public Service Commission: $20,983,849 (including $673,990 from federal
+784 grant funds, $20,295,859 from other funds, and $14,000 from private donations); provided, that
+785 all funds deposited, without regard to fiscal year, into the following funds are authorized for
+786 expenditure and shall remain available for expenditure until September 30, 2027: the PJM
+787 Settlement Fund and the Public Service Commission Agency Fund;
+788 (12) Washington Metropolitan Area Transit Authority: $794,447,572 (including
+39
+
+ENGROSSED ORIGINAL
+789 $680,736,572 from local funds, $79,711,000 from dedicated taxes, and $34,000,000 from other
+790 funds); provided, that all funds deposited, without regard to fiscal year, into the following funds
+791 are authorized for expenditure and shall remain available for expenditure until September 30,
+792 2027: the Dedicated Taxes Fund and the Parking Meter WMATA Fund; provided further, that all
+793 funds budgeted without regard to fiscal year for the adult learner transit subsidy program
+794 established by section 6047 of the Student, Foster Youth, Summer Youth Employee, and Adult
+795 Learner Transit Subsidies Act of 2019, effective September 11, 2019 (D.C. Law 23-16; D.C.
+796 Official Code § 35-246), are authorized for expenditure and shall remain available for
+797 expenditure until September 30, 2027; provided further, that there are appropriated any amounts
+798 deposited, or to be deposited, without regard to fiscal year, into the Washington Metropolitan
+799 Area Transit Authority Dedicated Financing Fund for the purpose of funding WMATA capital
+800 improvements, which amounts shall not revert to the unrestricted fund balance of the General
+801 Fund at the end of a fiscal year or at any other time, and shall be continually available until
+802 expended for the designated purposes; and
+803 (13) Washington Metropolitan Area Transit Commission: $186,785 from local
+804 funds.
+805 FINANCING AND OTHER
+806 For financing and other costs, $2,098,377,615 (including $1,604,020,479 from local
+807 funds, $368,558,277 from dedicated taxes, $822,966 from federal grant funds, $54,975,893 from
+808 other funds, and $70,000,000 from federal payment funds requested to be appropriated by the
+40
+
+ENGROSSED ORIGINAL
+809 Congress under the heading “Federal Payment for Emergency Planning and Security Costs in the
+810 District of Columbia” in the Fiscal Year 2027 Federal Portion Budget Request Act of 2026);
+811 provided, that the foregoing amounts shall be increased or decreased to reflect the amount of
+812 federal payment funds appropriated by Congress for the agency for Fiscal Year 2027; to be
+813 allocated as follows:
+814 (1) Commercial Paper Program: $17,675,000 from local funds;
+815 (2) Convention Center Transfer: $164,964,000 (including $625,000 from local
+816 funds and $164,339,000 from dedicated taxes);
+817 (3) Debt Service - Issuance Costs: $13,000,000 from local funds for the payment
+818 of debt service issuance costs;
+819 (4) District of Columbia Highway Transportation Fund: $59,174,199 (including
+820 $23,459,000 from dedicated taxes and $35,715,199 from other funds);
+821 (5) District Retiree Health Contribution: $88,300,000 from local funds for a
+822 District Retiree Health Contribution;
+823 (6) Emergency Planning and Security Fund: $70,000,000 from federal payment
+824 funds requested to be appropriated by the Congress under the heading “Federal Payment for
+825 Emergency Planning and Security Costs in the District of Columbia” in the Fiscal Year 2027
+826 Federal Portion Budget Request Act of 2026; provided, that this amount shall be increased or
+827 decreased to reflect the amount of federal payment funds appropriated by Congress for
+828 Emergency Planning and Security for Fiscal Year 2027;
+41
+
+ENGROSSED ORIGINAL
+829 (7) John A. Wilson Building Fund: $4,813,842 from local funds for expenses
+830 associated with the John A. Wilson building;
+831 (8) Non-Departmental: $3,386,551 from local funds;
+832 (9) Pay-As-You-Go Capital Fund: $236,370,762 (including $38,610,068 from
+833 local funds, $178,500,000 from dedicated taxes, and $19,260,694 from other funds) to be
+834 transferred to the Capital Fund, in lieu of capital financing;
+835 (10) Repayment of Loans and Interest: $1,313,088,695 (including $1,312,265,729
+836 from local funds and $822,966 from federal grant funds), for payment of principal, interest, and
+837 certain fees directly resulting from borrowing by the District of Columbia to fund District of
+838 Columbia capital projects as authorized by sections 462, 475, and 490 of the District of
+839 Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 774; D.C. Official Code §§ 1-
+840 204.61, 1-204.75, and 1-204.90);
+841 (11) Repayment of Revenue Bonds: $2,260,277 from dedicated taxes for the
+842 repayment of revenue bonds;
+843 (12) Settlements and Judgments: $25,344,289 from local funds for making
+844 refunds and for the payment of legal settlements or judgments that have been entered against the
+845 District of Columbia government; provided, that this amount may be increased by such sums as
+846 may be necessary for making refunds and for the payment of legal settlements or judgments that
+847 have been entered against the District of Columbia government and such sums may be paid from
+848 the applicable or available funds of the District of Columbia; and
+42
+
+ENGROSSED ORIGINAL
+849 (13) Workforce Investment Account: $100,000,000 from local funds.
+850 ENTERPRISE FUNDS
+851 The amount of $2,337,094,182 (including $2,204,033,517 from enterprise and other
+852 funds and $133,060,665 from enterprise and other funds - dedicated taxes), shall be provided to
+853 enterprise funds as follows; provided, that, in the event that revenue dedicated by District law to
+854 an enterprise fund exceeds the amount set forth as follows, the General Fund budget authority
+855 may be increased as needed to transfer all such revenue, pursuant to District law, to the
+856 enterprise fund:
+857 (1) Ballpark Revenue Fund: $37,844,812 (including $31,714,000 from enterprise
+858 and other funds - dedicated taxes and $6,130,812 from enterprise and other funds);
+859 (2) District of Columbia Retirement Board: $42,116,124 from the earnings of the
+860 applicable retirement funds to pay legal, management, investment, and other fees and
+861 administrative expenses of the District of Columbia Retirement Board;
+862 (3) District of Columbia Water and Sewer Authority: $844,105,090 from
+863 enterprise and other funds; provided, that not to exceed $25,000 of this amount shall be available
+864 for reception and representation expenses; provided further, that not to exceed $15,000 of this
+865 amount shall be available for official meetings. For construction projects, $8,913,495,000, to be
+866 distributed as follows: $1,511,294,000 for Wastewater Treatment; $2,541,755,000 for the
+867 Sanitary Sewer System; $2,596,634,000 for the Water System; $227,925,000 for Non Process
+868 Facilities; $1,077,084,000 for the Combined Sewer Overflow Program; $465,010,000 for the
+43
+
+ENGROSSED ORIGINAL
+869 Washington Aqueduct; $110,876,000 for the Stormwater Program; and $382,917,000 for the
+870 capital equipment program; in addition, $8,000,000 for Federal payment funds requested to be
+871 appropriated by the Congress under the heading “Federal Payment to the District of Columbia
+872 Water and Sewer Authority” in the Fiscal Year 2027 Federal Portion Budget Request Act of
+873 2026, provided, that the foregoing amounts shall be increased or decreased to reflect the amount
+874 of federal payment funds appropriated by Congress for the agency for Fiscal Year 2026;
+875 (4) Green Finance Authority: $3,750,000 from enterprise and other funds, to be
+876 available until expended;
+877 (5) Health Benefit Exchange Authority: $47,440,513 from enterprise and other
+878 funds;
+879 (6) Housing Finance Agency: $19,880,400 from enterprise and other funds;
+880 provided, that all funds budgeted without regard to fiscal year for the Reverse Mortgage
+881 Foreclosure Prevention Program are authorized for expenditure and shall remain available for
+882 expenditure until September 30, 2027; provided further, that all funds budgeted without regard to
+883 fiscal year for the Public Housing Credit-Building Pilot Program are authorized for expenditure
+884 and shall remain available for expenditure until September 30, 2027;
+885 (7) Housing Production Trust Fund: $62,611,799 (including $52,611,799 from
+886 enterprise and other funds - dedicated taxes and $10,000,000 from enterprise and other funds);
+887 provided, that all funds deposited, without regard to fiscal year, into the Housing Production
+888 Trust Fund are authorized for expenditure and shall remain available for expenditure until
+44
+
+ENGROSSED ORIGINAL
+889 September 30, 2027;
+890 (8) Office of Lottery and Gaming: $222,201,452 from enterprise and other funds;
+891 provided, that, after notification to the Mayor, amounts appropriated herein may be increased by
+892 an amount necessary for the Lottery, Gambling, and Gaming Fund to make transfers to the
+893 General Fund and to cover prizes, agent commissions, and gaming-related fees directly
+894 associated with unanticipated excess lottery revenues not included in this appropriation;
+895 (9) Other Post-Employment Benefits Trust Administration: $8,765,834 from
+896 enterprise and other funds;
+897 (10) Repayment of PILOT Financing: $694,425 from enterprise and other funds -
+898 dedicated taxes;
+899 (11) Tax Increment Financing Program: $48,040,442 from enterprise and other
+900 funds - dedicated taxes;
+901 (12) Unemployment Insurance Trust Fund: $216,835,949 from enterprise and
+902 other funds;
+903 (13) Universal Paid Leave Fund: $184,072,729 from enterprise and other funds;
+904 provided, that all funds deposited, without regard to fiscal year, are authorized for expenditure
+905 and shall remain available for expenditure until September 30, 2027;
+906 (14) University of the District of Columbia: $206,440,926 from enterprise and
+907 other funds; provided, that these funds shall not revert to the General Fund at the end of a fiscal
+908 year or at any other time, and shall be continually available for expenditure until September 30,
+45
+
+ENGROSSED ORIGINAL
+909 2027; provided further, that all funds deposited, without regard to fiscal year, into the Higher
+910 Education Incentive Program Fund are authorized for expenditure and shall remain available for
+911 expenditure until September 30, 2027;
+912 (15) Washington Aqueduct: $123,972,126 from enterprise and other funds; and
+913 (16) Washington Convention and Sports Authority: $268,321,563 from enterprise
+914 and other funds.
+915 RESERVE ACCOUNTS
+916 (1) Cash Flow Reserve Account: All funds deposited, without regard to fiscal
+917 year, into the Cash Flow Reserve Account, established pursuant to D.C. Official Code § 47-
+918 392.02(j-2), are authorized for expenditure and shall remain available for expenditure until
+919 September 30, 2027.
+920 (2) Fiscal Stabilization Reserve Account: All funds deposited, without regard to
+921 fiscal year, into the Fiscal Stabilization Reserve Account, established pursuant to D.C. Official
+922 Code § 47-392.02(j-1), are authorized for expenditure and shall remain available for expenditure
+923 until September 30, 2027.
+924 CAPITAL OUTLAY
+925 For capital construction projects, a net increase of $3,461,628,000, of which
+926 $2,521,083,000 shall be from local funds, $803,131,000 shall be from the federal Highway Trust
+927 Fund, $119,376,000 shall be from the District of Columbia Highway Trust Fund, $32,144,000
+928 shall be from federal funds, and a net rescission of $14,104,000, which shall be from local
+46
+
+ENGROSSED ORIGINAL
+929 transportation funds, to remain available until expended; provided, that all funds provided by this
+930 act shall be available only for the specific projects and purposes intended; provided further, that
+931 amounts appropriated under this act may be increased by the amount transferred from funds
+932 appropriated in this act as Pay-As-You-Go Capital funds.
+933 Sec. 3. Fiscal impact statement.
+934 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+935 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+936 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § l-301.47a).
+937 Sec. 4. Effective date.
+938 As provided in section 446(a) of the District of Columbia Home Rule Act, approved
+939 December 24, 1973 (87 Stat. 801; D.C. Official Code § 1-204.46(a)), this act shall take effect
+940 following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to
+941 override the veto) and a 30-day period of congressional review as provided in section 602(c)(1)
+942 of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C.
+943 Official Code § 1-206.02(c)(1)).
+47

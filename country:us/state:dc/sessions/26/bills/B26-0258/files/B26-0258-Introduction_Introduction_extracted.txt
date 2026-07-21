@@ -1,0 +1,916 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+May 22, 2025
+Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. M009, M0010, M0011, and M0012 to Contract No.
+CW96234 with Umbrella Therapeutic Services, Inc. Approval and Payment Authorization
+Emergency Act of 2025,” and the accompanying emergency declaration resolution.
+The legislation will approve Modification Nos. M009, M0010, M0011, and M0012 to Contract
+No. CW96234 with Umbrella Therapeutic Services, Inc., to provide pre- and post-transitional
+care home services to youth involved in the juvenile justice system who have been arrested or
+have been unsuccessful under probation status, and to fully exercise option year three of the
+contract. In addition, the legislation will approve payment for the goods and services received
+and to be received under the modifications.
+My administration is available to discuss any questions you may have regarding the contract
+modification. In order to facilitate a response to any questions you may have, please have your
+staff contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at
+(202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+
+1 ~~
+2
+3 Chairman Phil Mendelson
+4 at the request of the Mayor
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16
+17
+18 To approve, on an emergency basis, Modification Nos. M009, M00l0, and M00l 1 and proposed
+19 Modification No. M0012 to Contract No. CW96234 with Umbrella Therapeutic Services,
+20 Inc., and to authorize payment for the goods and services received and to be received
+21 under the modifications.
+22
+23 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+24 act may be cited as the "Modification Nos. M009, M00l0, M00l 1, and M0012 to Contract No.
+25 CW96234 with Umbrella Therapeutic Services, Inc. Approval and Payment Authorization
+26 Emergency Act of 2025".
+27 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+28 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+29 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+30 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification
+31 Nos. M009, M00l0, and M00l 1 and proposed Modification No. M0012 to Contract No.
+32 CW96234 with Umbrella Therapeutic Services, Inc. and authorizes payment in the not-to-exceed
+33 amount of $2,636,803.80 for the goods and services received and to be received under the
+34 modifications.
+1
+
+35 Sec. 3. Fiscal impact statement.
+36 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+37 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+38 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+39 Sec. 4. Effective date.
+40 This act shall take effect following approval by the Mayor (or in the event of veto by the
+41 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+42 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+43 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+44 D.C. Official Code § 1-204.12(a))
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Tipping)
+(A) Human Care Agreement Number (HCA): CW96234
+(Modifications M009, M0010, M0011, M0012)
+Proposed Contractor: Umbrella Therapeutic Services, Inc.
+Proposed Contractor’s Principals: Dr. Gary L. Jones, CEO
+Richard D. von Gersdorff, CFO
+Lori Perez, Controller
+Contract Amount: $2,636,803.80 Not-To-Exceed NTE
+Unit and Method of Compensation: This HCA has fixed unit rates. The contractor will
+be compensated based on two payment components:
+1) a daily rate base compensation based upon the
+maximum capacity and 2) an administrative rate per
+maximum capacity.
+Term of Contract: March 17, 2025, through March 16, 2026
+Option Period Three
+Type of Contract: HCA under which task orders will be issued for
+District requirements.
+Source Selection Method: Request for Qualifications (RFQ)
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: $1,876,851.90 NTE
+Legislative No.: (CA24-0571)
+1
+
+Option Period 1 Amount: $1,938,460.44 NTE
+Legislative No.: (CA25-0071)
+Option Period 2 Amount: $2,560,000.50 NTE
+Legislative No.: (CA25-0636)
+Option Period 3 Amount: $2,636,803.80 NTE
+Explanation of difference from the base period (if applicable): Option period three: The
+capacity for total youth requiring services increased by four youths from fourteen to eighteen.
+Option Period 4 Amount: $2,715,906.60 NTE
+Explanation of difference from base period (if applicable): This is a 14% increase over the base
+year for cost of living adjustments.
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The Government of the District of Columbia, Department of Youth Rehabilitation Services
+(DYRS), is seeking approval of the exercise of option year three for Umbrella Therapeutic Services,
+Inc., to continue to provide Pre and Post – Transitional Care Home (PTCH) services to the District
+youth. PTCH houses either male or female youth, primarily between the ages of 10 and 18,
+identified and detained by the District of Columbia Family Court and deemed appropriate for
+residential alternatives to secure detention services.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+The Request for Qualifications (RFQ), Doc561869, was issued in the open market utilizing the
+Office of Contracting and Procurement’s Procurement Automated Support System on April 30,
+2021, and officially closed on July 14, 2021. The District received five responses to the RFQ. Five
+submissions were deemed qualified to provide pre- and post-transitional home services to young
+people ages 10-18.
+The responses were evaluated according to the qualification criteria set forth in the solicitation. The
+qualification criteria are evaluation of the resumes and professional qualifications of the business or
+organization’s staff, and relevant professional and business licenses, affiliations, and specialties;
+capacity to accomplish the required work in the required time; experience with similar scope of
+work or contracts and the service provider’s performance of those contracts; and certification of
+compliance with all applicable tax and filing requirements.
+The contracting officer awarded the Human Care Agreement on March 17, 2022, after determining
+Umbrella Therapeutic Services, Inc., was qualified, and responsible, and the proposed price was
+determined to be fair and reasonable.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+2
+
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+None
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+Contracts:
+• DYRS Human Care Agreement CW120774 – Pre and Post-Transitional Care Services
+(Ryans House facility). Contract Value: $1,200,000.
+• DYRS Human Care Agreement CW113317 – Manage DYRS Hope House facility
+providing Pre and Post Transitional Care Homes. Contract Value: $850,000.
+• Department of Behavioral Health Human Care Agreement - CW107815 –Mental Health
+rehabilitation services for adults and children. Contract Value: $1,000,000.
+• Child Family Services DCRL-2024-H0039 – Congregate Care for foster care youth
+Contract Value: $823,000.
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Umbrella Therapeutic Services, Inc., is an experienced provider of pre and post-transitional home
+services. Umbrella Therapeutic Services, Inc., has demonstrated knowledge and experience
+working with the consumer population. This evidence is provided on the past performance
+submitted on December 20, 2024.
+Umbrella Therapeutic Services, Inc., has financial stability and can adequately obtain the resources
+required for the support services of this contract. This evidence is provided from the contractor’s
+financial history as reported by the Dun and Bradstreet Business Report, completed on February 11,
+2025.
+(H) The period of performance associated with the proposed change, including the date as of
+which the proposed change is to be made effective:
+Modification No. M009: March 17, 2025, through April 30, 2025 (Exercise of partial option)
+Modification No. M0010: May 1, 2025, through May 9, 2025 (Extension of partial option),
+Modification M0011: May 10-June 11, 2025 (Extension of partial option)
+Proposed Modification No. M0012: June 12, 2025, through March 16, 2026 (exercise of the
+remainder of option period three).
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if than one
+proposed change has been aggregated for Council review:
+Modification No. M009: $325,085.40
+Modification No. M0010: $0
+3
+
+Modification M0011 $303,413.04
+Proposed Modification No. M0012: Adding $2,008,305.36 for the remainder of the option period
+from June 12, 2025, through March 16, 2026.
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+$2,636,803.80
+(K) The date on which the contracting officer was notified of the proposed change:
+February 20, 2025
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+It was necessary to partially exercise the option year to continue the critical services for DYRS
+youth while seeking Council approval.
+(M) The reason for the proposed change:
+Exercise of option period three is to continue pre- and post-transitional care services provided by
+Umbrella Therapeutic Services, Inc., for DYRS youth.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+27 DCMR Section 1905.4 and 3601
+(O) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+Umbrella Therapeutic Services, Inc., is a certified business enterprise, and they are performing
+100% of the work.
+(P) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+4
+
+A. Umbrella Therapeutic Services, Inc. certifies that they are compliant with the campaign finance
+Board of Ethics and Government Accountability Establishment and Comprehensive Ethics
+Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a.
+B. Umbrella Therapeutic Services, Inc. will comply and will not violate section 334a of the Board
+of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform
+Amendment Act of 2011, D.C. Official Code § 1-1163.34a.
+(Q) Performance standards and the expected outcome of the proposed contract:
+The District expects Umbrella Therapeutic Services, Inc., to provide pre-and post-transitional
+services to youth between the ages of ten and eighteen years old remanded from the District Court
+system. Programming shall be gender specific, culturally sensitive, language-appropriate, and
+tailored to fit the needs of referred youth. Services shall address the balanced and restorative justice
+principles of public safety, accountability, and competency development. The group homes shall
+provide youth in the juvenile justice system with community-based support services in lieu of
+confinement. Support services shall include life skill training, education, employment, counseling,
+behavior modification, family engagement, and additional specific services identified in each
+youth’s service plan. These support services are expected to help DYRS meet the goal for its
+community-based services where youth will meet 90% of scheduled court appearances, 75% of
+participants will not be re-arrested, and the abscondence rate will be below 5%.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+$325,085.40 February 25, 2025 (Modification M0009)
+$303,413.04 May 5, 2025 (Modification 0011)
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+Per the funding certification, the agency’s Associate Chief Financial Officer certified that funds in
+the required amount are available to fund the services.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The proposed contractor does not have any pending legal claims against the District.
+The option exercise with Umbrella Therapeutic Services, Inc., has been reviewed for legal
+sufficiency by the Office of the Attorney General and has been determined to be legally sufficient.
+(U) A certification that Citywide Clean Hands database indicates that the proposed contractor is
+current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+5
+
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands database indicated that the contractor is current with its District taxes as
+of April 14, 2025.
+(V) A certification from the proposed contractor that it is current with its federal taxes or has
+worked out and is current with a payment schedule approved by the federal government:
+Based on information contained in the Bidder Offeror certification form, Umbrella Therapeutic
+Services, Inc., has certified that it is current with its federal taxes and does not have any outstanding
+debt to the federal government.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+The provider is a certified local, small, or disadvantaged business enterprise.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None.
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+Umbrella Therapeutic Services, Inc., is not debarred or suspended from Federal or District
+procurements, based on searches of the District Office of Contracting and Procurement excluded
+parties list, the Office of Inspector General exclusion database, and the System for Award
+Management database.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination and Finding for Human Care Agreement, dated April 25, 2021
+Determination and Finding for Contractor Responsibility, dated February 25, 2025
+Determination and Finding for Price Reasonableness, dated March 8, 2025
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+The HCA and any amendments will be available online at www.ocp.dc.gov
+6
+
+(BB) Where the original solicitation and any amendments or modifications will be made available
+online:
+The original solicitation and any amendments or modifications are available online at
+www.ocp.dc.gov
+7
+
+* * *
+GovernmentoftheDistrictofColumbia
+im OfficeoftheChief Financial Officer 1101 4*Street, SW
+Gm OfficeofTax andRevenue Washington,DC20024
+Date ofNotice: April 14, 2025 NoticeNumber: 10014005971 >
+UMBRELLA THERAPEUTIC SERVICES, INC FEIN: #446711
+12902WOODMORENORTHBLVD Case ID: 18565845
+BOWIEMD 20720-4793
+CERTIOFFICLCEAANHTANEDS
+As reported in the Clean Hands system, the above referenced individual/entityhas no outstanding
+liability with the District ofColumbia Office ofTax and Revenueorthe DepartmentofEmployment
+Services. Asofthe date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate ofClean Hands is issued.
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE ORPERMIT
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By MelindaJenkins
+BranchChief, Collection and EnforcementAdministration
+Tovalidate this certificate,pleasevisit MyTax.DC.gov. Onthe MyTax DChomepage, clickthe
+“Validate a Certificate ofClean Hands” hyperlinkundertheClean Hands section.
+11014thStreetSW,SuiteW270,Washington,DC 20024/Phone:(202)724-S045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE CHIEF FINANCIAL OFFICER
+MEMORANDUM
+TO: Nancy Hapeman
+Chief Procurement Officer
+Office of Contracting and Procurement
+THRU: Delicia V. Moore
+Associate Chief Financial Officer
+Human Support Services Cluster
+FROM: Antonio J. Baxter Electronically signed
+Agency Fiscal Officer
+Department of Youth Rehabilitation Services
+DATE April 3, 2025
+SUBJECT: Certification of Funding Availability for Umbrella Therapeutic Services, Inc.
+The Office of the Chief Financial Officer hereby certifies that the sum of $1,430,375.76 is included in the District’s
+Local Budget and Financial Plan for Fiscal Year 2025 to fund the costs associated with the Department of Youth
+Rehabilitation Services contract with Umbrella Therapeutic Services, Inc. This certification supports the Pre & Post
+Transitional Care contract during the period from March 17, 2025, through March 16, 2026. The fund allocation is
+as follows:
+Vendor: Umbrella Therapeutic Services, Inc. Contract #: CW96234
+Fiscal Year 2025 Funding: March 17, 2025, to September 30, 2025
+Agency Fund Program Cost Center Index Grant/Ph Amount
+JZ0 1010001 700235 70545 7141002 N/A $1,430,375.76
+FY 2025 Contract Total: $1,430,375.76
+Fiscal Year 2026 Funding: October 1, 2025, to March 16, 2026
+Agency Fund Program Cost Center Account Grant/Ph Amount
+JZ0 1010001 700235 70545 7141002 N/A $1,206,428.04
+FY 2026 Contract Total: $1,206,428.04
+Upon approval of the District’s Fiscal Year 2026 Local Budget and Financial Plan by the Council and the Mayor
+and completion of the thirty-day Congressional layover, funds will be sufficient to pay for fees and costs associated
+with the contract. There is no fiscal impact associated with the contract.
+Should you have any questions, please contact me at (202) 299-5665.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+REVISED MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: May 19, 2025
+SUBJECT: Approval of Option Year 3 of the Human Care Agreement for Pre- and Post-
+Transitional Home Services
+Contractor: Umbrella Therapeutic Services, Inc.
+Contract Number: CW96234
+Contract Amount: NTE $2,636,803.80
+This is to Certify that this Office has reviewed the above-referenced Contract and that we have
+found it to be legally sufficient.
+If you have any questions in this regard, please do not hesitate to call me at (202) 724-4018.
+______________________________
+Robert Schildkraut
+400 6th Street NW, Suite 9100, Washington, DC 20001 (202) 727-3400
+
+1.Contract Number Page of Pages
+MODIFICATION OF CONTRACT CW96234 1 1
+2.Amendment/Modification Number 3.Effective Date 4.Requisition/Purchase Request No. 5.Solicitation Caption
+M009 See Block 16C
+Pre and Post Transitional Services
+6.Issued by: Code 5CDH 7.Administered by (If other than line 6)
+D.C. Office of Contracting and Procurement Department of Youth Rehabilitation Services
+Department of Youth Rehabilitation 450 H Street NW, 4th Floor
+441-4th Street, Suite 700 South (Mailing) Washington, DC 20001
+Washington, D.C. 20001
+8.Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+9B. Dated
+Umbrella Therapeutic Services, Inc.
+3300 Pennsylvania Avenue 10A. Modification of Contract/Order No.
+Washington, DC 20020 X
+CW96234
+10B. Dated (See Item 13)
+Code Facility X 3/17/2022
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers X is extended._ is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a)By completing Items 8 and 15, and returning __________ copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO
+BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION
+OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or
+telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data:
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+XX A. This change order is issued pursuant to (Specify Authority):
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B.The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C.This supplemental agreement is entered into pursuant to authority of: The Changes Clause
+D.Other (Specify type of modification and authority)
+Exercise of Option 27 DCMR Section 2200
+E.IMPORTANT: Contractor is _XX_ is not __ required to sign this document.
+14.Description of modification:
+The purpose of this modification is to :
+1. Exercise partial option year three with no cost to HCA CW96234. The period of performance for partial option
+year three is from March 17, 2025 through April 30, 2025 in the Not-to-Exceed amount of $325,085.40.
+2. The Living Wage Act Fact Sheet for 2025 is attached (Attachment A) and hereby incorporated in the HCA as
+Attachment A.
+3. The Living Wage Act Notice for 2025 is attached (Attachment A) and hereby incorporated in the HCA as
+Attachment A.
+4. UPDATE the US Department of Labor Wage Determination from 2015-4281 Revision No. 22, dated March 15,
+2022 to US Department of Labor Wage Determination 2015-4281 Revision No. 32, dated December 23, 2024
+and any subsequent Wage Determinations released during the period of performance.
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Wes Jones, CEO Bernadette Catalan
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+3/5/2025
+3/5/25
+(Signature of person authorized to sign)
+(Signature of Contracting Officer)
+1
+
+1. Contract Number Page of Pages
+MODIFICATION OF CONTRACT CW96234 1 1
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+M0010 See Block 16C
+Pre and Post Transitional Services
+6. Issued by: Code 5CDH 7. Administered by (If other than line 6)
+D.C. Office of Contracting and Procurement Department of Youth Rehabilitation Services
+Department of Youth Rehabilitation 450 H Street NW, 4th Floor
+441-4th Street, Suite 700 South (Mailing) Washington, DC 20001
+Washington, D.C. 20001
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+9B. Dated
+Umbrella Therapeutic Services, Inc.
+3300 Pennsylvania Avenue 10A. Modification of Contract/Order No.
+Washington, DC 20020 X
+CW96234
+10B. Dated (See Item 13)
+Code Facility X 3/17/2022
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers X is extended._ is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15, and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO
+BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION
+OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or
+telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data:
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+XX A. This change order is issued pursuant to (Specify Authority):
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C. This supplemental agreement is entered into pursuant to authority of: The Changes Clause
+D. Other (Specify type of modification and authority)
+Exercise of Option 27 DCMR Section 2200
+E. IMPORTANT: Contractor is _XX_ is not required to sign this document.
+14. Description of modification:
+The purpose of this modification is to :
+1. Extend partial option year three with no cost to HCA CW96234. The period of performance for partial option year three is from
+May 1, 2025 through May 9, 2025.
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Wes Jones, CEO Bernadette Catalan
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+3/8/2025
+3/5/2025
+(Signature of person authorized to sign)
+(Signature of Contracting Officer)
+1
+
+5/5/2025
+
+7ContractNomber PaofgPagees
+cowae234 7h
+|A2m
+M
+en
+O
+d
+D
+r
+I
+e
+F
+ni
+I
+h
+C
+t
+A
+os
+T
+t
+I
+i
+O
+c a
+N
+to
+O
+n
+F
+Nu
+C
+m
+O
+be
+N
+r
+T
+|
+R
+&
+ACT
+EfeciveData
+7RaqustionPurchaseRe questNe, |©SletallonCapt ion
+Moot
+‘SeeBlock18 PreandPostTransitional Services
+Tale [EGOH -Raribny (iWatorrtroanidne 6)
+1 T . e C. a OfficeofContractingandProcurement 4 De 5 p 0 a H rt S m t e r n o t a o t f N Y W o , ut 4 hR F e l h o a o b r iltationServices
+D
+44
+e
+4
+p
+1
+a
+-
+r
+4
+t
+"
+m
+S
+e
+tr
+n
+e
+t
+e
+o
+t
+f
+,S
+Y
+u
+o
+i
+u
+t
+t
+e
+h
+7
+R
+0
+e
+0
+h
+S
+e
+o
+b
+u
+i
+t
+t
+h
+at
+(
+i
+M
+on
+ing)
+Washington,020001
+3
+W
+.
+as
+N
+hi
+a
+n
+m
+gto
+n
+n
+e
+,
+d
+8
+A
+.
+d
+6
+d
+.
+re
+2
+s
+0
+s
+00
+o
+1
+fContractor(No. sree, ly,coun, sateandzpcode)
+‘TKAmendofmSteatantitonNo,
+35 baiod
+UmbrellaTherapeuteSences ne
+TOR. WoaTieatonotContracOrderNo.
+3300PennsylvaniaAvenue
+x
+Weshington,020020
+‘owo6234
+‘Atonton:Mr, WesJones,CEO Wjones@umbraliacares.com
+"0B.Dated(SoaTtom13)
+Fe x| 3iv72022
+Code
+|cote
+seerentORLY APPLIES TOAMENDMENTS OFSOLICITATIONS
+R s { ( T e ( u f e e u B r ) r a B e r b y y e n e c r c a o a e a t m n m c o b p t e e P o l t e s v e e E d e t n n s i o R g n n ( n u . g r B t m e Y e a f b a e r e e i r m i e r b e g e y n s e d a c a 8 v s e r a e u C t o c n o e o i d t e b t o h p 1 e f t 5 t D o o , s t E f o o e i S i h n s I i i f d a t s G a x r a N m m o t e A m e o e t w a T n n u h n n E i i d a d d n c D n e m g d m d F e c e t n a O o i s y t n R s d o r t s u T a e o t m H d s r e o E n r R a o e d E t e m i C h s e f f n e n E r ‘ o t t c i a I c h o , a n o P h pi r m u c o a T e r n e O s n eg a 1 d o F f 4 e n . o f s d t t a d O h r T n h a e F e h t o F c e s a e e o m f E h s l l a r R a v c n p u S e k c a e a m a p P c r t e r n R i o n i e o I d n t e r a : O d i a t a R n n o s T t ( t d u t 0 e O ) h b h s a r e e B i m e s y T t o e o c i p H a n e c e t E c d d r t k , m i a n H n e s t o g O n u f o w c o t U l n h r h e o R n o d r u m u r g r e A m a i e c b N e y n e s i n g D r b d p , a r e D d o e m c o m A e f F e t a n T i A f e d p d E I e t e s e L o r S d p U f b s P , e t R y E c b i X E y C i l s a s e I O t o . F t a F e e n I m r e x E e Y o t o r D r O e f s f t U n M s x h d R m A e , e e Y A f d n p l — t r C R t o o o E K v w n i S i n N d U e n e a O L g d c e T W h e x r a t L I c c a N e o h E l n m p R d y D e E o e J e o E s d f E r . N h C o e E T r I NT o O f ST f N er
+[izResbuntng.andAppropriation
+“1d T
+Dal.
+HISITEMAPPLIESONLYTO
+MODIFICATIONSOFCONTRACTSIORDERS,
+TTMODIFIESTHECONTRACTIORDERNO.ASDESCRIBEDINITEM 14
+3K] A
+T
+t
+e
+T
+i
+‘
+h
+T
+i
+e
+s
+h
+)
+e
+c
+c
+s
+s
+h
+e
+h
+i
+l
+a
+a
+v
+f
+n
+n
+e
+o
+g
+g
+r
+e
+n
+e
+t
+o
+s
+a
+h
+r
+i
+r
+s
+d
+n
+b
+e
+a
+e
+t
+t
+r
+r
+f
+o
+i
+e
+o
+m
+r
+s
+d
+t
+s
+h
+1
+c
+4
+u
+o
+,
+in
+n
+e
+v
+p
+l
+d
+u
+a
+a
+r
+c
+m
+p
+s
+l
+u
+o
+1
+a
+u
+r
+4
+n
+d
+t
+r
+e
+a
+t
+r
+r
+o
+e
+s
+i
+t
+t
+s
+m
+o
+h
+u
+m
+a
+e
+o
+(
+a
+d
+a
+d
+S
+e
+i
+p
+u
+f
+ne
+i
+i
+n
+c
+e
+t
+tl
+t
+d
+y
+h
+h
+t
+e
+o
+A
+r
+c
+u
+oo
+e
+o
+t
+f
+f
+h
+n
+2
+l
+r
+o
+l
+e
+7
+n
+r
+c
+i
+i
+t
+e
+D
+y
+c
+t
+}
+Ct
+o
+h
+M
+r
+e
+d
+yR
+a
+e
+,
+d
+r
+m
+C
+i
+n
+h
+o
+n
+a
+.
+i
+p
+s
+i
+t
+a
+n
+e
+t
+i
+r
+i
+t
+3
+o
+v
+m
+6
+e
+,
+1
+ch
+S
+0
+o
+a
+4
+c
+n
+t
+g
+i
+e
+o
+s
+n
+(
+36
+a
+0
+u
+4
+c
+.
+h
+2.
+8schangesinpayingoffes,appropriationdata
+Stnssupplementalagreementisenteredintopursuanttoauthorityof: TheChangesClause
+.Oihar(Spailyype modificationandauthoriy)
+ExerciseofOption27DOMRSection2200
+EVIMPORTANT: — Contractor's _XX__ isnot__requiredtosignthisdocument
+14,Descriptionofmodification:
+‘Thepurposeofthismodification isto:
+1, G In ov a e c r c n o m r e da n n to c f e t w h it e h D S i e s c tr t i i c o t n o D f .3 C . o 1 l , u t m h b e i O a p h t e i r o e n b t y o e ‘ x E e x r t c e i n s d es Te th r e mo r f e t ma h i e nd H e u r m o a f n Op C t a i r o e n A Y g e r a e r em T e h n r t e , e t ( h O e Y3)for
+theabovereferenced HCAtoprovidePreandPostTransit ional Services. TheremainderoftheOY3period
+ofperformanceisJune 12, 2025throughMarch 16,2026.
+2, The
+totalNot-to-Exceed(NTE)amountisincreasedby$2,008,305.36from$628,498.44 to$2,636,803.80.
+{e xonsGrOTGaaRar,
+TarrandConaTIONSoeGOCUTIaHTsrterencedinTemOAorWAremainunchangedandinfuforesandeect.
+Bernadette Catalan
+Wes Jones, CEO
+Cel Veer ss [a5
+(SigofnConatratctiungOrticeer)
+— wk -
+UV

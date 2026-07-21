@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1 ___________________________
+2 Councilmember Charles Allen
+3
+4
+5
+6 A PROPOSED RESOLUTION
+7
+8 ________
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12 ________________
+13
+14 To declare the existence of an emergency with respect to the need to amend the Language Access
+15 Act of 2004 to include the District of Columbia Water and Sewer Authority as a covered
+16 entity with major public contact; to amend the District of Columbia Public Works Act of
+17 1954 to require that the District of Columbia Water and Sewer Authority submit
+18 information regarding disconnections to the Council, the Office of the People’s Counsel,
+19 the Office of the Attorney General, and the Office of the Tenant Advocate on a monthly
+20 basis; to amend the Water and Sewer Authority Establishment and Department of Public
+21 Works Reorganization Act of 1996 to clarify the imposition of charges and penalties for
+22 late payment of water service charges and bills; and to amend section 431 of Title 21 of
+23 the District of Columbia Municipal Regulations to modify the notice requirements to
+24 building occupants prior to a water service disconnection.
+25
+26 RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+27 resolution may be cited as the “DC Water and Sewer Authority Billing and Disconnection
+28 Clarification Emergency Declaration Resolution of 2026”.
+29 Sec. 2. (a) In 1954, Congress enacted the District of Columbia Public Works Act of 1954,
+30 approved May 18, 1954 (68 Stat. 101; D.C. Official Code passim) (“PWA”). Sections 102 (D.C.
+31 Official Code § 34-2413.10, repealed) and 210 (D.C. Official Code § 34-2110) of the PWA
+32 authorized charging 10% for late payment of water and sewer charges, respectively, remaining
+33 unpaid after 30 days.
+34 (b) In 1990, the Council enacted the District of Columbia Water and Sewer Operations
+1
+
+35 Amendment Act of 1990, effective April 17, 1990 (D.C. Law 8-136; 37 DCR 2620), which, among
+36 other things, amended those sections of the PWA to add a late penalty of 1% per month
+37 compounded monthly for any water and sewer charges remaining unpaid after 60 days.
+38 (c) In 1996, the Council passed the Water and Sewer Authority Establishment and
+39 Department of Public Works Reorganization Act of 1996, effective April 18, 1996 (D.C. Law 11-
+40 111; D.C. Official Code § 34-2201.01 et seq.), which repealed the statutory provision for late
+41 payment of water charges in section 102 of the PWA, but did not repeal the statutory provision for
+42 late payment of sewer charges in section 210 of the PWA.
+43 (d) Still, section 216(d) of the PWA (D.C. Official Code § 34-2202.16(d)) granted the
+44 District of Columbia Water and Sewer Authority (“DC Water”) broad authority to “impose
+45 additional charges and penalties for late payment of bills.” Relying on that legal authority, on
+46 August 4, 2003, DC Water approved amendments to 21 DCMR § 112 that established a late penalty
+47 fee of 10% for charges remaining unpaid after 30 days and a late fee of 1% compounded monthly
+48 for charges remaining unpaid after 60 days. There was a legal dispute as to whether the D.C.
+49 Official Code conferred DC Water with the requisite legal authority to initiate this change to the
+50 DCMR.
+51 (e) If the authority delegated to DC Water under section 216(d) is interpreted as not
+52 conferring DC Water with the requisite legal authority, DC Water would only be authorized to
+53 issue late fees and penalties in connection with sewer service arrearages. This effectively prohibits
+54 DC Water from charging any late fees that encourage the timely payment of water charges and
+55 other related services such as payment-in-lieu of taxes and right-of-way fees. Additionally, while
+2
+
+56 section 210 sets a limit on the late fees that can be imposed for unpaid sanitary sewer service
+57 charges, section 216(d) includes no such limit on the imposition of late fees related to unpaid water
+58 service charges.
+59 (f) Separately, in March 2025, DC Water launched a more robust campaign to collect
+60 outstanding balances from ratepayers, issuing its first of many notices of disconnection to
+61 housing providers of multifamily apartment buildings. The notices advised tenants residing at
+62 the properties that the water service would be terminated unless housing providers addressed
+63 their outstanding water bills. DC Water ended Fiscal Year 2025 with $33.3 million in unpaid
+64 water bills.
+65 (g) DC Water’s campaign to collect outstanding debts revealed significant challenges
+66 associated with water shutoffs at multifamily residential buildings. First, in some of these cases,
+67 tenants have been paying their rent consistently and did not know that their building was in
+68 arrears until they saw a notice of disconnection or experienced a disconnection. In a sense, these
+69 tenants are being punished for their building owner or manager’s failure to pay the water bill.
+70 Additionally, because DC Water is rarely in contact with individual tenants, it may not know if
+71 a unit for which they are threatening disconnection is the home of a senior, child, or a person
+72 with a disability—populations that are especially vulnerable during water service shutoffs. And
+73 without more information about individual occupants in these buildings, it has been difficult for
+74 District agencies (e.g., the Office of the Tenant Advocate) or legal aid providers to contact
+75 families who have experienced or are facing a disconnection to provide them with assistance or
+76 guidance.
+3
+
+77 (h) Requiring that DC Water provide monthly updates to the Council, the Office of the
+78 Attorney General (“OAG”), the Office of the People’s Counsel (“OPC”), and the Office of the
+79 Tenant Advocate (“OTA”) regarding its disconnection activities will better enable OAG, OPC,
+80 and OTA to assist residents experiencing disconnection and will allow the Council to make more
+81 informed decisions regarding potential changes to the disconnection process.
+82 (i) In response to these issues, on June 14, 2025, the Council passed the DC Water and
+83 Sewer Authority Billing and Disconnection Clarification Emergency Amendment Act of 2025,
+84 effective August 1, 2025 (D.C. Act 26-127; 72 DCR 8607) (“emergency act”). The emergency
+85 act clarified the Council’s intent that DC Water has had the authority to assess late payment fees
+86 on water service arrearages since April 18, 1996, and that those fees are subject to the same
+87 limitations as fees for sewer service arrearages. The emergency act also required that DC Water
+88 submit monthly reports to the Council, OAG, and OTA regarding its disconnection activities.
+89 The Council also passed the DC Water and Sewer Authority Billing and Disconnection
+90 Clarification Temporary Amendment Act of 2025, effective October 1, 2025 (D.C. Law 26-50;
+91 72 DCR 8941) (“temporary legislation”), which was identical to the emergency act
+92 (j) The emergency act expired on October 30, 2025. The temporary legislation is set to
+93 expire on May 14, 2026. A new round of emergency and temporary legislation is therefore
+94 necessary to maintain these provisions until they have been incorporated into a permanent
+95 measure.
+96 Sec. 3. The Council of the District of Columbia determines that the circumstances
+97 enumerated in section 2 constitute emergency circumstances making it necessary that the DC
+4
+
+98 Water and Sewer Authority Billing and Disconnection Clarification Emergency Amendment Act
+99 of 2026 be adopted after a single reading.
+100 Sec. 4. This resolution shall take effect immediately.
+5

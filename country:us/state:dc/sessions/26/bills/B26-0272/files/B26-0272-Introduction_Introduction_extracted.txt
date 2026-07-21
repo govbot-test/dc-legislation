@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1
+2 Councilmember Robert C. White, Jr.
+3
+4
+5
+6 A BILL
+7
+8 _________________________
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12 _________________________
+13
+14 To amend, on an emergency basis, the Rental Housing Act of 1985 to extend the deadline from
+15 90 days to 180 days for housing providers to file a new registration statement after the
+16 completion of the publicly accessible rent control housing database, and to require
+17 owners of rental accommodations that are exempt from rent stabilization to report current
+18 and prior rent amounts for the previous two calendar years at the time of registration.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the “Rental Housing Registration Extension Emergency Amendment Act of
+22 2025”.
+23
+24 Sec.2. Section 205(f) of the Rental Housing Act of 1985, effective October 22, 2015
+25 (D.C. Law 21-36; D.C. Official Code § 42-3502.05(f)), is amended as follows:
+26 (a)Paragraph (1) is amended by striking the number “90” and inserting the number “180”
+27 in its place.
+28 (b)Paragraph (2) is amended by striking the number “90” and inserting the number “180”
+29 in its place.
+30 (c)Paragraph (4) is amended as follows:
+31 (1)Subparagraph (A) is amended by striking the number “90” and inserting the
+32 number “180” in its place.
+33 (2)Subparagraph (B)(i) is amended by striking the number “91” and inserting the
+34 number “181” in its place.
+35 (d)A new paragraph (5) is added to read as follows:
+1
+
+36 “(5)(A) The owner of a rental accommodation that is exempt from rent
+37 stabilization pursuant to subsection (a) of this section shall, at the time of registration, provide
+38 the following information for each rental unit:
+39 “(i) The current monthly rent amount; and
+40 “(ii) The monthly rent amount charged for the same unit during
+41 each of the two prior calendar years.
+42 “(B) The information required under subparagraph (A) of this paragraph
+43 shall be submitted only at the time of registration and shall not be subject to any ongoing or
+44 annual reporting requirements.”
+45 Sec. 3. Fiscal impact statement.
+46 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+47 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+48 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+49 Sec. 4. Effective date.
+50 This act shall take effect following approval by the Mayor (or in the event of veto by the
+51 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+52 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+53 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+54 D.C. Official Code § 1-204.12(a)).
+2

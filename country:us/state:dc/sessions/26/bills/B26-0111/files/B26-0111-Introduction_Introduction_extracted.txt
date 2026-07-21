@@ -1,0 +1,426 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+________________________________ ________________________________
+Councilmember Charles Allen Councilmember Janeese Lewis George
+________________________________ ________________________________
+Councilmember Brooke Pinto Councilmember Brianne K. Nadeau
+________________________________ ________________________________
+Councilmember Matthew Frumin Councilmember Robert C. White, Jr.
+________________________________
+Councilmember Zachary Parker
+1 A BILL
+2 _________
+3
+4 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+5 _________________
+6
+7 To amend the Lead Service Line Priority Replacement Assistance Act of 2004 to establish a
+8 program operated by DC Water and the Department of Energy and Environment to
+9 require the removal of lead service lines from public property and from all District
+10 government buildings and privately owned properties by January 1, 2030, to require DC
+11 Water to create and maintain an inventory of water service lines identifying those that are
+12 or could be lead service lines, to provide a tax credit to property owners who voluntarily
+13 replace lead service lines from private property through 2026, to establish a schedule of
+14 copayments for lead service line removal program participation and penalties for
+15 noncompliance, to require reporting on program implementation plans and progress; to
+16 amend the Youth Employment Act of 1979 to establish a lead service line job training
+17 program at the DC Infrastructure Academy by October 1, 2025 to train 50 District
+18 residents each training cycle, to require union participation in job training program
+19 development, and to create plans for youth workforce training programs and the DC
+20 Infrastructure Academy that advance the District’s lead remediation goals; to amend the
+21 Minimum Wage Act Revision Act of 1992 to require employers to pay workers District
+22 minimum wage rates when an employee preforms at least two hours of work in the
+23 District in one workweek; and to amend the Accrued Sick and Safe Leave Act of 2008 to
+24 require paid sick leave for students enrolled in a District-administered paid job training
+25 program.
+1
+
+26 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+27 act may be cited as the “Accelerating a Lead-Free DC Amendment Act of 2025”.
+28 TITLE I. LEAD SERVICE LINE REPLACEMENT MANDATE
+29 Sec. 101. This title may be cited as the “Lead Service Line Replacement Mandate
+30 Amendment Act of 2025”.
+31 Sec. 102. The Lead Service Line Priority Replacement Assistance Act of 2004, effective
+32 December 7, 2004 (Subtitle VI-B of D.C. Law 15-205; D.C. Official Code § 34-2151 et seq.), is
+33 amended as follows:
+34 (a) Section 6012 is repealed.
+35 (b) Section 6013 is repealed.
+36 (c) Section 6014 is repealed.
+37 (d) Section 6015 is repealed.
+38 (e) New sections 6015a through 6015g are added to read as follows:
+39 “Sec. 6015a. Definitions.
+40 “For the purposes of this subtitle the term:
+41 “(1) “DGS” means the Department of General Services or any successor to its
+42 property management functions.
+43 “(2) “DOEE” means the Department of Energy and Environment.
+44 “(3) “DC Water” means the District of Columbia Water and Sewer Authority.
+45 “(4) “Fund” means the Lead Service Line Replacement Fund established pursuant
+46 to section 6019b(i).
+47 “(5) “Inventory” means the inventory of water service lines established and
+48 maintained by DC Water pursuant to section 6015c.
+2
+
+49 “(6) “Lead service line” means a water service line where all or any portion
+50 contains or may contain any lead, and shall include a water service line that is brass, galvanized,
+51 or any other material that could leach lead into drinking water, as determined by DC Water.
+52 “(7) “Lead-free service line” means a water service line where no portion is a lead
+53 service line, to the knowledge of DC Water with a high degree of confidence.
+54 “(8) “Program” means the lead service line removal and replacement program
+55 established by DC Water pursuant to section 6015d.
+56 “(9) “Property owner” means a person or entity, other than the District or U.S.
+57 government, that owns real property or holds a long-term leasehold interest in real property that
+58 is located in the District and that is serviced by the DC Water drinking water system or otherwise
+59 contains a water service line that is part of the DC Water drinking water system.
+60 “(10) “Water service line” means a water service line (regardless of its material
+61 composition), including a gooseneck or a pigtail, extending from its connection with a water
+62 main to its intersection with either a property boundary or a point at which the water service line
+63 is 18 inches from a building or structural projection, whichever results in a longer water service
+64 line.
+65 “Sec. 6015b. Elimination of lead service lines by 2030.
+66 “Lead service lines shall be eliminated from public space and from all real property
+67 owned by the District or a property owner by January 1, 2030.
+68 “Sec. 6015c. Inventory of water service lines.
+69 “(a) DC Water shall establish and maintain an inventory of all water service lines that are
+70 connected to its water service system. For each water service line, the inventory shall identify:
+71 “(1) The service address of each customer served by the water service line;
+3
+
+72 “(2) Information describing the actual location of the water service line, if known;
+73 “(3) The material composition of the water service line, if known, and a rating of
+74 DC Water’s confidence in the accuracy of this information;
+75 “(4) The method by which the material composition of the water service line has
+76 been determined and the date of such determination;
+77 “(5) Whether all or any portion of the water service line is a lead service line;
+78 “(6) If applicable, the date when a former lead service line was fully replaced,
+79 such that no portion of the water service line was a lead service line; and
+80 “(7) Any other information that DC Water or the District determine is appropriate.
+81 “(b) Whenever a new connection to the water service system is established, DC Water
+82 shall require the property owner to provide such information as DC Water may determine is
+83 necessary to add the new water service line to the inventory.
+84 “(c) DC Water shall attain a high degree of confidence in the accuracy of the inventory’s
+85 record of the material composition of 90 percent of water service lines by January 1, 2027, and
+86 99 percent of water service lines by January 1, 2030.
+87 “(d) DC Water shall publish on its website a copy of the inventory data and a map
+88 depicting the information required to be included in the inventory.
+89 “Sec. 6015d. Lead service line removal program.
+90 “(a)(1) By January 1, 2024, DC Water shall establish a lead service line removal program
+91 for the purpose of replacing lead service lines on private property by 2030 (the “Program”).
+92 “(2) The Program shall underwrite the costs of:
+93 “(A) Replacing lead service lines on private property after property
+94 owners register and remit a copayment for participation in the Program; and
+4
+
+95 “(B) Providing tap filters to residential customers for use until lead service
+96 lines are replaced.
+97 “(3) The cost of Program copayments may not be passed on to any residential
+98 tenants renting the property.
+99 “(b) DC Water shall publish a schedule of copayments, not to exceed an amount of $250
+100 per dwelling unit on any private property, property owners must pay to participate in the
+101 Program. DC Water shall consider the following factors when developing the schedule of
+102 copayments:
+103 “(1) Whether the structure or structures served by the lead service line are:
+104 “(A) Commercial or residential; and
+105 “(B) If residential, whether single-family or multi-family.
+106 “(2) The assessed value of the structure served by the lead service line;
+107 “(3) Whether the property owner is an individual or an entity;
+108 “(4) The estimated cost of replacing the lead service line at the property; and
+109 “(5) The property owner’s ability to pay.
+110 “(c)(1) Unless it is determined with a high degree of confidence that a Program
+111 participant’s water service line is a lead-free service line, DC Water shall replace the lead service
+112 line of a property owner no more than 2 years after the property owner registers for the Program
+113 and remits the copayment.
+114 “(2) Replacement shall include:
+115 “(A) Removal of a lead service line from public space and private property
+116 and installation of a lead-free service line;
+5
+
+117 “(B) Replacement and leveling of dirt and soil displaced during
+118 excavation; and
+119 “(C) Replacement or restoration of interior and exterior walls and floors
+120 damaged or demolished during removal and replacement to a safe and habitable condition.
+121 “(3) DC Water shall contract for lead service line replacement services with at
+122 least two companies whose workers are unionized and shall make those companies known to
+123 Program participants.
+124 “(4) DC Water shall provide a choice to Program participants to use union labor
+125 for the purpose of lead service line removal on their property.
+126 “(d) In scheduling replacements to be carried out through the Program, DC Water shall
+127 prioritize all of the following considerations in an order it determines is appropriate:
+128 “(1) Replacement of lead service lines that service structures wherein pregnant
+129 people or children under the age of 7 are likely to drink or use water;
+130 “(2) The efficient use of time and money by replacing all lead service lines within
+131 a single block at one time and in concert with other underground utility work; and
+132 “(3) Equity in light of racial, social, and economic disparities.
+133 “Sec. 6015e. Implementation of mandate to remove lead service lines.
+134 “(a) By January 1, 2026, DC Water shall send a written notice to every customer
+135 receiving water service in the District. The notice shall:
+136 “(1) Explain in plain language the risks to human health of lead exposure through
+137 drinking water and the availability of lead-free pipes;
+6
+
+138 “(2) State whether each water service line serving the customer is a lead-free
+139 service line or a lead service line, and disclose the degree of confidence that DC Water has in
+140 each such determination;
+141 “(3) Communicate the requirement that all lead service lines must be replaced by
+142 January 1, 2030;
+143 “(4) Provide information about registration for the lead service line removal
+144 program; and
+145 “(5) Provide an approximate timeframe and methods for collecting information
+146 needed to establish the materials of each water service line with a high degree of confidence,
+147 including the procedure for property owners to demonstrate the existence of a lead-free service
+148 line.
+149 “(b) By January 1, 2026, DC Water shall physically post notice of the requirement to
+150 remove lead service lines or register for the lead service line removal Program at each District
+151 property that is not serviced by lead-free service line.
+152 “(c)(1) By June 30, 2026, the property owner of a structure that is serviced by a lead
+153 service line shall:
+154 “(A) Submit proof, acceptable to DC Water, of the installation of a lead-
+155 free service line or of the existing water service line having a material composition that qualifies
+156 it as a lead-free service line; or
+157 “(B) Register for the lead service line removal Program and, if applicable,
+158 remit the copay prescribed in section 6015d.
+7
+
+159 “(2) Notwithstanding paragraph (1) of this subsection, DC Water may extend the
+160 deadline if the property owner has taken reasonable steps to secure services for materials testing
+161 and replacement and capacity limitations prevent compliance with the deadline.
+162 “(d) After June 30, 2026, DC Water shall remit a list of properties and property owners
+163 not in compliance with subsection (b) of this section to DOEE and the Department of Buildings.
+164 “(e)(1)(A) After June 30, 2026, a property owner who fails to comply with subsection (b)
+165 of this section, shall be fined up to $150 per month for every month of non-compliance,
+166 according to a schedule of fines published by the Mayor that takes into account property type and
+167 use, for every month the property owner fails to comply.
+168 “(B) A property owner assessed fines pursuant to subparagraph (A) of this
+169 paragraph who submits proof that the lead service line was removed after June 30, 2026, may
+170 elect to have the one-half of the value of the fines assessed reduced by the cost of replacement of
+171 the lead service line.
+172 “(2) After December 31, 2026, a property owner who fails to comply with
+173 subsection (b) of this section may not:
+174 “(A) Receive or renew a business license to operate a business on the
+175 property;
+176 “(B) Receive a certificate of occupancy for any structure on the property;
+177 or
+178 “(C) Receive a permit to perform construction or improvements on the
+179 property unless the property owner has a permit to replace the lead service line;
+180 “(3)(A) After December 31, 2026, a tenant who resides in a property owned or
+181 controlled by a property owner who has failed to comply with subsection (b) of this section may
+8
+
+182 bring a private cause of action for abatement of the lead service line against the property owner
+183 in D.C. Superior Court. If a court finds that the property owner has violated the requirements of
+184 subsection (b), the property owner shall pay the tenants’ attorney fees and a fine of up to
+185 $25,000, 50% of which shall be deposited into the Fund, and the remaining 50% divided among
+186 tenants of the property.
+187 “(B)(1) By December 31, 2026, the Department of Buildings shall post a
+188 notice informing tenants of their rights under subparagraph (A) of this paragraph on each
+189 building serviced by a lead service line and owned or controlled by a private property owner who
+190 has failed to comply with subsection (b) of this section.
+191 “(2) Photographic evidence of the posting shall accompany all
+192 notices and shall be published on any public database of building citations maintained by the
+193 Department of Buildings.
+194 “(C) The Office of the Tenant Advocate shall provide guidance to any
+195 tenant who seeks to initiate a cause of action for lead service line abatement and removal
+196 pursuant to this paragraph.
+197 “(4)(A) After June 30, 2027, the Attorney General may initiate a civil action
+198 against a property owner to abate any lead service lines on the property.
+199 “(B) The property owner shall pay the cost to relocate any residential
+200 tenants displaced during the lead service line abatement.
+201 “(C) Before initiating an abatement action against a property owner who
+202 resides in a property serviced by a lead service line, the Attorney General shall attempt out-of-
+203 court resolution to remove the lead service line, including by referring the property owner to DC
+204 Water for assistance in registering for the lead water line removal program.
+9
+
+205 “(D) If a court finds against the property owner, the court shall order the
+206 property owner to pay the Attorney General’s attorneys’ fees and a fine of up to $15,000, which
+207 shall be deposited into the Fund.
+208 “(f) A landlord shall pay any cost to relocate residential tenants temporarily displaced in
+209 order to comply with lead service line removal requirements of this section.
+210 “Sec. 6015f. Tax credit for lead service line replacement.
+211 “(a) A property owner shall be entitled to claim a credit, in an amount not to exceed
+212 $5,000, against the amount of income tax due pursuant to Chapter 18 of Title 47 of the D.C.
+213 Official Code for the property owner’s actual costs of replacing a lead service line, installing a
+214 lead-free service line, and restoring or improving the ground between the first day of the tax year
+215 in which the Lead Service Line Replacement Mandate Act of 2025, effective ____, 2025 (Title I
+216 of Bill 26-____), became effective and applicable, and December 31, 2026.
+217 “(b) The Chief Financial Officer shall issue regulations as may be necessary to establish
+218 procedures or requirements for claiming the tax credit authorized in this section.
+219 “Sec. 6015g. District removal of lead service lines.
+220 “DGS, DOEE, and DC Water shall coordinate and accomplish the removal of lead
+221 service lines from all public property spaces and District-owned and leased property, including
+222 property leased from or by the District, by January 1, 2028.”.
+223 (f) Section 6019a is amended as follows:
+224 (1) Subsection (d) is repealed; and
+225 (2) A new subsection (e) is added to read as follows:
+226 “(e) This section shall expire on June 30, 2026.”.
+227 (g) Section 6019b is amended as follows:
+10
+
+228 (1) Subsection (a) is amended by striking the phrase “(“Program”)” and inserting
+229 the phrase “(“Assistance Program”)” in its place;
+230 (2) Subsection (b)(1)(C) is amended by striking the number “2,500” and inserting
+231 the number “5,000” in its place;
+232 (3) A new subsection (h-1) is added to read as follows:
+233 “(h-1) Subsections (a) through (h) shall expire on June 30, 2026.”;
+234 (4) Subsection (i) is amended as follows:
+235 (A) Paragraph (2) is amended to read as follows:
+236 “(2) Revenue from the following sources shall be deposited in the Fund:
+237 “(A) Copayments from registrations for the lead service line removal
+238 Program pursuant to this subtitle.
+239 “(B) Fines assessed against property owners who failed to timely register
+240 for the lead service line removal Program;
+241 “(C) Fines paid to the fund from abatement actions brought pursuant to
+242 this subtitle;
+243 “(D) Federal funds awarded to the District or DC Water for the purpose of
+244 lead service line remediation and replacement;
+245 “(E) Proceeds, net of issuance costs, of any revenue bonds or other special
+246 obligation indebtedness that may be issued in the future to finance lead service line replacement,
+247 including indebtedness payable from special assessments that may be authorized in the future on
+248 properties that will be benefited by replacement of lead service lines, and any revenue from such
+249 special assessments that is not required to be deposited into a fund to pay debt service; and
+250 “(F) Such other amounts as may be appropriated to the Fund.”.
+11
+
+251 (B) Paragraph (3) is amended to read as follows:
+252 “(3) Money in the Fund shall be used to pay the costs of the Assistance Program
+253 and administering the lead service line removal Program.”.
+254 (5) Subsection (j) is amended by striking the phrase “end of each fiscal year,” and
+255 inserting the phrase “end of each fiscal year, though the end of Fiscal Year 2027,” in its place.
+256 (h) Section 6019d is amended as follows:
+257 (1) The existing language is redesignated as subsection (a).
+258 (2) New subsections (b) and (c) are added to read as follows:
+259 “(b) By June 30, 2026, DOEE and DC Water shall submit to the Mayor a joint report that
+260 includes the following information:
+261 “(1) A plan for the implementation of the lead service line removal Program
+262 pursuant to section 6015d.
+263 “(2) The total number of remaining lead service lines in the District by January 1,
+264 2025 and the total number of private property owners who received notices of the existence of
+265 lead service lines on their property pursuant to section 6015d(a) broken down by:
+266 “(A) Ward;
+267 “(B) Advisory Neighborhood Commission;
+268 “(C) Commercial versus residential property; and
+269 “(D) The number of properties who have previously refused lead service
+270 line removal services;
+271 “(3) The total private property owners who provided proof of lead remediation
+272 compliance or registered for the Program in compliance with section 6015d(b), as of the printing
+273 of the report, broken down by:
+12
+
+274 “(A) Ward;
+275 “(B) Advisory Neighborhood Commission;
+276 “(C) Commercial versus residential property; and
+277 “(D) The number of properties who have previously refused lead service
+278 line removal services;
+279 “(4) The total number of private property owners not yet registered for the
+280 Program, as of the printing of the report, broken down by:
+281 “(A) Ward;
+282 “(B) Advisory Neighborhood Commission;
+283 “(C) Commercial versus residential property; and
+284 “(D) The reason or reasons, if known, for non-compliance to date,
+285 including any history of engagement with property owners not yet in compliance.
+286 “(5) The estimated number of professionals in the lead service line remediation
+287 workforce, including the number of contractors engaged by the District, the size of each
+288 contractor’s workforce, and whether each workforce is unionized.
+289 “(6) A projected budget and spending plan through fiscal year 2030 for the full
+290 remediation of all lead service lines.
+291 “(c) By December 31, 2027, and annually thereafter, DOEE and DC Water shall submit
+292 to the Mayor a joint report including the following information:
+293 “(1) The implementation status of the Program including the number of lines
+294 removed and replaced with lead-free pipes, in progress for remediation, and remaining to be
+295 removed;
+13
+
+296 “(2) Geographic and demographic summaries of property owners in or out of
+297 compliance with program requirements;
+298 “(3) The budget status and funding needs of the Program; and
+299 “(4) A summary of barriers to implementation and recommendations for solving
+300 or removing these barriers.”.
+301 TITLE II. LEAD-FREE DC GREEN JOB CREATION
+302 Sec. 201. This title may be cited as the “Lead-Free DC Green Job Creation Amendment
+303 Act of 2025”.
+304 Sec. 202. The Youth Employment Act of 1979, effective January 5, 1980 (D.C. Law
+305 3-46, D.C. Official Code § 32-241 et seq.), is amended as follows:
+306 (a) Section 2c(c) (D.C. Official Code § 32-244(c)) is amended to add a new paragraph (9)
+307 to read as follows:
+308 “(9) A strategy to link youth workforce development programming with
+309 objectives of the Lead Service Line Priority Replacement Assistance Act of 2004, effective
+310 December 7, 2004 (D.C. Law 15-205; D.C. Official Code § 34-2151 et seq.).”.
+311 (b) Section 2e (D.C. Official Code § 32-246) is amended as follows:
+312 (1) Subsection (a)(2) is amended as follows:
+313 (A) Subparagraph (C)(ii) is amended by striking the phrase “; and” and
+314 inserting a semicolon in its place.
+315 (B) Subparagraph (D) is amended by striking the period and adding the
+316 phrase “; and” in its place.
+317 (C) A new subparagraph (E) is added to read as follows:
+14
+
+318 “(E) When a customized skill training program is created specifically for a
+319 particular employer and a union exists that represents or organizes workers employed by that
+320 particular employer, or organizes workers in that specific career industry, seeking input from the
+321 local union or unions consistent with the requirements outlined in subparagraphs (B) and (C) of
+322 this paragraph, provided that no more than two unions need to be consulted when multiple
+323 unions represent workers in a similar sector;”.
+324 (2) Subsection (c) is amended by adding a new paragraph (3) to read as follows:
+325 “(3) At least 10% of the participants receiving skills training through the DCIA
+326 each year shall graduate into jobs that provide the opportunity to be represented by a union.”.
+327 (3) A new subsection (e) is added to read as follows:
+328 “(e)(1) By October 1, 2025, a lead service line remediation and removal job training
+329 curriculum and program partnership shall be established at DCIA in consultation with the DC
+330 Water and Sewer Authority, the District Department of Energy and the Environment, and at least
+331 2 local union shops that represent workers in plumbing or construction sectors.
+332 “(2) The program shall also train workers with generalized plumbing and water
+333 line repair and maintenance skills.
+334 “(3)(A) The program shall have the capacity to train and shall, to the extent
+335 practicable, train a minimum of 50 District residents in each training cycle;
+336 “(B) The training capacity shall expand by not less than 10% every 2 years
+337 until October 1, 2030.
+338 “(4) The Mayor shall attempt to apply for and exhaust sources of federal and other
+339 non-local funds before applying local funds to pay for job training programs prescribed pursuant
+340 to paragraphs (1) and (2) of this subsection.”.
+15
+
+341 (c) Section 2f (D.C. Official Code § 32-247) is amended as follows:
+342 (1) Subsection (a) is amended by adding a new paragraph (3A) to read as follows:
+343 “(3A) Each committee shall consist of representatives of at least 2 union
+344 organizations or shop stewards from the relevant industry sector, when union sector
+345 representation exists, whom the Director shall appoint.”.
+346 (2) Subsection (b)(1) is amended to read as follows:
+347 “(1) Recommendations of 2 to 4 specific occupational skills trainings DCIA
+348 should offer, including at least one recommendation related to occupations that improve
+349 environmental health in District housing or public spaces.”.
+350 Sec. 203. Section 4 of the Minimum Wage Act Revision Act of 1992, effective March
+351 25, 1993 (D.C. Law 9-248; D.C. Official Code § 32-1003) is amended as follows:
+352 (a) Subsection (b) is amended by striking the phrase “Columbia when:” and inserting the
+353 phrase, “Columbia, and shall be paid not less than the District’s minimum wage for all hours
+354 worked for their employer, when:”.
+355 (b) A new subsection (b-1) is added to read as follows:
+356 “(b-1) When an employee works more than two hours in a workweek in the District of
+357 Columbia for an employer, the hours of work physically performed in the District shall be
+358 subject to the District’s minimum wage rate set forth in subsection (a) of this section.”.
+359 Sec. 204. Section 2(E) of the Accrued Sick and Safe Leave Act of 2008, effective May
+360 13, 2008 (D.C. Law 17-152; D.C. Official Code § 32-531.01(2)(E)) is amended to read as
+361 follows:
+16
+
+362 “(E) A student, except to the extent that the student is a participant in an on-the-
+363 job training or apprenticeship program established pursuant to the Youth Employment Act of
+364 1979, effective January 5, 1980 (D.C. Law 3-46, D.C. Official Code § 32-241 et seq.);”.
+365 TITLE III. FISCAL IMPACT STATEMENT; EFFECTIVE DATE.
+366 Sec. 301. Fiscal impact statement; applicability.
+367 (a) The Council adopts the fiscal impact statement in the committee report as the fiscal
+368 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+369 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+370 (b) This act shall apply upon inclusion of its fiscal effect in an approved budget and
+371 financial plan.
+372 Sec. 302. Effective date.
+373 This act shall take effect following approval by the Mayor (or in the event of veto by the
+374 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+375 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+376 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+377 Columbia Register.
+17

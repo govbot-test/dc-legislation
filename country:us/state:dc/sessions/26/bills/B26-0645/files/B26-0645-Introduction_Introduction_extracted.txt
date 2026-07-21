@@ -1,0 +1,203 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+March 30, 2026
+Nyasha Howard, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, N.W.
+Washington, D.C. 20004
+Dear Secretary Howard,
+Today, I am introducing the Fiscal Accountability and Homeownership Opportunity Act of 2026,
+along with Councilmembers Anita Bonds, Zachary Parker, Brianne K. Nadeau, and Wendell
+Felder.
+At a time when the District faces real fiscal constraints, it is more important than ever that we
+ensure our public investments are working as intended. Tax abatements and incentives can be
+powerful tools to support economic development, but when they are not delivering results, they
+represent missed opportunities to invest in residents and strengthen our local economy.
+This legislation takes a more disciplined and accountable approach to economic development by
+ensuring that tax incentives are tied to compliance. It establishes clear clawback provisions for
+the District’s Downtown conversion programs so that developers only receive public benefits if
+they meet their commitments.
+It also requires the cancellation of eligibility and reservation letters for Office-to-Anything
+projects that fail to begin repositioning in a timely manner, mirroring the accountability
+standards already in place for Housing in Downtown and ensuring that public resources are not
+tied up in projects that do not move forward. In addition, the bill ensures that Office-to-
+Anything’s uncommitted tax abatement authority does not sit idle, but is instead redirected
+toward more impactful uses, particularly considering that the program has yet to execute any
+abatement reservations as of December 2025.
+This approach reflects growing consensus among business and policy leaders, including the DC
+Chamber of Commerce’s 2025 State of Business report, that fiscal responsibility requires
+reassessing tax expenditures that are not demonstrating strong returns on public investment.
+
+Critically, the bill reinvests recaptured resources into the Home Purchase Assistance Fund, the
+District’s primary tool for expanding access to homeownership. Affordability remains one of the
+greatest barriers to economic mobility, and this bill prioritizes helping residents build wealth and
+remain rooted in the communities they call home.
+In addition to strengthening accountability, this legislation improves the Council’s oversight of
+tax expenditures. It requires more frequent Tax Expenditure Reviews to provide policymakers
+with up-to-date information on whether tax incentives are delivering meaningful economic
+returns and representing the most effective use of limited District resources. Currently, these
+reviews don’t get published as regularly as they are supposed to, and strengthening oversight,
+even if it adds costs, can help the Council make more informed tax expenditure decisions.
+Finally, the bill equips the District with better tools to understand and respond to regional
+economic dynamics. By requiring a regional economic competitiveness dashboard and
+comparative fiscal analysis for major legislation, it helps ensure that our policies and spending
+are informed by how the District compares to neighboring jurisdictions and how our decisions
+impact long-term growth.
+The Fiscal Accountability and Homeownership Opportunity Act of 2026 is about making smarter
+choices with public dollars, strengthening accountability, and investing in the long-term
+prosperity of District residents.
+I look forward to working with my colleagues to advance this important legislation.
+Sincerely,
+Doni Crawford
+Councilmember, At-Large
+Council of the District of Columbia
+
+1 __________________________ __________________________
+2 Councilmember Anita Bonds Councilmember Doni Crawford
+3
+4
+5 __________________________ __________________________
+6 Councilmember Brianne K. Nadeau Councilmember Zachary Parker
+7
+8
+9 __________________________
+10 Councilmember Wendell Felder
+11
+12
+13 A BILL
+14
+15 _________________________
+16
+17 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+18
+19 _________________________
+20
+21
+22 To amend the Home Purchase Assistance Fund Act of 1978 to authorize deposits of certain
+23 recaptured downtown conversion tax abatements into the Home Purchase Assistance
+24 Fund; to amend Chapter 8 of Title 47 of the District of Columbia Official Code to
+25 establish clawback provisions for certain downtown conversion tax abatements and
+26 redirect recaptured amounts to the Home Purchase Assistance Fund; to amend the Tax
+27 Transparency and Effectiveness Act of 2014 to require the publication of biennial tax
+28 expenditure reviews; to require the Office of the Chief Financial Officer to publish a
+29 regional economic competitiveness dashboard; to amend the General Legislative
+30 Procedures Act of 1975 to require comparative regional fiscal analysis; and for other
+31 purposes.
+32
+33 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+34 act may be cited as the “Fiscal Accountability and Homeownership Opportunity Act of 2026”.
+35 TITLE I. HOMEOWNERSHIP SUPPORT THROUGH DOWNTOWN
+36 CONVERSION TAX INCENTIVE ACCOUNTABILITY.
+37 Sec. 101. Section 2(b) of the Home Purchase Assistance Fund Act of 1978, effective
+38 September 12, 1978 (D.C. Law 2-103; D.C. Official Code § 42-2601(b)) is amended as follows:
+
+39 (a) Paragraph (6) is amended by striking the phrase “; and” and inserting a semicolon in
+40 its place.
+41 (b) Paragraph (7) is amended by striking the period and inserting the phrase “; and” in its
+42 place.
+43 (c) A new paragraph (8) is added to read as follows:
+44 “(8) All recaptured tax abatements under D.C. Official Code §§ 47-860.03 and 47-
+45 870.01.”.
+46 Sec. 102. Chapter 8 of Title 47 of the District of Columbia Official Code is amended as
+47 follows:
+48 (a) Section 47-860.03(a)(2)(A) is amended by striking the phrase “effect. A property” and
+49 inserting the phrase “effect. Upon transmission of the letter of termination to the Office of Tax
+50 and Revenue, the Office of Tax and Revenue shall assess and collect any tax benefits improperly
+51 received during any period of ineligibility determined by the Mayor prior to the issuance of the
+52 letter of termination, plus interest as provided by law. Amounts recaptured pursuant to this
+53 subparagraph, including interest, shall be deposited into the Home Purchase Assistance Fund
+54 established by § 42-2601. A property” in its place.
+55 (b) Section 47-870.01 is amended as follows:
+56 (1) Subsection (a)(2)(F) is amended by striking the phrase “The Mayor may
+57 cancel” and inserting the phrase “The Mayor shall cancel” in its place.
+58 (2) Subsection (d) is amended by adding a new paragraph (6) to read as follows:
+59 “(6)(A) Any portion of the temporary tax abatement authority authorized under
+60 this subsection that remains uncommitted as of September 30, 2030, and at the end of each fiscal
+61 year thereafter, including any amounts not certified by the Mayor pursuant to subsection (e) of
+
+62 this section, shall no longer be available for certification under this section.
+63 “(B) The Office of Tax and Revenue shall calculate the aggregate dollar
+64 amount of unused temporary tax abatement authority as of September 30, 2030.
+65 “(C) An amount equal to the unused temporary tax abatement authority
+66 identified pursuant to subparagraph (B) of this paragraph shall be deposited into the Home
+67 Purchase Assistance Fund established by § 42-2601.”.
+68 (3) Subsection (e) is amended by adding a new paragraph (3) to read as follows:
+69 “(3)(A) If the Mayor determines that a property previously certified under
+70 paragraph (1) of this subsection is no longer eligible to receive the temporary tax abatement
+71 because the property no longer meets the eligibility requirements of this section, any rules issued
+72 by the Mayor pursuant to subsection (a)(1)(B) of this section, or any criteria set forth in the
+73 applicable selection process, the Mayor shall transmit written notice of decertification to the
+74 property owner and to the Office of Tax and Revenue, setting forth the reason for the
+75 decertification and the effective date.
+76 “(B) Upon receipt of the notice of decertification, the Office of Tax and
+77 Revenue shall assess and collect any tax benefits improperly received during any period of
+78 ineligibility, plus interest.
+79 “(C) Amounts recaptured pursuant to this paragraph, including interest,
+80 shall be deposited into the Home Purchase Assistance Fund established by § 42-2601.”.
+81 TITLE II. BIENNIAL TAX EXPENDITURE REVIEWS.
+82 Sec. 201. Section 7133(a) of the Tax Transparency and Effectiveness Act of 2014,
+83 effective February 26, 2015 (D.C. Law 20-155; D.C. Official Code § 1-301.157(a)), is amended
+84 by striking the phrase “5-year” and inserting the word “biennial” in its place.
+
+85 TITLE III. REGIONAL ECONOMIC AND FISCAL COMPARATIVE ANALYSIS
+86 SUBTITLE A. REGIONAL ECONOMIC COMPETITIVENESS DASHBOARD
+87 Sec. 301. Regional economic dashboard requirement.
+88 (a) The Office of the Chief Financial Officer shall publish and maintain a publicly
+89 accessible regional economic dashboard.
+90 (b) The dashboard shall compare key economic and fiscal indicators for the District of
+91 Columbia and jurisdictions within the surrounding metropolitan region.
+92 (c) The dashboard shall include, at a minimum, quantitative indicators within the
+93 following categories to assess the District’s regional economic competitiveness:
+94 (1) Housing production and development;
+95 (2) Industry and employment;
+96 (3) Income and wage growth;
+97 (4) Business formation and commercial real estate;
+98 (5) Tax competitiveness;
+99 (6) Talent attraction and retention; and
+100 (7) Any additional categories the Chief Financial Officer determines are necessary
+101 to assess the District’s regional economic competitiveness.
+102 (d) The Office of the Chief Financial Officer shall select, define, and periodically update
+103 the specific indicators included within each category listed in subsection (c) of this section and
+104 shall publish a description of the methodology and data sources used for each indicator.
+105 (e) The dashboard shall:
+106 (1) Be updated at least annually, to the extent data is available;
+107 (2) Identify data sources; and
+
+108 (3) Present data in a format that is searchable and downloadable.
+109 (f) The first publication of the dashboard shall occur no later than 360 days after the
+110 effective date of this subtitle.
+111 SUBTITLE B. COMPARATIVE REGIONAL FISCAL ANALYSIS
+112 Sec. 311. The General Legislative Procedures Act of 1975, approved October 16, 2006
+113 (120 Stat. 2038; D.C. Official Code § 1-301.47a), is amended by adding a new subsection (d) to
+114 read as follows:
+115 “(d) Comparative regional analysis for measures with significant fiscal impact.
+116 “(1) For any bill or resolution for which the Chief Financial Officer prepares a
+117 fiscal impact statement estimating a fiscal impact that exceeds $20 million over the 4-year
+118 financial plan period, the fiscal impact statement shall include a comparative regional analysis.
+119 “(2) The comparative regional analysis shall identify:
+120 “(A) Whether jurisdictions within the surrounding metropolitan region
+121 have enacted a similar measure;
+122 “(B) If so, a summary of the fiscal impact or estimated cost of the similar
+123 measure, to the extent publicly available; and
+124 “(C) Any material differences in population, tax structure, funding
+125 mechanisms, or implementation that affect comparability.
+126 “(3) If comparable data is not publicly available, the fiscal impact statement shall
+127 note that fact.”.
+128 TITLE IV. STANDARD PROVISIONS
+129 Sec. 401. Fiscal impact statement.
+130 The Council adopts the fiscal impact statement in the committee report as the fiscal
+
+131 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+132 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+133 Sec. 402. Effective date.
+134 This act shall take effect after approval by the Mayor (or in the event of veto by the
+135 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+136 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+137 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+138 Columbia Register.

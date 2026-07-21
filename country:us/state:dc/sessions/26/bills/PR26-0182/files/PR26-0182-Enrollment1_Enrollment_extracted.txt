@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENROLLED ORIGINAL
+A RESOLUTION
+26-99
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+April 29, 2025
+To amend, on an emergency basis, the Fiscal Year 2026 Budget Submission Requirements
+Resolution of 2024 to provide for a new date for transmission of the Fiscal Year 2026
+budget by the Mayor to the Council.
+RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+resolution may be cited as the “Fiscal Year 2026 Budget Submission Requirements Emergency
+Amendment Resolution of 2025”.
+Sec. 2. The Fiscal Year 2026 Budget Submission Requirements Resolution of 2024,
+effective December 3, 2024 (Res. 25-740; 71 DCR 15826), is amended as follows:
+(a) Section 2 is amended by striking the phrase “not later than April 2, 2025,” and
+inserting the phrase “not later than May 15, 2025, unless another date is set by subsequent
+resolution of the Council,” in its place.
+(b) Section 3(3) is amended as follows:
+(1) The lead-in language is amended by striking the phrase “April 2, 2025:” and
+inserting the phrase “May 15, 2025:” in its place.
+(2) Subparagraph (D) is amended by striking the phrase “produced from
+PeopleSoft on April 2, 2025,” and inserting the phrase “produced from PeopleSoft on May 15,
+2025,” in its place.
+Sec. 3. This resolution shall take effect immediately.

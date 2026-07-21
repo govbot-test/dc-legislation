@@ -1,0 +1,251 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+November 20, 2025
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and adoption by the Council of the District of Columbia is the
+Accountancy Practice Amendment Act of 2025. In 2024, the National Association of State
+Boards of Accountancy (NASBA) proposed changes to the Uniform Accountancy Act (UAA).
+NASBA’s proposed rule changes focused on licensure and mobility. Specifically, NASBA
+proposed adopting a third pathway of licensure, which would allow one to obtain a CPA license
+if they have a bachelor’s degree, two years of work experience, and pass the examination.
+Presently, one must have a baccalaureate degree, with or without an accountancy concentration,
+plus 30 additional credit hours, which is usually a Master’s degree, one year of supervised work
+experience, and passing the CPA examination. The new pathway will allow one who has
+obtained a baccalaureate degree, with or without an accountancy concentration, to obtain a CPA
+license by completing two years of supervised work experience and passing the CPA
+examination. One year of work experience can be satisfied by completing an additional 30 credit
+hours.
+This change would allow a prospective accountant to begin working earlier while they prepare to
+take the CPA examination. One of the barriers to licensure has been education requirement. The
+cost of education, particularly obtaining a master’s degree, has been a deterrent for some who
+may otherwise want to become a licensed CPA. Further, there has been a decline in licensed
+CPAs across the country, including in the District. This legislation would address this. The
+newly amended mobility provisions would ensure that accountants under this licensure path that
+are licensed in one state may practice in another.
+Since NASBA proposed these changes, 29 states, including Maryland and Virginia, have
+amended the CPA licensure requirements consistent with these proposals. Specifically, during
+the 2025 legislative session, Virginia adopted the alternative pathway to licensure and mobility,
+effective January 1, 2026, and Maryland adopted the its mobility requirements during the 2025
+General Assembly Session. Given the District’s proximity to these two jurisdictions, and the
+
+number of D.C.-licensed CPAs that practice in Virginia and Maryland, it is imperative to ensure
+that the District does not fall behind its neighboring jurisdictions in coming in line with modern
+standards.
+I encourage the Council to adopt the Accountancy Practice Amendment Act of 2025. If you
+have any questions regarding this legislation, please contact Tiffany Crowe, Director,
+Department of Licensing and Consumer Protection, at tiffany.crowe@dc.gov.
+Sincerely,
+Muriel Bowser
+
+~ ? . ~
+1
+2
+3 at the request of the Mayor
+4
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16 To amend Chapter 28 of Title 4 7 of the District of Columbia Official Code to revise the
+17 eligibility requirements for accountancy licensure by authorizing a holder of a
+18 baccalaureate degree with two years of experience and who has passed the an
+19 examination in accounting and auditing to obtain a license, to allow the Mayor the add
+20 additional licensure requirements by rulemaking, and to amend the mobility requirements
+21 for those who are licensed in another jurisdiction and want to practice in the District.
+22
+23 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+24 act may be cited as the "Accountancy Practice Amendment Act of 2025".
+25 Sec. 2. Chapter 28 of Title 47 of D.C. Official Code is amended as follows:
+26 (a) D.C. Official Code§ 47-2853.42 is amended to read as follows:
+27 "§ 47-2853.42. Eligibility requirements.
+28 "(a) An applicant for licensure as a certified public accountant shall establish to the
+29 satisfaction of the Board that the applicant:
+30 "(l) Has passed an examination in accounting and auditing and such related
+31 subjects as the Board shall detem1ine to be appropriate;
+32 "(2)(A) Holds a baccalaureate or post-baccalaureate degree with a concentration
+33 in accounting conferred by a college or university acceptable to the Board or holds a degree the
+34 Board determines to be substantially equivalent thereto; or
+
+35 “(B) Holds a baccalaureate degree conferred by a college or university
+36 acceptable to the Board supplemented with the equivalent of an accounting concentration, which
+37 may include related courses in other areas of business administration;
+38 “(3) Has completed the following years of relevant experience:
+39 “(A) Two years for an applicant that holds a baccalaureate degree
+40 described in paragraph (2)(A) or (B) of this subsection, of which one year may be substituted by
+41 having completed an additional 30 semester credit hours above the minimum hours required for a
+42 baccalaureate degree; or
+43 “(B) One year for an applicant that holds a post-baccalaureate degree
+44 described in paragraph (2)(A) of this subsection; and
+45 “(4) Meets any other requirements established by rule.
+46 “(b) For the purposes of subsection (a)(3) of this section:
+47 “(1) “Relevant experience” means providing service or advice representing the
+48 skills needed at the time of licensure to serve the public as a certified public accountant.
+49 “(2) Relevant experience includes providing any type of business services or
+50 advice using accounting, attest, compilation, management advisory, financial advisory, tax, or
+51 consulting skills, to the extent such experience has been verified by a person licensed as a
+52 certified public accountant.
+53 “(3) Whether the experience of an applicant constitutes relevant experience shall
+54 be determined by the Board.
+55 “(c) The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure
+56 Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), may
+
+57 establish additional licensure requirements by rule to ensure that the applicant has the proper
+58 training, experience, and qualifications to practice as a certified public accountant.”.
+59 (b) D.C. Official Code § 47-2853.49 is amended as follows:
+60 (1) The section heading is amended to read as follows:
+61 “47-2853.49. Practice privilege.”.
+62 (2) Subsections (a) and (b) are amended to read as follows:
+63 “(a) An individual whose principal place of business is not in the District shall have all
+64 the privileges of a licensee of the District without the need to obtain a license under § 47-
+65 2853.42; provided that, the individual:
+66 “(1) Holds a valid, unrestricted license as a CPA in good standing issued by
+67 another state or territory of the United States; and
+68 “(2) At the time of initial licensure in the other state or territory, the individual
+69 was required to show evidence of having:
+70 (A) Passed the Uniform CPA Examination or another certified public
+71 accountant examination approved by the Board;
+72 “(B) Satisfied education requirements equivalent to those set forth in § 47-
+73 2853.42(a)(2); and
+74 “(C) Satisfied experience requirements equivalent to those set forth in §
+75 47-2853.42(a)(3); ”.
+76 “(b) An individual whose principal place of business is not in the District, is licensed as a
+77 CPA in good standing in another state or territory of the United States, and had practice
+78 privileges in the District under the version of this section that was in effect immediately prior to
+79 the effective date of the Accountancy Practice Amendment Act of 2025 shall continue to have all
+
+80 privileges of a licensee in the District without the need to obtain a license under § 47-2853.42
+81 regardless of whether the individual meets the requirements of this section on the effective date
+82 of the Accountancy Practice Amendment Act of 2025.”.
+83 (3) Subsection (d) is amended by striking the phrase “shall simultaneously
+84 consent, as a condition of the grant of the privilege” and inserting the phrase “shall be deemed to
+85 have simultaneously consented, as a condition of the exercise of the privilege” in its place.
+86 Sec. 3. Fiscal impact statement.
+87 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+88 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+89 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+90 Sec. 4. Effective date.
+91 This act shall take effect following approval by the Mayor (or in the event of veto by the
+92 Mayor, action by the Council to override the veto), 30-day period of congressional review as
+93 provided in section 602(c)(1) of District of Columbia Home Rule Act, approved by December
+94 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+95 Columbia Register.
+
+Government of the District of Columbia
+Office of the Chief Financial Officer
+Glen Lee
+Chief Financial Officer
+MEMORANDUM
+TO: The Honorable Phil Mendelson
+Chairman, Council of the District of Columbia
+FROM: Glen Lee
+Chief Financial Officer
+DATE: October 10, 2025
+SUBJECT: Fiscal Impact Statement – Accountancy Practice Amendment Act of
+2025
+REFERENCE: Draft Bill as provided to the Office of Revenue Analysis on October 1,
+2025
+Conclusion
+Funds are sufficient in the fiscal year 2026 through fiscal year 2029 budget and financial plan to
+implement the bill. to implement the bill. The Department of Licensing and Consumer Protection
+(DLCP) can implement the bill within current resources.
+Background
+The Board of Accountancy (Board) is a division of DLCP that regulates the licenses of professional
+accountants and upholds the District accountancy license law and District license law.1 The Mayor
+establishes the fee schedules for all services related to the regulation of occupations and professions.2
+To be eligible for licensure as a certified public accountant (CPA) under current law3, an applicant
+must establish that they have passed an examination4, hold a baccalaureate degree in the equivalent
+1 Government of the District of Columbia. (2025, October 5). Board of Accountancy. Retrieved from District of
+Columbia Department of Licensing and Consumer Protection: https://dlcp.dc.gov/page/board-accountancy
+2 D.C. Official Code § 47–2853.10(d).
+3 D.C. Official Code § 47-2853.42.
+4 The examination must be in accounting and auditing and such related subjects as the Board of Accountancy
+determines to be substantially equivalent (D.C. Official Code § 47-2853.42(3)).
+1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727-2476
+www.cfo.dc.gov
+
+The Honorable Phil Mendelson
+FIS: “Accountancy Practice Amendment Act of 2025”, Draft Bill as provided to the Office of Revenue Analysis
+on October 1, 2025
+of an accounting concentration, possess 150 semester hours of college education, and meet any other
+requirements established by rule. The bill revises the eligibility requirements for accountancy
+licensure by requiring between one and two years of experience depending on degree level and
+semester hours5. The Mayor has rulemaking authority to establish additional licensure
+requirements.
+The bill also amends the reciprocity requirements for those who are licensed in another jurisdiction
+and want to practice in the District. Current law6 provides for a CPA licensed in another jurisdiction
+to practice in the District if their education, examination, and experience meet the substantial
+equivalency requirements defined by the Board, based on the standards of the Uniform Accountancy
+Act (UAA)7. If the principal place of business is outside the District, the individual is presumed
+substantially equivalent in their qualifications and is not required to obtain a license from the District,
+provided they hold a valid unrestricted license as a CPA from another state that is NASBA7 National
+Qualification Appraisal Service verified8. The bill repeals Board determination on substantial
+equivalency6 and amends the code to allow an individual whose principal place of business is outside
+the District to practice in the District without having to obtain licensure provided the individual:
+holds a license in good standing from another United States jurisdiction9, has passed a Board
+approved CPA examination, and as of December 31, 2024, had practice privileges in the District.
+Financial Plan Impact
+Funds are sufficient in the fiscal year 2026 through fiscal year 2029 budget and financial plan to
+implement the bill. The DLCP can implement the bill within current resources. The DLCP does not
+anticipate a material change to revenues generated from accountancy licensure issuance.10
+5 After January 1, 2026, two years of experience will be required for those applicants that hold a
+baccalaureate degree, of which one year may be substituted by completing an additional 30 semester hours;
+or one year for those applicants that possess a master’s degree with an accounting concentration or
+equivalent.
+6 D.C. Official Code § 47–2853.49(a).
+7 National Association of State Boards of Accountancy (NASBA). (2007, July 7). Uniform Accountancy Act Fifth
+Edition. Retrieved from https://www.nasba.org/files/2011/04/UAA_Fifth_Edition-Jul07.pdf
+8 That is, verified to be in substantial equivalence with American Institute of Certified Public Accountants
+(AICPA)/NASBA Uniform Accountancy CPA licensure requirements. If the individual holds a valid
+unrestricted license as a CPA from a non-verified state, they must obtain verification from the NASBA
+National Qualification Appraisal Service that their CPA qualifications are substantially equivalent to the CPA
+licensure requirements of the UAA.
+9 That is, another state or US territory.
+10 Fees collected for accountancy licenses are deposited in the Occupations and Professions Licensure Special
+Account pursuant to D.C. Code § 47–2853.11.
+Page 2 of 2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+BRIAN L. SCHWALB PRIVILEGED AND CONFIDENTIAL
+ATTORNEY GENERAL ATTORNEY-CLIENT COMMUNICATION
+LEGAL COUNSEL DIVISION
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal Counsel Division
+DATE: September 29, 2025
+SUBJECT: Legal Sufficiency Review of Draft Legislation, the “Accountancy Practice
+Amendment Act of 2025”
+(AE-25-55)
+_____________________________________________________________________________________
+This is to Certify that
+the Office of the Attorney General has reviewed the
+above-referenced legislation and found it to be legally sufficient. If you have any questions in this
+regard, please do not hesitate to call me at (202) 262-6402.
+_________________________________
+Adele El-Khouri
+2

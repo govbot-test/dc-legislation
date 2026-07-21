@@ -1,0 +1,179 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+April 2, 2025
+The Honorable Phil Mendelson,
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+The “Furthering Admissions Inclusion and Representation (FAIR) Act of 2025” is enclosed for
+consideration and enactment by the Council of the District of Columbia.
+The State Board of Education approved this proposed bill for transmittal to the District of
+Columbia Council by a vote of 8-1 on February 19, 2025.
+The D.C. State Board of Education believes that the D.C. Council should take up this legislation
+to dissuade higher education institutions from utilizing a donor or legacy preference in
+admissions and to prohibit the Mayor from issuing or reissuing a license, permit, award for a
+government-issued project, contract, or a grant to a higher education institution if it administers
+a legacy or donor preference in admissions. The FAIR Act requires higher education institutions
+to submit, on an annual basis, a report of District residents and graduates of local education
+agencies who applied, were admitted, and enrolled in a higher education institution in the
+District.
+If you or your staff have any questions about this legislation, please contact me at (202) 741-
+0888 or bernice.butler@dc.gov.
+On behalf of the State Board of Education, I respectfully request that the Council take prompt and
+favorable action on the enclosed legislation.
+Sincerely,
+Bernice D. Butler
+Executive Director
+District of Columbia State Board of Education
+441 4th Street NW, Suites 530S & 723N | Washington, DC 20001
+(202) 741-0888 | sboe.dc.gov | sboe@dc.gov | @DCSBOE
+
+1
+2 airman Phil Mendelson
+3 at the request of the State Board of Education
+4
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16 To dissuade a higher education institution from utilizing a donor or legacy preference in
+17 admissions; to prohibit the Mayor from issuing or reissuing a license, permit, award for a
+18 government-issued project, contract, or a grant to a higher education institution if it
+19 administers a legacy or donor preference in admissions; and to require a higher education
+20 institution to submit, on an annual basis, a report of District residents and graduates of a
+21 local education agency that applied, were admitted, and enrolled into a higher education
+22 institution in the District.
+23
+24 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+25 act may be cited as "Furthering Admissions Inclusion and Representation (FAIR) Act of 2025".
+26 TITLE I. DONOR AND LEGACY PREFERENCES IN HIGHER EDUCATION
+27 ADMISSIONS.
+28 Sec. 101. Definitions.
+29 For the purposes of this act, the term:
+30 (1) "Donor preference in admissions" means considering an applicant's relation to
+31 a donor of, or a donation to, the higher education institution as a factor in the admissions process,
+32 including asking an applicant to indicate their family's donor status and including that information
+33 among the documents that the higher education institution uses to consider an applicant for
+34 admission.
+
+35 (2) “Higher Education Institution” means a college or university located in the
+36 District of Columbia providing higher education leading to the award of a diploma, degree, or the
+37 equivalent thereof.
+38 (3)(A) “Legacy preference in admissions” means considering an applicant’s
+39 relation to an alumni of the higher education institution as a factor in the admissions process,
+40 including asking an applicant to indicate where their relatives attended college and including that
+41 information among the documents that the higher education institution uses to consider an
+42 applicant for admission.
+43 (B) “Legacy preference in admissions” does not include collecting data on
+44 an applicant’s relation to an alumni or donors for purposes other than admissions decisions.
+45 (4) “Local education agency” means the District of Columbia Public Schools
+46 system or any individual or group of public charter schools operating under a single charter.
+47 Sec. 102. Limitations on Higher Education Institutions with Legacy and Donor
+48 Preferences in Admissions.
+49 (a) Higher education institutions that offer a legacy or donor preference in admissions
+50 shall be prohibited from being any entities as described in subsection (d) of this section, except
+51 in scenarios as provided in subsection (b) of this section.
+52 (b)(1) The higher education institution may waive such admission limits, as described in
+53 section (4)(a) of this section, for applicants who are descendants of people enslaved for the
+54 benefit of that higher education institution if the higher education institution provides preferential
+55 treatment in the admission process for those applicants who are actual descendants of people
+56 enslaved for the benefit of that higher education institution.
+2
+
+57 (2)(A) A higher education institution shall be exempt from the provisions of this
+58 section if it submits records to the Mayor documenting that 30% of the institution’s student body
+59 receives Federal Pell Grants.
+60 (B) The Mayor shall create a process for an institution to submit records
+61 documenting that it has met the requirements of sub-paragraph (A) of this paragraph.
+62 (c) The Mayor shall not issue or reissue a license or permit or award a government-
+63 assisted project, contract, or grant requested by a higher education institution if the applicant
+64 administers a legacy or donor preference in admissions.
+65 (d) Higher education institutions that offer legacy or donor preferences in admission are
+66 prohibited from being the following entities:
+67 (1) The signatory to a contract or grant executed by the Mayor which involves any
+68 District of Columbia government funds, or funds which, in accordance with a federal grant or
+69 otherwise, the District government administers; and
+70 (2) A recipient of a District government economic development action including
+71 contracts, grants, loans, tax abatements, land transfers for redevelopment, or tax increment
+72 financing that results in a financial benefit from an agency, commission, instrumentality, or other
+73 entity of the District government.
+74 TITLE II. REPORTING REQUIREMENTS.
+75 Sec. 201. Section 202(b-1) of the Department of Education Establishment Act of 2007,
+76 effective June 12, 2007 (D.C. Law 17-9; D.C. Official Code § 38-191), is amended as follows:
+77 (1) Subsection (3)(A) is amended by adding a new subsection (vi) to read as
+78 follows:
+3
+
+79 “(vi) Data on where students graduated from high school and their home
+80 jurisdiction.”.
+81 (2) A new subsection (4) is added to read as follows:
+82 “(4)(A) Higher education institutions in the District shall submit, on an annual
+83 basis to the Deputy Mayor for Education for the purposes of including in a centralized data
+84 system, a report disaggregated by race or ethnicity, gender or non-binary from the previous five
+85 academic years that includes the following information:
+86 “(i) The number of first-time, full-time District residents who
+87 applied, were admitted, enrolled, recipient of a Federal Pell Grant, recipient of a subsidized
+88 Stafford loan who did not receive a Pell grant, received neither a Pell Grant or a subsidized
+89 Stafford Loan, first generation, enrolled with credits, program of study, received remedial
+90 academic supports, and received a certificate, diploma, degree, or the equivalent thereof within
+91 five years;
+92 “(ii) The number of first-time, full-time graduates from a local
+93 education agency that applied, were admitted, enrolled, recipient of a Federal Pell Grant,
+94 recipient of a subsidized Stafford loan who did not receive a Pell grant, received neither a Pell
+95 Grant or a subsidized Stafford Loan, first generation, enrolled with credits, program of study,
+96 received remedial academic supports, and received a certificate, diploma, degree, or the
+97 equivalent thereof within five years;
+98 “(iii) The number of Pell Grant-eligible students who applied,
+99 were admitted, and enrolled;
+4
+
+100 “(iv) The number of first-time, full-time District residents that
+101 applied, were admitted, and enrolled; and
+102 “(v) The number of first-time, full-time non-District residents that
+103 applied, were admitted, and enrolled.”.
+104 (B) Data in the report submitted pursuant to clause (i) shall only be
+105 publicly provided in the aggregate and in a manner that prevents the identification of any
+106 individual.
+107 (3) A new subsection (5) is added to read as follows:
+108 “(5) Higher education institutions in the District shall submit, on an annual basis,
+109 to the Deputy Mayor for Education for the purposes of including in a centralized data system, a
+110 report from the previous five academic years that includes the following information:
+111 “(A) A list of high schools that the higher education institution recruits
+112 from for admission as first-year students;
+113 “(B) An accounting of the value of the institutions' tax exemption in the
+114 District; and
+115 “(C) A listing of all public contracts and grants the institution receives
+116 from the District or Federal Governments.”.
+117 TITLE III. APPLICABILITY; FISCAL IMPACT STATEMENT; EFFECTIVE DATE.
+118 Sec. 301. Applicability.
+119 This Act shall apply on the second occurrence of August 1 after the effective date of the
+120 Act.
+121 Sec. 302. Fiscal impact statement.
+5
+
+122 The Council adopts the fiscal impact statement in the committee report as the fiscal
+123 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+124 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+125 Sec. 303. Effective date.
+126 This act shall take effect following approval by the Mayor (or in the event of veto by the
+127 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+128 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+129 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+130 Columbia Register.
+6

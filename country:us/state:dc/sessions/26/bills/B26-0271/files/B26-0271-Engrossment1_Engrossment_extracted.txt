@@ -1,0 +1,302 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3
+4 26-271
+5
+6
+7 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+8
+9 ___________
+10
+11
+12 To amend, on a temporary basis, the District of Columbia Housing Authority Act of 1999 to
+13 establish a temporary Stabilization and Reform Board to govern the District of Columbia
+14 Housing Authority (“DCHA”) and to require that the Board and the Executive Director of
+15 DCHA take specific actions to reform and revitalize the operations of DCHA.
+16
+17 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+18 act may be cited as the “District of Columbia Housing Authority Stabilization and Reform
+19 Temporary Amendment Act of 2025”.
+20 Sec. 2. The District of Columbia Housing Authority Act of 1999, effective May 9, 2000
+21 (D.C. Law 13-105; D.C. Official Code § 6-201 et seq.), is amended as follows:
+22 (a) Section 2 (D.C. Official Code § 6-201) is amended as follows:
+23 (1) Paragraph (6) is amended by striking the phrase “Board of Commissioners”
+24 and inserting the phrase “Stabilization and Reform Board” in its place.
+25 (2) Paragraph (12) is repealed.
+26 (3) A new paragraph (17A) is added to read as follows:
+1
+
+ENGROSSED ORIGINAL
+27 “(17A) “Dwelling unit” means any room or group of rooms located within a
+28 residential or mixed-use building and forming a single unit that is used or intended to be used for
+29 living, sleeping, and the preparation and eating of meals.”.
+30 (b) Section 10(h) (D.C. Official Code § 6-209(h)) is amended as follows:
+31 (1) Strike the phrase “or Commissioner of the Authority” and insert the phrase
+32 “member of the Board, or member of the former Board of Commissioners” in its place.
+33 (2) Strike the phrase “a Commissioner” and insert the phrase “a member of the
+34 Board, member of the former Board of Commissioners,” in its place.
+35 (c) New sections 11a, 11b, and 11c are added to read as follows:
+36 “Sec. 11a. Stabilization and Reform Board.
+37 “(a) The Authority shall, from and after the date set forth in subsection (i) of this section,
+38 be governed by a Stabilization and Reform Board, which shall consist of the following members:
+39 “(1) The following 9 voting members, each of whom shall be a resident of the
+40 District:
+41 “(A) One member with experience in housing development or operations;
+42 “(B) One member with experience in affordable housing development,
+43 operations, or finance;
+44 “(C) One member with knowledge of federal housing law and regulation;
+45 “(D) One member with experience in capital project financing;
+2
+
+ENGROSSED ORIGINAL
+46 “(E) One member who is a resident of a property owned, operated, and
+47 managed by the Authority;
+48 “(F) One member with experience as a voucher holder;
+49 “(G) The current Executive Director of the Interagency Council on
+50 Homelessness;
+51 “(H) The Director of the District’s Office of Budget and Performance
+52 Management; and
+53 “(I) One member with experience in government procurement;
+54 “(2) The Chief Financial Officer, or a designee of the Chief Financial Officer who
+55 is an employee of the Office of the Chief Financial Officer, who shall serve as a non-voting
+56 member; and
+57 “(3) The President of the City-Wide Resident Advisory Board, who shall serve as
+58 a non-voting member.
+59 “(b)(1) Except as provided in paragraph (2) of this subsection and subsections (c) and
+60 (f)(1) of this section, each member of the Stabilization and Reform Board shall be appointed by
+61 the Mayor, with the advice and consent of the Council pursuant to section 2(e) of the
+62 Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-
+63 523.01(e)).
+3
+
+ENGROSSED ORIGINAL
+64 “(2) The Director of the District’s Office of Budget and Performance
+65 Management and the Chief Financial Officer, or the Chief Financial Officer’s designee, shall
+66 serve as members of the Stabilization and Reform Board by virtue of their incumbency in the
+67 position of Director of the District’s Office of Budget and Performance Management and Chief
+68 Financial Officer or being an employee of the Office of the Chief Financial Officer.
+69 “(c) Notwithstanding subsection (b) of this section, the Mayor may appoint the following
+70 individuals to the Stabilization and Reform Board without the advice and consent of the Council
+71 pursuant to section 2(e) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-
+72 142; D.C. Official Code § 1-523.01(e)):
+73 “(1) Raymond A. Skinner, to fill the Board seat described in subsection (a)(1)(A)
+74 of this section and to serve as chairperson of the Stabilization and Reform Board;
+75 “(2) James M. Dickerson, to fill the Board seat described in subsection (a)(1)(B)
+76 of this section;
+77 “(3) Christopher Murphy, to fill the Board seat described in subsection (a)(1)(C)
+78 of this section;
+79 “(4) Melissa Lee, to fill the Board seat described in subsection (a)(1)(D) of this
+80 section;
+81 “(5) Denise Blackson, to fill the Board sear described in subsection (a)(1)(E) of
+82 this section;
+4
+
+ENGROSSED ORIGINAL
+83 “(6) Ronnie Harris, to fill the Board seat described in subsection (a)(1)(F) of this
+84 section;
+85 “(7) Theresa Silla, to fill the Board seat described in subsection (a)(1)(G) of this
+86 section; and
+87 “(8) Katrina D. Jones, to fill the Board seat described in subsection (a)(1)(I) of
+88 this section.
+89 “(d) The members of the Stabilization and Reform Board referred to in subsection
+90 (a)(1)(A) through (I) of this section shall each serve for one term of 2 years or until the Board
+91 sunsets; provided, that each such member may continue to serve until a successor board assumes
+92 the responsibilities of the Stabilization and Reform Board; provided further, that in the event of a
+93 vacancy in the seat of such a member of the Board, the Mayor may appoint a member, pursuant
+94 to subsection (b)(1) of this section, to serve the remainder of the unexpired term or until a
+95 successor board assumes the responsibilities of the Stabilization and Reform Board.
+96 “(e) Upon a vacancy in the position of chairperson of the Stabilization and Reform
+97 Board, the Mayor shall designate a chairperson from among the members of the Stabilization and
+98 Reform Board referred to in subsection (a)(1)(A) through (I) of this section.
+99 “(f)(1) Upon a vacancy of any seat of the Stabilization and Reform Board, the Mayor
+100 shall nominate a replacement who meets the qualifications of the vacant seat pursuant to
+101 subsection (a)(1) of this section; provided, that this shall not apply to the seat established by
+5
+
+ENGROSSED ORIGINAL
+102 subsection (a)(1)(A) of this section. If the seat established by subsection (a)(1)(A) of this section
+103 becomes vacant, the Council shall appoint a successor.
+104 “(2) A Mayoral nomination shall be submitted to the Council pursuant to
+105 subsection (b)(1) of this section.
+106 “(g)(1) The Stabilization and Reform Board shall meet at least 10 times per year. All
+107 meetings of the Stabilization and Reform Board shall be open to the public, except as may
+108 otherwise be authorized by the Open Meetings Act, effective March 31, 2011 (D.C. Law 18-350;
+109 D.C. Official Code § 2-571 et seq.).
+110 “(2) All regular meetings of the Board must be publicized through a notice,
+111 published in the District of Columbia Register one week prior to the meeting that contains the
+112 date, time, and location of the meeting.
+113 “(3) Each regular meeting shall provide for a period of public comments, which
+114 shall not be limited in time, except that the time allowed for each individual speaker may be
+115 reasonably limited.
+116 “(h) For the purposes of taking any official action, a quorum of the Stabilization and
+117 Reform Board shall consist of 5 members.
+118 “(i) The Stabilization and Reform Board established by this section shall assume
+119 authority from the Board of Commissioners established by section 12, and the Board of
+6
+
+ENGROSSED ORIGINAL
+120 Commissioners shall be dissolved, upon the swearing in of at least 5 members of the
+121 Stabilization and Reform Board.
+122 “(j) The Authority shall provide to the Stabilization and Reform Board at least 2 full-time
+123 employees who are qualified to provide legal and policy research as requested by members of the
+124 Board. Except as otherwise provided by law, a full-time employee provided to the Board
+125 pursuant to this subsection shall not share with employees of the Authority information about
+126 research performed for a Board member, unless the Board member authorizes the sharing of
+127 information.
+128 “Sec. 11b. Reform activities.
+129 “(a) Within 15 days after the end of each calendar quarter, the Executive Director shall,
+130 after submission to the Stabilization and Reform Board and the City-Wide Resident Advisory
+131 Board, submit a report to the Mayor and the Council that describes the progress of the Authority
+132 in:
+133 “(1) Addressing and remediating the issues identified by the U.S. Department of
+134 Housing and Urban Development in its 2022 assessment of the Authority (“HUD DC001
+135 Assessment”);
+136 “(2) Developing and implementing a plan to expedite the leasing of dwelling units
+137 owned, operated, or managed by the Authority;
+7
+
+ENGROSSED ORIGINAL
+138 “(3) Identifying individual dwelling units within Housing Properties of the
+139 Authority that are in a substandard condition and improving the condition of such units to a state
+140 of good repair;
+141 “(4) Developing and implementing a plan for the maintenance, in an ongoing state
+142 of good repair, of Housing Properties of the Authority and individual dwellings units within
+143 those Housing Properties;
+144 “(5) Improving the management of the wait list for dwelling units within Housing
+145 Properties of the Authority;
+146 “(6)(A) Reviewing and developing recommendations for improvements of the
+147 Authority’s:
+148 “(i) Capital and operating budgets;
+149 “(ii) Capital and operating expenditures;
+150 “(iii) Accounting and fiscal management systems, controls; and
+151 procedures; and
+152 “(iv) Contracting and procurement systems, controls, and
+153 procedures.
+154 “(B) Requirements of this paragraph are subject to review by the Chief
+155 Financial Officer measured against industry and government standards and best practices; and
+156 “(7) Meeting the training requirements established by sections 12(h) and 14(d).
+8
+
+ENGROSSED ORIGINAL
+157 “(b) In addition to the requirements of subsection (a) of this section, the Executive
+158 Director shall submit to the Council any updated policies, procedures, and reports provided to the
+159 United States Department of Housing and Urban Development as outlined in the Authority’s
+160 “Response to the U.S. Department of Housing and Urban Development’s March 2022 On-Site
+161 Assessment Report,” published on November 29, 2022. Such policies, procedures and reports
+162 shall be submitted no later than 48 hours after submission to the United States Department of
+163 Housing and Urban Development.
+164 “(c) The Stabilization and Reform Board shall:
+165 “(1) Review the progress of the Authority in addressing the findings and
+166 recommendations in the HUD DC001 Assessment each month;
+167 “(2) Reserved.
+168 “(3) At least once a quarter, invite the City-Wide Resident Advisory Board to
+169 report to the Board on any topics of interest or concerns, and respond to the concerns of the City-
+170 Wide Resident Advisory Board in writing, no later than 45 days following the quarterly meeting;
+171 and
+172 “(4) Reserved.
+173 “(d) If requested by the Council, a quorum of members of the Stabilization and Reform
+174 Board shall attend a Council oversight hearing on the Authority and provide testimony.
+9
+
+ENGROSSED ORIGINAL
+175 “(e) A quorum of members of the Stabilization and Reform Board shall be present at each
+176 listening session held pursuant to subsection (c)(2) of this section.
+177 “Sec. 11c. City-Wide Resident Advisory Board.
+178 “(a) The Authority shall establish and implement a comprehensive training program for
+179 members of the City-Wide Resident Advisory Board with the goal of enabling tenant members to
+180 participate fully in the oversight of the housing authority’s operation and capital planning. The
+181 Authority shall develop the training program in consultation with public housing residents and
+182 public housing industry professional organizations.
+183 “(b)(1) The City-Wide Resident Advisory Board shall be provided access to trainings
+184 referenced in section 12(h)(1) and (2).
+185 “(2) Additionally, the Authority shall provide training on relevant federal and
+186 District laws, leadership development, communication, and negotiations.
+187 “(c) The Authority shall provide a copy of resolutions on the agenda for consideration by
+188 the Stabilization and Reform Board to the City-Wide Resident Advisory Board at least 24 hours
+189 prior to the scheduled date and time of the Stabilization and Reform Board meeting at which the
+190 resolution will be considered.
+191 “(d) The Authority shall seek and consider the input of the City-Wide Resident Advisory
+192 Board when a policy or program change affects residents.”.
+193 (d) Section 12 (D.C. Official Code § 6-211) is amended as follows:
+10
+
+ENGROSSED ORIGINAL
+194 (1) The section heading is amended to read as follows:
+195 “Sec. 12. Additional Board provisions.”.
+196 (2) Subsections (a), (b), (c), (e), (f), (g), (i), (j), (k), (l), (m), (n), (o), (p), (q),
+197 (v)(3), and (w) are repealed.
+198 (3) Subsection (r) is amended by striking the phrase “No Commissioner” and
+199 inserting the phrase “No member of the Board” in its place.
+200 (4) Subsection (s) is amended by striking the phrase “Commissioners shall” and
+201 inserting the phrase “Each member of the Board referred to in section 11a(a)(1)(A) through (I)
+202 shall” in its place.
+203 (5) Subsection (u) is amended by striking the phrase “any Commissioner” and
+204 inserting the phrase “any member of the Board” in its place.
+205 (e) Section 14 (D.C. Official Code § 6-213) is amended as follows:
+206 (1) Subsection (c) is amended by striking the phrase “direction and supervision”
+207 and inserting the word “oversight” in its place.
+208 (2) A new subsection (e) is added to read as follows:
+209 “(e) As part of the process of selecting an Executive Director, the Board shall seek and
+210 consider the input of public housing residents, voucher holders, and the resident advisory board
+211 for the Authority.”.
+212 (f) Section 21 (D.C. Official Code § 6-220) is amended as follows:
+11
+
+ENGROSSED ORIGINAL
+213 (1) The section heading is amended by striking the phrase “Board of
+214 Commissioners” and inserting the word “Board” in its place.
+215 (2) Subsection (a) is amended by striking the phrase “each Commissioner” and
+216 inserting the phrase “each member of the Board” in its place.
+217 (3) Subsection (b) is amended as follows:
+218 (A) Strike the phrase “as a Commissioner” and insert the phrase “as a
+219 member of the Board or a member of the former Board of Commissioners” in its place.
+220 (B) Strike the phrase “former Commissioner” and insert the phrase
+221 “former member of the Board or former member of the former Board of Commissioners” in its
+222 place.
+223 (C) Strike the phrase “as Commissioner” and insert the phrase “as a
+224 member of the Board or a member of the former Board of Commissioners” in its place.
+225 (D) Strike the phrase “any former Commissioner” and insert the phrase
+226 “any former member of the Board or former member of the former Board of Commissioners” in
+227 its place.
+228 (4) Subsection (c) is amended by striking the phrase “any Commissioner” and
+229 inserting the phrase “any member of the Board” in its place.
+230 (g) Section 26g(b)(2)(C) (D.C. Official Code § 6-232(b)(2)(C)) is amended by striking
+231 the phrase “resident commissioner and to vote for candidates for resident commissioner to serve
+12
+
+ENGROSSED ORIGINAL
+232 on the Board, as provided in section 12” and inserting the phrase “resident commissioner” in its
+233 place.
+234 Sec. 3. Conforming amendment.
+235 Section 2(e) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-142;
+236 D.C. Official Code § 1-523.01(e)), is amended by adding a new paragraph (27A) to read as
+237 follows:
+238 “(27A) The Stabilization and Reform Board of the District of Columbia Housing
+239 Authority, established by section 11a of the District of Columbia Housing Authority Act of 1999,
+240 effective December 22, 2022 (D.C. Act 24-702; 70 DCR 164);”.
+241 Sec. 4. Applicability.
+242 This act shall apply as of December 22, 2022.
+243 Sec. 5. Fiscal impact statement.
+244 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+245 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+246 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+247 Sec. 6. Effective date.
+248 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+249 the Mayor, action by the Council to override the veto), a 30-day period of congressional review
+250 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+13
+
+ENGROSSED ORIGINAL
+251 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+252 Columbia Register.
+253 (b) This act shall expire after 225 days of its having taken effect.
+14

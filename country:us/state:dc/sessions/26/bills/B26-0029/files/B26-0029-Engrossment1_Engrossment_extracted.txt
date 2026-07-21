@@ -1,0 +1,492 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3
+4 26-29
+5
+6
+7 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+8
+9 ___________
+10
+11
+12 To require institutions of higher education in the District to retain at least two confidential
+13 resource advisors, to require amnesty protections for student code of conduct violations
+14 under certain circumstances, to require institutions make reasonable efforts to require
+15 every undergraduate student to complete sexual misconduct trainings that conform with
+16 minimum criteria, to require institution personnel involved in an institution’s sexual
+17 misconduct investigative and disciplinary processes to receive annual training in handling
+18 sexual misconduct complaints and in the operations of the institution's disciplinary
+19 process, to require confidential resource advisors, Title IX coordinators, and institution
+20 public safety personnel to be educated in trauma-informed responses, to establish
+21 minimum criteria for institutions’ sexual misconduct policies, to require institutions to
+22 prepare and submit to the Higher Education Licensure Commission and publish on their
+23 websites a report with data about confidential resource advisor and Title IX office
+24 outcomes at the institution, and to establish penalties for institutions that do not comply
+25 with this act; and to make conforming amendments.
+26
+27 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+28 act may be cited as the “Institution of Higher Education Sexual Misconduct Reporting and
+29 Resource Accessibility Act of 2025”.
+30 Sec. 2. Definitions.
+31 For the purposes of this act, the term:
+32 (1) “Assisted party” means a student at or an employee of an institution who seeks
+33 the services of a confidential resource advisor.
+1
+
+ENGROSSED ORIGINAL
+34 (2) “Confidential communication” means oral or written information exchanged
+35 between a confidential resource advisor and an assisted party while the confidential resource
+36 advisor is performing the duties required or authorized under this act.
+37 (3) “Confidential resource advisor” means an individual whom an institution has
+38 designated to provide emergency and ongoing support to an assisted party pursuant to section 3
+39 and who is not empowered to institute corrective measures on behalf of the institution in
+40 response to a report of sexual misconduct.
+41 (4) “Employee” means an individual employed by an institution.
+42 (5) “Institution” means an entity or person incorporated, chartered, or established
+43 in the District, including by Council or congressional act, that offers postsecondary or graduate
+44 degrees and that operates, keeps, or maintains a facility in the District.
+45 (6) “Student” means an individual who is enrolled at an institution at the time of
+46 alleged sexual misconduct.
+47 (7) “Sexual misconduct” shall have the same meaning as sex-based harassment, as
+48 the term is defined in 34 C.F.R. 106.2;
+49 (8) “Sexual misconduct resource provider” means a:
+50 (A) Domestic violence counselor, as the term is defined in D.C. Official
+51 Code § 14-310(a)(2);
+52 (B) Human trafficking counselor, as the term is defined in D.C. Official
+53 Code § 14-311(a)(2); or
+2
+
+ENGROSSED ORIGINAL
+54 (C) Sexual assault counselor, as the term is defined in D.C. Official Code
+55 § 23-1907(10).
+56 (9) “Supportive measures” shall have the same meaning as provided in 34 C.F.R.
+57 106.2.
+58 (10) “Title IX” means Title IX of the Education Amendments of 1972, approved
+59 June 23, 1972 (86 Stat. 373; 20 U.S.C. § 1681 et seq.).
+60 (11) “Title IX Coordinator” means the employee designated by an institution to
+61 perform the functions required by 34 C.F.R. § 106.8(a).
+62 (12) “Trauma-informed response" means a response to a report of sexual
+63 misconduct involving an understanding of the complexities of sexual misconduct through
+64 training centered on the neurobiological impact of trauma, the influence of myths and stereotypes
+65 surrounding the causes and impacts of trauma, perpetration methodology pertaining to sexual
+66 misconduct, and methods to conduct investigations of sexual misconduct.
+67 Sec. 3. Confidential resource advisor role and responsibilities.
+68 (a)(1) Each institution shall employ or contract for at least 2 confidential resource
+69 advisors to serve as confidential resources for students and employees seeking resources
+70 pertaining to sexual misconduct.
+71 (2) An institution shall notify all students and employees, in writing, of the
+72 identities, contact information for, and availability of its confidential resource advisors.
+3
+
+ENGROSSED ORIGINAL
+73 (b) Confidential resource advisors shall provide all institution students and employees
+74 with resources related to sexual misconduct in written or electronic format, which may include
+75 website links, pamphlets, handouts, and information packets. An institution may authorize its
+76 Title IX Coordinator to approve the resources to be provided by confidential resource providers
+77 before dissemination to ensure accuracy and institutional consistency.
+78 (c) Confidential resource advisors may provide resources and information to assisted
+79 parties in addition to those provided pursuant to subsection (b) of this section, including:
+80 (1) Options for reporting sexual misconduct to the institution’s public safety
+81 personnel, District or federal law enforcement, or the institution’s Title IX Coordinator, and the
+82 processes required for making a complaint to each entity;
+83 (2) Information pertaining to free and low-cost legal and sexual misconduct
+84 response services available through local legal services providers, sexual misconduct resource
+85 providers, and the District’s Crime Victim Compensation Program;
+86 (3) Information pertaining to securing protection or no contact orders, restraining
+87 orders, or similar lawful orders issued by a criminal or civil court;
+88 (4) Information pertaining to the assisted party’s rights and the institution's
+89 responsibilities regarding protection orders, no contact orders, and any other lawful orders issued
+90 by the institution or by a court of law;
+91 (5) The investigative processes of District and federal law enforcement agencies
+92 and legal processes of District judicial bodies pertaining to sexual misconduct;
+4
+
+ENGROSSED ORIGINAL
+93 (6) Medical and health services available through the institution and at facilities
+94 that are unaffiliated with the institution, including free medical forensic exams available through
+95 local sexual assault nurse examiner programs;
+96 (7) Counseling and mental health services available through the institution and
+97 available through local providers outside the institution;
+98 (8) For students considering changes in their enrollment status such that the
+99 housing arrangements, healthcare, or insurance coverage available through the institution would
+100 be disrupted or terminated, rent assistance resources, healthcare resources, and insurance
+101 resources available outside the institution;
+102 (9) The formal and informal resolution processes pertaining to sexual misconduct
+103 available at the institution and available outside the institution through sexual misconduct
+104 resource providers;
+105 (10) A description of the supportive measures available at the institution,
+106 including through the institution’s Title IX office and disabilities services office;
+107 (11) Information about the Title IX Coordinator’s role in providing students with
+108 supportive measures and in assisting students with maintaining academic progress, such as
+109 withdrawing from or taking an incomplete grade in a class; and
+110 (12) For students considering changes in their enrollment status, referrals to loan
+111 counseling services pertaining to loan deferment, loan default, forbearance, or other student loan
+112 or grant programs.
+5
+
+ENGROSSED ORIGINAL
+113 (d) Confidential resource advisors shall inform assisted parties of limitations in providing
+114 privacy or confidentiality, including informing the assisted party that information shared with the
+115 confidential resource advisor could be disclosed in limited circumstances, including in response
+116 to a court order or subpoena.
+117 (e) The confidential resource advisor may provide guidance to the assisted party
+118 regarding how to access supportive measures and in deciding the type of supportive measures to
+119 request.
+120 (f) Within 3 months after being designated as a confidential resource advisor, in
+121 coordination with the institution’s Title IX Coordinator, a confidential resource advisor shall
+122 establish and maintain regular communication with the federally designated state sexual assault
+123 coalition for the District and the federally recognized statewide coalition of domestic violence
+124 programs for the District.
+125 (g) A confidential resource advisor may, if appropriate and if directed by the assisted
+126 party, support the assisted party in contacting the institution’s public safety personnel or local or
+127 federal law enforcement to make a report of sexual misconduct.
+128 (h) A confidential resource advisor may attend an administrative or institution-based
+129 adjudication proceeding as the advisor for the assisted party.
+130 (i)(1) Notwithstanding section 2 of An Act To provide for the mandatory reporting by
+131 physicians and institutions in the District of Columbia of certain physical abuse of children,
+132 approved November 6, 1966 (80 Stat. 1354; D.C. Official Code § 4-1321.02), when an
+6
+
+ENGROSSED ORIGINAL
+133 individual is acting in the individual’s capacity as a confidential resource advisor, an assisted
+134 party’s communications with the confidential resource advisor relating to an incident of sexual
+135 misconduct shall be confidential, may not be disclosed to the institution or law enforcement
+136 authorities, and shall be privileged against disclosure in any legal or administrative proceeding
+137 unless:
+138 (A) Disclosure of information is necessary for the institution to comply
+139 with the Higher Education Act of 1965, approved October 17, 1986 (104 Stat. 2385; 20 USC §
+140 1092(f));
+141 (B) A party admits to committing what the confidential resource advisor
+142 reasonably believes to be a crime of violence, as the term is defined in D.C. Official Code § 23-
+143 1331(4), or a dangerous crime, as the term is defined in § 23-1331(3);
+144 (C) The confidential resource advisor deems disclosure necessary to
+145 protect the assisted party or another individual from a substantial risk of imminent and serious
+146 injury;
+147 (D) The party the confidential resource advisor assisted provided written
+148 consent for the confidential resource advisor to disclose information the confidential resource
+149 advisor received from the party; and
+150 (E) Disclosure is otherwise required by a District or federal statute or by a
+151 court of law.
+7
+
+ENGROSSED ORIGINAL
+152 (2) To the extent the disclosure of information covered in paragraph (1) of this
+153 subsection would not be permitted under the Family Educational Rights and Privacy Act of
+154 1974, approved August 21, 1974 (88 Stat. 571; 20 U.S.C. § 1232g et seq.) and its implementing
+155 regulations (34 C.F.R Part 99), the exceptions to confidentiality in paragraph (1) of this
+156 subsection shall not apply.
+157 (j)(1) If a confidential resource advisor is required by statute or by a court of law to
+158 disclose a confidential communication, the confidential resource advisor shall inform the student
+159 or employee who made the confidential communication of the requirement to disclose at least 7
+160 calendar days in advance of disclosure, unless prohibited by law, a court order, or subpoena from
+161 disclosing the requirement to disclose information.
+162 (2) If the assisted party notifies the confidential resource provider that the
+163 individual has filed a motion for a protective order or a motion to quash prior to the date
+164 disclosure is due, the confidential resource provider shall not disclose the required information
+165 until there is a ruling by the court on such motion and shall only make the disclosure as
+166 determined by the court.
+167 (k)(1) An institution may contract with a victim advocacy organization to provide
+168 confidential resource advisor as required under this section.
+169 (2) An institution that enrolls fewer than 1,000 residential students may partner
+170 with another institution or sexual misconduct resource provider in the District to provide the
+171 services required under this section.
+8
+
+ENGROSSED ORIGINAL
+172 (3) An institution shall ensure that any contract entered into under this subsection
+173 shall result in a confidential resource advisor being available within a reasonable distance from
+174 the institution or by electronic means.
+175 (l) Notice to a confidential resource advisor of an alleged act of sexual misconduct or a
+176 confidential resource advisor's performance of a service under this section shall not be
+177 considered actual or constructive notice of an allegation of sexual misconduct to the institution at
+178 which a confidential resource advisor is employed or provides contracted services.
+179 (m) The Metropolitan Police Department or the institution shall not discipline, penalize,
+180 or otherwise retaliate against a confidential resource advisor for lawful actions taken in the
+181 course of representing the interests of the assisted party.
+182 (n) The services provided to assisted parties by a confidential resource advisor shall be
+183 free of charge.
+184 Sec. 4. Confidential resource advisor qualifications and training.
+185 (a) A confidential resource advisor:
+186 (1) Shall:
+187 (A) Have undergone training that conforms with the requirements of D.C.
+188 Official Code § 23-1907(10)(B);
+189 (B) Be appointed based on the individual’s professional experience and
+190 training to provide support to students and employees;
+191 (C) Complete yearly trainings in:
+9
+
+ENGROSSED ORIGINAL
+192 (i) Sexual misconduct awareness and prevention;
+193 (ii) Title IX policies pertaining to sexual misconduct;
+194 (iii) Trauma-informed responses;
+195 (iv) District laws pertaining to sexual misconduct survivor rights
+196 and resources; and
+197 (v) If employed by an institution, the institution’s policies
+198 pertaining to student conduct, sexual misconduct, and sexual relationships; and
+199 (2) Shall not:
+200 (A) Provide mental health or behavioral health counseling services or
+201 therapy to the assisted party while providing confidential advisor services;
+202 (B) Provide services to parties involved in the same allegation of sexual
+203 misconduct;
+204 (C) At the institution that has designated the individual as a confidential
+205 resource advisor be:
+206 (i) An undergraduate student, except for a faculty or staff member
+207 enrolled in one undergraduate course for a term; or
+208 (ii) A full-time graduate or doctoral student;
+209 (D) Be the Title IX Coordinator;
+210 (E) Be an authorized administrator of disciplinary processes on behalf of
+211 the institution;
+10
+
+ENGROSSED ORIGINAL
+212 (F) Be a member of the institution’s public safety personnel; or
+213 (G) Have employment responsibilities that may create a conflict of interest
+214 between the duties of a confidential resource advisor and the employee’s other job
+215 responsibilities, including employment by the institution as:
+216 (i) General counsel;
+217 (ii) A religious or spiritual authority;
+218 (iii) Director of athletics;
+219 (iv) Dean of students; or
+220 (v) An employee who serves on a student or employee conduct
+221 judicial or hearing board or to whom an appeal might be made; and
+222 (3) May be a social worker, psychologist, psychotherapist, professional clinical
+223 counselor, psychiatrist, or mental health counselor licensed in the District; provided, that if a
+224 confidential resource advisor is actively serving the assisted party as a mental or behavioral
+225 health counselor or therapist at the time the assisted party seeks confidential resource advisor
+226 services, the confidential resource advisor cannot serve the assisted party in both capacities.
+227 Sec. 5. Amnesty protections.
+228 (a) A student or a witness to an incident of sexual misconduct who reports an incident of
+229 sexual misconduct to an institution or to local or federal law enforcement shall not be subject to a
+230 disciplinary proceeding or sanction for a violation of the institution's policies governing students
+231 or the student code of conduct for voluntary use or possession of illegal drugs or alcohol or for
+11
+
+ENGROSSED ORIGINAL
+232 consensual sexual activity that occurred immediately preceding, during, or immediately
+233 following the incident of sexual misconduct unless the institution determines that the report was
+234 not made in good faith or that the violation put at immediate risk the health and safety of other
+235 individuals.
+236 (b) Notwithstanding an institution’s policies governing students or a student code of
+237 conduct, an institution shall not take disciplinary action against any student for consensual sexual
+238 activity related to an incident or allegation of sexual misconduct or for other consensual sexual
+239 activity revealed during an investigation of a report of sexual misconduct.
+240 (c) This section shall not apply to an institution if the application would be inconsistent
+241 with a sincerely held religious belief of the institution.
+242 Sec. 6. Sexual misconduct awareness and prevention trainings.
+243 (a) An institution that provides undergraduate education shall make reasonable efforts to
+244 require every undergraduate student to complete two sexual misconduct primary prevention and
+245 awareness trainings that are trauma-informed and gender-inclusive, one of which shall occur
+246 before the beginning of the 2nd year of a student’s undergraduate education, and the 2nd before
+247 the beginning of the 4th year of a student’s undergraduate education; provided that an institution
+248 will be deemed to have complied with this section if a student enrolled in a 2-year degree
+249 program receives one training before the beginning of the student’s 2nd year. The training shall
+250 include:
+12
+
+ENGROSSED ORIGINAL
+251 (1) An explanation of consent in reference to sexual activity and sexual
+252 relationships;
+253 (2) Examples of physical and mental incapacitation, such as when an individual is
+254 asleep, unresponsive, unconscious, vomiting, unable to walk unassisted or dress or undress
+255 without assistance, incoherently communicating, or displaying a lack of awareness;
+256 (3) The role that drugs and alcohol play in an individual's ability to consent;
+257 (4) Information in writing about:
+258 (A) The importance of preserving evidence to document sexual
+259 misconduct;
+260 (B) Procedures to report an incident of sexual misconduct, including
+261 confidential and anonymous disclosure, and a statement that the institution’s ability to respond to
+262 confidential or anonymous disclosure may be limited; and
+263 (C) Information on the institution's procedures for resolving sexual
+264 misconduct complaints, including informal resolution options, and the range of sanctions the
+265 institution may impose on students and employees found responsible for sexual misconduct;
+266 (5) The name and contact information of the institution’s confidential resource
+267 advisors and the limitations of the confidentiality of this role;
+268 (6) Safe and positive strategies for bystander intervention that may be carried out
+269 by an individual to prevent harm or reduce risk of sexual misconduct;
+13
+
+ENGROSSED ORIGINAL
+270 (7) The institution’s responsibilities regarding orders of protection, no contact
+271 orders, restraining orders, or similar orders issued by a criminal or civil court;
+272 (8) Opportunities for ongoing sexual misconduct prevention and sexual
+273 misconduct awareness training and programming; and
+274 (9) A list of off-campus sexual misconduct resource providers, updated annually
+275 by the institution in consultation with the District’s federally designated state sexual assault
+276 coalition and federally recognized statewide coalition of domestic violence programs.
+277 (b) Institutions shall ensure that sexual misconduct prevention materials such as
+278 handouts, posters, website links, and information packets are prominently displayed and readily
+279 available to students and staff in all institution buildings where students are permitted, including
+280 in dormitories, academic buildings, office buildings, libraries, athletic facilities, laboratories,
+281 student centers, and dining halls.
+282 Sec. 7. Training for individuals involved in sexual misconduct response processes.
+283 (a) An individual who participates in the implementation of an institution's sexual
+284 misconduct investigative and disciplinary processes shall receive annual training in handling
+285 sexual misconduct complaints and in the operations of the institution's disciplinary process,
+286 which shall include:
+287 (1) Information about working with and interviewing individuals involved in an
+288 allegation of sexual misconduct;
+289 (2) Information about types of conduct that constitute sexual misconduct;
+14
+
+ENGROSSED ORIGINAL
+290 (3) Information about consent and the role drugs and alcohol may play in an
+291 individual's ability to consent;
+292 (4) The effects of trauma, including neurobiological and physical manifestations
+293 of trauma in an individual;
+294 (5) How to avoid making assumptions about culpability based on protected
+295 categories and social identities; and
+296 (6) Techniques to communicate sensitively and compassionately with individuals
+297 involved in an allegation of sexual misconduct.
+298 (b) An institution shall ensure that its confidential resource advisor, Title IX office
+299 personnel, and public safety personnel employed or contracted by the institution are educated in
+300 trauma-informed responses.
+301 Sec. 8. Minimum criteria for institutional sexual misconduct policies.
+302 (a) An institution shall ensure that the institution’s sexual misconduct policy includes:
+303 (1) Information on where victims of sexual misconduct can receive immediate
+304 emergency assistance following an incident of sexual misconduct, which shall include:
+305 (A) The name, location, and contact information of medical facilities
+306 where an individual may request that a medical forensic exam be administered by a trained
+307 sexual assault forensic health care provider;
+308 (B) Descriptions and contact information for sexual misconduct resource
+309 providers and a description of the services provided by such providers;
+15
+
+ENGROSSED ORIGINAL
+310 (C) The telephone number and website for a national and local 24-hour
+311 sexual misconduct response hotline; and
+312 (D) Information on any programs that may provide financial assistance to
+313 a student with the cost of emergency medical assistance or related travel; and
+314 (2) Information regarding the legal and institutional obligations of the Title IX
+315 Coordinator and employees of the Title IX office; and
+316 (3) Descriptions of the roles and responsibilities and contact information for the
+317 institution’s confidential resource advisors and Title IX Coordinator.
+318 (b) Each institution shall distribute the information required under subsection (a) of this
+319 section by electronic or postal mail to students and employees of the institution or shall maintain
+320 the information on its website.
+321 Sec. 9. Data reporting requirements.
+322 (a) Beginning on June 30, 2029 and every 3rd calendar year thereafter, institutions shall
+323 prepare and submit to the Higher Education Licensure Commission and publish on the
+324 institution’s website a report with data about confidential resource advisor and Title IX office
+325 outcomes for the previous 3 calendar years. The report shall not include personal identifying
+326 information of students or staff who accessed the institution’s sexual misconduct resources or
+327 any information that by itself or in combination with other publicly available information could
+328 identify a particular person. Demographic data may be aggregated, and any counts or data points
+329 with fewer than 10 reports shall be suppressed. The report shall include:
+16
+
+ENGROSSED ORIGINAL
+330 (1) For the institution’s Title IX office:
+331 (A) Sexual misconduct reports to the institution’s Title IX office by
+332 academic term for each academic year, broken down by dating violence, domestic violence,
+333 stalking, sexual assault, and sexual harassment;
+334 (B) Sexual misconduct complaints to the institution’s Title IX office by
+335 academic term for each academic year, broken down by dating violence, domestic violence,
+336 stalking, sexual assault, and sexual harassment;
+337 (C) The location of a reported incident of sexual misconduct;
+338 (D) The complainant’s status as a student or employee of the institution;
+339 (E) The source of a report, such as a designated reporter or a complainant;
+340 (F) The number of complainants who requested supportive measures;
+341 (G) The number of complainants who received supportive measures;
+342 (H) The number of complainants that did not respond to outreach
+343 undertaken by the Title IX office;
+344 (I) The number of complainants that met with a Title IX Coordinator but
+345 did not request supportive measures;
+346 (J) The number of complainants that pursued formal resolution and the
+347 number that pursued alternative resolution;
+348 (K) The number of complaints dismissed;
+17
+
+ENGROSSED ORIGINAL
+349 (L) The number of complaints that resulted in a finding in favor of the
+350 complainant;
+351 (M) The number of non-Title IX related reports referred by the Title IX
+352 office to the institution office that oversees student conduct standards;
+353 (N) The number of reports to which the institution's Title IX office could
+354 not respond because of insufficient information; and
+355 (O) The number of anonymous reports; and
+356 (2) For confidential resource advisors:
+357 (A) The names and titles of confidential resource advisors employed by
+358 the institution during the reporting period, including additional roles or employment
+359 simultaneously held at the institution, or, if the positions are contracted or shared with another
+360 institution, the name of the organization or partner institution providing confidential resource
+361 advisor services for the institution;
+362 (B) The number of times confidential communications were disclosed
+363 pursuant to section 3(h), and the reason for disclosure;
+364 (C) A list of the trainings that the institution’s confidential resource
+365 advisors underwent each year, as required by section 4(a) and section 7;
+366 (D) A description of communications with the federally designated state
+367 sexual assault coalition for the District and the federally recognized statewide coalition of
+368 domestic violence programs for the District required by section 3(f);
+18
+
+ENGROSSED ORIGINAL
+369 (E) The number of individuals that accessed the institution’s confidential
+370 resource advisors; and
+371 (F) The number of individuals that were referred to the institution's Title
+372 IX office or the institution’s disability services office to receive supportive measures or to file a
+373 complaint.
+374 (b) Institutions may provide additional narrative information in the reports, which may
+375 include trend analysis, explanations that provide context to raw data, and descriptions of the
+376 institution’s sexual misconduct response processes.
+377 (c) Beginning in the calendar year after the online survey for campus safety is first
+378 administered pursuant to section 1507 of the Keeping Children Safe From Family Violence Act,”
+379 approved March 15, 2022 (136 Stat. 959; 20 U.S.C. § 1161l-6), institutions in the District shall
+380 submit the results of the online survey for campus safety to the Higher Education Licensure
+381 Commission and publish the results on the institution’s website.
+382 Sec. 10. Enforcement.
+383 (a) Upon determination, after reasonable notice and opportunity for a hearing, that an
+384 institution has materially violated or failed to carry out any provision of this act, the Higher
+385 Education Licensure Commission may impose a civil fine upon an institution for each violation
+386 not to exceed $59,000, or one percent of an institution’s annual operating budget, whichever is
+387 lower. Revenues generated from collecting civil penalty fines shall be directed to the Office of
+388 Victims Services and Justice Grants to allocate to sexual misconduct resource providers.
+19
+
+ENGROSSED ORIGINAL
+389 Sec. 11. Conforming amendments.
+390 (a) Section 14-307(b) of District of Columbia Official Code is amended as follows:
+391 (1) Paragraph (7) is amended by striking the phrase “; and” and inserting a
+392 semicolon in its place.
+393 (2) Paragraph (8) is amended by striking the period and inserting the phrase “:
+394 and”.
+395 (3) A new paragraph (9) is added to read as follows:
+396 “(9) Confidential resource advisors, as that term is defined in the Institution of
+397 Higher Education Sexual Misconduct Reporting and Resource Accessibility Act of 2025, as
+398 approved by the Committee of the Whole on February 18, 2025 (committee print of Bill 26-
+399 29).”.
+400 Sec. 12. Applicability.
+401 (a) This act shall apply as of June 30, 2026.
+402 (b)(1) Notwithstanding subsection (a) of this section, this act shall apply to the University
+403 of the District of Columbia on the date of inclusion of its fiscal effect on the University of the
+404 District of Columbia in an approved budget and financial plan or as of June 30, 2026, whichever
+405 is later.
+406 (2) The Chief Financial Officer shall certify the date of the inclusion of the fiscal
+407 effect in an approved budget and financial plan, and provide notice to the Budget Director of the
+408 Council of the certification.
+20
+
+ENGROSSED ORIGINAL
+409 (3)(A) The Budget Director shall cause the notice of the certification to be
+410 published in the District of Columbia Register.
+411 (B) The date of publication of the notice of the certification shall not affect
+412 the applicability of this act to the University of the District of Columbia. (d) This act shall apply
+413 as of June 30, 2026.
+414 Sec. 13. Fiscal impact statement.
+415 The Council adopts the fiscal impact statement in the committee report as the fiscal
+416 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+417 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+418 Sec. 14. Effective date.
+419 This act shall take effect following approval by the Mayor (or in the event of veto by the
+420 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+421 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+422 24, 1973 (87 Stat. 813: D.C. Official Code § 1-206.02(c)(1)).
+21

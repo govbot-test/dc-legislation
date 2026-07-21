@@ -1,0 +1,70 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENROLLED ORIGINAL
+A RESOLUTION
+26-19
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+February 4, 2025
+To amend, on an emergency basis, due to congressional review, the Retail Electric Competition
+and Consumer Protection Act of 1999 to clarify the definition of the term subscriber
+organization; to amend the Lead-Hazard Prevention and Elimination Act of 2008 to
+clarify the definition of the term lead-based paint; and to amend the Sustainable Solid
+Waste Management Amendment Act of 2014 to clarify the definition of the term
+producer.
+RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+resolution may be cited as the “Department of Energy and Environment Definitions Clarification
+Congressional Review Emergency Declaration Resolution of 2025”.
+Sec. 2. (a) The Retail Electric Competition and Consumer Protection Act of 1999,
+effective May 9, 2000 (D.C. Law 13-107; D.C. Official Code § 34-501 et seq.), currently defines
+the term “subscriber organization” as “any for-profit or nonprofit entity permitted by District of
+Columbia law that owns or operates one or more community renewable energy facilities for the
+benefit of the subscribers.” A primary function of subscriber organizations is to assign energy
+credits to subscribers who participate in community renewable energy facilities (“CREFs”).
+Subscription management is an administratively burdensome activity, and solar developers
+generally prefer to assign the responsibility for subscription management to another entity.
+(b) In practice, the Department of Energy and Environment (“DOEE”) has been
+functioning as a subscriber organization for low- to moderate-income District residents, who are
+subscribers to CREFs through DOEE’s Solar for All program.
+(c) Uncertainty regarding whether the definition of “subscriber organization” covers a
+government entity could adversely impact DOEE’s authority to continue performing these
+administrative functions, and may inhibit other government entities, including the federal
+government, from performing these functions for future CREFs.
+(d) The Residential Housing Environmental Safety Amendment Act of 2020, effective
+March 16, 2021 (D.C. Law 23-188; 68 DCR 1227), amended the Lead-Hazard Prevention and
+Elimination Act of 2008, effective March 31, 2009 (D.C. Law 17-381; D.C. Official Code § 8-
+231.01 et seq.), to lower the amount of lead needed in paint or other surface coatings to qualify
+as a “lead-based paint” from one milligram per square centimeter (1.0mg/cm2) to 0.7 milligrams
+1
+
+ENROLLED ORIGINAL
+per square centimeter (0.7mg/cm2). However, the parenthetical within the amended definition
+erroneously uses microgram symbol (“µ”) instead of the correct abbreviation for milligram
+(“mg”).
+(e) The Zero Waste Omnibus Amendment Act of 2020, effective March 16, 2021 (D.C.
+Law 23-211; 68 DCR 68), amended the Sustainable Solid Waste Management Amendment Act
+of 2014, effective February 26, 2015 (D.C. Law 20-154; 61 DCR 9971), to define “producer.”
+Due to a drafting error, the definition uses the phrase “A person who manufacturers [sic] a . . .”
+when it should instead read “A person who manufactures a . . .”.
+(f) To prevent the misapplication or misinterpretation of several key definitions in the
+D.C. Code that DOEE relies on when fulfilling its statutory duties or administrating agency
+programs, the Council passed the Department of Energy and Environment Definitions
+Clarification Emergency Amendment Act of 2024, effective November 22, 2024 (D.C. Act 25-
+636; 71 DCR 14470) (“emergency act”). The emergency act is set to expire on February 20,
+2025. The Council also passed the Department of Energy and Environment Definitions
+Clarification Temporary Amendment Act of 2024, enacted on December 19, 2024 (D.C. Act 25-
+665; 71 DCR 16302) (“temporary act”). The projected law date for the temporary act is March 6,
+2025.
+(g) This congressional review emergency legislation is necessary to prevent a gap in the
+law between the expiration of the emergency act and the effective date of the temporary act.
+Sec. 3. The Council of the District of Columbia determines that the circumstances
+enumerated in section 2 constitute emergency circumstances making it necessary that the
+Department of Energy and Environment Definitions Clarification Congressional Review
+Emergency Amendment Act of 2025 be adopted after a single reading.
+Sec. 4. This resolution shall take effect immediately.
+2

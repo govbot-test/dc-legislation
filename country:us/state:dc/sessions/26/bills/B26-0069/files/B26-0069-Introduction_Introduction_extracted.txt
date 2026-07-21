@@ -1,0 +1,744 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2
+3 Councilmember Christina Henderson Councilmember Matthew Frumin
+4
+5
+6 _____________________________
+7 Councilmember Brooke Pinto Councilmember Zachary Parker
+8
+9
+10
+11 Councilmember Janeese Lewis George Councilmember Kenyan McDuffie
+12
+13
+14
+15
+16 Councilmember Wendell Felder
+17
+18
+19
+20
+21 A BILL
+22
+23
+24
+25 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+26
+27
+28 To authorize the Mayor to execute and enter, on behalf of the District, the Nurse Licensure
+29 Compact to permit licensed registered and licensed practical/vocational nurses in party
+30 states to practice in the District and for multistate licensed nurses in the District to
+31 practice in other party states; to increase the availability of licensed nurses; to standardize
+32 minimum requirements for education and training for participating compact nurses; to
+33 establish requirements for the administration of interstate licenses; to join the compact
+34 licensure information system; to require all compact states to share licensee information
+35 with other compact states; to establish the Interstate Commission of Nurse Licensure
+36 Compact Administrators; to allow the Board of Nursing to charge an additional fee for
+37 the issuance of a multistate license; and to require individuals or hospitals that employ
+38 nurses to report the number of multistate license holding nurses to the Board of Nursing
+39 and to prepare and provide each nurse with a copy of laws and rules specific to the
+40 practice of nursing in the District.
+41
+1
+
+42 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+43 act may be cited as the “District of Columbia Nurse Licensure Compact Authorization Act of
+44 2025”.
+45 Sec. 2. Findings and declaration of purpose.
+46 The nurse licensure compact is enacted into law and entered into by the District, with all
+47 other party states legally joining therein in the form substantially as follows:
+48 “Sec. 1. Findings and Declaration of Purpose:
+49 (a) The party states find that:
+50 (1) The health and safety of the public are affected by the degree of compliance
+51 with, and the effectiveness of enforcement activities related to state nurse licensure laws;
+52 (2) Violations of nurse licensure and other laws regulating the practice of nursing
+53 may result in injury or harm to the public;
+54 (3) The expanded mobility of nurses and the use of advanced communication
+55 technologies as part of our nation’s health care delivery system require greater coordination and
+56 cooperation among states in the areas of nurse licensure and regulation;
+57 (4) New practice modalities and technology make compliance with individual
+58 state nurse licensure laws difficult and complex;
+59 (5) The current system of duplicative licensure for nurses practicing in multiple
+60 states is cumbersome and redundant for both nurses and states; and
+61 (6) Uniformity of nurse licensure requirements throughout the states promotes
+62 public safety and public health benefits.
+63 (b) The general purposes of this Compact are to:
+64 (1) Facilitate the states’ responsibility to protect the public’s health and safety;
+2
+
+65 (2) Ensure and encourage the cooperation of party states in the areas of nurse
+66 licensure and regulation;
+67 (3) Facilitate the exchange of information between party states in the areas of
+68 nurse regulation, investigation, and adverse actions;
+69 (4) Promote compliance with the laws governing the practice of nursing in each
+70 jurisdiction;
+71 (5) Invest all party states with the authority to hold a nurse accountable for
+72 meeting all state practice laws in the state in which the patient is located at the time care is
+73 rendered through the mutual recognition of party state licenses;
+74 (6) Decrease redundancies in the consideration and issuance of nurse licenses; and
+75 (7) Provide opportunities for interstate practice by nurses who meet uniform
+76 licensure requirements.
+77 “Sec. 2. Definitions
+78 As used in this Compact:
+79 (1) “Adverse action” means any administrative, civil, equitable, or criminal action
+80 permitted by a state’s laws which is imposed by a licensing board or other authority against a
+81 nurse, including actions against an individual’s license or multistate licensure privilege such as
+82 revocation, suspension, probation, monitoring of the licensee, limitation on the licensee’s
+83 practice, or any other encumbrance on licensure affecting a nurse’s authorization to practice,
+84 including issuance of a cease and desist action.
+85 (2) “Alternative program” means a non-disciplinary monitoring program
+86 approved by a licensing board.
+3
+
+87 (3) “Coordinated licensure information system” means an integrated process for
+88 collecting, storing, and sharing information on nurse licensure and enforcement activities related
+89 to nurse licensure laws, which is administered by a nonprofit organization composed of and
+90 controlled by licensing boards.
+91 (4) “Current significant investigative information” means:
+92 (A) Investigative information that a licensing board, after a preliminary
+93 inquiry that includes notification and an opportunity for the nurse to respond, if required by state
+94 law, has reason to believe is not groundless and, if proved true, would indicate more than a minor
+95 infraction; or
+96 (B) Investigative information that indicates that the nurse represents an
+97 immediate threat to public health and safety regardless of whether the nurse has been notified
+98 and had an opportunity to respond
+99 (5) “Encumbrance” means a revocation or suspension of, or any limitation on, the
+100 full and unrestricted practice of nursing imposed by a licensing board.
+101 (6) “Home state” means the party state that is the nurse’s primary state of
+102 residence.
+103 (7) “Licensing board” means a party state’s regulatory body responsible for
+104 issuing nurse licenses.
+105 (8) “Multistate license” means a license to practice as a registered nurse (RN) or a
+106 licensed practical/vocational nurse (LPN/VN) issued by a home state licensing board that
+107 authorizes the licensed nurse to practice in all party states under a multistate licensure privilege.
+4
+
+108 (9) “Multistate licensure privilege” means a legal authorization associated with a
+109 multistate license permitting the practice of nursing as either a registered nurse (RN) or a
+110 licensed practical/vocational nurse (LPN/VN) in a remote state.
+111 (10) “Nurse” means RN or LPN/VN, as those terms are defined by each party
+112 state’s practice laws.
+113 (11) “Party state” means any state that has adopted this Compact.
+114 (12) “Remote state” means a party state, other than the home state.
+115 (13) “Single-state license” means a nurse license issued by a party state that
+116 authorizes practice only within the issuing state and does not include a multistate licensure
+117 privilege to practice in any other party state.
+118 (14) “State” means a state, commonwealth, territory, or possession of the United
+119 States, and the District of Columbia.
+120 (15) “State practice laws” means a party state’s laws, rules, and regulations that
+121 govern the practice of nursing, define the scope of nursing practice, and create the methods and
+122 grounds for imposing discipline. “State practice laws” do not include requirements necessary to
+123 obtain and retain a license, except for qualifications or requirements of the home state.
+124 “Sec. 3. General provisions and jurisdiction.
+125 (a) A multistate license to practice registered or licensed practical/vocational nursing
+126 issued by a home state to a resident in that state will be recognized by each party state as
+127 authorizing a nurse to practice as a registered nurse (RN) or as a licensed practical/vocational
+128 nurse (LPN/VN), under a multistate licensure privilege, in each party state.
+129 (b) A state must implement procedures for considering the criminal history records of
+130 applicants for initial multistate license or licensure by endorsement. Such procedures shall
+5
+
+131 include the submission of fingerprints or other biometric-based information by applicants for the
+132 purpose of obtaining an applicant’s criminal history record information from the Federal Bureau
+133 of Investigation and the agency responsible for retaining that state’s criminal records.
+134 (c) Each party state shall require the following for an applicant to obtain or retain a
+135 multistate license in the home state:
+136 (1) Meets the home state’s qualifications for licensure or renewal of licensure, as
+137 well as, all other applicable state laws;
+138 (2)(A) Has graduated or is eligible to graduate from a licensing board-approved
+139 RN or LPN/VN prelicensure education program; or
+140 (B) Has graduated from a foreign RN or LPN/VN prelicensure education
+141 program that:
+142 (i) has been approved by the authorized accrediting body in the
+143 applicable country, and:
+144 (ii) has been verified by an independent credentials review agency
+145 to be comparable to a licensing board-approved prelicensure education program.
+146 (3) Has, if a graduate of a foreign prelicensure education program not taught in
+147 English or if English is not the individual’s native language, successfully passed an English
+148 proficiency examination that includes the components of reading, speaking, writing and
+149 listening;
+150 (4) Has successfully passed an NCLEX-RN® or NCLEX-PN® Examination or
+151 recognized predecessor, as applicable;
+152 (5) Is eligible for or holds an active, unencumbered license;
+6
+
+153 (6) Has submitted, in connection with an application for initial licensure or
+154 licensure by endorsement, fingerprints or other biometric data for the purpose of obtaining
+155 criminal history record information from the Federal Bureau of Investigation and the agency
+156 responsible for retaining that state’s criminal records;
+157 (7) Has not been convicted or found guilty, or has entered into an agreed
+158 disposition, of a felony offense under applicable state or federal criminal law;
+159 (8) Has not been convicted or found guilty, or has entered into an agreed
+160 disposition, of a misdemeanor offense related to the practice of nursing as determined on a case-
+161 by-case basis;
+162 (9) Is not currently enrolled in an alternative program;
+163 (10) Is subject to self-disclosure requirements regarding current participation in an
+164 alternative program; and
+165 (11) Has a valid United States Social Security number.
+166 (d) All party states shall be authorized, in accordance with existing state due process law,
+167 to take adverse action against a nurse’s multistate licensure privilege such as revocation,
+168 suspension, probation or any other action that affects a nurse’s authorization to practice under a
+169 multistate licensure privilege, including cease and desist actions. If a party state takes such
+170 action, it shall promptly notify the administrator of the coordinated licensure information system.
+171 The administrator of the coordinated licensure information system shall promptly notify the
+172 home state of any such actions by remote states.
+173 (e) A nurse practicing in a party state must comply with the state practice laws of the
+174 state in which the client is located at the time service is provided.
+7
+
+175 (1) The practice of nursing is not limited to patient care, but shall include all
+176 nursing practice as defined by the state practice laws of the party state in which the client is
+177 located.
+178 (2) The practice of nursing in a party state under a multistate licensure privilege
+179 will subject a nurse to the jurisdiction of the licensing board, the courts and the laws of the party
+180 state in which the client is located at the time service is provided.
+181 (f) Individuals not residing in a party state shall continue to be able to apply for a party
+182 state’s single- state license as provided under the laws of each party state. However, the single-
+183 state license granted to these individuals will not be recognized as granting the privilege to
+184 practice nursing in any other party state. Nothing in this Compact shall affect the requirements
+185 established by a party state for the issuance of a single-state license.
+186 (g) Any nurse holding a home state multistate license, on the effective date of this
+187 Compact, may retain and renew the multistate license issued by the nurse’s then-current home
+188 state, provided that:
+189 (1) A nurse, who changes primary state of residence after this Compact’s effective
+190 date, must meet all applicable Section 3(c) requirements to obtain a multistate license from a new
+191 home state.
+192 (2) A nurse who fails to satisfy the multistate licensure requirements in Section
+193 3(c) due to a disqualifying event occurring after this Compact’s effective date shall be ineligible
+194 to retain or renew a multistate license, and the nurse’s multistate license shall be revoked or
+195 deactivated in accordance with applicable rules adopted by the Interstate Commission of Nurse
+196 Licensure Compact Administrators (“Commission”).
+197 “Sec. 4. Applications for licensure in a party state.
+8
+
+198 (a) Upon application for a multistate license, the licensing board in the issuing party state
+199 shall ascertain, through the coordinated licensure information system, whether the applicant has
+200 ever held, or is the holder of, a license issued by any other state, whether there are any
+201 encumbrances on any license or multistate licensure privilege held by the applicant, whether any
+202 adverse action has been taken against any license or multistate licensure privilege held by the
+203 applicant and whether the applicant is currently participating in an alternative program.
+204 (b) A nurse may hold a multistate license, issued by the home state, in only one party
+205 state at a time.
+206 (c) If a nurse changes primary state of residence by moving between two party states, the
+207 nurse must apply for licensure in the new home state, and the multistate license issued by the
+208 prior home state will be deactivated in accordance with applicable rules adopted by the
+209 Commission.
+210 (A) The nurse may apply for licensure in advance of a change in primary state of
+211 residence.
+212 (B) A multistate license shall not be issued by the new home state until the nurse
+213 provides satisfactory evidence of a change in primary state of residence to the new home state
+214 and satisfies all applicable requirements to obtain a multistate license from the new home state.
+215 (d) If a nurse changes primary state of residence by moving from a party state to a non-
+216 party state, the multistate license issued by the prior home state will convert to a single-state
+217 license, valid only in the former home state.
+218 “Sec. 5. Additional authorities invested in party state licensing boards.
+219 (a) In addition to the other powers conferred by state law, a licensing board shall have the
+220 authority to:
+9
+
+221 (1) Take adverse action against a nurse’s multistate licensure privilege to practice
+222 within that party state.
+223 (A) Only the home state shall have the power to take adverse action
+224 against a nurse’s license issued by the home state.
+225 (B) For purposes of taking adverse action, the home state licensing board
+226 shall give the same priority and effect to reported conduct received from a remote state as it
+227 would if such conduct had occurred within the home state. In so doing, the home state shall
+228 apply its own state laws to determine appropriate action.
+229 (2) Issue cease and desist orders or impose an encumbrance on a nurse’s authority
+230 to practice within that party state.
+231 (3) Complete any pending investigations of a nurse who changes primary state of
+232 residence during the course of such investigations. The licensing board shall also have the
+233 authority to take appropriate action(s) and shall promptly report the conclusions of such
+234 investigations to the administrator of the coordinated licensure information system. The
+235 administrator of the coordinated licensure information system shall promptly notify the new
+236 home state of any such actions.
+237 (4) Issue subpoenas for both hearings and investigations that require the
+238 attendance and testimony of witnesses, as well as, the production of evidence. Subpoenas issued
+239 by a licensing board in a party state for the attendance and testimony of witnesses or the
+240 production of evidence from another party state shall be enforced in the latter state by any court
+241 of competent jurisdiction, according to the practice and procedure of that court applicable to
+242 subpoenas issued in proceedings pending before it. The issuing authority shall pay any witness
+10
+
+243 fees, travel expenses, mileage and other fees required by the service statutes of the state in which
+244 the witnesses or evidence are located.
+245 (5) Obtain and submit, for each nurse licensure applicant, fingerprint or other
+246 biometric-based information to the Federal Bureau of Investigation for criminal background
+247 checks, receive the results of the Federal Bureau of Investigation record search on criminal
+248 background checks and use the results in making licensure decisions.
+249 (6) If otherwise permitted by state law, recover from the affected nurse the costs
+250 of investigations and disposition of cases resulting from any adverse action taken against that
+251 nurse.
+252 (7) Take adverse action based on the factual findings of the remote state, provided
+253 that the licensing board follows its own procedures for taking such adverse action.
+254 (b) If adverse action is taken by the home state against a nurse’s multistate license, the
+255 nurse’s multistate licensure privilege to practice in all other party states shall be deactivated until
+256 all encumbrances have been removed from the multistate license. All home state disciplinary
+257 orders that impose adverse action against a nurse’s multistate license shall include a statement
+258 that the nurse’s multistate licensure privilege is deactivated in all party states during the
+259 pendency of the order.
+260 (c) Nothing in this Compact shall override a party state’s decision that participation in an
+261 alternative program may be used in lieu of adverse action. The home state licensing board shall
+262 deactivate the multistate licensure privilege under the multistate license of any nurse for the
+263 duration of the nurse’s participation in an alternative program.
+264 “Sec. 6. Coordinated licensure information system and exchange of information.
+11
+
+265 (a) All party states shall participate in a coordinated licensure information system of all
+266 licensed registered nurses (RNs) and licensed practical/vocational nurses (LPNs/VNs). This
+267 system will include information on the licensure and disciplinary history of each nurse, as
+268 submitted by party states, to assist in the coordination of nurse licensure and enforcement efforts.
+269 (b) The Commission, in consultation with the administrator of the coordinated licensure
+270 information system, shall formulate necessary and proper procedures for the identification,
+271 collection and exchange of information under this Compact.
+272 (c) All licensing boards shall promptly report to the coordinated licensure information
+273 system any adverse action, any current significant investigative information, denials of
+274 applications (with the reasons for such denials) and nurse participation in alternative programs
+275 known to the licensing board regardless of whether such participation is deemed nonpublic or
+276 confidential under state law.
+277 (d) Current significant investigative information and participation in nonpublic or
+278 confidential alternative programs shall be transmitted through the coordinated licensure
+279 information system only to party state licensing boards.
+280 (e) Notwithstanding any other provision of law, all party state licensing boards
+281 contributing information to the coordinated licensure information system may designate
+282 information that may not be shared with non-party states or disclosed to other entities or
+283 individuals without the express permission of the contributing state.
+284 (f) Any personally identifiable information obtained from the coordinated licensure
+285 information system by a party state licensing board shall not be shared with non-party states or
+286 disclosed to other entities or individuals except to the extent permitted by the laws of the party
+287 state contributing the information.
+12
+
+288 (g) Any information contributed to the coordinated licensure information system that is
+289 subsequently required to be expunged by the laws of the party state contributing that information
+290 shall also be expunged from the coordinated licensure information system.
+291 (h) The Compact administrator of each party state shall furnish a uniform data set to the
+292 Compact administrator of each other party state, which shall include, at a minimum:
+293 (1) Identifying information;
+294 (2) Licensure data;
+295 (3) Information related to alternative program participation; and
+296 (4) Other information that may facilitate the administration of this Compact, as
+297 determined by Commission rules.
+298 (i) The Compact administrator of a party state shall provide all investigative documents
+299 and information requested by another party state.
+300 “Sec. 7. Establishment of the interstate commission of nurse licensure compact
+301 administrators.
+302 (a) The party states hereby create and establish a joint public entity known as the
+303 Interstate Commission of Nurse Licensure Compact Administrators:
+304 (1) The Commission is an instrumentality of the party states.
+305 (2) Venue is proper and judicial proceedings by or against the Commission shall
+306 be brought solely and exclusively in a court of competent jurisdiction where the principal office
+307 of the Commission is located. The Commission may waive venue and jurisdictional defenses to
+308 the extent it adopts or consents to participate in alternative dispute resolution proceedings.
+309 (3) Nothing in this Compact shall be construed to be a waiver of sovereign
+310 immunity.
+13
+
+311 (b) Membership, Voting and Meetings
+312 (1) Each party state shall have and be limited to one administrator. The head of
+313 the state licensing board or designee shall be the administrator of this Compact for each party
+314 state. Any administrator may be removed or suspended from office as provided by the law of the
+315 state from which the Administrator is appointed. Any vacancy occurring in the Commission shall
+316 be filled in accordance with the laws of the party state in which the vacancy exists.
+317 (2) Each administrator shall be entitled to one (1) vote with regard to the
+318 promulgation of rules and creation of bylaws and shall otherwise have an opportunity to
+319 participate in the business and affairs of the Commission. An administrator shall vote in person
+320 or by such other means as provided in the bylaws. The bylaws may provide for an
+321 administrator’s participation in meetings by telephone or other means of communication.
+322 (3) The Commission shall meet at least once during each calendar year.
+323 Additional meetings shall be held as set forth in the bylaws or rules of the commission.
+324 (4) All meetings shall be open to the public, and public notice of meetings shall be
+325 given in the same manner as required under the rulemaking provisions in Section 8.
+326 (5) The Commission may convene in a closed, nonpublic meeting if the
+327 Commission must discuss:
+328 (A) Noncompliance of a party state with its obligations under the
+329 Compact;
+330 (B) The employment, compensation, discipline or other personnel matters,
+331 practices or procedures related to specific employees or other matters related to the
+332 Commission’s internal personnel practices and procedures;
+333 (C) Current, threatened or reasonably anticipated litigation;
+14
+
+334 (D) Negotiation of contracts for the purchase or sale of goods, services or
+335 real estate;
+336 (E) Accusing any person of a crime or formally censuring any person;
+337 (F) Disclosure of trade secrets or commercial or financial information that
+338 is privileged or confidential;
+339 (G) Disclosure of information of a personal nature where disclosure would
+340 constitute a clearly unwarranted invasion of personal privacy;
+341 (H) Disclosure of investigatory records compiled for law enforcement
+342 purposes;
+343 (I) Disclosure of information related to any reports prepared by or on
+344 behalf of the Commission for the purpose of investigation of compliance with this Compact; or
+345 (J) Matters specifically exempted from disclosure by federal or state
+346 statute.
+347 (6) If a meeting, or portion of a meeting, is closed pursuant to this provision, the
+348 Commission’s legal counsel or designee shall certify that the meeting may be closed and shall
+349 reference each relevant exempting provision. The Commission shall keep minutes that fully and
+350 clearly describe all matters discussed in a meeting and shall provide a full and accurate summary
+351 of actions taken, and the reasons therefor, including a description of the views expressed. All
+352 documents considered in connection with an action shall be identified in such minutes. All
+353 minutes and documents of a closed meeting shall remain under seal, subject to release by a
+354 majority vote of the Commission or order of a court of competent jurisdiction.
+15
+
+355 (c) The Commission shall, by a majority vote of the administrators, prescribe bylaws or
+356 rules to govern its conduct as may be necessary or appropriate to carry out the purposes and
+357 exercise the powers of this Compact, including but not limited to:
+358 (1) Establishing the fiscal year of the Commission;
+359 (2) Providing reasonable standards and procedures:
+360 (A) For the establishment and meetings of other committees; and
+361 (B) Governing any general or specific delegation of any authority or
+362 function of the Commission;
+363 (3) Providing reasonable procedures for calling and conducting meetings of the
+364 Commission, ensuring reasonable advance notice of all meetings and providing an opportunity
+365 for attendance of such meetings by interested parties, with enumerated exceptions designed to
+366 protect the public’s interest, the privacy of individuals, and proprietary information, including
+367 trade secrets. The Commission may meet in closed session only after a majority of the
+368 administrators vote to close a meeting in whole or in part. As soon as practicable, the
+369 Commission must make public a copy of the vote to close the meeting revealing the vote of each
+370 administrator, with no proxy votes allowed;
+371 (4) Establishing the titles, duties and authority and reasonable procedures for the
+372 election of the officers of the Commission;
+373 (5) Providing reasonable standards and procedures for the establishment of the
+374 personnel policies and programs of the Commission. Notwithstanding any civil service or other
+375 similar laws of any party state, the bylaws shall exclusively govern the personnel policies and
+376 programs of the Commission; and
+16
+
+377 (6) Providing a mechanism for winding up the operations of the Commission and
+378 the equitable disposition of any surplus funds that may exist after the termination of this
+379 Compact after the payment or reserving of all of its debts and obligations;
+380 (d) The Commission shall publish its bylaws and rules, and any amendments thereto, in a
+381 convenient form on the website of the Commission.
+382 (e) The Commission shall maintain its financial records in accordance with the bylaws.
+383 (f) The Commission shall meet and take such actions as are consistent with the provisions
+384 of this Compact and the bylaws.
+385 (g) The Commission shall have the following powers:
+386 (1) To promulgate uniform rules to facilitate and coordinate implementation and
+387 administration of this Compact. The rules shall have the force and effect of law and shall be
+388 binding in all party states;
+389 (2) To bring and prosecute legal proceedings or actions in the name of the
+390 Commission, provided that the standing of any licensing board to sue or be sued under applicable
+391 law shall not be affected;
+392 (3) To purchase and maintain insurance and bonds;
+393 (4) To borrow, accept or contract for services of personnel, including, but not
+394 limited to, employees of a party state or nonprofit organizations;
+395 (5) To cooperate with other organizations that administer state compacts related to
+396 the regulation of nursing, including but not limited to sharing administrative or staff expenses,
+397 office space or other resources;
+398 (6) To hire employees, elect or appoint officers, fix compensation, define duties,
+399 grant such individuals appropriate authority to carry out the purposes of this Compact, and to
+17
+
+400 establish the Commission’s personnel policies and programs relating to conflicts of interest,
+401 qualifications of personnel and other related personnel matters;
+402 (7) To accept any and all appropriate donations, grants and gifts of money,
+403 equipment, supplies, materials and services, and to receive, utilize and dispose of the same;
+404 provided that at all times the Commission shall avoid any appearance of impropriety or conflict
+405 of interest;
+406 (8) To lease, purchase, accept appropriate gifts or donations of, or otherwise to
+407 own, hold, improve or use, any property, whether real, personal or mixed; provided that at all
+408 times the Commission shall avoid any appearance of impropriety;
+409 (9) To sell, convey, mortgage, pledge, lease, exchange, abandon or otherwise
+410 dispose of any property, whether real, personal or mixed;
+411 (10) To establish a budget and make expenditures;
+412 (11) To borrow money;
+413 (12) To appoint committees, including advisory committees comprised of
+414 administrators, state nursing regulators, state legislators or their representatives, and consumer
+415 representatives, and other such interested persons;
+416 (13) To provide and receive information from, and to cooperate with, law
+417 enforcement agencies;
+418 (14) To adopt and use an official seal; and
+419 (15) To perform such other functions as may be necessary or appropriate to
+420 achieve the purposes of this Compact consistent with the state regulation of nurse licensure and
+421 practice.
+422 (h) Financing of the Commission:
+18
+
+423 (1) The Commission shall pay, or provide for the payment of, the reasonable
+424 expenses of its establishment, organization and ongoing activities.
+425 (2) The Commission may also levy on and collect an annual assessment from
+426 each party state to cover the cost of its operations, activities and staff in its annual budget as
+427 approved each year. The aggregate annual assessment amount, if any, shall be allocated based
+428 upon a formula to be determined by the Commission, which shall promulgate a rule that is
+429 binding upon all party states.
+430 (3) The Commission shall not incur obligations of any kind prior to securing the
+431 funds adequate to meet the same; nor shall the Commission pledge the credit of any of the party
+432 states, except by, and with the authority of, such party state.
+433 (4) The Commission shall keep accurate accounts of all receipts and
+434 disbursements. The receipts and disbursements of the Commission shall be subject to the audit
+435 and accounting procedures established under its bylaws. However, all receipts and disbursements
+436 of funds handled by the Commission shall be audited yearly by a certified or licensed public
+437 accountant, and the report of the audit shall be included in and become part of the annual report
+438 of the Commission.
+439 (i) Qualified Immunity, Defense and Indemnification:
+440 (1) The administrators, officers, executive director, employees and representatives
+441 of the Commission shall be immune from suit and liability, either personally or in their official
+442 capacity, for any claim for damage to or loss of property or personal injury or other civil liability
+443 caused by or arising out of any actual or alleged act, error or omission that occurred, or that the
+444 person against whom the claim is made had a reasonable basis for believing occurred, within the
+445 scope of Commission employment, duties or responsibilities; provided that nothing in this
+19
+
+446 paragraph shall be construed to protect any such person from suit or liability for any damage,
+447 loss, injury or liability caused by the intentional, willful or wanton misconduct of that person.
+448 (2) The Commission shall defend any administrator, officer, executive director,
+449 employee or representative of the Commission in any civil action seeking to impose liability
+450 arising out of any actual or alleged act, error or omission that occurred within the scope of
+451 Commission employment, duties or responsibilities, or that the person against whom the claim is
+452 made had a reasonable basis for believing occurred within the scope of Commission
+453 employment, duties or responsibilities; provided that nothing herein shall be construed to
+454 prohibit that person from retaining his or her own counsel; and provided further that the actual or
+455 alleged act, error or omission did not result from that person’s intentional, willful or wanton
+456 misconduct.
+457 (3) The Commission shall indemnify and hold harmless any administrator, officer,
+458 executive director, employee or representative of the Commission for the amount of any
+459 settlement or judgment obtained against that person arising out of any actual or alleged act, error
+460 or omission that occurred within the scope of Commission employment, duties or
+461 responsibilities, or that such person had a reasonable basis for believing occurred within the
+462 scope of Commission employment, duties or responsibilities, provided that the actual or alleged
+463 act, error or omission did not result from the intentional, willful or wanton misconduct of that
+464 person.
+465 “Sec. 8. Commission rulemaking.
+466 (a) The Commission shall exercise its rulemaking powers pursuant to the criteria set forth
+467 in this Section and the rules adopted thereunder. Rules and amendments shall become binding as
+20
+
+468 of the date specified in each rule or amendment and shall have the same force and effect as
+469 provisions of this Compact.
+470 (b) Rules or amendments to the rules shall be adopted at a regular or special meeting of
+471 the Commission.
+472 (c) Prior to promulgation and adoption of a final rule or rules by the Commission, and at
+473 least sixty (60) days in advance of the meeting at which the rule will be considered and voted
+474 upon, the Commission shall file a notice of proposed rulemaking:
+475 (1) On the website of the Commission, and;
+476 (2) On the website of each licensing board or the publication in which each state
+477 would otherwise publish proposed rules.
+478 (d) The notice of proposed rulemaking shall include:
+479 (1) The proposed time, date and location of the meeting in which the rule will be
+480 considered and voted upon;
+481 (2) The text of the proposed rule or amendment, and the reason for the proposed
+482 rule;
+483 (3) A request for comments on the proposed rule from any interested person; and
+484 (4) The manner in which interested persons may submit notice to the Commission
+485 of their intention to attend the public hearing and any written comments.
+486 (e) Prior to adoption of a proposed rule, the Commission shall allow persons to submit
+487 written data, facts, opinions and arguments, which shall be made available to the public.
+488 (f) The Commission shall grant an opportunity for a public hearing before it adopts a rule
+489 or amendment.
+21
+
+490 (g) The Commission shall publish the place, time and date of the scheduled public
+491 hearing.
+492 (1) Hearings shall be conducted in a manner providing each person who wishes to
+493 comment a fair and reasonable opportunity to comment orally or in writing. All hearings will be
+494 recorded, and a copy will be made available upon request.
+495 (2) Nothing in this section shall be construed as requiring a separate hearing on
+496 each rule. Rules may be grouped for the convenience of the Commission at hearings required by
+497 this section.
+498 (h) If no one appears at the public hearing, the Commission may proceed with
+499 promulgation of the proposed rule.
+500 (i) Following the scheduled hearing date, or by the close of business on the scheduled
+501 hearing date if the hearing was not held, the Commission shall consider all written and oral
+502 comments received.
+503 (j) The Commission shall, by majority vote of all administrators, take final action on the
+504 proposed rule and shall determine the effective date of the rule, if any, based on the rulemaking
+505 record and the full text of the rule.
+506 (k) Upon determination that an emergency exists, the Commission may consider and
+507 adopt an emergency rule without prior notice, opportunity for comment or hearing, provided that
+508 the usual rulemaking procedures provided in this Compact and in this section shall be
+509 retroactively applied to the rule as soon as reasonably possible, in no event later than ninety (90)
+510 days after the effective date of the rule. For the purposes of this provision, an emergency rule is
+511 one that must be adopted immediately in order to:
+512 (A) Meet an imminent threat to public health, safety or welfare;
+22
+
+513 (B) Prevent a loss of Commission or party state funds; or
+514 (C) Meet a deadline for the promulgation of an administrative rule that is
+515 required by federal law or rule.
+516 (l) The Commission may direct revisions to a previously adopted rule or amendment for
+517 purposes of correcting typographical errors, errors in format, errors in consistency or
+518 grammatical errors. Public notice of any revisions shall be posted on the website of the
+519 Commission. The revision shall be subject to challenge by any person for a period of thirty (30)
+520 days after posting. The revision may be challenged only on grounds that the revision results in a
+521 material change to a rule. A challenge shall be made in writing, and delivered to the
+522 Commission, prior to the end of the notice period. If no challenge is made, the revision will take
+523 effect without further action. If the revision is challenged, the revision may not take effect
+524 without the approval of the Commission.
+525 “Sec. 9. Oversight, dispute resolution, and enforcement.
+526 (a) Oversight:
+527 (1) Each party state shall enforce this Compact and take all actions necessary and
+528 appropriate to effectuate this Compact’s purposes and intent.
+529 (2) The Commission shall be entitled to receive service of process in any
+530 proceeding that may affect the powers, responsibilities or actions of the Commission, and shall
+531 have standing to intervene in such a proceeding for all purposes. Failure to provide service of
+532 process in such proceeding to the Commission shall render a judgment or order void as to the
+533 Commission, this Compact or promulgated rules.
+534 (b) Default, technical assistance and termination
+23
+
+535 (1) If the Commission determines that a party state has defaulted in the
+536 performance of its obligations or responsibilities under this Compact or the promulgated rules,
+537 the Commission shall:
+538 (A) Provide written notice to the defaulting state and other party states of
+539 the nature of the default, the proposed means of curing the default, or any other action to be
+540 taken by the Commission; and
+541 (B) Provide remedial training and specific technical assistance regarding
+542 the default.
+543 (2) If a state in default fails to cure the default, the defaulting state’s membership
+544 in this Compact may be terminated upon an affirmative vote of a majority of the administrators,
+545 and all rights, privileges, and benefits conferred by this Compact may be terminated on the
+546 effective date of termination. A cure of the default does not relieve the offending state of
+547 obligations or liabilities incurred during the period of default.
+548 (3) Termination of membership in this Compact shall be imposed only after all
+549 other means of securing compliance have been exhausted. Notice of intent to suspend or
+550 terminate shall be given by the Commission to the governor of the defaulting state and to the
+551 executive officer of the defaulting state’s licensing board and each of the party states.
+552 (4) A state whose membership in this Compact has been terminated is responsible
+553 for all assessments, obligations and liabilities incurred through the effective date of termination,
+554 including obligations that extend beyond the effective date of termination.
+555 (5) The Commission shall not bear any costs related to a state that is found to be
+556 in default or whose membership in this Compact has been terminated unless agreed upon in
+557 writing between the Commission and the defaulting state.
+24
+
+558 (6) The defaulting state may appeal the action of the Commission by petitioning
+559 the U.S. District Court for the District of Columbia or the federal district in which the
+560 Commission has its principal offices. The prevailing party shall be awarded all costs of such
+561 litigation, including reasonable attorneys’ fees.
+562 (c) Dispute resolution:
+563 (1) Upon request by a party state, the Commission shall attempt to resolve
+564 disputes related to the Compact that arise among party states and between party and non-party
+565 states.
+566 (2) The Commission shall promulgate a rule providing for both mediation and
+567 binding dispute resolution for disputes, as appropriate.
+568 (3) In the event the Commission cannot resolve disputes among party states
+569 arising under this Compact:
+570 (A) The party states may submit the issues in dispute to an arbitration
+571 panel, which will be comprised of individuals appointed by the Compact administrator in each of
+572 the affected party states and an individual mutually agreed upon by the Compact administrators
+573 of all the party states involved in the dispute.
+574 (B) The decision of a majority of the arbitrators shall be final and binding.
+575 (d) Enforcement:
+576 (1) The Commission, in the reasonable exercise of its discretion, shall enforce the
+577 provisions and rules of this Compact.
+578 (2) By majority vote, the Commission may initiate legal action in the U.S. District
+579 Court for the District of Columbia or the federal district in which the Commission has its
+580 principal offices against a party state that is in default to enforce compliance with the provisions
+25
+
+581 of this Compact and its promulgated rules and bylaws. The relief sought may include both
+582 injunctive relief and damages. In the event judicial enforcement is necessary, the prevailing party
+583 shall be awarded all costs of such litigation, including reasonable attorneys’ fees.
+584
+585 (3) The remedies herein shall not be the exclusive remedies of the Commission.
+586 The Commission may pursue any other remedies available under federal or state law.
+587 “Sec. 10. Compact effective date, withdrawal, and amendment.
+588 (a) This Compact shall become effective and binding on the earlier of the date of
+589 legislative enactment of this Compact into law by no less than twenty-six (26) states or
+590 December 31, 2018. All party states to this Compact, that also were parties to the prior Nurse
+591 Licensure Compact, superseded by this Compact, (“Prior Compact”), shall be deemed to have
+592 withdrawn from said Prior Compact within six (6) months after the effective date of this
+593 Compact.
+594 (b) Each party state to this Compact shall continue to recognize a nurse’s multistate
+595 licensure privilege to practice in that party state issued under the Prior Compact until such party
+596 state has withdrawn from the Prior Compact.
+597 (c) Any party state may withdraw from this Compact by enacting a statute repealing the
+598 same. A party state’s withdrawal shall not take effect until six (6) months after enactment of the
+599 repealing statute.
+600 (d) A party state’s withdrawal or termination shall not affect the continuing requirement
+601 of the withdrawing or terminated state’s licensing board to report adverse actions and significant
+602 investigations occurring prior to the effective date of such withdrawal or termination.
+26
+
+603 (e) Nothing contained in this Compact shall be construed to invalidate or prevent any
+604 nurse licensure agreement or other cooperative arrangement between a party state and a non-
+605 party state that is made in accordance with the other provisions of this Compact.
+606 (f) This Compact may be amended by the party states. No amendment to this Compact
+607 shall become effective and binding upon the party states unless and until it is enacted into the
+608 laws of all party states.
+609 (g) Representatives of non-party states Compact shall be invited to participate in the
+610 activities of the Commission, on a nonvoting basis, prior to the adoption of this Compact by all
+611 states.
+612 “Sec. 11. Compact construction and severability
+613 (a) This Compact shall be liberally construed so as to effectuate the purposes thereof. The
+614 provisions of this Compact shall be severable, and if any phrase, clause, sentence or provision of
+615 this Compact is declared to be contrary to the constitution of any party state or of the United
+616 States, or if the applicability thereof to any government, agency, person or circumstance is held
+617 invalid, the validity of the remainder of this Compact and the applicability thereof to any
+618 government, agency, person or circumstance shall not be affected thereby. If this Compact shall
+619 be held to be contrary to the constitution of any party state, this Compact shall remain in full
+620 force and effect as to the remaining party states and in full force and effect as to the party state
+621 affected as to all severable matters.”
+622 Sec. 3. The Mayor is authorized to appoint, with the advice and consent of the Council
+623 pursuant to section 2(f) of the Confirmation Act of 1978, effective March 3, 1979, (D.C. Law 2-
+624 142; D.C. Official Code § 1-523.01(f)), one administrator to the Interstate Commission of Nurse
+625 Licensure Compact Administrators, pursuant to section 7(b)(1) of the Nurse Licensure Compact
+27
+
+626 (“Compact”), enacted and entered into pursuant to section 2, and one alternate administrator,
+627 who may exercise voting authority in the absence of one of the District’s Administrator, pursuant
+628 to section 7(b)(1) of the Compact.
+629 Sec. 4. Pursuant to the requirements of D.C. Official Code §§ 47-105 and 47-355.01 to
+630 355.08, nothing in the Compact creates an obligation of the District in anticipation of an
+631 appropriation for such purpose, and the District’s legal liability for the payment of any amount
+632 under the Compact does not and may not arise or obtain in advance of the lawful availability of
+633 appropriated funds for the applicable fiscal year.
+634 Sec. 5 A multistate license to practice as an RN, LPN, or VN issued pursuant to the
+635 Compact is an option for licensure in addition to a traditional license to practice as an RN, LPN,
+636 or VN issued pursuant to Title V of the Health Occupations Revision Act of 1985, effective
+637 January 18, 1986, (D.C. Law 6-99; D.C Official Code § 3-1205.01 et seq.). The Board of
+638 Nursing may charge a fee in excess of the traditional license fee for issuance of a multistate
+639 license. The Board of Nursing shall not pass along to a traditional license applicant or holder any
+640 costs associated with entering into or administering the Compact.
+641 Sec. 6 Employer reporting and information requirements.
+642 (a) A person or governmental entity that employs, or contracts directly or through another
+643 person or governmental entity for the provision of services by a nurse holding a multistate
+644 license to practice as an RN, LPN, or VN issued pursuant to the Compact shall:
+645 (1) Report to the Board of Nursing the number of nurses holding multistate
+646 licenses who are employed by, or providing services for, the person or governmental entity;
+647 (2) Provide each nurse holding a multistate license a copy of Board-developed
+648 information concerning laws and rules specific to the practice of nursing in the District;
+28
+
+649 (b) The Board of Nursing shall develop information concerning laws and rules specific to
+650 the practice of nursing in the District and make that information available on its internet web site
+651 (c) The Board of Nursing may adopt rules in accordance with this section.
+652 Sec. 7 Nothing in the Compact shall be construed to limit, alter, or modify the following:
+653 (1) Any of the terms, conditions, or provisions of a collective bargaining
+654 agreement entered into by a hospital;
+655 (2) The authority of the Board of Nursing to determine whether:
+656 (A) An applicant for a traditional license to practice as a registered nurse
+657 or as a licensed practical nurse issued pursuant to sections 503 through 506 of the Health
+658 Occupations Revision Act of 1985, effective January 18, 1986, (D.C. Law 6-99; D.C Official
+659 Code § 3-1205.03 through 1205.06) meets the educational requirements therein;
+660 (B) A registered nurse or licensed practical nurse holding a license to
+661 practice issued pursuant to Title V of the Health Occupations Revision Act of 1985, effective
+662 January 18, 1986, (D.C. Law 6-99; D.C Official Code § 3-1205 et seq.) has:
+663 (i) Completed the continuing education required for renewal as
+664 described in section 510 of the Health Occupations Revision Act of 1985, effective January 18,
+665 1986, (D.C. Law 6-99; D.C Official Code § 3-1205.10); or
+666 (ii) Engaged in activities that exceed the practice of nursing as a
+667 registered nurse or as a licensed practical nurse.
+668 Sec. 8. Fiscal impact statement.
+669 The Council adopts the fiscal impact statement in the committee report as the fiscal
+670 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+671 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+29
+
+672 Sec. 9. Effective date.
+673 This act shall take effect following approval by the Mayor (or in the event of veto by the
+674 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+675 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+676 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+677 Columbia Register.
+30

@@ -1,0 +1,141 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+OFFICE OF COUNCILMEMBER BROOKE PINTO
+THE JOHN A. WILSON BUILDING
+1350 PENNSYLVANIA AVENUE, N.W., SUITE 106
+WASHINGTON, D.C. 20004
+November 17, 2025
+Nyasha Howard, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, N.W.
+Washington, DC 20004
+Dear Secretary Howard,
+Today, I am introducing the “Job Growth Incentive Amendment Act of 2025.” Please find enclosed a signed
+copy of the legislation.
+Following thousands of federal government and contractor layoffs, there is a critical need to diversify the
+District’s economy and encourage businesses to expand and hire DC employees. The Job Growth Incentive
+Amendment Act of 2025 allows businesses to apply for a tax credit if, between 2027 and 2032, they create
+at least 25 new jobs for District residents.1 The bill requires that the positions be paid at least the average
+yearly wage in DC. Businesses must retain the new positions for at least one year, but if the positions are
+sustained for a longer period, the credit is available for up to ten years. The credit is only available for
+projects that would not otherwise occur but for the job growth tax credit.
+By providing this incentive, the District will support both current business owners and businesses that
+relocate to DC to create new jobs and employ city residents.
+Should you have any questions about this legislation, please contact my Policy Advisor, Ella Hanson, at
+ehanson@dccouncil.gov.
+Thank you,
+Brooke Pinto
+Councilmember, Ward 2
+Chairwoman, Committee on the Judiciary and Public Safety
+Council of the District of Columbia
+1 This bill builds upon the previously approved Job Growth Incentive Act of 2010, which allowed businesses to apply
+for a tax credit if they hired at least 10 new employees who were District residents. Businesses were only eligible if
+they applied for the credit between 2010 and 2015. Job Growth Incentive Act of 2010, effective July 27, 2010 (D.C.
+Law 18-202), available here.
+
+__________________________
+Councilmember Brooke Pinto
+A BILL
+__________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+_________________
+1 To amend Title 47 of the District of Columbia Official Code to extend the range of dates during
+2 which a taxpayer may be eligible for the job growth tax credit to include tax years
+3 beginning on or after January 1, 2027, but prior to January 1, 2032, and to allow job
+4 growth tax credits equal to up to 100% of the taxpayer's total estimated FICA taxes each
+5 year for all new employees of the qualifying project who are residents of the District of
+6 Columbia; and to amend the Job Growth Incentive Act of 2010 to extend the applicability
+7 date.
+8
+9 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+10 act may be cited as the “Job Growth Incentive Amendment Act of 2025”.
+11 Sec. 2. Title 47 of the District of Columbia Code is amended as follows:
+12 (a) Section 47-1807.51(2) is amended to read as follows:
+13 “(2) "Credit period” means a period of up to 60 consecutive months for which a taxpayer
+14 may claim the job growth tax credit that is calculated annually by the Mayor. The credit period
+15 shall not extend past December 31, 2020, for credits claimed between January 1, 2010, and
+16 January 1, 2015, and shall not extend past December 31, 2037, for credits claimed between
+17 January 1, 2027, and January 1, 2032.”.
+18 (b) Section 47-1807.52 is amended by striking the phrase “For tax years beginning on or
+1
+
+19 after January 1, 2010, but prior to January 1, 2015” and inserting the phrase “For tax years
+20 beginning on or after January 1, 2010, but prior to January 1, 2015, and for tax years beginning
+21 on or after January 1, 2027, but prior to January 1, 2032” in its place.
+22 (c) Section 47-1807.53(1) is amended to read as follows:
+23 “(1)(A) For job growth tax credits claimed by taxpayers between January 1, 2010, and
+24 January 1, 2015, bring a net job growth of at least 10 new jobs to the District of Columbia with
+25 an average yearly wage of at least 120% of the average yearly wage of residents of the District of
+26 Columbia;
+27 “(B) For job growth tax credits claimed by taxpayers between January 1, 2027,
+28 and January 1, 2032, bring a net job growth of at least 25 new jobs to the District of Columbia
+29 with an average yearly wage of at least 100% of the average yearly wage of residents of the
+30 District of Columbia;”.
+31 (c) Section 47-1807.54(b) is amended to read as follows:
+32 “(b)(1) For job growth tax credits claimed by taxpayers between January 1, 2010, and
+33 January 1, 2015, the job growth tax credit allowed shall be calculated by the Mayor as follows:
+34 “(A) For the maximum amount of the job growth tax credit available to
+35 the taxpayer for the credit period, the Mayor shall multiply the estimated net job growth for each
+36 of the years in the credit period by 50% of the taxpayer's total estimated FICA taxes each year
+37 for all new employees of the project who are residents of the District of Columbia.
+38 “(B) For the annual amount of the job growth tax credit allowed, the
+39 Mayor shall multiply the actual net job growth for that year by 50% of the taxpayer's FICA taxes
+40 for the new employees of the project who are residents of the District of Columbia; provided,
+41 that a job growth tax credit shall not be allowed, and a credit certificate shall be not be issued, in
+2
+
+42 an amount that exceeds the maximum amount of the approved job growth tax credits as
+43 calculated pursuant to sub-paragraph (A) of this subsection.
+44 “(C) If the amount of the credit allowed under paragraph (2) of this
+45 subsection exceeds the amount of franchise taxes otherwise due on the taxpayer's income in the
+46 tax year for which the job growth tax credit is being claimed, the unused amount of the job
+47 growth tax credit may be carried forward and used as a credit against subsequent years' franchise
+48 tax liability for a period not to exceed 10 years and shall be applied first to the earliest tax years
+49 possible. Any credit remaining after this period shall not be refunded or credited to the taxpayer.
+50 “(D) A taxpayer who uses a job growth tax credit that is subsequently
+51 disallowed shall be liable for the resulting tax deficiency, interest, and penalties as otherwise
+52 provided by law.
+53 “(2) For job growth tax credits claimed by taxpayers between January 1, 2027,
+54 and January 1, 2032, the job growth tax credit allowed shall be calculated by the Mayor as
+55 follows:
+56 “(A) For the maximum amount of the job growth tax credit available to
+57 the taxpayer for the credit period, the Mayor shall multiply the estimated net job growth for each
+58 of the years in the credit period by 100% of the taxpayer's total estimated FICA taxes each year
+59 for all new employees of the project who are residents of the District of Columbia.
+60 “(B) For the annual amount of the job growth tax credit allowed, the
+61 Mayor shall multiply the actual net job growth for that year by 100% of the taxpayer's FICA
+62 taxes for the new employees of the project who are residents of the District of Columbia;
+63 provided, that a job growth tax credit shall not be allowed, and a credit certificate shall be not be
+64 issued, in an amount that exceeds the maximum amount of the approved job growth tax credits
+3
+
+65 as calculated pursuant to sub-paragraph (A) of this subsection.
+66 “(C) If the amount of the credit allowed under paragraph (2) of this
+67 subsection exceeds the amount of franchise taxes otherwise due on the taxpayer's income in the
+68 tax year for which the job growth tax credit is being claimed, the unused amount of the job
+69 growth tax credit may be carried forward and used as a credit against subsequent years' franchise
+70 tax liability for a period not to exceed 10 years and shall be applied first to the earliest tax years
+71 possible. Any credit remaining after this period shall not be refunded or credited to the taxpayer.
+72 “(D) A taxpayer who uses a job growth tax credit that is subsequently
+73 disallowed shall be liable for the resulting tax deficiency, interest, and penalties as otherwise
+74 provided by law.”.
+75 Sec. 3. Section 3 of the Job Growth Incentive Act of 2025, effective July 27, 2010 (D.C.
+76 Law 18-202; D.C. Official Code § 47-1807.09), is amended by s triking the phrase “January 1,
+77 2030” and inserting the phrase “January 1, 2043” it its place.
+78 Sec. 4. Fiscal impact statement.
+79 The Council adopts the fiscal impact statement in the committee report as the fiscal
+80 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+81 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+82 Sec. 5. Effective date.
+83 This act shall take effect following approval by the Mayor (or in the event of veto by the
+84 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+85 as provided in section 602(c)(l) of the District of Columbia Home Rule Act, approved December
+86 24, 1973 (87 Stat. 813; D.C. Official Code§ l-206.02(c)(l)).
+4
