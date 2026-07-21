@@ -1,0 +1,136 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3
+4 26-197
+5
+6
+7 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+8
+9 ___________
+10
+11
+12 To require, on a temporary basis, that providers of commercial or residential rental property
+13 offer and maintain any rent payment plan agreed upon between March 11, 2020, and
+14 July 25, 2022, with eligible tenants, and to maintain the minimum requirements for such
+15 a plan.
+16
+17 BE IT ENACTED BY THE COUNCIL DISTRICT OF COLUMBIA, That this act may
+18 be cited as the “Tenant Payment Plan Phasing Temporary Act of 2025”.
+19 Sec. 2 Tenant payment plans.
+20 (a) From March 11, 2020, through July 25, 2022 ("program period"), a provider shall
+21 offer a rent-payment-plan program ("program") for eligible tenants. Under its program, a
+22 provider shall:
+23 (1) Make a payment plan available to an eligible tenant for the payment of gross
+24 rent, contractual increases agreed to in a commercial lease's rent escalation tables, and any other
+25 amounts that come due under the lease during the program period and prior to the cessation of
+26 tenancy ("covered time period"), with a minimum term length of one year unless a shorter
+27 payment plan term length is requested by the eligible tenant;
+1
+
+ENGROSSED ORIGINAL
+28 (2) Waive any fee, interest, or penalty that arises out of an eligible tenant entering
+29 into a payment plan;
+30 (3) Not report to a credit reporting agency as delinquent the rent subject to the
+31 payment plan;
+32 (4) Provide that an eligible tenant does not lose any rights under the lease by
+33 entering into the payment plan; and
+34 (5) Notify all tenants of the availability, terms, and application process for its
+35 program.
+36 (b)(l) Tenants entering into a payment plan shall be required to make payments in equal
+37 monthly installments for the duration of the payment plan unless a different payment schedule is
+38 requested by the tenant.
+39 (2) A provider shall permit a tenant that has entered into a payment plan to pay an
+40 amount greater than the monthly amount provided for in the payment plan.
+41 (3) A provider shall not require or request a tenant to provide a lump-sum
+42 payment under a payment plan.
+43 (4) A provider shall agree in writing to the terms of a payment plan.
+44 (c) A provider shall utilize existing procedures or, if necessary, establish new procedures
+45 to provide a process by which an eligible tenant may apply for a payment plan, which may
+46 include requiring the tenant to submit supporting documentation. A provider shall permit an
+47 application for a payment plan to occur online or by telephone.
+2
+
+ENGROSSED ORIGINAL
+48 (d) A provider shall approve each application for a payment plan submitted during a
+49 covered time period in which an eligible tenant:
+50 (1) Demonstrates to the provider evidence of a financial hardship resulting
+51 directly or indirectly from the COVID-19 public health emergency, regardless of an existing
+52 delinquency or a future inability to make rental payments established prior to the start of the
+53 COVID-19 public health emergency; and
+54 (2) Agrees in writing to make payments in accordance with the payment plan.
+55 (e)(1) A provider who receives an application for a payment plan shall retain the
+56 application, whether approved or denied, for at least 3 years.
+57 (2) Upon request of the tenant, a provider shall make an application for a payment
+58 plan available to:
+59 (A) For residential tenants, the Rent Administrator and the Office of the
+60 Tenant Advocate; and
+61 (B) For commercial tenants, the Department of Licensing and Consumer
+62 Protection.
+63 (f)(1) A residential tenant whose application for a payment plan is denied may file a
+64 written complaint with the Rent Administrator. The Rent Administrator shall forward the
+65 complaint to the Office of Administrative Hearings for adjudication.
+66 (2) A commercial tenant whose application for a payment plan is denied may file
+67 a written complaint with the Department of Licensing and Consumer Protection.
+3
+
+ENGROSSED ORIGINAL
+68 (g) Tenant payment plans may not contain any waiver of the tenant's rights under the
+69 tenant's lease or District of Columbia law. A tenant entering into a tenant payment plan retains
+70 the right to contest the amount of rent due unless this is agreed to in writing by both parties.
+71 (h) During the program period, unless the provider has offered a rent payment plan
+72 pursuant to this section and approved a rent payment plan pursuant to subsection (d) of this
+73 section, that provider shall be prohibited from filing any collection lawsuit or eviction for
+74 nonpayment of rent; provided, that the tenant does not default on the terms of the payment plan.
+75 (i) For the purposes of this act, the term:
+76 (1) "COVID-19 public health emergency" means the emergencies declared in the
+77 Declaration of Public Emergency (Mayor's Order 2020-045) together with the Declaration of
+78 Public Health Emergency (Mayor's Order 2020-046), declared on March 11, 2020, including any
+79 extension of those declared emergencies.
+80 (2) “Eligible tenant” means a tenant that:
+81 (A) Has notified a provider of an inability to pay all or a portion of the rent
+82 due as a result of the COVID-19 public health emergency;
+83 (B) Is not a franchisee unless the franchise is owned by a District resident;
+84 and
+85 (C) Has leased from a provider:
+86 (i) A residential property;
+87 (ii) Commercial retail space; or
+4
+
+ENGROSSED ORIGINAL
+88 (iii) Commercial space that is less than 6,500 square feet in size
+89 and that comprises all or part of a commercial building.
+90 (3) ''Housing provider" means a person or entity who is a residential landlord,
+91 residential owner, residential lessor, residential sublessor, residential assignee, or the agent of
+92 any of the foregoing or any other person receiving or entitled to receive the rents or benefits for
+93 the use or occupancy of any residential rental unit within a housing accommodation within the
+94 District.
+95 (4) "Non-housing provider" means a person or entity who is a non-residential
+96 landlord, non-residential owner, non-residential lessor, non-residential sublessor, non-residential
+97 assignee, a non-residential agent of a landlord, owner, lessor, sublessor, or assignee, or any other
+98 person receiving or entitled to receive rents or benefits for the use or occupancy of a commercial
+99 unit.
+100 (5) "Provider" means a housing provider or a non-housing provider.
+101 Sec. 3. Fiscal impact statement.
+102 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+103 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+104 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+105 Sec. 4. Effective date.
+106 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+107 the Mayor, action by the Council to override the veto), a 30-day period of congressional review
+5
+
+ENGROSSED ORIGINAL
+108 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+109 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+110 Columbia Register.
+111 (b) This act shall expire after 225 days of its having taken effect.
+6

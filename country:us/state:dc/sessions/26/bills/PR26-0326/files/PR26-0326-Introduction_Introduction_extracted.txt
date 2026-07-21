@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 _____________________________
+2 Councilmember Robert C. White, Jr.
+3
+4
+5 A PROPOSED RESOLUTION
+6 __________
+7
+8 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+9 ____________________
+10
+11 To declare an emergency with respect to the need to amend, on an emergency basis, the District
+12 of Columbia Rental Housing Act of 1985 to clarify that any rental unit participating in
+13 the Low-Income Housing Tax Credit program is exempt from the Rent Stabilization
+14 Program.
+15
+16 RESOLVED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+17 resolution may be cited as the “LIHTC Rent Stabilization Exemption Clarification Emergency
+18 Declaration Resolution of 2025”.
+19 Sec. 2. (a) Low Income Housing Tax Credit (LIHTC) units in the District of Columbia
+20 have been exempt from rent stabilization since the inception of the District of Columbia Rental
+21 Housing Act of 1985 based on the exemption language: “[a]ny rental unit in any federally or
+22 District-owned housing accommodation or in any housing accommodation with respect to which
+23 the mortgage or rent is federally or District-subsidized.” D.C. Code § 42-3502.05(a)(1).
+24 (b)This exemption of LIHTC units from rent stabilization was overturned by Judge Julie
+25 H.Becker’s decision in Milestone v. Daniels, Case No. 2024-LTB-7847, based on the definition
+26 of direct vs indirect government subsidy.
+27 (c) Ninety-nine (99) buildings with more than 11,000 units are LIHTC assisted and would
+28 be subject to rent stabilization without this exemption. Without a large infusion of new capital,
+29 these properties will likely default on their financial commitments due to loss of rental income.
+30 (d)The LIHTC program has its own rent increase limitations, defined by the U.S.
+31 Department of Housing & Urban Development (HUD) as “rents can increase annually by 5% or
+
+32 two times the percentage change in national median income, whichever is higher.”1 Furthermore,
+33 HUD capped that increase at 10% in 2024. These limitations ensure that even if LIHTC units are
+34 exempt from the District’s rent stabilization laws, rents will be affordable and align with tenants’
+35 incomes.
+36 (e) Statute must be clarified to state that LIHTC units are exempt from further rent
+37 stabilization as defined in the District of Columbia Rental Housing Act of 1985 to ensure that
+38 LIHTC properties remain subject to the rent structures agreed to at financing. This clarification
+39 also aligns the Rental Housing Act of 1985 with the District of Columbia Housing Finance
+40 Agency Act which exempts HFA LIHTC units from rent control or stabilization.
+41 (f) LIHTC provides critical preservation funding for affordable housing in the District
+42 and attracts essential reinvestment capital for older housing stock in need of repairs.2 If the
+43 District does not act, LIHTC preservation properties will be at risk of defaulting on their
+44 financing, stymying the LIHTC investment market and slowing down affordable housing
+45 production.
+46 (g) Exempting LIHTC units from rent control or stabilization does not raise rents but
+47 preserves the rents and rent increases agreed to by tenants at the time they signed their leases.
+48 (h) Emergency legislation is necessary to ensure that LIHTC preservation properties
+49 avoid foreclosure, the LIHTC market remains strong, and tenants are able to remain in their
+50 homes.
+51 Sec. 3. The Council of the District of Columbia determines that the circumstances
+52 enumerated in section 2 constitute an emergency making it necessary that the LIHTC Rent
+1 National Low Income Housing Coalition, 2024 https://nlihc.org/resource/hud-caps-rent-increases-
+lihtc-financed-properties-10#:~:text=Share,their%20limited%20incomes%20on%20rent.
+2 NLIHC, Dan Emmanuel, The Preservation of Affordable Housing, 2022
+
+53 Stabilization Exemption Clarification Emergency Amendment Act of 2025 be adopted after a
+54 single reading.
+55 Sec. 4. This resolution shall take effect immediately.

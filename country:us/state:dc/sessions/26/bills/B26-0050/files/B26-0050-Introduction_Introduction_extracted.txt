@@ -1,0 +1,147 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2 Councilmember Kenyan McDuffie Chairman Phil Mendelson
+3
+4
+5
+6 Councilmember Janeese Lewis George
+7
+8
+9
+10 A BILL
+11
+12
+13 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+14
+15
+16 To amend the Homeless Services Reform Act of 2005 to reform the Rapid Re-Housing Program
+17 to ensure that individuals and families do not pay more than 30% of their income toward
+18 rent, to require the assessment of Rapid Re-Housing participants for the receipt of
+19 permanent housing vouchers, to make case management services for Rapid Re-Housing
+20 participants optional, and to establish eligibility and prioritization criteria for Targeted
+21 Affordable Housing vouchers.
+22
+23 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+24 act may be cited as the “Rapid Re-Housing Reform Amendment Act of 2025”.
+25 Sec. 2. The Homeless Services Reform Act of 2005, effective October 22, 2005 (D.C.
+26 Law 16-35; D.C. Official Code § 4–751.01 et seq.) is amended as follows:
+27 (a) The table of contents is amended by adding section designations for sections 32 and
+28 33 to read as follows:
+29 “Sec. 32. Rapid Re-housing Reform.
+30 “Sec. 33. Targeted Affordable Housing Eligibility and Prioritization.”.
+31 (b) Section 2 (D.C. Official Code § 4–751.01) is amended as follows:
+32 (1) Paragraph (27C) is amended by striking the phrase “Rapid Re-Housing and
+33 permanent supportive housing.” and inserting the phrase “permanent supportive housing and
+34 targeted affordable housing.” in its place.
+1
+
+35 (2) By adding a new paragraph (39A) to read as follows:
+36 “(39A) “Targeted affordable housing” means a program that provides rental assistance
+37 for an unrestricted period of time to assist individuals or families experiencing homelessness, or
+38 at-risk of experiencing homelessness, in obtaining and maintaining permanent housing.”.
+39 (c) Section 6(b)(4) (D.C. Official Code § 4–753.01(b)(4)) is amended to read as follows:
+40 “(A) Rapid Re-Housing programs for the purpose of providing housing
+41 relocation and stabilization services and time-limited rental assistance to help a homeless
+42 individual or family move as quickly as possible into permanent housing and achieve stability in
+43 that housing; or
+44 “(B) Targeted affordable housing for the purposes of providing rental
+45 assistance for an unrestricted period of time to assist individuals or families experiencing
+46 homelessness, or at-risk of experiencing homelessness, to obtain and maintain permanent
+47 housing; or
+48 “(C) Permanent supportive housing for the purpose of providing eligible
+49 individuals and families experiencing chronic homelessness or at risk of experiencing chronic
+50 homelessness, with ongoing housing and supportive service.”.
+51 (d) A new section 32 is added to read as follows:
+52 “Sec. 32. Rapid Re-housing Reform.
+53 “(a) An individual or a head of a household shall pay no more than 30% of their income
+54 toward rent while participating in the Rapid Re-Housing Program.
+55 “(b)(1)(A) No later than 6 months after an individual or family is determined to be
+56 eligible for Rapid Re-Housing, the Mayor shall determine whether each individual or family is
+2
+
+57 eligible for a permanent rental subsidy, including permanent supportive housing and targeted
+58 affordable housing.
+59 “(B) The Department shall share a determination of eligibility with the
+60 individual or family within 5 business days of making a determination.
+61 “(2)(A) For individuals or families already participating in Rapid Re-Housing that
+62 the Department intends to exit from the program pursuant to § 4–754.36b, the Department shall
+63 determine the individual or family’s eligibility for permanent supportive housing or targeted
+64 affordable housing at least 3 months before the proposed exit date.
+65 “(B) The Department shall share a determination of eligibility with the
+66 individual or family within 5 business days of making a determination.
+67 “(3)(A) The Department shall provide individuals or families determined to be
+68 eligible for, or already participating in, Rapid Re-Housing with information on home ownership
+69 programs, including the Home Purchase Assistance Program.
+70 “(B) If an individual or family requests an application for a home
+71 ownership program, the Department shall refer the individual or family to an appropriate
+72 community-based organization within 5 business days
+73 “(3) If an individual or family entering into or participating in Rapid Re-Housing
+74 is determined to be eligible for permanent supportive housing or targeted affordable housing, the
+75 individual or family shall not be exited from Rapid Re-Housing until the family receives a
+76 voucher and is leased up with a housing provider who accepts the voucher; provided, that this
+77 shall not apply to an individual or family who has sufficient income to cover the cost of a rental
+78 unit they have secured in the District. For purposes of this paragraph, an individual or family
+3
+
+79 does not have sufficient income to cover the cost of a rental unit if more than 30% of the
+80 individual or head of households’ income would be used to pay rent.
+81 “(c) Case management for individuals or families determined to be eligible for or
+82 participating in Rapid Re-Housing shall be voluntary and available upon oral or written request;
+83 provided, that an individual or an individual in a family deemed to be eligible for or participating
+84 in Rapid Re-Housing who receives income through Temporary Assistance to Needy Families
+85 shall not receive case management through Rapid Re-Housing.
+86 (e) A new section 33 is added to read as follows:
+87 “Sec. 33. Targeted Affordable Housing Eligibility and Prioritization.
+88 “(a) Individuals or families who are homeless, at risk of homelessness, or participating in
+89 a Continuum of Care program shall be eligible for targeted affordable housing.
+90 “(b) Individuals or families determined to be eligible for targeted affordable housing shall
+91 be prioritized in the following order:
+92 “(1) Individuals or families who will be exited from the Rapid Re-Housing
+93 program and do not have sufficient income to cover the cost of a market rate rental unit of
+94 appropriate size for the individual or family.
+95 “(2)(A) Individuals or families in Rapid Re-Housing who are not eligible or
+96 prioritized for permanent supportive housing and do not have sufficient income to cover the cost
+97 of a rental unit of appropriate size for the participant or participant family.
+98 “(B) Individuals or families in this category should be prioritized based on
+99 the length of time that the participant has been in Rapid Re-Housing, with individuals or families
+100 who have been in the program longer selected first.
+4
+
+101 “(3) Emergency shelter residents who have previously participated in Rapid Re-
+102 housing but are not eligible or prioritized for permanent supportive housing and do not have
+103 sufficient income to cover the cost of a rental unit of appropriate size for the individual
+104 participant or participant family; and
+105 “(4) All other eligible applicants.
+106 “(c)(1) The Department shall accept applications for targeted affordable housing from
+107 any participant in a Continuum of Care program in the form of oral or written request for
+108 consideration.
+109 “(2) The Department shall document any written or oral requests for targeted
+110 affordable housing in the participant’s file.
+111 “(d) The Department shall provide timely written notice of eligibility pursuant to § 4-
+112 754.33.
+113 “(e) Individuals or families shall have the opportunity to appeal adverse action decisions
+114 pursuant to § 4-753.41 and § 4-753.42.
+115 “(f) For purposes of subsection (b) and (c) of this section, Continuum of Care
+116 participants, including emergency shelter residents and individuals and families in Rapid Re-
+117 Rehousing, do not have sufficient income to cover the cost of a rental unit if more than 30% of
+118 the individual or head of household’s income would be used to pay rent.”.
+119 Sec. 3. Fiscal impact statement.
+120 The Council adopts the fiscal impact statement in the committee report as the fiscal
+121 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+122 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+123 Sec. 4. Effective date.
+5
+
+124 This act shall take effect following approval by the Mayor (or in the event of veto by the
+125 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+126 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+127 24, 1973, (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+128 Columbia Register.
+6

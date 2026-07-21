@@ -1,0 +1,148 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-396
+4
+5 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+6
+7
+8
+9 To amend the District of Columbia Real Estate Deed Recordation Tax Act to authorize
+10 transferors or transferees of real property to petition for review of the fair market value
+11 used in calculating taxes imposed on the transfer of the property and to amend Title 47 of
+12 the District of Columbia Official Code to allow transferors or transferees of real property
+13 to appeal final determinations of a real property's fair market value to the Real Property
+14 Tax Appeals Commission for the District of Columbia or the Superior Court as
+15 appropriate under the law.
+16
+17 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+18 Act may be cited as the “Transfer and Recordation Tax Appeals Amendment Act of 2026”.
+19 Sec. 2. Section 304 of the District of Columbia Real Estate Deed Recordation Tax Act,
+20 approved March 2, 1962 (76 Stat. 12; D.C. Official Code § 42-1104), is amended
+21 by adding a new subsection (d) to read as follows:
+22 “(d)(1) The transferor or transferee of the real property or economic interest in real
+23 property may, pursuant to D.C. Official Code § 47-825.0la(d), file a petition for review of the
+24 determination of fair market value made under subsection (c) of this section or under section
+25 303(a). The notice of final determination issued by the Office of Tax and Revenue on the petition
+26 for review may be appealed to the Real Property Tax Appeals Commission for the District of
+27 Columbia as provided in D.C. Official Code § 47-825 .0la(e).
+1
+
+ENGROSSED ORIGINAL
+28 “(2) A transferor or transferee aggrieved by a fair market value determination
+29 under subsection (c) of this section or under section 303(a) may appeal the determination to the
+30 Superior Court as provided in D.C. Official Code § 47-825.01a(g).
+31 “(3) For the purposes of this subsection, the terms “transferor” and “transferee”
+32 shall have the same meaning as provided in D.C. Official Code § 47-901(10) and (11),
+33 respectively.”.
+34 Sec. 3. Title 47 of the District of Columbia Official Code is amended as follows:
+35 (a) Section 47-825.01a is amended as follows:
+36 (1) Subsection (c)(4) is amended as follows:
+37 (A) Subparagraph (A) is amended by striking the phrase “assessment and
+38 classification” and inserting the phrase “assessment and classification or, as appropriate, fair
+39 market value” in its place.
+40 (B) Subparagraph (B) is amended by striking the phrase “assessment and
+41 classification” and inserting the phrase “assessment and classification or, as appropriate, fair
+42 market value” in its place.
+43 (C) Subparagraph (C) is amended by striking the phrase “or both,” and
+44 inserting the phrase “or both, or fair market value,” in its place.
+45 (2) Subsection (d) is amended as follows:
+46 (A) A new paragraph (2A) is added to read as follows:
+2
+
+ENGROSSED ORIGINAL
+47 “(2A) With respect to an appeal of a determination of the fair market value of real
+48 property made pursuant to § 42-1103(a), 42-1104(c), or 47-903(a)(1)(B), the transferor or
+49 transferee may petition OTR for an administrative review of the fair market value determination
+50 within 45 days after the transfer tax associated with the fair market value determination is
+51 imposed.”.
+52 (B) Paragraph (3) is amended by striking the phrase “a proposed assessed
+53 value or classification” and inserting the phrase “a proposed assessed value, classification, or fair
+54 market value determination” in its place.
+55 (C) Paragraph (4) is amended by striking the phrase “the assessed value or
+56 classification of the real property for the tax year at issue” and inserting the phrase “the assessed
+57 value or classification of the real property for the tax year at issue or to the fair market value for
+58 the transfer at issue” in its place.
+59 (3) Subsection (e) is amended as follows:
+60 (A) Paragraph (1) is amended as follows:
+61 (i) Subparagraph (A) is amended by striking the phrase “notice of
+62 final determination on a petition for administrative review, the” and inserting the phrase “notice
+63 of final determination on a petition for administrative review regarding an assessed value or
+64 classification, the” in its place.
+65 (ii) A new subparagraph (C) is added to read as follows:
+3
+
+ENGROSSED ORIGINAL
+66 “(C) If a transferor or transferee is aggrieved by a notice of final
+67 determination regarding a fair market value determination, the transferor or transferee may file
+68 an appeal from the determination of fair market value within 45 days after the date of the notice
+69 of final determination. The transferor or transferee may supplement the original filing if new
+70 information has become available that was not available prior to the filing deadline by delivering
+71 a copy of the supplemental filing to the Commission and OTR no later than 20 days after the
+72 filing of the appeal.”.
+73 (B) Paragraph (4)(A) is amended by adding a new sub-subparagraph (ii-I)
+74 to read as follows:
+75 “(ii-I) A determination of fair market value;”
+76 (C) Paragraph (5) is amended as follows:
+77 (i) The existing text is designated as subparagraph (A).
+78 (ii) A new subparagraph (B) is added to read as follows:
+79 “(B) The Commission shall notify OTR of any decision on an appeal from
+80 a determination of fair market value at the same time that the Commission notifies the transferor
+81 or transferee.”.
+82 (D) Paragraph (6) is amended as follows:
+83 (i) Subparagraph (A) is amended by striking the sentence “OTR or
+84 an owner aggrieved by a proposed assessed value or classification may seek a rehearing before
+85 the Commission.” and inserting the sentence “OTR, an owner aggrieved by a proposed assessed
+4
+
+ENGROSSED ORIGINAL
+86 value or classification, or a transferor or transferee aggrieved by a determination of fair market
+87 value, may seek a rehearing before the Commission.” in its place.
+88 (ii) Subparagraph (B) is amended by striking the phrase “owner or
+89 OTR” and inserting the phrase “owner, transferor, transferee, or OTR” in its place.
+90 (iii) Subparagraph (D) is amended by striking the phrase “changes
+91 the proposed assessed value” and inserting the phrase “changes the proposed assessed value or
+92 determined fair market value” in its place.
+93 (4) Subsection (g) is amended by adding a new paragraph (3) to read as follows:
+94 “(3) A transferor or transferee aggrieved by a determination of fair market value may
+95 appeal the determination to the Superior Court of the District of Columbia in the same manner
+96 and to the same extent as provided in §§ 47-3303 and 47-3304 within 45 days after the final fair
+97 market value determination is issued by the Commission; provided, that the transfer tax or
+98 recordation tax associated with the determination of fair market value being appealed by the
+99 transferor or transferee shall first have been paid to the D.C. Treasurer together with any
+100 penalties and interest due thereon; provided further that the transferor or transferee shall have in
+101 good faith first appealed the determination to the Commission immediately preceding the appeal
+102 to the Superior Court of the District of Columbia.”.
+103 (b) Section 47-904 is amended as follows:
+104 (1) The existing text is designated as subsection (a).
+105 (2) A new subsection (b) is added to read as follows:
+5
+
+ENGROSSED ORIGINAL
+106 “(b)(1) The transferor or transferee of the real property, or interest therein, may, pursuant
+107 to § 47-825.01a(d), file a petition for review of the determination of fair market value under
+108 subsection (a) of this section. The notice of final determination issued by the Office of Tax and
+109 Revenue on the petition for review may be appealed to the Real Property Tax Appeals
+110 Commission for the District of Columbia as provided in § 47-825.01a(e).
+111 “(2) A transferor or transferee aggrieved by a fair market value determination
+112 under subsection (a) of this section may appeal the determination to the Superior Court as
+113 provided in § 47-825.01a(g).”.
+114 Sec. 4. Fiscal impact statement.
+115 The Council adopts the fiscal impact statement in the committee report as the fiscal
+116 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+117 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+118 Sec. 5. Effective date.
+119 This act shall take effect after approval by the Mayor (or in the event of veto by the
+120 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+121 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+122 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+123 Columbia Register.
+6

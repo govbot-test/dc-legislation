@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 _____________________________
+2 Councilmember Charles Allen
+3
+4 A BILL
+5
+6 ___________
+7
+8
+9 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+10
+11 ___________
+12
+13
+14 To amend, on an emergency basis, due to congressional review, the Autonomous Vehicle Act of
+15 2012 to prohibit driverless testing of autonomous vehicles (“AV”) on District roadways
+16 without an AV testing permit and to require any person or entity testing AVs with a test
+17 operator before an AV testing permit becomes available to provide notice to the District
+18 Department of Transportation.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the “Autonomous Vehicle Testing Permit Requirement Congressional
+22 Review Emergency Amendment Act of 2025”.
+23 Sec. 2. The Autonomous Vehicle Act of 2012, effective April 23, 2013 (D.C. Law 19-
+24 278; D.C. Official Code § 50-2351 et seq.), is amended as follows:
+25 (a) Section 3a(d) (D.C. Official Code § 50-2352.01(d)) is amended to read as follows:
+26 “(d) A person or entity shall not test or operate an autonomous vehicle on a District
+27 roadway without an AV testing permit, unless the Department has not yet made an AV testing
+28 permit application available and:
+29 “(1) There is a test operator physically present in the vehicle who is performing
+30 the dynamic driving task or is prepared to take over the dynamic driving task from the
+31 autonomous driving system;
+1
+
+32 “(2) The person or entity is in compliance with other local and federal laws and
+33 regulations; and
+34 “(3) The person or entity provides the Department with electronic notification at
+35 least 10 business days prior to commencing testing or operating in the District, including the
+36 following information with respect to operations in the District, the:
+37 “(A) Number of autonomous vehicles;
+38 “(B) Model, make, and type of autonomous vehicles;
+39 “(C) Operator training and license information;
+40 “(D) Geographic testing or operation locations; and
+41 “(E) Time period of testing or operation.”.
+42 (b) Section 3e (D.C. Official Code § 50-2352.05) is repealed.
+43 (c) Section 3f(a)(1) (D.C. Official Code § 50-2352.06(a)(1)) is amended by striking the
+44 phrase “An AV testing entity” and inserting the phrase “A person or entity” in its place.
+45 Sec. 3. Fiscal impact statement.
+46 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+47 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+48 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+49 Sec. 4. Effective date.
+50 This act shall take effect following approval by the Mayor (or in the event of veto by the
+51 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+52 90 days, as provided for emergency acts of the Council of the District of Columbia in
+2
+
+53 section 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87
+54 Stat. 788; D.C. Official Code § 1-204.12(a)).
+3

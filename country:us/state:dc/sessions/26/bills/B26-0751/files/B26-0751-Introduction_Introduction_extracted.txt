@@ -1,0 +1,184 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+July 9, 2026
+Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and adoption by the Council of the District of Columbia are the
+“Health and Human Service Programs and Benefits Eligibility and Delivery Data-Sharing
+Clarifications Amendment Act of 2026,” the “Health and Human Service Programs and Benefits
+Eligibility and Delivery Data-Sharing Clarifications Temporary Amendment Act of 2026,” the
+“Health and Human Service Programs and Benefits Eligibility and Delivery Data-Sharing
+Clarifications Emergency Amendment Act of 2026,” and the “Health and Human Service
+Programs and Benefits Eligibility and Delivery Data-Sharing Clarifications Emergency
+Declaration Resolution of 2026.”
+If enacted, the legislation would clarify the authorization to share certain data within the
+Department of Human Services (DHS) and between DHS and other District agencies providing
+health or human services to facilitate the determination of eligibility for federal and District
+health and human service programs and benefits, to enhance the coordination of such programs
+and benefits, and for other purposes. Most immediately, it would allow DHS to share client
+information between the DHS Family Services Administration and the DHS Economic Security
+Administration, pursuant to the requirements and procedures of the Data-Sharing and
+Information Coordination Amendment Act of 2010, to efficiently facilitate time limit exemption
+determinations for the District’s Supplemental Nutrition Assistance Program (SNAP) recipients.
+The District was unable to renew its SNAP Able-Bodied Adults Without Dependents (ABAWD)
+Waiver due to changes in federal law. This legislation will lessen the burden on SNAP ABAWD
+customers who must now comply with new screening requirements.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+
+~z~
+1
+2 Chairman Phil Mendelson
+3 at the request of the Mayor
+4
+5 A BILL
+6
+7
+8
+9 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+10
+11
+12
+13 To amend, on an emergency basis, the Homeless Services Reform Act of 2005 to clarify the
+14 authorization to share certain data within the Department of Human Services and between
+15 the Department of Human Services and other District agencies to facilitate the
+16 determination of eligibility for federal and District health and human service programs;
+17 and to amend the Data-Sharing and Information Coordination Amendment Act of 2010 to
+18 clarify the definition of the term "agency" and the intent of the grant of data system
+19 authority.
+20
+21 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+22 act may be cited as the "Health and Human Service Programs and Benefits Eligibility and Delivery
+23 Data-Sharing Clarifications Emergency Amendment Act of 2026".
+24 Sec. 2. The Homeless Services Reform Act of 2005, effective October 22, 2005 (D.C. Law
+25 16-35; D.C. Official Code§ 4-751.01 et seq.), is amended as follows:
+26 (a) Section 9(a)(7) (D.C. Official Code§ 4-754.l l(a)(7)) is amended by striking the phrase
+27 "consistent with the confidentiality requirements of District and federal law;" and inserting the
+28 phrase "consistent with the confidentiality requirements of District and federal law, subject to the
+29 authorized uses and mandatory disclosures of such records and information in accordance with
+30 Title I of the Data-Sharing and Information Coordination Amendment Act of 2010, effective
+31 December 4, 2010 (D.C. Law 18-273; D.C. Official Code§ 7-241 et seq.);" in its place.
+32 (b) Section 12(12) (D.C. Official Code§ 4-754.21(12)) is amended by striking the phrase
+33 "consistent with the confidentiality requirements of District and federal law;" and inserting the
+
+34 phrase “consistent with the confidentiality requirements of District and federal law, subject to the
+35 authorized uses and mandatory disclosures of such records and information in accordance with
+36 Title I of the Data-Sharing and Information Coordination Amendment Act of 2010, effective
+37 December 4, 2010 (D.C. Law 18-273; D.C. Official Code § 7-241 et seq.);” in its place.
+38 Sec. 3. The Data-Sharing and Information Coordination Amendment Act of 2010, effective
+39 December 4, 2010 (D.C. Law 18-273; D.C. Official Code § 7-241 et seq.), is amended as follows:
+40 (a) Section 101(1) (D.C. Official Code § 7-241(1)) is amended by striking the phrase “or
+41 instrumentality of the District of Columbia government” and inserting the phrase “authority, or
+42 instrumentality of the District of Columbia government, or any subdivision of such agency,
+43 department, unit, authority, or instrumentality” in its place.
+44 (b) Section 102(a) (D.C. Official Code § 7-242(a)) is amended by striking the phrase “In
+45 accordance with section 103 and without” and insert the word “Without” in its place.
+46 Sec. 4. Fiscal impact statement.
+47 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+48 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+49 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+50 Sec. 5. Effective date.
+51 This act shall take effect following approval by the Mayor (or in the event of veto by the
+52 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+53 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+54 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+55 D.C. Official Code § 1-204.12(a)).
+2
+
+56 This act shall take effect following approval by the Mayor (or in the event of veto by the
+57 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+58 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+59 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+60 D.C. Official Code § 1-204.12(a)).
+3
+
+Government of the District of Columbia
+Office of the Chief Financial Officer
+Glen Lee
+Chief Financial Officer
+MEMORANDUM
+TO: The Honorable Phil Mendelson
+Chairman, Council of the District of Columbia
+FROM: Glen Lee
+Chief Financial Officer
+DATE: July 8, 2026
+SUBJECT: Fiscal Impact Statement – Health and Human Service Programs and
+Benefits Eligibility and Delivery Data-Sharing Clarifications Emergency
+Amendment Act of 2026
+REFERENCE: Draft bill as provided to the Office of Revenue Analysis on July 1, 2026
+Conclusion
+Funds are sufficient in the proposed revised fiscal year 2026 budget and proposed fiscal year 2027
+through fiscal year 2030 budget and financial plan to implement the bill.
+Background
+Current law1 requires confidential treatment of the personal records of individuals and families
+served by the District’s Continuum of Care2, which is the comprehensive system of services for those
+who are homeless or at risk of homelessness and designed to serve clients based on their individual
+level of need. Examples include crisis intervention, outreach and assessment services, shelter,
+transitional housing, permanent housing programs, and supportive services. Personal, social, legal,
+financial, educational, and medical records related to a client or a client’s family are covered by the
+law’s confidentiality requirements.
+The subtitle authorizes disclosure of these records to other District departments or agencies in
+accordance with the Data-Sharing and Information Coordination Amendment Act of 20103. The
+purpose behind this authorization is to allow the Department of Human Services (DHS) to proactively
+assist Able-Bodied Adults Without Dependents (ABAWD) in determining if they are eligible for
+1 D.C. Official Code § 4-754.11(a)(7).
+2 D.C. Official Code § 4–751.01(8).
+3 D.C. Law 18-273; D.C. Official Code § 7-241 et seq.
+1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727-2476
+www.cfo.dc.gov
+
+The Honorable Phil Mendelson
+FIS: “Health and Human Service Programs and Benefits Eligibility and Delivery Data-Sharing Clarifications
+Emergency Amendment Act of 2026,” Draft bill as provided to the Office of Revenue Analysis on July 1, 2026.
+available exemptions to time limits on receiving benefits from the Supplemental Nutrition Assistance
+Program (SNAP). A general waiver to time limits is no longer allowed in the District due to changes
+in federal law. DHS intends to use information maintained by the DHS Family Services Administration
+to determine if certain ABAWDs receiving services may qualify for exemptions. It is anticipated that
+the bill may also be used to facilitate finding exemptions for Medicaid requirements set to go into
+effect in 2027.
+Financial Plan Impact
+Funds are sufficient in the proposed revised fiscal year 2026 budget and proposed fiscal year 2027
+through fiscal year 2030 budget and financial plan to implement the bill. DHS is already working with
+clients on application screenings and renewals, and the change does not affect agency resource
+requirements. DHS anticipates that by identifying exemptions proactively for clients, it could limit
+disruptions in benefits for some.
+Page 2 of 2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+BRIAN L. SCHWALB PRIVILEGED AND CONFIDENTIAL
+ATTORNEY GENERAL ATTORNEY-CLIENT COMMUNICATION
+LEGAL COUNSEL DIVISION
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal Counsel Division
+DATE: July 2, 2026
+SUBJECT: Legal Sufficiency Review of Health and Human Service Programs and Benefits
+Eligibility and Delivery Data-Sharing Clarifications Amendment Act of 2026,
+Emergency, Temporary, and Permanent Versions
+(AE-26-343-B)
+_____________________________________________________________________________________
+This is to Certify that
+the Office of the Attorney General has reviewed the
+above-referenced legislation and found it to be legally sufficient. If you have any questions in this
+regard, please do not hesitate to call me at (202) 262-6402.
+_________________________________
+Adele El-Khouri
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004
+Phone (202) 262-6402 Email: adele.el-khouri@dc.gov

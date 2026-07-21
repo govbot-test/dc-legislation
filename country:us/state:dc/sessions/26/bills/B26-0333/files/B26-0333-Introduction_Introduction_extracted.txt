@@ -1,0 +1,339 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2 Councilmember Robert C. White, Jr.
+3
+4
+5
+6 A BILL
+7
+8 ________
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12 ________________
+13
+14 To amend, on an emergency basis, the District of Columbia Housing Authority Act of 1999 to
+15 revise the structure of the board of the Authority, provide flexibility for board and
+16 executive director training, and update the public housing resident bill of rights; to amend
+17 the District of Columbia Government Comprehensive Merit Personnel Act of 1978 to
+18 adjust Housing Authority board stipends; to amend the Confirmation Act of 1978 to
+19 conform terminology regarding the Housing Authority board; and to repeal superseded
+20 emergency and temporary legislation.
+21
+22 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 act may be cited as the “Housing Authority Resident Empowerment Emergency Amendment Act
+24 of 2025”.
+25 Sec. 1. The District of Columbia Housing Authority Act of 1999, effective May 9, 2000
+26 (D.C. Law 13-105; D.C. Official Code § 6-201 et seq.), is amended as follows:
+27 (a)Section 2 (D.C. Official Code § 6-201) is amended as follows:
+28 (1)Paragraph (6) is amended to read as follows:
+29 “(6) “Board” means the Board of Commissioners established by section 4a;
+30 provided, that for the purposes of sections 10(h), 12(r), and 21(b), the term “Board” shall include
+31 any prior form in which the Board existed, since the establishment of the Authority pursuant to
+32 this act.”.
+33 (2)Paragraphs (8), (22), and (33) are repealed.
+34 (3)Paragraph (10) is amended by striking the phrase “Resident Council Advisory
+1
+
+35 Board” and inserting the phrase “Resident Advisory Board” in its place.
+36 (4) Paragraph (15) is amended by striking the phrase “District of Columbia
+37 Housing Authority” and inserting the word “Authority” in its place.
+38 (5) A new paragraph (17A) is added to read as follows:
+39 “(17A) “Dwelling unit” means any room or group of rooms located within a
+40 residential or mixed-use building and forming a single unit that is used or intended to be used for
+41 living, sleeping, and the preparation and eating of meals.”.
+42 (b) Section 3(b-1)(1)(A) (D.C. Official Code § 6-202(b-1)(1)(A)) is amended as follows:
+43 (1) The lead-in language is amended by striking the phrase “Beginning on
+44 December 1, 2022, and monthly thereafter, the Authority shall submit a report” and inserting the
+45 phrase “The Authority shall submit a quarterly report” in its place.
+46 (2) Sub-subparagraph (iii) is amended by striking the phrase “units have been
+47 vacant in the prior year,” and inserting the phrase “units have been vacant,” in its place.
+48 (c) A new section 4a is added to read as follows:
+49 “Sec. 4a. Board of Commissioners.
+50 “(a) The Authority shall be governed by a Board of Commissioners (“Board”), which
+51 shall consist of 9 members and govern in accordance with this section and section 12.
+52 “(b) Residents of Housing Properties shall elect 2 Commissioners according to section
+53 12(k) of this Act. The Authority shall conduct elections for 1 such Commissioner position no
+54 later than December 31, 2025, and every 3 years thereafter, and for the other no later than
+55 December 31, 2026, and every 3 years thereafter.
+56 “(c) The Mayor shall appoint 7 Commissioners with the advice and consent of the
+57 Council pursuant to section 2(e) of the Confirmation Act of 1978, effective March 3, 1979 (D.C.
+2
+
+58 Law 2-142; D.C. Official Code § 1-523.01(e)), as follows:
+59 “(1) No later than October 1, 2025, and every 3 years thereafter, the Mayor shall
+60 nominate:
+61 “(A) One member who has professional experience in federal housing law
+62 and regulation; and
+63 “(B) One member who has professional experience in homeless services
+64 system planning and coordinating.
+65 “(2) No later than October 1, 2026, and every 3 years thereafter, the Mayor shall
+66 nominate:
+67 “(A) One member who has professional experience in affordable housing
+68 development, operations, or finance; and
+69 “(B) One member who has professional experience providing legal
+70 assistance in housing matters to low-income District residents.”
+71 “(3) No later than October 1, 2027, and every 3 years thereafter, the Mayor shall
+72 nominate:
+73 “(A) One member who has experience as the holder of a housing voucher;
+74 “(B) One member who has professional experience in capital project
+75 financing; and
+76 “(C) One member who has professional experience in accounting and
+77 enterprise financial management.
+78 “(d) No person shall be elected, appointed or reappointed to the Board if the person has
+79 served 9 years or longer, either in consecutive or non-consecutive terms, as a member of the
+80 Board of the Authority, in any form in which the Board existed, since the establishment of the
+3
+
+81 Authority pursuant to this act.”.
+82 (d) Section 8a(a)(1) (D.C. Official Code § 6-207.01(a)(1)) is amended by striking the
+83 word “February” and inserting the word “June” in its place.
+84 (e) New sections 11a and 11b are added to read as follows:
+85 “Sec. 11a. Transition from temporary Stabilization and Reform Board.
+86 “(a) Each individual who served as a voting or non-voting member of the temporary
+87 Stabilization and Reform Board of the Authority prior to the effective date of the Rebalancing
+88 Expectations for Neighbors, Tenants, and Landlords (RENTAL) Act of 2025, as approved by the
+89 Committee on Housing July 9, 2025 (Committee print of Bill 26-164), shall continue as a voting
+90 Commissioner by virtue of their past appointment, immediately and without need for further
+91 appointment or swearing in, until replaced, reconfirmed, or retired in accordance with this
+92 section. Section 12(c)(2) and 12(d) shall not apply to individuals named in this section for
+93 purposes of special initial terms prescribed in this section.
+94 “(b) No later than October 1, 2025, the Mayor shall nominate for a 2-year term a designee
+95 of the Chief Financial Officer who is an employee of the Office of the Chief Financial Officer.
+96 Leroy Clay III shall serve as a voting Commissioner until reconfirmed or replaced in this
+97 manner. The 2-year term of the Commissioner appointed pursuant to this subsection shall expire
+98 when the first Commissioner appointed pursuant to section 4a(c)(3)(C) takes office.
+99 “(c) The President of the City-Wide Resident Advisory Board shall serve as a voting
+100 Commissioner until the first Commissioner elected pursuant to section 4a(b) takes office.
+101 “(d) No later than October 1, 2025, the Mayor shall nominate 2 Commissioners with the
+102 qualifications listed in section 4a(c)(2)(A) for 1-year terms. Raymond A. Skinner and James M.
+103 Dickerson shall serve as Commissioners until reconfirmed or replaced in this manner, and
+4
+
+104 Raymond A. Skinner shall be Chairperson until the Board selects a Chairperson pursuant to
+105 section 12(m). The 2 Commissioners appointed pursuant to this subsection shall serve as voting
+106 Commissioners until the second Commissioner elected pursuant to section 4a(b) and the first
+107 Commissioner appointed pursuant to section 4a(c)(2)(A) take office.
+108 “(e) Christopher Murphy shall serve as a voting Commissioner until reconfirmed or
+109 replaced pursuant to section 4a(c)(1)(A).
+110 “(f) No later than October 1, 2025, the Mayor shall nominate 1 Commissioner with the
+111 qualifications listed in section 4a(c)(3)(B) for a 2-year term. This Commissioner shall serve until
+112 reconfirmed or replaced pursuant to section 4a(c)(3)(B).
+113 “(g) No later than October 1, 2025, the Mayor shall nominate 1 Commissioner with the
+114 qualifications listed in section 4a(c)(3)A) for a 2-year term. Denise Blackson shall serve as a
+115 voting Commissioner until reconfirmed or replaced in this manner.
+116 “(h) No later than October 1, 2025, the Mayor shall nominate 1 Commissioner who has
+117 attained homeownership with the assistance of the Authority for a 1-year term. Ronnie Harris
+118 shall serve as a voting Commissioner until reconfirmed or replaced in this manner. The
+119 Commissioner appointed pursuant to this subsection shall serve until the first Commissioner
+120 appointed pursuant to section 4a(c)(2)(B) takes office.
+121 “(i) The Mayor shall nominate the Executive Director of the Interagency Council on
+122 Homelessness for the initial 3-year term specified in section 4a(c)(1)(B). Theresa Silla shall
+123 serve as a voting Commissioner until reconfirmed in this manner or, in the event the Council
+124 does not confirm her nomination, until replaced by a Commissioner satisfying section
+125 4a(c)(1)(B).
+126 “(j) Katrina D. Jones and Jennifer Reed shall serve as Commissioners until a quorum of
+5
+
+127 Commissioners confirmed, reconfirmed, or elected pursuant to this section and section 4a take
+128 office.
+129 “(k) Notwithstanding section 1108(c-2)(1) of the District of Columbia Government
+130 Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C.
+131 Official Code § 1-611.08(c-2)(1)):
+132 “(1) Commissioners who are District government employees shall not be entitled
+133 to stipends for their service on the Board.
+134 “(2) Prior to January 1, 2026, stipends for Board service shall be limited to $4,000
+135 per year and an additional stipend of $2,000 per year for the Chairperson.
+136 “(l) This section shall sunset once a full complement of Commissioners serving pursuant
+137 to section 4a takes office.
+138 “Sec. 11b. City-Wide Resident Advisory Board training and consultation.
+139 “(a) The Authority shall establish and implement a comprehensive training program for
+140 members of the City-Wide Resident Advisory Board with the goal of enabling tenant members to
+141 participate fully in the oversight of the Authority’s operation and capital planning. The Authority
+142 shall develop the training program in consultation with public housing residents and public
+143 housing industry professional organizations.
+144 “(b) The Authority shall provide to the City-Wide Resident Advisory Board training on
+145 relevant federal and District laws, leadership development, communication, and negotiations.
+146 “(c) The Authority shall provide a copy of resolutions on the agenda for consideration by
+147 the Board to the City-Wide Resident Advisory Board at least 24 hours before the scheduled date
+148 and time of the Board meeting at which the resolution will be considered.
+149 “(d) The Authority shall seek and consider the input of the City-Wide Resident Advisory
+6
+
+150 Board when a policy or program change affects residents.
+151 “(e) At least once a quarter, the Board shall invite the City-Wide Resident Advisory
+152 Board to report to the Board on any topics of interest or concerns, and respond to the concerns of
+153 the City-Wide Resident Advisory Board in writing, no later than 45 days following the quarterly
+154 meeting.”.
+155 (f) Section 12 (D.C. Official Code § 6-211) is amended as follows:
+156 (1) The section heading is amended to read as follows:
+157 “Sec. 12. Additional Board provisions.”.
+158 (2) Subsections (a), (e), (f), (g), (j), (o), and (p) are repealed.
+159 (3) Subsections (b) and (c) are amended to read as follows:
+160 “(b)(1) At least 60 days prior to submitting any nominating resolution to the Council after
+161 December 31, 2025, the Mayor shall publish a notice in the Register that states which of the
+162 Board positions in subsection (a) of this section the Mayor is working to fill and invites the
+163 public to identify potential nominees for the Mayor to consider. The notice shall provide
+164 instructions as to how members of the public can submit the name, contact information, relevant
+165 experience, and such other relevant details as the Mayor sees fit to collect, regarding one or more
+166 potential nominees.
+167 “(2) The Mayor shall submit a list of potential nominees submitted in response to
+168 the Mayor’s solicitation described in paragraph (4) of this subsection as an attachment to each
+169 nominating resolution. The Mayor shall not be required to select a nominee from among the
+170 individuals submitted in response to such notice.
+171 “(c)(1) An individual seeking to serve as a Commissioner based on a form of professional
+172 experience listed in section 4a of this section must demonstrate such experience through 5 or
+7
+
+173 more years out of the last 10 years primarily employed in a relevant leadership role.
+174 “(2) No officer or employee of the federal government or the District government
+175 may serve as a Commissioner.”.
+176 (3) Subsection (h) is amended as follows:
+177 (A) Paragraph (1) is amended to read as follows:
+178 “(1) Within 90 days after a Commissioner’s commencement of Board service,
+179 each Commissioner shall complete training covering the following topics:
+180 “(A) The role of a public housing agency board;
+181 “(B) Ethics for public housing agencies and board members or
+182 commissioners;
+183 “(C) Background on major housing authority programs, including but not
+184 limited to public housing, the Housing Choice Voucher Program, and the rental assistance
+185 demonstration;
+186 “(D) Fair housing and reasonable accommodations;
+187 “(E) Public housing authority budgets, financial oversight, and financial
+188 reporting; and
+189 “(F) Federal procurement requirements.”.
+190 (B) Paragraph (2) is repealed.
+191 (C) Paragraph (3) is amended to read as follows:
+192 “(3) In addition to the training required in paragraph (1) of this subsection, each
+193 Commissioner shall spend at least 4 hours per quarter in training or educational seminars on
+194 corporate governance, public housing and Housing Choice Voucher Program law and
+195 regulations, Moving to Work program, resident opportunity such as HUD’s Section 3
+8
+
+196 requirements for economic and employment opportunities, HUD reporting requirements, public
+197 housing performance monitoring and risk management, federal or local language access
+198 guidelines, labor and personnel, real estate and construction, or other subjects related to housing
+199 authority operation, and management. The maximum reimbursable cost, if any, of this training
+200 shall be established by the Board and paid by the Authority.”.
+201 (D) Paragraph (6) is repealed.
+202 (4) Subsection (i) is amended to read as follows:
+203 “(i) The elected Commissioners shall be public housing residents at the time of election.
+204 An elected Commissioner who ceases to reside in public housing may complete their term unless
+205 removed pursuant to subsection (t).”.
+206 (5) Subsection (k) is amended as follows:
+207 (A) Paragraph (1) is amended by striking the phrase “The initial elections
+208 for the 3 elected Commissioners shall be conducted in accordance with rules and procedures
+209 established by the Receiver. Thereafter, elections” and inserting the phrase “Elections of
+210 Commissioners by Housing Property residents” in its place.
+211 (B) Paragraph (2) is amended as follows:
+212 (i) The lead-in language is amended to read as follows:
+213 “(2) The results of each election shall be retained until the elected Commissioner
+214 begins their term pursuant to the next scheduled election. If the elected Commissioner becomes
+215 unable to serve or is removed from the Board as hereinafter provided, that Commissioner’s seat
+216 for the remaining term shall be filled as follows:”.
+217 (ii) Subparagraph (A) is amended by striking the phrase “City-
+218 Wide Resident Council Advisory Board;” and inserting the phrase “City-Wide Resident
+9
+
+219 Advisory Board;” in its place.
+220 (6) Subsection (m) is amended by striking the sentences “The Mayor shall
+221 designate one of his or her 4 nominees nominated pursuant to subsection (a)(1) of this section as
+222 Chairperson. The ex officio Commissioner shall not be appointed as Chairperson.” and inserting
+223 the sentence “The Board shall elect a Chairperson from among their members.” in its place.
+224 (7) Subsection (q) is amended by striking the phrase “Other than the ex officio
+225 Commissioner and the labor representative who is a Commissioner, no person” and inserting the
+226 phrase “No person” in its place.
+227 (8) Subsection (t) is amended by striking the phrase “The Board may,” and
+228 inserting the phrase “A Commissioner may not be removed from office during their term except
+229 as provided in this subsection. The Board may,” in its place.
+230 (9) Subsection (u) is amended to read as follows:
+231 “(u) The Board may, by majority vote, require that any Commissioner or Executive
+232 Director resolve actual or potential conflicts of interest by reporting the actual or potential
+233 conflict of interest to the general counsel and ethics officer of the Authority for consideration and
+234 determination of required steps, which may include public disclosure of the conflict of interest
+235 and recusal from the decision-making process involving the conflict, divestiture, or any other
+236 manner which complies with federal and District law.”.
+237 (10) Subsection (w) is amended to read as follows:
+238 “(w) The Board shall meet regularly at least 10 times each calendar year. Each meeting
+239 shall provide for a period for public comments, which shall not be limited in time, except that the
+240 time allowed each individual speaker may be reasonably limited. To allow the Board to meet and
+241 entertain any proposed action, there must be a quorum present, which shall consist of 5
+10
+
+242 Commissioners. Meetings of the Board shall be subject to the Open Meetings Act, effective
+243 March 31, 2011 (D.C. Law 18-350; D.C. Official Code §§ 2-571 et seq.).”.
+244 (g) Section 14 (D.C. Official Code § 6-213) is amended as follows:
+245 (1) Subsection (c) is amended by striking the phrase “direction and supervision”
+246 and inserting the word “oversight” in its place.
+247 (2) The lead-in language of subsection (d)(1) is amended to read as follows:
+248 “(d)(1) Within 90 days of the Executive Director’s appointment, to the extent
+249 directed by the Board, the Executive Director shall complete training covering the following
+250 topics:”.
+251 (3) A new subsection (e) is added to read as follows:
+252 “(e) As part of the process of selecting an Executive Director, the Board shall seek and
+253 consider the input of public housing residents, voucher holders, and the City-Wide Resident
+254 Advisory Board.”.
+255 (h) Section 26g(b)(2) (D.C. Official Code § 6-232(b)(2)) is amended as follows:
+256 (1) Subparagraph (E) is amended to read as follows:
+257 “(E) To file a complaint that requests an administrative determination of
+258 the resident’s rights when the resident believes that the resident has been aggrieved or adversely
+259 affected by an act or a failure to act by an Authority official, as provided in Authority policy and
+260 regulations;”.
+261 (2) Subparagraphs (G), (H), and (I) are amended to read as follows:
+262 “(G) To have a lease terminated only for serious or repeated violations of
+263 the material terms of the lease, as provided in the relevant provisions of the Authority’s public
+264 housing regulations, which shall be identified in the Bill of Rights;
+11
+
+265 “(H) To 30 days’ notice of any action to correct, cure, or vacate for
+266 violation of a lease, except where the Authority has determined that the head of household
+267 responsible for the dwelling unit under the lease is deceased and there are no remaining
+268 household members, as provided in the relevant provisions of the Authority’s public housing
+269 regulations, which shall be identified in the Bill of Rights;”
+270 “(I) To be relocated away from living conditions that represent an
+271 emergency or a threat to life, health, or safety as determined by the Authority, another
+272 governmental entity, or as a result of a judicial proceeding; to alleviate threat of attack by
+273 criminal elements as verified and documented by the Authority Police Department or any other
+274 police department or law enforcement agency authorized to operate in the District; and in certain
+275 other circumstances, as provided in the relevant provisions of the Authority’s public housing
+276 regulations, which shall be identified in the Bill of Rights;”.
+277 Sec. 3. Section 1108(c-2)(1) of the District of Columbia Government Comprehensive
+278 Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-
+279 611.08(c-2)(1)), is amended to read as follows:
+280 “(1) Each Commissioner of the Board of the District of Columbia Housing
+281 Authority (“Board”) shall be entitled to a stipend of $8,000 per year for their service, and the
+282 chairperson shall be entitled to an additional stipend of $4,000 per year; provided, that subsection
+283 (c-3) of this section shall not apply to the chairperson of such Board. Each such Commissioner
+284 also shall be entitled to reimbursement of actual travel and other expenses reasonably related to
+285 attendance at Board meetings and fulfillment of official duties. Stipends and reimbursements
+286 shall be made at least quarterly and prorated, if necessary, to reflect the dates of actual
+287 membership on the Board or dates of service as chairperson of the Board;”.
+12
+
+288 Sec. 4. Section 2(e)(27) of the Confirmation Act of 1978, effective March 3, 1979 (D.C.
+289 Law 2-142; D.C. Official Code § 1-523.01(e)(27)), is amended to read as follows:
+290 “(27) The Board of the District of Columbia Housing Authority, established by
+291 section 4a of the District of Columbia Housing Authority Act of 1999, effective _ (D.C. Law _;
+292 D.C. Official Code § 6-203a);”.
+293 Sec. 5. The District of Columbia Housing Authority Stabilization and Reform Emergency
+294 Amendment Act of 2025, effective June 25, 2025 (D.C. Act 26-89; 72 DCR 7544), and the
+295 District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act
+296 of 2025, enacted July 7, 2025 (D.C. Act 26-100; 72 DCR 7676), are repealed.
+297 Sec. 6. Fiscal impact statement.
+298 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+299 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+300 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+301 Sec. 7. Effective date.
+302 This act shall take effect following approval by the Mayor (or in the event of veto by the
+303 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+304 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+305 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+306 D.C. Official Code § 1-204.12(a)).
+13

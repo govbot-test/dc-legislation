@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2
+3
+4 Councilmember Matthew Frumin
+5
+6
+7
+8 A BILL
+9
+10 _________
+11
+12
+13 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+14
+15 __________________
+16
+17
+18 To amend the Homeless Services Reform Act to establish grounds for extensions to participation
+19 in the Family Re-Housing Stabilization Program (FRSP) that require the Department of
+20 Human Services or its designee to consider the totality of the participant's circumstances,
+21 including the participant’s progress in case management and eligibility for affordable
+22 housing.
+23
+24 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+25 Act may be cited as the “Family Re-Housing Stabilization Program Protection Emergency
+26 Amendment Act of 2025”.
+27 Sec. 2. Section 7(b)(4)(B) of the Homeless Services Reform Act, effective October 22,
+28 2005 (D.C. Law 16-35; D.C. Official Code § 4–753.01(b)(4)(B)), is amended as follows:
+29 (a) The existing text is designated as sub-subparagraph (i).
+30 (b) New sub-subparagraphs (ii), (iii), and (iv) are added to read as follows:
+31 “(ii) Notwithstanding any other law; provided, that funding is
+32 available within the Family Re-Housing Stabilization Program (“FRSP”) to implement this sub-
+33 subparagraph and sub-subparagraphs (iii) and (iv) of this subparagraph, the Department, or the
+34 Department’s designee, shall consider requests for FRSP assistance extending past 12 months if:
+1
+
+35 “(I) The participant has requested an extension in
+36 writing;
+37 “(II) The participant has made a good faith effort
+38 towards the achievement of goals set forth in an individualized plan with the aim of a targeted
+39 progression toward exit from the supports of FRSP, as observed by a service provider at consistent
+40 intervals, but cannot yet sustain housing stability independently of FRSP; and
+41 “(III) The participant has not yet been approved for
+42 permanently affordable housing.
+43 “(iii) When making a determination of whether to grant a
+44 participant in FRSP an extension beyond 12 months, the Department, or the Department's
+45 designee, shall:
+46 “(I) Consider the totality of the circumstances; and
+47 “(II) Grant extensions of time in increments not
+48 greater than 6 months, with formal reviews every 3 months to ensure that participants are given
+49 the support necessary to exit FRSP with stable housing.
+50 “(iv) If a requested extension of FRSP assistance by a
+51 participant is denied, the participant shall be given 30 days written notice prior to the final subsidy
+52 payment explicitly setting forth the reason for the denial of additional assistance and informing the
+53 participant that the participant has a right to:
+54 “(I) Appeal the determination through a fair
+55 hearing and administrative review, including deadlines for requesting an appeal; and
+2
+
+56 “(II) The continuation of FRSP services
+57 pending the outcome of any fair hearing requested within 15 days of receipt of a written notice of
+58 a termination.”.
+59 Sec. 3. Applicability.
+60 This act shall apply as of July 10, 2025.
+61 Sec. 4. Fiscal impact statement.
+62 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+63 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+64 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+65 Sec. 5. Effective date.
+66 This act shall take effect following approval by the Mayor (or in the event of veto by the
+67 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+68 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+69 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+70 D.C. Official Code § 1-204.12(a)).
+3

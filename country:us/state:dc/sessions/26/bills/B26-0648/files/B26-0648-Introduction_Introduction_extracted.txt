@@ -1,0 +1,1157 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+March 20, 2026
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Today, I am transmitting to the Council of the District of Columbia (Council) the DC
+Hospitality Amendment Act of 2026 (bill) for its consideration and approval. The bill amends D.C.
+Official Code Title 25 to modernize the District’s alcoholic beverage laws, provide support to the
+District’s hospitality industry particularly in Wards 5, 7, 8, and Downtown DC, and makes several
+business practices permanent that have evolved due to the pandemic.
+In summary, the bill seeks to attract new restaurants to Wards 5, 7, 8, and Downtown DC
+and provides new opportunities that encourage inclusivity and entrepreneurship in the hospitality
+industry in all eight wards. This measure also serves to play an important role in the District’s
+efforts to attractresidents and tourists to Downtown DC.
+A few of the amendments include:
+1. Attracting New Restaurants and Art Galleries to Wards 5, 7, 8, and Downtown DC - creates a new
+Pop-Up restaurant license category that eases the process to open a new restaurant quickly
+in Wards 5, 7, 8, and Downtown DC. The Pop-Up restaurant license is valid for 90 days and allows
+the restaurant to operate between 6 a.m. and 1 a.m., daily.
+2. Later Weekend Hours - allows for on-premises alcohol sales, service and consumption until 4
+a.m. in Downtown DC on weekends.
+3. Made in DC Manufacturing - allows a brewery to apply for an on-premises alcohol retailer
+license with a brew pub endorsement in Wards 5, 7, 8, or Downtown DC.
+The new location in Wards 5, 7, 8, and Downtown DC, would be required to brew at least
+250 barrels of malt beverages annually at the location with the pub endorsement.
+4. Social Equity - allows small start-up breweries to develop business relationships with larger
+licensed breweries and brew pubs to produce malt beverages in the District. The bill also makes
+it easier for returning citizens to work at, manage, or own a licensed alcohol establishment.
+
+For these reasons discussed above, I urge the Council to take prompt and favorable action on the
+enclosed proposed bill.
+Sincerely,
+Muriel Bowser
+Enclosure
+
+1
+2
+3
+4 ainnan Phil Mendelson
+5 at the request of the Mayor
+6
+7 A BILL
+8
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12
+13 To amend Title 25 of the District of Columbia Official Code to pe1mit licensees to
+14 ship and export alcoholic beverages outside of the District consistent with
+15 federal and state law; to clarify the Board's authority to grant permits and
+16 endorsements; to allow for distillery collaborations; to allow a
+17 manufacturer to obtain a second location under its license for production
+18 and storage; to clarify that wholesalers are required to sell alcoholic
+19 beverages received from the primary American source; to fix various
+20 typographical errors contained in Title 25; to allow a location under the
+21 jurisdiction of the Washington Convention and Sports Authority with
+22 commercial street frontage to obtain a cany out and delivery license; to
+23 repeal the requirement that the gross annual food sales per occupant be
+24 adjusted for inflation every 5 years; to amend the "doggie bag" provisions
+25 to allow for the removal of securely resealed malt beverages; to apply the
+26 "doggie bag" provisions to taverns; to allow the holder of a
+27 manufacturer's license class B to open a brew pub in Wards 5, 7 or 8, or
+28 downtown under certain conditions; to allow the holder of both a brewery
+29 license and brew pub endorsement to transport beer brewed at the brewery
+30 or brew pub between the two facilities; to clarify that a licensed
+31 wholesaler is not required to obtain an import permit, as long as all
+32 required taxes related to the impo1iation are paid; to clarify the parameters
+33 of a distillery pub endorsement, to expand upon the types of alcoholic
+34 beverages that can be sold at a brewery, winery, or distillery that possesses
+35 an on-site sales and consumption pe1mit; to clarify who is eligible to apply
+36 for and modify the parameters of a commercial lifestyle center license; to
+37 create a contract brewing license; to create Wards 5, 7 and 8 and
+38 Downtown Pop-Up and permanent restaurant license categories; to create
+39 an outdoor activation license; to clarify that the Board may refer alleged
+40 violations to the appropriate District agency; to amend the qualification
+41 requirements for Board members; to clarify the Board's rulemaking
+42 review process; to modify the qualifications of applicants to expand upon
+43 the ability of returning citizens to work at and own licensed alcohol
+44 establishments; to amend the conflict of interest restrictions to include the
+45 newly created restaurant categories and address breweries opening a brew
+1
+
+46 pub in Wards 5, 7 or 8, or downtown; to clarify that restrictive land
+47 covenants and deeds are not to be considered by the Board in determining
+48 whether to issue an initial license or transfer a license to a new location; to
+49 clarify that the Board is required to make a licensee’s investigative history
+50 available to the public for review; to set the cap on class A retailer licenses
+51 at 275; to clarify that a 25% class B retailer’s license must be located
+52 inside of a hotel; to replace the term “Board of Zoning” with the term
+53 “Board of Zoning Adjustment”; to allow the Board to extend the
+54 expiration date of an existing moratorium by emergency rulemaking to
+55 allow an ANC to consider or vote upon a moratorium petition or
+56 resolution; to allow the Board to dismiss an individual protestant or deny a
+57 license application or prohibit participation by a person seeking to
+58 influence the application process in exchange for anything of value; to
+59 allow the Board to continue a hearing for good cause; to allow a party that
+60 requested a served subpoena to seek recourse in Superior Court if the
+61 subpoena recipient fails to honor the subpoena; to make clarifying changes
+62 to the existing settlement agreement process language and to provisions
+63 that can and cannot be included in a settlement agreement; to add a
+64 provision regarding unenforceable agreements; to add a provision
+65 regarding ANC redistricting and successor ANCs; to clarify the Board’s
+66 process regarding the non-payment of license fees; to clarify that the
+67 Board may amend permit and endorsement fees; to establish fees for
+68 contract brewing licenses, Wards 5, 7 and 8 and Downtown Pop-Up
+69 registrations, and class C/RB and D/RB retailer licenses; to waive
+70 application and annual license fees for art galleries that locate in Wards 5,
+71 7 and 8 and downtown for the first three years; to confer standing to
+72 successor ANCs as a result of redistricting; to consolidate provisions
+73 related to the hours off-premises retailers can sell and deliver alcoholic
+74 beverages; to add Juneteenth National Independence Day to the extended
+75 hour holiday schedule; to clarify the payment due date to a wholesaler or
+76 manufacturer when the due date occurs on a weekend or holiday; to clarify
+77 that the cost of a licensed wholesaler hosting a one-day or one-time event
+78 at a licensed retailer’s premises may exceed $500; to allow an individual
+79 17 years of age who has completed an alcohol training and education
+80 certification program to sell or serve alcoholic beverages to patrons
+81 alongside a licensed and certified manager or owner on-duty at a
+82 restaurant, hotel, or tavern, that are not seated or standing at a bar; to
+83 establish procedures for cease and desist orders for catering sites; and to
+84 update and remove expired provisions from the civil penalty rulemaking
+85 review process.
+86
+87 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF
+88 COLUMBIA, That this act may be cited as the “DC Hospitality Amendment Act
+89 of 2026”.
+90
+91 Sec. 2. Title 25 of the District of Columbia Official Code is amended as follows:
+2
+
+92
+93 (a) Chapter 1 is amended as follows:
+94
+95 (1) The table of contents for Subchapter II is amended by adding new
+96 section designations to read as follows:
+97 “§ 25-132. Contract Brewing License.
+98 “§ 25-133. Wards 5, 7 and 8 and Downtown Pop-Up Restaurant Registration.
+99 “§ 25-134. Wards 5, 7 and 8 and Downtown Class C/RB and D/RB Restaurant
+100 Retailer Licenses.
+101 “§ 25-135. Outdoor Activation License.”.
+102 (2) Section 25-101 is amended as follows:
+103 (A) A new paragraph (7A) is added to read as follows:
+104 “(7A) “Art gallery” means a building or part thereof where works of art
+105 such as paintings, sculpture, pottery, glass, and weaving are displayed for public
+106 viewing.”.
+107 (B) Paragraph (8) is repealed.
+108 (C) New paragraphs (15D) and (15E) are added to read as follows:
+109 “(15D) “Contract brewing agreement” means a written contractual agreement
+110 between the holder of a manufacturer’s license class B or of a brew pub endorsement and
+111 the holder of a contract brewing license to brew malt beverages at the Board-approved
+112 location of the licensed manufacturer class B or brew pub.
+113 “(15E) “Contract brewing license” means a business (a “contract brewer”) that
+114 is licensed by the Board to enter into a contract brewing agreement with a manufacturer’s
+115 license class B or the holder of a brew pub endorsement to brew malt beverages at the
+116 Board approved location of the licensed manufacturer class B or brew pub.”.
+3
+
+117 (D) A new paragraph (20A) is added to read as follows:
+118 “(20A) “Electronic Signature” means an electronic sound, symbol, or
+119 process attached to or logically associated with a record and executed or adopted by a
+120 person with the intent to sign the record.”.
+121 (E) Paragraph (37B) is amended by striking the phrase “under an
+122 on-premises restaurant license (R), as defined in § 25-113(b),” and inserting the phrase,
+123 “under an off-premises retailer’s license, as defined in § 25-112(d)(1), or an on-premises
+124 retailer’s license, as defined in § 25-113(a)(1),” in its place.
+125 (F) A new paragraph (38C) is added to read as follows:
+126 “(38C) “Primary American source” means the manufacturer, distiller,
+127 rectifier, vintner, or importer of the brand of alcoholic beverages at the time that the
+128 beverage became a marketable product in the United States, or its duly authorized
+129 agent.”.
+130 (G) Paragraph (43)(C) is repealed.
+131 (H) A new paragraph (55A) is added to read as follows:
+132 “(55A) “Washington Convention and Sports Authority food and alcohol
+133 business” means a retailer with commercial street frontage at a location under the
+134 jurisdiction of the Washington Convention and Sports Authority that sells food and is
+135 approved by the Washington Convention and Sports Authority to sell alcoholic beverages
+136 for on-premises consumption.”.
+137 (3) Section 25-102 is amended by adding new subsections (f) and (g) to
+138 read as follows:
+4
+
+139 “(f) A licensed manufacturer, or a licensed retailer holding a brew pub, wine pub,
+140 or distillery pub endorsement, may ship, export, or cause to be shipped or exported
+141 outside the District any alcoholic beverage they produce or are otherwise permitted to sell
+142 in closed containers as required by law so long as such action complies with the receiving
+143 state’s law and federal law.
+144 “(g) A licensed wholesaler or any licensed off-premises retailer may
+145 ship, export, or cause to be shipped or exported outside of the District any alcoholic
+146 beverage they are permitted to distribute or sell by law so long as such action complies
+147 with the receiving state’s law and federal law.”.
+148 (4) Section 25-104 is amended as follows:
+149 (A) Subsection (a) is amended by striking the phrase “issue
+150 licenses to” and insert the phrase “issue licenses, permits, or endorsements to” in its
+151 place.
+152 (B) Subsection (b) is amended by striking the phrase “All licenses
+153 issued” and inserting the phrase “All licenses, endorsements, and permits issued” in its
+154 place.
+155 (C) Subsection (c) is amended by striking the phrase “A license to”
+156 and inserting the phrase “A license, permit, or endorsement to” in its place.
+157 (D) Subsection (e) is amended by striking the phrase “licenses,
+158 may” and inserting the phrase “licenses, permits, and endorsements, may” in its place.
+159 (5) Section 25-110 is amended as follows:
+160 (A) A new subsection (a-2) is added to read as follows:
+5
+
+161 “(a-2)(1) A holder of a manufacturer’s license, class A, may collaborate with
+162 another distillery, regardless of jurisdiction, to use spirits manufactured at the licensed
+163 premises or the licensee’s spirit recipe to produce a new spirit at another location, owned
+164 by the other distillery, that may be sold by the holder of the manufacturer’s license, class
+165 A, in sealed containers for off-premises consumption.
+166 “(2) The sealed container containing the spirits produced by the holder of
+167 the manufacturer’s license, Class A, in collaboration with another distillery, shall contain
+168 the names of both distilleries.”.
+169 (B) A new subsection (e) is added to read as follows:
+170 “(e) A holder of a manufacturer’s license, class A, B, or C, may manufacture and
+171 store products, including malt beverages brewed under a contract brewing agreement,
+172 under its license at a second location that is not on or immediately adjacent to the
+173 manufacturer’s initial licensed premises, if:
+174 “(1) The licensed manufacturer obtains Board approval;
+175 “(2) The second location is within 1,800 feet of the initial licensed
+176 premises;
+177 “(3) The second location is not open to the public; and
+178 “(4) No on-premises or off-premises sales occur at the second
+179 location.”.
+180 (6) Section 25-111(a) is amended by striking the phrase “beverages from”
+181 and inserting the phrase “beverages received from the primary American source from” in
+182 its place.
+183 (7) Section 25-112 is amended as follows:
+6
+
+184 (A) Subsection (a-1)(2) is repealed.
+185 (B) Subsection (h) is amended to read as follows:
+186 “(h)(1) A Washington Convention and Sports Authority food and alcohol business
+187 may sell beer, wine, or spirits in closed containers to individuals for carry-out, or may sell
+188 or deliver beer, wine, or spirits in closed containers to consumer in the District, if it
+189 obtains a carry out and delivery license from the Board pursuant to §§ 25-113(a)(3)(C)
+190 and 25-113.01(g). Any carry-out or delivery pursuant to this section shall include one or
+191 more prepared food items.
+192 “(2) Any carry-out or delivery authorized pursuant to paragraph (1) of
+193 this section may take place up to 7 days a week, but only between the hours of 6:00 a.m.
+194 and 1:00 a.m.”.
+195 (8) Section 25-113 is amended as follows:
+196 (A) Subsection (b) is amended as follows:
+197 (i) Paragraph (2)(B) is amended to read as follows:
+198 “(B) The Board shall make a licensee’s quarterly statements
+199 available to any protestant, and to any member of the public who requests it pursuant to
+200 the Freedom of Information Act of 1976 (“FOIA”), effective October 21, 1986 (D.C.
+201 Official Code § 2-531 et seq.), for the purpose of allowing a protestant of a license to
+202 determine the gross annual receipts of a licensee. The disclosure of a quarterly statement
+203 to a protestant under this subparagraph, or to a member of the public who requests it,
+204 shall be subject to the disclosure exemptions set forth in section 204 of FOIA (D.C.
+205 Official Code § 2-534).
+206 (ii) Paragraph (3)(B)(iii) is repealed.
+7
+
+207 (iii) Paragraph (5) is amended to read as follows:
+208 “(5)(A) Notwithstanding any other provision of this
+209 subchapter, the holder of a class C/R retailer’s license may permit a patron to remove one
+210 partially consumed bottle or other container of an alcoholic beverage for off-premises
+211 consumption. The holder of a class D/R retailer’s license may permit a patron to remove
+212 one partially consumed bottle or other container of wine or beer for off-premises
+213 consumption.
+214 “(B) A partially consumed bottle or other container of an
+215 alcoholic beverage that is to be removed from the premises must be securely resealed by
+216 the licensee or its employee before removal from the premises.
+217 “(C) The partially consumed bottle or container shall be placed
+218 in a bag or other closed container that is secured in such a manner that it is visibly
+219 apparent if the closed container has been subsequently opened or tampered with, and a
+220 dated receipt for the bottle or container of an alcoholic beverage shall be provided by the
+221 licensee and attached to the closed container.”.
+222 (B) A new subsection (c)(5) is added to read as follows:
+223 “(5)(A) Notwithstanding any other provision of this subchapter, the holder
+224 of a class C/T retailer’s license may permit a patron to remove one partially consumed
+225 bottle or other container of an alcoholic beverage for off-premises consumption. The
+226 holder of a class D/T retailer’s license may permit a patron to remove one partially
+227 consumed bottle or other container of wine or beer for off-premises consumption.
+228 “(B) A partially consumed bottle or other container of an alcoholic
+229 beverage that is to be removed from the premises must be securely resealed by the
+8
+
+230 licensee or its employee before removal from the premises.
+231 “(C) The partially consumed bottle or container shall be placed in a bag or
+232 other closed container that is secured in such a manner that it is visibly apparent if the
+233 closed container has been subsequently opened or tampered with, and a dated receipt for
+234 the bottle or container of an alcoholic beverage shall be provided by the licensee and
+235 attached to the closed container.”.
+236 (C) Subsection (d)(1) is amended to read as follows:
+237 “(1) A nightclub license (N) shall be issued only to a nightclub.”.
+238 (D) Subsection (e)(7) is amended to read as follows:
+239 “(7)(A) Notwithstanding any other provision of this subsection, a retailer class
+240 C/H licensee under this section may permit a patron to remove one partially consumed
+241 bottle or container of an alcoholic beverage for off-premises consumption. The holder of
+242 a class D/H retailer license may permit a patron to remove one partially consumed bottle
+243 or other container of beer or wine for off-premises consumption.
+244 “(B) A partially consumed bottle or other container of an alcoholic
+245 beverage that is to be removed from the premises shall be securely resealed by the
+246 licensee or its employee before removal from the premises.
+247 “(C) The partially consumed bottle or other container shall be
+248 placed in a bag or other closed container that is secured in such a manner that is visibly
+249 apparent if the closed container has been subsequently opened or that a person has
+250 tampered with the closed container.
+9
+
+251 “(D) The licensee or its employee shall provide a dated receipt for
+252 the bottle or other container, which shall be attached to the bag or other closed
+253 container.”.
+254 (E) Subsection (g)(4) is repealed.
+255 (9) Section 25-113.01(g) is amended by striking the phrase “Convention
+256 Center food and alcohol business” wherever it appears and inserting the phrase
+257 "Washington Convention and Sports Authority food and alcohol business” in its place.
+258 (10) Section 25-116a is amended by adding new subsections (a-1), (a-2),
+259 and (a-3) to read as follows:
+260 “(a-1) Notwithstanding any other restrictions in this title, the holder of a
+261 manufacturer’s license class B (brewery) shall be permitted to apply for one (1) Class C
+262 or D retailer’s license with a brew pub endorsement under the following conditions:
+263 “(1) The proposed location is in Ward 5, Ward 7, Ward 8, or downtown,
+264 as defined in this section;
+265 “(2) The proposed location is constructed after the effective date of the DC
+266 Hospitality Amendment Act of 2026, introduced on ______ (Bill 26-__), or renovated
+267 with a certificate of occupancy issued after October 1, 2024;
+268 “(3) A minimum of 250 barrels of malt beverages are brewed at the
+269 licensed location with the brew pub endorsement on an annual basis; and
+270 “(4) The holder of the Class C or D retailer’s license with the brew pub
+271 endorsement stocks and sells malt beverages produced by other producers to the public
+272 that are unaffiliated with the applicant or other entities with shared ownership of 5% or
+273 more in the location where the brew pub endorsement is located.
+10
+
+274 “(a-2) After the holder of a manufacturer’s license class B (brewery) has held a
+275 brew pub endorsement pursuant to subsection (a-1) of this section for 24 months, the
+276 holder may apply for one additional Class C or D retailer’s license with a brew pub
+277 endorsement at a location in Ward 1, 2, 3, 4, or 6, pursuant to the requirements of this
+278 section and § 25-117.
+279 “(a-3) For purposes of this section:
+280 “(1) Ward 5, Ward 7 and Ward 8 means the election ward boundaries for
+281 Ward 5, Ward 7 and Ward 8 that were in effect from January 1, 2012, through December
+282 31, 2021; and
+283 “(2) The term “downtown” includes the Central Business District, as well
+284 as any area zoned D-2, D-3, D-4, D-5, D-6, D-7, or D-8, as defined in the District’s
+285 zoning regulations.”.
+286 (11) Section 25-117 is amended by adding a new subsection (e-1) to read
+287 as follows:
+288 “(e-1) A licensee holding a brew pub endorsement and a manufacturer’s license
+289 class B (brewery) at separate locations in the District shall be permitted to transport beer
+290 brewed at either the brew pub facility or brewery to the brewery or brew pub facility for
+291 sale and consumption.”.
+292 (12) Section 25-119 is amended by adding a new subsection (e) to read as
+293 follows:
+294 “(e) A licensed wholesaler may import alcoholic beverages without an import
+295 permit so long as all required taxes related to the importation of the alcoholic beverages
+296 being imported are paid in accordance with District laws and regulations.”.
+11
+
+297 (13) Section 25-125 is amended by adding a new subsection (j) to read as
+298 follows:
+299 “(j) Notwithstanding any other restrictions in this section, alcohol infused
+300 confectionary food products manufactured at the establishment by the holder of a
+301 distillery pub endorsement shall be permitted to be sold to another licensee licensed
+302 under this title for resale”.
+303 (14) Subsection 25-126(e-1) is amended to read as follows:
+304 “(e-1)(1) In addition to the authorizations provided under subsections (a) and (a-
+305 1) of this section, a manufacturer with an onsite sales and consumption permit may sell
+306 the following products:
+307 “(A) A class B brewery may sell or serve wine and spirits
+308 purchased from a licensed manufacturer or wholesaler to the public;
+309 “(B) A Class A winery may sell and serve beer and spirits
+310 purchased from a licensed manufacturer or wholesaler to the public; and
+311 “(C) A Class A distillery may sell and serve beer and wine
+312 purchased from a licensed manufacturer or wholesaler to the public.
+313 “(2) The holder of a manufacturer’s license class A or B that holds an on-
+314 site sales and consumption permit may sell or serve beer, wine, and spirits purchased
+315 from a licensed manufacturer or wholesaler at private events not open to the public for
+316 on-premises consumption.”.
+317 (15) Section 25-129(b) is amended by striking the phrase “suspended or”.
+318 (16) Section 25-131 is amended as follows:
+319 (A) Subsection (a) is amended by striking the phrase "lifestyle
+12
+
+320 center.” and inserting the phrase “lifestyle center, Arena C/X licensee, or Washington
+321 Convention and Sports Authority food and alcohol business that hosts sporting events.”
+322 in its place.
+323 (B) Subsection (b) is amended by striking the phrase “a private
+324 club,” and inserting the phrase " an Arena C/X licensee, or a Washington Convention and
+325 Sports Authority food and alcohol business that hosts sporting events,” in its place.
+326 (3) A new subsection (c-1) is added to read as follows:
+327 “(c-1) An Arena C/X licensee or a Washington Convention and Sports
+328 Authority food and alcohol business that hosts sporting events may request Board
+329 approval to allow the sale, service, and consumption of beer, wine, or spirits on outdoor
+330 public space for a specific event that involves a street closure.”.
+331 (17) New sections 25-132, 25-133, 25-134, and 25-135 are added to read
+332 as follows:
+333 “25-132. Contract Brewing License.
+334 “(a) A contract brewing license shall be valid for 3 years and authorize the
+335 licensee (the “contract brewer”) to enter into a written contract brewing agreement with
+336 the holder of a manufacturer’s license, class B, or a brew pub endorsement to brew malt
+337 beverages at the Board-approved location of the licensed class B manufacturer or brew
+338 pub.
+339 “(b) A contract brewing license shall authorize the contract brewer to sell and
+340 deliver malt beverages brewed at the Board-approved location to licensed wholesalers
+341 and a dealer licensed under the laws of any state or territory of the United States for
+342 resale. The contract brewer may also sell and deliver up to 15,500 gallons of malt
+13
+
+343 beverages brewed at the Board-approved location annually to other retail licensees for
+344 resale purposes.
+345 “(c) A contract brewer may sell and deliver malt beverages for off-premises
+346 consumption from the Board-approved brewing location.
+347 “(d) A contract brewer may sell malt beverages for on-premises consumption at
+348 the brew pub or manufacturer’s license, class B, location where the malt beverages were
+349 brewed.
+350 “(e) A written contract brewing agreement between a contract brewer and the
+351 holder of a manufacturer’s license, class B, or a brew pub endorsement may also include
+352 terms allowing the sale of malt beverages brewed at the Board-approved location for on-
+353 premises and off-premises consumption.
+354 “(f) The following restrictions shall apply to a contract brewing license:
+355 “(1) The contract brewer shall retain title to the malt beverages brewed at
+356 the Board-approved location and shall be the ultimate seller of the product;
+357 “(2) The parties to the written contract brewing agreement shall maintain,
+358 for a period of 3 years, complete and accurate records of the list and quantities of malt
+359 beverages brewed at the Board-approved location and sales of the respective products;
+360 and
+361 “(3) The contract brewer shall only sell malt beverages to a consumer
+362 under the following conditions:
+363 “(A) Malt beverages shall only be sold for off-premises
+364 consumption,
+14
+
+365 “(B) Malt beverages shall be sold in barrels, kegs, cans, including
+366 crowlers, and sealed bottles, including growlers, and
+367 “(C) Purchased malt beverages shall not be opened after sale, or
+368 the contents consumed, on the premises where sold.”.
+369 “25-133. Wards 5, 7 and 8 and Downtown Pop-Up Restaurant Registration.
+370 “(a) An applicant or an eligible retailer shall be permitted to
+371 register with the Board to open up a pop-up restaurant in Ward 5, Ward 7, Ward 8, or
+372 downtown, as defined in this section. For the purposes of this section, the term “eligible
+373 retailer” means a licensed on-premises retailer, a class B full-service grocery store, or a
+374 class A 25% grocery store.
+375 “(b) An applicant or an eligible retailer that registers with the Board may sell and
+376 serve alcoholic beverages for both on-premises and off-premises consumption.
+377 “(c) A registered applicant or registered eligible retailer operating a pop-up
+378 restaurant pursuant to this section may sell beer and wine in closed containers for off-
+379 premises consumption without being accompanied by one or more prepared food items.
+380 A registered new applicant or an eligible retailer may sell spirits for off-premises
+381 consumption in closed containers accompanied by one or more prepared food items.
+382 “(d) An applicant or an eligible retailer seeking to register as a pop-up restaurant
+383 pursuant to this section shall be required to submit a menu with food items to be offered,
+384 excluding snack items, with its registration application.
+385 “(e) A registered applicant, or a registered eligible retailer, that seeks to register as
+386 a pop-up restaurant pursuant to this section, shall have adequate kitchen and dining
+387 facilities and keep its kitchen facilities open, have a menu in use, and be ready, willing,
+15
+
+388 and able to prepare and serve food, other than just snack items, until at least 2 hours
+389 before closing. For purposes of this subsection, “snack items” includes potato chips,
+390 popcorn, pretzels, crackers, nuts, cookies, and candy.
+391 “(f) The Board shall fine, suspend, cancel, or revoke the pop-up restaurant
+392 registration of an applicant, after a hearing, that is not in compliance with the
+393 requirements of this section. The Board shall give the registered applicant a minimum of
+394 five (5) calendar days’ notice prior to holding a hearing and rendering a decision, as
+395 permitted by the subsection.
+396 “(g) A registration application for a pop-up restaurant in Ward 5, Ward 7, Ward 8,
+397 or downtown shall not be required to follow the restrictions set forth in §§ 25-314(b)(1)
+398 and 25-333.
+399 “(h) An applicant or eligible retailer shall not apply for or operate more than three
+400 pop-up restaurants under this section at one time.
+401 “(i) Board approval of the pop-up restaurant registration, beyond the approval
+402 described in this section, shall not be required provided that:
+403 “(1) The applicant’s proposed location possesses a valid certificate of
+404 occupancy issued to either the prior tenant, building owner, or the applicant, unless the
+405 proposed location is only on outdoor private space;
+406 “(2) The applicant has been authorized by the owner of the building or the
+407 property to utilize the space as a restaurant;
+408 “(3) The applicant’s proposed location is located in a commercial or
+409 mixed-use zone as defined in the zoning regulations for the District; and
+16
+
+410 “(4) The applicant agrees to follow all applicable Department of Licensing
+411 and Consumer Protection and Department of Health laws and regulations.
+412 “(j) The permitted hours of indoor operation for a pop-up restaurant shall be 6
+413 a.m. to 1 a.m., 7 days a week. A pop-up restaurant registrant may offer indoor
+414 entertainment, which may include a cover charge, between the hours of 8 a.m. and
+415 midnight, 7 days a week.
+416 “(k) The permitted hours of off-premises alcohol sales at the pop-up restaurant,
+417 including carry out and delivery shall be 6 a.m. to 1 a.m., 7 days a week.
+418 “(l) A pop-up restaurant registrant may operate under this section for no longer
+419 than 90 calendar days. The Board may approve a written request from a pop-up
+420 restaurant registrant to extend its operations for one additional 30 calendar day period. A
+421 pop-up restaurant registrant shall not operate for more than 120 days unless a completed
+422 application for a license pursuant to § 25-134 has been filed with the Board with notice
+423 provided to the public in accordance with § 25-421.
+424 “(m) The terms of a settlement agreement that an eligible retailer has in effect at
+425 its current licensed location shall not follow the licensee to its additional proposed pop-up
+426 restaurant registration location.
+427 “(n) For purposes of this section:
+428 “(1) Ward 5, Ward 7 and Ward 8 means the election ward boundaries for
+429 Ward 5, Ward 7 and Ward 8 that were in effect from January 1, 2012, through December
+430 31, 2021; and
+17
+
+431 “(2) The term “downtown” includes the Central Business District, as well as
+432 any area zoned D-2, D-3, D-4, D-5, D-6, D-7, or D-8, as defined in the District’s zoning
+433 regulations.
+434 “25-134. Wards 5, 7 and 8 and Downtown Class C/RB and D/RB Restaurant
+435 Retailer Licenses.
+436 “(a) An applicant with a proposed location in Ward 5, Ward 7, Ward 8, or
+437 downtown, as defined in this section, shall be eligible to apply for a class C/RB or class
+438 D/RB restaurant retailer’s license. A class C/RB or class D/RB restaurant retailer’s
+439 license shall be a type of restaurant license pursuant to § 25-113(b), and shall authorize
+440 the holder to operate both a restaurant and a wine and beer store with on-premises and
+441 off-premises alcohol sales at the same location.
+442 “(b) A class C/RB restaurant retailer’s license shall authorize the holder to sell
+443 and serve spirits, wine, and beer for on-premises consumption and sell and deliver wine
+444 and beer in either sealed or closed containers for off-premises consumption without being
+445 accompanied by a prepared food item. The holder of a class C/RB restaurant retailer’s
+446 license may obtain a carry out and delivery endorsement to sell spirits for carry out and
+447 delivery in closed containers accompanied by one or more prepared food items for off-
+448 premises consumption.
+449 “(c) A class D/RB restaurant retailer’s license shall authorize the holder to sell
+450 and serve beer and wine for on-premises consumption and sell and deliver wine and beer
+451 in either sealed or closed containers for off-premises consumption without being
+452 accompanied by a prepared food item.
+453 “(d) An applicant for a class C/RB or class D/RB restaurant retailer’s license shall
+18
+
+454 be required to undergo a 45-day public comment period with notice provided to the
+455 public in accordance with the requirements set forth in § 25-421.
+456 “(e) The holder of a class C/RB or class D/RB restaurant retailer’s license shall
+457 comply with the statutory restaurant requirements set forth in §§ 25-101(43) and 25-
+458 113(b).
+459 “(f) An applicant for a class C/RB or class D/RB restaurant license for a location
+460 in Ward 5, Ward 7, Ward 8, or downtown shall be exempt from the restrictions set forth
+461 in §§ 25-314(b)(1) and 25-333.
+462 “(g) After 24 months of operation in Ward 5, Ward 7 or Ward 8, the holder of a
+463 class C/RB or class D/RB restaurant retailer’s license shall be permitted to apply for one
+464 additional class C/RB or class D/RB restaurant retailer’s license at a location in Wards 1
+465 through 4 and 6.
+466 “(h) A class C/RB or class D/RB restaurant retailer’s license shall be valid for 3
+467 years.
+468 “(i) For purposes of this section:
+469 “(1) Ward 5, Ward 7 and Ward 8 means the election ward boundaries for
+470 Ward 5, Ward 7 and Ward 8 that were in effect from January 1, 2012, through December
+471 31, 2021; and
+472 “(2) The term “downtown” includes the Central Business District, as well as
+473 any area zoned D-2, D-3, D-4, D-5, D-6, D-7, or D-8, as defined in the District’s zoning
+474 regulations.
+475 “25-135. Outdoor Activation License.
+19
+
+476 “(a) An outdoor activation license shall authorize a BID corporation to sell, serve,
+477 and permit the consumption of alcoholic beverages at an outdoor space named on the
+478 license that is owned, controlled, or managed by the District.
+479 “(b) An outdoor activation license shall be issued for a period of one year. A BID
+480 corporation may request in writing that the Board renew the license for an additional
+481 year, subject to the payment of an annual fee.
+482 “(c) The issuance of an outdoor activation license shall be based upon the
+483 applicant’s compliance with § 25-301.
+484 “(d) The Board may deny the renewal of an outdoor activation license application
+485 if the applicant has failed to control the environment during the previous year or has
+486 sustained police action or substantiated community complaints.
+487 “(e) There shall be 2 classes of outdoor activation licenses:
+488 “(1) Class O (beer and wine); and
+489 “(2) Class N (spirits, beer, and wine).
+490 “(f) The annual fee for a Class O license shall be $130. The
+491 annual fee for a Class N license shall be $300.”.
+492 (b) Chapter 2 is amended as follows:
+493 (1) Section 25-201 is amended as follows:
+494 (A) Subsection (c) is amended as follows:
+495 (i) Paragraph (6) is amended by striking the phrase “title;”
+496 and inserting the phrase, “title, where appropriate;” in its place.
+497 (ii) Paragraph (8) is amended to read as follows:
+498 “(8) Refer evidence of criminal misconduct or other violations of law to
+20
+
+499 the Inspector General of the District of Columbia, the Attorney General for the District of
+500 Columbia, the United States Attorney for the District, an appropriate District agency, or
+501 other law enforcement agency for investigation and prosecution.”.
+502 (2) Section 25-206 is amended as follows:
+503 (A) Subsection (c) is amended by striking the phrase “licensed
+504 establishments” and inserting the phrase “licensed alcohol establishments and medical
+505 cannabis facilities” in its place.
+506 (B) Subsection (f)(2) is amended by striking the phrase “alcoholic
+507 beverages in” and inserting the phrase “alcoholic beverages and medical cannabis in” in
+508 its place.
+509 (C) Subsection (g) is amended as follows:
+510 (i) Strike the phrase “alcoholic beverages, or” and insert the
+511 phrase “alcoholic beverages or medical cannabis, or” in its place.
+512 (ii) Strike the phrase “alcoholic beverages;” and insert the
+513 phrase “alcoholic beverages or medical cannabis;” in its place.
+514 (3) Section 25-211 is amended as follows:
+515 (A) Subsection (a) is repealed.
+516 (B) Subsection (b) is amended to read as follows:
+517 “(b)(1) The Mayor shall submit proposed regulations to the Council for a
+518 60-day period of review, excluding days of Council recess.
+519 “(2) The Council may approve the proposed regulations in whole or in
+520 part. If the Council has not approved the regulations upon expiration of the 60-day
+521 review period, the regulations shall be deemed approved.”.
+21
+
+522 (c) Chapter 3 is amended as follows:
+523 (1) Section 25-301 is amended as follows:
+524 (A) Subsection (a) is amended as follows:
+525 (i) Paragraph (3) is amended to read as follows:
+526 “(3)(A) Except as provided in subparagraph (B) of this paragraph, the
+527 applicant has not been convicted of a felony for a crime of violence, a gun offense, tax
+528 evasion, fraud, as defined in § 22-3221, or credit card fraud within the 3 years preceding
+529 the date the application is filed with ABCA;
+530 “(B) A applicant for a solicitor’s license or manager’s license has
+531 not been convicted of a felony for a crime of violence, a gun offense, tax evasion, fraud,
+532 or credit card fraud within the 3 years preceding the date the application is filed with
+533 ABCA.
+534 (ii) Paragraph (4) is repealed.
+535 (B) Subsection (c-1) is amended by striking the phrase “within 5
+536 years” and inserting the phrase “for a crime of violence, a gun offense, tax evasion, fraud,
+537 or credit card fraud within 3 years” in its place.
+538 (2) Section 25-303(a) is amended by adding new paragraphs (6) and (7) to
+539 read as follows:
+540 “(6) Notwithstanding any other provisions in this subsection, the holder of
+541 a retailer’s license class C or Class D, a full-service grocery store class B, or a 25%
+542 grocery store class A may hold one or more class C/RB or class D/RB restaurant retailer
+543 licenses, as permitted by this title.
+22
+
+544 “(7) Notwithstanding the restrictions set forth in subsection (a)(1A) of this
+545 section, the holder of a manufacturer’s license, class B, may apply for a class C or class D
+546 retailer’s license with a brew pub endorsement subject to the requirements of § 25-
+547 116a.”.
+548 (3) Section 25-314 is amended as follows:
+549 (A) Subsection (b) is amended as follows:
+550 (i) The lead-in language is amended by striking the phrase
+551 “through (11)” and inserting the phrase “through (12)” in its place.
+552 (ii) A new paragraph (12) is amended to read as follows:
+553 “(12) Pursuant to § 25-134(f), the 400-foot restriction shall not apply to
+554 the holder of a class C/RB or class D/RB restaurant license for a location in Ward 5,
+555 Ward 7, Ward 8, or downtown as defined in this title.”.
+556 (B) A new subsection (d) is added to read as follows:
+557 “(d) In determining the appropriateness of an establishment for initial issuance of
+558 a license or a transfer of a license to a new location, the Board shall not consider any
+559 restrictive land covenant, deed, or other use restriction of any type, excluding a property’s
+560 zoning designation, that bans, restricts, or in any way prohibits the placement and use of
+561 an alcoholic beverage license at an applicant’s proposed location. Nothing in this
+562 subsection shall prohibit a protest of an application for the initial issuance of a license or
+563 the transfer of a license to a new location from being filed pursuant to the requirements
+564 set forth in chapter 4 of this title.”.
+565 (4) Section 25-315(b) is amended as follows:
+23
+
+566 (A) Paragraph (1) is amended by striking the period at the end of
+567 the sentence and inserting the phrase “or Board Order.” In its place.
+568 (B) Paragraph (2) is amended to read as follows:
+569 “(2) The Board shall make the licensee’s investigative history, which shall
+570 consist of the licensee’s record of alcoholic beverage violations, available to
+571 the public for review.”.
+572 (5) Section 25-331(a) is amended by striking the word “250” and inserting
+573 the word “275” in its place.
+574 (6) Section 25-332(e) is amended by striking the phrase, “class B, for the
+575 sale of alcoholic beverages in an establishment if the;” and inserting the phrase “class B,
+576 located inside of a hotel, for the sale of alcoholic beverages in an establishment if the:” in
+577 its place.
+578 (7) Section 25-336(g)(1) is amended by striking the phrase, “Board of
+579 Zoning” and inserting the phrase “Board of Zoning Adjustment” in its place.
+580 (8) Section 25-351 is amended by adding a new subsection (h) to read as
+581 follows:
+582 “(h) The Board may adopt emergency rules to extend the expiration date of an
+583 existing moratorium to allow an ANC where the moratorium is located to consider or
+584 vote on a moratorium petition or resolution at a noticed ANC meeting.”.
+585 (d) Chapter 4 is amended as follows:
+586 (1) The table of contents is amended by adding new section designations
+587 to read as follows:
+588 “§ 25-446.03 Unenforceable Agreements Generally.”
+24
+
+589 “§ 25-446.04 ANC Redistricting and Successor ANC.”.
+590 (2) Section 25-434 is amended by adding a new subsection (c) to read as
+591 follows:
+592 “(c) If an applicant or protestant is convicted of violating subsection (a) of this
+593 section, after final entry of judgment of conviction the Board may:
+594 “(1) Dismiss the individual protestant or deny the license application; or
+595 “(2) Bar the applicant or protestant, for up to 5 years, from protesting or
+596 filing a license application.”.
+597 (3) Section 25-441(a) is amended by striking the phrase “for good cause.”
+598 And inserting the phrase “for good cause, by the Board sua sponte, or by a motion filed
+599 by any party.” in its place.
+600 (4) Section 25-443(c) is amended by striking the phrase “The Board” and
+601 inserting the phrase “The party seeking the subpoena” in its place.
+602 (5) Section 25-446 is amended to read as follows:
+603 “§ 25-446. Settlement agreements; approval process; penalties for violations.
+604 “(a) The applicant, any protestant, and any person or entity who would otherwise
+605 have standing to protest an application pursuant to § 25-601 may, at any time, negotiate a
+606 settlement and enter into a written settlement agreement setting forth the terms of the
+607 settlement.
+608 “(b)(1) The signatories to the agreement shall submit the agreement to the Board
+609 for approval.
+610 “(2) Except as provided in § 25-446.02, all provisions of a settlement
+611 agreement approved by the Board shall be enforceable by ABCA or the Board.
+25
+
+612 “(c) If it determines that the settlement agreement complies with all applicable
+613 laws and regulations and the applicant otherwise qualifies for licensure, the Board, in its
+614 discretion, may condition its approval of the license application upon the licensee’s
+615 compliance with the terms of the agreement. The Board shall incorporate the text of the
+616 settlement agreement in its order and the settlement agreement shall be enforceable by
+617 the Board.
+618 “(c-1) The Board shall reject any settlement agreement that is not in accordance
+619 with the law and may reject any settlement agreement that requires compliance with
+620 statutory or regulatory requirements enforced by another agency.
+621 “(d)(1) Unless a shorter term is agreed upon by the parties, a settlement agreement
+622 approved by the Board shall run for the term of a license, including renewal periods,
+623 unless it is terminated or amended in writing by the parties and the termination or
+624 amendment is approved by the Board.
+625 “(2) The Board may accept an application to amend or terminate a
+626 settlement agreement by fewer than all parties in the following circumstances:
+627 “(A) During the licensee’s renewal period; and
+628 “(B) After 4 years from the date of the Board’s decision initially
+629 approving the settlement agreement.
+630 “(3) Notice of an application to amend or terminate a settlement
+631 agreement shall be given both to the parties of the agreement and to the public at the time
+632 of the applicant’s renewal application according to the renewal procedures required under
+633 §§ 25-421 through 25-423.
+26
+
+634 “(4) The Board may approve a request by fewer than all parties to amend
+635 or terminate a settlement agreement for good cause shown if it makes each of the
+636 following findings based upon sworn evidence:
+637 “(A)(i) The applicant seeking the amendment or termination has
+638 made a diligent effort to locate all other parties to the settlement agreement; or
+639 “(ii) If non-applicant parties are located, the applicant has
+640 made a good faith attempt to negotiate a mutually acceptable amendment or termination
+641 of the settlement agreement;
+642 “(B) The need for an amendment or termination is either caused by
+643 circumstances beyond the control of the applicant or is due to a change in the
+644 neighborhood where the applicant’s establishment is located; and
+645 “(C) The amendment or termination will not have an adverse
+646 impact on the neighborhood where the establishment is located as determined under §§
+647 25-313 or 25-314, if applicable.
+648 “(5) To fulfill the good faith attempt criteria of paragraph (4)(A)(ii) of this
+649 subsection, a sworn affidavit from the applicant shall be filed with the Board at the time
+650 that an application to amend or terminate a settlement agreement by fewer than all parties
+651 is filed stating that either:
+652 “(A) A meeting occurred between the parties which did not result
+653 in an agreement; or
+654 “(B) The non-applicant parties refused to meet with the applicant.
+655 “(6) For the purposes of this subsection, the term “license’s renewal
+656 period” means the 60-day period before the expiration date of a license.
+27
+
+657 “(7) Upon the filing of a valid petition for termination or amendment by
+658 the applicant under this section, and the subsequent petition of the applicant that any
+659 signatory party has not filed a valid protest during the public comment period, that
+660 signatory party shall automatically be removed from the agreement.
+661 “(e) If the Board determines, following a show-cause hearing as provided in § 25-
+662 447, that a licensee has violated a settlement agreement, the Board may penalize the
+663 licensee according to the provisions set forth for violations of a license in Chapter 8 of
+664 this title.
+665 “(f) A settlement agreement shall automatically terminate if the Board finds, upon
+666 petition of the applicant, that the Board has approved a transfer of the license to a new
+667 location at least 1,200 feet away from the prior location after the approval of the
+668 agreement.”.
+669 (6) Section 25-446.01 is amended to read as follows:
+670 “§ 25-446.01. Settlement agreements – Enforceable provisions
+671 A settlement agreement enforceable by the Board under this subchapter may
+672 include provisions that:
+673 “(a) Allow or prohibit amplified or recorded music or other amplified sounds and
+674 live entertainment; set maximum decibel limits on sound amplification devices; or restrict
+675 the location of entertainment and use of sound equipment or the hours that amplified or
+676 recorded music, amplified sound, or live entertainment that may be provided;
+677 “(b) Require specific methods, including specific architectural features, to
+678 mitigate sound or noise disturbances, such as: requiring doors and windows to remain
+679 closed except for the case of ingress and egress; requiring sound barriers and other sound
+28
+
+680 proofing elements; requiring the use of sound limiters and other equipment; and
+681 restricting the placement of sound equipment;
+682 “(c) Require cleanliness, litter and trash control inside of and in the immediate
+683 area surrounding the premises by, for example, specifying the frequency with which the
+684 immediate area is cleaned, specifying trash removal times, requiring efforts to limit rat
+685 and vermin infestation, and requiring trash and recycling management;
+686 “(d) Require specific parking arrangements;
+687 “(e) Require the use of valet parking through a valet service, but only through a
+688 service that is properly approved and has all licenses, permits, and other approvals
+689 required by law;
+690 “(f) Require that the applicant or existing licensee maintain an incident log and
+691 that the incident log be made available to ABCA and the Board, upon request;
+692 “(g) Require filing and compliance with a security plan in accordance with this
+693 title, to the extent that the Board is authorized to require the filing of a security plan in
+694 accordance with this title;
+695 “(h) Contain notice to cure provisions;
+696 “(i) Restrict the hours of operation, alcohol consumption, alcohol sales, alcohol
+697 service, or alcohol possession, outdoor facilities, and entertainment on the premises or
+698 specific parts of the premises;
+699 “(j) Prohibit or restrict the utilization of floors, prohibit or restrict the utilization
+700 of outdoor areas, or limit the occupancy and the number of seats;
+701 “(k) Address the prevention of intoxication, public intoxication, public urination,
+702 public defecation, and underage drinking by patrons;
+29
+
+703 “(l) Require the use of security cameras, minimum identification checking
+704 procedures, minimum security personnel staffing, crowd control measures, the use of
+705 various doors as exits and entrances, the hiring of the Metropolitan Police Department
+706 (MPD) Reimbursable Detail, restricting the consumption of alcohol by the owners or its
+707 agents at the premises, and other security policies and procedures;
+708 “(m) Require minimum training for managers and staff;
+709 “(n) Require the postage of signage or information on the establishment’s
+710 website;
+711 “(o) Provide minimum kitchen hours, require the service or availability of food
+712 and non-alcoholic beverages, and restrictions on the location of alcohol consumption and
+713 service on the premises;
+714 “(p) Require the sale or service of alcohol in tempered glass, paper, plastic or
+715 other soft materials, otherwise designed to break without sharp edges; and
+716 “(q) Mandate that the establishment comply with existing District law and all
+717 licenses, endorsements, and permits, granted by the District.”.
+718 (7) Section 25-446.02 is amended to read as follows:
+719 “§ 25-446.02 Settlement agreements – Unenforceable provisions.
+720 The Board shall not enforce, if included in a settlement agreement covered by this
+721 subchapter, provisions that:
+722 “(a) Require approval from a signatory or third party to file an application or
+723 request with the Board;
+724 “(b) Require additional or specific notice to a signatory or third party outside of
+725 the notice required by law;
+30
+
+726 “(c) Restrict the sale or transfer of the business to new or different owners or
+727 require or restrict a change in the class or type of license;
+728 “(d) Prohibit the act of filing an application or a request with the District;
+729 “(e) Mandate the purchase, service, or sale of specific types of food, non-
+730 alcoholic beverages, and alcoholic beverages, the type of cuisine, the use of brands or
+731 types of alcohol and other products, and alcohol pricing;
+732 “(f) Restrict customers based upon age, gender, national origin, status as a
+733 student, or other criteria prohibited by the Human Rights Act of 1977, effective
+734 December 13, 1977 (D.C. Law 2-38; D.C. Official Code § 2-1401.01 et. seq.);
+735 “(g) Require the use of specific businesses, or the hiring of specific persons or
+736 categories of persons;
+737 “(h) Create additional administrative procedures in addition to those required by
+738 ABCA or the District;
+739 “(i) Require licensee or their agents to attend ANC or community meetings or
+740 otherwise require them to appear or communicate with the signatories or third parties;
+741 “(j) Require the establishment to provide money, buy specific goods or services,
+742 or provide financial or other benefits to the community; provide the payment of fees or
+743 restitution to lawyers, consultants, and other third parties; or provide discounts, free
+744 goods and services, or other promotions to the community;
+745 “(k) Require that contracts, incident logs, or similar documents be made available
+746 to the signatories or third parties;
+747 “(l) Require a minimum level of food, non-alcoholic beverage, or alcoholic
+748 beverage sales to the public; and
+31
+
+749 “(m) Require future negotiation or create probationary periods that alter the terms
+750 of the license, settlement agreement, or the operation of the establishment after approval
+751 of the agreement.”.
+752 (8) A new section 25-446.03 is added to read as follows:
+753 “§ 25-446.03. Unenforceable Agreements Generally.
+754 “(a) A settlement agreement not approved by the Board shall not be
+755 enforced by ABCA or the Board.
+756 “(b) Any promise by a person, in a contract, settlement agreement, or
+757 other agreement, not to exercise that person’s rights to object to, or petition against, a
+758 license application or to withdraw a filed objection shall be void if made in exchange for
+759 money or other compensation to any individual or entity.”.
+760 (9) A new section 25-446.04 is added to read as follows:
+761 “§ 25.446.04. ANC Redistricting and Successor ANC.
+762 “After the approval of a settlement agreement between the licensee and an ANC
+763 or the filing of a protest by that ANC, if the Council amends the boundaries of ANCs and
+764 the licensed establishment is located in a new ANC’s boundaries, the new ANC shall be
+765 deemed the successor-in-interest and replace the original ANC as a party to the
+766 agreement and any filed protest.”.
+767 (e) Chapter 5 is amended as follows:
+768 (1) The table of contents is amended by adding the following section
+769 designations:
+770 “§ 25-514. Minimum fees for contract brewing license.”
+771 “§25-515. Wards 5, 7 and 8 Downtown Pop-Up Restaurant Registration”
+32
+
+772 “§25-516. Minimum fees for Class CRB and DRB licenses.”
+773 “§25-517. Minimum fees for Art Galleries for Multipurpose Facility Licenses.”.
+774 (2) Section 25-501(c) is amended to read as follows:
+775 “(c)(1) A licensee’s failure to timely remit the annual fee shall be cause
+776 for the Board to suspend the license until the licensee pays the fee and any additional fees
+777 imposed by the Board for late payment. The licensee shall have 14 calendar days to
+778 respond to the Board’s order suspending its license. If the licensee fails to respond or
+779 demonstrate good cause why the fees and additional fees have not been remitted, the
+780 Board shall cancel the license.
+781 “(2) A license that has been suspended by the Board for the non-payment
+782 of license fees and additional fees shall automatically be reinstated by ABCA once all of
+783 the imposed fees have been paid.
+784 (3) Section 25-502 is amended as follows:
+785 (A) The heading is amended by striking the phrase “license fees” and
+786 inserting the phrase “license, permit, and endorsement” in its place.
+787 (B) Strike the phrase “license fees established by this chapter or to create
+788 additional license” and insert the phrase “license, permit, or endorsement fees established
+789 by this chapter or to create additional license, permit, or endorsement” in its place.
+790 (4) New sections 25-514, 25-515, 25-516, and 25-517 are added to read as
+791 follows:
+792 “§ 25-514. Minimum fees for contract brewing license.
+793 “The minimum application fee for a contract brewing license shall be $300. The
+794 minimum annual fee for a contract brewing license shall be $500.”.
+33
+
+795 “§ 25-515. Wards 7 and 8 and Downtown Pop-Up Restaurant
+796 Registration.
+797 “The minimum fee for a Wards 7 and 8 and Downtown Pop-up Restaurant
+798 registration shall be $300.
+799 “§ 25-516. Minimum fees for Class C/RB and Class D/RB licenses.
+800 “The Board shall establish the minimum annual fees for the Class C/RB and Class
+801 D/RB retailer license categories by regulation based upon the capacity of the restaurant.
+802 “§ 25-517. Minimum fees for Art Galleries for Multipurpose Facility
+803 Licenses.
+804 “If an art gallery or bookstore applies for a new multipurpose facility retailer’s
+805 license Class C/X or D/X for a proposed location in Ward 5, Ward 7, Ward 8, or
+806 downtown, the art gallery or bookstore shall not be required to pay an application fee and
+807 shall not be required to pay a licensing fee for its initial license or for its first two
+808 subsequent annual license periods. For purposes of this section:
+809 “(a) Ward 5, Ward 7 and Ward 8 means the election ward boundaries for Ward 7
+810 and Ward 8 that were in effect from January 1, 2012, through December 31, 2021; and
+811 “(b) The term “downtown” includes the Central Business District, as well as any
+812 area zoned D-2, D-3, D-4, D-5, D-6, D-7, or D-8, as defined in the District’s zoning
+813 regulations.
+814 (f) Chapter 6 is amended as follows:
+815 (1) Section 25-601 is amended by adding a new subsection (c) to read as
+816 follows:
+817 “(c) If the boundaries of an ANC are redrawn in a manner that an
+34
+
+818 applicant is located in the boundaries of a new ANC, the new ANC, upon the filing of a
+819 written request for standing with the Board, shall be entitled to standing as a party and
+820 participate as a protestant in any pending protest active on the date the applicant’s
+821 existing or proposed location was officially located within the new ANC’s boundaries
+822 unless the protest is resolved before the filing of the ANC’s motion for standing.”.
+823 (g) Chapter 7 is amended as follows:
+824 (1) The table of contents is amended by adding the following section
+825 designation:
+826 “§ 25-741. Go-cups prohibited.”.
+827 (2) Section 25-722 is amended as follows:
+828 (A) Subsection (a) is amended to read as follows:
+829 “(a) A licensee under an off-premises retailer’s license, class A or
+830 B, may sell and deliver alcoholic beverages to District residents, or provide alcoholic
+831 beverages to customers by curbside delivery, only between the hours of 6:00 a.m. and
+832 1:00 a.m., 7 days a week.
+833 (B) Subsection (b) is repealed.
+834 (3) Section 25-723 is amended as follows:
+835 (A) Subsection (c)(1) is amended as follows:
+836 (i) Subparagraph (E) is amended as follows:
+837 (I) Strike the phrase "Christmas Day,” and insert the
+838 phrase “Christmas Day, Juneteenth National Independence Day, and” in its place.
+839 (4) Section 25-731(b) is amended by striking the phrase “purchase or
+35
+
+840 delivery” and inserting the phrase “purchase or delivery unless the 16th day falls on a
+841 weekend or public holiday, in which case payment shall be made on the next calendar
+842 day that does not fall on a weekend or public holiday” in its place.
+843 (5) Section 25-736(a-1) is amended to read as follows:
+844 “(a-1)(1) Notwithstanding subsections (a), (b), and (c) of this section, with the
+845 Board’s prior approval, a licensed wholesaler may rent a retailer’s licensed premises for
+846 more than $500 to host a one-day or a one-time event.
+847 “(2) The Board shall not grant a wholesaler’s request pursuant to
+848 paragraph (1) of this subsection more than one time in a calendar year.”.
+849 (6) Section 25-762(b)(17) is repealed.
+850 (7) Section 25-784 is amended to read as follows:
+851 “§ 25-784. Sale or distribution of beverages by minor prohibited.
+852 “(a) Except as provided in subsections (b) and (c) of this section, a licensee shall
+853 not allow any person under 21 years of age to sell, give, furnish, or distribute an alcoholic
+854 beverage.
+855 “(b) A licensee may allow an employee who is 18 years of age or older to sell,
+856 serve, deliver, or pour an alcoholic beverage; provided, that no employee under 21 years
+857 of age shall serve as a bartender.
+858 “(c) Notwithstanding subsections (a) and (b), a licensed on-premises retailer class
+859 C/R, D/R, C/H, D/H, C/T, or D/T may allow an individual who is 17 years of age to sell
+860 or serve alcoholic beverages, except to patrons seated or standing at a bar, if both of the
+861 following conditions are met:
+36
+
+862 “(1) The individual has completed an alcohol training and education
+863 certification program from a Board-approved provider as set forth in § 25-121; and
+864 “(2) During the individual’s shift, the retailer has a licensed manager or
+865 owner on-duty who is 21 years of age or older and has completed an alcohol training and
+866 education certification program from a Board-approved provider.”.
+867 (h) Chapter 8 is amended as follows:
+868 (1) The table of contents is amended to add a new section designation
+869 under Subchapter II to read as follows:
+870 “§ 25-829a. Cease and desist orders for catering sites”.
+871 (2) Section 25-826(c) is amended by striking the phrase “request a hearing
+872 within” and inserting the phrase “request a hearing in writing within” in its place.
+873 (3) A new section 25-829a is added to read as follows:
+874 “§ 25-829a. Cease and desist orders for catering sites.
+875 “(a) If the Board, after investigation but before a hearing, has cause to believe that
+876 a licensed caterer is engaged in a use or activity not permitted by its caterer’s license at
+877 an event site that is causing immediate harm to the public, the Board may issue an order
+878 requiring the caterer to cease using the property for catered events or under such
+879 restrictions as the Board may impose in accordance with § 25-104(e).
+880 “(b) The order shall be served on the caterer, either by certified mail or delivery in
+881 person.
+882 “(c) The caterer may, within 15 calendar days after the service of the order,
+883 submit a written request to the Board to hold a hearing on the alleged violation.
+37
+
+884 “(d) Upon receipt of a timely request, the Board shall conduct an expedited
+885 hearing within 10 days after the date of receiving the request.
+886 “(e) The Board may prohibit the licensed caterer from utilizing its license at a
+887 specific property for catered events if it finds any of the following after reviewing the
+888 investigative report:
+889 “(1) The caterer engaged in a primary tier violation at the event site;
+890 “(2) At the time of the event, the premises or event were in violation of the
+891 Building Code or the Fire Code; or
+892 “(3) One or more catered events at the location had a negative impact
+893 upon the peace, order, and quiet of the section of the neighborhood, as defined in § 25-
+894 101(46), where the event was held if it is shown that:
+895 “(A) The caterer produced amplified noise at the catered event that
+896 was heard in a dwelling between 10:00 p.m. and 7:00 a.m.;
+897 “(B) The caterer permitted the event site to exceed the maximum
+898 occupancy permitted by the premise’s certificate of occupancy; or
+899 “(C) During the event, a crime of violence or other felony occurred
+900 or a weapon was used or unlawfully displayed at the event site.
+901 “(f)(1) The caterer of the event may, within 10 days after the service of an order,
+902 submit a written request to the Board for an expedited hearing on the alleged violation.
+903 “(2) Upon receipt of a timely request for an expedited hearing, the Board
+904 shall conduct a hearing within 10 days after the date of receiving the request and shall
+905 deliver to the caterer of the event at the individual’s or owner’s last known address a
+38
+
+906 written notice of the hearing by any means guaranteed to be received at least 5 days
+907 before the hearing date.
+908 “(3) The Board shall issue a decision within 30 days after an expedited
+909 hearing.
+910 “(g) If a request for a hearing is not made under subsection (c) of this section, the
+911 order of the Board shall be final.
+912 “(h) If, after a hearing, the Board determines that the alleged violator is not in
+913 violation of this title, the Board shall rescind the order.
+914 “(i) If a person fails to comply with a lawful order of the Board under this section,
+915 the Board may petition the Superior Court of the District of Columbia for an order
+916 compelling compliance or take any other action authorized by this subchapter.
+917 “(j) The Board may lift or modify its order if the property owner demonstrates to
+918 the satisfaction of the Board that it will take adequate steps to address the misuse of the
+919 event site.”.
+920 (4) Section 25-830 is amended as follows:
+921 (A) Subsection (a) is amended to read as follows:
+922 “(a) The Board may submit amendments to the schedule of civil
+923 penalties (“schedule”) for violations of this title to the Council for a 90-day period of
+924 review, including Saturdays, Sundays, holidays, and periods of Council recess. If the
+925 Council does not approve, in whole or in part, the proposed regulations by resolution
+926 within the 90-day period of review, the regulations shall be deemed approved. The
+927 schedule, which shall be consistent with this title, shall replace all civil penalties, except
+928 as expressly provided in this title.
+39
+
+929 (B) Paragraphs (e)(2) and (3) are repealed.
+930 Sec. 3. Fiscal impact statement.
+931 The Council adopts the fiscal impact in the committee report as the fiscal impact
+932 statement required by section 4a of the General Legislative Procedures Act of 1975,
+933 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+934 Sec. 4. Effective date.
+935 This act shall take effect following approval by the Mayor (or in the event of veto
+936 by the Mayor, action by the Council to override the veto), a 60-day period of
+937 congressional review as provided in section 602(c)(1) of the District of Columbia Home
+938 Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-
+939 206.02(c)(1)), and publication in the District of Columbia Register.
+40
+
+For these reasons discussed above, I urge the Council to take prompt and favorable action on the
+enclosed proposed bill.
+Sincerely,
+Muriel Bowser
+Enclosure
+
+Government of the District of Columbia
+Office of the Chief Financial Officer
+Glen Lee
+Chief Financial Officer
+MEMORANDUM
+TO: The Honorable Phil Mendelson
+Chairman, Council of the District of Columbia
+FROM: Glen Lee
+Chief Financial Officer
+DATE: August 11, 2025
+SUBJECT: Fiscal Impact Statement – DC Hospitality Amendment Act of 2026
+Draft bill as provided to the Office of Revenue Analysis on June 6,
+REFERENCE: 2025
+Conclusion
+Funds are sufficient in the fiscal year 2026 through the fiscal year 2029 budget and financial plan to
+implement the bill.
+Background
+The Alcoholic Beverage and Cannabis Board (the Board), through its direction of the Alcoholic
+Beverage and Cannabis Administration (ABCA), oversees alcohol and medical cannabis laws in the
+District. The bill makes numerous changes to the sale and use of alcohol in the District, including
+adding new alcohol licensing categories and expanding how bars, restaurants, distilleries, wineries,
+and breweries can serve patrons. Provisions of the bill include:
+Outdoor Activation License: The bill creates a new license type to permit the sale and consumption
+of alcohol in registered outdoor public spaces. It also provides that an Arena C/X licensee or a
+Washington Convention and Sports Authority food and alcohol business that hosts sporting events
+may request Board approval to allow the sale, service, and consumption of beer, wine, or spirits on
+outdoor public space for a specific event that involves a street closure
+Employment restrictions for returning citizens and individuals under 18: Under current law,
+returning citizens with a felony conviction cannot be employed in some positions in alcohol-serving
+establishments. The bill limits the prohibition on employment to within three years; and limits the
+prohibition to certain felonies (crime of violence, gun offenses, tax evasion, fraud, or credit card
+1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727-2476
+www.cfo.dc.gov
+
+The Honorable Phil Mendelson
+FIS: “Ward 5, Ward 7, Ward 8 and Downtown DC Hospitality Support Act of 2025,” Draft bill as provided to
+the Office of Revenue Analysis on June 6, 2025
+fraud). The bill would permit 17-year-olds who take an alcohol training course to serve alcoholic
+beverages to individuals not seated at or standing at a bar, provided there is also a licensed manager
+or owner onsite who is over 21 years of age. Currently, individuals under the age of 18 are not
+permitted to sell or serve alcohol.
+Partially consumed beverages: The bill would allow restaurant patrons to take an opened container
+of alcohol with them when they leave. The allowance extends to taverns (as well as restaurants and
+hotels) and covers malt beverages (as well as wine and beer).
+New alcohol licensing types and license waivers: The bill permits restaurants to sell alcohol for on-
+or off-premises consumption without requiring an accompanying food item. The bill also increases
+the types of alcohol products that can be sold for on and off-premises consumption. The bill creates
+new license types for contract brewing (between two breweries or brew pubs) and cross-distillery
+collaborations (between two distilleries). It also expands the ability of alcohol manufacturers to
+manufacture and store alcohol on or near their venue. The bill allows existing breweries to open a
+new brewpub in Ward 5, Ward 7, Ward 8, or downtown. The bill also waives application licensing
+fees for new art galleries for three years in Ward 5, Ward 7, Ward 8, and downtown.
+Extended hours: The bill adds Juneteenth to the list of holidays for which alcohol sales can be
+extended.
+Financial Plan Impact
+Funds are sufficient in the fiscal year 2026 through the fiscal year 2029 budget and financial plan to
+implement the bill. The Alcoholic Beverage and Cannabis Board and the Alcoholic Beverage and
+Cannabis Administration can absorb any costs associated with the bill. ABCA will issue rulemaking
+outlining the various fees for new license types and endorsements included in the bill.
+Page 2 of 2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+BRIAN L. SCHWALB
+ATTORNEY GENERAL
+LEGAL COUNSEL DIVISION
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal Counsel Division
+DATE: June 6, 2025
+SUBJECT: Legal Sufficiency Review – DC Hospitality Amendement Act of 2026
+(AE-23-428 C)
+_____________________________________________________________________________________
+This is to Certify that
+this Office has reviewed the above-referenced draft
+legislation and found it to be legally sufficient. If you have any questions in this regard, please do
+not hesitate to call me at (202) 262-6402.
+_________________________________
+Adele El-Khouri
+2

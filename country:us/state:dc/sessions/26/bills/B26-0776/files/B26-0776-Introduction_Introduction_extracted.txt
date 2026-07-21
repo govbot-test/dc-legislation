@@ -1,0 +1,298 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1 __________________________
+2 Councilmember Doni Crawford
+3
+4
+5 A BILL
+6
+7 _________________________
+8
+9 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+10
+11 _________________________
+12
+13
+14 To designate the District of Columbia as the nation's Tech for Good Capital; to amend Chapter
+15 18 of Title 47 of the District of Columbia Official Code to establish a real property tax
+16 abatement for qualified public-interest technology companies that create jobs in the
+17 District; to authorize the Deputy Mayor for Planning and Economic Development to
+18 convene and support Tech for Good innovation clusters; and to establish a Tech for Good
+19 Working Group to develop a District-wide marketing and economic development
+20 strategy.
+21
+22 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 act may be cited as the “Official Tech for Good Capital Designation Amendment Act of 2026”.
+24 TITLE I. DESIGNATION OF THE DISTRICT AS THE TECH FOR GOOD
+25 CAPITAL.
+26 Sec. 101. Short title.
+27 This title may be cited as the “Sense of the Council on the Designation of the District of
+28 Columbia as the Tech for Good Capital Act of 2026”.
+29 Sec. 102. The Council finds that:
+30 (1) The District’s economy has long been closely tied to the federal government, making
+31 it particularly vulnerable to federal workforce reductions and broader shifts in federal
+32 employment and spending.
+33 (2) Recent federal workforce displacement and economic uncertainty have underscored
+1
+
+34 the need for the District to diversify and strengthen its private-sector economy while creating
+35 new pathways to economic opportunity for District residents.
+36 (3) As the nation’s capital with one of the most highly educated workforces in the
+37 country, the District has a concentration of public-sector expertise, mission-driven organizations,
+38 and innovation-focused institutions whose work focuses on solving public problems. These
+39 unique assets best position the District to lead the development, testing, and scaling of
+40 technologies and innovations that address the nation’s most pressing public-interest challenges.
+41 (4) Establishing a clear economic identity around mission-driven innovation can help
+42 attract businesses, entrepreneurs, researchers, investors, and workers while strengthening the
+43 District’s long-term economic competitiveness.
+44 Sec. 103. It is the sense of the Council that the District of Columbia shall be designated
+45 as the nation’s “Tech for Good Capital”.
+46 TITLE II. QUALIFIED PUBLIC-INTEREST TECHNOLOGY COMPANIES.
+47 Sec. 201. Short title.
+48 This title may be cited as the “Public-Interest Technology Business Incentives
+49 Amendment Act of 2026”.
+50 Sec. 202. Title 47 of the District of Columbia Code is amended as follows:
+51 (a) The table of contents for Chapter 18 is amended by adding a new subchapter heading
+52 to read as follows:
+53 “Subchapter XVII-A. Qualified Public-Interest Technology Companies.
+54 (b) A new subchapter is added to read as follows:
+55 “Subchapter XVIII-A. Qualified Public-Interest Technology Companies
+56 “47-1818.21. Definitions.
+2
+
+57 “For the purposes of this subchapter, the term:
+58 “(1) “Abatement period” means October 1, 2027 through the date when an
+59 abatement provided for in this subchapter is exhausted or forfeited, or otherwise expires in
+60 accordance with this subchapter.
+61 “(2) “New hire” means an individual who was not employed by a Qualified
+62 Public-Interest Technology Company before calendar year 2025 and was, or is:
+63 “(A) Hired to fill a position of indefinite duration consisting of a minimum
+64 work week of 35 hours for not less than 50 weeks per year;
+65 “(B) Not:
+66 “(i) A member of the board of directors of the Qualified Public-
+67 Interest Technology Company;
+68 “(ii) A direct or indirect owner of more than 5% of the Qualified
+69 Public-Interest Technology Company;
+70 “(iii) A spouse or dependent, as these terms are defined in section
+71 152 of the Internal Revenue Code of 1986, approved October 22, 1986 (Pub. L. No. 99-514; 100
+72 Stat. 2085), of any individual defined in sub-subparagraphs (i) and (ii) of this subparagraph; or
+73 “(iv) Hired under the conditions set forth in section § 47-
+74 1817.03(b)(3); and
+75 “(C) Employed by a Qualified Public-Interest Technology Company for at
+76 least 6 months in the District of Columbia.
+77 “(3) “New hire wage credit” means a credit equal to 10% of the wages paid
+78 during the first 24 calendar months of employment to a new hire, accrued annually up to $5,000
+79 per new hire per tax year, up to a maximum amount of the new hire wage credit cap.
+3
+
+80 “(4) “New hire wage credit cap” means a ceiling of $15 million.
+81 “(5) “Public-interest technology” means a technology product, service, platform,
+82 research initiative, or innovation primarily intended to address public-interest challenges and
+83 improve outcomes in areas including, but not limited to, civic engagement, government service
+84 delivery, education, workforce development, climate resilience, public health, economic
+85 inclusion, housing, transportation, or other areas identified by the Mayor. The term shall not
+86 include a technology whose public benefit is incidental, speculative, or limited to the ordinary
+87 commercial benefits of the technology.
+88 “(6) “Qualified High Technology Company” shall have the same meaning as
+89 provided in section § 47-1817.01(5).
+90 “(7) “Qualified Public-Interest Technology Company” means a company that:
+91 “(A) Is a Qualified High Technology Company;
+92 “(B) Is maintaining an office, headquarters, or base of operations
+93 in the District of Columbia; and
+94 “(C) Is primarily engaged in the research, development, testing,
+95 scaling, commercialization, sale, or distribution of public-interest technology.
+96 “(8) “Qualified real property” means real property located in the District of
+97 Columbia on which a commercial office building is owned or leased by a Qualified Public-
+98 Interest Technology Company for use as a corporate office.
+99 “(9) “Real property” shall have the same meaning as provided in section § 47-
+100 802(1).
+101 “(10)(A) “Related entity” means, with respect to a Qualified Public-Interest
+102 Technology Company, any other person or entity that is a Qualified High Technology Company
+4
+
+103 and is directly or indirectly controlling, controlled by, or under common control with the
+104 Qualified Public-Interest Technology Company or is a successor to the Qualified Public-Interest
+105 Technology Company by merger, consolidation, or operation of law.
+106 “(B) For the purposes of this paragraph, the terms “controlling,”
+107 “controlled by,” and “under common control with” mean the possession, directly or indirectly, or
+108 the power to direct, or cause the direction of, the management and policies of a Qualified Public-
+109 Interest Technology Company, whether through ownership of voting securities, membership
+110 interests, or partnership interests by contract or otherwise, or the power to elect at least 50% of
+111 the directors, managers, or partners exercising similar authority with respect to the Qualified
+112 Public-Interest Technology Company.
+113 “(12) “Resident” means an individual whose principal residence is located in the
+114 District of Columbia and who is subject to District of Columbia personal income tax.
+115 “(13) “Resident hiring factor” means the applicable percentage contained in this
+116 paragraph if a Qualified Public-Interest Technology Company achieves, or has achieved, the
+117 following annual resident new hire proportion goals:
+118 “(A) One hundred percent if at least 50% of new hires are residents in a
+119 calendar year.
+120 “(B) Seventy-five percent if at least 40% but less than 50% of new hires
+121 are residents in a calendar year.
+122 “(C) Fifty percent if less than 40% of new hires are residents in a calendar
+123 year.
+124 “(14) “Unrelated entity” means a person or entity that is not a related entity.”.
+125 “47-1818.22. Tax credits to Qualified Public-Interest Technology Companies.
+5
+
+126 “(a) Subject to subsection (b) of this section and section 47-1818.23, the real property
+127 taxes imposed by Chapter 8 of this title with respect to qualified real property shall be abated up
+128 to the amount of the new hire wage credit until the new hire wage credit is exhausted or
+129 forfeited, provided that:
+130 “(1) The annual new hire wage credit amount accrued shall be determined as of
+131 the end of each calendar year by multiplying the total new hire wage credit earned by a Qualified
+132 Public-Interest Technology Company in each calendar year by the annual resident hiring factor
+133 in the same calendar year. The total new hire wage credit amount shall be the aggregate of the
+134 new hire wage credit amount earned in each calendar year, subject to the new hire wage credit
+135 cap. The amount of any new hire wage credit earned in a calendar year shall be based on new
+136 hire information reported by a Qualified Public-Interest Technology Company to the Office of
+137 Tax and Revenue in its corporate tax filing for each calendar year.
+138 “(2) Notwithstanding any other provision of this subchapter, no person shall claim
+139 an abatement pursuant to this section before October 1, 2027.
+140 “(3) If a Qualified Public-Interest Technology Company leases or subleases any
+141 portion of the qualified real property, the new hire wage credit shall be applied only to a pro rata
+142 portion of the assessment on the qualified real property, which shall equal the ratio of the square
+143 footage of building area on the qualified real property that the Qualified Public-Interest
+144 Technology Company occupies to the total square footage of building area that could be
+145 occupied.
+146 “(b)(1) An abatement provided for in this section shall only be granted if:
+147 “(A) The Qualified Public-Interest Technology Company continues for the
+148 duration of the abatement period to be a Qualified Public-Interest Technology Company;
+6
+
+149 “(B) The Qualified Public-Interest Technology Company hires at least 50
+150 new hires annually in the District of Columbia during each year of the abatement period, and
+151 certifies the new hires to the Department of Employment Services;
+152 “(C) The Qualified Public-Interest Technology Company publicly posts
+153 employment opportunities on a workforce or talent platform designated by the Deputy Mayor for
+154 Education;
+155 “(D) The Qualified Public-Interest Technology Company participates,
+156 upon request, in a District-led innovation cluster convened or supported by the Deputy Mayor for
+157 Planning and Economic Development, established pursuant to section 302 of the Tech for Good
+158 Innovation Clusters Act of 2026, introduced on July ___, 2026 (Introduced version of Bill 26-
+159 ____);
+160 “(E) If the qualified real property is leased to the Qualified Public-Interest
+161 Technology Company, the lease is for a period of at least 10 years and the owner of the real
+162 property passes the abatement through to the Qualified Public-Interest Technology Company;
+163 “(F) The Qualified Public-Interest Technology Company continues to
+164 occupy a qualified real property from its initial occupancy of the qualified real property
+165 throughout the duration of the abatement period;
+166 “(G) If the Qualified Public-Interest Technology Company owns the
+167 qualified real property, the qualified real property is not during the abatement period:
+168 “(i) Sold, transferred, exchanged, or otherwise conveyed; or
+169 “(ii) Leased to an unrelated entity in excess of 50% of the gross
+170 floor area;
+171 “(H) If the Qualified Public-Interest Technology Company leases qualified
+7
+
+172 real property, the lease is not, during the abatement period:
+173 “(i) Assigned to a third party, other than to a related entity; or
+174 “(ii) Subleased to an unrelated entity in excess of 50% of the gross
+175 floor area; and
+176 “(I) The Qualified Public-Interest Technology Company has not filed a
+177 petition in bankruptcy in connection with the Qualified Public-Interest Technology Company’s
+178 business.
+179 “(2) If a Qualified Public-Interest Technology Company fails or ceases to comply
+180 with or achieve the provisions of paragraph (1)(A) through (I) of this subsection, any abatement
+181 provided for in this section shall immediately terminate and cease to be granted.
+182 “47-1818.23. Certification.
+183 “(a) Upon application of the Qualified Public-Interest Technology Company, the Mayor
+184 shall certify to the Office of Tax and Revenue the identity of each Qualified Public-Interest
+185 Technology Company for which eligibility for an abatement pursuant to this subchapter has been
+186 verified by the Mayor and shall provide a description of the qualified real property that is to
+187 receive an abatement and the date on which the abatement shall commence.
+188 “47-1818.24. Tax credits to Qualified Public-Interest Technology Companies;
+189 exceptions.
+190 “A Qualified Public-Interest Technology company that utilizes, or is the beneficiary of,
+191 the real property tax abatement for certain commercial properties provided in § 47-811.03 during
+192 the abatement period shall not be eligible for the abatement authorized in this subchapter, and
+193 further, the utilization of, or being the beneficiary of, the abatements provided for in section 47-
+194 1818.22 shall disqualify a Qualified Public-Interest Technology Company from eligibility for the
+8
+
+195 real property tax abatement for certain commercial properties provided in section 47-811.03.”.
+196 TITLE III. TECH FOR GOOD INNOVATION CLUSTERS.
+197 Sec. 301. Short title.
+198 This title may be cited as the “Tech for Good Innovation Clusters Act of 2026”.
+199 Sec. 302. Tech for Good innovation clusters.
+200 (a) The Deputy Mayor for Planning and Economic Development may convene or support
+201 innovation clusters related to public-interest technology as defined in D.C. Official Code § 47-
+202 1818.21(5).
+203 (b) Innovation clusters established or supported pursuant to this section may include
+204 participation by:
+205 (1) Qualified public-interest technology companies, as defined in D.C. Official
+206 Code § 47-1818.21(6);
+207 (2) Institutions of higher education;
+208 (3) Workforce development providers;
+209 (4) 501(c)(3) and 501(c)(4) nonprofit organizations;
+210 (5) Investors and philanthropic organizations;
+211 (6) Research institutions;
+212 (7) Government agencies; and
+213 (8) Other stakeholders identified by the Deputy Mayor for Planning and
+214 Economic Development.
+215 (c) Innovation clusters established or supported pursuant to this section shall engage in
+216 one or more of the following activities:
+217 (1) Cross-sector collaboration;
+9
+
+218 (2) Research and commercialization partnerships;
+219 (3) Workforce pipeline development;
+220 (4) Entrepreneurial support;
+221 (5) Investment attraction;
+222 (6) Shared problem-solving initiatives;
+223 (7) Industry convenings; or
+224 (8) Other activities to support the growth of the public-interest technology sector
+225 as identified by the Deputy Mayor for Planning and Economic Development.
+226 TITLE IV. TECH FOR GOOD MARKETING STRATEGY.
+227 Sec. 401. Short title.
+228 This title may be cited as the “Tech for Good Marketing Strategy Act of 2026”.
+229 Sec. 402. Tech for Good Working Group.
+230 (a) There is established a Tech for Good Working Group.
+231 (b) The Working Group shall be convened by the Deputy Mayor for Planning and
+232 Economic Development.
+233 (c) The Working Group shall include representatives from:
+234 (1) The Office of the Deputy Mayor for Planning and Economic Development;
+235 (2) The Office of the Deputy Mayor for Education;
+236 (3) The Department of Employment Services;
+237 (4) Institutions of higher education located in the District;
+238 (5) Qualified public-interest technology companies as defined in D.C. Official
+239 Code § 47-1818.21(6);
+240 (6) Workforce development organizations;
+10
+
+241 (7) Nonprofit organizations focused on innovation or economic mobility;
+242 (8) The investment or entrepreneurial community; and
+243 (9) Other stakeholders identified by the Deputy Mayor for Planning and
+244 Economic Development.
+245 (d) The Working Group shall:
+246 (1) Develop recommendations for a District-wide “Tech for Good” marketing and
+247 branding strategy;
+248 (2) Identify opportunities to attract qualified public-interest technology companies
+249 to the District as defined in D.C. Official Code § 47-1818.21(6);
+250 (3) Identify strategies to strengthen workforce pipelines into innovation-focused
+251 industries for District residents;
+252 (4) Recommend opportunities for cross-sector collaboration and ecosystem
+253 development;
+254 (5) Identify barriers to growth within public-interest technology sectors; and
+255 (6) Recommend additional policies or investments as identified by the Deputy
+256 Mayor for Planning and Economic Development.
+257 (e) Within one year after the effective date of this title, the Working Group shall submit a
+258 report to the Council summarizing its findings and recommendations.
+259 TITLE V. STANDARD PROVISIONS
+260 Sec. 401. Fiscal impact statement.
+261 The Council adopts the fiscal impact statement in the committee report as the fiscal
+262 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+263 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+11
+
+264 Sec. 402. Effective date.
+265 This act shall take effect after approval by the Mayor (or in the event of veto by the
+266 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+267 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+268 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+12

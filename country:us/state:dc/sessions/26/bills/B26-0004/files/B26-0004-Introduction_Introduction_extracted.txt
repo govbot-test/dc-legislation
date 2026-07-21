@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 ____________________________
+2 Chairman Phil Mendelson
+3
+4
+5
+6
+7
+8 A BILL
+9
+10 ______
+11
+12
+13 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+14
+15 ____________
+16
+17
+18 To amend, on an emergency basis due to congressional review, the Day Care Policy Act of 1979
+19 to update the minimum salaries child development facilities must pay assistant and lead
+20 teachers beginning in January 2025 to participate in the Early Childhood Educator Pay
+21 Equity Program.
+22
+23 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+24 act may be cited as the “Early Childhood Educator Pay Scales Congressional Review Emergency
+25 Amendment Act of 2025”.
+26 Sec. 2. The Day Care Policy Act of 1979, effective September 19, 1979 (D.C. Law 3-16;
+27 D.C. Official Code § 4-401 et seq.), is amended as follows:
+28 (a) Section 2 (D.C. Official Code § 4-401) is amended as follows:
+29 (1) Paragraph (1)(B) is amended by striking the phrase “an expanded child
+30 development home” and inserting the phrase “a child development home or an expanded child
+31 development home” in its place.
+32 (2) Paragraph (1D) is amended to read as follows:
+33 “(1D) The term “CDA” means a child development associate credential
+34 recognized by the Council for Professional Recognition and accepted by the Department to
+35 demonstrate competency as a caregiver for young children or a state-awarded certificate that
+1
+
+36 meets or exceeds the requirements for a child development associate credential, as defined by the
+37 Department.”.
+38 (3) Paragraph (4B) is amended by striking the phrase “education.” and inserting
+39 the phrase “education or a related field, as identified by the Department’s regulations governing
+40 the qualifications of child development facility lead teachers and assistant teachers.”.
+41 (b) Section 11b (D.C. Official Code § 4-410.02) is amended as follows:
+42 (1) Subsection (b) is amended to read as follows:
+43 “(b) From October 1, 2024, through December 31, 2024, child development facilities that
+44 enter or have entered into a contract or agreement with the Department to receive monies from
+45 the Early Childhood Educator Pay Equity Fund shall use such monies to pay, at minimum, the
+46 salaries for assistant and lead teachers listed in tables 1 and 2 of this subsection:
+47
+Table 1: Assistant Teacher Minimum Salaries
+Credential Level Minimum salary
+Less than a CDA $43,865/year
+CDA $51,006/year
+Associate $54,262/year
+48
+Table 2: Lead Teacher Minimum Salaries
+Credential Level Minimum salary
+CDA or 48 credit hours with greater than $54,262/year
+or equal to 15 credit hours in ECE
+2
+
+Associate in ECE or Associate’s with $63,838/year
+greater than or equal to 24 credit hours
+in ECE
+Bachelor’s in ECE or Bachelor’s with $75,103/year
+greater than or equal to 24 credit hours
+in ECE
+49 .”.
+50 (2) New subsections (b-1) and (b-2) are added to read as follows:
+51 “(b-1) Beginning January 1, 2025, child development facilities that enter or have entered
+52 into a contract or agreement with the Department to receive monies from the Early Childhood
+53 Educator Pay Equity Fund shall use such monies to pay, at minimum, the salaries for assistant
+54 and lead teachers listed in tables 1 and 2 of this subsection:
+55
+Table 1: Assistant Teacher Minimum Salaries
+Credential Level Minimum Salary
+CDA $51,006/year
+($24.52/hour)
+Associate degree or higher or 60 hours of college-level $54,262/year
+coursework in any field ($26.09/hour)
+56
+Table 2: Lead Teacher Minimum Salaries
+Credential Level Minimum Salary
+3
+
+Child development center teacher or expanded child development $51,006/year
+home caregiver with a CDA ($24.52/hour)
+Child development home caregiver with a CDA $54,262/year
+($26.09/hour)
+Associate in ECE; associate with at least 12 credit hours in ECE; $63,838/year
+60 college credit hours with at least 12 credit hours in ECE ($30.69/hour)
+Bachelor’s or higher in ECE; or Bachelor’s with at least 12 credit $75,103/year
+hours in ECE ($36.11/hour)
+57
+58 “(b-2) The Department shall issue guidance to assist child development facilities with
+59 aligning the minimum salary requirements in subsections (b) and (b-1) of this section with the
+60 qualifications for child development facility assistant and lead teachers it has established by
+61 regulation.”.
+62 (3) Subsection (c)(1) is amended by striking the phrase “Tables 1 and 2 to” and
+63 inserting the phrase “tables 1 and 2 in subsection (b-1) of this section to” in its place.
+64 Sec. 3. Fiscal impact statement.
+65 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+66 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+67 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+68 Sec. 4. Effective date.
+69 This act shall take effect following approval by the Mayor (or in the event of veto by the
+70 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+71 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+4
+
+72 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+73 D.C. Official Code § 1-204.12(a)).
+5

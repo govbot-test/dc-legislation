@@ -1,0 +1,190 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2 Councilmember Brianne K. Nadeau
+3
+4
+5
+6 A BILL
+7
+8 __________
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12 _________________________
+13
+14 To amend, on an emergency basis, the Advisory Neighborhood Commissions Act of 1975 to
+15 modify the notice requirement for certain business licenses; and to amend Chapter 28 of
+16 Title 47 of the District of Columbia Official Code to exempt motor clubs that perform
+17 private tow services from towing service storage lot requirements, to authorize 4-year
+18 basic business licenses, to extend license renewal permission beyond 9 months after
+19 expiration, to authorize the Mayor to issue refunds for erroneously paid business license
+20 fees, to revise the eligibility requirements for accountancy licensure by authorizing a
+21 holder of a baccalaureate degree with 2 years of experience and who has passed an
+22 examination in accounting and auditing to obtain a license, to allow the Mayor to add
+23 additional licensure requirements by rulemaking, and to amend mobility requirements
+24 for those who are licensed in another jurisdiction and want to practice in the District.
+25
+26 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+27 act may be cited as the “Business Licensing Reform and Accountancy Practice Emergency
+28 Amendment Act of 2026”.
+29 Sec. 2. Section 13(q) of the Advisory Neighborhood Commissions Act of 1975, effective
+30 March 26, 1976 (D.C. Law 1-58; D.C. Official Code § 1-309.10(q)), is amended to read as
+31 follows:
+32 “(q)(1) Before granting or renewing a license for a theater, cinema, skating rink, dance
+33 hall, exhibition, lecture, or other entertainment, the Department of Licensing and Consumer
+34 Protection shall give 30-days notice by first-class mail or electronic mail to the affected
+1
+
+35 Commission. The notice shall contain the name of the applicant and a description, by street
+36 number, or other plain designation, of the particular location for which the license is requested.
+37 “(2) Pursuant to subsection (d) of this section, the Department of Licensing
+38 and Consumer Protection shall give great weight to the Commission’s recommendations when
+39 determining whether to grant or renew the license.”.
+40 Sec. 3. Chapter 28 of Title 47 of the D.C. Official Code is amended as follows:
+41 (a) Subchapter I-A is amended as follows:
+42 (1) The table of contents is amended by adding a new section designation to read
+43 as follows:
+44 “47-2851.25. Refund of erroneously paid fees.”.
+45 (2) D.C. Official Code § 47-2851.04 is amended as follows:
+46 (A) Subsection (a) is amended as follows:
+47 (i) Paragraph (2) is amended by striking the period and inserting
+48 the phrase “; and” in its place.
+49 (ii) A new paragraph (3) is added to read as follows:
+50 “(3) $198 for a 4-year license.”.
+51 (B) Subsection (b) is amended as follows:
+52 (i) Paragraph (1) is amended by striking the phrase “; and” and
+53 inserting a semicolon in its place.
+54 (ii) Paragraph (2) is amended by striking the period and inserting
+55 the phrase “; and” in its place.
+56 (iii) A new paragraph (3) is added to read as follows:
+2
+
+57 “(3) A 4-year license, a person shall pay a license fee of $198.”.
+58 (C) A new subsection (h) is added to read as follows:
+59 “(h) This subsection shall apply to a motor club or a business offering private tow
+60 services exclusively on behalf of a motor club.
+61 “(1) An applicant for a vehicular services license subject to this section shall be
+62 exempt from the requirements of section 402.3(f) of Title 16 of the District of Columbia
+63 Municipal Regulations (16 DCMR § 402.3(f)), or any successor law or regulation requiring a
+64 business that provides private tow services to identify a towing service storage lot.
+65 “(2) For the purposes of this section, the term:
+66 “(A) “Motor club” means an entity that provides emergency roadside
+67 service for members, and at least two of the following services:
+68 “(i) The furnishing or procuring of reservations, discounts,
+69 monetary exchange and other travel-related services;
+70 “(ii) Arranging for a loan or other advance of money to a member
+71 in connection with providing any other motor club service;
+72 “(iii) Furnishing insurance coverage to members under an
+73 approved group or blanket policy, issued to the motor club by an authorized insurer;
+74 “(iv) Payment for or reimbursement of a member for fees charged
+75 by an attorney for services rendered to the member in defense of a traffic offense;
+76 “(v) Assistance in locating, identifying or recovering a stolen or
+77 missing vehicle owned by a member; and
+78 “(vi) Any other related service as determined by the Mayor and
+3
+
+79 established by rule.
+80 “(B) “Private tow” means the towing of a motor vehicle at the request of
+81 the owner or authorized agent of the owner.”.
+82 (3) Section 47-2851.07(c) is amended to read as follows:
+83 “(c) Licenses issued under this subchapter shall be valid for a period of 6 months, 2 years,
+84 or 4 years.”.
+85 (4) Section 47-2851.10(b)(3)(B) is amended by striking the phrase “months, but
+86 less than 9 months, may” and inserting the phrase “month may” in its place.
+87 (5) A new section 47-2851.25 is added to read as follows:
+88 “§ 47-2851.25. Refund of erroneously paid fees.
+89 “The Mayor may refund any license fee or tax, or portion thereof, erroneously paid or
+90 collected under this chapter.”.
+91 (b) Part A of Subchapter I-B is amended as follows:
+92 (1) The table of contents designation for § 47-2853.49 is amended to read as
+93 follows:
+94 “§ 47-2853.49. Practice privilege.”.
+95 (2) D.C. Official Code § 47-2853.42 is amended to read as follows:
+96 “§ 47-2853.42. Eligibility requirements.
+97 “(a) An applicant for licensure as a certified public accountant shall establish to the
+98 satisfaction of the Board that the applicant:
+99 “(l) Has passed an examination in accounting and auditing and such related
+100 subjects as the Board shall determine to be appropriate;
+4
+
+101 “(2)(A) Holds a baccalaureate or post-baccalaureate degree with a concentration
+102 in accounting conferred by a college or university acceptable to the Board or holds a degree the
+103 Board determines to be substantially equivalent thereto; or.
+104 “(B) Holds a baccalaureate degree conferred by a college or university
+105 acceptable to the Board supplemented with the equivalent of an accounting concentration, which
+106 may include related courses in other areas of business administration;
+107 “(3) Has completed the following years of relevant experience:
+108 “(A) Two years for an applicant who holds a baccalaureate degree
+109 described in paragraph (2)(A) or (B) of this subsection, of which one year may be substituted by
+110 having completed an additional 30 semester credit hours above the minimum hours required for a
+111 baccalaureate degree; or
+112 “(B) One year for an applicant who holds a post-baccalaureate degree
+113 described in paragraph (2)(A) of this subsection; and
+114 “(4) Meets any other requirements established by rule.
+115 “(b) For the purposes of subsection (a)(3) of this section:
+116 “(1) “Relevant experience” means providing service or advice representing the
+117 skills needed at the time of licensure to serve the public as a certified public accountant.
+118 “(2) Relevant experience includes providing any type of business services or
+119 advice using accounting, attest, compilation, management advisory, financial advisory, tax, or
+120 consulting skills, to the extent such experience has been verified by a person licensed as a
+121 certified public accountant.
+122 “(3) Whether the experience of an applicant constitutes relevant experience shall
+5
+
+123 be determined by the Board.
+124 “(c) The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure
+125 Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), may
+126 establish additional licensure requirements by rule to ensure that the applicant has the proper
+127 training, experience, and qualifications to practice as a certified public accountant.”.
+128 (3) D.C. Official Code § 47-2853.49 is amended as follows:
+129 (A) The section heading is amended to read as follows:
+130 “47-2853.49. Practice privilege.”.
+131 (B) Subsections (a) and (b) are amended to read as follows:
+132 “(a) An individual whose principal place of business is not in the District shall have all
+133 the privileges of a licensee of the District without the need to obtain a license under § 47-
+134 2853.42; provided, that the individual:
+135 “(1) Holds a valid, unrestricted license as a certified public accountant (“CPA”) in
+136 good standing issued by another state or territory of the United States; and
+137 “(2) At the time of initial licensure in the other state or territory, the individual
+138 was required to show evidence of having:
+139 “(A) Passed the Uniform CPA Examination or another CPA examination
+140 approved by the Board;
+141 “(B) Satisfied education requirements equivalent to those set forth in § 47-
+142 2853.42(a)(2); and
+143 “(C) Satisfied experience requirements equivalent to those set forth in §
+144 47-2853.42(a)(3).”.
+6
+
+145 “(b) An individual whose principal place of business is not in the District, who is licensed
+146 as a CPA in good standing in another state or territory of the United States, and who had practice
+147 privileges in the District under the version of this section that was in effect immediately prior to
+148 the effective date of the Accountancy Practice Amendment Act of 2026, as approved by the
+149 Committee on Public Works and Operations on June 22, 2026 (Committee print of B26-494),
+150 shall continue to have all privileges of a licensee in the District without the need to obtain a
+151 license under § 47-2853.42 regardless of whether the individual meets the requirements of this
+152 section on the effective date of such legislation.”.
+153 (C) Subsection (d) is amended by striking the phrase “shall simultaneously
+154 consent, as a condition of the grant of the privilege” and inserting the phrase “shall be deemed to
+155 have simultaneously consented, as a condition of the exercise of the privilege” in its place.
+156 Sec. 4. Fiscal impact statement.
+157 The Council adopts the fiscal impact statement in the committee report for the Business
+158 Licensing Reform and Accountancy Practice Amendment Act of 2026, passed on first reading on
+159 June 30, 2026 (Engrossed version of Bill 26-494), as the fiscal impact statement required by
+160 section 4a of the General Legislative Procedures Act of 1975, approved October 16, 2006 (120
+161 Stat. 2038; D.C. Official Code § 1-301.47a).
+162 Sec. 5. Effective date.
+163 This act shall take effect following approval by the Mayor (or in the event of veto by the
+164 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+165 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+166 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+7
+
+167 D.C. Official Code § 1-204.12(a)).
+8

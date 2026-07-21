@@ -1,0 +1,863 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 _______________________________ _______________________________
+2 Councilmember Brianne K. Nadeau Councilmember Brooke Pinto
+3
+4
+5 _______________________________ _______________________________
+6 Councilmember Matthew Frumin Councilmember Robert White
+7
+8
+9 _______________________________ _______________________________
+10 Councilmember Zachary Parker Councilmember Christina Henderson
+11
+12
+13 _______________________________ _______________________________
+14 Councilmember Janeese Lewis George Councilmember Charles Allen
+15
+16
+17
+18
+19
+20 A BILL
+21
+22 ______________________________
+23
+24
+25 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+26
+27 _______________________________
+28
+29
+30 To require that all lead service lines in the District on both public and private property be
+31 replaced with non-lead lines by December 31, 2030, to prohibit the practice of partial
+32 lead service line replacements, to prohibit the installation of new lead, brass, or
+33 galvanized steel service lines, to require, by October 1, 2024, that owners of private
+34 property serviced by a lead service line enroll in the Lead Service Line Replacement
+35 Program or replace the lead service line themselves, to prescribe how owners of private
+36 property may provide proof to DC Water that their service line does not contain lead, to
+37 prescribe how DC Water is to treat properties with service lines of unknown composition,
+38 to prescribe acceptable methods of testing service lines for lead, to establish robust notice
+39 and public education requirements, to establish the Lead Service Line Replacement
+40 Program to provide lead service line replacements at District properties at no cost to the
+41 property owner, to establish a schedule by which DC Water is to prioritize properties for
+42 lead service line replacements, to establish a high-priority lead service line replacement
+43 program to prioritize replacement of lead service lines at child development facilities,
+44 multi-unit residential properties, properties that previously underwent a partial lead
+45 service line replacement, and homes with emergency service line repairs, to establish
+46 plumbing system flushing protocols following a lead service line replacement, to require
+47 DC Water to maintain a service line inventory and prescribe the contents of that
+
+48 inventory, to mandate that DC Water provide water filtration devices and replacement
+49 cartridges to all properties serviced by a service line made of lead or of unknown
+50 composition until at least 6 months after the property’s lead service line is replaced, to
+51 require that, as a condition of a real property sale or transfer, a purchaser enroll in the
+52 Lead Service Line Replacement Program or replace the lead service line, to authorize
+53 occupants, including a tenant, to enroll in the Lead Service Line Replacement Program
+54 on behalf of a property owner, to prescribe certain rights and protections for occupants
+55 residing at a property serviced by a lead service line, to require that the Department of
+56 Energy and Environment engage community-based organizations (“CBO”) to review
+57 contractor lead service line replacements, to set deadlines for residents to comply with the
+58 requirements of this act, to prescribe notice and DC Water and CBO outreach
+59 requirements where a property owner has not complied with the requirements of this act
+60 by a date certain, to prescribe penalties, including fines and restrictions on access to
+61 District-issued permits and licenses where a property owner has not complied with the
+62 requirements of this act by a date certain, to prescribe the manner in which information
+63 about the Lead Service Line Replacement Program, lead exposure risks, and other
+64 information is to be shared with the public via a public education campaign, to set data
+65 reporting requirements on spending, program administration, and property owner
+66 compliance with this act, to clarify that District and federal funding for lead service line
+67 replacements shall not be used for water main replacements unless DC Water determines
+68 the lead service line replacement would cause the main to fail, and to require the Mayor
+69 to issue regulations to implement this act; and, to amend the Fiscal Year 2005 Budget
+70 Support Act of 2004 to remove language establishing the Lead Pipe Replacement
+71 Assistance Program and permitting, in certain instances, DC Water from completing
+72 partial lead service line replacements, and to amend permissible uses of the Lead Service
+73 Line Priority Replacement Assistance Fund.
+74
+75 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+76 act may be cited as the “Lead-Free DC Omnibus Amendment Act of 2025”.
+77 TITLE I. LEAD SERVICE LINE REPLACEMENTS.
+78 Sec. 101. Definitions.
+79 (a) “Adequate proof” means test-pitting or inspection of a service line:
+80 (1) At a minimum of one location on the service line on public property and one
+81 location on private property, each excavation covering at least two feet of the service line; and
+82 (2) Undertaken by a licensed and certified plumber.
+83 (b) “Child development facility” means a licensed community-based center, home, or
+84 other structure, regardless of its name, that provides care, supervision, guidance, and other
+2
+
+85 services for infants, toddlers, and preschoolers on a regular basis. The term “child development
+86 facility” does not include a child development center or program that is sponsored or run by a
+87 public or private school.
+88 (c) “Census block group” means geographic scale at which the Census Bureau reports
+89 data from the American Community Survey, consisting of 600 to 3,000 individuals on average.
+90 (d) “Community-based organization” means an organization operated by a nonprofit
+91 entity or faith-based organization that provides services to residents of the District.
+92 (e) “Historic brass service line” means those service lines that DC Water had identified as
+93 brass based on existing service line data, plumbers’ records, home build dates, information on
+94 known and likely locations of brass service lines, or combined with tap cards and other
+95 engineering project data but have not been field-verified;
+96 (f) “Historic copper service line” means those service lines that DC Water had identified
+97 as copper based on existing service line data, plumbers’ records, home build dates, information
+98 on known and likely locations of copper service lines, or combined with tap cards, and other
+99 engineering project data but have not been field-verified;
+100 (g) “Lead service line” means a water service line containing any lead, and shall include
+101 a:
+102 (1) Brass service line; or
+103 (2) Galvanized service line.
+104 (h) “Multi-unit residential property” means a residential building with 2 or more dwelling
+105 units.
+106 (i) “Public property” means all lands, properties, and holdings owned or leased by or
+107 under the control of the District, and shall include properties under the control of the District of
+108 Columbia Housing Authority.
+3
+
+109 (j) “Public space” means all the publicly owned property between the property lines on a
+110 street, as such property lines are shown in the records of the District, and includes any roadway,
+111 tree space, sidewalk, or parking between such property lines.
+112 (k) “Private property” means all lands, properties, and holdings owned by private entities
+113 in the District, and shall include federal properties on District land.
+114 (l) “Private space” means the bounds of all privately owned property as demarcated by
+115 the property lines on a street, as such property lines are shown in the records of the District.
+116 (m) “Property line” means the line of demarcation between privately owned property
+117 fronting or abutting a street and the publicly owned property in the line of such street.
+118 (n) “Replacement of a lead service line” means:
+119 (1) Replacement of all portions of a service line with a non-lead material where
+120 the service line is a lead service line;
+121 (2) Replacement and leveling of dirt and soil displaced during excavation and
+122 replacement landscaping as required under this act;
+123 (3) Replacement or restoration of interior and exterior walls and floors damaged
+124 or demolished during replacement of a lead service line to a safe and habitable condition;
+125 (4) Flushing household plumbing according to AWWA C810-17, or any standard
+126 that revises or replaces this standard deemed to be equally or more protective, prior to returning
+127 property to water service after the lead service line replacement; and
+128 (5) Provision of filters in accordance with section 108 of this act.
+129 (o) “Service line” means all portions of a water service line in both public and private
+130 space, including the discharge of the corporation fitting to customer site piping, to the building
+131 plumbing at the first shut-off valve inside the building, or 18 inches inside the building,
+132 whichever is shorter, and including goosenecks and pigtails.
+4
+
+133 (p) “Service line of unknown composition” means a service line that:
+134 (1) Is made of an unknown material, unidentified material, or materials
+135 categorized as historic brass or historic copper;
+136 (1) Has not been replaced by an approved contractor; and
+137 (2) Has not had the service line composition assessed using testing pitting.
+138 (q) “Test pitting” means excavation to expose a section of water service to determine the
+139 location, size, and material type of existing water services.
+140 Sec. 102. Lead service line mandates.
+141 (a) The District of Columbia Water and Sewer Authority shall, by December 31, 2030:
+142 (1) Replace all lead service lines in public and private space servicing private
+143 properties;
+144 (2) Be in receipt of written declaration from a licensed and approved contractor
+145 that the property is not serviced by a lead service line; or
+146 (3) Have a verified inventory record, including photographic evidence, for every
+147 service line in the district documenting that no portion of the service line contains lead, brass, or
+148 galvanized steel piping components.
+149 (b) The Mayor shall replace all lead services line in public and private space on public
+150 property, including property under the control of the District of Columbia Housing Authority, by
+151 December 31, 2030.
+152 (c) As of the effective date of this act, no public or private entity or person in the District
+153 shall:
+154 (1) Replace the portion of a service line that is in the public space at a property
+155 unless it also replaces the portion of the lead service line that is in private space; or
+5
+
+156 (1) Replace the portion of a service line that is in private space at a property
+157 unless it also replaces the portion of the lead service line that is in the public space; or
+158 (d) No service line shall be installed in the District that contains lead, brass, or galvanized
+159 steel piping components.
+160 Sec. 103. Lead service line replacements at private properties.
+161 (a) On or before October 1, 202, the owner of private property in the District (“property
+162 owner”) shall:
+163 (1) If the private property is serviced by a lead service line or service line of
+164 unknown composition:
+165 (A) Enroll in the Lead Service Line Replacement Program pursuant to
+166 Section 104 of this act; or
+167 (B) Replace the service line themselves in accordance with subsection (b)
+168 of this section; or
+169 (2) If the private property is not serviced by a lead service line, comply with
+170 subsection (c) of this section.
+171 (b)(1) Where the property owner elects to replace the lead service line themselves, the
+172 property owner shall:
+173 (A) Complete the replacement using an approved contractor within 1 year
+174 of receipt of notice from DC Water provided pursuant to subsection (d) of this section;
+175 (B) Pay all costs for the lead service line replacement; and
+176 (C) Provide DC Water with proof that the lead service line has been
+177 replaced.
+178 (2)(A) Proof provided to DC Water pursuant to paragraph (1)(C) of this
+179 subsection shall include at a minimum, in original or copy:
+6
+
+180 (i) The permit issued to a contractor approved by DC Water to
+181 complete lead service line replacement work;
+182 (ii) An invoice from the contractor who completed the work;
+183 (iii) The estimate along with any report of the work completed; and
+184 (iv) An inspection report, including photos that can be uploaded
+185 into DC Water’s inventory database, verifying the replacement and the composition of the new
+186 service line.
+187 (B) DC Water shall post on its website information on how residents may
+188 comply with this paragraph, including posting examples of each of the documents required under
+189 subparagraph (A) and a means for uploading documents directly to the agency’s Geographic
+190 Information System database or other similar database.
+191 (4)(A)(i) DC Water shall publish on its website a list of approved contractors for
+192 property owners to use for the replacement of a lead service line. The list shall be updated at
+193 least once per fiscal year.
+194 (ii) If a property owner seeks to use a contractor not on the list
+195 required by subparagraph (A)(i) of this paragraph, the property owner shall first receive written
+196 approval from DC Water to use that contractor.
+197 (B) At least biannually, DC Water shall make available free trainings to
+198 employees of approved contractors on proper execution of lead service line replacements, test
+199 pitting, flushing, the risks posed by lead service lines and exposure to lead in water, especially to
+200 fetuses and young children, the requirements of this act, and the Lead Service Line Replacement
+201 Program.
+202 (C)(i) A contract for a lead service line replacement where a property
+203 owner elects to pay for the lead service line replacement themselves shall specify that:
+7
+
+204 (I) The composition of the service line will be assessed
+205 using test pitting or inspection;
+206 (II) The timeline for the replacement;
+207 (III) Replacement of a lead service line means removal and
+208 replacement of all portions of a service line in both public and private space, including the
+209 discharge of the corporation fitting to customer site piping, to the building plumbing at the first
+210 shut-off valve inside the building, or 18 inches inside the building, whichever is shorter, and
+211 including goosenecks and pigtails; and
+212 (IV) The contract will flush the household plumbing according to
+213 AWWA C810-17, or any standard that revises or replaces this standard deemed to be
+214 equally or more protective, prior to returning property to water service after the lead
+215 service line replacement.(ii) DC Water shall post on the agency website a sample
+216 contract.
+217 (5) DC Water may grant an owner electing to replace the lead service line
+218 themselves with extension of up to two years to complete the replacement where the property
+219 owner demonstrates to DC Water that the property owner has made good faith effort to comply
+220 with the act, and the replacement has been scheduled within the extension period.
+221 (c)(1) Where a property is, according to DC Water’s database, not serviced by a lead
+222 service line and:
+223 (A) Where the lead service line was replaced pursuant to subsection (b) of
+224 this section, the property owner shall provide written proof to DC Water that all sections of the
+225 service line have been replaced by an approved contractor with materials not containing lead.
+226 Proof under this subparagraph may include:
+8
+
+227 (i) Documentation, including photos, from a licensed and certified
+228 plumber providing adequate proof that the property is not serviced by a lead service line; or
+229 (ii) Evidence that the lead service line was previously replaced by
+230 an approved contractor.
+231 (B)(i) Where DC Water has proof verifying that the property is not
+232 serviced by a lead service line, DC Water shall not require that the property owner provide
+233 documentation that their property is not serviced by a lead service line.
+234 (ii) For these properties, on or before October 1, 2023, DC Water
+235 shall provide written confirmation to the property owner of which parts of the service line, if any,
+236 the agency has determined are non-lead, and, where all portions of the service line are confirmed
+237 non-lead, that the property owner is not required to submit additional proof to DC Water to
+238 comply with this act.
+239 (C) Where DC Water does not have proof verifying that the property is not
+240 serviced by a lead service line, DC Water shall:
+241 (i) Treat the property as served by a service line of unknown
+242 composition until in receipt of proof; and
+243 (ii) Request proof of the property owner.
+244 (2) For the purposes of this subsection, “proof” means materials that provide
+245 physical verification that the property is not serviced by a lead service line, and shall include
+246 photos of the service line, contractor records and invoices, and as-built drawings, blueprints, or
+247 other similar records for the property; provided that, DC Water may limit use of certain records
+248 based on accuracy and reliability.
+249 (d)(1) Where a service line is tested and found to contain any amount of lead, the
+250 property shall be designated and treated by DC Water as a property serviced by a lead service
+9
+
+251 line, even where the property has previously undergone a lead service line replacement or other
+252 lead mitigation. Where DC Water determines that the status of a property’s service line is to
+253 change from non-lead to lead, DC Water shall provide written notice to the property within 10
+254 days of learning that the service line contains lead.
+255 (2)(A) DC Water shall accept the results of the following tests to determine
+256 whether a non-lead service line contains lead: test pitting, scratch testing, magnet testing, surface
+257 swabbing, tap sampling (flushed, sequential, or targeted), traditional or vacuum excavation, or
+258 other methods as approved by the Department of Energy and Environmental or DC Water.
+259 (e)(1) On or before October 1, 2023, DC Water shall provide notice to the property
+260 owners of all properties with known lead services lines and service lines of unknown
+261 composition of the requirement that the property owner enroll in the Lead Service Line
+262 Replacement Program or replace the service line pursuant to subsection (b) of this section.
+263 Notice to owners under this subsection shall include:
+264 (A) A statement that no level of lead exposure is safe, that all people
+265 exposed to lead are at risk, the specific health risks to children from lead exposure, and that
+266 replacement of lead service lines is the only way to fully prevent harm to persons from drinking
+267 water delivered through lead service lines;
+268 (B) A description of property owners’ options for complying with this
+269 Act;
+270 (C) A description of the lead service line replacement process and
+271 anticipated timeline per the prioritization model developed pursuant to Section 105 of this act;
+272 (D) Information on the importance of filtering drinking water provided to
+273 the property by a lead service line, how the property owner or occupants at the property may
+10
+
+274 access filtration devices, potential sources of lead in household plumbing other than a service
+275 line, and how the property owner or occupant at the property may safely use filtration devices;
+276 (E) For properties serviced by service lines of unknown composition or
+277 service lines without reliable documentation that they do not contain lead, information on how
+278 their service line will be assessed, the limitations of at home testing methods, and the importance
+279 of using filtration devices for at least six months after the service line is replaced to filter any
+280 drinking water delivered through service lines at the property;
+281 (F) Notice that a property owner may test their service line using the
+282 methods described at subsection (d) and submit that test result to DC Water to confirm their
+283 service line contains lead, and information on why such testing is insufficient to confirm that the
+284 service line does not contain lead; and
+285 (G) Website and contact information that property owners may use to
+286 learn more about lead service line replacement and express concerns or questions.
+287 (f)(1) DC Water shall determine that a lead service line is non-lead only using test pitting
+288 and where the agency is in receipt of adequate proof. The results of other testing methods shall
+289 not be dispositive on whether a property is serviced by a lead service line for the purposes of this
+290 act.
+291 (2) To assist private property owners who elect to replace a service line
+292 themselves pursuant to section 103(b) of this act, DC Water shall post on the agency website
+293 guidance for residents on what should be included in a contract for a lead service line
+294 replacement, including:
+295 (A)(i) A sample contract for a lead service line replacement;
+296 (ii) A blank template contract for a lead service line replacement;
+297 and
+11
+
+298 (iii) Information on what must be included in the terms of the
+299 contract, including the elements listed at subsection (b)(4)(C).
+300 (B) Fact sheets and other documentation outlining the health consequences
+301 of lead exposure for children and adults.
+302 Sec. 104. Lead Service Line Replacement Program.
+303 (a)(1) On or before October 1, 2024, the District of Columbia Water and Sewer Authority
+304 (“DC Water”) shall establish a Lead Service Line Replacement Program (“Program”), which
+305 shall provide for the replacement of all portions of a lead service line servicing eligible private
+306 properties at no cost to the property owner
+307 (2) DC Water shall schedule replacements according to the prioritization method
+308 described in section 105 and as otherwise required by this act.
+309 (b)(1) DC Water shall deem a property eligible for the Program where the property owner
+310 completes and submits to DC Water a right to entry form (“form”) consenting to provide
+311 approved contractors and community-based organizations engaged pursuant to section 111 of
+312 this act access to the property to undertake a service line replacement and remedial work
+313 necessary to return the property to its original state.
+314 (c)(1) The form shall be developed by DC Water in consultation with the Department of
+315 Buildings, and shall:
+316 (A) Be written at no more than a 5th grade reading level and be translated
+317 into any non-English language spoken by a limited or no-English proficient population that
+318 constitutes 3% or 500 individuals, whichever is less, in the District of Columbia; and
+319 (B) Be made available online on the DC Water and Department of
+320 Buildings website, accessible by both mobile phone and computer, and hard-copy format at at
+321 least all District public library facilities, recreation centers, and police precincts.
+12
+
+322 (2) Prior to its finalization, DC Water shall test the form with at least one focus
+323 group made up of District residents reflecting the demographic and cultural diversity of the
+324 District.
+325 (d) DC Water shall provide copies of submitted forms to the Rental Accommodation
+326 Division in the Department of Housing and Community Development.
+327 (e)(1) DC Water shall provide notice to property owners and all occupants at the property
+328 of the date of the planned lead service line replacement at least 1 year, 1 month, and 3 days
+329 before the scheduled date of the replacement.
+330 (2) Where a lead service line replacement at a private property is scheduled by
+331 DC Water for a date less than 1 year after the effective date of this act, DC Water shall provide
+332 notice to the property owner of the date of the planned lead service line replacement within 1
+333 month after the effective date of the act.
+334 (3)(A) Notice under this subsection shall include phone calls, text messages,
+335 emails, and door hangers, where DC Water has the information necessary to contact the property
+336 owner and occupant via those means.
+337 (B) For the purposes of compliance with this subsection, DC Water shall
+338 utilize existing customer account data, including customer addresses, phone numbers, and email
+339 addresses provided to DC Water for billing purposes, and shall furnish this data to community-
+340 based organizations engaged under this Act to support outreach and engagement with residents.
+341 (f) DC Water shall pay all costs to replace a lead service line, including all costs to
+342 determine the composition of the service line, replace the lead service line, and any remedial
+343 work necessary to return the property to its original condition or as close as possible to its
+344 original condition.
+13
+
+345 (g)(1) DC Water shall contract with approved contractors to undertake lead service line
+346 replacements under the Program.
+347 (2)(A) DC Water shall submit to the Council a Standard Operating Procedure for
+348 contracts for lead service line replacement services, which shall include clearly defined roles and
+349 responsibilities for DC Water staff and contractors, and planned timelines and sequence of events
+350 to implement all the provisions of this act, including public notice requirements, flushing
+351 protocols, filter distribution, property and landscape restoration, and data collection and
+352 reporting.
+353 (B) The Standard Operating Procedure shall not be effective until
+354 approved by the Council.
+355 (3) DC Water shall include the following in any contract for lead service line
+356 replacement services:
+357 (A) Consent by the contractor to:
+358 (i) Monthly coordination meetings with the DC Water program
+359 manager or project staff and other contractors to identify opportunities and challenges for
+360 improving the lead service line replacement process;
+361 (ii) Real-time review by DC Water and a community-based
+362 organization (“CBO”) pursuant to section 111 of this act of the contractor’s work under the
+363 contract,
+364 (iii) Payment of invoices only upon a finding by DC Water or the
+365 CBO that all program elements are implemented as required under the Act and per contract
+366 specifications;
+14
+
+367 (B) The approved Standard Operating Procedure developed pursuant to
+368 paragraph (2), with language clearly denoting contractor responsibilities under the Standard
+369 Operating Procedure, included as terms of the contract;
+370 (C) Language clearly stating:
+371 (I) That the composition of all service lines will be assessed
+372 using test pitting and so as to establish adequate proof;
+373 (II) The agency’s definition of lead service lines, which
+374 shall conform with section 101(n) of this act; and
+375 (III) A list of the work expected of the contractor to replace
+376 the lead service line, which shall include and conform with all elements listed at section 101(o)
+377 of this act; and
+378 (D) A requirement that all service line data are properly entered in DC
+379 Water’s database or otherwise submitted to DC Water per their explicit direction.
+380 (E) Summaries of monthly coordination meetings with the DC Water
+381 program manager or project staff and other contractors to identify opportunities and challenges
+382 for improving the lead service line replacement process.
+383 (4) DC Water shall revise all agency regulations, protocols, and policies to be
+384 consistent with this act and the Standard Operating Procedure.
+385
+386 Sec. 105. Prioritization
+387 (a)(1) On or before October 1, 2024, the District of Columbia Water and Sewer Authority
+388 (“DC Water”) shall develop and publish on the agency website a priority schedule for lead
+389 service line replacements at the census block group scale through the Lead Service Line
+390 Replacement Program (“priority schedule”) in accordance with this section.
+15
+
+391 (2) DC Water shall score blocks for replacement under the priority schedule as
+392 follows:
+Parameter Description Weight
+Consequences of Lead US Census American Community Survey Data 1.5
+on the percentage of Black or African
+American Households in the Census Block
+Group
+US Census American Community Survey Data 1.5
+on the average median income in the Census
+Block Group
+The number of children 5 years and under in 2
+the Census Block Group
+Service Line Material Probability of lead, brass, or galvanized 5
+service line at each property, averaged across
+the Census Block Group
+393 (3) For purposes of scoring the probability of lead in a service line material in the
+394 priority schedule, DC Water shall assess the following scores:
+395 (A) For lead and galvanized service lines, 10;
+396 (B) For service lines of unknown composition, 5;
+397 (C) For historic brass service lines, 4.7;
+398 (D) For historic copper service lines, 2; and
+399 (E) For other or non-lead service lines; 0.
+400 (4) DC Water shall update the priority schedule at least annually.
+401 (b)(1) On or before October 1, 2024, DC Water shall establish a high-priority lead service
+402 line replacement program (“high-priority program”). DC Water shall replace all lead service
+403 lines servicing these properties by October 1, 2025.
+404 (2) Properties in the high-priority program shall include:
+405 (A) Child development facilities (“facilities”);
+406 (B) Multi-unit residential properties;
+16
+
+407 (C) Properties that previously underwent a partial lead service line
+408 replacement; and
+409 (D) Homes with emergency service line repairs or other urgent unplanned
+410 work requiring replacement of any portion of a lead service line.
+411 (3)(A) For facilities that come online after October 1, 2024:
+412 (i) The Office of the State Superintendent of Education shall
+413 provide written notice to DC Water that the facility is opening; and
+414 (ii) DC Water shall replace lead service lines if present at these
+415 properties within 1 year after receipt of the notice provided under this subparagraph.
+416 (B) Written notice under subparagraph (A)(i) may also be submitted to DC
+417 Water by the facility or the parent or guardian of an enrollee, where the facility or parent or
+418 guardian provides DC Water with evidence of the child development facilities’ opening date and
+419 a point of contact, including a phone number or email address, for the child development facility.
+420 Sec. 106. Post-replacement flushing protocol.
+421 Upon receipt of confirmation from a contractor of the completion of a lead service line
+422 replacement, DC Water shall:
+423 (1) As soon as possible, and before restoring water service after a lead service line
+424 replacement:
+425 (A) Flush the plumbing system at the property or provide the property
+426 owner and current occupants with instructions on how to flush the plumbing system; and
+427 (B) Provide, install, and/or maintain filtration device, providing a 6 month
+428 supply of filter cartridges and education on how and why it is important to maintain the filter for
+429 6 months following lead service line replacement.
+17
+
+430 (2) Maintain and replace filter cartridges provided to occupants pursuant to
+431 section 108 of this act for at least six months following the lead service line replacement.
+432 Sec. 107. Service line inventory.
+433 DC Water shall maintain an inventory that identifies the material of all service lines
+434 serving District properties. The inventory shall be made available to the public on the DC Water
+435 website, and include, where in DC Water’s possession:
+436 (1) For each property with a service line:
+437 (A) The current material composing all portions of the service line, broken
+438 down by composition of the service line in public space and private space;
+439 (B) The date the service line was replaced or verified, if any; and
+440 (D) Photos or other copies of written documentation provided to the
+441 property owner or occupants confirming the service line material, where available; and
+442 (2) Information on service line replacement practices, including for each property
+443 that has had a lead service line replaced:
+444 (A) The composition of the service line material removed;
+445 (B) Date of the removal, if known;
+446 (C) Data on whether the replacement was of the entire service line or only
+447 the portion of the line in the public space or private space;
+448 (D) Photos of the verified pipe material prior to replacement, where made
+449 available to DC water;
+450 (E) Photos of the completed service line replacement, where made
+451 available to DC Water; and
+18
+
+452 (G) Photos or scanned documents of contractors’ certifications, with the
+453 contractor’s signature, that flushing was completed in accordance with AWWA C810-17 and
+454 that the occupant was provided a filter before restoring water service.
+455 Sec. 108. Water filters.
+456 (a) Within 14 days after providing notice to an owner of a residential property pursuant to
+457 Section 103(e) of this act, the District of Columbia Water and Sewer Authority (“DC Water”)
+458 shall provide at no cost:
+459 (1) Pitcher-style filters as follows:
+460 (A) For single family properties, one pitcher and at least a 6 month supply
+461 of filter cartridges; and
+462 (B) For multi-unit residential properties, at least one filter unit per unit; or
+463 (2) Point-of-use filters for all drinking water sources; and
+464 (b)(1)(A) Filters provided pursuant to this section shall meet the current NSF/ANSI 42
+465 standard for particulate Class I reduction and the NSF/ANSI 53 standard for lead reduction, or
+466 any standard that revises or replaces this standard deemed to be equally or more effective at lead
+467 reduction.
+468 (B) The Department of Energy and Environment may issue regulations to
+469 adopt different standards for filters from those established by this section, where the different
+470 standard meets or exceeds the NSF/ANSI 42 standard for particulate Class I reduction and the
+471 NSF/ANSI 53 standard for lead reduction.
+472 (2) DC Water shall replace a broken filter, upon notice from the property owner
+473 or occupant. DC Water may require a property owner to return the broken filter or provide other
+474 evidence that the filter is broken to the agency.
+19
+
+475 (c)(1) DC Water shall provide a property owner or occupant eligible to receive filters
+476 under subsection (a) of this section with filter cartridge replacements in a volume or frequency
+477 such that the property owner or occupant can replace the filter cartridge in accordance with
+478 manufacturer’s recommendations until the lead service line is replaced and for 6 months
+479 afterwards; or
+480 (2) DC Water shall prepare an automated customer alert system that reminds
+481 residents about filter change schedules via their designated preferred communication method
+482 with the agency.
+483 (d) The Mayor shall make pitcher-style filters and filter cartridges available to all
+484 enrollees in the Special Supplementation Nutrition Program for Women, Infants, and Children
+485 and the Supplemental Nutrition Assistance Program, regardless of whether the enrollee’s
+486 residence is served by a lead service line.
+487 Sec. 109. Real property sales and transfers.
+488 (a) As a condition of sale or transfer of any real property in the District of Columbia
+489 serviced by a lead service line or, the buyer shall, prior to closing:
+490 (1)(A)(i) Enroll in the Lead Service Line Replacement Program; and
+491 (ii) Complete and submit to DC Water a right to entry form
+492 agreeing to allow authorized contractors access to the property to undertake the replacement and
+493 any necessary remedial work; or
+494 (B) Comply with section 103(b) and (c) of this act; and
+495 (2) Request from DC Water and include with closing documents documentation
+496 of the property being serviced by a non-lead service line or of DC Water’s schedule for lead
+497 service line replacement at property.
+20
+
+498 (b) DC Water shall provide the documentation listed at subsection (a)(2) within 7 days of
+499 receiving the request.
+500 Sec. 110. Rental properties.
+501 (a)(1)(A) A current occupant, including a tenant, may submit the right to entry form
+502 (“form”) described at section 104(b) of this act on the property owner’s behalf; provided, that the
+503 current occupant shall provide DC Water with proof that the individual currently resides at the
+504 property.
+505 (B) Where DC Water receives a form from an occupant, but DC Water has
+506 knowledge that the property owner has complied with section 103 of this act, DC Water shall not
+507 enroll the property in the Lead Service Line Replacement Program and shall provide notice to
+508 the occupant that submitted the form of the property owner’s compliance with section 4(b) of
+509 this act.
+510 (2)(A) Where, pursuant to section 104 of this act, a property owner fails to submit
+511 the right to entry form (“form”) to DC Water by January 1, 2025, or comply with section 103(b)
+512 this act, DC Water shall attempt to contact current occupants at the property, including a tenant,
+513 to request that an occupant submit the form by June 1, 2025.
+514 (B) If, by June 1, 2025, DC Water has not received the form from the
+515 property owner or occupant, nor has other knowledge of the property’s owner’s compliance with
+516 section 103(b) of this act, DC Water shall engage a community-based organization to perform
+517 outreach to the owner and occupant to address their concerns about replacement.
+518 (3) Where the form is provided to DC Water by a current occupant, no liability
+519 shall incur to the occupant, DC Water, DC Water’s contractors, or the District for the
+520 replacement of the lead service line, where the replacement is completed by an approved
+521 contractor.
+21
+
+522 (b) A landlord shall reimburse tenants for relocation expenses where a lead service line
+523 replacement requires the tenant to leave the property overnight or for a longer period.
+524 Reimbursement may be provided by the landlord by direct payment to the tenant or as a
+525 reduction in the amount of the tenant’s rent owed.
+526 (c) A landlord may not use costs associated with a lead service line replacement or the
+527 benefits of having a non-lead service line as a basis for increasing rent for current tenants.
+528 (d)(1) Where, on October 1, 2026, the owner of a multi-unit residential property has
+529 failed to comply with Section 103(a) or (b) of this act, a tenant residing at that property or a
+530 tenants’ rights organization may bring an action in the Superior Court to recover or obtain the
+531 following:
+532 (A) Equitable relief, including requiring the landlord to complete the lead
+533 service line replacement by a date certain;
+534 (B) Incidental and compensatory damages; and
+535 (C) Reasonable attorney’s fees and costs.
+536 (e) For the purposes of this subsection:
+537 (1) “Landlord” shall include the District of Columbia Housing Authority
+538 (“DCHA”);
+539 (2) “Relocation expenses” shall have the same meaning as at D.C. Official Code §
+540 8-231.01(33); and
+541 (3) “Tenant” shall include residents at a facility owned or under the control of
+542 DCHA.
+543 Sec. 114. Contractor work verifications.
+544 (a) The District Department of Energy and Environment (“DOEE”) shall engage at least
+545 one community-based organization (“CBO”) to review lead service line verifications and
+22
+
+546 replacements undertaken pursuant to this act for compliance with the act, the project contractor’s
+547 contract with the District, DC Water, or property owner, and Districts laws and regulations.
+548 (b) The CBO engaged by DOEE under subsection (a) of this section shall review at
+549 random at least 5% of each approved contractor’s lead service line replacements in a given
+550 month. The CBO shall directly observe the contractor’s work to verify service line material and,
+551 where appropriate, replace the service line at these properties.
+552 (c)(1) The CBO shall report results of its reviews to DOEE, DC Water, and the Council
+553 monthly, and those reports shall include recommendations for additional contractor training,
+554 where deemed necessary.
+555 (2) Where the CBO provides 3 reports in a calendar year pursuant to paragraph
+556 (1) that include findings of material errors in a particular contractor’s work, DC Water shall
+557 terminate any contracts with that contractor and remove them from the approved contractor list.
+558 Sec 112. Compliance.
+559 (a)(1) The Mayor shall contract with community-based organizations (“CBO)”) to
+560 provide public education on the risks posed by lead service lines and exposure to lead in water,
+561 especially to fetuses and young children, the requirements of this act, the Lead Service Line
+562 Replacement Program (“Program”), and access to and proper usage of lead filters.
+563 (2) Where, as of April 1, 2024, a property owner has failed to comply with section
+564 103(a) of this act:
+565 (A) DC Water shall contact the property owner via email and telephone
+566 about the Program, including the requirements under this act, the Program, including how to
+567 enroll, access to and proper usage of lead filters, and the risks posed by lead service lines and
+568 exposure to lead in water; and
+23
+
+569 (B)(i) DC Water shall provide the name and contact information of the
+570 property owner to CBOs with a contract for public education pursuant to this subsection; and
+571 (ii) CBOs shall directly engage those property owners about the
+572 requirements on the Act, the Program, including how to enroll, access to and proper usage of
+573 lead filters, and the risks posed by lead service lines and exposure to lead in water.
+574 (b)(1) Where, as of October 1, 2025, a property owner has failed to comply with section
+575 103(a) or (b) of this act, the Mayor shall fine the property owner at least $250 per month until the
+576 property owner is in compliance.
+577 (A) Where the property is a residential property with multiple units, this
+578 fine shall be assessed against the property owner per unit.
+579 (B) The Mayor may forgive fines under this paragraph where the property
+580 owner provides evidence to the Mayor that the lead service line replacement at the property has
+581 been scheduled.
+582 (2) If, by October 1, 2026, a property owner assessed fines pursuant to this
+583 subsection submits proof to the District of Columbia Water and Sewer Authority of the
+584 replacement of the lead service line in accordance with section 103(c) of this act, the Mayor may
+585 reduce or forgive the amount of fines assessed to that property owner.
+586 (c) Where, as of October 1, 2026, a property owner has failed to comply with section
+587 103(a) or 4(b) of this act, the Mayor shall deem the property owner ineligible to:
+588 (1) For commercial properties, receive or renew a business license to operate a
+589 business on the property;
+590 (2) For residential properties, receive or renew a certificate of occupancy for any
+591 structure on the property; and
+24
+
+592 (3) For all property types, obtain a permit to perform construction or
+593 improvements on the property unless the permit is for replacement of the lead service line.
+594 (d)(1) Where, as of October 1, 2027, a property owner has failed to comply with section
+595 103(a) and (b) of this act, the Attorney General of the District of Columbia may initiate a civil
+596 action against the property owner to compel the property’s owner’s compliance with the act.
+597 (2) In a civil action initiated by the Attorney General for violations of this section,
+598 the Attorney General may obtain equitable relief, civil penalties up to $5,000 per residential unit
+599 at the property, and reasonable fees and costs.
+600 Section 113. Public education.
+601 (a)(1) By October 1, 2024, the District of Columbia Water and Sewer Authority (“DC
+602 Water”) and the Department of Energy and Environment (“DOEE”) shall, in consultation with
+603 District community-based-organizations (“CBO”) that have a focus on mitigating lead in water,
+604 environmental health, and child welfare, launch a public education and outreach campaign on the
+605 risks posed by lead service lines and exposure to lead in drinking water, especially to fetuses and
+606 young children, the requirements of this act, the Lead Service Line Replacement Program
+607 (“Program”), access to and proper usage of lead filters, and the District’s lead registry.
+608 (2) DC Water or DOEE shall present at at least one meeting of each Advisory
+609 Neighborhood Commission as part of this public outreach campaign.
+610 (3) In developing the public outreach campaign, DC Water and DOEE shall
+611 prioritize outreach to the following:
+612 (A) Pregnant women and women of child-bearing age;
+613 (B) Seniors and senior centers; and
+614 (C) Residential properties that have undergone a partial lead service line
+615 replacement and are still served by a lead service line.
+25
+
+616 (b) The Mayor shall post in a conspicuous location at all District of Columbia Public
+617 Library libraries, Department of Parks and Recreation recreational facilities, District of
+618 Columbia Schools public schools, Metropolitan Police Department precincts, and Washington
+619 Metropolitan Area Transit Authority stations signage on the requirements of this act and the
+620 Program, including a method for residents to access the Program website and a telephone
+621 number through which residents may learn about the Program.
+622 (c) All communications to property owners and occupants under this act shall be
+623 available in print format and web format accessible by both mobile phone and computer, and
+624 written at no more than a 5th grade reading level and be translated into any non-English language
+625 spoken by a limited or no-English proficient population that constitutes 3% or 500 individuals,
+626 whichever is less, in the District of Columbia.
+627 Sec. 114. Reporting.
+628 (a) By October 1, 2024, DC Water and Mayor shall submit to the Council a report with
+629 the following information:
+630 (1) An updated budget and schedule through fiscal year 2030 for the replacement
+631 of all lead service lines in the District, including estimated program costs for all District
+632 agencies;
+633 (2) A schedule and map or maps showing, in sequence, planned lead service line
+634 replacements under the Lead Service Line Replacement Program established under section104,
+635 by census block group, and under the high-priority program established at section 105(b) of this
+636 act.
+637 (3) The number of lead service lines remaining in the District and the total
+638 number of private property owners who have received notices of unknown or lead service lines
+639 on their property pursuant to this act, broken down by:
+26
+
+640 (A) Ward;
+641 (B) Census tract;
+642 (C) Advisory Neighborhood Commission;
+643 (D) Commercial versus residential property; and
+644 (E) For residential properties, whether the property is single occupancy or
+645 multi-unit;
+646 (4) The number of properties with a partial lead service line replacement, broken
+647 down by:
+648 (A) Ward;
+649 (B) Census tract;
+650 (C) Advisory Neighborhood Commission;
+651 (D) Commercial versus residential property; and
+652 (E) For residential properties, whether the property is single occupancy or
+653 multi-unit;
+654 (5) A list of contractors approved by DC Water to complete lead service line
+655 replacements, and an estimate of the number of contractors needed to replace all lead service
+656 lines by 2030.
+657 (b) Beginning April 1, 2024, DC Water shall submit quarterly reports to District of
+658 Columbia Auditor and Council Committee with jurisdiction over DC Water providing, for the
+659 three-month period immediately preceding one month before the report’s due date, the
+660 following:
+661 (1) An account of DC Water expenses incurred during that period to implement
+662 the Program and replace lead service lines, broken down by element in the budget submitted
+663 pursuant to subsection (a)(1) of this section, including the program support budget;
+27
+
+664 (2) The monthly average cost per lead service line replacement; and
+665 (3) The number of lead service lines replaced.
+666 (c)(1) On December 1, 2024, and at least each year thereafter:
+667 (A) The District of Columbia Water and Sewer Authority (“DC Water”)
+668 shall post on the agency website and submit to the Council the following data for the preceding
+669 fiscal year:
+670 (i) The number of lead service lines replaced to date, those in
+671 progress, and the number still to be replaced, including break downs of:
+672 (I) The number of child development facilities that have
+673 had lead service lines replaced to date, confirmed to be non-lead, those in progress, and the
+674 number still to be replaced; and
+675 (II) The number of multi-unit residential properties that
+676 have had lead service lines replaced to date, confirmed to be non-lead, those in progress, and the
+677 number still to be replaced;
+678 (ii) The number of service lines of unknown composition that have
+679 been assessed since the effective date of this act, the number determined to be lead, confirmed
+680 non-lead, and the number yet to be assessed;
+681 (iii) The total number of property owners that provided proof of
+682 lead remediation compliance under section 103(c) of this act or registered for the Program in
+683 accordance with Section 103(a), broken down by:
+684 (iv) The number of properties to which DC Water has provided
+685 with lead filters and the number eligible for filters but not received them from DC Water;
+686 (v) An updated budget, current identified funding levels, and
+687 unmet funding needs; and
+28
+
+688 (vi) A summary of barriers to implementation of the Program and
+689 recommendations for solving or removing these barriers;
+690 (B) DC Health shall post on the agency website and submit to the Council
+691 data on the number of lead filters that the agency has provided to residents pursuant to this act;
+692 and
+693 (C) CBOs engaged pursuant to this act may submit to the Council a
+694 summary of barriers to implementation of the Program and recommendations for solving or
+695 removing these barriers.
+696 (2) For the data elements provided under paragraph (1)(A)(i), (ii), (iii), (iv), and
+697 (vi), DC Water shall provide the data broken down by:
+698 (A) Ward;
+699 (B) Census tract;
+700 (C) Advisory Neighborhood Commission;
+701 (D) Commercial versus residential property; and
+702 (E) For residential properties, whether the property is single occupancy or
+703 multi-unit.
+704 (b) On January 1, 2029, the Attorney General shall post on the agency website and
+705 submit to the Council data on the number of property owners against which the Attorney General
+706 has brought a claim pursuant to Section 112(d) of this act, and the number of properties and
+707 residential units implicated in those claims.
+708 (c) By October 1, 2026, the District of Columbia Auditor shall transmit a report to the
+709 Council on compliance with this act and the District’s efforts to replace lead service lines by
+710 2030. To support this report, DC Water shall provide the Auditor with necessary data, including
+711 the data informing the reports submitted to the Council pursuant to subsection (a) of this section.
+29
+
+712 (d) DC Water shall retain historical data on the composition of service lines serving
+713 private and public properties, in public and private space, and make that data available to the
+714 public via the agency website.
+715 Sec. 115. Funding.
+716 Funds made available from the following sources shall not be used by the District of
+717 Columbia Water and Sewer Authority (“DC Water”) to fund water main replacements unless DC
+718 Water concludes that a lead service line replacement would cause the failure of the water main:
+719 (1) Amounts deposited in the Lead Service Line Replacement Fund;
+720 (2) Funds provided to DC Water by the District of Columbia to implement this
+721 Act; or
+722 (2) Federal funding awarded to DC Water to support lead service line
+723 replacements.
+724 Sec. 116. Regulations.
+725 (e) The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure
+726 Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), shall issue
+727 rules to implement the provisions of this act.
+728 TITLE II. LEAD SERVICE LINE PROGRAM AMENDMENTS
+729 Sec. 201. The Fiscal Year 2005 Budget Support Act of 2004, effective December 7, 2004
+730 (D.C. Law 15-2005; D.C. Official Code § 34-2151, et seq.), is amended as follows:
+731 (1) Section 6012 (D.C. Official Code § 34-2151) to read as follows:
+732 “(a) There is established within the General Fund of the District of Columbia a
+733 nonlapsing Lead Service Line Priority Replacement Assistance Fund (“Fund”) to be
+734 administered by the Mayor, in consultation with the District of Columbia Water and Sewer
+735 Authority (“WASA”).
+30
+
+736 “(2) There shall be deposited in the Fund the following amounts:
+737 “(A) General revenue funds appropriated by a line item in the budget
+738 submitted pursuant to § 1-204.46 and authorized by Congress in an appropriations act for the
+739 purposes of the Fund;
+740 “(B) Grants from any source to the Fund or to the District of Columbia for
+741 the purposes of the Fund;
+742 “(C) Money allocated to or deposited in the fund by the Mayor, or funds
+743 appropriated for the Fund, including capital funds;
+744 “(D) Amounts collected as fines and penalties under the Lead Service Line
+745 Replacement Omnibus Amendment Act of 2022 (“Act’); and
+746 “(E) Interest earned from the deposit or investment of monies of the Fund.
+747 “(3) The Fund shall be used to:
+748 (A) Until October 1, 2024, to provide grants to eligible District
+749 homeowners up to $2,500 to assist them in the replacement of the portion of their lead service
+750 line that is located on their private property.
+751 “(B) Implement the provisions of the act; and
+752 “(C) To support lead service line replacements, including public
+753 education, filters, and community engagement.
+754 “(4) The Director is authorized to enter into intra-District transfers from the Fund
+755 and other agreements with DC Water, District Department of Transportation, Department of
+756 Buildings, and Department of Health, as necessary to implement provisions of the act.
+757 “(5) Payments to eligible homeowners under paragraph (3)(A) are subject to
+758 appropriation and the availability of funds. This section does not establish a right to funds on the
+759 part of any person.
+31
+
+760 “(6)(A) The money deposited into the Fund shall not revert to the unassigned fund
+761 balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any
+762 other time, but shall be continually available for the purpose of the Fund, subject to authorization
+763 by Congress.
+764 “(B) Subject to authorization in an approved budget and financial plan,
+765 any funds appropriated in the Fund shall be continually available without regard to fiscal year
+766 limitation.”.
+767 (2) Effective October 1, 2024, sections 6013, 6014, 6015, 6016, 6017, 6019a,
+768 6019b, 6019c, 6019d, and 6019f (D.C. Official Code § 35-1215 through § 35-2156, § 35-2158
+769 through § 35-2161, and § 35-2163) are repealed.
+770 TITLE III. FISCAL IMPACT AND EFFECTIVE DATE
+771 Sec. 301. Fiscal impact statement.
+772 The Council adopts the fiscal impact statement in the committee report as the fiscal
+773 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+774 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+775 Sec. 302. Effective date.
+776 This act shall take effect following approval by the Mayor (or in the event of veto by the
+777 Mayor, action by Council to override the veto), a 30-day period of congressional review as
+778 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+779 24, 1973 (87 Sat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+780 Columbia Register.
+32

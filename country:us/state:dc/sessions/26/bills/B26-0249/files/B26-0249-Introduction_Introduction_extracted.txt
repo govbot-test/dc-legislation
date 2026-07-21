@@ -1,0 +1,254 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+Statement of Introduction
+Nonprofit Services Preservation Amendment Act of 2025
+May 17, 2025
+Today along with Councilmembers Frumin and Lewis George, I am introducing
+the “Nonprofit Services Preservation Amendment Act of 2025”. This bill clarifies and
+updates the “Nonprofit Fair Compensation Act of 2020” to ensure that nonprofit
+organizations partnering with the District government are fairly and consistently
+reimbursed for the full cost of delivering vital services in our communities.
+Nonprofits are indispensable partners in carrying out the District’s mission—from
+providing housing and food access to youth programming and healthcare. Nonprofits
+deserve to be paid fairly for both their direct services and the behind-the-scenes support
+that makes those services possible—that is, their indirect costs. These are very real costs
+for a nonprofit, including salary, rent, and technology, without which they would not be
+able to provide the District-funded services in the first place.
+While a 2020 law was meant to address the lack of payment for those indirect costs,
+it has not been fully implemented, and as a result, nonprofits have had to make tough
+choices between providing their staff with adequate benefits and wages and maximizing
+the services they provide directly to the community. Without payment for true costs,
+nonprofits face a loss every time they accept a D.C. contract or grant. This chronic
+underfunding can force nonprofits to cut staff or even close altogether.
+This bill clarifies that funding for indirect costs supplements, rather than
+supplants, direct funding for services, as was intended in the original law; it increases the
+minimum indirect cost rate for nonprofits from 10 percent to 15 percent, matching the
+federal rate that went into effect in October 2024; and includes provisions to improve
+transparency and implementation, such as requiring clearer, standardized contract
+language, regulations and guidance for agencies and grantees, and staff training on
+compliance. Finally, this legislation establishes a non-profit relief grant program to help
+eligible nonprofits cover funding gaps and indirect costs.
+By treating indirect costs as essential, not optional, this bill supports the long-term
+health of our nonprofit sector and ensures they can continue providing life-changing
+services without being financially penalized for doing so.
+
+_____________________________ _____________________________
+Councilmember Matthew Frumin Councilmember Brianne K. Nadeau
+_____________________________ _____________________________
+Councilmember Robert C. White, Jr. Councilmember Janeese Lewis George
+A BILL
+—————————
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+——————————
+1 To amend the Nonprofit Fair Compensation Act of 2020 to require that grants and contracts
+2 between the District and nonprofit organizations compensate for indirect costs in addition
+3 to direct service costs, to establish a de minimis indirect cost rate of 15% of direct costs,
+4 to require the inclusion of a plain language indirect cost compensation clause in all
+5 nonprofit contract and grant solicitations and awards, to require the Mayor and the Office
+6 of Contracting and Procurement to issue guidance on the calculation, negotiation, award,
+7 and payment process of indirect cost rates, to require annual trainings for agency staff, to
+8 establish timelines for applicability based on grant and contract amounts, and to establish
+9 a relief grant program for nonprofit organizations.
+10
+11
+12 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+13 act may be cited as the “Nonprofit Services Preservation Amendment Act of 2025”.
+14 Sec. 2. The Nonprofit Fair Compensation Act of 2020, effective March 16, 2021 (D.C.
+15 Law 23-185, D.C. Official Code § 2-222.01, et seq.) is amended as follows:
+16 (a) Section 2 (D.C. Official Code § 2–222.01) is amended as follows:
+17 (1) Paragraph (2) is amended to read as follows:
+18 “(2) “Indirect cost” means:
+1
+
+19 “(A) A cost incurred by a nonprofit District grantee or contractor that
+20 cannot be readily attributed to a specific program, grant award, or contract; or
+21 “(B) Expenses considered an indirect cost as defined in 2 C.F.R. §
+22 200.56.”.
+23 (2) A new paragraph (1a) is added to read as follows:
+24 “(1a) "Consumer Price Index" means the average of the Consumer Price Index for
+25 All Urban Consumers for the Washington-Arlington-Alexandria, DC-MD-VA-WV Metropolitan
+26 Statistical Area (or such successor metropolitan statistical area that includes the District), or any
+27 successor index, as of the close of the 12-month period ending on July 31 of such calendar
+28 year.”.
+29 (b) Section 3 (D.C. Official Code § 2–222.02) is amended as follows:
+30 (1) Subsection (a) is amended as follows:
+31 (A) The lead in language of subsection (a) is amended by striking the
+32 phrase “indirect costs incurred in provision of goods or performance of services” and inserting
+33 the phrase “indirect costs, in addition to and on top of direct service costs, and without
+34 supplanting any portion of a grant or contract awarded for the provision of goods or performance
+35 of services,” in its place.
+36 (B) Paragraph (1) is amended by striking the term “10%” and inserting
+37 “15%, adjusted annually to reflect adjustments to the Consumer Price Index, provided that an
+38 annual CPI adjustment shall not be in excess of 3% more than the de minimis rate of the previous
+39 year,” in its place.
+40 (C) Paragraph (3) is amended by striking the phrase “2 years; however
+41 nonprofit organizations may request to renegotiate indirect cost rates pursuant to subsection (c)
+2
+
+42 [(b)] of this section;” and inserting the phrase “3 years; however nonprofit organizations may
+43 request to renegotiate indirect cost rates with the District pursuant to paragraphs (1), (2), or (4) of
+44 this subsection or subsection (b) of this section;” in its place.
+45 (D) Paragraph (4) is amended to read as follows:
+46 “(4) As calculated with a percentage rate and base amount as determined by:
+47 “(A) A certified public accountant using the nonprofit organization's most
+48 recently completed audited financial statements for a fiscal year that concluded not more than
+49 three years prior, pursuant to the OMB Uniform Guidance, and certified in writing by the
+50 certified public accountant; or
+51 “(B) If a nonprofit organization’s annual revenue totals less than $250,000
+52 and certified public accountant conducted audit documents are not available, an independent
+53 bookkeeping or financial services firm using the nonprofit organization’s end-of-year income or
+54 activities statements from the immediately preceding fiscal year.”.
+55 (2) A new subsection (a-1) is added to read as follows:
+56 “(a-1)(1)(A) A nonprofit organization’s request for payment based on an unexpired
+57 NICRA or District-negotiated indirect cost rate, as determined pursuant to subsection (a)(2)(3) or
+58 (4) of this section, shall not be used as the sole or determinative factor in a decision to deny,
+59 reduce, or terminate a grant or contract.
+60 “(B) When making a grant or contract award decision, the District shall
+61 only use a nonprofit organization’s requested or negotiated indirect cost rate as a screening
+62 criteria after assessing that the organization can meet the desired quality standards.
+3
+
+63 “(2) The Mayor may require a nonprofit organization to provide reasonable
+64 financial documentation when negotiating with a District agency pursuant to subsection (a)(2)(3)
+65 or (4) of this section, such as:
+66 “(A) Financial audit statements from the immediately preceding fiscal
+67 year;
+68 “(B) End-of-fiscal-year income or activities statements, dating back not
+69 more than three years, showing a nonprofit organization’s total revenue and expenditures; or
+70 “(C) Expense sheets detailing operating costs and salaries that meet the
+71 definition of indirect costs.”.
+72 (3) Subsection (c) is amended to read as follows:
+73 “(c)(1) Each District contract and grant solicitation and award for services to be
+74 performed by a nonprofit organization shall include an indirect cost compensation clause, in
+75 plain language, that:
+76 “(A) Obligates the District to compensate for indirect costs in addition to
+77 direct service costs if the applicant discloses their requested rate amount calculated pursuant to
+78 subsection (a) of this section in their application;
+79 “(B) Fulfills the requirement of subsection (a-1);
+80 “(C) Provides an awarding agency point of contact, email, and phone
+81 number for a grantee or contractor to communicate with regarding indirect cost rates,
+82 negotiations, or appeals processes if an organization believes the District is in violation of this
+83 Act; and
+4
+
+84 “(D) Obligates the grantee or contractor to pay an indirect cost rate to any
+85 nonprofit organization subcontractor or subgrantee at the same rate the nonprofit organization
+86 would receive as a direct contractor or grantee with the District.”.
+87 (4) Subsection (e) is repealed.
+88 (c) A new section 3a is added to read as follows:
+89 “Sec. 3a. Implementation.
+90 “(a)(1) No later than 120 business days after the effective date of this subsection, the
+91 Mayor, pursuant to § 2-501 et seq., shall promulgate rules for District agencies to fairly and
+92 uniformly calculate, negotiate, award, and pay indirect cost rates for nonprofit organizations
+93 receiving District grants.
+94 “(2) The Mayor shall make available online a plain language explanation of the
+95 regulations. The Mayor shall consult non-profit stakeholders when drafting the explanation to
+96 ensure clarity and readability.
+97 “(b)(1) No later than 120 business days after the effective date of this subsection, the
+98 Office of Contracting and Procurement ("Office") shall promulgate rules for District agencies to
+99 fairly and uniformly calculate, negotiate, award, and pay indirect cost rates to nonprofit
+100 organizations receiving District contracts.
+101 “(2) The Office shall post a plain language explanation of the regulations on the
+102 OCP website. The Office shall consult non-profit stakeholders when drafting the explanation to
+103 ensure clarity and readability."
+104 “(c)(1) Beginning not later than 120 business days after the effective date of this
+105 subsection, the Mayor shall conduct annual training sessions for all District agencies on the
+106 calculation, negotiation, award, and payment of grant and contract indirect cost rates for
+5
+
+107 nonprofit organizations. Completion of such training on an annual basis shall be mandatory for
+108 all agency employees directly involved in the solicitation or management of District grants or
+109 contracts with nonprofit organizations.
+110 “(2) The Mayor shall develop training sessions for subordinate agencies regarding
+111 agency compliance with the requirements of this Act, which shall include:
+112 “(A) Explanation of costs eligible to be classified as an indirect cost;
+113 “(B) Guidance on District procedures regarding fairly calculating or
+114 negotiating indirect cost rates;
+115 “(C) Explanation of the District’s appeals process related to negotiating or
+116 awarding an indirect cost rate; and
+117 “(D) Other topics deemed appropriate to ensure accurate implementation
+118 and compliance with this Act.
+119 “(d) No later than 120 business days after the effective date of this subsection, District
+120 agencies shall include plain language clauses in all grant and contract solicitations and awards to
+121 nonprofit organizations explaining their right to payment for indirect cost rates pursuant to
+122 section 3 of this Act.”.
+123 (e) A new section 3b is added to read as follows:
+124 “Sec. 3b. Non-profit relief grantmaking.
+125 “(a)(1) The Mayor shall have the authority to issue general operating relief grants to
+126 nonprofit organizations involved in the delivery of human services and other community-based
+127 activities in the District.
+128 “(2) For the purposes of this section, the term “relief grants” shall mean a grant
+129 issued by the Mayor for the purpose of strengthening nonprofit organizations’ financial viability,
+6
+
+130 enabling nonprofit organizations’ to meet indirect costs when providing services to District
+131 residents, and encouraging private partnership in support of meeting nonprofit general operating
+132 expenses.
+133 “(3) Applications for such grants may be open on a rolling basis.
+134 “(4) Applications shall require:
+135 “(A) A list of any contracts or grant agreements that the applicant is
+136 seeking or holds with the District government;
+137 “(B) Expense sheets detailing operating costs and salaries that meet the
+138 definition of indirect costs;
+139 “(C) Explanation of organizational general operating hardship and
+140 intended uses of relief grant; and
+141 “(D) Financial audit statements from the immediately preceding fiscal
+142 year; or
+143 “(E) End-of-fiscal-year income or activities statements, dating back not
+144 more than three years, showing a nonprofit organization’s total revenue and expenditures.
+145 “(b) Grants issued pursuant to this section may be in the form of matching funds for
+146 organizations that receive funds from nongovernmental sources to cover indirect costs and other
+147 nonprogrammatic organizational expenses.”.
+148 (f) A new section 3c is added to read as follows:
+149 “Sec. 3c. Rules.
+150 “The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure
+151 Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), may issue
+152 rules to implement the provisions of this act.”.
+7
+
+153 (g) Section 4 is amended to read as follows:
+154 “Sec. 4. Applicability.
+155 “(a) Section 3(a), (a-1), and (c) of this Act shall apply:
+156 “(1) For grants and contracts valued at or below $500,000 beginning in Fiscal
+157 Year 2027.
+158 “(2) For grants and contracts valued at or below $1 million, but greater than
+159 $500,000, beginning on the first day of the new fiscal year following the applicability of
+160 paragraph (1) of this subsection.
+161 “(3) For grants and contracts valued at or below $2 million, but greater than $1
+162 million, beginning on the first day of the new fiscal year following the applicability of paragraph
+163 (2) of this subsection.
+164 “(4) For grants and contracts valued at or below $5 million, but greater than $2
+165 million beginning on the first day of the new fiscal year following the applicability of paragraph
+166 (3) of this subsection.
+167 “(5) For grants and contracts valued at or below $10 million, but greater than $5
+168 million beginning on the first day of the new fiscal year following the applicability of paragraph
+169 (4) of this subsection.
+170 “(6) For grants and contracts valued above $10 million beginning on the first day
+171 of the new fiscal year following the applicability of paragraph (5) of this subsection.
+172 “(b) Sections 3(b), 3a, 3b, and 3c of this Act shall apply upon the date of inclusion of its
+173 fiscal effect in an approved budget and financial plan.
+8
+
+174 “(c) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect
+175 in an approved budget and financial plan, and provide notice to the Budget Director of the
+176 Council of the certification.
+177 “(d)(1) The Budget Director shall cause the notice of the certification to be published in
+178 the District of Columbia Register.
+179 “(2) The date of publication of the notice of the certification shall not affect the
+180 applicability of this act.”.
+181 Sec. 3. Fiscal impact statement.
+182 The Council adopts the fiscal impact statement in the committee report as the fiscal
+183 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+184 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+185 Sec. 4. Effective date.
+186 This act shall take effect following approval by the Mayor (or in the event of veto by the
+187 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+188 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+189 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+190 Columbia Register.
+9

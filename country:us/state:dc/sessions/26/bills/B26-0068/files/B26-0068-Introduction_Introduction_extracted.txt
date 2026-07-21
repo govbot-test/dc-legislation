@@ -1,0 +1,455 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2
+3 _____________________________ _____________________________
+4 Councilmember Brianne K. Nadeau Councilmember Matthew Frumin
+5
+6
+7 _____________________________ _____________________________
+8 Councilmember Trayon White Councilmember Robert C White Jr.
+9
+10
+11 _____________________________ _____________________________
+12 Councilmember Zachary Parker Councilmember Brooke Pinto
+13
+14
+15 _____________________________ _____________________________
+16 Councilmember Kenyan R. McDuffie Councilmember Janeese Lewis George
+17
+18
+19 _____________________________ _____________________________
+20 Councilmember Anita Bonds Councilmember Charles Allen
+21
+22
+23
+24 Councilmember Wendell Felder
+25
+26
+27
+28
+29 A BILL
+30
+31 _________
+32
+33
+34 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+35
+36 __________________
+37
+38
+39 To amend the Office of Out of School Time Grants and Youth Outcomes Establishment Act of
+40 2016 to require the Office and Commission to develop, coordinate, fund, and implement
+41 a plan to guarantee universal access to out-of-school-time programming for all youth
+42 enrolled in a public school in the District by 2036.
+43 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+44 act may be cited as the “Universal Out of School Time Amendment Act of 2025”.
+1
+
+45 Sec. 2. The Office of Out of School Time Grants and Youth Outcomes Establishment Act
+46 of 2016, effective April 7, 2017 (D.C. Law 21-261; D.C. Official Code § 2-1555.01 et seq.) is
+47 amended as follows:
+48 (a) Section 2(a) (D.C. Official Code § 2-1555.01(a)) is amended as follows:
+49 (1) New paragraphs (1A) (2A), (2B), (2C), (2D), (6A), (6B), and (6C) are added
+50 to read as follows:
+51 “(1A) “Child with a disability” shall have the same meaning as provided in
+52 section 602(3) of the Individuals with Disabilities Education Act, approved April 13, 1970, (84
+53 Stat. 175; 20 U.S.C. § 1401(3)).
+54 “(2A) “Community-based organization” or “CBO” means an out-of-school-time
+55 service provider that is a nonprofit entity, faith-based organization, or other entity, excluding the
+56 District or a Local Education Agency, that provides out-of-school time programming to District
+57 youth.
+58 “(2B) “Deduplicated” means the elimination of data that double counts enrollment
+59 or capacity of an out-of-school-time program across more than one session such that the total
+60 number of youth an out-of-school-time service provider serves reflects their true capacity and
+61 enrollment at any one time.
+62 “(2C) “Equitable access” means a strategic approach to increasing District-wide
+63 availability of out-of-school-time program seats that prioritize at-risk youth and closing gaps of
+64 geographic distribution of programming relative to youth residency and school enrollment
+65 identified by the Commission’s needs assessment and strategic plan issued pursuant to section 8
+66 of this act.
+2
+
+67 “(2D) “Low-income" means having a household income that is less than 60% of
+68 the area median family income for the Washington, D.C. metropolitan area according to the
+69 statistics of the United States Department of Housing and Urban Development.
+70 “(6A) “Out-of-school-time service provider” means a youth development program
+71 provider, including the District, that is publicly funded, in-part or in-whole, to facilitate one or
+72 more out-of-school programs. A single organization, LEA, or entity may operate multiple out-of-
+73 school-time programs in different locations.
+74 “(6B) “Program session” means an out-of-school-time program that is provided
+75 on a continuous basis, and that a youth may enroll in for a discrete number of weeks, either
+76 before school, after school, or during summer break. An out-of-school-time service provider may
+77 offer more than one program session consecutively or at more than one location.
+78 “(6C) “Universal access” means a high-quality out-of-school-time program seat is
+79 available to all youth enrolled in a Local Education Agency, relative to demand, and the program
+80 seat is available on a free or affordable sliding-scale basis relative to household income.”.
+81 (2) Paragraph (3) is amended by striking the phrase “Agency” means” and
+82 inserting the phrase “Agency” or “LEA” means” in its place.
+83 (3) Paragraph (7) is amended to read as follows:
+84 “(7) "Youth" means an individual of 21 years of age or less who is enrolled in a
+85 District primary or secondary school of a Local Education Agency, or an individual of 22 years
+86 of age or less who is enrolled in special education services from an LEA.
+3
+
+87 (4) Paragraph (9) is amended by striking the phrase “educational, and
+88 recreational” and inserting the phrase “educational, enrichment, or recreational” in its place.
+89 (b) Section 3 (D.C. Official Code § 2-1555.02) is amended as follows:
+90 (1) Subsection (b) is amended to read as follows:
+91 “(b) The mission of the Office is to facilitate universal access to out-of-school-time
+92 programs by:
+93 “(1) Coordinating, promoting, and improving out-of-school-time program
+94 offerings across out-of-school-time service providers;
+95 “(2) Administering out-of-school-time funding pursuant to section 5 of this act;
+96 “(3) Conducting and publicly publishing out-of-school-time program analysis
+97 pursuant to section 9 of this act; and
+98 “(4) Supporting out-of-school-time service providers in scaling up programming
+99 to close gaps in out-of-school-time program seat capacity and geographic location consistent
+100 with the strategic plan recommendations of the Commission.”.
+101 (2) A new subsection (d) is added to read as follows
+102 “(d) The Office shall spend not more than 7% of its annual budget appropriations
+103 on Office overhead.”.
+104 (c) Section 4(a) (D.C. Official Code § 2-1555.03(a)) is amended as follows:
+105 (1) Paragraph (1) is amended by striking the phrase “Guide” and inserting the
+106 phrase “Facilitate” in its place.
+4
+
+107 (2) Paragraph (3) is amended to read as follows:
+108 “(3)(A) Gather, analyze, and publish data from out-of-school-time service
+109 providers funded in part or in whole by the District or by federal funds administered through the
+110 District pursuant to section 9 of this act;
+111 “(B) Utilize data to implement programmatic and funding improvements
+112 that increase equitable access to high-quality, evidence-based out-of-school-time programs by
+113 not less than a 10% year-over-year growth in seat capacity;”.
+114 (3) Paragraph (4) is amended by striking the semicolon and inserting the phrase “,
+115 including by widely promoting program offerings, educating stakeholders about the benefits of
+116 out-of-school-time programming, and assisting with program enrollment;” in its place.
+117 (4) Paragraph (5) is amended by striking the phrase “on out-of-school-time” and
+118 inserting the phrase “on universal access to out-of-school-time” in its place.
+119 (5) Paragraph (7) is amended by striking the phrase “development and other” and
+120 inserting the phrase “development, navigating and managing organizational growth to grow seat
+121 capacity and programmatic accessibility, and other” in its place.
+122 (6) A new paragraph (7A) is added to read as follows:
+123 “(7A) Provide in-house technical assistance to:
+124 “(A) Out-of-school-time-service providers on improving program
+125 accessibility and meeting local and federal guidelines for serving children with a disability;
+126 “(B) Staff of out-of-school-time-service providers on supporting physical,
+127 emotional, and behavioral needs of children with a disability;
+5
+
+128 “(C) Parents of a child with a disability on finding out-of-school-time
+129 service providers able to meet the unique needs of their child.”.
+130 (7) Paragraph (8) is amended by striking the semicolon and inserting the phrase
+131 “on universal access to out-of-school-time programs;” in its place.
+132 (8) Paragraph (9) is amended to read as follows:
+133 “(9)(A) In coordination with the Commission, lead collaboration, coordination,
+134 and problem-solving across District agencies, LEAs, and CBO out-of-school-time service
+135 providers to strengthen program offerings, funding, accessibility, and outcomes and build a
+136 system that promotes and achieves universal access to out-of-school-time programming in
+137 accordance with the strategic plan;
+138 “(B) The Office shall engage the following District agencies to ensure a
+139 whole-of-government approach to collaboration, coordination, and problem-solving related to
+140 youth development:
+141 “(i) The Office and Commission of Out of School Time Grants and
+142 Youth Outcomes;
+143 “(ii) The Office of the Deputy Mayor for Education, including
+144 representation from the Office for Students in the Care of DC;
+145 “(iii) The Office of the State Superintendent of Education;
+146 “(iv) District of Columbia Public Schools;
+147 “(v) District of Columbia Public Charter School Board;
+148 “(vi) The Department of Parks and Recreation;
+6
+
+149 “(vii) The Department of Employment Services;
+150 “(viii) The Department of Behavioral Health;
+151 “(ix) The Department of Human Services;
+152 “(x) Child and Family Services Agency;
+153 “(xi) The Department of Youth Rehabilitation Services;
+154 “(xii) The Office of the Attorney General;
+155 “(xiii) The Office of Neighborhood Safety and Engagement;
+156 “(xiv) The Office of the Deputy Mayor for Public Safety and
+157 Justice, including representation from the Safe Passage program;
+158 "(xv) The Office of Disability Rights;
+159 “(xvi) District of Columbia Public Library; and
+160 “(xvii) The Council;”.
+161 (9) Paragraph 10 is amended to read as follows:
+162 “(10)(A) Develop, in collaboration with the Commission, plans for measuring and
+163 assessing the quality of out-of-school-time programs;
+164 “(B) Create and implement a plan to improve the quality, accessibility,
+165 and inclusivity of out-of-school-time programs funded in part or in whole by the District; and”.
+166 (10) A new paragraph (11) is added to read as follows:
+7
+
+167 “(11)(A) Obtain, disperse, and administer funding for out-of-school-time
+168 programs consistent with the strategic plan’s requirement to prioritize equitable access in scaling
+169 up programming to achieve universal access to out-of-school-time programs by 2036;
+170 “(B) Not less than 90% of Office grant funds shall be awarded to CBOs
+171 that provide or coordinate out-of-school-time programs.”.
+172 (d) Section 5 (D.C. Official Code § 2-1555.04) is amended as follows:
+173 (1) Subsection (b)(3) is amended by striking the period and inserting the phrase “,
+174 including training to enable out-of-school-time service providers and staff to accommodate the
+175 needs of a child with a disability.” in its place.
+176 (2) A new subsection (b-1) is added to read as follows:
+177 “(b-1) The Office shall award not less than 90% of competitive grants authorized under
+178 subsection (b) of this section to CBOs that provide or coordinate out-of-school-time programs.”.
+179 (3) Subsection (c) is amended by striking the phrase “and program quality.” and
+180 inserting the phrase “program quality, and achieving an annual 10% year-over-year growth of
+181 out-of-school-time program seats until the Commission determines the District has achieved
+182 universal access.” in its place.
+183 (4) A new subsection (e1) is added to read as follows:
+184 “(e-1)(1) The Office shall provide public notice of not less than 4 months before any
+185 revisions take effect to grant application processes, grant award amounts, or grantee program
+186 offering requirements.
+8
+
+187 “(2) The Office shall consult the Commission, out-of-school-time service
+188 providers, and other public stakeholders to solicit feedback in advance of posting intended grant
+189 revisions pursuant to paragraph (1) of this subsection.”.
+190 (5) Subsection (g) is amended to read as follows:
+191 “(g) In addition to the reporting requirements in § 1-328.16, on or before January 1 of
+192 each year, the Office shall submit to the Council and make publicly available on its website
+193 reports detailing grant awards and activity required pursuant to the requirements of section 9 of
+194 this subchapter.”
+195 (e) Section 6 (D.C. Official Code § 2-1555.05) is amended as follows:
+196 (1) Subsection (a) is amended to read as follows:
+197 “(a) There is established a Commission on Out of School Time Grants and Youth
+198 Outcomes to develop a District-wide strategic plan for creating and funding universal access to
+199 out-of-school-time programs, with a focus to geographic and socioeconomic equity in program
+200 capacity expansion.”.
+201 (2) Subsection (b) is amended by adding a new paragraph (7A) to read as follows:
+202 “(7A) The Attorney General of the District of Columbia.”.
+203 (f) Section 7(b) (D.C. Official Code § 2-1555.06(b)) is amended as follows:
+204 (1) Paragraph (1) is amended to read as follows:
+205 “At least 2 members are consumers of out-of-school-time programs in the
+206 District;”.
+207 (2) Paragraph (2) is amended by striking the period and inserting a semicolon in
+208 its place.
+9
+
+209 (3) A new paragraph (3) is added to read as follows:
+210 “(3) At least 2 members are parents or guardians of a youth enrolled in an out-of-
+211 school-time program in the District; and”.
+212 (3) A new paragraph (4) is added to read as follows:
+213 “(4) At least one member who is a subject matter expert in advocacy or data
+214 analysis for out-of-school-time programs.”.
+215 (g) Section 8(a) (D.C. Official Code § 2-1555.07(a)) is amended as follows:
+216 (1) Paragraph (1) is amended to read as follows:
+217 “(1) Set the goals and scope of a biennial, community-wide needs assessment,
+218 which the Office shall conduct, to:
+219 “(A) Assess the number of program seats needed to guarantee universal
+220 access to out-of-school-time programs relative to demand for enrollment in programming;
+221 “(B) Identify programmatic growth needs and trends, and benchmark city-
+222 wide progress toward achieving universal access to out-of-school-time programs, relative to
+223 demand, including assessments of geographic, demographic, socioeconomic, and program
+224 offering metrics;
+225 “(C) Identify met and unmet programmatic capacity, training, and quality
+226 improvement needs of youth identified as:
+227 “(i) At-risk;
+228 “(ii) A child with a disability;
+10
+
+229 “(iii) English language learners;
+230 “(iv) Justice system-involved; or
+231 “(v) Low-income;
+232 “(D) Determine barriers to program participation, including:
+233 “(i) Program costs and what families determine make a program
+234 affordable for households at different income levels of different family sizes;
+235 “(ii) Transportation access, modes, and distance;
+236 “(iii) Ability of programs to meet and staff the needs of children
+237 with a disability; or
+238 “(iv) Alignment with youth-identified interests and preferences in
+239 program content or offerings; and
+240 “(E) Identify professional development and organizational growth
+241 management support needs for out-of-school-time service providers to enable them to
+242 successfully scale up operations to achieve universal access to programming.”.
+243 (2) A new paragraph (1A) is added to read as follows:
+244 “(1A)(A) The Commission shall collaborate with the Mayor’s Office of Racial
+245 Equity to ensure the community-wide needs assessment scope of work is developed with a racial
+246 equity lens.
+11
+
+247 “(B) The needs assessment shall be reviewed by the Mayor’s Office of
+248 Racial Equity prior to finalization to identify and remedy deficiencies in findings or data analysis
+249 from a racial equity perspective.
+250 “(C) The Office shall facilitate the collaboration required of subparagraphs
+251 (B) and (C) of this paragraph.”.
+252 (3) A new paragraph (1B) is added to read as follows:
+253 “(1B) At such time as the Commission determines the District has added
+254 sufficient out-of-school-time program seat capacity to meet the participation demands and
+255 specialized program content needs of all youth enrolled in an LEA, the Commission shall issue a
+256 written determination to the Mayor and the Council demonstrating success achieving universal
+257 access and providing recommendations on steps the District must take to maintain, or further
+258 improve, programmatic enrollment, quality, and youth interest in service provider offerings.
+259 (4) A new paragraph (2A) is added to read as follows:
+260 “(2A) Beginning January 1, 2027, the strategic plan shall require the District to
+261 implement a system for achieving universal access to out-of-school-time programs by 2036. The
+262 Commission shall work with the Mayor’s Office of Racial Equity to apply a racial equity lens to
+263 the plan and the Commission shall solicit ongoing youth input to develop the strategic plan,
+264 taking into account and instructing the Office on steps to take to address:
+265 “(A) District government agency, LEA, and CBO service provider
+266 collaborations needed to achieve at least a 10% year-over-year expansion in seat capacity until
+267 the Commission determines the District has achieved universal access pursuant to paragraph
+268 (1B) of this subsection, or until the Commission issues a written determination demonstrating
+12
+
+269 that a 10% growth rate is no longer needed or feasible to meet remaining demand for out-of-
+270 school-time programming;
+271 “(B) Closing existing service and enrollment gaps in out-of-school-time
+272 programs with a focus on equitable access in expanding OST programming;
+273 “(C) Program capacity expansion that prioritizes creating new seats for
+274 youth who are:
+275 “(i) Designated at-risk;
+276 “(ii) Designated as a child with a disability;
+277 “(iii) English language learners;
+278 “(iv) Justice system involved; or
+279 “(v) Low-income;
+280 “(D) Funding needs, gaps, targets, and opportunities necessary to achieve
+281 universal access to programming;
+282 “(E) Removing barriers to program participation, including:
+283 “(i) Program participation and supply costs to families;
+284 “(ii) Geographic convenience;
+285 “(iii) Transportation access and costs;
+286 “(iv) Quality;
+287 “(v) Accessibility of programs for children with a disability;
+13
+
+288 “(vi) Public awareness of programs and registration hurdles; and
+289 “(vii) Youth interest and priorities in program offerings;
+290 “(F) Improving the quality of programs, including ways the Office can
+291 support the capacity building and professional development needs of out-of-school-time service
+292 providers;
+293 “(G) Office personnel growth and skills needed to improve the Office’s
+294 efficiency, external communication, grant administration, and data tracking and sharing as out-
+295 of-school-time programming scales up; and
+296 “(H) Facilitating mutually beneficial partnerships across out-of-school-
+297 time service providers in order to maximize quality, quantity, accessibility, and availability of
+298 programming for all youth.”.
+299 (h) Section 9 (D.C. Official Code § 2-1555.08) is amended as follows:
+300 (1) Subsection (a) is amended to read as follows:
+301 “(a) Not later than January 1, 2026, the Office, in collaboration with the Commission,
+302 shall coordinate with the Department of Parks and Recreation, the Office of the State
+303 Superintendent of Education, LEAs, and Department of Employment Services to:
+304 “(1) Align out-of-school-time funding priorities, promotion strategies, and agency
+305 capacity building needs to increase the number of youth served by out-of-school-time programs
+306 and improve equitable access to program opportunities pursuant to priorities identified by the
+307 Commission’s strategic plan;
+14
+
+308 “(2) Streamline and standardize, where appropriate, the grant application, grant
+309 payments, and grant reporting processes for out-of-school time service providers seeking funding
+310 from the District;
+311 “(3) Share, standardize, and publish deduplicated data pursuant to subsection (c)
+312 of this section to improve the District’s per-youth tracking of out-of-school-time program
+313 capacity and enrollment;
+314 “(4) Make public on the Office’s website all copies of federally mandated grant
+315 reports related to 21st Century Community Learning Center grants, Workforce Innovation and
+316 Opportunity Act (WIOA) youth funding, and other federal sources of out-of-school-time
+317 funding; and
+318 “(5)(A) Create, collect, and make public on the Office’s website summaries of
+319 annual youth evaluations of out-of-school-time programs;
+320 “(B) Evaluations may aggregate responses per-program offering per-
+321 service provider to protect the anonymity of respondents; and
+322 “(C) The Office shall publish anonymized responses to the District’s
+323 annual Out-of-School-Time Survey of Academic and Youth Outcomes (DC OST SAYO-Y)
+324 collected as of 2017.”.
+325 (2) Subsection (b) is amended as follows:
+326 (A) Paragraph (1) is amended as follows:
+327 (i) Strike the phrase “Within 36 months of April 17, 2017, the
+328 Commission” and insert the phrase “Not later than January 1, 2027, the Office, in coordination
+329 with the Commission,” in its place.
+15
+
+330 (ii) Strike the phrase “the feasibility of expanding” and insert the
+331 phrase “steps the Office and Commission shall take to expand” in its place.
+332 (iii) Strike the phrase “Department of Employment Services,”.
+333 (B) Paragraph (2) is amended to read as follows:
+334 “(2) The Office shall publicize its recommendations, the rationale for the
+335 recommendations, and the concrete steps it shall take, in partnership with the Commission, to
+336 increase coordination.”.
+337 (3) A new subsection (c) is added to read as follows:
+338 “(c)(1) To facilitate the accurate tracking of progress toward universal access of out-of-
+339 school-time programs, the Office shall publish on its website an annual report on all program
+340 seats, funded in part or in whole through the District or federal funding sources, detailing:
+341 “(A) Out-of-school-time funding source or sources and amount allocated
+342 or awarded per:
+343 “(i) Out-of-school-time service provider;
+344 “(ii) Program session per location, if applicable; and
+345 “(iii) Per grade-range of program per location, if the same or
+346 substantially similar program is offered for different aged youth during simultaneous sessions;
+347 “(B) Specific services provided to youth including:
+348 “(i) Out-of-school-time service provider name or name of
+349 subgrantee providing services,
+350 “(ii) Programmatic content and youth development goals;
+351 “(iii) Location or locations of programs offered;
+352 “(iv) Youth-to-staff ratio;
+16
+
+353 “(v) Transportation services, if any; and
+354 “(vi) How the program or service provider meets the needs of at-
+355 risk youth, children with disabilities, English language learners, or justice involved youth;
+356 “(C) Demographic profile of youth served per program session, per
+357 location, if applicable, aggregating total youth served by:
+358 “(i) Grade range;
+359 “(ii) Home Ward;
+360 “(iii) School Ward;
+361 “(iv) Designation as:
+362 “(I) At-risk;
+363 “(II) Child with a disability; or
+364 “(III) Justice involved;
+365 “(v) Race and ethnic identity; and
+366 “(vi) Gender or gender identity;
+367 “(D) Deduplicated per program session capacity, enrollment, and
+368 attendance numbers;
+369 “(E) Annual program seat capacity and enrollment numbers per out-of-
+370 school-time service provider, deduplicated to count the total number of youth served by provider
+371 per program location, if provider operates in multiple program locations;
+372 “(F) Length of program, including:
+373 “(i) Number of weeks program session operates;
+374 “(ii) Days and hours per week program operates per session; and
+17
+
+375 “(iii) Number of sessions offered annually per location and grade
+376 level served, if multiple sessions are simultaneously offered; and
+377 “(G) Program operating expenses, program overhead or indirect cost
+378 expenses, and program participation or supply costs charged to families, if any.
+379 “(2) The Mayor shall make available to the Office data sets from subordinate
+380 agencies necessary to comply with the reporting requirements of paragraph (1) of this subsection.
+381 The Office may initiate data sharing agreements to facilitate reporting requirements.”.
+382 (4) A new subsection (d) is added to read as follows:
+383 “(d)(1) The Office shall publish on its website an annual report summarizing anonymized
+384 grant requests that did not receive Office funding detailing per applicant:
+385 “(A) The funding amount requested;
+386 “(B) The anticipated number of youth served, per grade range, if funded;
+387 “(C) The Ward location or locations of programming would be offered;
+388 “(D) The anticipated days and hours per week of programming, if funded;
+389 “(E) A summary of program offerings or services including how the
+390 program planned to meet the needs of at-risk youth, children with a disability, English language
+391 learners, or justice involved youth;
+392 “(F) Program enrollment or supply costs charged to families, if any;
+393 “(G) Overall grant application score awarded by review committee; and
+394 “(H) Other programming and funding metrics determined by the Office
+395 and reflective of data requests made by the Commission.
+396 “(2) The Office shall publish the names and District government or organizational
+397 affiliation, if any, of the members of the grant review committee.
+18
+
+398 “(3) The report shall include a summary of recommendations of how prospective
+399 grantees can strengthen their application or program services to increase their likelihood of
+400 receiving future funding”.
+401 Sec. 3. Fiscal impact statement.
+402 The Council adopts the fiscal impact statement in the committee report as the fiscal
+403 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+404 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+405 Sec. 4. Effective date.
+406 This act shall take effect following approval by the Mayor (or in the event of veto by the
+407 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+408 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+409 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+410 Columbia Register.
+19

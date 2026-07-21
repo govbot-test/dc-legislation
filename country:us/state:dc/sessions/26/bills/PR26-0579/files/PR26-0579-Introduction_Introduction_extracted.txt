@@ -1,0 +1,1168 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+March 17, 2026
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, N.W., Suite 504
+Washington, D.C. 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and approval by the Council of the District of Columbia, pursuant to section
+31 of the Homeless Services Reform Act of 2005, effective October 22, 2005 (D.C. Law 16-35; D.C.
+Official Code § 4-756.02), is the “Family Re-Housing and Stabilization Program Rules Approval
+Resolution of 2026”.
+The resolution would approve rules that amend requirements and procedures for the District’s Family Re-
+Housing and Stabilization Program (“FRSP”), which provides time-limited rental assistance to District
+residents who are experiencing homelessness or are at risk of experiencing homelessness. Families are
+offered a range of services, tailored to the unique needs and strengths of the entire household, to assist
+them in achieving greater housing stability and economic security, including individualized case
+management services, housing identification, connection to government and community-based resources,
+and time-limited rental subsidies.
+Among other changes, these updated rules establish an employment requirement for program eligibility;
+revise the percentage of a participant’s adjusted annual income toward housing costs to 30%, which had
+previously been a range of 40% to 60%; require service providers to assess a participant’s potential
+eligibility for longer-term housing assistance programs within the first 90 days of the FRSP assistance
+period; establish a financial incentive for FRSP participants who meet program goals related to exiting the
+program into stable housing; and revise criteria the Department of Human Services uses to determine
+whether a participant may receive a one-time six-month extension of FRSP assistance beyond the
+standard 12-month period.
+I urge the Council to take prompt and favorable action on this proposed resolution.
+Sincerely,
+Muriel Bowser
+
+1 ~
+2
+3
+4 at the request of the Mayor
+5
+6
+7
+8 A PROPOSED RESOLUTION
+9
+10
+11
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+13
+14
+15
+16 To approve final rules to implement the Family Re-Housing and Stabilization Program.
+17
+18 RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+19 resolution may be cited as the "Family Re-Housing and Stabilization Program Rules Approval
+20 Resolution of 2026".
+21 Sec. 2. Pursuant to section 31 of the Homeless Services Reform Act of 2005, effective
+22 October 21, 2005 (D.C. Law 16-35; D.C. Official Code§ 4-756.02), the Council approves the
+23 proposed final rules of the Director of the Department of Human Services to amend Chapter 78
+24 (Family Re-Housing and Stabilization Program) of Title 29 (Public Welfare) of the District of
+25 Columbia Municipal Regulations, regarding the implementation of the Family Re-Housing and
+26 Stabilization Program, which were transmitted to the Council by the Mayor on -----------, and a
+27 notice of proposed rulemaking for which was published in the District of Columbia Register on
+28 October 31, 2025, at 72 DCR 12193.
+29 Sec. 3. Transmittal.
+30 The Council shall transmit a copy of this resolution, upon its adoption, to the Mayor, the
+31 Director of the Department of Human Services, and the Administrator of the Office of
+32 Documents and Administrative Issuances.
+1
+
+33 Sec. 4. Fiscal impact statement.
+34 The Council adopts the fiscal impact statement in the committee report as the fiscal
+35 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+36 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+37 Sec. 5. Effective date.
+38 This resolution shall take effect immediately.
+2
+
+DEPARTMENT OF HUMAN SERVICES
+NOTICE OF FINAL RULEMAKING
+as transmitted to the Council of the District of Columbia for its review and approval pursuant to
+section 31 of the Homeless Services Reform Act of 2005, effective October 22, 2005
+(D.C. Law 16-35; D.C. Official Code § 4-756.02)
+The Director of the Department of Human Services (Department or DHS), pursuant to the authority
+set forth in Section 31 of the Homeless Services Reform Act of 2005 (HSRA), effective October
+22, 2005 (D.C. Law 16-35; D.C. Official Code § 4-756.02), and pursuant to Mayor’s Order 2006-
+20, dated February 13, 2006, gives notice of the adoption of the following amendments to Chapter
+78 (Family Re-Housing and Stabilization Program) of Title 29 (Public Welfare) of the District of
+Columbia Municipal Regulations (DCMR).
+The purpose of these rules is to amend the existing rules governing the District’s Family Re-
+Housing and Stabilization Program (FRSP), contained in Chapter 78 of Title 29 of the DCMR.
+FRSP provides time-limited rental assistance to District residents who are experiencing
+homelessness or are at risk of experiencing homelessness. Families are offered a range of services,
+tailored to the unique needs and strengths of the entire household, to assist them in achieving
+greater housing stability and economic security, including individualized case management
+services, housing identification, connection to government and community-based resources, and
+time-limited rental subsidies.
+The Director of the Department first adopted emergency rules on March 1, 2024, pursuant to a
+Notice of Emergency and Proposed Rulemaking published in the District of Columbia Register on
+March 22, 2024, at 71 DCR 3298. A Second Notice of Emergency Rulemaking was published in
+the District of Columbia Register on September 27, 2024, at 71 DCR 11691; the second emergency
+rulemaking continued in place the emergency rules that were adopted in the initial Notice of
+Emergency and Proposed Rulemaking. A Notice of Third Emergency and Second Proposed
+Rulemaking was published in the District of Columbia Register on March 7, 2025, at 72 DCR
+2386, in response to which the Department received no public comments. A Notice of Fourth
+Emergency and Third Proposed Rulemaking was published in the District of Columbia Register
+on October 31, 2025, at 72 DCR 12193, and included changes incorporated in the prior emergency
+and proposed rules, as well as further changes to: (1) add a new employment requirement for FRSP
+eligibility at § 7803.1(g); (2) remove a provision allowing an applicant’s declaration to be used in
+place of certain documentation required to establish FRSP eligibility; (3) remove a provision
+authorizing FRSP rental assistance to include utility assistance; and (4) reflect provisions of recent
+legislation amending Rapid Re-Housing provisions of the HSRA, including provisions related to
+requesting case management services and program exits. The Department received no public
+comments in response to the third proposed rules.
+In accordance with Section 31 of the HSRA (D.C. Official Code § 4-756.02), the proposed final
+rules were submitted to the Council for a forty-five (45) day period of review pursuant to the
+Family Re-Housing and Stabilization Program Rules Approval Resolution of 2026 (Proposed
+Resolution 26-YYY), and were deemed approved on February XX, 2026.
+1
+
+On February ZZ, 2026, the Department Director adopted these rules as final, and the rules shall
+become effective upon publication of this notice in the District of Columbia Register.
+Chapter 78 (Family Re-Housing and Stabilization Program) of Title 29 (Public Welfare) of
+the DCMR is amended to read as follows:
+CHAPTER 78 FAMILY RE-HOUSING AND STABILIZATION PROGRAM
+7800 SCOPE
+7800.1 The purpose of the Family Re-Housing and Stabilization Program (“FRSP” or
+“Program”) is to support District residents who are experiencing homelessness or
+at imminent risk of experiencing homelessness to achieve stability in permanent
+housing through individualized and time-limited assistance within the twelve (12)-
+month maximum allowable program assistance time period.
+7800.2 FRSP participants shall work with their assigned Service Provider to increase their
+income during the program assistance period and attain at least the District’s
+minimum wage. In cases where a disabling condition prevents the participant from
+increasing income, the Service Provider will assess the family for additional
+services and refer them for appropriate services.
+7800.3 FRSP offers a range of supports that are responsive to participant needs, including:
+optional individualized case management services, housing identification,
+connection to mainstream and community-based resources, and financial
+assistance.
+7800.4 The provisions of this chapter describe the application process, eligibility criteria,
+assistance determination, description of assistance provided, and appeal procedures
+for the Program.
+7800.5 Nothing in these rules shall be interpreted to mean that FRSP assistance is an
+entitlement. This Program shall be subject to annual appropriations and the
+availability of funds.
+7800.6 The Department may execute contracts, grants, and other agreements as necessary
+to carry out the Program.
+7801 APPLICATION PROCESS
+7801.1 Each FRSP application shall be in writing on a form provided by the Department,
+signed by the applicant, and submitted to the Eligibility Provider. An authorized
+representative may apply on behalf of the applicant, if the applicant provides the
+Department a written and signed statement indicating the name and address of the
+person authorized to act on the applicant’s behalf.
+2
+
+7801.2 If an applicant with a disability or the authorized representative of an applicant with
+a disability requests assistance to complete the FRSP application, the Eligibility
+Provider shall assist such applicant or authorized representative with the application
+process to ensure that the applicant has an equal opportunity to submit an
+application.
+7801.3 The Department shall provide FRSP application forms to the Eligibility Provider to
+use and disseminate to applicants, and the Eligibility Provider shall accept
+applications from each applicant who requests and is referred for FRSP assistance.
+7801.4 At the time of application, the Eligibility Provider shall provide each applicant with
+a written FRSP notice explaining the Program. Each applicant shall personally, or
+through an authorized representative, sign an FRSP notice acknowledgement form,
+acknowledging receipt of the FRSP notice.
+7801.5 Each applicant, personally or through an authorized representative, shall sign an
+FRSP release form authorizing the Eligibility Provider to obtain or verify
+information necessary for processing the application.
+7801.6 Each applicant shall provide the following information to the Eligibility Provider
+to determine the household’s ability to achieve housing stability independent of the
+Program by the end of the FRSP assistance period:
+(a) The circumstances that brought about the applicant’s experience of
+homelessness or imminent risk of homelessness;
+(b) Willingness to actively engage in the application process by providing
+required documents within the agreed upon timeline to their assigned case
+managers; and
+(c) Documentation of the following:
+(1) Household composition;
+(2) Employment status and employment history;
+(3) Income and financial assets history;
+(4) Household expenses;
+(5) Rental and other relevant housing history;
+(6) Facts and circumstances surrounding financial and other barriers to
+housing stability; and
+3
+
+(7) Facts and circumstances surrounding work experience, education,
+or training that can contribute to the household’s ability to achieve
+housing stability independent of the Program by the end of the FRSP
+assistance period.
+7801.7 The applicant shall complete an Affordability Assessment that outlines the family’s
+projected ability to pay thirty percent (30%) of their monthly income towards their
+rental obligation each month to help the applicant select appropriate housing. The
+affordability assessment includes:
+(a) Current income;
+(b) Expected future income;
+(c) Employment history; and
+(d) Employment potential based on job skills, certifications, or participation in
+a training or employment program.
+7801.8 The Eligibility Provider and the Department may attempt to verify the information
+in Section 7801.6 using any third-party data sources to which it has legal access to
+verify Program eligibility. The Eligibility Provider may use, among other things,
+documents, telephone conversations, personal and collateral interviews, reports,
+correspondence, and conferences to verify applicant information.
+7801.9 If additional information is needed from the applicant to determine eligibility for
+the Program, the Eligibility Provider shall make the request, in writing, for
+additional information, which shall specify the information needed to complete the
+application. The written request shall also include information to assist the
+applicant with obtaining the required information or offer appropriate assistance in
+obtaining the required information. The application shall be considered complete
+when all required information is provided to the Eligibility Provider.
+7801.10 If an applicant has not obtained and provided to the Eligibility Provider the required
+information for eligibility determination under this section within thirty (30)
+calendar days of the date of application, the Eligibility Provider shall make
+documented efforts to contact the applicant both by telephone and in writing to
+discuss whether the applicant wants to complete their application, and any barriers
+that are delaying the requested documentation.
+(a) If, at such time, contact with the applicant is made and services are still
+requested, the Eligibility Provider will take appropriate steps to assist the
+applicant in obtaining the required information.
+(b) If, at such time, contact cannot be made, or the applicant no longer requests
+the services, an application shall be considered abandoned. The Department
+4
+
+shall issue the applicant a written notice indicating that the application has
+been abandoned.
+7801.11 The Eligibility Provider shall refer a complete application to the Department to
+determine eligibility.
+7802 APPLICANT UNIT
+7802.1 The applicant unit shall be composed of each individual who lives in the same
+household as the applicant and whose needs, assets, and income are combined to
+determine eligibility.
+7802.2 To determine the household composition of the applicant unit, the Department shall
+consider individuals who live in the same physical housing unit as the applicant,
+including:
+(a) Persons related by blood or legal adoption with legal responsibility for
+minor children in the household;
+(b) Persons related by marriage or domestic partnership (as defined by Section
+2(4) of the Health Care Benefits Expansion Act of 1992, effective June 11,
+1992 (D.C. Law 9-114; D.C. Official Code § 32-701(4)), including
+stepchildren and unmarried parents of a common child who live together;
+(c) Persons with a legal responsibility for an unrelated minor child or an
+unrelated adult with a disability;
+(d) Any person not included by § 7802.2(a)-(c), regardless of blood
+relationship, age, or marriage, whose history and statements reasonably
+demonstrate that the individuals intend to remain together in the same
+household; and
+(e) Children who live in the household for fifty percent (50%) or more of the
+time.
+7802.3 A person temporarily away from home due to employment, school, hospitalization,
+legal proceedings, or vacation shall be considered to be living in the household. A
+minor child who is away at school shall be considered to be living in the household
+if he or she returns to the housing unit on occasional weekends, holidays, school
+breaks, or during summer vacations. For purposes of this section, “temporarily”
+means no more than six (6) months at a time.
+7803 ELIGIBILITY CRITERIA
+7803.1 An applicant shall qualify to enroll into FRSP if the following criteria apply:
+5
+
+(a) The applicant unit is a family, as defined by Section 2(16) of the Act (D.C.
+Official Code § 4-751.01(16));
+(b) The applicant unit is currently experiencing homelessness as defined by
+Section 2(18) of the Act (D.C. Official Code § 4-751.01(18)), or is at risk
+of experiencing homelessness as defined by Section 2(5B) of the Act (D.C.
+Official Code § 4-751.01(5B));
+(c) The applicant is a resident of the District of Columbia as defined by Section
+2(32) of the Act (D.C. Official Code § 4-751.01(32));
+(d) The applicant unit earns forty percent (40%) or less of the District of
+Columbia Median Family Income for the Washington, D.C., Metropolitan
+Area, as determined by the U.S. Department of Housing and Urban
+Development (“HUD”);
+(e) The applicant unit has been referred by an approved referral source as
+described in § 7803.2;
+(f) The applicant does not have an ownership interest in safe housing and is not
+listed on a lease or occupancy agreement for safe housing, unless the
+applicant provides credible evidence that they cannot safely inhabit the
+housing associated with the lease or occupancy agreement; provided, that
+this presumption shall not apply to an applicant seeking assistance for
+reasons of domestic violence, sexual assault, or human trafficking; and
+(g) The applicant can demonstrate that, within the thirty (30) days prior to the
+Program application date, they are employed, participating in an education
+program, seeking employment, or received unemployment insurance
+benefits in one of the following ways:
+(1) The applicant is subject to and complying with a work requirement
+under Title IV of the Social Security Act;
+(2) The applicant receives an earned income, demonstrated by paystubs
+or bank statements, for at least twenty (20) hours per week or three
+hundred and fifty dollars ($350) per week;
+(3) The applicant is enrolled in a full-time educational program with an
+anticipated end date in less than twelve (12) months;
+(4) The applicant receives an earned income and participates in an
+educational program for at least twenty (20) hours combined per
+week; or
+(5) The applicant receives unemployment insurance benefits.
+6
+
+7803.2 The following are approved referral sources for FRSP applicants (designated for
+the rest of this chapter as “Referring Providers”):
+(a) Providers of a Short-Term Family Housing Program;
+(b) Providers of the Homelessness Prevention Program; and
+(c) Department-approved providers of emergency domestic violence shelter
+programs.
+7803.3 A Referring Provider shall assess whether FRSP is an appropriate referral for an
+applicant by using an evidence-based assessment such as the Westat Tool. Relevant
+factors for determining whether a household is appropriate for FRSP assistance
+include:
+(a) Assessment on a uniform tool as selected by the Department, such as the
+Service Prioritization Decision Assistance Tool (“SPDAT”), that identifies
+Rapid Re-Housing as the appropriate housing assistance option based on
+the applicant’s needs;
+(b) Willingness to take steps that could reasonably lead to increased income in
+the household; and
+(c) Identification of and willingness to take steps that could reasonably lead to
+permanent housing stability in cohabitation with family, friends, or other
+appropriate and safe situations.
+7803.4 The Department shall determine the eligibility in as short a time as feasible, but not
+later than ten (10) calendar days after receipt of a completed application by the
+Eligibility Provider. Delays caused by the following shall not count towards the ten
+(10)-day deadline:
+(a) The applicant’s inability to supply information to document facts stated in
+the completed application needed to determine eligibility and type or
+amount of assistance;
+(b) The inability to contact the applicant through telephone, mail, or email;
+(c) Evidence of misrepresentation of information in the application; or
+(d) Delay by a third party from whom the Eligibility Provider has requested
+information.
+7803.5 The Eligibility Provider shall create and maintain in the applicant’s or participant’s
+file detailed documentation of the Program’s eligibility determination, including
+7
+
+the assistance for which the applicant qualifies and subsequent case-management
+services provided.
+7803.6 If an applicant is determined eligible for FRSP assistance pursuant to § 7803.1, the
+Eligibility Provider shall enter in the applicant’s case file a written Notice of
+Eligibility Determination.
+7803.7 The Referring Provider shall notify the applicant orally or via electronic
+communication when the Eligibility Provider enters a favorable Notice of
+Eligibility Determination in the applicant’s case file. Pursuant to Section 9 of the
+Act (D.C. Official Code § 4-754.11(a)(6)), the applicant may request a hard copy
+of the favorable Notice of Eligibility Determination.
+7803.8 If an applicant is determined ineligible for FRSP assistance, the Department shall
+give to the applicant, personally or through an authorized representative, oral and
+written notice of the denial. The written Notice of Denial of Eligibility shall state:
+(a) That the applicant is being denied eligibility;
+(b) The reason or reasons for the denial, including the factual and legal basis
+for the denial;
+(c) The applicable statute or regulation pursuant to which the denial was made;
+(d) That the FRSP applicant has a right to appeal the denial through fair hearing
+and administrative review proceedings pursuant to § 7824 including the
+procedures and appropriate deadlines for requesting an appeal; and
+(e) Which programs or services within the Continuum of Care the applicant
+may qualify for and has been referred to, if applicable.
+7804 PRIORITY DETERMINATION
+7804.1 Families residing in a Department-funded family shelter shall receive the first
+priority for the Program.
+7804.2 Families participating in the Department’s Homelessness Prevention Program, or
+residing in domestic violence shelter, transitional housing program, or determined
+to be at imminent risk of needing admission to shelter or supportive housing
+pursuant to 29 DCMR § 2508.1(a)(1), shall receive the second priority for the
+Program.
+7804.3 Within each of the first and second priority groups, additional priority
+determinations may be made based on the following:
+8
+
+(a) The applicant’s prospective ability to achieve housing stability at the end of
+the FRSP assistance period, as demonstrated by income, documented work
+experience, completion of the Individual Responsibility Plan, the
+identification of other stable housing opportunities, or other relevant
+factors;
+(b) The length of time the applicant has resided in their current program since
+the most recent placement;
+(c) The need to provide a reasonable accommodation based on a disability; and
+(d) Other relevant factors.
+7805 PRE-ENROLLMENT SERVICES
+7805.1 The FRSP assistance period begins when a family executes Program enrollment
+and leasing agreements for the FRSP-subsidized housing unit (referred to as “lease-
+up”) and ends when FRSP is no longer paying the rental subsidy for the unit.
+7805.2 A Referring Provider may assist a family who has been determined eligible for
+FRSP with the following housing identification services before they have signed a
+lease for their FRSP unit:
+(a) Gathering documents required for lease-up, including ID, birth certificate,
+and proof of income;
+(b) Identification of a housing unit independently and/or accessing a listing of
+available housing units to identify a unit that best fits the participant’s
+needs; and
+(c) Assistance in negotiating with landlords to reduce the rent or include
+utilities.
+7806 RE-HOUSING AND STABILIZATION ASSISTANCE OVERVIEW
+7806.1 FRSP is a time-limited rapid re-housing program that supports District residents
+who are experiencing homelessness or at risk of experiencing homelessness to
+achieve stability in permanent housing through individualized and time-limited
+assistance.
+7806.2 FRSP assistance comprises appropriate needs-based supports, including any or all
+of the following:
+(a) Assignment to a qualified Service Provider with the capacity to provide
+individualized case management services using a progressive engagement
+model based on the presenting needs of the family;
+9
+
+(b) Development of a Housing Stabilization Plan to facilitate attainment of
+participant’s goals, including housing stability. For participants receiving
+District Temporary Assistance for Needy Families (TANF) and who
+already have an Individual Responsibility Plan (IRP), the IRP should serve
+this purpose and can be modified and evaluated as necessary in
+collaboration with other organizations and entities that are also engaged
+with the participant;
+(c) Assessment of the family to determine their potential eligibility and referral
+for longer-term housing assistance programs, including Permanent
+Supportive Housing (PSH) or Targeted Affordable Housing (TAH),
+through the Coordinated Assessment and Housing Placement (CAHP)
+process;
+(d) Connection to other community resources and services that are responsive
+to the needs of the household (e.g., behavioral health, primary health care,
+educational supports, food and nutrition resources);
+(e) Rental assistance in the form of a monthly rental subsidy, the cost of a
+security deposit, move-in assistance, and utility assistance, as needed and
+identified in the Housing Stabilization Plan pursuant to paragraph (b) of this
+subsection, for up to twelve (12) months;
+(f) In cases where a relocation is approved, housing identification assistance
+through which the Service Provider assists participants with:
+(1) Identification of a unit independently and/or accessing a pool of
+available housing units to identify a unit that best fits the
+participant’s needs;
+(2) Assistance in negotiating with landlords to reduce the rent or include
+utilities; and
+(3) Scheduling a timely inspection of the unit;
+(g) Job placement and workforce development; and
+(h) Documentation of activities that can be credited toward a participant’s IRP,
+such as housing search, housing counseling services, obtaining a GED
+certification, University of the District of Columbia class credit, work
+hours, or certification with the District Department of Employment Services
+(DOES) or other barrier remediation activities specifically identified in the
+plan.
+7806.3 The Service Provider will have regular, no less than monthly, engagement with the
+participant as dictated by the goals in the Housing Stabilization Plan or IRP,
+10
+
+coordinate with other Service Providers, and maintain current documentation on
+progress toward goals. This will include an assessment of progress made towards
+the completion of the Housing Stabilization Plan or IRP.
+7806.4 The Service Provider shall conduct a formal review of services provided and the
+participant’s participation in the Program after three (3), seven (7), and ten (10)
+months of assistance. This review will include the following:
+(a) Review of participant’s income change and approved budget plan;
+(b) Review of progress on the Housing Stabilization Plan or IRP and the
+applicant’s approved budget plan;
+(c) Needs-based assessments, using a progressive engagement model, to
+determine if a less or more aggressive intervention is required; and
+(d) Review of participant’s likely ability to sustain housing stability
+independently of the Program at the end of the FRSP assistance period.
+7807 UNIT SELECTION
+7807.1 Participation in the FRSP is conditioned upon selecting a housing unit that passes
+the FRSP required housing inspection, which shall conform to the August 2024
+National Standards for Physical Inspection of Real Estate established by HUD or
+other standards designated by the Department by rule, and meets the Rent
+Reasonableness Standard as determined by the District of Columbia Housing
+Authority (DCHA). The Department or the Department’s designee may authorize
+selection of a housing unit that exceeds the maximum allowable rent for purposes
+of ensuring the program is readily accessible by large families and individuals with
+disabilities, in accordance with Sections 9(a)(2) and 12(11) of the Act (D.C. Official
+Code §§ 4-754.11(a)(2) and 4-754.21(11)).
+7807.2 The participant shall be required to work with their case manager to identify a unit
+independently and access the pool of available housing units to identify a unit that
+best fits their needs.
+7807.3 The participant shall make a reasonable effort to identify a unit that will allow the
+household to achieve housing stability independent of the Program by the end of
+the FRSP assistance period as described in § 7801.8.
+7807.4 The Department shall permit the following maximum number of bedrooms based
+on the household’s composition:
+(a) A household with one parent and one child under the age of two (2) will be
+approved for a studio or a one (1)-bedroom apartment.
+11
+
+(b) A household of more than one adult will be approved for a unit with one (1)
+bedroom for the head of household and spouse or partner and one (1)
+additional bedroom for each two (2) persons within the household pursuant
+to 14 D.C.M.R. § 5205.
+7807.5 The following exceptions shall apply to the maximum number of bedrooms policy
+in § 7807.4:
+(a) Children of the opposite gender shall be allocated separate bedrooms once
+one of the children is over the age of five (5) or if one (1) of the children
+will turn five (5) within six (6) months after the household’s lease is signed;
+(b) With the permission of the applicant and to allow the household to identify
+a unit that they believe will be more affordable in the long-term, the
+Department may allow children of opposite gender between the ages of six
+(6) and eleven (11) to occupy the same bedroom, in order to reduce the
+number of bedrooms required;
+(c) Children of the same gender shall be allocated one (1) bedroom. Beginning
+once one (1) of the children turns age thirteen (13), if there is a difference
+of five (5) years or more between children of the same gender, they may
+have separate bedrooms; and
+(d) A bedroom shall not be assigned to an unborn child unless there is a parent
+in the household who is in their third trimester.
+7807.6 If a participant requests to lease up in a unit with more bedrooms than is allowed
+under § 7807.4 and 7807.5, the household shall request approval of their selected
+unit from the Department, which shall be granted only if the household
+demonstrates that the increase in bedrooms is necessary to accommodate the
+reasonable needs of a household member with a disability.
+7807.7 If a parent shares custody of children, bedrooms shall be provided for children if
+the children live with the parent for fifty percent (50%) or more of the time. The
+Department shall require verification of the shared custody.
+7807.8 If the participant’s household composition changes, the household may request an
+exception to the standards in § 7807.4 and 7807.5. If the household is already in a
+unit, the household may request a unit review.
+7807.9 If the participant is unable to secure a housing unit in a timely manner, he or she
+shall be offered at least one (1) unit from the available housing inventory to the
+extent that units are available in the housing inventory.
+7807.10 FRSP assistance shall be provided only for housing units located within the District
+of Columbia. Any unit constructed before 1978 in which a child under the age of
+12
+
+six (6) will be residing must comply with Section 302 of the Lead-Based Paint
+Poisoning Prevention Act, effective November 9, 1973 (Pub. L. 91-695; 42 U.S.C.
+§ 4822), and implementing regulations at 24 C.F.R. part 35, subparts A, B, M, and
+R.
+7807.11 Upon selection, successful inspection, and signing of a lease, the Service Provider
+shall ensure that the case manager’s and Department’s contact information is
+promptly provided to the landlord.
+7807.12 The Service Provider shall assist a participant in relocating to a different unit if, at
+any time during the participant’s tenancy:
+(a) The participant needs to move because of a reasonable accommodation;
+(b) The participant needs to move because of domestic violence; or
+(c) The unit has substantial housing code violations that adversely impact the
+health or safety of the participant’s household, and that the landlord fails to
+address after receiving notice of the housing code violations.
+7807.13 Relocation to a different unit shall have no effect on the participant’s length of
+FRSP assistance.
+7808 RENTAL ASSISTANCE
+7808.1 FRSP provides rental assistance for up to twelve (12) months. The monthly FRSP
+rental assistance amount shall be the difference between the rental cost and the
+household contribution.
+7808.2 The household shall contribute thirty percent (30%) of their adjusted annual income
+toward housing costs, which shall be assessed by the Eligibility Provider. The
+actual contribution amount will be calculated based on the participant’s approved
+budget component of the Housing Stabilization Plan or IRP.
+7808.3 The FRSP participant shall pay the monthly contribution amount for the duration
+of the FRSP assistance period, unless the participant has notified the Service
+Provider of good cause for non-payment, such as the participant withholding rent
+due to housing code violations in the unit which the landlord has failed to address
+after receiving notice of the violations; the Service Provider agrees that good cause
+exists; and the participant deposits or retains the amount withheld from the rent in
+a financial account approved by the Service Provider. The FRSP participant shall
+not be responsible for paying the subsidized portion of the rent.
+7808.4 The Department or the Department’s designee shall pay the subsidized portion of
+the rent directly to the landlord, including any late fees or court costs that accrue
+due to a late payment of rent on the part of the Department.
+13
+
+7808.5 The Program shall not be obligated to provide a monetary amount for a requested
+service if a less costly alternative is available.
+7808.6 The rental cost for the unit may not exceed the rent reasonableness standard
+determined by DCHA. The Referring Provider and the participant shall attempt to
+identify housing units below market rent wherever possible.
+7808.7 In addition to the monthly rent subsidy, FRSP rental assistance may include the
+cost of a security deposit, and move-in assistance in accordance with the applicant’s
+approved budget plan.
+7808.8 The maximum FRSP payment for a security deposit shall be the actual amount of
+the deposit, which shall not exceed the cost of one (1) month’s unsubsidized rent.
+7808.9 An FRSP participant shall report to their Service Provider in writing within fifteen
+(15) calendar days of any change in income of fifty dollars ($50) or more.
+7808.10 The FRSP shall not increase the household’s rental payment due to an increase in
+earnings unless a participant experiences an increase of more than one thousand
+dollars ($1,000) per month for at least three (3) months.
+7808.11 Upon receiving written notification from the household of a change in the
+household’s monthly income, the Service Provider shall determine whether there is
+a need to recalculate the amount of the household’s housing cost contribution, based
+on the following criteria:
+(a) If the participant reports a decrease in monthly income of fifty dollars ($50)
+or more, the Service Provider shall process and submit documentation to
+the Department to recalculate the household’s contribution;
+(b) If the participant reports a decrease in monthly income of less than fifty
+dollars ($50) the household may request that a recalculation be conducted;
+(c) If the participant reports an increase in monthly income of more than one
+thousand dollars ($1,000) per month that will last for at least three (3)
+months, the Service Provider shall process and submit documentation to the
+Department to recalculate the household’s contribution;
+(d) If the recalculation pursuant to paragraphs (a) or (b) results in an increase
+in the amount of FRSP rental assistance, the change shall take effect the
+first day of the month or the next day that rent is due if different from the
+first of the month, whichever is first, following completion of the
+calculation. The recalculation shall be completed within ten (10) business
+days of receipt of written notice from the household of the decrease in
+14
+
+household income and request for a recalculation, and documentation
+necessary for the Department recalculation;
+(e) If the recalculation made pursuant to paragraphs (a), (b), or (c) results in a
+decrease in the amount of FRSP rental assistance, the change shall take
+effect the first of the month, or on the day that rent is next due if different
+than the first of the month, whichever is first, following the month in which
+written notice of the change is provided to the household; and
+(f) If the next day rent is due is less than fifteen (15) calendar days from the
+date the notice is either hand-delivered or postmarked, the change in the
+FRSP rental assistance shall be effective the second month (or the second
+date upon which rent is due) following the month in which written notice of
+the change is provided to the household.
+7808.12 When the Eligibility Provider calculates the initial FRSP assistance or when a
+Service Provider requests a change in FRSP assistance based upon a reported
+change in income, the Eligibility Provider or Service Provider shall give to the
+participant household a written Notice of FRSP Rental Assistance or a Notice of
+Change in FRSP Rental Assistance, as appropriate. Each Notice shall state:
+(a) The basis for the rental assistance determination;
+(b) The statute or regulation under which the change was made;
+(c) The participant’s current FRSP rental assistance and the participant’s
+current share of the housing costs;
+(d) If the rental assistance is changing, a computation of the new amount of
+FRSP rental assistance and the new participant contribution to the rental
+amount;
+(e) If the rental assistance amount is changing, the effective date of the change
+in accordance with this section; and
+(f) The FRSP participant’s right to a reconsideration of the initial calculation
+or the recalculation by the Department or the Department’s designee, within
+thirty (30) calendar days of receipt of the written Notice, and instructions
+for submitting such requests for reconsideration.
+7808.13 The Eligibility Provider shall respond to a request for reconsideration in accordance
+with § 7808.12(f) within five (5) business days of receipt of the household’s written
+request for a reconsideration. The five (5) business day timeframe shall be tolled if
+the provider has requested documentation necessary to the review and receipt of
+such documentation is pending.
+15
+
+7808.14 Within twenty-four (24) hours of the Eligibility Provider’s calculation or
+recalculation of the household’s rental assistance, notice required shall be either
+hand-delivered to an adult member of the participant household, mailed to the
+household by first class mail, or sent by electronic mail if the household has given
+consent.
+7808.15 Only in rare circumstances, when required by a vendor or by a District or federal
+agency, may the assistance payment be made in the form of cash. In all other cases,
+the FRSP assistance payment shall be made in the form of non-cash direct vendor
+payments.
+7809 CASE MANAGEMENT SERVICES
+7809.1 A participant enrolled in FRSP shall receive case management services from a
+qualified Service Provider if the participant requests and is approved for case
+management services as described in Section 7810.
+7809.2 FRSP case management services shall use a progressive engagement model based
+on the presenting needs of the family and may include:
+(a) Development of a Housing Stabilization Plan to identify the family’s goals
+for connecting to services, increasing income, and achieving housing
+stability after their FRSP assistance ends, and the intermediary steps the
+family must take to accomplish those goals;
+(b) Employment services, including job coaching and assistance identifying
+opportunities to increase earnings;
+(c) Regular contact and communication with a case manager to discuss
+progress towards the Housing Stabilization Plan and adjust them as needed;
+(d) Connection to other community resources and services that are responsive
+to the needs of the household, such as behavioral health, primary health
+care, educational supports, food and nutrition resources;
+(e) For FRSP participants who are also receiving TANF, documentation of
+activities that can be credited toward a participant’s TANF IRP, such as
+housing search, housing counseling services, obtaining a General
+Educational Development (GED) certification, University of the District of
+Columbia class credit, work hours, or certification with DOES or other
+barrier remediation activities specifically identified in the plan; and
+(f) An updated assessment in response to changed circumstances or a
+significant life event.
+16
+
+7809.3 The Service Provider shall assess a participant’s potential eligibility for longer-term
+housing assistance programs, including the PSH program and the TAH program,
+within the first ninety (90) days of the FRSP assistance period.
+7809.4 The Service Provider shall confirm that a participant is registered to the DCHA
+waiting list. If not, the Service Provider shall assist with applying for housing
+through DCHA, if such application is available.
+7809.5 The Service Provider will have regular engagement with the participant as dictated
+by the goals in the Housing Stabilization Plan, but no less than monthly; coordinate
+with other Service Providers; and maintain current documentation on progress
+toward goals. This includes an assessment of progress made towards the completion
+of the Housing Stabilization Plan.
+7809.6 The Housing Stabilization Plan or IRP shall aim for a targeted progression towards
+exit from the FRSP assistance provided by the end of the twelve (12)-month FRSP
+assistance period.
+7809.7 The participant is expected to plan for the end of FRSP assistance after the end of
+the twelve (12)-month assistance period.
+7809.8 The Service Provider shall engage the participant on progress made towards the
+Housing Stabilization Plan, which includes the family’s plan and actions steps to
+exit the program. If the participant requests a program extension to receive
+assistance beyond the twelve (12)-month program time period, the Service Provider
+will review and process the request according to the requirements determined by
+the Department and in accordance with Section 7812.
+7809.9 A participant who receives TANF is required to comply with all TANF
+requirements and remain in active engagement status with their assigned TANF
+Employment Provider (TEP), and each Service Provider’s Program Rules shall so
+provide. In cases where a participant is not engaging with the assigned TEP, and
+that lack of engagement violates the Service Provider’s Program Rules, the Service
+Provider may cite this as a Program Rules violation.
+7810 REQUESTING CASE MANAGEMENT SERVICES
+7810.1 No FRSP participant is entitled to receive case management services. An FRSP
+applicant may request to receive case management services when they submit their
+FRSP application. The FRSP applicant must indicate their request to receive case
+management services on the FRSP application form described in § 7801.1. If the
+applicant orally requests case management during the FRSP application process,
+the Referring Provider must record the request to receive case management services
+on the application form.
+17
+
+7810.2 An FRSP participant who has not requested to receive case management services
+will not receive the case management services described in § 7809.
+7810.3 DHS cannot evaluate an FRSP participant’s good-faith efforts toward the
+achievement of goals set forth in an individualized plan if the participant did not
+request, or opts out of, case management services. Accordingly, an FRSP
+participant who has not requested case management services, or who has opted out
+of case management services, will not be eligible for an extension of the twelve
+(12)-month FRSP assistance period.
+7810.4 An FRSP participant who has not requested to receive, or has opted out of, case
+management services may request emergency inspections, reasonable
+accommodations, and relocations by contacting their Service Provider.
+7810.5 An FRSP participant who has requested and been approved to receive case
+management services must continue to engage with their case manager as required
+under this chapter and as described in their Service Provider’s Program Rules. A
+participant’s failure to meet case management engagement requirements may lead
+to termination of the participant’s FRSP assistance, including rental assistance,
+under Section 22(a)(2)(G) of the Act (D.C. Official Code § 4-754.36(a)(2)(G)).
+7810.6 An FRSP participant who does not request to receive, or opts out of, case
+management services must continue to comply with TANF requirements, if
+applicable, as described in § 7809.9.
+7811 FINANCIAL INCENTIVES
+7811.1 The Department, subject to funding availability, may award a financial incentive to
+an FRSP participant who meets program goals related to exiting the program earlier
+than the twelve (12) month program timeframe to stable housing within specific
+timeframes. The participant may use these awarded funds only to pay rent or
+utilities.
+7811.2 The FRSP financial incentive shall be in the amounts indicated in § 7811.3.
+7811.3 A participant shall qualify for an FRSP financial incentive if they achieve one of
+the following indicators of housing stability, subject to availability of funding:
+(a) If the participant has signed a lease in their current housing unit or in a new
+housing unit supported by a long-term housing voucher, including PSH,
+TAH, District Child and Family Services Agency (CFSA) Family
+Unification, District Department of Behavioral Health (DBH), or Section 8,
+within thirty (30) calendar days of approval for the voucher, the participant
+is eligible to receive up to two hundred fifty dollars ($250).
+18
+
+(b) If the participant’s household wages earned and unearned, are enough to
+afford rent at fifty percent (50%) Rent Burden or less within six (6) months
+of being in the program, the participant is eligible to receive up to two
+thousand dollars ($2,000). If this goal is reached after six (6) months but
+within twelve (12) months of being in the program, the participant is eligible
+to receive up to one thousand dollars ($1,000).
+(c) If the participant has moved in or is planning to move in with family or
+friends and has a written commitment that they can live at that location for
+at least a year within six (6) months of being in the program, the participant
+is eligible to receive up to two thousand dollars ($2,000). If this goal is
+reached after six (6) months but within twelve (12) months of being in the
+program, the participant is eligible to receive up to one thousand dollars
+($1,000).
+(d) If the participant has entered into a shared housing agreement where the
+participant will be able to live in the housing for at least a year paying fifty
+percent (50%) Rent Burden or less within six (6) months of being in the
+program, the participant is eligible to receive up to two thousand dollars
+($2,000). If this goal is reached after six (6) months but within twelve (12)
+months of being in the program, the participant is eligible to receive up to
+one thousand dollars ($1,000).
+7812 EXTENSION CRITERIA
+7812.1 FRSP provides assistance for a maximum period of twelve (12) months, unless the
+Department has funding available for FRSP extensions in a given fiscal year. When
+such funding is available, the Department may accept FRSP extension requests. If
+FRSP funding is available for extensions, an FRSP participant may request an
+extension of FRSP assistance for an additional six (6) months under certain
+circumstances. The Department will consider the totality of circumstances as
+described in this section when determining an extension request.
+7812.2 The Department shall consider requests for FRSP assistance extending past twelve
+(12) months if funding is available within the FRSP budget for program extensions.
+The Department may rely on budget appropriations and Program spending
+projections based on the availability of current Fiscal Year funding for FRSP rental
+subsidies and other FRSP services for current FRSP participants, as well as families
+projected to enter the Program during the current Fiscal Year, when making this
+determination. DHS shall publish a notice in the District of Columbia Register
+when FRSP funding for extensions has been exhausted in a given fiscal year.
+7812.3 A request for an extension of FRSP assistance must be submitted in writing between
+ninety (90) and sixty (60) days before the end of the participant’s twelve (12)-month
+assistance period. The request for an extension must be on a form prescribed by the
+19
+
+Department. The Service Provider will assist the participant in gathering and
+submitting the required information to the Department.
+7812.4 The Department may grant an extension of FRSP assistance if the participant has
+demonstrated a good faith effort toward the achievement of goals set forth in their
+Housing Stabilization Plan or IRP as observed by the Service Provider at the three
+(3), seven (7), and ten (10) month reviews, but cannot yet sustain housing stability
+independently of the program.
+7812.5 For the purposes of this section, the participant shall have demonstrated a good faith
+effort toward the achievement of goals set forth in their Housing Stabilization Plan
+or IRP by meeting the following requirements:
+(a) The participant has missed no more than one monthly rent payment;
+(b) The participant has no documented Program Rules violations in the past
+three (3) months;
+(c) The participant has a housing stabilization plan with an aim of a targeted
+progression towards exit from the supports of FRSP; and
+(d) The participant has met in-person with their FRSP case manager at least
+once per month for the past five (5) months.
+7812.6 For the purposes of this section, the Department will determine whether the
+participant can sustain housing independently of FRSP using the Affordability
+Assessment described at § 7801.8. An FRSP participant will not qualify for an
+extension of FRSP assistance if median rent based on unit size for the Washington-
+Arlington-Alexandria Metropolitan Area as defined by HUD is less than fifty
+percent (50%) of the FRSP participant’s household income.
+7812.7 The Department shall accept a request for extension of FRSP assistance from an
+FRSP participant who has been approved for permanently affordable housing if the
+Department has determined that funding for extensions is available in the current
+fiscal year pursuant to § 7812.2. When such funding is available, a participant who
+has been approved for permanently available housing shall receive an extension of
+FRSP assistance for up to six months or until the participant begins to receive
+assistance from the new housing program provider, whichever comes first.
+7812.8 For the purposes of this section, “permanently affordable housing” shall include
+federally or locally funded programs through which families receive long-term
+housing assistance. These programs include the Housing Choice Voucher Program,
+Permanent Supportive Housing, Targeted Affordable Housing, the DC Flexible
+Rent Subsidy Pilot Program, the Career Mobility Action Plan Program, and other
+comparable housing programs.
+20
+
+7812.9 When determining whether to grant a participant an extension beyond twelve (12)
+months of FRSP assistance, the Department shall consider the totality of the
+circumstances. In addition to the factors described above in this section, the totality
+of the circumstances shall also include the participant’s progress toward attaining
+employment income equal to or exceeding the equivalent of at least an average of
+thirty (30) hours per week at the District’s minimum wage and the length of total
+program assistance the participant has received.
+7812.10 An FRSP participant shall not qualify for an extension of FRSP assistance beyond
+twelve (12) months unless they have earned the equivalent of at least an average of
+thirty (30) hours per week at or above the minimum wage of the District for the
+past four (4) months.
+7812.11 DHS may waive the employment requirement in § 7812.10, if, at the time of the
+participant’s extension request, the participant faces a significant hardship, such as
+having a child in their custody under the age of six (6) months or experiencing a
+medical condition that prevents the FRSP participant from meeting the employment
+requirement. To qualify for this waiver, the participant must demonstrate
+reasonable efforts to engage with their case manager to address the hardship
+preventing their employment.
+7812.12 FRSP is not an entitlement, and the program is not designed to be an indefinite
+bridge to long-term affordable housing. Therefore, an FRSP participant may not
+submit a request for an extension of FRSP assistance if they have already been
+granted one six (6)-month extension of program assistance.
+7812.13 The Department shall notify the participant and the participant’s Service Provider
+if the Department grants the request for an additional six (6) months of FRSP
+assistance.
+7812.14 The Service Provider shall conduct two (2) additional formal reviews for an FRSP
+participant who receives an additional six (6) months of FRSP assistance to ensure
+the participant receives the support necessary to exit FRSP with stable housing.
+7812.15 If the Department denies the request for an extension of FRSP assistance, the
+Department shall give the participant a written notice at least thirty (30) calendar
+days before the final FRSP subsidy payment. The written extension denial notice
+shall state:
+(a) The reason for the denial of additional FRSP assistance;
+(b) The participant’s right to appeal the determination through a fair hearing
+and administrative review, including deadlines for requesting an appeal; and
+21
+
+(c) Subject to § 7824.6 and 7824.7, the participant’s right to continuation of
+FRSP assistance pending the outcome of any fair hearing requested within
+fifteen (15) calendar days’ receipt of the written notice of denial.
+7820 PROGRAM TERMINATION
+7820.1 A Service Provider may terminate its FRSP assistance pursuant to Section 22 of the
+Act (D.C. Official Code § 4-754.36).
+7820.2 Termination under this provision shall apply to rental assistance, case management
+services, and any other service or assistance provided by the Service Provider by
+virtue of the participant’s participation in FRSP.
+7820.3 The Service Provider shall give written and oral notice to an FRSP participant of
+their termination from the program pursuant to this section at least thirty (30)
+calendar days before the effective date of the termination.
+7820.4 The Service Provider’s written notice to the participant of the termination shall
+include:
+(a) A clear statement of the termination and its effective date;
+(b) A clear and detailed statement of the factual basis for the termination,
+including the date or dates on which the basis or bases for the termination
+occurred;
+(c) A reference to the statute, regulation, or Program Rule pursuant to which
+the termination is being implemented;
+(d) A clear and complete statement of the participant’s right to appeal the
+termination through administrative review and fair hearing proceedings
+pursuant to § 7824, including the appropriate deadlines for instituting the
+appeal; and
+(e) A statement of the participant’s right, if any, to continuation of benefits
+pending the outcome of any appeal, pursuant to Section 9(a)(18) of the Act
+(D.C. Official Code § 4-754.11(a)(18)).
+7820.5 Termination pursuant to this section refers to a termination of the Service
+Provider’s FRSP assistance only and does not provide the Department or an FRSP
+Provider with any authority to interfere with a participant’s tenancy rights under
+the lease agreement as governed by Title 14 of the District of Columbia Municipal
+Regulations.
+7821 PROGRAM EXIT
+22
+
+7821.1 Pursuant to Section 22a-1(a) and 22b(a) of the Act (D.C. Official Code §§ 4-
+754.36a-1(a) and 4-754.36b(a)), a Service Provider shall conduct a program exit
+when:
+(a) The FRSP participant reaches the end of their FRSP assistance period; or
+(b) The Department determines the participant is no longer eligible for FRSP.
+7821.2 The Service Provider shall provide the participant oral and written notice of the
+program exit at least thirty (30) calendar days before the effective date of the
+program exit. The Service Provider may issue the written notice via electronic
+transmission if the participant has consented and provided such contact
+information.
+7821.3 The Service Provider’s written notice to the participant of the program exit shall
+include:
+(a) A clear statement of the effective date of the participant’s exit from the
+Program, including the final month for which the participant will receive
+FRSP housing assistance;
+(b) A clear and detailed statement of the factual basis for the program exit,
+including the date or dates on which the basis or bases for the program exit
+occurred;
+(c) A reference to the statute or regulation pursuant to which the program exit
+is being implemented;
+(d) A clear and complete statement of the participant’s right to appeal the
+program exit pursuant to § 7824, including deadlines for instituting the
+appeal; and
+(e) A statement of the participant’s right to continuation of FRSP assistance
+pending the outcome of an appeal requested within fifteen (15) calendar
+days after receipt of written notice of the program exit, pursuant to § 7824.
+7821.4 A program exit from FRSP shall not affect a participant’s tenancy rights under an
+agreement governed by Title 14 of the District of Columbia Municipal Regulations.
+7821.5 An FRSP participant may withdraw from FRSP, including all FRSP services and
+rental assistance, at any time.
+7821.6 An FRSP participant who wishes to withdraw from FRSP shall submit a Voluntary
+Withdrawal Form to the Department. The Department shall respond in writing to
+indicate the final date of FRSP assistance.
+23
+
+7822 SUMMARY OF PROVIDER RESPONSIBILITIES
+7822.1 An Eligibility Provider is responsible for the following:
+(a) Assisting the FRSP applicant with the overall application process, including
+assisting the applicant in obtaining required information to complete the
+application process;
+(b) Referring the completed FRSP application to the Department in as short a
+time as possible;
+(c) Maintaining in the applicant’s or participant’s file the following detailed
+documentation:
+(1) Assistance for which the applicant qualifies;
+(2) Case-management reviews; and
+(3) The applicant’s or participant’s individualized Housing
+Stabilization Plan or IRP.
+(d) For an applicant who is determined ineligible for FRSP assistance,
+providing them with a referral or referrals to other programs and services
+within the Continuum of Care.
+7822.2 A Service Provider is responsible for the following:
+(a) Providing individualized case management services using a progressive
+engagement model based on the presenting needs of all members of the
+participant household;
+(b) Developing an individualized Housing Stabilization Plan or IRP in
+collaboration with the participant and other organizations and entities that
+are also engaged with the participant;
+(c) Connecting the participant to other community resources, and ongoing
+evaluation of the Housing Stabilization Plan or IRP and modification as
+needed;
+(d) Conducting a review of case management services provided and participant
+participation after three (3), seven (7), and ten (10) months of assistance;
+(e) In cases of an approved relocation, assisting the participant to identify a
+housing unit independently or access the pool of available housing units to
+identify a unit that best fits their needs;
+24
+
+(f) Providing employment supports; and
+(g) Ensuring a participant receiving TANF receives credit for any work or
+barrier remediation activities and supports identified in the service plan,
+such as job search, GED preparation, housing search and counseling.
+7823 PARTICIPANT RIGHTS AND RESPONSIBILITIES
+7823.1 An FRSP participant shall have the rights described pursuant to Sections 9 and 10a
+of the Act (D.C. Official Code §§ 4-754.11 and 4-754.12a).
+7823.2 A participant shall have the right to withdraw from the Program at any time during
+the FRSP assistance period.
+7823.3 A participant shall have the responsibilities described pursuant to Section 11 of the
+Act (D.C. Official Code § 4-754.13).
+7823.4 A participant shall also have the following responsibilities:
+(a) The participant must pay their monthly rental contribution on time for the
+duration of the FRSP assistance period;
+(b) The participant is responsible for notifying the Department or their Service
+Providers if a member of their applicant unit will not reside in the unit for
+longer than 6 months; and
+(c) The participant is responsible for reporting changes in income pursuant to
+§ 7808.9.
+7824 FAIR HEARING AND ADMINISTRATIVE REVIEW
+7824.1 An FRSP applicant or participant shall have ninety (90) calendar days following
+the receipt of a written notice described in §§ 7803.8, 7812.15, 7820.3, or 7821.4
+to appeal the action that is the subject of the written notice. The appeal shall be
+conducted in accordance with the fair hearing and administrative review provisions
+of Sections 26 and 27 of the Act (D.C. Official Code §§ 4-754.41 and 4-75.42).
+7824.2 Upon receipt of an appeal, the Department shall offer the petitioner or the
+petitioner’s authorized representative an opportunity for an administrative review
+in accordance with Section 27 of the Act (D.C. Official Code § 4-754.42), except
+that if an eviction is imminent, the Department shall take all reasonable steps to
+provide an expedited administrative review to maximize resolution of the appeal in
+time to resolve the housing emergency and prevent the eviction.
+7824.3 In accordance with Section 26 of the Act (D.C. Official Code § 4-754.41(b)(2)(F)),
+an appeal of a written notice of program exit issued because the participant reached
+25
+
+the end of their FRSP assistance period may not be reviewed at a fair hearing. The
+administrative review decision by the Department shall be final in such cases.
+7824.4 In accordance with Section 27 of the Act (D.C. Official Code § 4-754.42(d)(3)), the
+Department may conduct an administrative review on the papers and without an in-
+person hearing if the purpose of the administrative review is to ascertain the validity
+of a decision to exit the participant because the participant reached the end of their
+FRSP assistance period.
+7824.5 In accordance with Sections 9 and 22b of the Act (D.C. Official Code §§ 4-
+754.11(a)(18)) and 4-754.36b(c)), a participant who appeals within fifteen (15)
+days of receipt of a written notice of termination pursuant to § 7820 or program
+exit based on re-determination of eligibility pursuant to § 7821 shall have the right
+to the continuation of FRSP services pending a final decision from the fair hearing
+proceedings.
+7824.6 In accordance with Section 22a-1(c) of the Act (D.C. Official Code § 4-754.36a-
+1(c)), a participant who appeals a notice of program exit based on reaching the end
+of their FRSP assistance period will not receive continuation of services during the
+appeal process if the participant received the notice on or after the effective date of
+the Fiscal Year 2026 Budget Support Emergency Act of 2025 (September 3, 2025).
+7824.7 In accordance with Section 22a-1(d) of the Act (D.C. Official Code § 4-754.36a-
+1(d)), a participant who received a notice of program exit before the effective date
+of the Fiscal Year 2026 Budget Support Emergency Act of 2025 (September 3,
+2025), where the exit was based on reaching the end of their FRSP assistance
+period, shall be exited from FRSP when the client’s time in the program reaches
+twenty-four (24) months or on September 30, 2025, whichever date is later,
+regardless of the pendency of an administrative review, fair hearing, or other appeal
+and notwithstanding any statutory provision requiring the continuation of services
+that existed on or before the date the client received the notice of program exit.
+7899 DEFINITIONS
+7899.1 The terms and definitions in 29 DCMR § 2599 are incorporated by reference in this
+chapter.
+7899.2 For the purposes of this chapter, the following additional terms shall have the
+meanings ascribed:
+Act – the Homeless Services Reform Act of 2005, effective October 22, 2005 (D.C.
+Law 16-35; D.C. Official Code § 4-751.01 et seq.).
+Approved Budget Plan – a household’s estimate of costs, revenue, and resources
+over a specified period, reflecting a reading of future financial conditions
+and goals. An approved budget plan serves also as a: (1) plan of action for
+26
+
+achieving quantified objectives, (2) standard for measuring performance,
+and (3) device for coping with foreseeable adverse situations.
+Authorized Representative – an individual who is at least eighteen (18) years of
+age, who is acting on behalf of the applicant, and has sufficient knowledge
+of the applicant’s circumstances to provide or obtain necessary information
+about the applicant, or a person who has legal authorization to act on behalf
+of the applicant.
+Eligibility Provider – an organization that receives Family Re-Housing and
+Stabilization Program funds and is authorized to assess eligibility and
+administer Family Re-Housing and Stabilization Program services,
+including the payment of rental subsidies.
+Family – (A) a group of individuals with at least one minor or dependent child,
+regardless of blood relationship, age, or marriage, whose history and
+statements reasonably tend to demonstrate that they intend to remain
+together as a family unit; or (B) a pregnant woman in her third trimester.
+Housing Stability – the ability to pay housing costs with or without assistance from
+another source, including rent and utilities, or to secure other viable and
+secure housing options necessary to retain housing without FRSP
+assistance.
+Individualized Housing Stabilization Plan – the self-sufficiency plan that the
+Family Re-Housing and Stabilization Program participant has entered into
+with the shelter, housing, District Temporary Assistance for Needy Families
+(TANF), or other service provider that sets out the steps and goals necessary
+for the participant to achieve greater housing and economic self-sufficiency.
+Longer-Term Housing Assistance Program – a program within the Continuum
+of Care that combines supportive services with permanent rental assistance.
+Progressive Engagement – a strategy of starting off offering a small amount of
+assistance initially, and, after reassessment, adding more assistance if
+needed to help each household reach stability. This strategy uses the lightest
+touch possible for a household to be successful, knowing more assistance
+can be added later if needed.
+Rapid Re-Housing – a supportive housing program that provides a homeless
+individual or family with financial assistance as a bridge to permanent
+housing, by providing some or all of a security deposit, first month’s rent,
+short-term rental subsidy, and supportive services in order to help the
+recipient become self-sufficient. FRSP is a Rapid Re-Housing program.
+27
+
+Referring Provider – a Continuum of Care provider designated by Section 7803.2
+as an approved referral source for applicants to FRSP.
+Rent Burden– the share of a family’s adjusted gross income that is paid towards
+rent and utilities.
+Rental Payment – a regular payment made by a tenant to an owner or landlord for
+the right to occupy or use property.
+Security Deposit – a sum of money paid in advance that is required by the owner
+or landlord for leasing property as security against the tenant’s inability to
+fulfill the lease or security to cover damage to the rental premises.
+Service Provider – an organization that receives Family Re-Housing and
+Stabilization Program funds and is authorized to deliver Family Re-Housing
+and Stabilization Program services.
+Vendor – a provider of a service or product, including a landlord.
+28
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+BRIAN L. SCHWALB PRIVILEGED AND CONFIDENTIAL
+ATTORNEY GENERAL ATTORNEY-CLIENT COMMUNICATION
+LEGAL COUNSEL DIVISION
+MEMORANDUM
+TO: Monica Brown
+General Brown
+Department of Human Services
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal Counsel Division
+DATE: January 26, 2026
+SUBJECT: Legal Sufficiency Review of the “Family Re-Housing and Stabilization Program
+Rules Approval Resolution of 2026” (AR-26-083)
+_____________________________________________________________________________________
+This is to Certify that
+the Office of the Attorney General has reviewed the
+above-referenced legislation and found it to be legally sufficient. If you have any questions in this
+regard, please do not hesitate to call me at (202) 262-6402.
+_________________________________
+Adele El-Khouri
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004
+Phone (202) 262-6402 Email: adele.el-khouri@dc.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+DEPARTMENT OF HUMAN SERVICES
+Office of the Agency Fiscal Officer
+MEMORANDUM
+TO: A.D. Rachel Pierre
+Director
+Department of Human Services
+FROM: Hayden Bernard
+Agency Fiscal Officer
+Department of Human Services
+DATE: January 7, 2026
+SUBJECT: Fiscal Impact Statement – Family Re-Housing and Stabilization Program
+(“FRSP”) Notice of Final Rulemaking
+______________________________________________________________________________
+Background:
+The Director of the District of Columbia (District) Department of Human Services
+(“Department” or “DHS”), pursuant to the authority set forth in Section 31 of the Homeless
+Services Reform Act of 2005 (HSRA), effective October 22, 2005 (D.C. Law 16-35; D.C.
+Official Code § 4-756.02), as amended, and pursuant to Mayor’s Order 2006-20, dated February
+13, 2006, gives notice of the adoption of the following amendments to Chapter 78 (Family Re-
+Housing and Stabilization Program) of Title 29 (Public Welfare) of the District of Columbia
+Municipal Regulations (DCMR).
+The purpose of these final rules is to amend the existing rules governing the District’s Family
+Re-Housing and Stabilization Program (FRSP), contained in Chapter 78 of Title 29 of the
+DCMR. FRSP provides time-limited rental assistance to District residents who are experiencing
+homelessness or are at risk of experiencing homelessness. Families are offered a range of
+services, tailored to the unique needs and strengths of the entire household, to assist them in
+achieving greater housing stability and economic security, including individualized case
+management services, housing identification, connection to government and community-based
+resources, and time-limited rental subsidies.
+_____________________________________________________________________________________
+P.O. Box 54047, 64 New York Avenue, N.E., Sixth Floor, Washington, DC 20002 (202) 671-4200 Fax (202) 671-4326
+
+The final rules establish an expectation that participants will increase their income during the
+program assistance period; revise the percentage of a participant’s adjusted annual income toward
+housing costs to 30%, which had previously been a range of 40% to 60%; require Service Providers
+to assess a participant’s potential eligibility for longer-term housing assistance programs within
+the first ninety (90) days of the FRSP assistance period; establish a financial incentive for FRSP
+participants who meet program goals related to exiting the program into stable housing; and revise
+criteria DHS uses to determine whether a participant may receive a one-time six (6)-month
+extension of FRSP assistance beyond the standard twelve (12)-month period. In addition, these
+final rules: limit incoming participants to referrals from designated District homeless shelter and
+intervention programs; establish an employment requirement for program eligibility; revise
+application procedures to align with new legislation, under which case management is not required
+for participation in a rapid re-housing program (D.C. Official Code § 4-753.01(b-1); and revise
+program exit requirements to align with the new section 22a-1 and section 22b of the HSRA (D.C.
+Official Code §§ 4-754.36a-1 & 4-754.36b).
+Budget and Financial Plan Impact:
+The table below outlines the cost of the program for FY26:
+Fiscal Clients #of new Rental Costs Case Management Forecasted Cost
+Year Served entries Cost
+2026 1439 444 $27,894,023 $10,448,497 $38,342,520
+Conclusion
+There is no fiscal impact for the proposed final rulemaking. Funding availability for the proposed
+rulemaking for FY26 through FY 2028 will be dependent upon the availability of funding in the
+District’s Budget and financial plan, approved by the Council and the Mayor and upon completion
+of the thirty-day Congressional layover.

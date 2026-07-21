@@ -1,0 +1,144 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 ___________________________ ____________________________
+2 Councilmember Kenyan R. McDuffie Chairman Phil Mendelson
+3
+4
+5 ____________________________ ____________________________
+6 Councilmember Anita Bonds Councilmember Christina Henderson
+7
+8
+9 ____________________________ ____________________________
+10 Councilmember Robert C. White, Jr. Councilmember Brianne K. Nadeau
+11
+12
+13 ____________________________ ____________________________
+14 Councilmember Brooke Pinto Councilmember Matthew Frumin
+15
+16
+17 ___________________________ _____________________________
+18 Councilmember Janeese Lewis George Councilmember Zachary Parker
+19
+20
+21 ___________________________ ___________________________
+22 Councilmember Charles Allen Councilmember Wendell Felder
+23
+24
+25 A BILL
+26 ____________
+27
+28 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+29 _________________
+30
+31
+32 To amend the Open Meetings Act to clarify the definition of “meeting”; to provide for a public
+33 body’s ability to be briefed about potential terrorist or public health threats so long as no
+34 official action is taken; to exempt from the act meetings between the Council and the
+35 Mayor provided that no official action is taken at such meetings; and to provide that a
+36 meeting shall be deemed open to the public if the public body takes steps reasonably
+37 calculated to allow the public to view or hear the meeting while the meeting is taking
+38 place, or, if doing so is not technologically feasible, as soon thereafter as reasonably
+39 practicable.
+40
+41 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+42 act may be cited as the “Open Meetings Clarification Amendment Act of 2025”.
+1
+
+43 Sec. 2. The Open Meetings Act, effective March 31, 2011 (D.C. Law 18-350; D.C.
+44 Official Code § 2-571 et seq.), is amended as follows:
+45 (a)(1) Section 404(1) (D.C. Official Code § 2-574(1)) is amended to read as follows:
+46 “(1)(A) “Meeting” means any gathering of a quorum of the members of a public
+47 body, including hearings and roundtables, whether formal or informal, regular, special, or
+48 emergency, at which the members consider, conduct, or advise on public business, including
+49 gathering information, taking testimony, discussing, deliberating, recommending, and voting,
+50 regardless whether held in person, by telephone, electronically, or by other means of
+51 communication.
+52 “(B) The term “meeting” shall not include:
+53 “(i) A chance or social gathering; provided, that it is not held to avoid the
+54 provisions of this paragraph;
+55 “(ii) A press conference;
+56 “(iii) Field trips, site visits, or similar activities to gather information; or
+57 “(iv) A retreat of the public body where there are discussions and briefings (but
+58 no action is taken) about policy, issues or organizational matters.
+59 “(C) For the purposes of the Council of the District of Columbia, the term
+60 “meeting” means a regular or additional legislative meeting, and committee meetings where
+61 votes are taken.”
+62 (2) Section 404(3) is amended as follows:
+63 (A) Paragraph (E) is amended by striking the word “or” at the end of the
+64 phrase;
+2
+
+65 (B) Paragraph (F) is amended by striking the period at the end, and
+66 inserting the phrase “; or” in its place.
+67 (C) A new subparagraph (G) is added to read as follows:
+68 “(G) the Criminal Justice Coordinating Council.”.
+69 (b) Section 405 (D.C. Official Code § 2-575) is amended as follows:
+70 (1) Subsection (a) is amended as follows:
+71 (A) Paragraph (2) is amended by striking “or” at the end of the paragraph.
+72 (B) Paragraph (3) is amended by striking the phrase “televised.” and inserting
+73 the phrase "televised; or” in its place.
+74 (C) A new paragraph (4) is added to read as follows:
+75 “(4) The public body takes steps reasonably calculated to allow the public to view
+76 or hear the meeting while the meeting is taking place, or, if doing so is not technologically
+77 feasible, as soon thereafter as reasonably practicable.”.
+78 (2) Subsection (b) is amended as follows:
+79 (A) Paragraph (8) is amended to read as follows:
+80 “(8) To discuss and take action regarding specific methods and procedures to
+81 protect the public or a public body from existing or potential terrorist activity or other substantial
+82 dangers to public health and safety, or to receive briefings by staff members, legal counsel, law
+83 enforcement officials, or emergency service officials concerning these methods and procedures;
+84 provided, that disclosure could endanger the public or the public body;”
+85 (B) Strike the phrase “; and” in paragraph (15) and insert “;” in its place.
+86 (C) Strike the period at the end of paragraph (16)(B) and insert the phrase
+87 “; and” in its place.
+3
+
+88 (D) A new paragraph (17) is added to read as follows:
+89 “(b)(17) To be briefed about confidential negotiations, provided that no official action is
+90 taken.”
+91 (3) Subsection (f) is amended to read as follows:
+92 “(f) Notwithstanding any provision of this act, the Council may adopt its own rules to
+93 ensure the District’s open meetings policy, as established in section 402, is met with respect to
+94 gatherings of councilmembers; provided that unless the Council adopts rules pursuant to this
+95 subsection, this title shall apply to the Council.”
+96 (4) A new subsection (h) is added to read as follows:
+97 “(h) This act shall not apply to a meeting between members of the Council and the
+98 Mayor, provided that no official action is decided at the meeting.”
+99 (c) Section 406 (D.C. Official Code § 2-576) is amended as follows:
+100 (1) Paragraph (1) is amended by striking the phrase "Except for emergency
+101 meetings,” at the beginning of the second sentence, and inserting the phrase "attempt to” after
+102 the word “shall” in the second sentence.
+103 (2) Paragraph (3) is amended by striking the phrase "Notwithstanding the notice
+104 requirement of paragraph (2) of this subsection, except”, and inserting the phrase “Except” in its
+105 place.
+106 (3) Paragraph (4) is amended by inserting the phrase "and notwithstanding
+107 paragraphs (1) and (3) of this subsection,” after the word “matter,”.
+108 (d) Section 407(a) (D.C. Official Code § 2-577(a)) is amended as follows:
+109 (1) Paragraph (1) is amended to read as follows:
+4
+
+110 “(1) Reasonable arrangements are made to accommodate the public’s right to
+111 attend the meeting, or steps are taken that are reasonably calculated to allow the public to view or
+112 hear the meeting while the meeting is taking place, or if doing so is not technologically feasible,
+113 as soon thereafter as reasonably practicable;”
+114 (2) Paragraph (3) is amended by striking the phrase "taken by roll call” and
+115 inserting the word “recorded” in its place.
+116 (e) Section 409(a) (D.C. Official Code § 2-579(a)) is amended by striking the phrase
+117 “Council meetings.” and inserting the phrase "meetings and gatherings of councilmembers.” in
+118 its place.
+119 Sec. 3. Fiscal impact statement.
+120 The Council adopts the fiscal impact statement in the committee report as the fiscal
+121 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+122 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+123 Sec. 4. Effective date.
+124 This act shall take effect following approval of the Mayor (or in the event of veto by the
+125 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+126 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+127 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+5

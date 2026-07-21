@@ -1,0 +1,290 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+January 5, 2025
+Nyasha Smith, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue NW
+Washington, DC 20004
+Dear Secretary Smith,
+Today, I am introducing the Strengthening Air Pollution Permitting Amendment Act of 2026.
+This legislation will address critical flaws in the District’s air pollution permitting regime,
+including weak protections against nuisances that impact longtime residents, unacceptable multi-
+year delays in permitting, poor community engagement, and ineffective enforcement. I have
+attached a copy of this legislation, which is cointroduced by Councilmembers Charles Allen and
+Christina Henderson.
+Years of community frustration with existing processes and standards inform the reforms
+contemplated by this bill. Ward 5 communities bear the brunt of the District’s exposure to fixed
+sources of air pollution because of decades of decisions to concentrate production, distribution,
+and repair uses along the WMATA red line and the New York Avenue corridors. Ward 5 is
+home to two of the District’s three asphalt plants and one of the District’s three permanent
+concrete plants, and all of these facilities are located within a block of residential properties.
+When there are only a few hundred feet between residents’ homes and facility that is permitted to
+emit toxins into the air residents inhabit, regulatory delays and gaps significantly impact a
+community’s quality of life.
+As Ward 5 residents, advisory neighborhood commissions, and environmental justice
+organizations have advocated for cleaner air, numerous shortcomings with current law and
+process have come to light. Major and minor sources of air pollution are allowed to operate on
+out-of-date permits. Requests that polluting entities be subject to basic requirements for
+community engagement are rejected. The law does not currently empower the District
+Department of Energy and the Environment (DOEE) to regulate the holistic operations of
+industrial facilities, which can include hundreds of daily trips by dump trumps, cement mixers,
+and other large vehicles. Perhaps most significantly, DOEE lacks adequate funds to provide its
+air quality division with the staff and resources required to process permits and complaints in a
+timely manner, much less engage in robust enforcement of regulated entities.
+
+This legislation strengthens the District’s air permitting regime by:
+• Requiring the timely submission and processing of air quality permits, odor control
+plans, and air quality complaints. Major and minor sources of air pollution, concrete
+plants, asphalt plants, trash transfer stations, and similar operations will no longer be
+allowed to operate using out-of-date permits, DOEE will be required to complete
+reviews of permits within 6 months of their submission, and DOEE will be required to
+set fines and permit fees at levels sufficient to ensure the timely review and enforcement
+of those permits. DOEE will be required to acknowledge receipt of air quality
+complaints in seven days and make a finding with regards to each complaint within sixty
+days.
+• Bolstering permit requirements to close gaps in existing authority. DOEE will be
+required to include limits on pollutants produced by the operation of a facility—
+including emissions from vehicles and equipment operating at facilities, contact
+information for permitted facilities, community engagement, hours of operation, and
+emergency limits on operations during poor air quality days. Advisory Neighborhood
+Commissions will also be empowered to initiate a process to negotiate community
+agreements with permitted facilities regarding mitigation of impacts on the community,
+operations and impacts, including parking, hours, noise levels, and complaint
+management and resolution.
+• Establishing new options for enforcement of permit violations. Permit holders (and
+related entities) will be ineligible from receiving District contracts for six months after
+accruing two violations in any twelve-month period and civil enforcement authority is
+expanded to ensure that residents are empowered to ensure compliance with District air
+permitting laws.
+• Recentering enforcement of the District’s odor nuisance laws on the gravity of the
+impact to residents and ensure that impacts on public spaces are considered.
+Whereas current law requires DOEE to consider the volume and variety of complaints it
+receives, the bill will require DOEE to focus on the impact of nuisances on residents. In
+addition, DOEE will be required to consider the impact of nuisances on public spaces—
+not just life and property.
+• Improving public access to DOEE’s permitting and air quality complaint
+processing. DOEE notices are currently published on its website and in the public
+register—requiring residents and stakeholder community organizations to actively seek
+out information about permit developments. DOEE will be required to maintain public
+complaint forms and dashboard for air quality complaints and to establish requirements
+for permit applicants to provide adequate notice to advisory neighborhood commissions
+and nearby property owners of pending permit applications.
+• Requiring that DOEE prioritize use of the District’s Air Quality Construction
+Permits Fund for environmental remediation, enhance monitoring, or air quality
+improvement in District communities that experience disproportionate exposure to
+lower air quality. This change would ensure that funds secured from fines for non-
+compliance with the District’s air quality laws are invested in the communities that have
+been harmed the most by air pollution.
+2
+
+I look forward to working with my colleagues on the Council and in the executive to improve air
+pollution permitting in the District. Please contact my Deputy Chief of Staff, Conor Shaw, at
+cshaw@dccouncil.gov if you have any questions about this legislation.
+Sincerely,
+Zachary Parker
+Ward 5 Councilmember
+Chair, Committee on Youth Affairs
+3
+
+1
+2 _____________________________ _____________________________
+3 Councilmember Charles Allen Councilmember Zachary Parker
+4
+5
+6
+7 _____________________________
+8 Councilmember Christina Henderson
+9
+10
+11 A BILL
+12
+13 _________________________
+14
+15 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+16
+17 _________________________
+18
+19
+20 To amend the District of Columbia Air Pollution Control Act of 1984 to close gaps in nuisance
+21 air pollution regulations and establish deadlines for responding to complaints, to bolster
+22 civil penalties for violation of District air pollution permitting laws and regulations, to
+23 permit the Air Quality Construction Permits Fund to be used for environmental
+24 remediation, to establish enhanced permitting requirements for major and minor sources,
+25 and to require timely agency review of air quality permits.
+26
+27 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may
+28 be cited as the “Strengthening Air Pollution Permitting Amendment Act of 2026”.
+29 Sec. 2. The District of Columbia Air Pollution Control Act of 1984, effective March 15,
+30 1985 (D.C. Law 5-165; D.C. Official Code § 8-101.01 et seq.), is amended as follows:
+31 (a)Section 5 (D.C. Official Code § 8-101.05) is amended as follows:
+32 (1)subsection (b)(1)(F) is amended by striking the phrase “and property” and
+33 inserting in its place the phrase “, property, and public spaces”.
+34 (2)subsection (b)(2) is amended to read as follows:
+35 “(2) In determining interference with reasonable enjoyment of life, property, and
+
+36 public spaces under paragraph (1)(F) of this subsection, the Mayor shall consider:
+37 “(A) The frequency, duration, and intensity of the source and associated
+38 facility operations, including emissions produced by vehicles and other non-stationary equipment
+39 operating within the facility or entering and exiting the facility;
+40 “(B) The proximity of a source to residences, schools, parks, recreation
+41 centers, playgrounds, and trails;
+42 “(C) Health disparities in the District, particularly with respect to
+43 conditions associated with exposure to air pollution;
+44 “(D) The source’s ability to prevent complaints;
+45 “(E) The operating hours and days of the source and the extent to which
+46 they conflict with reasonable enjoyment of life, property, and public spaces; and
+47 “(F) The cumulative impact experienced by affected community created
+48 by the source in concert with other sources as well as associated nuisances including noise and
+49 light pollution.”
+50 (3) subsection (d) is amended to read as follows:
+51 “(d) To assist in enforcing the provisions of this part and regulations issued pursuant to
+52 this part, the Mayor shall:
+53 “(1) Make available an electronic complaint form to receive complaints of air
+54 quality violations from the public, including, at a minimum, complaints of odors and engine
+55 idling and complaints of violation of permit terms and conditions;
+56 “(2) Acknowledge receipt of an air quality complaint to the complainant no later
+57 than 7 days after receipt, in a writing or through an electronic message;
+2
+
+58 “(3) Respond to an air quality complaint with a finding within sixty days of its
+59 submission;
+60 “(4) Track all air quality complaints, the agency’s response to each complaint, and
+61 the resolution of each complaint;
+62 “(5) Establish an electronic mechanism by which the complainant, the source of
+63 the complaint, and any interested party may access information about the status and resolution of
+64 an air quality complaint;
+65 “(6) Make publicly available on DOEE’s website a quarterly report listing all air
+66 quality complaints received, the date of the complaint, the status of the complaint, DOEE’s
+67 finding, the date of DOEE’s finding, and the date of any appeal;
+68 “(7) Establish requirements for permit applicants to notify via email and signed
+69 placards impacted advisory neighborhood commissions, civic associations, and other community
+70 organizations serving communities of any permit application;
+71 “(8) Establish requirements for permit applicants to provide written notice to
+72 property owners within 500 feet of any property associated with operations subject to the permit;
+73 and
+74 “(9) Establish and maintain a publish dashboard listing all air quality permit
+75 applications, their status, links to word-searchable versions of air quality permits, the number of
+76 air quality complaints received regarding each permitted facility, and the number of air quality
+77 complaints sustained regarding each permitted facility.”
+78 (b) Section 5c (D.C. Official Code § 8–101.05c) is amended by inserting a new
+79 subsection (c) to read as follows:
+80 “(c) A person or affiliated business entity that commits two violations of this part or a
+3
+
+81 regulation promulgated pursuant to this part in any twelve-month period shall be ineligible to
+82 receive a contract with the District for a period of six months after the second violation.”
+83 (c) Section 5f (D.C. Official Code § 8–101.05f) is amended by inserting new paragraphs
+84 (3) and (4) to read as follows:
+85 “(3) A civil action may be brought by a resident or corporation of the District of
+86 Columbia in the Superior Court of the District of Columbia or any other court of competent
+87 jurisdiction for damages, cost recovery, reasonable attorney and expert witness fees, and
+88 injunctive or other appropriate relief to enforce compliance with this part or the regulations
+89 adopted pursuant to this part. Such civil action shall be subject to review by the District of
+90 Columbia Court of Appeals under section 11 of the District of Columbia Administrative
+91 Procedure Act, approved October 21, 1968 (82 Stat. 1203; D.C. Official Code § 2–510).
+92 “(4) The People’s Counsel may represent and appeal for the people of the District of
+93 Columbia and any individual or individuals suffering a legal wrong, or adversely affected or
+94 aggrieved by an order or decision of the Mayor or an agency regarding an action subject to an
+95 action subject to this part or regulations adopted pursuant to this part, and such civil action shall
+96 be subject to review by the District of Columbia Court of Appeals under section 11 of the
+97 District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1203;
+98 D.C. Official Code § 2–510).”
+99 (d) Section 5h(b) (D.C. Official Code § 8–101.05h(b)) is amended by:
+100 (1) striking the number “15” and inserting the number “30” in its place; and
+101 (2) striking the number “20 and inserting the number “45” in its place.
+102 (e) Section 5i(c) (D.C. Official Code § 8-101.05i.) is amended by inserting the phrase
+103 “with priority given to environmental remediation, enhanced monitoring, or air quality
+4
+
+104 improvement in District communities that experience disproportionate exposure to lower air
+105 quality” after the word “Environment”.
+106 (f) New Sections 5j, 5k, and 5l are added to read as follows:
+107 “§ 8–101.05j. Local air quality permit authority
+108 “(a) When issuing an operating permit for a major or minor source, the Mayor shall
+109 include in the permit:
+110 “(1) Limits for the total particulate matter, carbon monoxide, sulfur dioxide,
+111 nitrogen oxides, and volatile organic compounds generated in the operation of the facility where
+112 the source is located. These limits shall account for emissions from vehicles or equipment that
+113 will be operating within the facility or entering and exiting the facility;
+114 “(2) A requirement that the permit holder maintain a public website where contact
+115 information for an employee who serves as a community liaison for the sources is listed and a
+116 requirement that this information be updated if the employee is unavailable or is replaced;
+117 “(3) Requirements regarding community engagement, including provisions
+118 requiring the permit holder to:
+119 “(A) Attend at least one and up to four meetings, annually, of the advisory
+120 neighborhood commission, civic association, or other community organization in the
+121 neighborhood where permitted source is located per year of operation of the permit;
+122 “(B) Fulfil an emailed or written request to attend an advisory
+123 neighborhood commission, civic association, or other community meeting within 90 days of
+124 receiving a request; and
+125 “(C) Notify via email all of the advisory neighborhood commissioners
+126 serving on the advisory neighborhood commission in which they are located within 30 days of
+5
+
+127 any material breach of permit conditions or application for a revised or superseding permit.
+128 “(4) Permitted hours of operations to prevent interference of reasonable
+129 enjoyment of life, property, and public spaces, including trails, parks, schools, child development
+130 centers, and playgrounds;
+131 “(5) The amount by which operations shall be reduced at times when the air
+132 quality index for the District of Columbia is Orange;
+133 “(6) The amount by which operations shall be reduced or cease altogether when
+134 the air quality index for the District of Columbia is Red, Purple or Maroon;
+135 “(7) Provisions for the disclosure of data from on-site air quality or permit
+136 compliance monitoring;
+137 “(8) Annual training of on-site managers and employees about the terms and
+138 conditions of permit and associated quality control responsibilities.
+139 “(b) When requested in a resolution adopted by an advisory neighborhood commission
+140 within 300 feet of the source, the Mayor shall also include in the permit a requirement that the
+141 permit holder enter into a community agreement with the advisory neighborhood commission
+142 where the source is located regarding mitigation of impacts on the community, operations and
+143 impacts, including parking, hours, noise levels, and complaint management and resolution.”
+144 “§ 8–101.05k. Timely Review of Air Quality Permits
+145 “(a) The Mayor shall establish deadlines for the timely review of air quality permits and
+146 odor control plans, providing that review of a permit for a major or minor source or an odor
+147 control plan shall be completed within six months of submission. These deadlines shall apply to
+148 all permits and odor control plans, including renewals and modifications of existing permits and
+149 plans.
+6
+
+150 “(b) The Mayor shall set fines, permit fees, and other fees for permits issued under this
+151 Part at a level sufficient to ensure timely review of permit applications—including staff of
+152 contract costs required to review permits by the standard deadline—and timely enforcement of
+153 air quality and odor control complaints.
+154 “(c) The Mayor shall establish deadlines for the filing of permit renewal or modification
+155 applications that ensure DOEE has sufficient time to complete the timely review of a permit
+156 application prior to the expiration of the existing permit.
+157 “(d) The Mayor shall prohibit the following sources from operating after the expiration of
+158 any air permit or odor control permit:
+159 “(1) A major source;
+160 “(2) A minor source;
+161 “(3) A facility used for the cultivation or processing of marijuana;
+162 “(4) Painting operations subject to the requirements of 20 DCMR §§ 718 and
+163 1409;
+164 “(5) A trash transfer station;
+165 “(6) A concrete processing, recycling, or production facility;
+166 “(7) An asphalt processing, recycling, or production facility; and
+167 “(8) A wastewater treatment facility or system.”
+168 “§ 8–101.05l. Model Language for District Contracts
+169 “The Department of Energy and the Environment shall draft and make available to the
+170 Office of Contracting and Procurement and District agencies with independent procurement
+171 authority contract terms that require contractor adherence to District air permitting laws and that
+172 explicitly provide for cancellation of a District contract for material violations of permit terms
+7
+
+173 and conditions.”
+174 Sec. 3. Fiscal impact statement.
+175 The Council adopts the fiscal impact statement in the committee report as the fiscal
+176 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+177 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+178 Sec. 4. Effective date.
+179 This act shall take effect after approval by the Mayor (or in the event of veto by the
+180 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+181 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+182 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+183 Columbia Register.
+8

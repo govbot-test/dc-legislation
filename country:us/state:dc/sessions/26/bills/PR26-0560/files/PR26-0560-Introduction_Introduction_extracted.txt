@@ -1,0 +1,78 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1
+2 ______________________________
+3 Councilmember Robert C. White, Jr.
+4
+5
+6
+7
+8 A PROPOSED RESOLUTION
+9 __________
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12 ____________________
+13
+14 To declare an emergency with respect to the need to clarify and preserve the requirement that
+15 housing providers report current and prior rent amounts, utilities, facilities, services, and
+16 appliances for all rental accommodations, including exempt accommodations, at the time
+17 of registration in the RentRegistry housing database.
+18
+19 RESOLVED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+20 resolution may be cited as the “Rental Housing Registration Data Integrity Emergency
+21 Declaration Resolution of 2026”.
+22 Sec. 2. (a) On June 2, 2025, the District’s RentRegistry housing database became
+23 operational pursuant to § 42-3502.03c of the District of Columbia Official Code, establishing a
+24 centralized system for housing providers to register rental accommodations and submit required
+25 housing data.
+26 (b) The Council previously adopted temporary legislation to clarify reporting
+27 requirements applicable to housing providers registering rental accommodations in the
+28 RentRegistry system; however, that temporary legislation will expire on April 5, 2026.
+29 (c) Upon expiration of the temporary legislation, there will be uncertainty regarding the
+30 District’s authority to require housing providers of exempt rental accommodations to report
+31 current rent amounts, prior rent amounts, and other required housing information at the time of
+32 registration, creating a risk of incomplete registrations and gaps in critical housing data.
+
+33 (d) Section 42-3502.03c of the District of Columbia Official Code requires housing
+34 providers to register rental accommodations and provide specific housing data to ensure
+35 transparency, accountability, and effective administration of the District’s housing laws.
+36 (e) As part of the RentRegistry system design and implementation, housing providers are
+37 required to submit, at the time of registration, the current monthly rent and rent amounts charged
+38 for the prior 2 calendar years, as well as information regarding utilities, facilities, services, and
+39 appliances associated with each rental accommodation, regardless of whether the
+40 accommodation is subject to rent stabilization.
+41 (f) This information is essential to provide a complete, accurate, and reliable depiction of
+42 the District’s rental housing market, including both rent-stabilized and exempt rental
+43 accommodations, and supports policymaking, enforcement, tenant protection, and housing
+44 market transparency.
+45 (g) The requirement to report current and prior rent amounts, utilities, facilities, services,
+46 and appliances for all rental accommodations is integral to the functionality of the RentRegistry
+47 system and has been incorporated into the database’s structure and programming. The
+48 Department of Housing and Community Development stated that removing or modifying these
+49 requirements would require significant additional coding work, delay full implementation,
+50 increase development costs, and undermine the integrity and usefulness of the database.
+51 (h) Housing providers of exempt rental accommodations have expressed confusion and
+52 resistance regarding the requirement to submit rent history and related housing information;
+53 however, clarifying and preserving this requirement on an emergency basis is necessary to
+54 ensure consistent compliance, prevent gaps in housing data, and maintain the functionality and
+55 reliability of the RentRegistry system.
+
+56 (i) The RentRegistry system was designed to address longstanding limitations in the
+57 availability and reliability of rental housing data in the District. Because historical rent and
+58 housing characteristic data were not previously available in a centralized, reliable, or cost-
+59 effective format, requiring housing providers to submit this information at the time of
+60 registration is necessary to establish a complete and accurate baseline dataset.
+61 (j) Without immediate clarification preserving these reporting requirements, housing
+62 providers may withhold critical information necessary for the proper operation of the
+63 RentRegistry system, impairing the District’s ability to administer housing laws, monitor rental
+64 housing conditions and pricing, ensure transparency, and inform policymaking.
+65 Sec. 3. The Council of the District of Columbia determines that the circumstances
+66 enumerated in section 2 constitute an emergency making it necessary that the Rental Housing
+67 Registration Data Integrity Emergency Amendment Act of 2026 be adopted after a single
+68 reading.
+69 Sec. 4. This resolution shall take effect immediately.

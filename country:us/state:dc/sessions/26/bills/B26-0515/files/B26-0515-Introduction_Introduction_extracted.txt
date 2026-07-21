@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1
+2 __________________________
+3 Councilmember Wendell Felder
+4
+5 A BILL
+6
+7 _________
+8
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12 __________________
+13
+14 To Amend the District of Columbia Election Code of 1955 to require the Board of Elections to
+15 conduct a comprehensive needs assessment to ensure the District’s institutional readiness
+16 for implementing ranked choice voting, to analyze voter awareness and public
+17 perceptions of the ranked choice voting system, to assess the equity and access
+18 implications of ranked choice voting for historically marginalized communities, to review
+19 best practices and implementation experiences from other jurisdictions, and to require the
+20 Board to submit a report to the Mayor and the Council that includes a RCV
+21 implementation plan, a full cost model, an operational timeline with critical milestones
+22 and a comprehensive voter outreach and education plan.
+23
+24 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+25 act may be cited as the “Board of Elections Ranked Choice Voting Needs Assessment
+26 Amendment Act of 2025.”
+27 Sec. 2. Section 8a of the District of Columbia Election Code of 1955, effective March 21,
+28 2025 (D.C. Law 25-295), D.C. Official Code § 1-1001.08a), is amended by adding a new
+29 subsection (n) to read as follows:
+30 “(n) No later than January 1, 2027, the Board Shall conduct a comprehensive needs
+31 assessment to support the effective and efficient implementation of Ranked Choice Voting.
+32 “(1) The assessment shall include:
+33 “(A) An institutional readiness review, including:
+34 “(i) An evaluation of Board’s capacity to implement ranked choice
+35 voting, including ballot design, vote tabulation system and associated staff training; and
+
+36 “(ii) Identification of necessary systems upgrades, operational
+37 process, and logistical requirements for successful implementation;
+38 “(iii) Projected costs of implementation, including equipment,
+39 staffing, technology, translation, accessibility services, and public education.
+40 “(B) Development of proposed regulations governing the implementation
+41 of RCV that includes at a minimum:
+42 “(i) ballot structure, ranking limits, tabulation sequencing, tie-
+43 breaking procedures, ballot adjudication, recount triggers, certification and public reporting
+44 “(ii) a timeline for public notice, comment, final rulemaking and
+45 Council review.
+46 “(C) A public knowledge and perception evaluation to measure:
+47 “(i) General voter awareness and understanding of rank choice
+48 voting; and
+49 “(ii) Targeted analysis of awareness among populations with
+50 limited English proficiency, seniors, and communities with historically low civic engagement;
+51 “(D) An equity and access impact analysis to assess the potential effects of
+52 ranked choice voting on historically underrepresented communities, including Black, Latino,
+53 low-income, and retuning citizen populations; and
+54 “(E) A best practices review, including:
+55 “(i) A summary of implementation strategies from other
+56 jurisdiction; and
+57 “(ii) Identification of success factors and common implementation
+58 challenges.
+59 “(2) Upon completion of the assessment, the Board Shall submit to the Mayor and
+60 the Council a report that includes:
+
+61 “(A) A proposed plan regarding ranked choice voting implementation;
+62 “(B) A timeline for phased implementation that includes critical
+63 milestones; and
+64 “(C) A robust outreach and education plan.”
+65 “(3) The Board of Elections shall not implement or administer any new voting
+66 policies, procedures, or election system modifications, including but not limited to ranked choice
+67 voting, unless it has first conducted a comprehensive needs assessment addressing operational
+68 capacity, budgetary requirements, staffing, technology, public education needs, and equity
+69 impacts and submitted to the Mayor and the Council a detailed implementation plan, finalized
+70 regulations, a budget analysis, and operational timelines with key milestones.
+71 Sec. 3. Fiscal impact statement.
+72 The Council adopts the fiscal impact statement in the committee report as the fiscal
+73 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+74 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+75 Sec. 4. Effective date.
+76 This act shall take effect following approval by the Mayor (or in the event of veto by the
+77 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+78 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+79 24, 1973 (87 Stat. 813; D.C. Code § 1-206(c)(1)).

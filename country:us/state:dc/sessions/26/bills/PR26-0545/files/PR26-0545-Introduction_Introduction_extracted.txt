@@ -1,0 +1,1091 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+February 17, 2026
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson,
+Enclosed for consideration and approval by the Council of the District of Columbia is a
+proposed resolution entitled the “Streatery Program Rulemaking Approval Resolution of
+2026.”
+The resolution would approve a proposed final rulemaking to add a new Chapter 45
+(Streateries) to Title 24 (Public Space and Safety) to establish a permanent permit program
+to manage street-located outdoor dining (“streateries”) and to establish permit fees for those
+who construct or operate streateries in the public right-of-way. The final rulemaking would
+also amend Chapter 43 (District Department of Transportation (DDOT) Infractions) of Title
+16 (Consumers, Commercial Practices, and Civil Infractions) to establish civil infractions
+for violations of Chapter 45 of Title 24.
+My administration is available to discuss any questions you may have regarding this
+proposed resolution. To facilitate a response to any questions you may have, please contact
+Sharon Kershbaum, Director, District Department of Transportation, at
+sharon.kershbaum@dc.gov or (202) 671-4658.
+Sincerely,
+Muriel Bowser
+
+~
+1
+2
+3 at the request of the Mayor
+4
+5
+6
+7 A PROPOSED RESOLUTION
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15 To approve proposed final rules establishing a streatery permit program.
+16
+17 RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+18 resolution may be cited as the "Streatery Program Rulemaking Approval Resolution of 2026".
+19 Sec. 2. Pursuant to section 40 I (b) of the Department of Buildings Establishment Act of
+20 2020, effective April 5, 2021 (D.C. Law 23-269; D.C. Official Code§ 10-564.0l(b)), the Council
+21 approves the proposed final rules of the District Department of Transportation and Department of
+22 Buildings, amending Chapter 43 (District Department of Transportation (DDOT) Infractions) of
+23 Title 16 (Consumers, Commercial Practices, and Civil Infractions) and adding a new Chapter 45
+24 (Streateries) to Title 24 (Public Space and Safety) of the District of Columbia Municipal
+25 Regulations, regarding streateries, which were transmitted by the Mayor to the Council on February
+26 --, 2026, and a notice of proposed rulemaking for which was published in the District of Columbia
+27 Register on May 2, 2025, at 72 DCR 5475.
+28 Sec. 3. Transmittal.
+29 The Council shall transmit a copy of this resolution, upon its adoption, to the Mayor, the
+30 Director of the District Department of Transportation, and the Director of the Department of
+31 Buildings.
+
+32 Sec. 4. Fiscal impact statement
+33 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+34 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+35 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+36 Sec. 5. Effective date.
+37 This resolution shall take effect immediately.
+2
+
+DISTRICT DEPARTMENT OF TRANSPORTATION
+AND DEPARTMENT OF BUILDINGS
+NOTICE OF FINAL JOINT RULEMAKING
+as submitted to the Council of the District of Columbia for its review and approval pursuant to
+section 401(b) of the Department of Buildings Establishment Act of 2020, effective April 5, 2021
+(D.C. Law 23-269; D.C. Official Code § 10-564.01(b))
+The Director of the District Department of Transportation (“DDOT”), pursuant to the authority set
+forth in Sections 3(b), 5(a)(3)(E), 9j, and 9k of the Department of Transportation Establishment
+Act of 2002, effective May 21, 2002 (D.C. Law 14-137; D.C. Official Code §§ 50-921.02(b), 50-
+921.04(a)(3)(E), 50-921.18 and 50-921.19); Sections 603(b) and 604 of the Fiscal Year 1997
+Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198, D.C. Official Code §§ 10-
+1141.03 and 10-1141.04); and Mayor’s Order 2018-075, dated October 2, 2018; and the Director
+of the Department of Buildings (“DOB”), pursuant to the authority set forth in Section 401 of the
+Department of Buildings Establishment Act of 2020, effective April 5, 2021 (D.C. Law 23-269;
+D.C. Official Code § 10-564.01) and Mayor’s Order 2023-148, dated December 8, 2023, hereby
+give notice of their adoption of the following amendments to Chapter 43 (District Department of
+Transportation (DDOT) Infractions) of Title 16 (Consumers, Commercial Practices, and Civil
+Infractions) and the addition of a new Chapter 45 (Streateries) to Title 24 (Public Space and Safety)
+of the District of Columbia Municipal Regulations (“DCMR”).
+This final rulemaking amends Title 24 to establish a permanent permit program to manage street-
+located outdoor dining (“Streateries”) and to establish permit fees for those who construct or
+operate Streateries in the public right-of-way. The final rulemaking also amends Chapter 43 of
+Title 16 to add civil infractions for violations of Chapter 45 of Title 24.
+Two changes were made from the proposed to the final rulemaking. This final rulemaking reduces
+the proposed public space rental fee from $20 to $15 per square foot and adds a new section 4508
+titled Public Space Committee Waivers. These changes were made in accordance with newly
+enacted emergency legislation, the Streatery Program Emergency Amendment Act of 2025,
+effective December 19, 2025 (D.C. Act 26-233; 73 DCR 59), and parallel temporary legislation.
+A Notice of Proposed Rulemaking was published in the District of Columbia Register on May
+2, 2025, at 72 DCR 5475, with a 30-day public comment period. The District Department of
+Transportation thoroughly reviewed and considered all public feedback throughout this
+rulemaking process. DDOT received eight (8) public comments on the proposed rulemaking as
+well as one (1) resolution from the Advisory Neighborhood Commission (ANC) 2E.
+A summary of the comments received and the agencies’ responses to the comments are provided
+below.
+Public Comments
+DDOT and DOB received four (4) public comments from restaurants and businesses on the
+proposed rules as well as four (4) comments from members of the general public on the proposed
+rules. Other comments received during the comment period focused on the Streatery Guidelines
+1
+
+that were adopted by DDOT in December 2024; because the Streatery Guidelines were not a
+subject of the rulemaking, the comments on the Streatery Guidelines are not addressed in this
+rulemaking.
+General Public
+Three (3) of the four (4) comments that DDOT and DOB received from the general public on the
+proposed rules supported the Streatery program. The two (2) other comments received from the
+general public are discussed below.
+Overhead Structures
+Public Comment: One comment from the general public on the proposed rules was in overall
+support of the Streatery Program, but argued that overhead structures are not appropriate
+everywhere and should be restricted in historic districts to prevent disruption of the area’s
+character. The commentor also stated that “the principles should be that any Streatery must be
+reviewed by and receive the approval of the Old Georgetown Board.”
+DDOT Response: While this rulemaking does allow for overhead structures to be erected,
+applicants who apply for a Streatery permit within the Georgetown District will be required to
+submit their design plans to the Old Georgetown Board for its review and recommendation. This
+is detailed in subsection 4507.2 of the rules and is in concurrence with the Old Georgetown Act.
+Streatery Structure Safety
+Public Comment: One comment from the general public cited concerns about the safety of
+structures erected pursuant to the Streatery program. These safety concerns stemmed from an
+existing Streatery on 11th Street, NW. The comment stated that Streateries should “be limited to
+locations that are safe, and to facilities that improve the neighborhood appearance.”
+DDOT Response: The proposed rules in conjunction with the Streatery Guidelines were crafted
+with public safety as a top priority for consumers, pedestrians, bicyclists, and vehicle travel. Before
+a Streatery permit is issued, everything from the site design to the physical structure is reviewed
+for safety to the public and patrons. The Streatery mentioned in this comment was approved under
+the temporary program. The owner of this Streatery will need to reapply for a Streatery permit
+under the permanent program established within the proposed rules. With new requirements and
+parameters, DDOT will review the business’s Streatery permit if they choose to reapply under the
+permanent program. DDOT will review the safeness of the structure, and will confirm whether the
+Streatery complies with the new guidelines, prior to issuing a new Streatery Permit.
+ANC 2E
+ANC 2E submitted comments on the proposed rules. DDOT considered the ANC’s comments as
+part of the rulemaking process and provides the below responses to ANC 2E’s specific, proposed
+changes:
+Class 2 Infraction / Subsection 4315.2
+Proposed Change: “Clarify how a Class 2 infraction is handled for Streateries. The what (fee
+level?), how (process?) and who (agency?) is not defined anywhere specific to the Streateries, and
+existing infractions processes do not translate to streateries.”
+2
+
+DDOT Response: The rulemaking amends Chapter 43 of Title 16 to add civil infractions for
+violations of Chapter 45 of Title 24. Subsection 4315.2 defines numerous actions that constitute a
+Class 2 infraction. The specific fine amounts for civil infractions are established within Title 16 of
+the DCMR. These fine levels are uniformly applied across various infractions and are not typically
+detailed within an individual agency’s rules. DDOT is the enforcing agency for these Streatery
+infractions, working in coordination with DOB. Notices of infraction for Class 2 violations are
+made pursuant to subsection 4315.2 and are adjudicated by the Office of Administrative Hearings
+(OAH). This process is in accordance with the Department of Consumer and Regulatory Affairs
+Civil Infractions Act of 1985 and 16 DCMR § 3200 and § 3201. Ultimately, it is the responsibility
+of the Streatery owners to address cited infractions.
+Class 3 Infraction / Subsection 4315.3
+Proposed Change: “Clarify what a Class 3 infraction will mean for Streateries. Define the what,
+how and who will be responsible for addressing the infraction.”
+DDOT Response: The rulemaking amends Chapter 43 of Title 16 to add civil infractions for
+violations of Chapter 45 of Title 24. Subsection 4315.3 defines numerous actions that constitute a
+Class 3 infraction. The specific fine amounts for civil infractions are established within Title 16 of
+the DCMR. These fine levels are uniformly applied across various infractions and are not typically
+detailed within an individual agency’s rules. DDOT is the enforcing agency for these Streatery
+infractions, working in coordination with DOB. Notices of infraction for Class 3 violations are
+made pursuant to section 4315.3 and are adjudicated by OAH. This process is in accordance with
+the Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985 and 16 DCMR
+§ 3200 and § 3201. Ultimately, it is the responsibility of Streatery owners to address cited
+infractions.
+Principal Arterials / Subsection 4501.6
+Proposed Change: “Clarify what type of exceptions and what exception process exists for
+Streateries that want to be located on roads that are classified as Primary Arterials”.
+DDOT Response: The rulemaking uses the term “Principal Arterials” rather than “Primary
+Arterials”. Subsection 4501.6 of the proposed rulemaking states that “A travel lane Streatery that
+occupies some, but not all travel lanes of a roadway segment shall not be in or on: Streets with a
+functional classification designation of Principal Arterial, Other Freeway and Expressway, or
+Interstate.” The rules therefore prohibit Streateries located on roads classified as Principal
+Arterials. There are no defined exceptions or an exception process for locating Streateries on roads
+classified as Principal Arterials.
+Alley Streateries / Subsection 4501.9
+Proposed Change: “Clarify that an Alley Streatery cannot make an alley no longer operational
+for 24/7 transportation needs should the alley be narrow and/or one-lane; if applicants can file
+for exceptions to this, clarify the what [sic] public comment process used to fully close down a
+public right of way like an alley.”
+DDOT Response: Subsection 4501.9 of the proposed rulemaking outlines the location criteria for
+an Alley Streatery. It states that an Alley Streatery “Shall provide a six foot (6 ft.) clear path to
+service entrances” and “Shall not block access to adjacent buildings, businesses, or trash services.”
+These provisions are designed to ensure that alleys remain operational for essential transportation
+needs. The intent of the rules is to integrate Streateries into the existing alley network without
+3
+
+impeding their primary function as critical access routes. The proposed rules do not include
+provisions for exceptions that would allow an Alley Streatery to render an alley non-operational
+for 24/7 transportation needs.
+Building Permit / Subsection 4506.3
+Proposed Change: “Require [that] all Streateries, including those in alleys, file a building
+permit.”
+DDOT/DOB Response: Subsection 4506.3 of the proposed rules already addresses the
+requirement for a Building Permit. While a Building Permit is generally required, there are specific
+instances where it may not be necessary if no structure is built, such as for certain Alley Streateries,
+entire travel lane closures, or Streateries that are not built at the same grade as the sidewalk. The
+intent is to ensure that all necessary safety and structural reviews are conducted where applicable,
+without imposing an undue burden on business owners.
+Old Georgetown Board / Subsection 4507.2
+Proposed Change: “Clarify that Streateries in the Federal Historic District will comply with
+Streatery Guidelines issued by the Old Georgetown Board (OGB).”
+DDOT Response: Subsection 4507.2 of the proposed rulemaking addresses this. The
+subsection directly mandates compliance with the Old Georgetown Act for Streateries within that
+district. The Old Georgetown Act and the Shipstead-Luce Act are the governing federal laws that
+empower entities like the Old Georgetown Board (OGB) to review and issue guidelines or
+conditions for development, including public space uses, within their respective
+jurisdictions. Therefore, the rules already requires compliance with the conditions and guidelines
+set forth by the OGB for Streateries within the Old Georgetown district by referencing the enabling
+legislation.
+Restaurant Association Metropolitan Washington
+The Restaurant Association Metropolitan Washington (RAMW) submitted comments on the
+proposed rules. DDOT considered RAMW’s comments as part of the rulemaking process and
+provides the below responses to the specific, proposed changes.
+Streatery Fees / Subsection 4510.2
+Comment Summary: RAMW opposed the public space rental fee and suggested applying the
+sidewalk café fees at $5 per square feet instead.
+DDOT Response: DDOT understands the concern regarding the public space rental fee of twenty
+dollars ($20) per square foot and acknowledges the suggestion to align it with sidewalk café fees
+at five dollars ($5) per square foot. The $20 per square foot fee for Streateries reflected careful
+consideration of many factors. Streateries occupy public space such as parking lanes, travel lanes,
+and alley ways, which represent a distinct public asset with different operational considerations
+and economic value compared to a traditional sidewalk cafe. The $20 fee aimed to strike a balance
+between supporting local businesses and providing fair payment to the public for the use of the
+right-of-way that would otherwise be used for parking or vehicle movement. The $20 per square
+foot annual fee was also considered important for the sustainable management, oversight, and
+enforcement of the permanent Streatery program.
+4
+
+Enclosures / Subsection 4503.4
+Comment Summary: RAMW opposed to the prohibition of enclosures and suggested changing
+the proposed rules to accommodate lightweight and transparent enclosure materials.
+DDOT Response: The proposed rulemaking’s prohibition on fully enclosed Streateries is a
+fundamental aspect of the program’s safety considerations. As detailed in Subsection 4503.2(b)(7),
+the prohibition on enclosures is to ensure Streateries remain open-air extensions of dining,
+preventing them from becoming permanent fully enclosed structures that could impede public
+space functionality, emergency access, or visual clear zones. DDOT maintains that these
+provisions are crucial for balancing the economic benefits of Streateries while maintaining the
+importance of public safety, accessibility, and the preservation of public rights-of-way. The
+proposed rules’ restrictions regarding enclosures remain in the final rulemaking.
+Existing Streateries / Section 4507
+Comment Summary: RAMW requested that existing Streateries “that have demonstrated their
+value through four years of safe, successful operation be allowed to continue”, even if they do not
+meet updated requirements.
+DDOT Response: The intent of this rulemaking is to transition the temporary, emergency-era
+Streatery Program into a comprehensive, permanent framework that ensures long-term public
+safety, accessibility, and consistency across all Streateries. The new regulations, including design
+standards, operational requirements, and permitting processes, reflect extensive public
+engagement, lessons learned from the temporary program, and a commitment to best practices for
+public space management. All Streateries, new and existing, must meet the updated requirements
+to ensure equity, safety, and proper integration into the public right-of-way under the permanent
+program. No changes have been made to the rules based on this comment.
+Golden Triangle Business Improvement District
+The Golden Triangle Business Improvement District (GTBID) submitted comments on the
+proposed rules. DDOT considered the GTBID’s comments as part of the rulemaking process and
+provides the below responses to the specific, proposed changes.
+Parklets / Section 4599
+Comment Summary: The GTBID requested that DDOT clarify that Streatery rules and guidelines
+will not impact Parklets.
+DDOT Response: Subsection 4599 of the proposed rulemaking provides definitions specific to
+the Streatery Program. This rulemaking makes it clear that the rules and guidelines established in
+this rulemaking apply specifically to Streateries as defined in Subsection 4599. Other public space
+uses, such as Parklets, that do not fall under the definition of a Streatery are not contemplated in
+this rulemaking. Parklets would be governed by existing or separate DDOT public space
+regulations and permitting processes. This rulemaking’s intent is to create a clear and consistent
+framework solely for the permanent Streatery Program. Therefore, no changes have been made to
+the rules based on this comment.
+Definitions / Section 4599
+Comment Summary: The GTBID proposed adopting three new definitions that would define and
+differentiate Streateries from Parklets and Sidewalk Extensions.
+5
+
+DDOT Response: This rulemaking focuses specifically on establishing a permanent framework
+for Streateries. The rulemaking defines “Streatery or Streateries” as well as “Sidewalk
+Extension” in Subsection 4599. While DDOT understands the desire for clear distinctions among
+various public space uses, this rulemaking is tailored to the unique operational and design
+considerations of the permanent Streatery Program. The term “Parklet” is not formally defined
+within this specific rulemaking. Parklets generally refer to a broader category of public space that
+may not solely be for outdoor dining and thus would typically fall under different public space
+permitting and design guidelines. Therefore, no changes have been made to the rules based on this
+comment.
+Sidewalk Extensions and Parklet / Section 4510
+Comment Summary: The GTBID requested that the rulemaking should “clearly and indefinitely
+exempt both Parklets and Sidewalk Extensions from any type of parking meter fees or public space
+rental fees, including those proposed in Section 4509.”
+DDOT Response: The fees proposed in section 4510, formerly section 4509, are specific to
+Streatery operations, and this rulemaking does not consider Parklets for the purposes of these
+added and amended sections. Any consideration of fees or exemptions for other distinct public
+space amenities like Parklets would be addressed under a separate rulemaking. Therefore, no
+changes have been made to the rules based on this comment.
+Block Permitting Process / Section 4500
+Comment Summary: The GTBID proposed removing the requirement for BIDs and Main Street
+Organizations to be involved in the Streatery block permitting process. They request DDOT to
+“revise both the Proposed Rulemaking and Streatery Guidelines to clarify a different process.”
+DDOT Response: The requirement for engagement with BIDs and Main Street Organizations
+(MSO) is a critical element of the Streatery Block Permit process. The BIDs and MSOs serve as
+vital community stakeholders, who possess unique insights into the local economic landscape,
+business needs, and overall neighborhood dynamics. Their involvement helps ensure that Streatery
+Block Permits are reviewed with a detailed understanding of their potential impact on the broader
+commercial corridor and community, fostering a more collaborative and effective approach to
+public space management. While DDOT understands the desire for a streamlined process, the
+current framework is designed to facilitate robust community input and coordination, which is
+critical for the successful transition of permanent Streateries into the District’s neighborhoods.
+DDOT considers this requirement of the rules to be essential to the program’s success and aligns
+with community interests. Therefore, no changes have been made to the rules based on this
+comment.
+The proposed final rules were submitted to the Council of the District of Columbia (“Council”) on
+[date] for its review and approval pursuant to section 401(b) of the Department of Buildings
+Establishment Act of 2020, effective April 5, 2021 (D.C. Law 23-269; D.C. Official Code § 10-
+564.01(b)). See Streateries Rulemaking Approval Resolution of 2026, introduced by the Mayor on
+February --, 2026 (Prop. Res. 26-XX). [The Council, not having taken action to approve or
+disapprove the proposed final rules before the end of the review period, the proposed final rules
+were deemed approved by the Council on MONTH DAY, 2026. / The Council voted to approve
+the Streateries Rulemaking Approval Resolution of 2026 on ------ ----, 2026.]
+6
+
+On [DATE], the Directors of the District Department of Transportation and Department of
+Buildings adopted this final rulemaking. The rules shall become effective upon the date of
+publication of this notice in the District of Columbia Register.
+Title 16 DCMR, CONSUMERS, COMMERCIAL PRACTICES, AND CIVIL
+INFRACTIONS, is amended as follows:
+Chapter 43, DISTRICT DEPARTMENT OF TRANSPORTATION (DDOT)
+INFRACTIONS, is amended as follows:
+A new Section 4315, STREATERIES INFRACTIONS, is added to read as follows:
+4315 STREATERIES INFRACTIONS
+4315.1 [Reserved]
+4315.2 Violations of any of the following provisions shall be a Class 2 infraction:
+(a) Operating a Streatery without a permit.
+4315.3 Violations of any of the following provisions shall be a Class 3 infraction:
+(a) Placing, on a Streatery structure, images or words viewable from the street
+(24 DCMR § 4502.2);
+(b) Exceeding the number of seats permitted within a Streatery (24 DCMR §
+4502.3);
+(c) Failure to include at least one (1) ADA compliant table within a Streatery
+(24 DCMR § 4502.4);
+(d) Failure to provide an accessible route to an ADA compliant table within a
+Streatery (24 DCMR § 4502.4);
+(e) Use of any part of a Streatery for storage except for approved Streatery
+elements (24 DCMR § 4502.5);
+(f) Failure to maintain a continuous physical edge to buffer outdoor dining area
+from adjacent vehicular traffic in Streateries located in a travel lane or
+parking lane excepting required gaps for safety access points (24 DCMR §
+4503.2);
+(g) Placing a barrier between the outdoor dining area of a Streatery and the
+sidewalk (24 DCMR § 4503.3);
+(h) Fully enclosing a Streatery (24 DCMR § 4503.4);
+7
+
+(i) Bolting or permanently affixing Streatery barriers or structures to public
+space (24 DCMR § 4503.5);
+(j) Failure to arrange Streatery furniture or fixtures in a way that provides ready
+access by aisles to each exit way (24 DCMR § 4504.1);
+(k) Failure to keep fire protection equipment located within a Streatery in
+working condition, visible, and conveniently accessible (24 DCMR
+4504.3);
+(l) Preparing or storing food or alcohol within a Streatery (24 DCMR §
+4504.4);
+(m) Storing trash or refuse within a Streatery (24 DCMR § 4504.5);
+(n) Erecting, maintaining, or placing a structure or enclosure to accommodate
+the storage of trash or refuse within a Streatery (24 DCMR § 4504.5);
+(o) Placing generators or televisions within a Streatery (24 DCMR § 4513.3);
+(p) Playing live or amplified music within a Streatery (24 DCMR § 4513.3);
+(q) Placing ropes, chains, or fencing in a Streatery that prevents people from
+entering the Streatery from the sidewalk (24 DCMR § 4513.3); and
+(r) Charging a fee to access a Streatery (24 DCMR § 4513.4).
+4315.4 Violations of any of the following provisions shall be a Class 4 infraction:
+(a) Failure to affix two (2) signs to a Streatery that indicate the business name,
+seating hours, seating capacity, and emergency contact information (24
+DCMR § 4502.1).
+4315.5 [Reserved]
+Title 24 DCMR, PUBLIC SPACE AND SAFETY, is amended as follows:
+A new Chapter 45, STREATERIES, is added to read as follows:
+CHAPTER 45 STREATERIES
+Section 4500, APPLICABILITY, PERMIT REQUIREMENT, AND CERTIFICATE OF
+USE REQUIREMENT is added to read as follows:
+8
+
+4500 APPLICABILITY, PERMIT REQUIREMENT, AND CERTIFICATE OF
+USE REQUIREMENT
+4500.1 This chapter shall apply to all Streateries.
+4500.2 No person or entity shall occupy the parking lane of a roadway, an alley, or a travel
+lane for the purposes of creating a Streatery without a Streatery Permit.
+4500.3 No person or entity shall operate a Streatery without first having obtained a
+Certificate of Use.
+4500.4
+Section 4501, STREATERY TYPES AND LOCATION CRITERIA, is added to read as
+follows:
+4501 STREATERY TYPES AND LOCATION CRITERIA
+4501.1 The Streatery types shall be:
+(a) Parking lane Streateries;
+(b) Travel lane Streateries; and
+(c) Alley Streateries.
+4501.2 A parking lane Streatery may only be located on streets with speed limits of thirty
+miles per hour (30 mph) or less and within:
+(a) One or more parking spaces; or
+(b) A sidewalk extension.
+4501.3 A parking lane Streatery may be in a Residential Permit Parking (“RPP”) Zone, as
+defined in 18 DCMR 9901, if:
+(a) The Streatery is for a single business; and
+(b) The parking space or spaces are directly adjacent to the business.
+4501.4 A parking lane Streatery shall not be in or on:
+(a) Travel lanes or alleys;
+(b) Streets with a functional classification designation of Other Freeway and
+Expressway, or Interstate, as defined in the most recent edition of the
+9
+
+District of Columbia Department of Transportation Standard Specifications
+for Highways and Structures, available from the Department’s website;
+(c) Rush hour restricted locations;
+(d) ADA-Accessible on-street parking meter spaces;
+(e) Loading zones;
+(f) Bus stop pads;
+(g) Zones designated by sign for picking up and dropping off passengers or
+goods;
+(h) A Capital Bikeshare station;
+(i) An area within the roadway, delineated with plastic reflective delineator
+posts or other physical barriers, reserved for placement and parking of
+bicycles, scooters, electric mobility devices and/or personal mobility
+devices;
+(j) Parking spaces not directly adjacent to the curb; or
+(k) Utility vaults or regulator station vaults.
+4501.5 A travel lane Streatery that occupies some but not all travel lanes of a roadway
+segment may only be located on streets:
+(a) Where seventy-five percent (75%) or more of the ground-floor street
+frontage consists of commercial uses; and
+(b) That have speed limits of thirty miles per hour (30 mph) or less.
+4501.6 A travel lane Streatery that occupies some but not all travel lanes of a roadway
+segment shall not be in or on:
+(a) Streets with a functional classification designation of Principal Arterial,
+Other Freeway and Expressway, or Interstate, as defined in the most recent
+edition of the District of Columbia Department of Transportation Standard
+Specifications for Highways and Structures, available from the
+Department’s website;
+(b) Rush hour restricted locations;
+(c) Two-way streets with only two (2) lanes of travel whose closure results in
+one-way vehicle circulation; or
+10
+
+(d) Utility vaults or regulator station vaults.
+4501.7 A travel lane Streatery that occupies all travel lanes of a roadway segment may only
+be located on streets where seventy-five percent (75%) or more of the ground-floor
+street frontage consists of commercial uses.
+4501.8 A travel lane Streatery that occupies all travel lanes of a roadway segment shall not
+be in or on:
+(a) Streets with a functional classification designation of Principal Arterials,
+Other Freeway and Expressway, or Interstate, as defined in the most recent
+edition of the District of Columbia Department of Transportation Standard
+Specifications for Highways and Structures;
+(b) Street segments with emergency facilities (e.g., fire station, police station,
+etc.)
+(c) WMATA Bus Routes or DC Streetcar Routes; or,
+(d) Utility vaults or Washington Gas regulator station vaults.
+4501.9 The location of an alley Streatery:
+(a) Shall be located along the frontage directly adjacent to the business;
+(b) Shall provide a six foot (6 ft.) clear path to service entrances;
+(c) Shall not block access to adjacent buildings, businesses, or trash services;
+and
+(d) Shall not be on vaults or grates.
+4501.10 A parking lane, travel lane, or alley Streatery shall be located directly adjacent to
+the frontage of the permitted business.
+4501.11 Notwithstanding § 4501.10, a Streatery may extend beyond the frontage of the
+permitted business, but only if it can provide a letter of support from the adjacent
+property owner along whose commercial property frontage the Streatery will
+extend.
+Section 4502, PHYSICAL CRITERIA FOR STREATERIES, is added to read as follows:
+4502 PHYSICAL CRITERIA FOR STREATERIES
+11
+
+4502.1 Once the Streatery is constructed, the permit holder must affix two (2) signs to the
+Streatery that indicate the business name, seating hours, seating capacity, and
+emergency contact information. The signs shall be placed on the Streatery edge
+facing the sidewalk and must be placed in conspicuous locations that are visible to
+passersby at all hours of the day.
+4502.2 No images or words may be placed on any part of the Streatery structure viewable
+from the street.
+4502.3 The number of seats allowed within a Streatery shall be determined by dividing the
+total square footage of the Streatery by fifteen (15) and rounding down.
+4502.4 A Streatery shall include at least one (1) ADA compliant table. An accessible route
+shall be provided to access each accessible table with a clear floor area of thirty
+inches by forty-eight inches (30 in. x 48 in.) at each accessible seating location.
+4502.5 No part of a Streatery may be used as storage except for approved Streatery
+elements.
+Section 4503, STREATERY STRUCTURES AND BARRIERS, is added as follows:
+4503 STREATERY STRUCTURES AND BARRIERS
+4503.1 The Streatery shall comply with the provisions of this section, and applicable
+provisions of Chapter 2 of this title, including the requirement for a Streatery
+Permit, prior to the Streatery’s construction or occupancy.
+4503.2 If the Streatery is in a travel lane or parking lane, the Streatery shall have a
+continuous physical edge to buffer the outdoor dining area from adjacent vehicular
+traffic, except that the Director may require gaps for safety access points.
+4503.3 Barriers shall not be placed between the outdoor dining area and the sidewalk.
+4503.4 The Streatery shall not be fully enclosed at any time.
+4503.5 Barriers and structures shall not be bolted or permanently affixed to public space.
+Section 4504, SAFETY AND SANITATION STANDARDS, is added to read as follows:
+4504 SAFETY AND SANITATION STANDARDS
+4504.1 Any approved Streatery furniture or fixtures shall be arranged to provide for ready
+access by aisles to each exit way.
+4504.2 All fire protection equipment shall be kept in working condition. Extinguishers,
+hoses, and other fire protection appliances required by the Fire Chief shall be
+always visible and conveniently accessible.
+12
+
+4504.3 Food or alcohol preparation or storage is prohibited within the Streatery area.
+4504.4 Trash or refuse storage shall not be located within a Streatery, and no structure or
+enclosure to accommodate the storage of trash or refuse shall be erected,
+maintained, or placed within or adjacent to a Streatery.
+Section 4505, GENERAL STREATERY PERMIT ELIGIBILITY REQUIREMENTS, is
+added to read as follows:
+4505 GENERAL STREATERY PERMIT ELIGIBILITY REQUIREMENTS
+4505.1 No Applicant shall be issued a Streatery Permit unless the proposed Streatery meets
+the requirements of this chapter.
+4505.2 No Applicant shall be issued a Streatery Permit unless the subject property is
+licensed as, or has received a variance to operate, a legitimate theater, restaurant,
+distillery, brewery, winery, grocery store, fast food establishment, or prepared food
+shop.
+4505.3 No Applicant shall be issued a Streatery Permit unless the Applicant provides
+comprehensive indemnification to the District for any costs or damages which it
+incurs as a result of actions taken by the permittee in connection with the exercise
+of any rights or privileges granted in any permit issued pursuant to this chapter.
+4505.4 A Streatery Permit shall be issued when the following conditions are satisfied:
+(a) The Director has received an application to occupy public space;
+(b) The Director has reviewed and approved the application pursuant to this
+chapter;
+(c) All applicable fees have been paid; and
+(d) All insurance requirements and indemnification described in the permit
+terms and conditions have been approved and fulfilled.
+Section 4506, APPLICATION PROCEDURES FOR A STREATERY PERMIT, is added to
+read as follows:
+4506 APPLICATION PROCEDURES FOR A STREATERY PERMIT
+4506.1 The Applicant shall file for a Streatery Permit, which may be either a:
+(a) Streatery Block Permit; or
+13
+
+(b) Streatery Design Permit.
+4506.2 An Applicant shall apply for both a Streatery Block Permit and a Streatery Design
+Permit if their application is for a:
+(a) Alley Streatery;
+(b) Travel lane Streatery; or
+(c) Parking lane Streatery for multiple businesses.
+4506.3 Each Applicant for a Streatery Permit shall file for a Building Permit, except that a
+Building Permit may not be required if the Streatery Permit does not require any
+structure to be built and is for a(n):
+(a) Alley Streatery;
+(b) Entire travel lane closure; or
+(c) Streatery that does not require a structure to be constructed at the same grade
+as the sidewalk.
+4506.4 An eligible Applicant for a Streatery Design Permit shall be an owner of
+commercial properties or eligible establishment tenants described in § 4505.2
+abutting public space.
+4506.5 Each application for a Streatery Design Permit shall include a signed letter of
+support from:
+(a) An owner of the commercial property that the eligible establishment tenant
+occupies, if the applicant is not the owner of the commercial property; and
+(b) An owner of each commercial property whose frontage is adjacent to the
+public space to be occupied, if the Streatery extends beyond the frontage of
+the business.
+4506.6 The application for any Streatery Permit shall be submitted to the Director on the
+form and in the manner prescribed for that purpose.
+4506.7 Each application for a Streatery Design Permit shall include the following:
+(a) The location and address of the proposed Streatery and a description of the
+boundaries of the curb lane, travel lane, or alley proposed to be occupied;
+(b) A statement of the days and times of the week that the Streatery will operate;
+14
+
+(c) A statement of the anticipated periods of use during the year and whether
+the Streatery is located on a snow emergency route;
+(d) An electronic copy of the Streatery site plan, stamped by a structural
+Professional Engineer (PE) who is certified in the District, front and side
+elevations, appropriate longitudinal and latitudinal sections, and a structural
+diagram showing the items listed in § 4506.8;
+(e) Three (3) digital photographs of the surface space clearly identifying the
+following:
+(1) Frontal view;
+(2) Sharp angle right side view; and
+(3) Sharp angle left side view;
+(f) Elevations, including the dimensions of the Streatery;
+(g) Sections, or “cut-through” drawings of the structure design that articulate
+complex design elements, such as how accessibility is provided;
+(h) Construction details, which include:
+(1) Any hardware such as fasteners to be used in the construction
+process;
+(2) A detail showing how positive drainage flows along the curb line
+will be maintained, and how access to the drainage channel will be
+provided if it gets blocked; and
+(3) Drainage calculations for spread, ponding depth, and drainage
+channel capacity;
+(i) Utility access plan;
+(j) Copy of the Certificate of Occupancy;
+(k) Building Permit application, where applicable;
+(l) Copy of the Business License;
+(m) Copy of the rental lease agreement, if the applicant is not the owner of the
+property;
+15
+
+(n) Letter of support, if any, from the Single Member District for Streateries
+within Residential Parking Permit (RPP) spaces;
+(o) Signed maintenance and operation agreement; and
+(p) Point of contact information.
+4506.8 The site plan required under § 4506.7(d) shall show the following:
+(a) The width, length, and location of the Streatery areas in relation to the
+parking lane, travel lane, or alley;
+(b) The location of all tables, chairs, jersey barriers, railings, planters, and
+platforms;
+(c) The seating capacity of the Streatery and the location of access ways and
+aisles;
+(d) The separation between the edge of the parking lane and the Streatery space;
+(e) The total distribution of the public right of way, including width and length
+of the sidewalk, parking lane, or travel lane occupied by and adjacent to the
+Streatery and the location of any public improvements within or adjacent to
+the Streatery, including, but not limited to, bicycle racks, Capital Bikeshare
+stations, utility poles, fire hydrants, signs, posts, parking meters, bus stops,
+bus shelters, Metrorail station entrances, trees and tree grates, and utility
+vaults;
+(f) Any proposed improvements to the public space, including electrical
+connections and installations, new sidewalk, walls, platforms, lighting,
+landscaping, plantings, railings, or other forms of weather protection. This
+information shall be accompanied by the manufacturer's detailed standards
+and location schedule;
+(g) The location of the Streatery in relation to the property line, sidewalk,
+parking lane, travel lane, street curb(s), and to any other Streatery located
+on the block face;
+(h) The location, height, and dimensions of any overhead structure, if any, and
+whether the overhead structure will be in fixed positions or capable of
+retraction, folding, or otherwise being moved;
+(i) Any object to be affixed or attached to the overhead structure of the
+Streatery;
+(j) The height and dimensions of any platforms, floors, walls, and dividers;
+16
+
+(k) All Streatery construction and structural parts, including the structural
+adequacy of each;
+(l) The location of any fire escapes, drop ladders, and stairs;
+(m) The grade of the adjacent sidewalk if the topography deviates from the
+District standard sidewalk grade;
+(n) The location of any fire protection systems, equipment, or appliances;
+(o) The location of any public utility cut-offs; and
+(p) The spread calculations demonstrating that the depth and width of flow meet
+Department requirements established in the most recent iteration of the
+Department’s Design and Engineering Manual, available from the
+Department’s website.
+4506.9 A Streatery Block Permit application shall include a:
+(a) Site plan; and
+(b) Curbside management and delivery plan.
+4506.10 The Applicant shall give appropriate notice of the application by posting on the
+proposed Streatery location a notice that an application for a Streatery Permit has
+been filed with the Director. The notice shall be posted in the manner set forth in
+this section.
+4506.11 Notices shall be posted at each street frontage of the property involved and on the
+front of the building located on the property. All notices shall be in plain view of
+the public.
+4506.12 Notices shall be on paper having a minimum size of eight and one-half inches by
+eleven inches (8 1/ in. x 11 in.).
+2
+4506.13 Each notice shall be approved by the Director.
+4506.14 Each notice shall include the following information:
+(a) The date of the application;
+(b) The nature of the application;
+(c) The name of the Applicant;
+17
+
+(d) The Advisory Neighborhood Commission within which the property is
+located;
+(e) The property or properties involved; and
+(f) The name, address, and electronic mail address of the person designated by
+the Director to receive written comments.
+4506.15 Within five (5) calendar days after the date the Streatery Permit application has
+been filed, each Applicant shall file with the Director a sworn affidavit
+demonstrating compliance with the notice provisions of this section.
+4506.16 Each Applicant shall make a reasonable effort to maintain the posted notice by
+checking the signs at least every five (5) calendar days and by posting new notices
+as necessary.
+4506.17 A Streatery Permit application for a Streatery that would occupy a parking lane for
+multiple businesses or is in a travel lane or alley shall include a:
+(a) Site plan; and
+(b) Curbside management and delivery plan.
+4506.18 The site plan described in §§ 4506.7 and 4506.8 shall include:
+(a) Building façade(s), addresses, and associated building entrances;
+(b) Existing sidewalk widths;
+(c) Existing curb cuts and/or driveways;
+(d) Existing bike lanes, bus routes, and bus stops;
+(e) For alley Streateries, existing trash services;
+(f) Existing parking spaces with dimensions and descriptions of curbside
+regulations for the affected area;
+(g) Dimensions of any existing tree boxes, bioretention areas, or other
+landscaping located in the public space within the proposed impacted area;
+(h) Existing parking meters; and
+(i) The proposed Streatery footprint and dimensions, including setback
+dimensions.
+18
+
+4506.19 An Applicant for a Streatery Permit shall apply to the Director of the District
+Department of Buildings for a Certificate of Use pursuant to 24 DCMR § 306.
+Section 4507, STREATERY PERMIT REVIEW PROCESS, is added to read as follows:
+4507 STREATERY PERMIT REVIEW PROCESS
+4507.1 The Director may only approve a permit that:
+(a) Complies with all applicable laws and regulations;
+(b) Provides a reasonable degree of safety for life and property from the hazards
+of fire and explosions in accordance with the D.C. Fire Code;
+(c) Complies with § 4503; and
+(d) Does not adversely affect the public health and safety.
+4507.2 If the proposed Streatery is located within areas subject either to the “Shipstead
+Luce Act” D.C. Official Code § 6-611.01 et seq.), or to the “Old Georgetown Act”
+(D.C. Official Code § 6-1201 et seq.), the Applicant shall comply with the
+conditions of the Shipstead-Luce Act, approved May 16, 1930 (Public Law 71-231;
+D.C. Official Code § 6-611.01 et seq.); or Section 2 of the Old Georgetown Act of
+1950, approved September 22, 1950 (64 Stat. 904; D.C. Official Code § 6-1202),
+and, in either event, 24 DCMR § 205.
+4507.3 If the proposed Streatery is located within an “Historic District,” as defined in D.C.
+Official Code § 6-1102(5), or is attached to an “Historic Landmark” as defined in
+D.C. Official Code § 6-1102(6), the application shall be referred to the Historic
+Preservation Review Board, in accordance with the Historic Landmark and Historic
+District Protection Act of 1978, effective March 3, 1979 (D.C. Law 2-144; D.C.
+Official § 6-1101 et seq.).
+4507.4 The Director shall determine whether the proposed Streatery may have an adverse
+effect on the pedestrian or vehicular traffic in the area, whether the proposed
+Streatery is in compliance with applicable provisions of Chapter 2 of this title, and
+whether the proposed Streatery is in compliance with the provisions of this chapter.
+The Director shall also approve the design of the proposed Streatery and shall
+forward copies of the application and the plan to the Fire Chief and the Director of
+the District Department of Buildings.
+4507.5 The Director of the District Department of Buildings shall notify the Director and
+Applicant of his or her comments, including a recommendation, as described in §
+4507.6 and § 4507.7, within fifteen (15) business days of receipt of the plan and
+application for a Streatery Permit.
+19
+
+4507.6 The Director of the District Department of Buildings shall verify the ownership of
+the subject property and whether the property is zoned for or has been granted a
+variance for the proposed use.
+4507.7 Where applicable, the Director of the District Department of Buildings shall review
+and preliminarily approve the necessary building permit and shall determine
+whether the structural adequacy and safety of the proposed construction, and the
+framing and materials of the proposed Streatery are in accordance with the
+provisions of this chapter and the applicable provisions of the D.C. Building Code.
+4507.8 The Director shall forward the site plan to the following entities and persons for
+their review and comments:
+(a) The affected Advisory Neighborhood Commission;
+(b) The public utility companies that operate or maintain equipment or service
+in the area beneath the proposed Streatery; and
+(c) The owner or occupants of the adjacent property.
+4507.9 The persons, groups, and agencies listed in § 4507.8(a) and (c) shall forward their
+comments to the Director within thirty (30) business days of receipt of the plan and
+application.
+4507.10 The utility companies listed in § 4507.8(b) shall notify the Director and Applicant
+of their comments within fifteen (15) business days of receipt of the plan and
+application.
+4507.11 If a District agency or a utility company has objections or conditions that have not
+been resolved by the Applicant prior to the end of the fifteen (15) business day
+review period, the application and the plan shall be returned to the Applicant for
+resolution of the objections or satisfaction of the conditions.
+4507.12 If the Director has returned the application to the Applicant for resolution of the
+objections or conditions, the Applicant shall forward a revised plan and application
+to the Director.
+4507.13 If the application is approved, and when the fees as outlined in § 4510.2 have been
+paid, as outlined in § 4510.1, the Director shall issue the Streatery Permit.
+4507.17 Within five (5) business days of the satisfaction of the requirements of §§ 4506 and
+4507, the Director shall forward the application, the plan, and all received
+comments to the Chairperson of the Public Space Committee and notify the
+Applicant that the materials have been forwarded.
+20
+
+4507.18 Once the Applicant receives notice that the application, plan, and comments were
+forwarded to the Chairperson, the Applicant shall post a notice that the Public Space
+Committee will conduct a hearing of the Streatery application. The notice shall be
+posted at least 30 days before the hearing, and shall contain the hearing’s date, time,
+and location.
+4507.19 The notice required under § 4507.18 shall be posted according to the provisions of
+§§ 4506.12 - 4506.15.
+Section 4508, PUBLIC SPACE COMMITTEE WAIVERS, is added to read as follows:
+4508 PUBLIC SPACE COMMITTEE WAIVERS
+4508.1 The Public Space Committee may waive the following program requirements;
+provided, that the waiver would not create an undue risk to pedestrians or other
+roadway users:
+(a) The minimum required distance between Streateries and curb cuts,
+driveways, alleys, and trees;
+(b) The prohibition on Streatery enclosures or vertical support structures that
+exceed forty-two (42) inches in height; and
+(c) The maximum seating capacity of a Streatery.
+4508.2 A Streatery permit holder that receives an exception under § 4508.1 shall apply for
+a Streatery permit renewal through the Public Space Committee every two (2)
+years.
+Section 4509, AUTOMATIC EXPIRATION OF STREATERY PERMITS, is added to read
+as follows:
+4509 AUTOMATIC EXPIRATION OF STREATERY PERMITS
+4509.1 A Streatery Permit shall automatically expire if the construction of the proposed
+Streatery is not commenced within ninety (90) calendar days from the effective date
+of the Streatery Permit.
+4509.2 A Permittee may request that the Director approve a delay in the construction of
+the Streatery. The request shall be in writing and shall provide sufficient reasons
+for the delay.
+4509.3 If the construction is commenced within the prescribed period but is not completed
+within six (6) months from the date the Streatery Permit was issued, the Director
+shall revoke the Streatery Permit due to a lack of construction activities.
+21
+
+4509.4 The Director may approve one request for delay in the progress of the construction
+of a Streatery. The delay shall not exceed three (3) months.
+Section 4510, FEES FOR STREATERY PERMITS, is added to read as follows:
+4510 FEES FOR STREATERY PERMITS
+4510.1 The appropriate fees, pursuant to this chapter, shall be paid in person or online by
+credit card, echeck, check or money order, payable to the D.C. Treasurer.
+4510.2 The annual public space rental fee for a Streatery Permit shall be assessed at twenty
+dollars ($20) per square foot.
+4510.3 The permit fee for a Streatery Permit shall be two hundred and sixty dollars ($260).
+Section 4511, CERTIFICATE OF USE, is added to read as follows:
+4511 CERTIFICATE OF USE
+4511.1 An Applicant shall, after receiving a Streatery Permit, apply to the Director of the
+Department of Buildings for a Certificate of Use.
+4511.2 The Director of the Department of Buildings shall issue a Certificate of Use when
+the following conditions have been satisfied:
+(a) The Streatery has been inspected and the issuance of a Certificate of Use
+has been approved by the Director and the Director of the Department of
+Buildings;
+(b) The Streatery complies with the requirements of this chapter, with the terms
+and conditions of the Streatery Permit and, where applicable, the Building
+Permit;
+(c) The Streatery has been inspected by the Fire Chief; and
+(d) All applicable fees, including all present and past Streatery rental fees, have
+been paid.
+4511.3 If the Streatery does not comply with the requirements of § 4511.2, the request for
+a Certificate of Use shall be denied.
+4511.4 Where applicable, the Applicant shall be informed by the Director of the
+Department of Buildings of the reasons why the Certificate of Use has been denied.
+4511.5 The Applicant shall have sixty (60) calendar days to correct any deficiencies and to
+reapply for a Certificate of Use pursuant to § 4511.1.
+22
+
+4511.6 A Certificate of Use shall be valid for twelve (12) months and shall be renewed
+annually on the date specified on the certificate.
+4511.7 An Applicant shall apply for a renewal of the Certificate of Use in accordance with
+§ 4511.2.
+Section 4512, FINES FOR AND REVOCATION OF STREATERY PERMITS AND
+CERTIFICATES OF USE, is added to read as follows:
+4512 FINES FOR AND REVOCATION OF STREATERY PERMITS AND
+CERTIFICATES OF USE
+4512.1 A Streatery Permit issued by the Director may be revoked at any time upon
+reasonable determination, which may include the following reasons:
+(a) There is a public need for the use of the parking lane, alley, or travel lane;
+(b) The Permittee has failed to make use of the public space for a period of
+more than six (6) consecutive months after the effective date listed on the
+Streatery Permit; or
+(c) The Permittee has failed to complete the construction of the Streatery within
+six (6) months.
+4512.2 The failure to comply with public space requirements pursuant to Sections 4502-
+4504 or Section 4513 of this Chapter is a Class 3 infraction that the Department
+will enforce pursuant to the Department of Consumer and Regulatory Affairs Civil
+Infractions Act of 1985, effective October 5, 1985 (D.C. Law 6-42; D.C. Official
+Code §§ 2-1801.01 et seq.), and 16 DCMR §§ 3200 and 3201.
+4512.3 The Permittee shall restore the public space within seventy-two (72) hours
+following the revocation of a Streatery Permit or Certificate of Use.
+4512.4 A person shall not operate a Streatery subsequent to the revocation of a Streatery
+Permit, unless a new Streatery Permit and a new Certificate of Use has been issued
+pursuant to this chapter.
+4512.5 If a Streatery Permit has been revoked pursuant to § 4512.1, the Director of the
+District Department of Buildings, upon the recommendation of the Director, may
+reissue the Building Permit if the Applicant certifies that the construction will
+comply with the provisions of the initial Building Permit and the initial Streatery
+Permit, and that the construction will be completed within six (6) months from the
+date the permits were reissued.
+23
+
+4512.6 The Director shall reissue a Streatery Permit, and the Director of the District
+Department of Buildings shall restore and reissue a Certificate of Use, when the
+conditions that caused the revocation to be issued have been corrected.
+4512.7 Any costs incurred by the Department, the District Department of Buildings, and
+any other District agency, as determined by the Director and the Director of the
+District Department of Buildings, in connection with the revocation and the
+issuance of a new Streatery Permit and a new Certificate of Use, shall be paid by
+the Applicant before the Streatery Permit and the Certificate of Use are reissued.
+4512.8 The Director shall notify the Permittee that their Streatery Permit has been revoked
+by mail at the Permittee’s address and electronic mail address provided to the
+Director.
+4512.9 The Director of the Department of Buildings shall notify the Permittee that their
+Certificate of Use permit has been revoked in a manner specified in Section 113.5.5
+of Title 12A of Building Code Supplement of 2017 (12-A DCMR 113.5.5).
+4512.10 Any notices of infraction made pursuant to this section shall be adjudicated by the
+Office of Administrative Hearings pursuant to the Department of Consumer and
+Regulatory Affairs Civil Infractions Act of 1985, effective October 5, 1985 (D.C.
+Law 6-42; D.C. Official Code § 2-1801.01 et seq.) and 16 DCMR § 3100 et seq.
+4512.11 A Permittee whose Streatery Permit the Department proposes to revoke pursuant to
+§ 4512.1 may, within five (5) business days of receipt of the notice of revocation,
+request a hearing. The hearing shall be conducted pursuant to the D.C.
+Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1208, D.C.
+Code § 2-509).
+Section 4513, ADDITIONAL GENERAL STANDARDS FOR ALL STREATERIES, is
+added to read as follows:
+4513 ADDITIONAL GENERAL STANDARDS FOR ALL STREATERIES
+4513.1 All Streateries shall be classified as a Group A-2 Assembly as defined in § 303.3
+of the D.C. Building Code, and shall comply with all applicable requirements of a
+Group A-2 Assembly.
+4513.2 All electrical installations including appliances and fixtures in a Streatery shall
+comply with NEC 2014 as amended by Title 12, Subsection C of the District of
+Columbia Municipal Regulations.
+4513.3 The following are not permitted within a Streatery:
+(a) Generators;
+24
+
+(b) Live or amplified music;
+(c) Televisions; or
+(d) Ropes, chains, or fencing used to prevent people from entering the space
+from the sidewalk.
+4513.4 The Permittee shall not charge a fee to access a Streatery.
+4513.5 A Permittee shall reapply for a new permit if any changes are proposed to the terms
+of an approved Streatery Permit.
+Section 4599, DEFINITIONS, is added to read as follows:
+4599 DEFINITIONS
+4599.1 When used in this chapter, the following terms and phrases shall have the meanings
+ascribed, unless otherwise provided:
+ADA – Title III of the Americans with Disabilities Act of 1990, approved July 26,
+1990 (104 Stat. 353; 42 U.S.C. § 12181 et seq.).
+Alley Streatery – A Streatery that provides expanded outdoor dining within an
+alley network adjacent to one (1) or multiple food establishments.
+Alter or alteration - a change in the design or configuration of either the exterior
+or interior of a Streatery or its site; including railings, walls, roof, awning,
+sign, or flooring.
+Applicant - a person who is applying for or who has obtained a Streatery Permit.
+Building Permit - a permit issued by the District Department of Buildings that
+authorizes performance of a specified activity.
+Certificate of Use - a one (1) year renewable certificate, issued by the District
+Department of Buildings, pursuant to 24 DCMR § 306, authorizing the
+operation of a Streatery in the public space.
+Chairperson - the Chairperson of the Public Space Committee.
+D.C. Building Code- The District of Columbia Building Code (2017), referred to
+as the “Building Code,” which consists of the 2015 edition of the
+International Building Code (IBC), published by the International Code
+Council (ICC), as amended by the Building Code Supplement of 2017 (12-
+A DCMR), available at
+https://dob.dc.gov/sites/default/files/dc/sites/dob/publication/attachments/2
+25
+
+017%20District%20of%20Columbia%20Building%20Code_Part%201.pd
+f.
+D.C. Fire Code - The District of Columbia Fire Code (2017), referred to as the
+“Fire Code,” which consists of the 2015 edition of the International Fire
+Code (IFC), published by the International Code Council (ICC) and
+available at https://codes.iccsafe.org/content/IFC2015, as amended by the
+Fire Code Supplement of 2017 (12-H DCMR).
+D.C. Vehicles and Traffic Regulations - Title 18 of the District of Columbia
+Municipal Regulations, "Vehicles and Traffic."
+Department - the District Department of Transportation.
+Design - the physical features of a Streatery, including:
+(a) Height, depth, width, appearance, texture, color, dimensions, and
+nature of materials and signage; and
+(b) Interior features, including the table layout, the flooring, the
+lighting, and the width and the location of aisles and accessways.
+Director - the Director of the Department, or his or her designated agent.
+District - the District of Columbia.
+Fire Chief - the Fire Chief of the District, or the Fire Chief’s designated agent.
+Legitimate Theater – A building, or a part of a building, that is designed and used
+for the presentation of live plays and other forms of dramatic performance.
+The facility typically has a stage or other performing area plus tiers of seats
+for the audience, or other arrangements for the audience to sit or stand to
+view the performance.
+Owner - the holder of the legal title to real property as recorded in the Office of the
+Recorder of Deeds in the Office of Tax and Revenue of the District of
+Columbia.
+Parking lane Streatery – A Streatery that provides expanded outdoor dining
+within the parking lane adjacent to one or multiple food establishments.
+Parking lane Streatery for multiple businesses – A Streatery that provides
+expanded outdoor dining within the parking lane for and adjacent to
+multiple food establishments.
+Permittee – An entity that has been issued a Streatery Permit.
+26
+
+Prepared food – food that is assembled, but not heated by means other than
+microwave or toaster, on the premises of a prepared food shop.
+Prepared food shop – A place of business that offers seating or carry out service,
+or both, and which is principally devoted to the sale of prepared food, non-
+alcoholic beverages, or cold refreshments. This term includes an
+establishment known as a sandwich shop, coffee shop, or ice cream parlor.
+Public space - all the publicly owned property between the property lines on a
+street.
+Public Space Committee - the committee established in 2009 for the purpose of
+making final determinations in cases involving the use of public space as
+specified by Mayor's Order No. 2009-114 dated June 18, 2009.
+Restaurant – A place of business that does not meet the definition of a “fast food
+establishment” or “prepared food shop”, where food, drinks, or
+refreshments are prepared and sold to customers primarily for consumption
+on the premises. Any facilities for carryout shall be clearly subordinate to
+the principal use providing prepared foods for consumption on the premises.
+Sidewalk - the portion of surface space located between the curb line and the
+building line intended for the use of pedestrians.
+Sidewalk Extension - A section of roadway adjacent to the curb that is designated
+for pedestrian use, and not for parking or vehicular traffic.
+Streatery or Streateries - any authorized occupation of the parking lane of a
+roadway or use of designated parts of an alley network or travel lane used
+specifically for outdoor dining.
+Streatery Block Permit – A Streatery Permit for either a parking lane Streatery
+for multiple businesses, or a Streatery in an alley or travel lane.
+Streatery Design Permit – A Streatery Permit for the structural and design
+elements of the outdoor dining area.
+Streatery Permit – A permit for a Streatery, issued by the Director of the District
+Department of Transportation pursuant to the provisions of this chapter and
+Chapter 2 of this title, authorizing the use and occupation of public space in
+the District of Columbia.
+Travel lane Streatery – A Streatery that provides expanded outdoor dining by
+occupying one travel lane, multiple travel lanes, or the entire roadway.
+27
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICEOFTHEATTORNEYGENERAL
+xk
+BRIAN L.SCHWALB — PRiviyecepaNpCONFIDENTIAL
+ATTORNEYGENERAL, a ATTORNEY-CLIENTCOMMUNICATION
+LEGALCOUNSELDIVISION
+MEMORANDUM
+TO: Tomas Talamante
+Director
+Office ofPolicy and LegislativeAffairs
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal CounselDivision
+DATE: February 5, 2026
+SUBJECT: Legal Sufficiency Review ofDraft “Streatery Program Rulemaking Approval
+Resolution of2026”
+(AR-26-45)
+This is to Certify that tis osice nas reviewed the above-referenced draft
+legislation and found it to be legally sufficient. Ifyou have any questions in this regard, please do
+not hesitateto call meat (202) 262-6402.
+Adale B-Khoure
+‘Adele El-Khouri
+
+Government of the District of Columbia
+Office of the Chief Financial Officer
+Glen Lee
+Chief Financial Officer
+MEMORANDUM
+TO: The Honorable Phil Mendelson
+Chairman, Council of the District of Columbia
+FROM: Glen Lee
+Chief Financial Officer
+DATE: January 5, 2026
+SUBJECT: Fiscal Impact Statement – Permanent Streatery Program Rulemaking
+Approval Resolution of 2026
+REFERENCE: Draft Resolution as provided to the Office of Revenue Analysis on
+January 5, 2026
+Conclusion
+Funds are sufficient in the fiscal year 2026 through fiscal year 2029 budget and financial plan to
+implement the proposed resolution.
+Background
+The proposed resolution approves the final rules jointly issued by the District Department of
+Transportation (DDOT) and the Department of Buildings (DOB) that establish the operating
+guidelines for the District’s streatery program.1 Streateries are authorized occupations of certain
+public spaces for outdoor dining.
+The rules establish three types of streaterises: parking lane, travel lane, and alley. No business may
+establish a streatery without first obtaining a streatery permit2 from DDOT and a certificate of use
+from DOB. The rules set a DDOT permit fee of $260 plus a $15 per square foot annual rental fee. This
+fee is consistent with the fee limit established by the Council.3 The rules direct who is eligible to apply
+for a permit, what type of permit an applicant must apply for, and under what conditions they must
+also apply for a building permit. The rules establish the size constraints of a streatery, barrier
+1 Issued as a proposed rulemaking on May 5, 2025 (72 DCR 18).
+2 The rules establish two types of permits: streatery block and streatery design permits.
+3 Streatery Program Emergency Amendment Act of 2025, enacted December 19, 2025 (D.C. Act 26-233).
+1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727-2476
+www.cfo.dc.gov
+
+The Honorable Phil Mendelson
+FIS: “Permanent Streatery Program Rulemaking Approval Resolution of 2026,” Draft Resolution as provided
+to the Office of Revenue Analysis on January 5, 2026
+requirements to protect patrons from adjacent vehicle traffic, and safety and sanitation standards of
+the business’ operations in the streatery. The rules set the notice and posting requirements both
+during the application process and after a streatery is established. The rules authorize DDOT to
+automatically terminate a streatery permit if construction on the streatery does not begin within
+ninety days or if construction is not completed within six months unless an extension is approved.
+The rules establish how and when a business must restore the public space upon the revocation of a
+permit or certificate of use for a business’ failure to comply with streatery rules.
+Financial Plan Impact
+Funds are sufficient in the fiscal year 2026 through fiscal year 2029 budget and financial plan to
+implement the proposed resolution. DDOT will review permit applications and enforce compliance
+with existing permit review and enforcement staff. DOB will also review and enforce permit
+applications and issue certificates of use and building permits with existing staff. As these streatery
+rules have gone through the approval process, many businesses have removed their streateries and
+there is not sufficient information to determine how many businesses will apply under the new
+program.
+Page 2 of 2

@@ -1,0 +1,139 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+OFFICE OF COUNCILMEMBER BROOKE PINTO
+THE JOHN A. WILSON BUILDING
+1350 PENNSYLVANIA AVENUE, N.W., SUITE 106
+WASHINGTON, D.C. 20004
+November 14, 2025
+Nyasha Howard, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, N.W.
+Washington, DC 20004
+Dear Secretary Howard,
+Today, along with Councilmembers Brianne Nadeau and Kenyan McDuffie, I am introducing the
+“Expanding Downtown Affordable Housing Options Amendment Act of 2025” to catalyze housing
+development in our Downtown core.
+The Council established the Housing in Downtown program in the Fiscal Year 2023 budget to support the
+conversion of vacant office buildings to residential uses. Despite the District’s investment in this program,
+office-to-housing conversions remain both architecturally and financially challenging. The Expanding
+Downtown Affordable Housing Options Amendment Act aims to reduce barriers to conversions and
+encourage conversions to community housing to expand affordable housing options downtown.
+First, the bill would ensure that bedrooms in affordable units are held to the same standards as those in
+market-rate units. Currently, while bedrooms in market-rate units are required to meet lighting and
+ventilation standards, bedrooms in affordable units are additionally required to have a window. This
+discrepancy makes affordable units significantly more expensive to construct, particularly in office-to-
+housing conversions, where large floorplates make designing apartments with bedroom window access
+especially challenging.
+Second, the bill would establish a grant program to support preliminary feasibility analyses for property
+owners considering office-to-community-housing conversions. Community housing is a residential
+development consisting of independently rented bedrooms with shared common space. This type of housing
+was once common in the United States. However, in the mid-20th century, zoning regulations and other
+restrictions began to prohibit community housing.
+Approximately 56% of renter households in the District are single-person households; 30% of these renters
+earn less than $30,000 annually and another 12% earn between $30,000 and $50,000.1 A study by Pew
+Charitable Trusts found that a prototypical office-to-community-housing conversion could accommodate
+560 residents across 530 units. Pew estimated that these units could be rented at market-rate between $750
+and $1,250 a month, significantly below the District’s median rent of $2,155.
+1 Gensler and Pew Charitable Trusts, Flexible Co-Living Housing Feasibility Study, available here.
+
+Community housing could be transformative for expanding affordable housing options in the District. As
+Pew’s report demonstrates, community housing could be particularly well-suited for office-to-housing
+conversions to most efficiently make use of large building floorplates. In addition, locating community
+housing Downtown would also take advantage of existing transit accessibility and walkability, while
+avoiding parking minimums that apply elsewhere in the city.
+The Council does not have the authority to amend zoning regulations to permit community housing by
+increasing the permissible number of unrelated household members. However, this bill is an important first
+step in encouraging the Zoning Commission making these necessary changes. Community housing has
+proven popular in Washington State, San Francisco, and across Europe, where rooms are rented by college
+and graduate students, young professionals, transient workers, and retirees alike. By encouraging action by
+the Zoning Commission and funding feasibility studies, the District can make meaningful progress towards
+building community housing, which is both a financially viable and high-demand housing model.
+The Expanding Downtown Affordable Housing Options Amendment Act will open more opportunities for
+office-to-housing conversions and encourage the development of hundreds of affordable housing rental
+units in Downtown.
+Should you have any questions about this legislation, please contact my Policy Advisor, Ella Hanson, at
+ehanson@dccouncil.gov.
+Thank you,
+Brooke Pinto
+Councilmember, Ward 2
+Chairwoman, Committee on the Judiciary and Public Safety
+Council of the District of Columbia
+
+_____________________________ _____________________________
+Councilmember Brianne K. Nadeau Councilmember Brooke Pinto
+_____________________________
+Councilmember Kenyan R. McDuffie
+A BILL
+__________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+_________________
+1 To amend the Housing in Downtown Tax Abatement Amendment Act of 2024 to align the
+2 ventilation requirements in affordable housing units with those of market rate multifamily
+3 residential units to permit bedrooms without windows, and to amend the Deputy Mayor
+4 for Planning and Economic Development Limited Grant-Making Authority Act of 2012
+5 to establish a Community Housing Feasibility Grant Program to support eligible
+6 commercial property owners to assess the financial feasibility of converting an office
+7 building to community housing.
+8
+9 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+10 act may be cited as the “Expanding Downtown Affordable Housing Options Act of 2025”.
+11 Sec. 2. Section 47–860.02(a)(3) of the District of Columbia Official Code is amended to
+12 read as follows:
+13 “(3) The affordable housing units are designed and administered in accordance
+14 with the requirements of the Inclusionary Zoning Program; except that, for purposes of both
+15 affordable and market rate housing units provided pursuant to this section, a room with a closet
+16 that is designated as a bedroom or sleeping room on construction plans submitted with an
+17 application for a building permit shall not be required to have immediate access to an exterior
+18 window; provided, that the room complies with all natural light and ventilation requirements as
+1
+
+19 defined in the District of Columbia Building Code and that the market rate and affordable
+20 housing units shall incorporate such unit configuration in the same proportion.”.
+21 Sec. 3. Section 2032 of the Deputy Mayor for Planning and Economic Development
+22 Limited Grant-Making Authority Act of 2012, effective September 20, 2012 (D.C. Law 19-168;
+23 D.C. Official Code § 1-328.04), is amended by adding new subsection (ss) is added to read as
+24 follows:
+25 “(ss) The Community Housing Downtown Feasibility Grant Program.
+26 “(1) The Deputy Mayor shall establish a Community Housing Feasibility
+27 Grant Program to support eligible commercial property owners to assess the financial feasibility
+28 of converting an office building to community housing.
+29 “(2) The Deputy Mayor may issue grants of up to $75,000 to eligible
+30 commercial property owners to support preliminary analysis, including but not limited to
+31 financial feasibility analysis, market research, project proformas, engineering and architectural
+32 reports.
+33 “(3) An eligible commercial property owner shall:
+34 “(A) Own a commercial office building located in the eligible area, as
+35 defined in D.C. Official Code § 47–860.01, that has been at least 50% vacant for the previous 12
+36 months;
+37 “(B) Be in good standing with the DLCP, OTR, and IRS; and
+38 “(C) Submit an application to the Deputy Mayor that includes:
+39 “(i) A cost estimate for the financial feasibility analysis;
+40 “(ii) The name of the consultant;
+41 “(iii) A scope of work; and
+2
+
+42 “(iv) A timeline for the completed analysis.
+43 “(4) Grant recipients shall provide the Deputy Mayor a copy of the completed
+44 financial feasibility analysis no later than two weeks from when it is transmitted from the
+45 consultant to the grant recipient.
+46 “(5) For the purposes of this section, the term “community housing” means a
+47 building with sleeping units that include a natural light source and are independently rented and
+48 lockable, and in which residents may share kitchen facilities and other common elements with
+49 other residents in a building.”.
+50 Sec. 5. Fiscal impact statement.
+51 The Council adopts the fiscal impact statement in the committee report as the fiscal
+52 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+53 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+54 Sec. 6. Effective date.
+55 This act shall take effect following approval by the Mayor (or in the event of veto by the
+56 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+57 as provided in section 602(c)(l) of the District of Columbia Home Rule Act, approved December
+58 24, 1973 (87 Stat. 813; D.C. Official Code§ l-206.02(c)(l)).
+3

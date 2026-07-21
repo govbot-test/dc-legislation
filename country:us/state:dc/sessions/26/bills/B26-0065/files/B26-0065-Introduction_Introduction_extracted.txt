@@ -1,0 +1,168 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+January 17, 2025
+Nyasha Howard, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, NW
+Washington, D.C. 20004
+Secretary Howard:
+Today, along with Councilmembers Bonds, Frumin, Henderson, Lewis George, Nadeau, and
+Robert White, I am introducing the “Solar Shade Expansion Amendment Act of 2025”. Please
+find enclosed a signed copy of the legislation.
+The summer of 2024 was one of the hottest seasons recorded since 1880, narrowly beating heat
+records set just a year earlier in 2023.1 The scientific evidence has made it abundantly clear that
+human activity is the most significant driver of the changes in climate we are experiencing locally
+and around the world. Burning fossil fuels – such as coal, oil, and gas – emits greenhouse gasses
+that amplify the Earth’s natural greenhouse effect, warming the planet at a dangerous rate. In
+addition to their impact on climate, the burning of fossil fuels also has deleterious effects on
+human health, as well as air and water quality.
+For its part, the District has planned to transition away from fossil fuels and towards clean,
+renewable sources of energy. For example, the District's Renewable Portfolio Standard requires
+that 100% of the electricity sold in the city be from renewable sources by 2032 – 5.5% of which
+must be solar energy. But there is a pressing need to both accelerate our progress towards that
+goal while also alleviating the impact of extreme weather – especially on our most vulnerable
+populations, including children.
+Solar canopies are a promising tool that can both help mitigate the human impacts on climate
+while also providing relief from rising temperatures. Solar canopies are structures that elevate
+solar panels above the ground, generating solar energy while providing shade. Solar canopies
+help maximize use of limited space in the District for solar panel installations. Solar canopies have
+1 National Aeronautics and Space Administration, NASA Finds Summer 2024 Hottest to Date (September 11, 2024),
+https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/.
+
+already been mounted over parking decks2 and school playgrounds3 in the District. In other
+countries, like South Korea, for example, solar canopies have also been installed to provide shade
+over bike lanes.4
+This legislation would require that the District government identify 20 sites, ranging from
+playgrounds and parks to sidewalks, bike lanes, and roads, that could benefit from solar canopies.
+The goals are to provide shade, reduce heat exposure, and provide clean energy to our power
+grid all at once. The bill then requires funding in the District’s Capital Improvements Plan for five
+capital projects to include solar shade as soon as the FY27 budget and all projects beginning in
+FY28. It also permits the Department of Energy and Environment to issue grants to private
+entities in pursuit of solar shade projects.
+Sincerely,
+Councilmember Charles Allen, Ward 6
+Chairperson, Committee on Transportation & the Environment
+2 Innovation District, D.C. leaders unveil city’s largest solar canopy at Children’s National Research & Innovation
+Campus (April 27, 2021), https://innovationdistrict.childrensnational.org/dc-leaders-unveil-citys-largest-solar-
+canopy-at-research-innovation-campus/.
+3 https://www.ludlowtaylor.org/spaces/
+4 Hakyung Kate Lee, Solar panel bike lane generates eco-friendly energy in South Korea, ABC NEWS (September 25,
+2022), https://abcnews.go.com/International/solar-panel-bike-lane-generates-eco-friendly-
+energy/story?id=90197800.
+
+1 _____________________________ _____________________________
+2 Councilmember Anita Bonds Councilmember Charles Allen
+3
+4
+5
+6 _____________________________ _____________________________
+7 Councilmember Matthew Frumin Councilmember Christina Henderson
+8
+9
+10
+11 _____________________________ _____________________________
+12 Councilmember Janeese Lewis George Councilmember Brianne K. Nadeau
+13
+14
+15
+16 _____________________________
+17 Councilmember Robert C. White, Jr.
+18
+19
+20 A BILL
+21
+22 ________
+23
+24
+25 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+26
+27 _________________________
+28
+29
+30 To amend the Clean and Affordable Energy Amendment Act of 2008 to require that the
+31 Department of Energy and the Environment publish a feasibility study regarding the
+32 installation of solar canopies in the District, to require that the District’s capital
+33 improvement plan include funding for the installation of solar canopies, to authorize the
+34 Department of the Energy and the Environment to issue grants to support the installation
+35 of solar canopies, to require that the Department of Energy and the Environment update
+36 the original study, and to require that new capital projects included in the capital
+37 improvement plan for which the installation of solar canopies is possible shall provide for
+38 the installation of solar canopies on some portion or portions of the capital project’s
+39 footprint.
+40
+41 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+42 act may be cited as the “Solar Shade Expansion Amendment Act of 2025”.
+1
+
+43 Sec. 2. The Clean and Affordable Energy Amendment Act of 2008, effective October 22,
+44 2008, (D.C. Law 17-250; D.C. Official Code § 8–1773.01 et seq.), is amended by adding a new
+45 section 218 to read as follows:
+46 “Sec. 218. Solar canopy feasibility study; capital funding requirements and grantmaking
+47 authority; updated study.
+48 “(a)(1) By January 1, 2026, DOEE shall conduct and publish a study analyzing the
+49 feasibility of installing solar canopies to expand solar energy generation while providing shade in
+50 at least 20 locations in the District, including at least 5 of each of the following:
+51 “(A) Buildings or land owned by the District, such as recreation centers,
+52 parks, pools, playgrounds, parking lots, and parking decks, selected after consultation with the
+53 Department of General Services and the Department of Parks and Recreation;
+54 “(B) District roadways, sidewalks, bike lanes, and cycletracks, selected
+55 after consultation with the District Department of Transportation; and
+56 “(C) Private property, such as parking decks, surface parking lots, and
+57 common areas in commercial buildings and residential buildings, selected after consultation with
+58 the Department of Buildings.
+59 “(2) The study shall:
+60 “(A) Compare, between various locations in the District, the:
+61 “(i) Potential to generate solar energy;
+62 “(ii) Desirability or benefits of providing shade;
+63 “(iii) Costs of installing solar canopies; and
+64 “(iv) Difficulty of installing solar canopies, including any legal or
+65 administrative barriers unrelated to cost;
+2
+
+66 “(B) Recommend settings, based on the factors described in subparagraph
+67 (A) of this paragraph, where the installation of solar canopies should be prioritized; and
+68 “(C) Identify at least 5 specific locations in the District where the
+69 installation of at least 500 square feet of solar canopies can feasibly be installed during Fiscal Year
+70 2027.
+71 “(b) Beginning January 1, 2027:
+72 “(1) The multiyear capital improvement plan proposed by the Mayor in the annual
+73 budget pursuant to § 47–339.01(a) shall, for any project encompassing any of the locations
+74 identified in subsection (a)(1) of this section, include funding sufficient to support the installation
+75 of solar canopies; and
+76 “(2) DOEE may issue grants to private entities to support the installation of solar
+77 canopies on private property in settings recommended by the study as described in subsection
+78 (a)(1)(C).
+79 “(c)(1) No later than September 30, 2028, DOEE shall publish an updated study analyzing
+80 the outcomes of any solar canopies installed at locations identified in the original study.
+81 “(2) The updated study conducted pursuant to this subsection shall:
+82 “(A) Update the comparison of factors described in subsection (a)(2)(A) of
+83 this section;
+84 “(B) Identify locations, based on the updated comparison described in
+85 subparagraph (A), where the District should require the installation of other solar canopies in
+86 public and private settings;
+87 “(C) Recommend financial incentives, including grants and tax exemptions,
+88 to facilitate the installation of solar canopies; and
+3
+
+89 “(D) Describe any regulatory, administrative, or legislative changes that
+90 would expedite or facilitate the installation of solar canopies across the District.
+91 “(d) Beginning January 1, 2030, every new capital project included in the capital
+92 improvement plan for which the installation of solar canopies is possible shall provide for the
+93 installation of solar canopies on some portion or portions of the capital project’s footprint.”.
+94 Sec. 3. Fiscal impact statement.
+95 The Council adopts the fiscal impact statement in the committee report as the fiscal impact
+96 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+97 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+98 Sec. 4. Effective date.
+99 This act shall take effect after approval by the Mayor (or in the event of veto by the
+100 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+101 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24,
+102 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+103 Columbia Register.
+4

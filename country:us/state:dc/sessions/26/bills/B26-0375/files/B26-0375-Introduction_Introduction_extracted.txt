@@ -1,0 +1,99 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1 _____________________________
+2 Councilmember Robert C. White, Jr.
+3
+4
+5 A BILL
+6 __________
+7
+8 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+9 ____________________
+10
+11 To amend, on an emergency basis, the Housing Production Trust Fund Act of 1988 to insert net
+12 zero energy requirements for large residential and mixed-use construction projects
+13 receiving Fund assistance; the Clean Energy DC Building Code Amendment Act of 2022
+14 to require periodic reporting on the development of universal net zero energy building
+15 code regulations that will apply to residential and mixed-use construction; and the Green
+16 Building Act of 2006 to remove those net zero energy compliance provisions inserted by
+17 the Greener Government Buildings Amendment Act of 2022 that apply to residential and
+18 mixed-use projects.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the “Green Housing Coordination Temporary Amendment Act of 2025”.
+22 Sec. 2. The Housing Production Trust Fund Act of 1988, effective March 16, 1989 (D.C.
+23 Law 7-202; D.C. Official Code §§ 42-2801 et seq.), is amended by adding a new section 6 to
+24 read as follows:
+25 “Sec. 6. Net zero energy requirements for subsidized projects.
+26 “(a) For purposes of this section, “EGCC” means the 2020 Enterprise Green
+27 Communities Criteria issued by Enterprise Community Partners.
+28 “(b)(1) Any request for housing proposals involving the Fund shall include a requirement
+29 that proposals for new construction of 50,000 square feet or more receiving Fund support must
+30 satisfy EGCC element 5.4, “Achieving Zero Energy,” or an equivalent standard as determined by
+31 the Department in consultation with the Department of Buildings.
+32 “(2) Notwithstanding paragraph (1) of this subsection, the Department may accept
+33 proposals that satisfy EGCC element 5.2b, “Moving to Zero Energy: Near Zero Certification,” or
+34 an equivalent standard as determined by the Department in consultation with the Department of
+
+35 Buildings, if the Director of the Department issues a written finding that this lesser standard is
+36 necessary to ensure affordable housing development in the immediate term and includes the
+37 basis for this finding.
+38 “(c) Any request for housing proposals involving the Fund shall include a requirement
+39 that proposals for new construction of 50,000 square feet or more receiving Fund support must
+40 satisfy EGCC element 5.5b, “Moving to Zero Carbon: All Electric,” or an equivalent standard as
+41 determined by the Department in consultation with the Department of Buildings.
+42 “(d) Nothing in this section shall be construed to limit the applicability of any other
+43 environmental standards, including the Green Building Act of 2006, effective March 8, 2007
+44 (D.C. Law 16-234; D.C. Official Code § 6-1451.01 et seq.).
+45 “(e) This section shall expire upon the effective date of final regulations promulgated
+46 pursuant to section 2(b)(1) of the Clean Energy DC Building Code Amendment Act of 2022,
+47 effective September 21, 2022 (D.C. Law 24-177; D.C. Official Code § 6-1453.01(b)(1)).”.
+48 Sec. 3. The Clean Energy DC Building Code Amendment Act of 2022, effective
+49 September 21, 2022 (D.C. Law 24-177; D.C. Official Code § 6-1453.01 et seq.), is amended by
+50 inserting a new section 2a to read as follows:
+51 “Sec. 2a. Report on barriers to net zero energy ready affordable housing development.
+52 “(a) No later than March 1, 2026, and every six months thereafter, the Department shall
+53 submit to the Council a report detailing its progress toward developing the regulations required
+54 by section 2. Each report must include a discussion of major questions that the Department needs
+55 to resolve before it can issue the regulations, plans to resolve those questions, and comments on
+56 any existing laws that pose significant challenges to successful development and implementation
+57 of the regulations. The Department may also include recommended changes to existing laws that
+58 would allow substantial affordable housing development and preservation to continue while still
+
+59 securing meaningful, immediate reductions in energy waste, greenhouse gas emissions, and
+60 onsite fossil fuel combustion.
+61 “(b) In preparing each report required under this section, the Department shall hold at
+62 least 1 public meeting with the Department of Energy and Environment, local climate advocacy
+63 organizations, and housing development and preservation professionals with substantial
+64 experience delivering high-efficiency projects in the District.
+65 “(c) Nothing in this section shall be construed to establish a new cause of action to
+66 challenge the validity of any regulations issued pursuant to section 2.
+67 “(d) This section shall expire upon the effective date of final regulations promulgated
+68 pursuant to section 2(b)(1).”.
+69 Sec. 4. Section 3(a) of the Green Building Act of 2006, effective March 8, 2007 (D.C.
+70 Law 16-234; D.C. Official Code § 6-1451.02(a)), is amended as follows:
+71 (a) Paragraph (3) is amended as follows:
+72 (1) Subparagraph (A) amended by striking the semicolon and inserting the phrase
+73 “; and” in its place.
+74 (2) Subparagraph (B) is amended by striking the phrase “; and” and inserting a
+75 period in its place.
+76 (3) Subparagraph (C) is repealed.
+77 (b) Paragraph (6) is amended by striking the phrase “shall maintain net zero energy
+78 compliance and fulfill” and inserting the phrase “shall fulfill” in its place.
+79 Sec. 5. Fiscal impact statement.
+80 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+81 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+82 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+
+83 Sec. 6. Effective date.
+84 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+85 the Mayor, action by the Council to override the veto), a 30-day period of congressional review
+86 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+87 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+88 Columbia Register.
+89 (b) This act shall expire after 225 days of its having taken effect.

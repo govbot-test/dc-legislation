@@ -1,0 +1,668 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+_____________________________ _____________________________
+Chairman Phil Mendelson Councilmember Brianne K. Nadeau
+A BILL
+_________________________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+_________________________
+1 To amend Chapter 39 of Title 28 of the District of Columbia Official Code to clarify the
+2 application of the Consumer Protection Procedures Act and provide enhanced remedies
+3 to secure compliance, to authorize fines, costs, and fees for failure to fully comply with
+4 an investigative subpoena, to clarify that that Federal Trade Commission precedents
+5 should be interpreted in a manner most favorable to consumers, to grant additional
+6 consumer protection enforcement authority to the Department of Licensing and
+7 Consumer Protection, to clarify that unlawful and abusive trade practices are prohibited,
+8 to clarify complaint procedures, to prohibit retaliation for consumer complaints and
+9 aiding and abetting prohibited trade practices, to expressly authorize asset freezes as
+10 injunctive relief, to set mandatory minimum penalties for violations and recovery of costs
+11 and fees for enforcement and investigative actions in Attorney General actions, to require
+12 confidentiality agreements and protective orders entered into by the Attorney General to
+13 permit sharing confidential documents with law enforcement agencies abiding by the
+14 agreement or protective order, to authorize the use of interrogatories in investigations, to
+15 specify that service may be made by any method reasonably calculated to give actual
+16 notice, to allow use of sworn investigative statements for perjury prosecutions, and to
+17 allow the Mayor to issue rules concerning the Department of Consumer and Regulatory
+18 Affairs and the Attorney General to issue any other rules necessary to carry out the
+19 chapter; to amend the Attorney General for the District of Columbia Clarification and
+20 Elected Term Amendment Act of 2010 to authorize the use of interrogatories in
+21 investigations; and to amend the Criminal Abuse and Neglect of Vulnerable Adults Act
+22 of 2000 to clarify that injunctive relief may include affirmative action.
+23
+24
+25 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+26 act may be cited as the “Enhancing Consumer Protection Procedures Amendment Act of 2025”.
+1
+
+27 Sec. 2. The Attorney General for the District of Columbia Certification and Elected Term
+28 Amendment Act of 2010, effective May 27, 2010 (D.C. Law 18-160; D.C. Official Code § 1-
+29 301.81 et seq.) is amended as follows:
+30 (a) Section 110a (D.C. Official Code § 1–301.88d) is amended to read as follows:
+31 “(a) In an investigation into unfair, deceptive, unconscionable, or fraudulent trade
+32 practices by or between a merchant or consumer, as defined in § 28-3901, the Attorney General
+33 or the Attorney General’s designee may:
+34 “(1) Subpoena witnesses;
+35 “(2) Administer oaths;
+36 “(3) Examine an individual under oath;
+37 “(4) Require sworn answers in writing to written interrogatories; or
+38 “(5) Compel production of records, books, papers, contracts, and other
+39 documents, verified by a sworn certificate of completion.
+40 “(b) Subpoenas or interrogatories issued pursuant to subsection (a) of this section or § 28-
+41 3910 shall contain the following:
+42 “(1) The name of the person from whom testimony is sought or the documents or
+43 materials requested;
+44 “(2) The person at the Office of the Attorney General to whom the documents
+45 shall be provided;
+46 “(3) A detailed list of the specific documents, books, papers, or objects being
+47 requested, if any;
+48 “(4) The date, time, and place that the recipient is to appear to give testimony or
+49 produce the materials specified under paragraph (3) of this subsection, or both;
+2
+
+50 “(5) A short, plain statement of the recipient’s rights and the procedure for
+51 enforcing and contesting the subpoena; and
+52 “(6) The signature of the Attorney General, Chief Deputy Attorney General,
+53 Deputy Attorney General, or Assistant Deputy Attorney General approving the subpoena request.
+54 “(c) Unless otherwise permitted by the Office of the Attorney General, only attorneys for
+55 the Office of the Attorney General and their staff, other people involved in the investigation, the
+56 witness under examination, his or her attorney, interpreters when needed, and, for the purpose of
+57 taking the evidence, a stenographer or operator of a recording device may be present during the
+58 taking of testimony.
+59 “(d) In the case of refusal to comply fully with a subpoena or interrogatories issued under
+60 this section, the Attorney General may petition the Superior Court of the District of Columbia for
+61 an order requiring complete compliance and where appropriate, imposing a fine payable to the
+62 District. In assessing any fine for incomplete or inadequate compliance with the subpoena, the
+63 court shall consider the income and assets of the person or entity being fined to ensure that the
+64 monetary fine meaningfully deters inadequate compliance. Any failure to obey the order of the
+65 court may be treated by the court as contempt.
+66 “(e) Any person to whom a subpoena has been issued under this section or pursuant to §
+67 28-3910 may exercise the privileges enjoyed by all witnesses, and may move to quash or modify
+68 the subpoena in the Superior Court of the District of Columbia on grounds including:
+69 “(1) The Attorney General failed to follow or satisfy the procedures set forth in
+70 this section; or
+71 “(2) Any grounds that exist under statute or common law for quashing or
+72 modifying a subpoena or request for interrogatories.
+3
+
+73 “(f) In any action in the Superior Court of the District of Columbia pertaining to a
+74 subpoena issued under this section, the Attorney General shall be entitled to recover the costs of
+75 the action and reasonable attorneys’ fees.”.
+76 (b) Section 110b (D.C. Official Code § 1–301.88e) is amended to read as follows:
+77 “(a) Notwithstanding section 110(a), and subject to the requirements of this section, for
+78 the purposes of seeking relief under sections 207 and 208 of the Criminal Abuse and Neglect of
+79 Vulnerable Adults Act of 2000, effective November 23, 2016 (D.C. Law 21-166; D.C. Official
+80 Code §§ 22-937 and 22-938), the Attorney General or the Attorney General’s designee shall have
+81 the authority to:
+82 “(1) Subpoena witnesses;
+83 “(2) Administer oaths;
+84 “(3) Examine an individual under oath;
+85 “(4) Require sworn answers in writing to written interrogatories; or
+86 “(5) Compel production of records, books, papers, contracts, and other
+87 documents, verified by a sworn certificate of completion.
+88 “(b)(1) Authority established by this section may only be used in furtherance of seeking
+89 relief under §§ 22-937 and 22-938.
+90 “(2) Testimony obtained pursuant to this authority shall not be used in furtherance
+91 of a criminal investigation related to a violation of § 22-933.01 and shall not be admissible in a
+92 criminal proceeding against the person who provided the information.
+93 “(c) The Attorney General shall not have authority under this section if an indictment,
+94 information, or petition has been filed with the court formally charging the target of the
+95 investigation with a violation of § 22-933.01.
+4
+
+96 “(d) Powers pursuant to this section shall not be delegated other than to the Chief Deputy
+97 Attorney General, a Deputy Attorney General, or an Assistant Deputy Attorney General.
+98 “(e) Subpoenas or requests for interrogatories issued pursuant to this section shall contain
+99 the information required in § 1-301.88d(b).
+100 “(f) Unless otherwise permitted by the Office of the Attorney General, only attorneys for
+101 the Office of the Attorney General and their staff, other people involved in the investigation, the
+102 witness under examination, his or her attorney, interpreters when needed, and, for the purpose of
+103 taking the evidence, a stenographer or operator of a recording device may be present during the
+104 taking of testimony.
+105 “(g) In the case of refusal to obey a subpoena or request for interrogatories issued under
+106 this section, the Attorney General may petition the Superior Court of the District of Columbia for
+107 an order requiring compliance and where appropriate, imposing a fine payable to the District.
+108 Any failure to obey the order of the court may be treated by the court as contempt. In any action
+109 in the Superior Court of the District of Columbia pertaining to a subpoena issued under this
+110 section, the Attorney General shall be entitled to recover the costs of the action and reasonable
+111 attorneys’ fees.
+112 “(h) Any person to whom a subpoena or request for interrogatories has been issued under
+113 this section may exercise the privileges enjoyed by all witnesses and may move to quash or
+114 modify the subpoena in the Superior Court of the District of Columbia on grounds including:
+115 “(1) The Attorney General failed to follow or satisfy the procedures set forth in
+116 this section;
+117 “(2) The Attorney General lacked the authority to issue the subpoena or request
+118 for interrogatories under this section; or
+5
+
+119 “(3) Any other grounds that exist under statute or common law for quashing or
+120 modification of a subpoena or request for interrogatories.”
+121 Sec. 3. The Criminal Abuse and Neglect of Vulnerable Adults Act of 2000, effective June
+122 8, 2001 (D.C. Law 13-301; D.C. Official Code § 22-931 et seq.), is amended as follows:
+123 (a) Section 207(a)(1) (D.C. Official Code § 22–937(a)(1)) is amended to read as follows:
+124 “(1) A temporary or permanent injunction, including requiring the violator to take
+125 affirmative action;”.
+126 (b) Section 208(a) (D.C. Official Code § 22–938(a)) is amended as follows:
+127 (1) Paragraph (1) is amended to read as follows:
+128 “(1) A temporary restraining order, including requiring the violator to take
+129 affirmative action;”.
+130 (2) Paragraph (2) is amended to read as follows:
+131 “(2) A preliminary injunction, including requiring the violator to take affirmative
+132 action;”.
+133 Sec. 4. Chapter 39 of Title 28 of the District of Columbia Official Code is amended as
+134 follows:
+135 (a) Section 28-3901 is amended as follows:
+136 (1) Subsection (a) is amended as follows:
+137 (A) Paragraph (2) is amended to read as follows:
+138 “(2) “Consumer” means:
+139 “(A) When used as a noun, a person who, other than for purposes of
+140 resale, does or would purchase, lease (as lessee), or receive consumer goods or services,
+6
+
+141 including as a co-obligor or surety or does or would otherwise provide the economic demand for
+142 a trade practice, or who donates money or goods to a charitable or other non-profit organization;
+143 “(B) When used as an adjective, describes anything, without exception,
+144 that:
+145 “(i) A person does or would purchase, lease (as lessee), or receive
+146 and normally use for personal, household, or family purposes, or money or goods a person
+147 donates or would donate to a charitable purposes or other non-profit organization; or
+148 “(ii) A person described in § 28-3905(k)(1)(B) or (C) purchases or
+149 receives in order to test or evaluate qualities pertaining to use for personal, household, family, or
+150 charitable purposes.”.
+151 (B) Paragraph (3) is amended to read as follows:
+152 “(3) “Merchant” means a person, whether organized or operating for profit or for
+153 a nonprofit purpose, who in the ordinary course of business does or would sell, lease (to), supply,
+154 or transfer, either directly or indirectly and with or without cost to the consumer, consumer goods
+155 or services, or a person who in the ordinary course of business does or would supply the goods or
+156 services that are or would be the subject matter of a trade practice. For the purposes of this
+157 chapter:
+158 “(A) A person need not have a contractual relationship with the consumer
+159 to qualify as a merchant.
+160 “(B) A merchant may also include a person, who, in the ordinary course of
+161 business, provides goods or services to or on behalf of a merchant in the course of, related to, or
+162 incidental to a consumer transaction.
+7
+
+163 “(C) A merchant shall include the successors or assigns of a merchant, and
+164 such successors or assigns shall be subject to the same claims and defenses the consumer had
+165 against any predecessor merchant.
+166 “(D) A merchant shall include persons involved in the conduct or
+167 execution of a charitable solicitation.”.
+168 (C) Paragraph (6) is amended by striking the phrase “a sale, lease or
+169 transfer, of consumer goods or services;” and inserting the phrase “a sale, lease, or transfer of a
+170 consumer good or service, or charitable solicitation;” in its place.
+171 (D) Paragraph (7) is amended by striking the phrase “real estate
+172 transactions, and consumer services of all types;” and inserting the phrase “charitable donations,
+173 real estate transactions, and consumer services of all types;” in its place.
+174 (E) Paragraph (10) is amended to read as follows:
+175 “(10) “Chief of the Office of Enforcement” means the senior administrative
+176 officer of the Department’s Office of Enforcement who is delegated the responsibility of carrying
+177 out certain duties specified under section 28-3905;”.
+178 (F) Paragraph (12) is amended by striking the phrase “; and” and inserting
+179 a semicolon in its place.
+180 (G) Paragraph (13) is amended by striking the period and inserting a
+181 semicolon in its place.
+182 (H) Paragraph (14)(B) is amended by striking the period and inserting a
+183 semicolon in its place.
+184 (I) Paragraph (15) is amended by striking the period and inserting the
+185 phrase “; and” in its place.
+8
+
+186 (J) A new paragraph 16 is added to read as follows:
+187 “(16) “Infant formula product” means a food which purports to be, or is
+188 represented for special dietary use solely as, a food for infants by reason of its simulation of
+189 human milk or its suitability as a complete or partial substitute for human milk.”.
+190 (2) Subsection (b) is amended as follows:
+191 (A) Paragraph (1) is amended to read as follows:
+192 “(1) assure that a just mechanism exists to remedy all improper trade practices, by
+193 any merchant and at any stage or related or necessary point in the economic process whether
+194 before, during the course of, or after the original transaction;”.
+195 (B) Paragraph (2) is amended by striking the phrase “; and” and inserting a
+196 semicolon in its place.
+197 (C) Paragraph (3) is amended by striking the period and inserting the
+198 phrase “; and” in its place.
+199 (D) A new paragraph (4) is added to read as follows:
+200 “(4) deter the continuing use of such practices.”.
+201 (3) Subsection (d) is amended to read as follows:
+202 “(d) In construing the terms of this chapter, due consideration and weight shall be given
+203 to:
+204 “(1) The interpretation by the Federal Trade Commission and the federal courts of
+205 the term "unfair or deceptive act or practice," as employed in section 5(a) of An Act To create a
+206 Federal Trade Commission, to define its powers and duties, and for other purposes, approved
+207 September 26, 1914 (38 Stat. 719; 15 U.S.C. § 45(a));
+9
+
+208 “(2) Interpretative guidance, including but not limited to the Guides for the Use of
+209 Environmental Marketing Claims published by the Federal Trade Commission (the “Green
+210 Guides,” 16 C.F.R. Part 260); and
+211 “(3) The interpretation by the Consumer Financial Protection Bureau and the
+212 federal courts of the term "abusive act or practice," as employed in section 1031(d) of the Dodd-
+213 Frank Wall Street Reform and Consumer Protection Act, approved July 21, 2010 (124 Stat. 2005;
+214 12 U.S.C. 5531(d)).”.
+215 (4) A new subsection (f) is added to read as follows:
+216 “(f) In any action brought under this chapter, the burden of proof shall be by
+217 preponderance of the evidence, unless otherwise specified in this chapter.”.
+218 (b) Section 28-3902 is amended as follows:
+219 (1) Subsection (c) is amended to read as follows:
+220 “(c) The Director of the Department of Licensing and Consumer Protection shall exercise
+221 the powers set forth in section 28-3905 through the Office of Enforcement, and shall appoint a
+222 Chief of the Office of Enforcement, who may carry out investigative, conciliatory, and other
+223 duties assigned by the Director.”.
+224 (1) Subsection (e) is repealed.
+225 (2) Subsection (i) is repealed.
+226 (c) Section 28-3903 is amended as follows:
+227 (1) Subsection (a) is amended as follows:
+228 (A) New paragraphs (3A) and (3B) are added to read as follows:
+229 “(3A) Summarily suspend a license for failure to comply with the Department’s
+230 cease and desist order as determined by the Department in accordance with § 28-3903a;
+10
+
+231 “(3B) Summarily suspend a license if the Department determines that trade
+232 practices are in violation of District law and present an imminent danger to the health, safety, or
+233 welfare of persons in the District in accordance with § 28-3903a;”.
+234 (B) Paragraph 6 is amended by striking the phrase “the interest of the
+235 District of Columbia consumer public;” and inserting the phrase “the interest of consumers in the
+236 District of Columbia;” in its place.
+237 (C) Paragraph (7) is amended by striking the phrase “to the consumer
+238 public of the District of Columbia;” and inserting the phrase “to consumers in the District of
+239 Columbia;” in its place.
+240 (D) Paragraph (9) is amended by striking the phrase “promote the welfare
+241 of District of Columbia consumers;” and inserting the phrase “promote the welfare of consumers
+242 in the District of Columbia;” in its place.
+243 (E) Paragraph (12) is amended by striking the phrase “and sign consent
+244 decrees;” and inserting the phrase “and sign consent decrees and settlement agreements;” in its
+245 place.
+246 (F) Paragraph (17) is amended by striking the phrase “Class 2 infraction”
+247 and inserting the phrase “Class 1 infraction” in its place.
+248 (2) Subsection (b)(2) is repealed.
+249 (d) A new section 28-3903a is added to read as follows:
+250 “Sec. 28-3903a. Cease and desist orders; summary suspension.
+251 “(a) If the Department, after investigation, has cause to believe that a person is violating
+252 any provision of this title and the violation has caused, or may cause, immediate and irreparable
+253 harm to the public, the Department may issue an order requiring the alleged violator to cease and
+11
+
+254 desist immediately from the violation. The order shall be served by certified mail or delivery in
+255 person.
+256 “(b) If a person fails to comply with a lawful order of the Department under this section,
+257 the Department may summarily suspend a license as set forth in this section.
+258 “(c) If the Department determines, after investigation, that the operations of a licensee
+259 present an imminent danger to the health or safety of the public, or that the licensee has ignored a
+260 cease and desist order issued by the Department, the Department may summarily suspend,
+261 without a hearing, a license issued by the Department.
+262 “(d) If the Department orders the suspension of a license, the Department shall post 2
+263 notices in conspicuous places at or near the main street entrance of the outside of the
+264 establishment.
+265 “(e) The posted notice shall state that the license has been suspended, the period of
+266 suspension, and that the suspension is ordered because of a violation of this title or of the
+267 regulations promulgated under this title.
+268 “(f) Any person willfully removing, obliterating, or defacing the notice shall be guilty of
+269 a violation of this chapter.
+270 “(g) A licensee may request a hearing within 3 business days after service of notice of a
+271 summary suspension. The Office of Administrative Hearings shall hold a hearing within 3
+272 business days of receipt of a timely request and shall issue a decision within 3 business days after
+273 the hearing.
+274 “(h) A person aggrieved by a final summary action may file an appeal in accordance with
+275 the procedures set forth in subchapter I of Chapter 5 of Title 2, § 2-501 et seq.”.
+276 (e) Section 28-3904 is amended to read as follows:
+12
+
+277 “(a) It shall be a violation of this chapter for any merchant to engage in an unfair,
+278 deceptive, or abusive trade practice, whether or not any consumer is in fact misled, deceived, or
+279 damaged thereby. Without limiting the general application of the foregoing, it is an unfair,
+280 deceptive, or abusive trade practice prohibited by this chapter to:
+281 “(1) Represent that goods or services have a source, sponsorship, approval,
+282 certification, accessories, characteristics, ingredients, uses, benefits, or quantities that they do not
+283 have;
+284 “(2) Represent that the person has a sponsorship, approval, status, affiliation,
+285 certification, or connection that the person does not have;
+286 “(3) Represent that goods are original or new if in fact they are deteriorated,
+287 altered, reconditioned, reclaimed, or second hand, or have been used;
+288 “(4) Represent that goods or services are of particular standard, quality, grade,
+289 style, or model, if in fact they are of another;
+290 “(5) Misrepresent as to a material fact which has a tendency to mislead;
+291 “(6) Represent that a transaction confers or involves rights, remedies, or
+292 obligations which it does not have or involve, or which are prohibited by law;
+293 “(7) Fail to state a material fact if such failure tends to mislead;
+294 “(8) Use innuendo or ambiguity as to a material fact, which has a tendency to
+295 mislead;
+296 “(9) Disparage the goods, services, or business of another by false or misleading
+297 representations of material facts;
+298 “(10) Advertise or offer goods or services without the intent to sell them or
+299 without the intent to sell them as advertised or offered;
+13
+
+300 “(11) Advertise or offer goods or services without supplying reasonably expected
+301 public demand, unless the advertisement or offer discloses a limitation of quantity or other
+302 qualifying condition which has no tendency to mislead;
+303 “(12) Make false or misleading representations of fact concerning the reasons for,
+304 existence of, or amounts of price reductions, or the price in comparison to price of competitors or
+305 one’s own price at a past or future time;
+306 “(13) Falsely state that services, replacements, or repairs are needed;
+307 “(14) Falsely state the reasons for offering or supplying goods or services at sale
+308 or discount prices;
+309 “(15) Harass or threaten a consumer with any act other than legal process, either
+310 by telephone, cards, letters, or any form of electronic or social media;
+311 “(16) Cease work on, or return after ceasing work on, an electrical or mechanical
+312 apparatus, appliance, chattel or other goods, or merchandise, in other than the condition
+313 contracted for, or to impose a separate charge to reassemble or restore such an object to such a
+314 condition without notification of such charge prior to beginning work on or receiving such
+315 object;
+316 “(17) Replace parts or components in an electrical or mechanical apparatus,
+317 appliance, chattel or other goods, or merchandise when such parts or components are not
+318 defective, unless requested by the consumer;
+319 “(18) Falsely state or represent that repairs, alterations, modifications, or servicing
+320 have been made and receiving remuneration therefor when they have not been made;
+14
+
+321 “(19) Fail to supply to a consumer a copy of a sales or service contract, lease,
+322 promissory note, trust agreement, or other evidence of indebtedness which the consumer may
+323 execute;
+324 “(20) Make or enforce unconscionable terms or provisions of sales, leases, or any
+325 other form of consumer contract, agreement, or transaction; in applying this subsection,
+326 consideration shall be given to the following, and other factors:
+327 “(A) Knowledge by the merchant at the time credit sales are consummated
+328 that there was no reasonable probability of payment in full of the obligation by the consumer;
+329 “(B) Knowledge by the merchant at the time of the sale or lease of the
+330 inability of the consumer to receive substantial benefits from the property or services sold or
+331 leased;
+332 “(C) Gross disparity between the price of the property or services sold or
+333 leased and the value of the property or services measured by the price at which similar property
+334 or services are readily obtainable in transactions by like buyers or lessees;
+335 “(D) That the merchant contracted for or received separate charges for
+336 insurance with respect to credit sales with the effect of making the sales, considered as a whole,
+337 unconscionable; and
+338 “(E) That the merchant has knowingly taken advantage of the inability of
+339 the consumer reasonably to protect their interests in selecting or using the product or service by
+340 virtue of circumstances such as age, physical or mental abilities, lack of relevant knowledge,
+341 reading ability, or difficulty understanding the language of the agreement, or similar factors;
+342 “(21) Pass off goods or services as those of another;
+15
+
+343 “(22) Use deceptive representations or designations of geographic origin in
+344 connection with goods or services;
+345 “(23) Represent that the subject of a transaction has been supplied in accordance
+346 with a previous representation when it has not;
+347 “(24) Misrepresent the authority of a salesman, representative or agent to
+348 negotiate the final terms of a transaction;
+349 “(25) Offer for sale or distribute any consumer product which is not in conformity
+350 with an applicable consumer product safety standard or has been ruled a banned hazardous
+351 product under the federal Consumer Product Safety Act (15 U.S.C. § 2051-83, without holding a
+352 certificate issued in accordance with section 14(a) of that Act to the effect that such consumer
+353 product conforms to all applicable consumer product safety rules (unless the certificate holder
+354 knows that such consumer product does not conform), or without relying in good faith on the
+355 representation of the manufacturer or a distributor of such product that the product is not subject
+356 to a consumer product safety rule issued under that Act;
+357 “(26) Sell consumer goods in a condition or manner not consistent with that
+358 warranted by operation of sections 28:2-312 through 28:2-318, or by operation or requirement of
+359 federal law;
+360 “(27) Retaliate against any person for:
+361 “(A) Filing a consumer complaint with any agency tasked with the
+362 enforcement of these provisions;
+363 “(B) Filing a lawsuit in court pursuant to this chapter;
+364 “(C) Making any manner of complaint, grievance, or communication to a
+365 company accused of violating provisions of this chapter;
+16
+
+366 “(D) Assisting or participating in any manner in an investigation,
+367 proceeding, or hearing under this chapter.
+368 “(28) Materially interfere with the ability of a consumer to review or understand a
+369 term or condition of a consumer contract, agreement, or transaction;
+370 “(29) Take unreasonable advantage of:
+371 “(A) A lack of understanding on the part of the consumer of the material
+372 risks, costs, or conditions of the product or service;
+373 “(B) The inability of the consumer to protect their interests in selecting or
+374 using a consumer financial product or service; or
+375 “(C) The reasonable reliance by the consumer on a merchant purporting to
+376 act in the interest of the consumer.
+377 “(b) It shall be a violation of this chapter for any merchant to engage in a trade practice in
+378 violation of any law of the District of Columbia, whether or not any consumer is in fact misled,
+379 deceived, or damaged thereby. Without limiting the general application of the foregoing, it is an
+380 unlawful trade practice prohibited by this chapter to:
+381 “(1) Violate any provision of the District of Columbia Consumer Lay Away Plan
+382 Act (§ 28-3818);
+383 “(2) Violate any provision of the Rental Housing Locator Consumer Protection
+384 Act of 1979 (§ 28-3819) or, if a rental housing locator, to refuse or fail to honor any obligation
+385 under a rental housing locator contract;
+386 “(3) Violate any provision of Chapter 46 of this title;
+387 “(4) Violate any provision of §§ 32-404, 32-405, 32-406, and 32-407;
+17
+
+388 “(5) Refuse to provide the repairs, refunds, or replacement motor vehicles or fails
+389 to provide the disclosures of defects or damages required by the Automobile Consumer
+390 Protection Act of 1984;
+391 “(6) Violate any provision of the Real Property Credit Line Deed of Trust Act of
+392 1987;
+393 “(7) Violate any provision of title 16 of the District of Columbia Municipal
+394 Regulations;
+395 “(8) Violate any provision of the Public Insurance Adjuster Act of 2002 [Chapter
+396 16A of Title 31];
+397 “(9) Violate any provision of Chapter 33 of this title;
+398 “(10) Violate any provision of the Home Equity Protection Act of 2007 [Chapter
+399 24A of Title 42];
+400 “(11) Fail to make a disclosure as required by § 26-1113(a-1);
+401 “(12) Violate any provision of Chapter 53 of this title;
+402 “(13) Violate any agreement entered into pursuant to § 28-3909(c)(6);
+403 “(14) Violate any provision of subchapter 2 of Chapter 38 of this title;
+404 “(15) Sell or offer for sale any infant formula product at a price greater than 20%
+405 above the average price at which that person sold or offered for sale a substantially similar infant
+406 formula product in the District during the 90-day period preceding February 17, 2022, or, if the
+407 person did not sell or offer for sale infant formula during the 90-day period preceding February
+408 17, 2022, to sell or offer for sale any infant formula product at a price greater than 20% above the
+409 average price at which substantially similar retailers sold or offered for sale substantially similar
+410 infant formula products in the District during the 90-day period preceding February 17, 2022;
+18
+
+411 “(16) Violate any provision of § 28-3814.
+412 “(c) It shall be a violation of this chapter for a person, whether or not a merchant, to aid
+413 and knowingly or recklessly abet the commission of an unfair, deceptive, abusive, or unlawful
+414 trade practice by a merchant, and regardless of whether the manner in which the person aids and
+415 abets the unlawful action is itself a trade practice.”.
+416 (f) Section 28-3905 is amended as follows:
+417 (1) Subsection (e) is amended as follows:
+418 (A) Paragraph (1) is amended to read as follows:
+419 “(1) Effect a consent decree or settlement agreement;”.
+420 (B) Paragraph (3) is amended to read as follows:
+421 “(3) Through the Chief of the Office of Enforcement present to the Office of
+422 Adjudication, with copies to all parties, a brief and plain statement of each trade practice that
+423 occurred in violation of District law, the law the trade practice violates, and the relief sought
+424 from the Office of Adjudication for violation; or”.
+425 (2) Subsection (f) is amended to read as follows:
+426 “(f) When the case is transmitted to the Office of Adjudication, the Chief of the Office of
+427 Enforcement shall sign, and serve the respondent, the Department’s summons to answer or
+428 appear before the Office of Adjudication. Not less than 15 nor more than 90 days after such
+429 transmittal, the case shall be heard. The case shall proceed under section 10 of the District of
+430 Columbia Administrative Procedure Act (section 2-509). The Office of Adjudication may,
+431 without delaying its hearing or decision, attempt to settle the case pursuant to subsection (h) of
+432 this section, and has discretion to permit any stipulation, consent decree, or settlement agreement
+433 the parties agree to. The Director shall be a party on behalf of the complainant. Applications to
+19
+
+434 intervene shall be decided as may be proper or required by law or rule. Reasonable discovery
+435 shall be freely allowed. Any finding or decision may be modified or set aside, in whole or part,
+436 before a notice of appeal is filed in the case, or the time to so file has run out.”.
+437 (3) Subsection (h) is amended as follows:
+438 (A) Paragraph (2) is amended to read as follows:
+439 “(2) The representative of the Department shall administer the settlement
+440 proceedings and may utilize the good offices of the Advisory Committee on Consumer
+441 Protection. All settlement proceedings shall be informal and include all interested parties and
+442 such representatives as the parties may choose to represent them. Such proceedings shall be
+443 private, and nothing said or done, except a consent decree or settlement agreement, shall be made
+444 public by the Department, any party, or the Advisory Committee, unless the parties agree thereto
+445 in writing. The representative of the Department may call settlement conferences. For persistent
+446 and unreasonable failure by the complainant to attend such conferences or to take part in other
+447 settlement proceedings, the Director, prior to transmittal to the Office of Adjudication, may
+448 dismiss the case.”.
+449 (B) Paragraph (3) is amended to read as follows:
+450 “(3) A consent decree or settlement agreement described in paragraph (1) of this
+451 subsection may be modified by agreement of the Department, complainant and respondent.”.
+452 (4) Subsection (i)(3) is amended as follows:
+453 (A) Subparagraph (A) is amended to read as follows:
+454 “(3)(A) Any person found to have executed a trade practice in violation of a law
+455 of the District within the jurisdiction of the Department may be liable for a civil penalty equaling
+456 the amount of a Class 1 infraction pursuant to 16 DCMR § 3200.1(b) for each failure to adhere to
+20
+
+457 a provision of an order described in subsection (f), (g), or (j) of this section, or a consent decree
+458 or settlement agreement described in subsection (h) of this section.”.
+459 (B) Subparagraph (B) is amended to read as follows:
+460 “(B) The Department, the complainant, or the respondent may sue in the
+461 Superior Court of the District of Columbia for a remedy, enforcement, or assessment or
+462 collection of a civil penalty, when any violation, or failure to adhere to a provision of a consent
+463 decree or settlement agreement described in subsection (h) of this section, or an order described
+464 in subsection (f), (g), or (j) of this section, has occurred. The Department shall sue in that Court
+465 for assessment of a civil penalty when an order described in subsection (g) of this section has
+466 been issued and become final. A failure by the Department or any person to file suit or prosecute
+467 under this subparagraph in regard to any provision or violation of a provision of any consent
+468 decree, settlement agreement, or order shall not constitute a waiver of such provision or any right
+469 under such provision. The Court shall levy the appropriate civil penalties and reasonable
+470 attorney’s fees, and may order, if supported by evidence, temporary, preliminary, or permanent
+471 injunctions, damages, treble damages, consumer redress, or other remedy. The Court may set
+472 aside the final order if the Court determines that the Department of Licensing and Consumer
+473 Protection lacked jurisdiction over the respondent or that the complaint was frivolous. If, after
+474 considering an application to set aside an order of the Department of Licensing and Consumer
+475 Protection, the Court determines that the application was frivolous or that the Department of
+476 Licensing and Consumer Protection lacked jurisdiction, the Court shall award reasonable
+477 attorney’s fees.”.
+478 (5) Subsection (j) is amended by striking the phrase “the Chief of the Office of
+479 Compliance” and inserting the phrase “the Chief of the Office of Enforcement” in its place.
+21
+
+480 (6) Subsection (k) is amended as follows:
+481 (A) Paragraph (1) is amended as follows:
+482 (i) Paragraph (B) is amended by striking the phrase “or family
+483 purposes.” and inserting the phrase “family, or charitable purposes.” in its place.
+484 (ii) Paragraph (C) is amended by striking the phrase “or family
+485 purposes.” and inserting the phrase “family, or charitable purposes.” in its place.
+486 (C) Paragraph (2) is amended to read as follows:
+487 “(2) Any claim under this chapter shall be brought in the Superior Court of the
+488 District of Columbia and may recover or obtain the following remedies:
+489 “(A)(i) Treble damages, or $3,000 per violation, which shall be adjusted
+490 for inflation using the greater of either 3% annually or the percentage increase in the Consumer
+491 Price Index for the Washington-Baltimore Metropolitan Statistical Area for all urban consumers
+492 published by the Department of Labor or any successor index, beginning from January 1, 2023,
+493 payable to the consumer;
+494 “(ii) Notwithstanding sub-subparagraph (i) of this subparagraph,
+495 for a violation of § 28-3904(kk), a consumer may recover or obtain actual damages, which shall
+496 not include dignitary damages, including pain and suffering. This exclusion does not limit the
+497 availability of dignitary damages for violations of any other provision of this section.
+498 “(B) Reasonable attorney’s fees;
+499 “(C) Punitive damages;
+500 “(D) An injunction against the use of the unlawful trade practice;
+22
+
+501 “(E) In representative actions, additional relief as may be necessary to
+502 restore to the consumer money or property, real or personal, which may have been acquired by
+503 means of the unlawful trade practice; or
+504 “(F) Any other relief which the court determines proper.”.
+505 (D) A new paragraph (2A) is added to read as follows:
+506 “(2A) Any prevailing consumer under this chapter shall also recover reasonable
+507 attorney’s fees and costs to be paid by the defendant in accordance with the method cited in § 32-
+508 1308(b), except that attorney’s fees shall not be considered costs.”.
+509 (E) Paragraph (5) is amended to read as follows:
+510 “(5) An action brought by a person under this subsection against a nonprofit
+511 organization shall be based on a dispute arising from a trade practice and not based solely on
+512 membership in such organization, membership services, training or credentialing activities, sale
+513 of publications of the nonprofit organization, medical or legal malpractice, or other similar
+514 activity.”.
+515 (F) A new paragraph (8) is added to read as follows:
+516 “(8) Nothing in this chapter shall be construed to prevent merchants from
+517 asserting, and the court from finding, that an action by a consumer was groundless and brought
+518 in bad faith or brought for the purpose of harassment, and in such cases, the court shall award to
+519 the defendant reasonable and necessary attorney’s fees in defending the action plus all court
+520 costs.”.
+521 (7) Subsection (m) is amended as follows:
+522 (A) Paragraph (1) is amended by striking the phrase “consent decree” and
+523 inserting the phrase “consent decree or settlement agreement” in its place.
+23
+
+524 (B) Paragraph (2) is amended as follows:
+525 (i) By striking the phrase “consent decree,” and inserting the
+526 phrase “consent decree or settlement agreement,” in its place.
+527 (ii) Subparagraph (A) is repealed.
+528 (8) Subsection (p) is amended to read as follows:
+529 “(p) The Director may file a complaint in accordance with subsection (a) of this section,
+530 on behalf of one or more consumers or as complainant, based on evidence and information
+531 gathered by the Department in carrying out this chapter. Persons not parties to but directly or
+532 indirectly intended as beneficiaries of an order described in subsection (f), (g), or (j) of this
+533 section, a consent decree, or a settlement agreement described in subsection (h) of this section,
+534 arising out of a complaint filed by the Director, may enforce such order or decree in the manner
+535 provided in subsection (i)(3)(B) of this section.”.
+536 (g) Section 28-3909 is amended as follows:
+537 (1) Subsection (a) is amended to read as follows:
+538 “(a) Notwithstanding any provision of law to the contrary, if the Attorney General for the
+539 District of Columbia has reason to believe that any person has used, is using, or intends to use
+540 any method, act, or practice in violation of section 28-3803, 28-3805, 28-3807, 28-3810, 28-
+541 3811, 28-3812, 28-3814, 28-3817, 28-3818, 28-3819, 28-3851, 28-3852, [28-3852.01], [28-
+542 3852.02], or 28-3904, and if it is in the public interest, the Attorney General, in the name of the
+543 District of Columbia, may bring an action in the Superior Court of the District of Columbia to
+544 obtain a temporary or permanent injunction:
+545 “(1) Prohibiting the use of the method, act, or practice;
+24
+
+546 “(2) Requiring the violator to take affirmative action, including the restitution of
+547 money or property;
+548 “(3) Freezing, where appropriate, the alleged violator’s assets to ensure adequate
+549 funds are available to pay restitution, damages, and penalties;
+550 “(4) Placing an entity in receivership; or
+551 “(5) Dissolving an entity.”.
+552 (2) A new subsection (a-1) is added to read as follows:
+553 “(a-1) In any action under this section, the Attorney General shall not be required to
+554 prove damages and the injunction shall be issued without bond.”.
+555 (3) A new subsection (b-1) is added to read as follows:
+556 “(b-1) (1) Any request by the Attorney General for costs and fees shall be presumptively
+557 reasonable where the defendants in the action did not expend substantially less in costs and fees
+558 than the amount in the Attorney General’s request. Where the defendants in the action expended
+559 substantially less in costs and fees than the amount in the Attorney General’s request, the
+560 Attorney General may still prove the reasonableness of the request under the same standards
+561 applicable to a private plaintiff.
+562 “(2) The Attorney General may also seek reasonable costs and fees expended in a
+563 pre-suit investigation where the subject matter of the investigation was pertinent to the
+564 subsequent suit brought under this section.”.
+565 (4) Subsection (c)(4) is amended by striking the phrase “and in the extension of
+566 consumer credit;” and inserting the phrase “, in the extension of consumer credit, and in the
+567 solicitation of charitable donations;” in its place.
+568 (5) A new subsection (e) is added to read as follows:
+25
+
+569 “(e) In any action brought under this section or in an investigation by the Attorney
+570 General under § 28-3910, any confidentiality agreement or protective order agreed to by the
+571 Attorney General or otherwise entered into or enforced by a court shall permit the Attorney
+572 General to share documents designated as confidential with any law enforcement agency,
+573 provided that the law enforcement agency agrees to abide by the confidentiality restrictions in
+574 the confidentiality agreement or protective order.”.
+575 (h) Section 28-3910 is amended to read as follows:
+576 “(a)(1) In the course of an investigation to determine whether to seek relief under section
+577 28-3909, the Attorney General for the District of Columbia may:
+578 “(A) Subpoena witnesses;
+579 “(B) Administer oaths;
+580 “(C) Examine an individual under oath;
+581 “(D) Require sworn answers in writing to written interrogatories; and
+582 “(E) Compel production of records, books, papers, contracts, and other
+583 documents, verified by a sworn certificate of completion.
+584 “(2) Service of any demand document issued under this section may be made by
+585 mail, e-mail, or any other method reasonably calculated to give actual notice; provided, that the
+586 Superior Court of the District of Columbia may exercise jurisdiction over the recipient to compel
+587 a response consistent with the due process clause of the Constitution of the United States.
+588 “(3) Information obtained under this section is not admissible in a later criminal
+589 proceeding against the person who provides the information or evidence, except with respect to
+590 sworn statements that are themselves the basis for a subsequent perjury prosecution.
+26
+
+591 “(b) A subpoena or request for interrogatories issued pursuant to subsection (a) of this
+592 section shall be issued in accordance with § 1-301.88d.”.
+593 Sec. 5. Fiscal impact statement.
+594 The Council adopts the fiscal impact statement in the committee report as the fiscal
+595 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+596 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+597 Sec. 6. Effective date.
+598 This act shall take effect following approval by the Mayor (or in the event of veto by the
+599 Mayor, action by the Council to override the veto), a 60-day period of congressional review as
+600 provided in section 602(c)(2) of the District of Columbia Home Rule Act, approved December
+601 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(2)), and publication in the District of
+602 Columbia Register.
+27

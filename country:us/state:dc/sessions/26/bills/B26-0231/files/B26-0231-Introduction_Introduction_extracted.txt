@@ -1,0 +1,2578 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+April 23, 2025
+The Honorable Phil Mendelson
+Chairman
+Councilofthe District ofColumbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Contract No. CW108863 with La Clinica del Pueblo, Inc. Approval and
+Payment Authorization Emergency Act of 2025,” and the accompanying emergency declaration
+resolution.
+The legislation will approve Contract No. CW108863 with La Clinica del Pueblo, Inc., for
+substance use disorder outpatient treatment services, and Modification Nos. M0001, M0002, and
+M0003 thereto. In addition, the legislation will approve payment for the goods and services
+received and to be received under the contract and the modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contractmodifications. In orderto facilitatearesponseto any questionsyou mayhave,please have
+yourstaffcontact Mare Scott, ChiefOperating Officer, Office ofContracting and Procurement, at
+(202) 724-8759.
+Turge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Miriel Bkwser
+
+1
+2
+3
+4 at the request of the Mayor
+5
+6
+7 A BILL
+8
+9
+10
+11
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+13
+14
+15
+16
+17 To approve, on an emergency basis, Contract No. CWl 08863 with La Clinica del Pueblo, Inc.,
+18 and Modification Nos. M000l, M0002, and M0003 to Contract No. CW108863, and to
+19 authorize payment for the goods and services received and to be received under the
+20 contract and modifications.
+21
+22 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 act may be cited as the "Contract No. CW108863 with La Clinica del Pueblo, Inc. Approval and
+24 Payment Authorization Emergency Act of 2025".
+25 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+26 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+27 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+28 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Contract No.
+29 CW108863 with La Clinica del Pueblo, Inc. and Modification Nos. M000l, M0002, and M0003
+30 thereto and authorizes payment in the not-to-exceed amount of $1,600,000 for the goods and
+31 services received and to be received under the contract and modifications.
+32 Sec. 3. Fiscal impact statement.
+
+33 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+34 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+35 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+36 Sec. 4. Effective date.
+37 This act shall take effect following approval by the Mayor (or in the event of veto by the
+38 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+39 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+40 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+41 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Tipping)
+(A) Contract Number: CW108863
+Proposed Contractor: La Clinica del Pueblo, Inc.
+Proposed Contractor’s Principals: Catalina Sol, Executive Director
+Contract Amount (option year one): Not-to-exceed (NTE) $1,600,000
+Unit and Method of Compensation: Fixed service rates established in Title 22A, Chapter
+64 of DCMR
+Term of Contract: July 6, 2024, through July 5, 2025
+Type of Contract: Human Care Agreement
+Source Selection Method: Request for Qualifications
+(B) For a contract containing option periods, the contract amount for the base period and for each
+option period. If the contract amount for one or more of the option periods differs from the
+amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: NTE $700,000
+(July 6, 2023, through July 5, 2024)
+Option Period 1 Amount: NTE $1,600,000
+(July 6, 2024, through July 5, 2025)
+Explanation of difference from base period (if applicable): Option year one is higher than the base
+year due to an increase in the number of individuals in need of substance use disorder (SUD) level 1-
+2.5 outpatient treatment services in the District of Columbia.
+Option Period 2 Amount: NTE $1,600,000
+1
+
+(July 6, 2025, through July 5, 2026)
+Option Period 3 Amount: NTE $1,600,000
+(July 6, 2026, through July 5, 2027)
+Option Period 4 Amount: NTE $1,600,000
+(July 6, 2027, through July 5, 2028)
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+La Clinica del Pueblo, Inc., provides Substance Use Disorder (“SUD”) outpatient drug treatment to
+consumers in the District. The SUD outpatient treatment program is a consumer choice program that
+allows the consumer to choose from a list of certified Department of Behavioral Health (“DBH”)
+providers to seek treatment. La Clinica del Pueblo, Inc., has been receiving an influx of consumers in
+need of the services.
+This large increase in the number of consumers seeking SUD outpatient treatments services at La
+Clinica del Pueblo, Inc., has necessitated an increase in the total NTE amount for option year one for
+the provider to continue to deliver SUD outpatient treatment services.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+The District received 19 proposals in response to Request for Qualifications No. Doc650347 by the
+due date. The contracting officer conducted a responsiveness check of the proposals received,
+concluded that 17 providers were responsive to the solicitation, and therefore moved forward to the
+evaluation phase.
+These providers were evaluated in accordance with 27 DCMR Section 1905.4, including a review of
+their capability, resumes, professional qualifications of the business, the organization's staff, relevant
+professional and business licenses, and past performance providing SUD level 1-2.5 outpatient
+treatment. The District awarded the human care agreement after determining that La Clínica del
+Pueblo, Inc., was qualified and that the proposed prices which are established prices in Title 22A,
+Chapter 64 of DCMR, were fair and reasonable.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or voluntary
+corrective action by the District. Include the identity of the protestor, the grounds alleged in
+the protest, and any deficiencies identified by the District as a result of the protest:
+None
+(F) A description of any other contracts the proposed contractor is currently seeking or holds with
+the District:
+2
+
+None
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private sector
+contracts with requirements similar to those of the proposed contract:
+La Clinica del Pueblo, Inc., is an experienced provider of SUD Level 1-2.5 outpatient treatment
+services and has the necessary organizational structure, experience, technical skills, and operational
+controls to perform the requirements of the human care agreement. La Clinica del Pueblo, Inc., has
+demonstrated knowledge and experience working with the consumer population and has completed
+the necessary DBH provider training to support successful outcomes with SUD treatment for DBH
+consumers. Furthermore, DBH has confirmed the provider has maintained a substance abuse
+outpatient treatment certification in good standing and has satisfactory performance record.
+(H) The period of performance associated with the proposed change, including date as of which the
+proposed change is to be made effective:
+The period of performance associated with the proposed change is from July 6, 2024, through July 5,
+2025.
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+Modification No. M0001 fully exercised option year one in the NTE amount of $700,000.
+Modification No. M0002 increased the NTE amount of option year one by $280,000, from $700,000
+to $980,000
+Modification No. M0003 will increase the NTE amount of option year one by $620,000, from
+$980,000 to $1,600,000
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+Aggregate Dollar Value: $1,600,000.
+(K) The date on which the contracting officer was notified of the proposed change:
+The contracting officer was notified by DBH on December 17, 2024, that due to increased number of
+consumers in District in need of SUD level 1-2.5 outpatient treatment services, the NTE amount
+needs to be increased to support the increased utilization of the treatment services.
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+The contracting officer was notified by DBH during option year one that there is an increase in the
+number of individuals in the District in need of these services. La Clinica de Pueblo, Inc., is one of
+3
+
+the current providers with the capacity to support the increase in services needed to provide SUD
+level 1-2.5 outpatient treatment services for consumers in District. The contracting officer determined
+it is in the best interest of the District to seek Council approval to execute Modification No. M0003
+to increase the NTE amount for the proposed provider to support the increased number of consumers
+in need of the services.
+(M) The reason for the proposed change:
+The contracting officer was notified by DBH of the increase in the number of individuals in the
+District in need of using these services. La Clinica de Pueblo, Inc., has the capacity to support the
+increased need for SUD level 1-2.5 outpatient treatment services for consumers in the District.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+The change is in accordance with 27 DCMR § 3601.2(a),
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics
+Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A certification from
+the proposed contractor that it currently is not and will not be in violation of section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics
+Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+La Clinica de Pueblo, Inc., has self-certified, via Bidder/Offeror certification form, that it has no
+conflict of interest that may violate section 334a of the Board of Ethics and Government
+Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2011, D.C.
+Official Code § 1-1163.34a.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended, D.C.
+Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting plan
+meets the minimum requirements of the Act and the dollar volume of the portion of the contract
+to be subcontracted, expressed both in total dollars and as a percentage of the total contract
+amount:
+An exemption from 35% subcontracting requirement for option year one of this HCA was approved
+by DSLBD on May 13, 2024.
+(Q) Performance standards and the expected outcome of the proposed contract:
+La Clinica de Pueblo, Inc., shall provide SUD level 1-2.5 outpatient treatment services to consumers
+that are battling substance abuse. The expected outcome of the HCA is that the consumers will
+receive adequate treatment that will result in an improved quality of life, free of substance abuse.
+4
+
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract prior
+to its submission to the Council for approval:
+Modification No. M0001 in the NTE amount of $700,000 was executed on July 3, 2024.
+Modification No. M0002 in the NTE amount of $980,000 was executed on February 10, 2025.
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The DBH Agency Fiscal Officer has certified that funding in the amount of $1,600,000 is available.
+(T) A certification that the contract is legally sufficient, including whether the proposed contractor
+has any pending legal claims against the District:
+The Office of the Attorney General has determined that the HCA is legally sufficient, and that the
+provider has no pending legal claim against the District.
+(U) A certification that the Citywide Clean Hands database indicates that the proposed contractor
+is current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District; or
+(2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands database indicates that La Clinica de Pueblo, Inc., is current with its
+District taxes as of March 24, 2025.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+La Clinica de Pueblo, Inc., has self-certified, via Bidder/Offeror certification form, that it is current
+with its federal taxes.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise Development
+and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+La Clinica de Pueblo, Inc., is not a District certified local, small, or disadvantaged business enterprise.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None
+5
+
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+La Clinica de Pueblo, Inc., is not currently debarred from providing services to any government
+entity. The provider does not appear on the District’s excluded parties list, the Office of Inspector
+General Exclusions Database, and the System for Award Management’s exclusion record.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization contracts):
+Determination and Findings for Provider Responsibility
+Determination and Findings for Price Reasonableness
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+http://ocp.dc.gov
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+http://ocp.dc.gov
+6
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: March 24, 2025 Notice Number: L0013938458
+LA CLINICA DEL PUEBLO FEIN: **-***2551
+2831 15TH ST NW Case ID: 18517510
+WCASHINGTON DC 20009-4607
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+DEPARTMENT OF BEHAVIORAL HEALTH
+tek
+—
+—
+Officeofthe ChiefFinancial Officer
+MEMORANDUM
+To: HabibatuJalloh
+Deputy ChiefContracting Officer
+Office of Contracting andProcurement
+THRU: Delicia V. Moore
+Associate ChiefFinancial Officer
+Human Support Services Clusier
+FROM: —Adran Reid For Anthony,Gepfusen
+Agency Fiscal Officer
+DepartmentofBehavioral Health
+DATE March 25, 2025
+SUBJECT: Certification ofFunding: La Clincia Del Pueblo
+The Office ofthe Chief Financial Officer hereby certifies that the sum of $1,600,000 is included in the
+District’s Local Budget and Financial Plan submitted to Congress by the Chairman ofthe Council to the
+Speaker ofthe House ofRepresentatives for Fiscal Year 2024 and 2025 to fund the costs associated with
+the Department of Behavioral Health Human Care Agreement with La Clinica Del Pueblo, Inc., for
+Substance Use Disorder Level 1-2.5 Outpatient Treatment Services. This certification supports La Clinica
+Del Pueblo, Inc.,Human Care Agreement during theperiod from July 06,2024,through July 05,2025. The
+fund allocation is as follows:
+Vendor: La Clinica Del Pueblo Contract #: CW108863
+FiscalYear 2024 _Funding: 07/05/2024-09/30/2024
+‘Agency Fund | Program| Cost | Account|Subtask| Award| Project] Amount
+Center
+RMO__| 10100001| 700286| 70424| 7141007| 65.13 | 1000579| 202175| $50,000.00
+50,000.00
+Fiscal Year2025 _Funding: 10/01/2024 07/05/2025
+‘Agency | Fund| Program| Cost | Account| Sub | Award| Project] Amount
+Center task
+RMO 1010001| 700286 70424 | 7141007| 65.13| 1000745 $1,550,000.00
+$1,550,000.00
+
+Upon approval of the District's Local Budget and Financial Plan by the Council and the Mayor and
+completion of the thirty-day Congressional layover, funds will be sufficient to pay for fees and costs
+associated with the contract. There isno fiscal impactassociated with the contract.
+Should you haveany questions, please contact Adran Reid, Agency Fiscal Officer at(202) 671-3168.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Sarina Loy
+Deputy Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: March 20, 2025
+SUBJECT: Approval of Human Care Agreement (HCA)
+Vendor: La Clínica del Pueblo, Inc.
+HCA No.: CW108863
+Total Amount: NTE $1,600,000.00
+This is to Certify that this Office has reviewed the above-referenced Contract and that we have
+found it to be legally sufficient. If you have any questions in this regard, please do not hesitate to
+call me at 724-4018.
+______________________________
+Robert Schildkraut
+400 6th Street, NW, Suite 79100, Washington, DC 20001 (202) 727-3400 Fax (202) 347-8922
+
+AMENDMENT OF SOLICITATION / MODIFICATION OF 1. Contract Number Page of Pages
+CONTRACT CW108863 1 2
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+M0001 07/06/2024 SUD Level 1-2.5 Outpatient
+Treatment Services
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement (OCP) Department of Behavioral Health (DBH)
+On behalf of the Department of Behavioral Health 64 New York Ave NE
+64 New York Avenue, NE, 2nd Floor West Washington, DC 20002
+Washington, DC 20002 Phone: (202) 673-2200
+Email: dbh@dc.gov
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+La Clinica Del Pueblo, Inc.
+2831 15th Street, NW 9B. Dated (See Item 11)
+Washington, DC 20009 10A. Modification of Contractor/Order No.
+Attn: Carlos Plazas CW108863
+X
+Email: cplazas@lcdp.org 10B. Dated (See Item 13)
+07/06/2023
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods: (a)
+By completing Items 8 and 15, and returning one (1) copy of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT
+TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN
+REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided
+each letter or telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Contract Modifications
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office,
+appropriation data etc.) set forth in item 14, pursuant to the authority of: 27 DCMR § 3601.3 (a)
+C. This supplemental agreement is entered into pursuant to authority of: 27 DCMR § 3601.2
+X D. Other: Exercise of Option, pursuant to the authority of: 27 DCMR § 3601.3 (c)
+E. IMPORTANT: Contractor is not required is required to sign this document and return one (1) copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+The purpose of this Human Care Agreement (HCA) Modification for the above referenced HCA is as follows:
+A. In accordance with 27 DCMR § 2008 and Section F.2 Option to Extend the Term of the HCA, Option
+Year One is hereby exercised for the period of performance from July 06, 2024, through July 05, 2025,
+in the not-to-exceed amount of $700,000, pending appropriations and availability of funds.
+B. Continuation of services for the FY2024 period of performance July 06, 2024, through September 30,
+2024, is pending availability of funds which will be reflected in a District issued purchase order. Funding
+beyond September 30, 2024, is contingent on the availability of funds for FY2025.
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Habibatu Jalloh
+15B. Name of Contractor 15C. Date 16B. District of Columbia 16C. Date Signed
+Signed
+07/03/2024
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+Contract Number Page of Pages
+CONTINUATION SHEET
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW108863 2 2
+C. Replaced Attachment J.2, the U.S. Department of Labor Wage Determination with the updated revision
+of the U.S. Department Labor Wage Determination No:2015-4281 Revision 29 dated 04/11/2024, located
+at https://sam.gov/wage-determination/2015-4281/29.
+D. Replaced Attachment J.4, the U.S. Department of Labor Way to Work Amendment Act of 2006 - Living
+Wage Notice with the updated version effective July 1, 2024, located at https://ocp.dc.gov/node/1698901.
+E. Replaced Attachment J.5, the U.S. Department of Labor Way to Work Amendment Act of 2006 - Living
+Wage Act with the updated version effective July 1, 2024, located at https://ocp.dc.gov/node/1698896.
+F. Revision Section G.9 to add the following contracting officer:
+Habibatu Jalloh
+Deputy Chief Contracting Officer
+DC Office of Contracting and Procurement
+64 New York Ave, 2nd Floor
+Washington, DC 20002
+Phone: (202) 671-4082
+Email: habibatu.jalloh@dc.gov
+
+Docusign Envelope ID: 6AECCB72-6593-47F0-B2C4-E0B1386DDD7B
+AMENDMENT OF SOLICITATION / MODIFICATION OF 1. Contract Number Page of Pages
+CONTRACT CW108863 1 2
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+M0002 See Box# 16 SUD Level 1-2.5 Outpatient
+Treatment Services
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement (OCP) Department of Behavioral Health (DBH)
+On behalf of the Department of Behavioral Health 64 New York Ave NE
+64 New York Avenue, NE, 2nd Floor West Washington, DC 20002
+Washington, DC 20002 Phone: (202) 673-2200
+Email: dbh@dc.gov
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+La Clinica Del Pueblo, Inc.
+2831 15th Street, NW 9B. Dated (See Item 11)
+Washington, DC 20009 10A. Modification of Contractor/Order No.
+Attn: Carlos Plazas CW108863
+X
+Email: cplazas@lcdp.org 10B. Dated (See Item 13)
+07/06/2023
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods: (a)
+By completing Items 8 and 15, and returning one (1) copy of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT
+TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN
+REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided
+each letter or telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Contract Modifications
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office,
+appropriation data etc.) set forth in item 14, pursuant to the authority of: 27 DCMR § 3601.3 (a)
+X C. This supplemental agreement is entered into pursuant to authority of: 27 DCMR § 3601.2
+D. Other: Exercise of Option, pursuant to the authority of: 27 DCMR § 3601.3 (c)
+E. IMPORTANT: Contractor is not required is required to sign this document and return one (1) copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+The purpose of this Human Care Agreement (HCA) Modification for the above-referenced HCA is as follows:
+A. Increased Option Year One Not-to-Exceed amount by $280,000, from $700,000 to $980,000.
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Carlos Plazas, Chief Executive Officer Farid Atmar
+15B. Name of Contractor 15C. Date 16B. District of Columbia 16C. Date Signed
+Signed 02/10/2025
+La Clinica del Pueblo, Inc.
+2/10/2025
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+Docusign Envelope ID: 6AECCB72-6593-47F0-B2C4-E0B1386DDD7B
+Contract Number Page of Pages
+CONTINUATION SHEET
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW108863 2 2
+B. Revised Section G.9 to add the following contracting officer:
+Farid Atmar
+Contracting Officer
+Office of Contracting and Procurement
+Department of Behavioral Health
+64 New York Avenue, NE, Second Floor
+Washington, DC 20002
+E-mail address: Farid.Atmar@dc.gov
+C. Replaced Attachment J.2, the U.S. Department of Labor Wage Determination with the updated revision
+of the U.S. Department Labor Wage Determination No:2015-4281 Revision 32 dated 12/23/2024, located
+at https://sam.gov/wage-determination/2015-4281/32.
+D. Replaced Attachment J.4, the U.S. Department of Labor Way to Work Amendment Act of 2006 - Living
+Wage Notice with the updated version effective January 1, 2025, located at
+https://ocp.dc.gov/node/1761351.
+E. Replaced Attachment J.5, the U.S. Department of Labor Way to Work Amendment Act of 2006 - Living
+Wage Act sheet with the updated version effective January 1, 2025, located at
+https://ocp.dc.gov/node/1761356.
+
+Docusign Envelope ID: 6AECCB72-6593-47F0-B2C4-E0B1386DDD7B
+AMENDMENT OF SOLICITATION / MODIFICATION OF 1. Contract Number Page of Pages
+CONTRACT CW108863 1 1
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+M0003 See Box# 16 SUD Level 1-2.5 Outpatient
+Treatment Services
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement (OCP) Department of Behavioral Health (DBH)
+On behalf of the Department of Behavioral Health 64 New York Ave NE
+64 New York Avenue, NE, 2nd Floor West Washington, DC 20002
+Washington, DC 20002 Phone: (202) 673-2200
+Email: dbh@dc.gov
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+La Clinica Del Pueblo, Inc.
+2831 15th Street, NW 9B. Dated (See Item 11)
+Washington, DC 20009 10A. Modification of Contractor/Order No.
+Attn: Carlos Plazas CW108863
+X
+Email: cplazas@lcdp.org 10B. Dated (See Item 13)
+07/06/2023
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods: (a)
+By completing Items 8 and 15, and returning one (1) copy of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT
+TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN
+REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided
+each letter or telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Contract Modifications
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office,
+appropriation data etc.) set forth in item 14, pursuant to the authority of: 27 DCMR § 3601.3 (a)
+X C. This supplemental agreement is entered into pursuant to authority of: 27 DCMR § 3601.2
+D. Other: Exercise of Option, pursuant to the authority of: 27 DCMR § 3601.3 (c)
+E. IMPORTANT: Contractor is not required is required to sign this document and return one (1) copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+The purpose of this Human Care Agreement (HCA) Modification for the above-referenced HCA is as follows:
+A. Revised Sections B.5.3, Option Year One through Section B.5.6, Option Year Four Price Schedules, to
+increase the Not-to-Exceed amount to $1,600,000.
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Carlos Plazas, Chief Executive Officer
+Farid Atmar
+15B. Name of Contractor 15C. Date 16B. District of Columbia 16C. Date Signed
+Signed
+La Clinica del Pueblo, Inc.
+2/10/2025
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+Government of the District of Columbia
+Page of Pages
+HUMAN CARE AGREEMENT
+1 54
+1. Human Care Agreement Number: 2. Date of Award 3. Date Solicitation Issued
+CW108863 07/06/2023 05/02/2023
+4. Issued by: 5.Administered by:
+Office of Contracting and Procurement Department of Behavioral Health
+Field Office: Department of Behavioral 64 New York Avenue NE, 3rd Floor
+Health 64 New York Avenue NE, 2nd Floor Washington, DC 20002
+(west) Washington, DC 20002 Phone: (202) 673-2200
+Phone: (202) 673-2200 Fax: (202) 673-3433
+Fax: (202) 673-3433 TTY: (202) 673-7500
+TTY: (202) 673-7500 Email: ocp@dc.gov Email: dbh@dc.gov
+6.NAME AND ADDRESS OF PROVIDER/CONTRACTOR (No. Street, county, state and ZIP Code)
+La Clinica del Pueblo, Inc.
+2831 15th Street N.W.
+Washington, DC 20009
+8.DISTRICT SHALL SEND ALL PAYMENTS TO:
+See Section G.4 INVOICE SUBMITTAL
+La Clinica del Pueblo, Inc.
+2831 15th Street N.W.
+Washington, DC 20009
+9.DESCRIPTION OF HUMAN CARE SERVICE AND RATE COST
+LINE ITEM NIGP CODE BRIEF DESCRIPTION OF HUMAN CARE SERVICE QUANTITY OF TOTAL SERVICE SERVICE RATE TOTAL AMOUNT
+SERVICE UNITS
+REQUIRED
+See Section B NTE $700,000
+GRAND TOTAL NTE $700,000
+10. APPROPRIATION DATA AND FINANCIAL CERTIFICATION TO BE CITED ON EACH TASK ORDER
+11. TERM OF HCA
+Starting Date: 07/06/2023 Ending Date: 07/05/2024
+HCA SIGNATURES
+Pursuant to the authority provided in D.C. Official Code § 2-354.06, this HCA is being entered into between the Provider/Contractor specified in block 6 of this
+document. The Provider/Contractor is required to sign and return two signed copies of this document to the Contracting Officer of the Issuing Office stated in block 4
+of page 1 of this document. The Contractor further agrees to furnish and deliver all items or perform all the services set forth or otherwise identified within this HCA
+and on any continuation sheets or appendices for the consideration stated herein. The rights and obligations of the parties to this HCA shall be subject to and governed
+by the following documents: (a) this HCA, (b) the Standard Contract Provisions for Use with District of Columbia Government Supply and Services Contracts, dated
+March 2007; and (c) any other provisions, representations, certifications and specifications, as are attached or incorporated by reference herein. This HCA between
+the signatories to this document constitutes the entire agreement of the parties.
+12.FOR THE PROVIDER/ CONTRACTOR 13.FOR THE DISTRICT OF COLUMBIA
+A. Name and Title of Signer (Type or print) A.Name of Contracting Officer (Type or print)
+Laura Vargas
+Catalina Sol, Executive Director
+B.Authorized Signature of the C.DATE B. Authorized Signature of the Contracting Officer C.DATE
+PROVIDER/CONTRACTOR:
+07/06/2023
+7/6/2023
+Page 1 of 54
+
+SECTION B: CONTRACT TYPE, SUPPLIES OR SERVICES AND PRICE/COST
+B.1 The District of Columbia Office of Contracting and Procurement (District), on behalf of the Department
+of Behavioral Health (DBH) is seeking to award multiple human care agreements (HCA) to eligible
+substance use disorder (SUD) treatment Providers that are certified by DBH’s Office of Accountability to
+provide SUD outpatient treatment services known as adult substance abuse rehabilitative services
+(ASARS). Certified ASARS Providers must have an active certification for the level of care (LOC) and/or
+services rendered and be in good standing.
+B.2 This HCA is not a commitment by the District to purchase any quantity of a particular service covered
+under this HCA. Providers who are awarded HCAs will be eligible to receive task orders from the District
+to provide SUD outpatient treatment services. The District is obligated only to the extent that purchase
+orders or tasks orders are made pursuant to the HCA.
+B.2.1 Delivery or performance shall be made only as authorized through the DBH consumer management
+system under task orders in accordance with Section G.
+B.3 The purchase order or task order pursuant to this HCA shall specify the population to be served, location
+and service type to the Provider who shall furnish SUD outpatient treatment services. The scope of the
+services to be provided is specified in Section C and shall also require the Provider to possess and maintain
+the required SUD licensure during the performance of the HCA. There is no limit on the number of orders
+that may be issued. The District may issue task orders requiring delivery to multiple destinations or
+performance at multiple locations.
+B.4 The HCA awarded as a result of the solicitation process shall govern the Provider’s and the District’s
+rights and obligations with respect to that purchase order or task order.
+B.5 PRICING SCHEDULE
+B.5.1 The current published rates shall apply for the base year and option years one, two, three and four of the
+awarded HCA. Refer to B.6 service rates. The quantities for SUD are determined by clinical or medical
+necessity and the needs of DBH consumers.
+B.5.2 BASE YEAR
+Contract Line Maximum Not-to-
+Item Description Price Per Unit Quantity Minimum Quantity
+Item No. (CLIN) Exceed (NTE)
+Minimum Total Price Maximum
+Total Price
+SUD outpatient
+0001 treatment See B. 6 Service Rates
+$700,000
+services
+NTE Grand Total for B.5.2
+$700,000
+Page 2 of 54
+
+B.5.3 OPTION YEAR ONE
+Contract Line Maximum Not-to-
+Item Description Price Per Unit Quantity Minimum Quantity
+Item No. (CLIN) Exceed (NTE)
+Minimum Total Price Maximum
+Total Price
+SUD outpatient
+1001 treatment See B. 6 Service Rates
+$700,000
+services
+NTE Grand Total for B.5.3
+$700,000
+B.5.4 OPTION YEAR TWO
+Contract Line
+Item Description Price Per Unit Quantity Minimum Quantity Maximum NTE
+Item No. (CLIN)
+Minimum Total Price Maximum Total Price
+SUD outpatient
+2001 treatment See B. 6 Service Rates
+$700,000
+services
+NTE Grand Total for B.5.4
+$700,000
+B.5.5 OPTION YEAR THREE
+Contract Line
+Item Description Price Per Unit Quantity Minimum Quantity Maximum NTE
+Item No. (CLIN)
+Minimum Total Price Maximum Total Price
+SUD outpatient
+3001 treatment See B. 6 Service Rates
+$700,000
+services
+NTE Grand Total for B.5.5
+$700,000
+B.5.6 OPTION YEAR FOUR
+Contract Line
+Item Description Price Per Unit Quantity Minimum Quantity Maximum (NTE)
+Item No. (CLIN)
+Minimum Total Price Maximum Total Price
+SUD outpatient
+4001 treatment See B. 6 Service Rates
+$700,000
+services
+NTE Grand Total for B.5.6
+$700,000
+B.6 SERVICE RATES
+The rate of payment for services rendered in accordance with a task order shall be at the rates which have
+been established by the DBH and set forth in DCMR, Title 22A, Chapter 64 and are subject to the
+requirements of that chapter. See Attachment J.15. The total units of any service ordered by DBH and
+provided to any DBH consumer shall be subject to clinical or medical necessity as well as any
+authorization and benefit limitations established in the SUD Provider certifications standards
+(“certification standards”) as set forth in DCMR, Title 22A, Chapter 63 and limited as set forth therein.
+Provider shall not charge the consumer any co-payment, cost-sharing or similar charge. A Provider shall
+Page 3 of 54
+
+not claim services for which they are not certified.
+B.7 NONPROFIT FAIR COMPENSATION ACT OF 2020, D.C. CODE § 2-222.01 ET SEQ
+B.7.1 Nonprofit organizations, as defined in the Act, shall include in their rates the indirect costs incurred in
+provision of goods or performance of services under this contract pursuant to the nonprofit organization's
+unexpired Negotiated Indirect Cost Rate Agreement (NICRA). If a nonprofit organization does not have
+an unexpired NICRA, the nonprofit organization may elect to instead include in its rates its indirect costs:
+(1) As calculated using a de minimis rate of 10% of all direct costs under this contract.
+(2) By negotiating a new percentage indirect cost rate with the awarding agency.
+(3) As calculated with the same percentage indirect cost rate as the nonprofit organization negotiated with
+any District agency within the past 2 years; however, a nonprofit organization may request to
+renegotiate indirect costs rates in accordance with B.7.2; or
+(4) As calculated with a percentage rate and base amount, determined by a certified public accountant, as
+defined in the Act, using the nonprofit organization's audited financial statements from the
+immediately preceding fiscal year, pursuant to the OMB Uniform Guidance, and certified in writing
+by the certified public accountant.
+B.7.2 If this contract is funded by a federal agency, indirect costs shall be consistent with the requirements for
+pass-through entities in 2 C.F.R. § 200.331, or any successor regulations.
+B.7.3 The Provider shall pay its subcontractors, which are nonprofit organizations, the same indirect cost rates
+as the nonprofit organization subcontractors would have received as a prime Provider.
+***END OF SECTION B ***
+Page 4 of 54
+
+SECTION C: HUMAN CARE SERVICE DESCRIPTION AND SCOPE OF SERVICES
+C.1 BACKGROUND
+DBH provides prevention, intervention, treatment services, and support for children, youth, and adults
+with mental health and/or substance use disorders including emergency psychiatric care, detoxication,
+and community-based outpatient services. DBH serves more than 22,000 adults, children and youth, and
+their families each year through a network of community-based providers and unique government-
+delivered services.
+C.1.1 GENERAL REQUIREMENTS
+The Providers shall provide SUD outpatient treatment services to clients that are in the drug treatment
+choice program (DTCP) that have been referred to by DBH in accordance with the terms of the HCA
+and the Provider’s capacity for levels 1 and 2.
+C.2 DEFINITIONS
+C.2.1 American Society of Addiction Medicine (ASAM) - is a professional society representing over 3,000
+physicians and associated professionals dedicated to increasing access and improving the quality of
+addiction treatment; educating physicians, other medical professionals, and the public; supporting
+research and prevention; and promoting the appropriate role of physicians in the care of patients with
+addictions.
+C.2.2 Reserved.
+C.2.3 CMS - The Center for Medicare and Medicaid services formerly the Health Care Financing
+Administration (HCFA)
+C.2.4 Certification – The written authorization from DBH allowing an entity to provide specified substance
+use disorder treatment.
+C.2.5 Certification Application – The application and supporting materials prepared and submitted to the
+District requesting certification to provide certain substance abuse treatment services and mental health
+supports.
+C.2.6 Clients/Consumers – Adults and youth who seek or receive substance abuse treatment services or
+support funded or regulated by DBH.
+C.2.7 Co-occurring Capable – The capacity of substance abuse, mental health, or dually licensed program to
+design its policies, procedures, screening, assessment, program content, treatment planning, discharge
+planning, interagency relationships, and staff competencies to, at a minimum, coordinate parallel co-
+occurring disorder services to individuals and families who present for care within the context of the
+program’s mission, design, licensure, and resources.
+C.2.8 Counseling – Individual, group, or family face-to-face services for symptom and behavior management,
+development, restoration, or enhancement of adaptive behaviors and skills, and enhancement or
+maintenance of daily living skills.
+Page 5 of 54
+
+C.2.9 Crisis Intervention – An immediate short-term substance use disorder treatment approach that assists
+a beneficiary to resolve a personal crisis that significantly jeopardizes treatment, recovery progress,
+health, or safety.
+C.2.10 DSM 5 - The currently utilized version of the diagnostic and statistical manual of mental disorders D.C.
+Official Code § 7-1131.02 (9).
+C.2.11 Day Treatment – A comprehensive package of services and structured activities provided consistent
+with patient’s treatment plan which is designed to achieve and promote recovery from a substance use
+disorder and is provided in a supervised substance-free facility that provides for a minimum of 20 hours
+per week of services.
+C.2.12 Detoxification – A program designed to achieve a systematic reduction in the degree of physical
+dependence on alcohol or drugs. Detoxification may occur in a range of clinical settings: ambulatory,
+residential, or hospital, with the most appropriate setting determined as a part of a thorough assessment
+of the client’s individual medical needs.
+C.2.13 Diagnostic Assessment – An assessment diagnostic may be (1) Initial; (2) Comprehensive; (3)
+Ongoing; or (4) Brief. Initial, comprehensive, and ongoing assessment diagnostic services include the
+development and refinement of treatment plans in addition to providing referrals. A brief assessment
+diagnostic may be used for minor updates to a beneficiary’s diagnosis or treatment plan prior to transfer
+into a different level of care as indicated by progress with ASARS treatment. A brief assessment
+diagnostic may also be used as a pre-screening for hospitalization and for acute changes that require an
+immediate response.
+C.2.14 Evidence-Based Practice (EBP) – A prevention or treatment practice, regimen, or service that is
+grounded in consistent scientific evidence showing that it improves client/participant outcomes in both
+clinically controlled and real world settings. EBP is the integration of clinical expertise, patient values,
+and the best research evidence into the decision making process for patient care. For the purpose of this
+agreement, a practice shall be considered evidence-based if it appears on the National Registry of
+Evidence-based Programs and Practices (NREPP) produced by the Substance Abuse and Mental Health
+Services Administration (SAMHSA). To be selected by the provider signing this agreement, an
+evidence-based practice must be validated for use with a population that aligns with those seeking
+treatment with the providers (e.g., client age, level of care, treatment setting).
+C.2.15 Human Care Agreement – The written agreement entered into by the DBH-certified substance abuse
+treatment service Provider and DBH which describes how the parties will work together.
+C.2.16 Individual Treatment Plan (ITP) – Is a written document developed by the appropriate service
+provider staff with the participation of the client with substance abuse and if applicable, the client’s
+guardian, which specifies the client’s diagnosis, problems, and service needs to be addressed, the
+intermediate objectives and long-term goals for the services and the planned interventions for achieving
+these goals.
+C.2.17 Medication Assisted Treatment (MAT) – Is the use of medications as one element of treatment for
+opiate or other forms of dependence. MAT includes medication dosing used in conjunction with
+substance abuse counseling. Specifically, MAT and/or opioid replacement therapy (ORT) involves
+replacing an opioid, such as heroin, with a longer acting but less euphoric opioid. Commonly used drugs
+for ORT are methadone or buprenorphine which are taken under medical supervision. These medications
+are used in combination with counseling and behavioral therapies for the treatment of substance use
+disorders.
+Page 6 of 54
+
+C.2.18 Medication Management – Medical interventions, including physical examinations, prescription,
+supervision or administration of mental health related medications, monitoring and interpreting the
+results of laboratory diagnostic procedures related to mental health-related medications, and medical
+interventions needed for effective mental health treatment provided as either an individual or group
+intervention.
+C.2.19 Medicaid or Medical Assistance – The program described in the District state Medicaid plan, approved
+by HCFA and administered by the Medical Assistance Administration (MAA) pursuant to District Code
+§ 1-359(b) and Title XIX of the Social Security Act, as amended July 30, 1965 (79 Stat. 343; 42 U.S.C.
+§ 1396a et seq.).
+C.2.20 National Registry of Evidence-based Programs and Practices (NREPP) – Is a searchable online
+registry of mental health and substance abuse interventions that have been reviewed and rated by
+independent reviewers. The purpose of this registry is to assist the public in identifying scientifically
+based approaches to preventing and treating mental and/or substance use disorders that can be readily
+disseminated to the field.
+C.2.21 Provider – An individual or organization certified by DBH to provide SUD services and support.
+Provider is also used in this agreement to refer to the entity to which this HCA has been awarded.
+C.2.22 Social Security Act – 49 Stat. 620 (1935); 42 U.S.C. Ch. 7, as amended.
+C.2.23 Sub provider – An entity certified by the DBH to provide one or more Core Service(s) through an
+Affiliation Agreement with a certified provider.
+C.2.24 SAMHSA – Is a federal agency responsible for decreasing the impact of substance abuse and mental
+disorders
+C.2.25 Substance Abuse/SUD – Is a disorder in which the use of one or more substances leads to a clinically
+significant impairment or distress (These terms are used interchangeably)
+C.2.26 Title XIX – Title XIX of the Social Security Act, as amended July 30, 1965 (79 Stat. 343; 42 U.S.C.
+§1396a et seq.) as amended from time to time. Title XIX contains the federal requirements for the
+Medicaid program.
+C.3 APPLICABLE DOCUMENTS
+C.3.1 Providers shall, at all times, provide services in accordance with the following:
+Item Document Type Title Date
+No.
+1 D.C. Law 13-146; D.C. The Choice in Drug Treatment Act of 2000, effective 2000
+Official Code §7-3001 July 18, 2000
+et seq.
+2 DCMR, Title 22A, Reimbursement Rates for Services Provided by the Department 2020
+Chapter 64 of Behavioral Health Certified Substance Abuse Providers
+3 DCMR, Title 22, Certification Standards for Substance Use Disorder Treatment 2020
+Chapter 63 and Recovery Providers.
+4 DCMR, Title 29, Substance Abuse Provider Certification Infractions 2005
+Chapter 24
+Page 7 of 54
+
+5 Mandatory Drug and Alcohol Testing of Employees who Serve 2013
+DBH Policy #: 716.3
+Children or Youth
+6 DBH Policy #: 716.4 Criminal Background and Traffic Record Check Program 2013
+7 Title VI, 42 U.S.C. Civil Rights Act of 1964 1964
+§ 2000d et seq.
+8 Reserved
+9 42 CFR, Part 2 Confidentiality of Alcohol and Drug Abuse Patient Records 1990
+10 42 U.S.C. §§ 12101 et Americans With Disabilities Act of 1990 (ADA), Title II, as 2001
+seq. amended
+11 20 U.S.C. §§ 1400 et Individuals with Disabilities Education Act (IDEA), as 2001
+seq. amended
+12 29 U.S.C. §§ 791 et Rehabilitation Act of 1973, Section 504, as amended 2001
+seq.
+13 31 U.S.C § 3729 False Claims Act, as amended 2001
+14 42 U.S.C. §§ 1320d et Administrative Simplification provisions of the Health 2001
+seq. and 45 C.F.R. Insurance Portability and Accountability Act (HIPAA), as
+parts 160-164. amended, and its implementing regulations
+15 D.C. Official Code District of Columbia Human Rights Act of 1977, as amended 2001
+§§ 2-1402.11 et seq.
+C.3.2 Access to Online Documents
+C.3.2.1 The United States Code (U.S.C.) is available online on the website of the Government Printing Office
+(GPO) Access, http://www.gpo.gov/fdsys/
+`
+C.3.2.2 The D.C. Code is available online on the website of the Council of the District of Columbia,
+www.dccouncil.us.
+C.3.2.3 The Code of Federal Regulations (C.F.R.) is available online on the website of GPO Access,
+www.gpo.gov/.
+C.3.2.4 The DCMR is available on the website of the Office of the Secretary of the District of Columbia,
+www.os.dc.gov, as is the D.C. Register, in which amendments to the DMCR are published.
+C.4 GENERAL REQUIREMENTS
+C.4.1 The Provider must comply with the District’s step down Key Performance Indicators (KPI) benchmark,
+annually.
+C.4.2 The Provider must comply with the District’s assessment and referral KPI benchmark, annually.
+C.4.3 The Provider must disenroll and discharge clients within 30 days of the date of the last rendered service.
+C.4.4 The Provider shall post all 835/ 837’s in the DBH-approved Electronic Health Record (EHR) on a
+weekly basis.
+C.4.5 The Provider shall offer intake and assessment in accordance with 22 DCMR § 6329.
+Page 8 of 54
+
+C.4.6 All certified treatment providers shall provide an initial health screening and intake and assessment in
+accordance with 22 DCMR § 6329.1.
+C.4.7 The provider shall render intake services with adequate intake hours to ensure appropriate access to care.
+C.4.8 The provider shall link clients to medically appropriate continuing SUD services as indicated in the
+concluding diagnostic assessment.
+C.4.9 The Certified SUD Providers approved by DBH shall provide only the level (s) of care stated on the
+Certificate.
+C.4.10 Certified Outpatient Providers shall be able to provide treatment services to youth and adults in
+accordance with section Chapter 6331-6333. In accordance with 22 DCMR 6331 through 6333,
+§
+Providers shall provide the following:
+(a) 6331: Level 1: Outpatient/ MAT Provider.
+(b) 6332: Level 2.1: Intensive outpatient provider.
+(c) 6333: Level 2.5: Day treatment.
+C.4.11 The Provider at a minimum must be capable of providing adult and/or youth outpatient SUD treatment
+services through the certified level of care.
+(a) SUD adult services are for 21 years and older.
+(b) SUD youth services are for ages 12-26 years of age, encompassing services for transition aged
+youth and young adults with co-occurring substance use and mental health disorders.
+C.4.11.1 The Provider shall provide Adolescent Community Reinforcement Approach services in accordance
+with 22 DCMR § 6347 & 6332.
+C.4.11.2 The Provider shall provide Trauma Recovery and Empowerment Model services in accordance with 22
+DCMR § 6348.
+C.4.12 The Provider shall be required to maintain a DBH certification in good standing and adhere to Title 22
+DCMR 6308 and ASAM criteria for all levels of care.
+C.4.12.1 MAT services as identified in the individualized treatment plan may be provided on-site or at a certified
+methadone or other certified opioid replacement therapy program (OTP) in accordance with the
+specified medication documented in the client’s plan of care. The Provider at a minimum must be
+capable of providing all services in accordance with ASAM criteria and Title 22 DCMR 6327.
+C.4.13 CORE SERVICES (22 DCMR Chapter 63)
+The Provider must be equipped to provide, at a minimum, the following core services:
+C.4.13.1 Diagnostic Assessment:
+Description: The assessment/diagnostic portion of this service includes the evaluation and ongoing
+collection of relevant information about a client to determine or confirm a SUD diagnosis and the
+Page 9 of 54
+
+appropriate LOC. The assessment shall serve as the basis for the formation of the treatment plan, which
+is designed to help the client achieve and sustain recovery. The assessment instrument shall incorporate
+ASAM client placement criteria. A DBH assessment shall be the following services: (1) Initial, (2)
+Comprehensive, (3) Ongoing, and (4) Brief approved by DBH. Provider shall perform diagnostic
+assessments on all clients entering services. The Provider’s evidence-based assessment tool shall be
+approved by the DBH’s Contract Administrator and shall be administered to all new clients within 7 days of
+admission.
+C.4.13.2 Counseling:
+The Provider shall perform the following counseling services on-site as ordered:
+(a) Counseling Group
+Description: A facilitation of individual disclosure that permits generalization of the issue to the larger
+group. The service develops motivation and action by group members through structured confrontation
+and constructive feedback. These objectives are carried out primarily through the use of the group
+process to facilitate shared learning and exploration of members’ behaviors.
+(b) Counseling Group - Psycho-educational
+Description: Group session facilitated for the purpose of presenting didactic materials to clients
+(through lectures, audio-visual presentations, handouts, etc.) as well as a discussion of information
+presented and a demonstration of its relevance to recovery and individual functioning.
+(c) Counseling Group - Psycho-educational (HIV)
+Description: Parameters of this service are identical to the general psycho educational. However,
+services rendered are specifically to document mandatory HIV/STD/infectious disease education.
+Clients are not required to have one of these conditions in order to receive this service.
+(d) Counseling On-site - Behavioral Health Therapy
+Description: A face-to-face interaction between a client and an authorized staff member for the purpose
+of supporting the client's recovery. The session may include, but is not limited to, the exploration of an
+identified problem and its impact on individual functioning, examination of attitudes and feelings,
+identification and consideration of alternatives, and structured problem-solving.
+(e) Counseling Family with Client
+Description: A face-to-face interaction between a family unit (with the identified client present) as
+identified by the client and a qualified practitioner for the purpose of exploring, identifying, and
+resolving issues that have affected the family unit (and concerned persons) as a result of the client’s
+substance use disorder. The session may include but is not limited to exploration of an identified problem
+and its impact on family functioning, examination of attitudes and feelings, identification and
+consideration of alternatives and structured problem-solving.
+(f) Counseling Family without Client
+Description: A face-to-face interaction between a family unit (without the identified client present) as
+identified by the client and a qualified practitioner for the purpose of exploring, identifying, and
+Page 10 of 54
+
+resolving issues that have affected the family unit (and concerned persons) as a result of the client’s
+substance use disorder. The session may include but is not limited to the exploration of an identified
+problem and its impact on family functioning, examination of attitudes and feelings, identification, and
+consideration of alternatives, and structured problem-solving.
+C.4.13.3 Case Management
+Description: Assistance shall be provided by the Provider to address the specific needs of each
+individual client that covers all major areas of concern identified in the assessment and treatment plan
+along with connecting the client to appropriate services outside of the Provider’s scope (i.e., primary
+care, MAT).
+C.4.13.4 Case Management HIV
+Description: Assistance shall be provided by the Provider to address the specific needs of each
+individual client that covers all major areas of concern identified in the assessment and treatment plan
+along with connecting the client to appropriate services outside of the Provider’s scope (i.e., primary
+care, MAT) for HIV clients only.
+C.4.13.5 Breathalyzer Collection
+Description: The Provider shall perform a collection of specimens for alcohol/drug analysis dependent
+on the type of biological sample obtained. This service is for the collection and handling of breathalyzer
+specimens. The handling of specimens requires that Provider establish and maintain a written and/or
+electronically recorded chain of custody from the point of collection throughout the analysis process to
+ensure the integrity of the specimen.
+C.4.13.6 Urinalysis Collections
+Description: The Provider shall perform collection of specimens for alcohol/drug analysis dependent
+on the type of biological sample obtained. This service is for the collection of and handling of urine
+specimens. The handling of specimens requires that Provider establish and maintain a written and/or
+electronically recorded chain of custody from the point of collection throughout the analysis process to
+ensure the integrity of the specimen.
+C.4.13.7 Crisis Intervention
+Description: The Provider shall perform crisis intervention, which is an immediate, short-term
+substance abuse treatment approach intended to assist a client to resolve a personal crisis. Crises are
+events that significantly jeopardize treatment, recovery progress, health, and/or safety.
+C.4.13.8 Medication Management (Adult)
+Description: The coordination of education, administration, dispensing, and evaluation of medications
+consumed by beneficiaries. It includes, but is not limited to, monitoring potential side effects, drug
+interactions, compliance with doses, and efficacy of medications. The Provider shall perform medication
+management, which includes the evaluation of a patient’s need for MAT, the provision of prescriptions,
+and ongoing medical monitoring/evaluation related to the use of the psychoactive drugs.
+Page 11 of 54
+
+C.4.13.9 Medication Assisted Therapy
+Description: The Provider shall perform medication assisted therapy which includes a clinically
+appropriate range of core services. MAT is a compilation of clinical services offered in conjunction with
+pharmacological interventions.
+C.4.13.10 Clinical Care Coordination (CCC)
+Description: The clinical and evaluative activities that identify the client’s needs for substance abuse
+and other treatment services, community needs and other resources to achieve the goals and objectives
+identified in the treatment plan. CCC establishes a framework of action to enable the client to achieve
+specified goals. It involves collaboration with clients and significant others, coordination of treatment
+and referral services, liaison activities with community resources and managed care systems, client
+advocacy, and ongoing evaluation of treatment progress and client needs.
+C.4.13.11 Treatment
+Description: A therapeutic effort to improve a client’s cognitive or emotional conditions or the behavior
+of a client, consistent with generally recognized principles or standards in the SUD treatment field,
+provided or supervised by a qualified practitioner.
+C.4.13.12 Plan of Care
+Description: A document that meets the requirements of 22 DCMR §6339 and establishes the medical
+necessity for all services identified to address the needs of the client as determined by the assessment.
+C.4.13.13 Withdrawal Management
+Description: A program designed to achieve a systematic reduction in the degree of physical
+dependence on alcohol or drugs.
+C.4.13.14 Outpatient Services
+Description: Therapeutic services that are medically or psychologically necessary provided to a client
+according to an individualized treatment plan, and do not require the client's admission to a hospital or
+a non-hospital residential facility. The term "outpatient services" refers to services that may be provided
+(on an ambulatory basis) in a hospital; a non-hospital residential facility; an outpatient treatment facility;
+or the office of a person licensed to provide SUD treatment services.
+C.4.13.15 Discharge
+Description: The time when a client's active involvement with a program is terminated.
+C.4.13.16 Discharge Planning
+Description: Activities with or on behalf of an individual to arrange for appropriate follow-up care to
+sustain recovery after being discharged from a program, including educating the individual on how to
+access or reinitiate additional services, as needed.
+C.4.13.17 Continuity of Care Plan
+Page 12 of 54
+
+Description: A plan that provides for the ongoing care of clients in the event that a certified provider is
+no longer able to provide adequate care. The plan should include provision for the referral and transfer
+of clients, as well as for the provision of relevant treatment information, medications, and information
+to the new provider.
+C.4.13.18 Co-Occurring Disorders
+Description: The presence of concurrent diagnoses of SUD and mental disease or disorder.
+C.4.14 SPECIFIC REQUIREMENTS
+C.4.14.1 The Provider shall become empaneled with all managed care organizations within DBH within 90 days
+of contract award.
+C.4.14.2 The Provider shall only use tools approved by DBH to determine medical necessity for SUD treatment
+services.
+C.4.14.3 The Provider shall render co-occurring capable or co-occurring enhanced services to clients when those
+services are indicated through screening and diagnostic assessment.
+C.4.14.4 The Provider shall render intake services seven days a week with adequate intake hours to ensure
+appropriate access to care.
+C.4.14.5 The Provider shall transition clients to the next most appropriate medically appropriate level of care as
+indicated in the concluding diagnostic assessment.
+C.4.14.6 The Provider shall render care coordination to clients who transition between acute care settings, step-
+down to lower levels of care, and require maintenance or stabilization of other medical conditions.
+Providers shall also render care coordination with event-driven triggers, discharges, and transfers.
+C.4.14.7 The Providers shall render clinical care coordination to clients to include, but not limited to, transfer of
+medical records of services received from those providers, including prescriptions, tracking of admission
+and discharge, and active follow-up after discharge.
+C.4.14.8 The Providers shall render substance-related and co-occurring conditions services in accordance with
+the ASAM criteria.
+C.4.14.9 The Provider shall render services that are medically necessary as indicated on a client’s plan of care.
+C.4.14.10 The Provider shall ensure client health, safety, and welfare by complying with the following criteria
+and must maintain appropriate records for each:
+(a) Maintain an organized system of record keeping ensuring the confidentiality of client information
+that is consistent with Title 22, Chapter 6313, 6322, and 6323 of the DCMR, 42 CFR, and HIPAA
+requirements.
+(b) Provide evidence, at least annually, that no individual is excluded from participation in a federal
+health care program as found on the Department of Health and Human Services (DHHS) list of
+Excluded Individuals/Entities or the General Services Administration Excluded Parties List
+System, or any similar succeeding government list.
+Page 13 of 54
+
+(c) Provide evidence of clinical care based on a comprehensive needs assessment, an identified
+problem list, and a master treatment or rehabilitation plan with periodic updates, and regular
+progress notes in the client's record.
+(d) Provide evidence of a certificate of occupancy from the District of Columbia Department of
+Building for use as a Substance Abuse Treatment Facility.
+(e) Conduct Federal Bureau of Investigation criminal background checks to ensure that staff has not
+been convicted of physical or sexual abuse, child abuse/neglect, a felony involving crimes against
+a person or improper clinical practices. The criminal background check documentation must
+include a final disposition for any charge made against a staff member or prospective staff
+member.
+(f) Allow authorized representatives of DBH to enter and inspect announced or unannounced, any
+facility during reasonable hours or review any records necessary to determine compliance with
+these requirements.
+(g) Not have violations that compromise the health, safety, and well-being of clients and staff
+pursuant to 22 DCMR §6304.1.
+C.4.14.11 The Provider shall not initiate any substantial change in the scope of the services.
+C.4.14.12 Individuals seeking substance use disorder treatment services must participate in a valid proof of
+eligibility screening of determination process. The Providers shall minimally establish client
+eligibility at the time of provider intake using specific eligibility requirements established by DBH.
+C.4.14.13 Provider shall not provide services or treatment under this HCA unless the Provider has completed
+a diagnostic and assessment as outlined in 22 DCMR 6339.
+C.4.14.14 Reserved.
+C.4.14.15 The CA retains the right to ask for additional data in the format prescribed by DBH to include, but
+not limited to, utilization of service data. Therefore, the Provider shall submit this information to
+the CA upon request.
+C.4.14.16 Provider shall not provide services or treatment under this HCA unless the Provider is in receipt
+of a pre-authorization and referral in the DATA system from DBH.
+C.5 ADDITIONAL CONTRACT RESPONSIBILITIES
+C.5.1 Criminal Justice - The Provider shall maintain a record of any client’s involvement with the District’s
+Criminal Justice System (CJS) during their treatment with that Provider. The number of clients who
+were involved in the CJS during treatment divided by the total number of clients in the program is the
+rate of CJS involvement for that program’s client population. In addition, the Provider shall provide
+information regarding clients’ treatment to the District of Columbia Pretrial Services Agency along with
+the Court Services and Offender Supervision Agency for the District of Columbia when appropriate and
+provided the client has signed all necessary waivers of confidentiality protections.
+C.5.2 Information Technology – All providers within the DBH network must maintain an EHR system for
+mental health and SUD services. Each network provider shall designate staff members who will function
+as the privacy officer and the custodian of record. The privacy officer may be the custodian of the
+Page 14 of 54
+
+network provider’s legal health record (LHR) and partner with IT personnel to ensure compliance with
+HIPAA, the Mental Health Information Act and/or 42 C.F.R. Part 2. Network providers shall use and
+maintain an EHR system that collects uniform information that meets the following criteria: (a)
+Represents the person’s health history (e.g., a record of health status and the services provided over
+time); (b) Provides a method for clinical communication and treatment planning among providers and
+practitioners serving the person; (c) Serves as the legal document describing the healthcare services
+provided; and (d) Serves as a source of data for the behavioral health services and outcomes that the
+network provider renders. Providers must submit behavioral health supplemental data (BHSD)
+transactions through their own EHR system. Providers must submit BHSD monthly within ten calendar
+days from the last day of the reporting period in the reporting format defined by DBH. Providers must
+submit BHSD for all consumers/clients served regardless of payor.
+C.5.3 The Provider related activities that involve human subjects shall comply with “Protection of Human
+Subjects,” 45 CFR, Part 46, and “Confidentiality of Alcohol and Drug Abuse Client Records,” 42 CFR,
+Part 2, and HIPAA.
+C.5.4 Pursuant to 22 DCMR 63§ 6318.3, the Provider shall develop, implement, and maintain a written staff
+training development plan. This plan must be submitted to the DBH CA no later than 30 days after the
+effective date of this HCA. The Provider must provide documentation to the CA no later than one year
+following the effective date of this HCA outlining its adherence to the staff training development plan.
+C.5.5 Within 90 days of the effective date of the first purchase order issued and thereafter during the life of
+the HCA, the Provider shall utilize a nationally recognized EBP to promote the treatment program
+offered by the Provider under this HCA. The Provider shall notify the CA, in writing, of the EBP utilized
+by the Provider. In addition, the Provider shall collect and report data to DBH on a semi-annual basis
+demonstrating fidelity to the EBP.
+C.5.6 The Provider shall not exclude any client from receiving services based on the client’s participation in
+a MAT program.
+C.5.7 Pursuant to 22 DCMR § 6344.1(b), the Provider shall ensure that case management staff coordinate
+services to address all additional needs identified in the initial or ongoing assessment. This shall include
+all substance use disorder treatment on site. Other ancillary services, to include primary healthcare,
+psychiatric or other mental health services can also be provided on-site or off-site if the Provider is a
+DBH certified mental health provider and/or primary health care facility.
+C.5.8 Pursuant to 22 DCMR § 6320, the Provider shall develop a written grievance procedure, approved by
+DBH, that permits clients to report any violation of their rights. The Provider shall submit the grievance
+procedure to the CA no later than 90 days following the effective date of this HCA.
+C.5.9 The Provider shall provide all the core SUD services on site in a culturally competent and gender-
+competent setting and manner.
+C.5.10 The Provider shall have access to alternative language services that shall be used to enable client
+communications necessary to complete assessment, CCC registration and provision of covered services
+for prospective clients who are not fluent in speaking and understanding English. Language access
+services may include non-English languages as well as American sign language interpreter services for
+hearing impaired clients.
+C.5.11 The Provider shall ensure every client receives CCC, the initial and ongoing process of identifying,
+planning, coordinating, implementing, monitoring, and evaluating options and services to best meet a
+Page 15 of 54
+
+Client’s health needs during treatment. CCC focuses on linking clients across the levels of care indicated
+in the treatment plan and is intended to facilitate specified outcomes that shall restore a beneficiary’s
+functional status in the community. CCC includes the identification of interventions that are consistent
+with the diagnosis and monitoring compliance with appointments and participation in activities defined
+in the treatment plan. CCC may only be provided by the following licensed health professionals:
+Physicians, Psychologists, Licensed Independent Clinical Social Worker, Advanced Practice Registered
+Nurse, Registered Nurse, Licensed Professional Counselor or Licensed Marriage and Family Therapist.
+C.5.12 The Provider shall render services with the goal of identifying, preventing, and addressing the impact of
+the human immunodeficiency virus (HIV), acquired immune deficiency syndrome (AIDS), hepatitis,
+and sexually transmitted infections (STI). The ranges of services required under this agreement are as
+follows:
+(a) The Provider shall facilitate access to testing for HIV/Hepatitis/STI. Testing may be conducted
+internally if the capacity exists, or a third-party referent may be utilized. Compliance with this
+requirement shall be documented in each client’s electronic health record.
+(b) The Provider shall supply comprehensive education on HIV/Hepatitis/STI to all clients admitted
+to services using a curriculum which reflects the most current science. Compliance with this
+requirement will be documented in each client’s electronic health record.
+(c) The Provider shall supply case management to all clients with HIV/Hepatitis/STI to ensure all
+needs related to the infectious disease are satisfactorily addressed. Such needs include, but are not
+limited to, primary and specialty medical care, housing, and supportive services. Compliance with
+this requirement shall be documented in each client’s electronic health record.
+C.6 NATIONAL PROVIDERS IDENTIFIER (NPI)
+All certified DBH providers and each individual staff person shall obtain an NPI number. This NPI
+number must be obtained no later than the date of the provider signing this HCA.
+https://nppes.cms.hhs.gov/
+C.7 REPORTING AND DATA REQUIREMENTS
+C.7.1 The Provider shall provide information as required by DBH to achieve, including but not limited to, the
+following:
+(a) Timely and accurate eligibility and benefits determination.
+(b) Timely and accurate claims submission, posting and payment as specified in Section G.1.1 and
+G.1.3.
+(c) Comprehensive decision support for operational and administrative analysis.
+(d) Management and oversight of generally accepted accounting principles, processes, and reporting;
+and
+(e) Contract management, tracking and administration.
+C.7.2 The Provider shall report all unusual incidents in accordance with DBH laws and policies, including but
+not limited to, DBH Policy 480.1.
+Page 16 of 54
+
+C.7.3 The Provider shall provide DBH with all information reasonably necessary to permit DBH to:
+(a) Monitor and evaluate the Provider’s compliance with the terms of this HCA including, but not
+limited to, conducting claims audits, Medicaid compliance reviews, quality reviews, and any
+other program integrity function to ensure the quality, effectiveness and efficiency of services and
+accuracy of claims submitted for reimbursement under this HCA.
+(b) Verify the costs of services, including all administrative, direct, and indirect costs, are being
+properly computed.
+(c) Verify the sources and amount of all income received by Provider for services provided under
+this HCA and service similar to those provided under this HCA.
+(d) Investigate alleged misuse of funds provided under this HCA; and
+(e) Permit DBH to perform its duties under applicable requirements.
+C.7.4 Upon request, the Provider shall provide DBH access to any portion of its electronic health record
+system, including the electronic HIPAA log, necessary to verify the integrity of any audit, quality review
+or investigation.
+C.7.5 Except under circumstances provided herein, requested information shall be produced by Provider
+during ordinary business hours within 24 hours of the request.
+C.7.6 DBH may obtain immediate access to information without prior notice including access to staff,
+individual consumer records and accounts, under any of the following circumstances:
+(f) Such information is reasonably related to allegations of abuse or neglect of a member being
+investigated by DBH of any other relevant party.
+(g) To prevent imminent harm to consumers.
+(h) When DBH reasonably believes that immediate access is essential to detect fraud or false claiming
+or to prevent removal or destruction of property or records required to be maintained under this
+HCA; or
+(i) When DBH reasonably believes that there are substantial violations of consumer rights because
+of actions of the Provider.
+C.7.7 Upon request of DBH, Provider shall provide DBH with the most recent versions of the following
+documents:
+(a) Articles of incorporation and by-laws of the Provider.
+(b) Evidence of certification as required under applicable requirements.
+(c) Risk management procedures.
+C.7.8 The Provider shall notify DBH immediately of any changes in its operations that affect its continued
+compliance with the DBH certification standards, including changes in ownership or control, services,
+Page 17 of 54
+
+affiliations, referral arrangements and financial solvency.
+C.7.9 Consistent with the contractual remedies provided for in this HCA, reimbursement for services provided
+under this HCA may be suspended if Provider fails to submit or make available for inspection any
+information requested by DBH pursuant to this HCA, including but not limited to:
+(a) Timely and accurate billing information or any other information related to claims;
+(b) Any portions of the Provider’s EHR including but not limited to the HIPAA log;
+(c) Any report required by this HCA;
+(d) Evidence of insurance coverage required by this HCA; and
+(e) Any reports required under the certification standards including, including but not limited to
+audits required by 22A DCMR § 3411.9.
+C.7.10 No reimbursement shall be withheld by DBH for failure to file a required report unless DBH has given
+the contracting officer and Provider notice of DBH’s intent to withhold reimbursement and a description
+of the overdue report. Written notice shall be given to Provider not less than ten working days prior to
+the withholding of the reimbursement. Reimbursement shall only be suspended until such information
+is furnished or access is permitted unless there is some other basis for withholding reimbursement as
+provided for in this HCA.
+*** END OF SECTION C***
+Page 18 of 54
+
+SECTION D: PACKAGING AND MARKING
+RESERVED
+*** END OF SECTION D ***
+Page 19 of 54
+
+SECTION E: INSPECTION AND ACCEPTANCE
+E.1 GENERAL PROVISIONS
+E.1.1 The inspection and acceptance requirements for the Contract shall be governed by clause number six
+(6), Inspection of Services, of the Government of the District of Columbia's Standard Contract
+Provisions for Use with Supplies and Services Contracts, dated July 2010, Attachment (Section J.1)
+E.2 CONSEQUENCES OF PROVIDER’S FAILURE TO PERFORM REQUIRED SERVICES
+E.2.1 In addition to the provisions outlined in Clause 8 of the Standard Contract Provisions for Use with
+District of Columbia Government Supplies and Services Contracts, July 2010, Attachment J.1 to this
+HCA, if DBH determines that Provider has failed to comply with any applicable federal or District law
+or regulation, including but not limited to the False Claims Act and the D.C. Human Rights Act, The
+agency may request the contracting officer to take any or all of the following actions with substantiating
+evidence of noncompliance with the terms and conditions of the HCA resulting from the RFQ process :
+E.2.1.1 Suspend or withhold all or part of the Providers' payments; and/or
+E.2.1.2 Terminate the HCA within ninety (90) days from date of DBH notice to the Provider.
+E.2.2 DBH shall provide written notice of any action to the Provider, which shall include identification of the
+sanction to be applied.
+(a) The basis for DBH's determination that the sanction should be imposed.
+(b) The effective date of the sanction; and
+(c) The timeframe and procedure for Provider to appeal DBH's determination, if applicable.
+E.2.3 DBH may request the contracting officer to terminate this Agreement with at least ninety (90) days
+written notice to Provider if Provider fails to comply with the terms of the HCA, and/or any applicable
+law or regulation of the District or the United States regarding mental health services and mental health
+supports.
+E.2.4 DBH may request the contracting officer to terminate the HCA immediately if:
+(a) The United States Department of Health and Human Services withdraws federal financial
+participation in whole or part for the cost of covered services; funds are unavailable for the
+continuation of this HCA; or
+(b) DBH substantiates a finding of health care fraud or pattern of false claiming in violation of the
+False Claims Act.
+*** END OF SECTION E ***
+Page 20 of 54
+
+SECTION F: HUMAN CARE SERVICE ADMINISTRATION AND PERFORMANCE
+F.1 TERMS OF AGREEMENT
+F.1.1 The term of this HCA shall be for a period of one (1) base year from the date of award specified on the
+cover page of this HCA with four (4) one (1) year option periods, subject to the availability of funds for
+any period beyond the end of the District’s fiscal year, which begins on October 1, in which this HCA
+is awarded.
+F.1.2 The District may terminate this HCA in accordance with sections 8 and 27 of the Government of the District
+of Columbia Standard Contract Provisions for Use with District of Columbia Government Supply and
+Services, dated July 2010, hereafter referred to as "Standard Contract Provisions" or exercise sanctions
+in accordance with DBH policies, if the Provider fails to perform its obligations under this HCA in
+accordance with this HCA and in a timely manner or otherwise violates any provision of this HCA. See
+Section J.1 of the HCA and Standard Contract Provisions for default termination.
+F.2 AGREEMENT NOT A COMMITMENT OF FUNDS OR COMMITMENT TO PURCHASE
+This HCA is not a commitment by the District to purchase any quantity of a particular good or service
+covered under this HCA from the Provider. The District shall be obligated only to the extent that
+authorized purchases are actually made by funded purchase orders or task orders pursuant to this HCA.
+F.3 OPTION TO EXTEND TERM OF THE AGREEMENT
+F.3.1 The District may extend the term of this HCA for a period of four (4) one (1) year option periods, or
+successive fractions thereof, by written notice to the Provider before the expiration of the HCA; provided
+that the District will give the Provider preliminary written notice its intent to extend at least thirty (30)
+days before the HCA expires. The preliminary notice does not commit the District to an extension. The
+exercise of this option is subject to the availability of funds at the time of the exercise of this option.
+The Provider may waive the thirty (30) day preliminary notice requirement by providing a written waiver
+to the Contracting Officer prior to expiration of the HCA.
+F.3.2 If the District exercises this option, the extended HCA shall be considered to include this option
+provision.
+F.3.3 Total duration of this HCA, including the exercise of any options under this clause, shall not exceed five
+(5) years.
+F.3.4 The price for the option period shall be as specified in Section B of the HCA.
+F.4 CONTINUATION OF SERVICES
+Notwithstanding Section F.3.4 above, the District may extend the term of the HCA beyond the total term
+specified in the HCA in accordance with 27 DCMR §2005.2(b).
+F.5 OPTION YEAR PRICES
+Upon the District’s decision to exercise option years available, fixed price elements and the cost
+reimbursement ceilings shall be unchanged, unless the District issues a modification, in writing, that
+increases or lowers a fixed element or cost reimbursement ceiling.
+Page 21 of 54
+
+F.6 DELIVERABLES
+F.6.1 The Provider shall perform the activities required to successfully complete the District’s requirements and
+submit each deliverable to the CA identified in Section G.10.1.6 in accordance with the following:
+Deliverable Quantity Format/Method of Due Date
+Section Delivery
+G.1.1; Claims – As needed Per DBH policy Per DBH policy
+G.1.3; Submissions,
+G.1.9 posting and
+payments
+C.7.2 Incident Reports - As needed Per DBH policy Per DBH policy
+In accordance with
+DBH laws and
+policies, including
+but not limited to
+DBH Policy 480.1
+C.7.1 (c) Operational/ As required As required by the Within one business fay
+Administrative by the District District of initial request from
+Analysis Reports – DBH or as indicated in
+Reports should PO
+support proposed or
+implemented
+changes to
+operations and/or
+administration
+C.7 Reporting and As required As required by the As required by the
+Data Requirements by the District District District
+documentation
+F.6.2 The Provider shall submit to the District, as deliverable, the report described in section H.5.5 that is
+required by the 51% District Residents New Hires Requirements and First Source Employment
+Agreement. If the Provider does not submit the report as part of the deliverables, final payment to the
+Provider shall not be paid pursuant to section G.2.
+*** END OF SECTION F ***
+Page 22 of 54
+
+SECTION G: CONTRACT ADMINISTRATION
+G.1 BILLING AND PAYMENTS
+G.1.1 Claims Payment
+G.1.1.1 DBH, through the (MoU) between Department of Health Care Finance (DHCF) and DBH, has
+been delegated the authority to reimburse providers of adult substance use rehabilitation
+service (ASURS) in accordance with federal and District laws and rules and the ASURS state
+plan amendment (SPA), effective as of March 17, 2012.
+G.1.1.2 Upon execution of a Medicaid Provider Agreement with DHCF, DBH is authorized to accept,
+and process claims for services rendered by qualified ASURS providers. Any ASURS claim
+for reimbursement on a fee-for-service basis shall be paid in accordance with the rates outlined
+in Schedule B-Pricing Schedule in Section B or this HCA, as follows:
+(1) Federal Financial Participation: Claims for the federal share of expenditures for ASURS
+services shall be adjudicated and reimbursed to the Provider in accordance with the MOU
+and the referenced SPA and District and federal law and rules.
+(2) Local Match: The non-federal share of expenditures for ASURS services of claims
+adjudicated (Local Match) shall be paid to the Provider for any covered services as
+described in the certification standards and the SPA.
+G.1.1.3 The non-federal share shall include any portion of the claim billed at the rate provided in 22
+DCMR Chapter 52 or Purchase Orders entered into by and between DBH and the Provider
+which is not paid by Medicaid, equal to thirty percent (30%) of the total ASURS claim, except
+if the claim is rejected for cause, including but not limited to claims submitted by fraud,
+improperly documented claims, untimely claims or for failure to comply with any
+requirements of 22 DCMR Chapter 63,22 DCMR Chapter 34 or in violation of any other
+provision of District or federal law.
+G.1.1.4 If a claim submitted for ASURS services provided to a Medicaid eligible client is rejected for
+any of the foregoing reasons or for any other relevant reason, the Provider shall not be entitled
+to payment.
+G.1.1.5 If a claim is submitted and any portion of the reimbursement amount has been paid by the
+District but is subsequently rejected in accordance with G.1.1.4, above, any future payment
+to the Provider by the District shall be offset by the full amount of the claim.
+G.1.1.6 If a claim has been reimbursed by the District and subsequently deemed ineligible for payment
+as an ASURS service through any audit or other compliance or performance metric, any future
+payment to the Provider by the District shall be offset by the full amount of the claim.
+G.1.2 Medicaid-Ineligible Clients
+G.1.2.1 Prior to billing for any services, the Provider is first obligated to exhaust all third-party coverage
+except· for Medicaid, before a claim is submitted pursuant to the HCA for payment. Submission
+Page 23 of 54
+
+of a claim for payment for any Client is a representation that the Provider has exhausted all other
+avenues of payment except for Medicaid, including the client's ability to self-pay. The Provider is
+obligated to verify Medicaid eligibility and enroll each Medicaid eligible client in D.C. Medicaid
+at the time that the Provider begins providing services to DBH clients.
+G.1.2.2 The District shall pay to the Provider one hundred percent (100%) of the amount set forth in 22
+DCMR Chapter 91, for any ASURS service provided to any Client who is not Medicaid eligible
+at the time of service, subject to limitations set forth in this Purchase Order. The District shall
+reimburse Provider for properly completed claims for ASURS services provided in accordance
+with the Client's individual treatment plan (ITP), which are submitted in compliance with the
+HCA's claims processing procedures.
+G.1.3 Claims Submission Requirements
+G.1.3.1 All claims must be submitted electronically using the Provider’s practice management system or
+electronic health record system. Claims must conform to a format that is currently specified,
+accepted, and supported by DBH consistent with the Administrative Simplification Provisions of
+the Health Insurance Portability and Accountability Act (HIPAA).
+G.1.3.2 Except as otherwise permitted under applicable requirements, ASURS Medicaid shall be
+reimbursed if submitted at a time which allows the Department to submit such claims to DHCF
+within 365 days from the date service was rendered.
+G.1.4 Reimbursement for services provided under this HCA may be suspended if Provide to submit or
+make available for inspection any information required in Sections G.l through G.4 of this
+Agreement.
+G.1.5 Payment from DBH for any covered ASURS constitutes payment in full. The Provider may not
+bill the client for any difference between DBH's payment and Provider's charge for any covered
+ASURS. The Provider may not charge the client any co-payment, cost-sharing or similar charge.
+The Provider may charge the client any down payment whatsoever.
+G.1.6 The Provider may only bill the client for services not covered by the Medicaid program, including
+an) ASURS requiring prior authorization which has been denied by DBH, if the client is aware of
+the client liability and still chooses to have the service(s) rendered. In such instances, the Provider
+must advise client in writing of the client's liability prior to rendering the service(s). Said writing
+shall be maintain the Client's record.
+G.1.7 The Provider shall submit all local claims to DBH within thirty (30) days of providing ASURS or
+within thirty (30) days after another payer has adjudicated a claim for the ASURS. Subject to
+applicable federal and District laws and regulations, any Medicaid claim submitted after three
+hundred and sixty- five (365) days from the date ASURS were provided shall be rejected by DBH
+as a non- reimbursable service. If a claim is denied because the submission was unacceptable or
+untimely, the client shall not be billed for the ASURS.
+G.1.8 The Provider understands and agrees that payments for ASURS provided pursuant to this HCA
+are contingent upon the availability of public, non-federal matching funds, and Medicaid federal
+funding.
+G.1.9 If the DBH, the DHCF, the District, the federal government or any other funding source at any
+time disapproves of or ceases to continue funding to DBH for payments due hereunder, the HCA
+Page 24 of 54
+
+is terminated as of the date funding expires without notice or further obligation of DBH, except
+that, as soon as DBH is notified that funding shall cease, DBH shall immediately provide written
+notice to the Provider.
+G.1.10 The Provider shall prepare and provide proper clinical documentation in accordance with
+applicable District and federal laws and regulations for all client records to justify ASURS for
+which a claim is submitted for reimbursement.
+G.1.11 DBH shall not make reimbursement to the Provider in excess of the total amount available on the
+Provider's Purchase Order, unless such reimbursement is required under applicable law.
+G.1.12 Third Party Liability Recovery
+G.1.12.1 The Provider shall utilize and require its subcontractors to utilize, when available, covered medical
+and hospital services or payments from other public or private sources, including Medicare, prior
+to submitting a claim for ASURS to DBH.
+G.1.12.2 The Provider shall insure that Medicaid coverage is maintained for all Medicaid- eligible clients
+for whom any claim for ASURS is submitted to DBH.
+G.1.12.3 The Provider shall attempt to recover and shall require its subcontractors to attempt to recover
+monies from third party liability cases involving workers' compensation, accidental injury
+insurance and other subrogation of benefit settlements.
+G.1.12.4 DBH shall notify the Provider of any reported third-party payment sources.
+G.1.12.5 The Provider shall verify third party payment sources directly, when appropriate.
+G.1.12.6 Payment of District and federal funds under the District state Medicaid plan to the Provider shall
+be conditioned upon the utilization of all benefits available from such payment sources.
+G.1.12.7 Each third-party collection by the Provider for a Medicaid recipient shall be reported to DBH and
+all recovered monies shall be returned to DBH immediately upon recovery.
+G.2 FIRST SOURCE AGREEMENT REOUEST FOR FINAL PAYMENT
+G.2.1 For contracts subject to the 51% District Residents New Hires Requirements and First Source
+Employment Agreement requirements, final request for payment must be accompanied by the
+report or a waiver of compliance discussed in Section H.5.5.
+G.2.2 No final payment shall be made to the Provider until the agency CFO has received the
+Contracting Officer's final determination or approval of waiver of the Provider's compliance
+with 51% District Residents New Hires Requirements and First Source Employment
+Agreement requirements.
+G.3 ORDERING AND PAYMENT
+Payments should be based upon Section B (Price Schedule) and Section F (Deliverables).
+G.3.1 Payments On Partial Deliveries Of Services
+Unless otherwise specified in this contract, payment will be made on partial Deliveries of services
+Page 25 of 54
+
+accepted by the District if:
+(1) The amount due on the deliveries warrants it; or
+(2) The Provider requests it and the amount due on the deliveries is at least $1,000 or 50 percent
+of the total contract price.
+G.3.2 Ordering Clause
+G.3.2.1 Any supplies and services to be furnished under this contract must be ordered by issuance of
+delivery orders or task orders by the CO. Such orders may be issued during the term of this
+contract.
+G.3.2.2 All delivery orders or task orders are subject to the terms and conditions of this contract. In the
+event of a conflict between a delivery order or task order and this contract, the contract shall
+control.
+G.3.2.3 If mailed, a delivery order or task order is considered "issued" when the District deposits the
+order in the mail. Orders may be issued by facsimile or by electronic commerce methods.
+G.4 INVOICE SUBMITAL
+G.4.1 The Provider shall create and submit payment requests in an electronic format through the DC
+Vendor Portal, https://vendorportal.dc.gov
+Please note that the invoice shall match the Contract Line Items (CLIN) of the Purchase
+Order as written up to but not exceeding the maximum of each line. Any invoices deemed
+improper for payment shall be rejected and must be corrected and resubmitted as indicated
+in this clause.
+G.4.2 The Provider shall submit proper invoices monthly or as otherwise specified in Section G.3.
+G.4.3 To constitute a proper invoice, the Provider shall enter all required information into the Portal after
+selecting the applicable purchase order number which is listed on the Provider’s profile.
+G.5 CERTIFICATION OF INVOICE
+G.5.1 The CA shall perform certification of each of the Provider’s invoices.
+G.6 ASSIGNMENT OF CONTRACT PAYMENTS
+G.6.1 In accordance with 27 DCMR 3250, the Provider may assign to a bank, trust company or other
+financing institution funds due or to become due as a result of the performance of this Contract.
+G.6.2 Any assignment shall cover all unpaid amounts payable under this Contract and shall not be made
+to more than one party.
+G.6.3 Notwithstanding an assignment of contract payments, the Provider, not the assignee, is required to
+prepare invoices. Where such an assignment has been made, the original copy of the invoice must
+refer to the assignment and must show that payment of the invoice is to be made directly to the
+assignee as follows:
+“Pursuant to the instrument of assignment dated ___________, make payment of this invoice to
+Page 26 of 54
+
+(name and address of assignee).”
+G.7 THE QUICK PAYMENT ACT
+G.7.1 Interest Penalties to Providers
+a. The District will pay interest penalties on amounts due to the Provider under the Quick
+Payment Act, D.C. Official Code § 2-221.01 et seq., as amended, for the period beginning on
+the day after the required payment date and ending on the date on which payment of the
+amount is made. Interest shall be calculated at the rate of at least 1.5% per month. No interest
+penalty shall be paid if payment for the completed delivery of the item of property or service
+is made on or before the required payment date. The required payment date shall be:
+b. The date on which payment is due under the terms of the contract.
+c. Not later than 7 calendar days, excluding legal holidays, after the date of delivery of
+meat or meat food products.
+d. Not later than 10 calendar days, excluding legal holidays, after the date of delivery of
+a perishable agricultural commodity; or
+e. 30 calendar days, excluding legal holidays, after receipt of a proper invoice for the
+amount of the payment due.
+f. No interest penalty shall be due to the Provider if payment for the completed
+delivery of goods or services is made on or after:
+g. 3rd day after the required payment date for meat or a meat food product;
+h. 5th day after the required payment date for an agricultural commodity; or
+i. 15th day after any other required payment date.
+G.7.2 Any amount of an interest penalty which remains unpaid at the end of any 30-day period
+shall be added to the principal amount of the debt and thereafter interest penalties shall
+accrue on the added amount.
+G.8 RESERVED
+G.9 CONTRACTING OFFICER (CO)
+Contracts shall be entered into and signed on behalf of the DBH only by the Contracting Officers.
+The contact information for the COs is as follows:
+Laura Vargas
+Contracting Officer
+Office of Contracting and Procurement
+Department of Behavioral Health
+64 New York Avenue, NE, Second Floor
+Washington, DC 20002
+E-mail address: laura.vargas@dc.gov
+Page 27 of 54
+
+Farid Atmar
+Contracting Officer
+Office of Contracting and Procurement
+Department of Behavioral Health
+64 New York Avenue, NE, Second Floor
+Washington, DC 20002
+E-mail: farid.atmar@dc.gov
+G.9.1 AUTHORIZED CHANGES BY THE CONTRACTING OFFICER
+G.9.1.1 The Contracting Officer (CO) is the only person authorized to approve changes in any of the
+requirements of this Contract.
+G.9.1.2 The Provider shall not comply with any order, directive or request that changes or modifies the
+requirements of the Contract, unless issued in writing and signed by the CO.
+G.9.1.3 In the event the Provider effects any change at the instruction or request of any person other than
+the CO, the change shall be considered to have been made without authority and no adjustment
+shall be made in the Contract price to cover any cost increase incurred as a result thereof.
+G.10 CONTRACT ADMINISTRATOR (CA)
+G.10.1 The CA is responsible for general administration of the Contract and advising the Contracting
+Officer as to the Provider’s compliance or noncompliance with the Contract. The CA has the
+responsibility of: ensuring the work conforms to the requirements of the Contract and such other
+responsibilities and authorities as may be specified in the Contract. These include:
+G.10.1.1 Keeping the CO informed of any technical or contractual difficulties encountered during the
+performance period and advising the CO of any potential problem areas under the Contract.
+G.10.1.2 Coordinating site entry for Provider personnel, if applicable.
+G.10.1.3 Reviewing invoices for completed work and recommending approval by the Contracting Officer
+if the Provider’s costs are consistent with the negotiated amounts and progress is satisfactory and
+commensurate with the Rate of Expenditure.
+G.10.1.4 Reviewing and approving invoice for deliverables to ensure receipt of goods and services. This
+includes the timely processing of invoices in accordance with the District’s payment provisions;
+and
+G.10.1.5 Maintaining a file that includes all Contract correspondence, modifications, records of inspections
+(site, authorities as may be specified in the Contract. These include
+G.10.1.6 The address and telephone number of the CA is:
+Marsha Parker
+Provider Relations Specialist
+Provider Relations Division
+DC Department of Behavioral Health
+64 New York Avenue, N.E. Washington, D.C. 20002
+(O) 202-727-8931 (C) 202 604-0013
+Email: marsha.parker@dc.gov
+Page 28 of 54
+
+Adina Madden, MSSW, LICSW
+Director, Assessment & Referral Center
+Interim SUD Program Lead
+Adult Services Division
+Department of Behavioral Health
+75 P Street, NE
+Washington, DC 20002
+Desk: 202.673.3449
+Cell: 202.236.5586
+Fax: 202.727.8411
+G.10.1.7 The CA shall NOT have the authority to:
+(1) Award, agree to or sign any Contract, delivery order or task order. Only the Contracting
+Officer (CO) shall make contractual agreements, commitments, or modifications.
+(2) Grant deviations from or waive any of the terms and conditions of the Contract.
+(3) Increase the dollar limit of the Provider or authorize work beyond the dollar limit of the
+Contract.
+(4) Authorize the expenditure of funds by the Provider.
+(5) Change the Period of Performance; or
+(6) Authorize the use of District property, except as specified under the Contract.
+G.10.1.8 The Provider shall be fully responsible for any changes not authorized in advance, in writing, by
+the CO, may be denied compensation or other relief for any additional work performed that is not
+so authorized; and may also be required, at no additional cost to the District, to take all corrective
+action necessitated by reason of the unauthorized changes.
+G.11 AVAILABILITY OF FUNDS FOR THE NEXT FISCAL YEAR
+Funds are not presently available for the performance under this Contract beyond the current Fiscal
+Year. DBH’s obligation for the performance of this Contract beyond the current Fiscal Year is
+contingent upon the availability on appropriated funds from which payment for Contract purposes
+can be made. No legal liability on the part of DBH for any payment may arise for performance
+under this Contract beyond the current Fiscal Year, until funds are made available to the CO for
+performance and until the Provider receives notice of availability of funds, to be confirmed in
+writing by the Agency’s Chief Financial Officer (ACFO).
+*** END OF SECTION G ***
+Page 29 of 54
+
+SECTION H: SPECIAL CONTRACT REQUIREMENTS
+H.1 HIRING OF DISTRICT RESIDENTS AS APPRENTICES AND TRAINEES
+H.1.1 For all new employment resulting from this contract or subcontracts hereto, as defined in Mayor’s
+Order 83-265 and implementing instructions, the Provider shall use its best efforts to comply with the
+following basic goal and objectives for utilization of bona fide residents of the District of Columbia
+in each project’s labor force:
+H.1.1.1 At least fifty-one (51) percent of apprentices and trainees employed shall be residents of the District of
+Columbia registered in programs approved by the District of Columbia Apprenticeship Council.
+H.1.2 The Provider shall negotiate an Employment Agreement with the Department of Employment Services
+(“DOES”) for jobs created as a result of this contract. The DOES shall be the Provider’s first source
+of referral for qualified apprentices and trainees in the implementation of employment goals contained
+in this clause.
+H.2 DEPARTMENT OF LABOR WAGE DETERMINATIONS
+The Provider shall be bound by the Wage Determination No. 2015-4281, Revision No. 26, dated
+05/10/2023, issued by the U.S. Department of Labor in accordance with the Service Contract Act,
+41U.S.C. §351 et seq. and incorporated herein as Section J.2. The Provider shall be bound by the wage
+rates for the term of the contract subject to revision as stated herein and in accordance with Section 24
+of the SCP. If an option is exercised, the Provider shall be bound by the applicable wage rates at the
+time of the option. If the option is exercised and the CO obtains a revised wage determination, the
+revised wage determination is applicable for the option periods and the Provider may be entitled to an
+equitable adjustment.
+H.3 PREGNANT WORKERS FAIRNESS
+H.3.1 The Provider shall comply with the Protecting Pregnant Workers Fairness Act of 2016, D.C. Official
+Code § 32-1231.01 et seq. (PPWF Act).
+H.3.2 The Provider shall not:
+(1) Refuse to make reasonable accommodations to the known limitations related to pregnancy,
+childbirth, related medical conditions, or breastfeeding for an employee, unless the Provider can
+demonstrate that the accommodation would impose an undue hardship.
+(2) Take an adverse action against an employee who requests or uses a reasonable accommodation in
+regard to the employee's conditions or privileges of employment, including failing to reinstate the
+employee when the need for reasonable accommodations ceases to the employee's original job or
+to an equivalent position with equivalent:
+(a) Pay;
+(b) Accumulated seniority and retirement.
+(c) Benefits; and
+(d) Other applicable service credits.
+Page 30 of 54
+
+(3) Deny employment opportunities to an employee or a job applicant, if the denial is based on the
+need of the employer to make reasonable accommodations to the known limitations related to
+pregnancy, childbirth, related medical conditions or breastfeeding.
+(4) Require an employee affected by pregnancy, childbirth, related medical conditions or
+breastfeeding to accept an accommodation that the employee chooses not to accept if the employee
+does not have a known limitation related to pregnancy, childbirth, related medical conditions or
+breastfeeding or the accommodation is not necessary for the employee to perform her duties;
+(5) Require an employee to take leave if a reasonable accommodation can be provided; or
+(6) Take adverse action against an employee who has been absent from work as a result of a
+pregnancy-related condition, including a pre-birth complication.
+H.3.3 The Provider shall post and maintain in a conspicuous place a notice of rights in both English and
+Spanish and provide written notice of an employee's right to a needed reasonable accommodation
+related to pregnancy, childbirth, related medical conditions or breastfeeding pursuant to this chapter
+to:
+(1) New employees at the commencement of employment.
+(2) Existing employees; and
+(3) An employee who notifies the employer of her pregnancy, or other condition covered by the PPWF
+Act, within 10 days of the notification.
+H.3.4 The Provider shall provide an accurate written translation of the notice of rights to any non- English
+or non-Spanish speaking employee.
+H.3.5 Violations of the PPWF Act shall be subject to civil penalties as described in the Act.
+H.4 UNEMPLOYED ANTI-DISCRIMINATION
+H.4.1 The Provider shall comply with the Unemployed Anti-Discrimination Act of 2012, D.C. Official Code
+§ 32-1361 et seq.
+H.4.2 The Provider shall not:
+(1) Fail or refuse to consider for employment or fail or refuse to hire, an individual as an employee
+because of the individual's status as unemployed; or
+(2) Publish, in print, on the Internet or in any other medium, an advertisement or announcement for
+any vacancy in a job for employment that includes:
+(a) Any provision stating or indicating that an individual's status as unemployed disqualifies the
+individual for the job; or
+(b) Any provision stating or indicating that an employment agency will not consider or hire an
+individual for employment based on that individual's status as unemployed.
+H.4.3 Violations of the Unemployed Anti-Discrimination Act shall be subject to civil penalties as described
+Page 31 of 54
+
+in the Act.
+H.5 51% DISTRICT RESIDENTS’ NEW HIRES REQUIREMENTS AND FIRST SOURCE
+EMPLOYMENT AGREEMENT
+H.5.1 For contracts for services in the amount of $300,000 or more, the Provider shall comply with the First
+Source Employment Agreement Act of 1984, as amended, D.C. Official Code § 2-219.01 et seq. (First
+Source Act).
+H.5.2 The Provider shall enter into and maintain during the term of the contract, a First Source Employment
+Agreement (Employment Agreement) with the District of Columbia Department of Employment
+Service’s (DOES), in which the Provider shall agree that:
+(1) The first source for finding employees to fill all jobs created in order to perform the contract shall
+be the First Source Register; and
+(2) The first source for finding employees to fill any vacancy occurring in all jobs covered by the
+Employment Agreement shall be the First Source Register.
+H.5.3 The Provider shall not begin performance of the contract until its Employment Agreement has been
+accepted by DOES. Once approved, the Employment Agreement shall not be amended except with
+the approval of DOES.
+H.5.4 The Provider agrees that at least 51% of the new employees hired to perform the contract shall be
+District residents.
+H.5.5 The Provider’s hiring and reporting requirements under the First Source Act and any rules
+promulgated thereunder shall continue for the term of the contract.
+H.5.6 The CO may impose penalties, including monetary fines of 5% of the total amount of the direct and
+indirect labor costs of the contract, for a willful breach of the Employment Agreement, failure to
+submit the required hiring compliance reports or deliberate submission of falsified data.
+H.5.7 If the Provider does not receive a good faith waiver, the CO may also impose an additional penalty
+equal to 1/8 of 1% of the total amount of the direct and indirect labor costs of the contract for each
+percentage by which the Provider fails to meet its hiring requirements.
+H.5.8 Any Provider which violates, more than once within a 10-year timeframe, the hiring or reporting
+requirements of the First Source Act shall be referred for debarment for not more than five (5) years.
+H.5.9 The Provider may appeal any decision of the CO pursuant to this clause to the D.C. Contract Appeals
+Board as provided in clause 14, Disputes.
+H.5.10 The provisions of the First Source Act do not apply to nonprofit organizations which employ 50
+employees or less.
+H.5.11 DIVERSION, REASSIGNMENT AND REPLACEMENT OF KEY PERSONNEL
+The key personnel specified in the contract are considered to be essential to the work being performed
+hereunder. Prior to diverting any of the specified key personnel for any reason, the Provider shall
+notify the CO at least thirty (30) calendar days in advance and shall submit justification, including
+Page 32 of 54
+
+proposed substitutions, in sufficient detail to permit evaluation of the impact upon the contract. The
+Provider shall obtain written approval of the CO for any proposed substitution of key personnel.
+H.6 RESERVED
+H.7 RESERVED
+H.8 SUBCONTRACTING REQUIREMENTS
+H.8.1 The Director of the Department of Small and Local Business Development (DSLBD) has approved a
+waiver of the mandatory subcontracting requirements for this contract.
+H.8.2 A prime contractor that is a CBE and has been granted a bid preference pursuant to D.C. Official Code
+§ 2-218.43, or is selected through a set-aside program, shall perform at least 35% of the contracting
+effort with its own organization and resources and, if it subcontracts, 35% of the subcontracting effort
+shall be with CBEs. A CBE prime contractor that performs less than 35% of the contracting effort
+shall be subject to enforcement actions under D.C. Official Code § 2-218.63.
+H.8.3 A prime contractor that is a certified joint venture and has been granted a bid preference pursuant to
+D.C. Official Code § 2-218.43, or is selected through a set-aside program, shall perform at least 50%
+of the contracting effort with its own organization and resources and, if it subcontracts, 35% of the
+subcontracting effort shall be with CBEs. A certified joint venture prime contractor that performs less
+than 50% of the contracting effort shall be subject to enforcement actions under D.C. Official Code §
+2-218.63.
+H.8.4 Each CBE utilized to meet these subcontracting requirements shall perform at least 35% of its
+contracting effort with its own organization and resources.
+H.8.5 A prime contractor that is a CBE and has been granted a bid preference pursuant to D.C. Official Code
+§ 2-218.43, or is selected through a set-aside program, shall perform at least 50% of the on-site work
+with its own organization and resources if the contract is $1 million or less.
+H.9 FAIR CRIMINAL RECORD SCREENING
+H.9.1 The Provider shall comply with the provisions of the Fair Criminal Record Screening Amendment Act
+of 2014, effective December 17, 2014 (D.C. Law 20-152) (the “Act” as used in this section). This
+section applies to any employment, including employment on a temporary or contractual basis, where
+the physical location of the employment is in whole or substantial part within the District of Columbia.
+H.9.2 Prior to making a conditional offer of employment, the Provider shall not require an applicant for
+employment or a person who has requested consideration for employment by the Provider, to reveal
+or disclose an arrest or criminal accusation that is not then pending or did not result in a criminal
+conviction.
+H.9.3 After making a conditional offer of employment, the Provider may require an applicant to disclose or
+reveal a criminal conviction.
+H.9.4 The Provider may only withdraw a conditional offer of employment or take adverse action against an
+applicant, for a legitimate business reason as described in the Act.
+Page 33 of 54
+
+H.9.5 This section and the provisions of the Act shall not apply:
+(1) Where a federal or District law or regulation requires the consideration of an applicant’s criminal
+history for the purposes of employment.
+(2) To a position designated by the employer as part of a federal or District government program or
+obligation that is designed to encourage the employment of those with criminal histories.
+(3) To any facility or employer that provides programs, services or direct care to, children, youth or
+vulnerable adults; or
+(4) To employers that employ less than 11 employees.
+H.9.6 A person claiming to be aggrieved by a violation of the Act may file an administrative complaint with
+the District of Columbia Office of Human Rights and the Commission on Human Rights may impose
+monetary penalties against the Provider.
+H.10 PROVIDER RESPONSIBILITIES
+H.10.1 The Provider shall be responsible for providing qualified personnel to perform the required services
+outlined in the Scope of Work (Section C).
+H.10.2 The Provider shall notify the District immediately whenever the Provider does not have adequate staff,
+financial resources or facilities to comply with the provision of services under this Human Care
+Agreement.
+H.11 PRIVACY AND CONFIDENTIALITY COMPLIANCE
+H.11.1 Provider shall utilize the DATA Electronic Health Record (EHR) system for all documentation and
+billing activity related to the services provided under this Human Care Agreement.
+H.11.2 The Provider acknowledges that the DATA EHR system is an integrated system with the capacity to
+share protected health information between the Provider, the Department and other network providers
+when authorized by the Health Insurance Portability and Accountability Act of 1996, as amended
+(“HIPAA”) and associated regulations promulgated at 45 CFR Parts 160, 162 and 164 as amended and
+the D.C. Mental Health Information Act (“MHIA”), D.C. Official Code § 7-1201.01 et seq or 42 CFR,
+part 2. By agreeing to utilize the integrated DATA EHR system, the Provider agrees to become a
+member of the Department’s behavioral health network as described in the Department’s Joint Notice
+of Privacy Practices, Policy 1000.3 TL-195, found at http://dbh.dc.gov/node/240592.
+H.11.3 The parties acknowledge that both the Provider and the Department have joint legal responsibilities to
+protect the data in DATA in accordance with the HIPAA Privacy and Security Rule and the MHIA.
+As the license holder and administrator for the DATA EHR system, the Department owns the patient
+data created and maintained in the system and has primary responsibility to manage and safeguard the
+patient data in accordance with the confidentiality laws referenced in H.12.2. This responsibility
+begins the moment patient data is entered by any network provider and remains as long as the
+information retains legal protections under HIPAA and the MHIA. As a covered entity and authorized
+user of the DATA EHR system, the Provider has an independent legal obligation to comply with
+HIPAA and the MHIA in its use of DATA. Both parties hereby expressly agree to comply with HIPAA
+and the MHIA in the use, management and administration of the DATA EHR system.
+Page 34 of 54
+
+H.11.4 Because of the parties’ mutual obligations to safeguard the patient data in DATA, The Provider shall
+agree to the additional confidentiality provisions described below. All terms used shall have the same
+meaning as those terms in the HIPAA regulations:
+(1) The parties agree not to use or disclose Protected Health Information or electronic Protected Health
+Information (hereinafter “PHI” or Protected Health Information”) other than as permitted or
+required by HIPAA and the MHIA.
+(2) The parties agree to use appropriate safeguards and comply with administrative, physical and
+technical safeguards requirements in 42 CFR, part 2, 45 C.F.R. §§ 164.308, 164.310,164.312 and
+164.316 as required by § 13401 of the Health Information Technology Economic and Clinical
+Health ACT (February 18, 2010) (“HITECH”), to maintain the security of the Protected Health
+Information, including electronic Protected Health Information (ePHI).
+H.11.5 The parties further acknowledge that, pursuant to HITECH, it must comply with the Security Rule and
+privacy provisions detailed in this Clause. As such, the parties are under the jurisdiction of the United
+States Department of Health and Human Services and are directly liable for their own compliance. A
+summary of HIPAA Security Rule standards, found at Appendix A to Subpart C of 45 C.F.R. Part
+164 is as follows.
+Administrative Safeguards
+Security Management Process 164.308(a)(1) Risk Analysis (R=Required)
+Risk Management (R)
+Sanction Policy (R)
+Information System Activity Review
+(R)
+Assigned Security Responsibility 164.308(a)(2) (R)
+Workforce Security 164.308(a)(3) Authorization and/or Supervision
+(A=Addressable)
+Workforce Clearance Procedure
+Termination Procedures (A)
+Information Access Management 164.308(a)(4) Isolating Health care Clearinghouse
+Function (R)
+Access Authorization (A)
+Access Establishment and
+Modification (A)
+Security Awareness and Training 164.308(a)(5) Security Reminders (A)
+Protection from Malicious
+Software (A)
+Log-in Monitoring (A)
+Password Management (A)
+Security Incident Procedures 164.308(a)(6) Response and Reporting (R)
+Page 35 of 54
+
+Contingency Plan 164.308(a)(7 Data Backup Plan (R)
+Disaster Recovery Plan (R)
+Emergency Mode Operation
+Plan (R)
+Testing and Revision Procedure (A)
+Applications and Data Criticality
+Analysis (A)
+Evaluation 164.308(a)(8) (R)
+Business Associate Contracts and 164.308(b)(1) Written Contract or Other
+Other Arrangement Arrangement (R)
+Physical Safeguards
+Facility Access Controls 164.310(a)(1) Contingency Operations (A)
+Facility Security Plan (A)
+Access Control and Validation
+Procedures (A)
+Maintenance Records (A)
+Workstation Use 164.310(b) ®
+Workstation Security 164.310(®(R)
+Device and Media 164.310(d)(1) Dis®al (R)
+Controls Medi®e-use (R)
+Accountability (A)
+Data Backup and Storage (A)
+Technical Safeguards (see § 164.312)
+Access Control 164.312(a)(1) Unique User Identification (R)
+Emergency Access Procedure (R)
+Automatic Logoff (A) Encryption
+and Decryption (A)
+Audit Controls 164.312(b) (R)
+Integrity 164.312(c)(1) Mechanism to Authenticate
+Electronic Protected Health
+Information (A)
+Person or Entity 164.312(d) (R)
+Authentication
+Transmission Security 164.312(e)(1) Integrity Controls (A)
+Encryption (A)
+(1) Privacy Officer. The parties agree to each name a Privacy and/or Security Officer who is
+accountable for developing, maintaining, implementing, overseeing the compliance of and
+enforcing compliance with this section, the Security Rule and other applicable federal and state
+privacy laws.
+(2) Breach Notification and Responsibilities. The Provider agrees to report to the Department and
+the Department agrees to report to the Provider, in writing, any use or disclosure of the Protected
+Page 36 of 54
+
+Health Information of a consumer assigned to the Provider not permitted or required by HIPAA
+or the MHIA or other incident or condition arising out the Security Rule, including breaches of
+unsecured protected health information as required at 45CFR 164.410, within two (2) days from
+the time the respective party becomes aware of such unauthorized use or disclosure. This includes
+any security incident of which the parties become aware, including any unauthorized attempts to
+access electronic protected health information (ePHI), whether those attempts were successful or
+not. Upon the determination of an actual data breach, the party who caused the breach shall be
+responsible for the breach and handle any required breach
+(3) notifications to individuals, the HHS Office for Civil Rights (OCR) and the media, as applicable.
+The parties agree to establish procedures for mitigating and to mitigate to the extent required by
+law, any deleterious effects that are known to the parties of a use or disclosure of Protected
+Health Information in violation of the requirements of this section. The parties hereby
+incorporate the Department’s Privacy Manual, Policy 100.3, found at
+http://dbh.dc.gov/node/240592
+(4) The parties shall ensure that any workforce member or any agent, including a subcontractor or
+business associate, agrees to the same restrictions and conditions that apply through this section
+with respect to Protected Health Information received from the other. The Department shall
+ensure that all other network human care providers with access to protected health information
+in DATA agree in writing to the same restrictions and conditions that apply throughout this
+section.
+(5) Upon written request, the Provider agrees to provide the Department with a list of all
+subcontractors who meet the definition of a Business Associate. Upon written request, the
+Department agrees to provide the Provider with a list of all other human care providers and
+business associates with access to DATA. Requests may include copies of contracts and business
+associate agreements.
+(6) Except as otherwise limited in this section, the Provider may use or disclose Protected Health
+Information to perform functions, activities or services provided that such use or disclosure
+would not violate HIPAA or the MHIA.
+(7) The parties agree to make available protected health information in a designated record set to the
+other as necessary to satisfy a covered entity’s obligations under 45 C.F.R. § 164.524. The parties
+agree to make any amendment(s) to protected health information in a designated record set as
+directed or agreed to by the covered entity pursuant to 45 C.F.R. § 164.526 or take other
+measures as necessary to satisfy a covered entity’s obligations under 45C.F.R. § 164.526.
+(8) The parties agree to maintain and make available the information required to provide an
+accounting of disclosures to the other as necessary to satisfy the covered entity’s obligations
+under 45 C.F.R. § 164.528.
+(9) To the extent the other party is to carry out one or more of a covered entity's obligation(s) under
+Subpart E of 45 C.F.R. Part 164, each party shall comply with the requirements of Subpart E
+that apply to the covered entity in the performance of such obligation(s).
+(10) The parties agree to make its internal practices, books and records available to the Secretary of
+the U.S. Department of Health and Human Services or her delegates, for purposes of determining
+compliance with the HIPAA Rules.
+Page 37 of 54
+
+(11) Modification. The parties agree to modify this agreement, if necessary, to comply with any
+HIPAA or MHIA legal requirement.
+(12) Training. The parties agree to train their workforce members, agents and subcontractors on the
+requirements of this section. In the event of privacy or security violations in the workplace, the
+parties shall impose appropriate discipline in accordance with the parties’ workplace rules,
+federal and state laws and any applicable collective bargaining agreements.
+(13) The parties shall reasonably cooperate with each other in the performance of the mutual
+obligations under this section.
+(14) This section continues in force for as long as the Provider retains any access to ePHI in DATA/
+DATA or otherwise possesses protected health information as a result of this human care
+agreement.
+(15) Material Breach. In the event of a material breach of this section, the parties shall afford the
+breaching party a reasonable opportunity to cure the breach. Both parties reserve the right to
+terminate the human care agreement in the event of material breach of this section when a cure
+is not possible.
+(16) Any ambiguity in this HIPAA Compliance Clause shall be resolved to permit compliance with
+applicable federal and District of Columbia laws, rules and regulations and the HIPAA Rules
+and any requirements, rulings, interpretations, procedures or other actions related thereto that are
+promulgated, issued or taken by or on behalf of the Secretary; provided that applicable federal
+and District of Columbia laws, rules and regulations shall supersede the Privacy Rule if and to
+the extent that they impose additional requirements, have requirements that are more stringent
+than or provide greater protection of patient privacy or the security or safeguarding of Protected
+Health Information than those of the HIPAA Rules.
+(17) No Third Party Rights. The Department and the Provider are the only parties to this HIPAA
+Compliance Clause and are the only parties entitled to enforce its terms. Except for the rights of
+Individuals to have access to and amend their Protected Health Information and to an accounting
+of the uses and disclosures thereof, in accordance with Paragraphs (2) (h), (i) and (j), nothing in
+the HIPAA Compliance Clause gives, is intended to give or shall be construed to give or provide
+any benefit or right, whether directly, indirectly or otherwise, to third persons.
+(18) Hold Harmless. The Department agrees to hold harmless and defend the Provider from and
+against any claims arising from the Department’s non-compliance with this section. The Provider
+agrees to hold harmless and defend the Department from and against any claims arising from the
+Provider’s non-compliance with this section.
+(19) Injunctive Relief. Notwithstanding any rights or remedies under this HIPAA Compliance Clause
+or provided by law, the parties retain all rights to seek injunctive relief to prevent or stop the
+unauthorized use or disclosure of Protected Health Information by the other party, its workforce,
+any of its subcontractors, agents or any third party who has received Protected Health
+Information from the offending party.
+(20) Assistance in litigation or administrative proceedings. The parties agree to make their officers,
+employees, agents or subcontractors available to the other party, including as witnesses, when
+necessary to respond in any litigation or administrative proceeding or investigation arising fully
+and appropriately from a violation of this section.
+Page 38 of 54
+
+(21) Headings. Headings are for convenience only and form no part of this HIPAA Compliance
+Clause and shall not affect its interpretation.
+(22) Successors and Assigns. The provisions of this HIPAA Compliance Clause shall be binding upon
+and shall inure to the benefit of the Parties hereto and their respective successors and permitted
+assigns, if any.
+(23) Severance. In the event that any provision of this HIPAA Compliance Clause is held by a court
+of competent jurisdiction to be invalid or unenforceable, the remainder of the provisions of this
+HIPAA Compliance Clause will remain in full force and effect. In addition, in the event a Party
+believes in good faith that any provision of this HIPAA Compliance Clause fails to comply with
+HIPAA or the MHIA, such party shall notify the other Party in writing, in the manner set forth
+in Section 10. Miscellaneous, Paragraph k. Notices. Within ten (10) business days from receipt
+of notice, the Parties shall address in good faith such concern and amend the terms of this HIPAA
+Compliance Clause, if necessary, to bring it into compliance. If, after thirty (30) days, the HIPAA
+Compliance Clause fails to comply with HIPAA or the MHIA, then either Party has the right to
+terminate this HIPAA Compliance Clause upon written notice to the other Party.
+(24) Independent Provider. The Provider will function as an independent Provider and shall not be
+considered an agent of the Department for any purpose. Nothing in this HIPAA Compliance
+Clause shall be interpreted as authorizing one party, its subcontractor(s) or its agent(s) or
+employee(s) to act as an agent for or on behalf of the other party.
+H.11.6 Entire Agreement. This HIPAA Compliance Clause constitutes the entire agreement and
+understanding between the Parties and supersedes all prior oral and written agreements and
+understandings between them with respect to applicable HIPAA, MHIA and other District of Columbia
+and federal laws, rules and regulations governing the privacy and security of protected health
+information.
+*** END OF SECTION H ***
+Page 39 of 54
+
+SECTION I: CONTRACT CLAUSES
+I.1 APPLICABILITY OF STANDARD CONTRACT PROVISIONS
+The Standard Contract Provisions for use with District of Columbia Government Supplies and Services
+Contracts dated July 2010 (“SCP”) are incorporated as part of the contract. To obtain a copy of the SCP
+go to www.ocp.dc.gov, click on OCP Policies under the heading “Information”, then click on “Standard
+Contract Provisions – Supplies and Services Contracts”.
+I.2 CONTRACTS THAT CROSS FISCAL YEARS
+Continuation of this contract beyond the current fiscal year is contingent upon future fiscal appropriations.
+I.3 CONFIDENTIALITY OF INFORMATION
+The Provider shall keep all information relating to any employee or customer of the District in absolute
+confidence and shall not use the information in connection with any other matters; nor shall it disclose
+any such information to any other person, firm or corporation, in accordance with the District and federal
+laws governing the confidentiality of records.
+I.4 TIME
+Time, if stated in a number of days, will include Saturdays, Sundays and holidays, unless otherwise stated
+herein.
+I.5 RIGHTS IN DATA
+Delete Article 42, Rights in Data, of the Standard Contract Provisions dated July 2010 for use with District
+of Columbia Government Supplies and Services Contracts and substitute the following Article 42, Rights
+in Data) in its place:
+A. Definitions
+“Products” - A deliverable under any contract that may include commodities, services and/or technology
+furnished by or through Provider, including existing and custom Products, such as, but not limited to:
+a) recorded information, regardless of form or the media on which it may be recorded; b) document
+research; c) experimental, developmental or engineering work; d) licensed software; e) components of the
+hardware environment; f) printed materials (including but not limited to training manuals, system and user
+documentation, reports, drawings); g) third party software; h) modifications, customizations, custom
+programs, program listings, programming tools, data, modules, components; and i) any intellectual
+property embodied therein, whether in tangible or intangible form, including but not limited to utilities,
+interfaces, templates, subroutines, algorithms, formulas, source code and object code.
+1. “Existing Products” - Tangible Products and intangible licensed Products that exist prior to the
+commencement of work under the contract. Existing Products must be identified on the Product prior
+to commencement of work or else will be presumed to be Custom Products.
+2. “Custom Products” - Products, preliminary, final or otherwise, which are created or developed by
+Provider, its subcontractors, partners, employees, resellers or agents for the District under the contract.
+3. “District” – The District of Columbia and its agencies.
+Page 40 of 54
+
+B. Title to Project Deliverables
+The Provider acknowledges that it is commissioned by the District to perform services detailed in the
+contract. The District shall have ownership and rights for the duration set forth in the contract to use, copy,
+modify, distribute or adapt Products as follows:
+1. Existing Products: Title to all Existing Licensed Product(s), whether or not embedded in, delivered
+or operating in conjunction with hardware or Custom Products, shall: (1) remain with Provider or
+third party proprietary owner, who retains all rights, title and interest (including patent, trademark or
+copyrights). Effective upon payment, the District is granted an irrevocable, non-exclusive,
+worldwide, paid-up license to use, execute, reproduce, display, perform, adapt (unless Provider
+advises the District as part of Provider’s proposal that adaptation will violate existing agreements or
+statutes and Provider demonstrates such to the District’s satisfaction) and distribute Existing Product
+to District users up to the license capacity stated in the contract with all license rights necessary to
+fully effect the general business purpose(s) of the project or work plan or contract; and (2) be licensed
+in the name of the District. The District agrees to reproduce the copyright notice and any other legend
+of ownership on any copies authorized under this paragraph.
+2. Custom Products: Effective upon Product creation, Provider hereby conveys, assigns and transfers
+to the District the sole and exclusive rights, title and interest in Custom Product(s), whether
+preliminary, final or otherwise, including all patent, trademark and copyrights. Provider hereby
+agrees to take all necessary and appropriate steps to ensure that the Custom Products are protected
+against unauthorized copying, reproduction and marketing by or through Provider.
+C. Transfers or Assignments of Existing or Custom Products by the District
+The District may transfer or assign Existing or Custom Products and the licenses thereunder to another
+District agency. Nothing herein shall preclude the Provider from otherwise using the related or underlying
+general knowledge, skills, ideas, concepts, techniques and experience developed under a project or work
+plan in the course of Provider’s business.
+D. Source Code Escrow
+1. For all computer software furnished to the District with the rights specified in section B.2, the Provider
+shall furnish to the District, a copy of the source code with such rights of the scope as specified in
+section B.2 of this clause. For all computer software furnished to the District with the restricted rights
+specified in section B.1 of this clause, the District, if the Provider either directly or through a successor
+or affiliate shall cease to provide the maintenance or warranty services provided the District under the
+contract or any paid-up maintenance agreement or if the Provider should be declared insolvent by a
+court of competent jurisdiction, shall have the right to obtain, for its own and sole use only, a single
+copy of the current version of the source code supplied under the contract and a single copy of the
+documentation associated therewith, upon payment to the person in control of the source code the
+reasonable cost of making each copy.
+2. If the Provider or Product manufacturer/developer of software furnished to the District with the rights
+specified in section B.1 of this clause offers the source code or source code escrow to any other
+commercial customers, the Provider shall either: (1) provide the District with the source code for the
+Product; (2) place the source code in a third party escrow arrangement with a designated escrow agent
+who shall be named and identified to the District and who shall be directed to release the deposited
+source code in accordance with a standard escrow arrangement acceptable to the District; or (3) will
+Page 41 of 54
+
+certify to the District that the Product manufacturer/ developer has named the District as a named
+beneficiary of an established escrow arrangement with its designated escrow agent who shall be
+named and identified to the District and who shall be directed to release the deposited source code in
+accordance with the terms of escrow.
+3. The Provider shall update the source code, as well as any corrections or enhancements to the source
+code, for each new release of the Product in the same manner as provided above and certify such
+updating of escrow to the District in writing.
+E. Indemnification and Limitation of Liability
+The Provider shall indemnify and save and hold harmless the District, its officers, agents and employees
+acting within the scope of their official duties against any liability, including costs and expenses, (i) for
+violation of proprietary rights, copyrights or rights of privacy, arising out of the publication, translation,
+reproduction, delivery, performance, use or disposition of any data furnished under this contract or (ii)
+based upon any data furnished under this contract or based upon libelous or other unlawful matter
+contained in such data.
+I.6 OTHER PROVIDERS
+The Provider shall not commit or permit any act that will interfere with the performance of work by another
+District Provider or by any District employee.
+I.7 INSURANCE
+A. GENERAL REQUIREMENTS.
+The Provider at its sole expense shall procure and maintain, during the entire period of performance under
+this contract, the types of insurance specified below. The Provider shall have its insurance broker or
+insurance company submit a Certificate of Insurance to the CO giving evidence of the required coverage
+prior to commencing performance under this contract. In no event shall any work be performed until the
+required Certificates of Insurance signed by an authorized representative of the insurer(s) have been
+provided to, and accepted by, the CO. All insurance shall be written with financially responsible
+companies authorized to do business in the District of Columbia or in the jurisdiction where the work is
+to be performed and have an A.M. Best Company rating of A- / VII or higher. Should the Provider decide
+to engage a subcontractor for segments of the work under this contract and wish to propose different
+insurance requirements than outlined below, then, prior to commencement of work by the subcontractor,
+the Provider shall submit in writing the name and brief description of work to be performed by the
+subcontractor on the Subcontractors Insurance Requirement Template provided by the CA, to the Office
+of Risk Management (ORM). ORM will determine the insurance requirements applicable to the
+subcontractor and promptly deliver such requirements in writing to the Provider and the CA. The Provider
+must provide proof of the subcontractor's required insurance prior to commencement of work by the
+subcontractor. If the Provider decides to engage a subcontractor without requesting from ORM specific
+insurance requirements for the subcontractor, such subcontractor shall have the same insurance
+requirements as the Provider.
+General liability, commercial auto, workers' compensation and property insurance policies (if applicable
+to this agreement) shall contain a waiver of subrogation provision in favor of the Government of the
+District of Columbia.
+The Government of the District of Columbia shall be included in all policies required hereunder to be
+maintained by the Provider and its subcontractors (except for workers’ compensation and professional
+Page 42 of 54
+
+liability insurance) as an additional insureds for claims against The Government of the District of
+Columbia relating to this contract, with the understanding that any affirmative obligation imposed upon
+the insured Contractor or its subcontractors (including without limitation the liability to pay premiums)
+shall be the sole obligation of the Provider or its subcontractors, and not the additional insured. The
+additional insured status under the Provider’s and its subcontractors’ Commercial General Liability
+insurance policies shall be effected using the ISO Additional Insured Endorsement form CG 20 10 11 85
+(or CG 20 10 07 04 and CG 20 37 07 04) or such other endorsement or combination of endorsements
+providing coverage at least as broad and approved by the CO in writing. All of the Contractor’s and its
+subcontractors’ liability policies (except for workers’ compensation and professional liability insurance)
+shall be endorsed using ISO form CG 20 01 04 13 or its equivalent so as to indicate that such policies
+provide primary coverage (without any right of contribution by any other insurance, reinsurance or self-
+insurance, including any deductible or retention, maintained by an Additional Insured) for all claims
+against the additional insured arising out of the performance of this Statement of Work by the Provider or
+its subcontractors, or anyone for whom the Provider or its subcontractors may be liable. These policies
+shall include a separation of insureds clause applicable to the additional insured.
+If the Provider and/or its subcontractors maintain broader coverage and/or higher limits than the
+minimums shown below, the District requires and shall be entitled to the broader coverage and/or the
+higher limits maintained by the Provider and subcontractors.
+A. INSURANCE REQUIREMENTS
+1. Commercial General Liability Insurance (“CGL”) - The Contractor shall provide evidence satisfactory
+to the CO with respect to the services performed that it carries a CGL policy, written on an occurrence
+(not claims-made) basis, on Insurance Services Office, Inc. (“ISO”) form CG 00 01 04 13 (or another
+occurrence-based form with coverage at least as broad and approved by the CO in writing), covering
+liability for all ongoing and completed operations of the Provider, including ongoing and completed
+operations under all subcontracts, and covering claims for bodily injury, including without limitation
+sickness, disease or death of any persons, injury to or destruction of property, including loss of use
+resulting therefrom, personal and advertising injury, and including coverage for liability arising out of
+an Insured Contract (including the tort liability of another assumed in a contract) and acts of terrorism
+(whether caused by a foreign or domestic source). Such coverage shall have limits of liability of not less
+than $1,000,000 each occurrence, a $2,000,000 general aggregate (including a per location or per
+project aggregate limit endorsement, if applicable) limit, a $1,000,000 personal and advertising injury
+limit, and a $2,000,000 products-completed operations aggregate limit.
+The Provider should be named as an additional insured on the applicable manufacturer’s/distributer’s
+Commercial General Liability policy using Insurance Services Office, Inc. (“ISO”) form CG 20 15 04
+13 (or another occurrence-based form with coverage at least as broad).
+DBH should collect, review for accuracy and maintain all warranties for goods and services.
+2. Automobile Liability Insurance - The Provider shall provide evidence satisfactory to the CO of
+commercial (business) automobile liability insurance written on ISO form CA 00 01 10 13 (or another
+form with coverage at least as broad and approved by the CO in writing) including coverage for all
+owned, hired, borrowed and non-owned vehicles and equipment used by the Provider, with minimum
+per accident limits equal to the greater of (i) the limits set forth in the Provider’s commercial
+Page 43 of 54
+
+automobile liability policy or (ii) $1,000,000 per occurrence combined single limit for bodily injury
+and property damage.
+3. Workers’ Compensation Insurance - The Provider shall provide evidence satisfactory to the CO of
+Workers’ Compensation insurance in accordance with the statutory mandates of the District of
+Columbia or the jurisdiction in which the contract is performed.
+Employer’s Liability Insurance - The Provider shall provide evidence satisfactory to the CO of
+employer’s liability insurance as follows: $500,000 per accident for injury; $500,000 per employee
+for disease; and $500,000 for policy disease limit.
+All insurance required by paragraphs 1,2 and 3 shall include a waiver of subrogation endorsement for
+the benefit of the Government of the District of Columbia.
+4. Cyber Liability Insurance - The Provider shall provide evidence satisfactory to the Contracting Officer
+of Cyber Liability Insurance, with limits not less than $2,000,000 per occurrence or claim, $2,000,000
+aggregate. Coverage shall be sufficiently broad to respond to the duties and obligations as is
+undertaken by Provider in this agreement and shall include, but not limited to, claims involving
+infringement of intellectual property, including but not limited to infringement of copyright,
+trademark, trade dress, invasion of privacy violations, information theft, damage to or destruction of
+electronic information, release of private information, alteration of electronic information, extortion
+and network security. The policy shall provide coverage for breach response costs as well as
+regulatory fines and penalties as well as credit monitoring expenses with limits sufficient to respond
+to these obligations. Limits may not be shared with other lines of coverage. A copy of the cyber
+liability policy must be submitted to the Office of Risk Management (ORM) for compliance review.
+5. Professional Liability Insurance (Errors & Omissions) - The Provider shall provide Professional
+Liability Insurance (Errors and Omissions) to cover liability resulting from any error or omission in
+the performance of professional services under this Contract. The policy shall provide limits of
+$1,000,000 per claim or per occurrence for each wrongful act and $2,000,000 annual aggregate. The
+Provider warrants that any applicable retroactive date precedes the date the Contractor first performed
+any professional services for the Government of the District of Columbia and that continuous coverage
+will be maintained or an extended reporting period will be exercised for a period of at least ten years
+after the completion of the professional services. Limits may not be shared with other lines of
+coverage.
+6. Sexual/Physical Abuse & Molestation - The Provider shall provide evidence satisfactory to the
+Contracting Officer with respect to the services performed that it carries $1,000,000 per occurrence
+limits; $2,000,000 aggregate of affirmative abuse and molestation liability coverage. Coverage should
+include physical abuse, such as sexual or other bodily harm and non-physical abuse, such as verbal,
+emotional or mental abuse; any actual, threatened or alleged act; errors, omission or misconduct. This
+insurance requirement will be considered met if the general liability insurance includes an affirmative
+sexual abuse and molestation endorsement for the required amounts. So called “silent” coverage or
+“shared” limits under a commercial general liability or professional liability policy will not be
+acceptable. Limits may not be shared with other lines of coverage. The applicable policy may need to
+be submitted to the Office of Risk Management (ORM) for compliance review.
+Page 44 of 54
+
+7. Commercial Umbrella or Excess Liability - The Contractor shall provide evidence satisfactory to the
+CO of commercial umbrella or excess liability insurance with minimum limits equal to the greater of
+(i) the limits set forth in the Contractor’s umbrella or excess liability policy or (ii) $5,000,000 per
+occurrence and $5,000,000 in the annual aggregate, following the form and in excess of all liability
+policies. All liability coverages must be scheduled under the umbrella and/or excess policy. The
+insurance required under this paragraph shall be written in a form that annually reinstates all required
+limits. Coverage shall be primary to any insurance, self-insurance or reinsurance maintained by the
+District and the “other insurance” provision must be amended in accordance with this requirement and
+principles of vertical exhaustion.
+B. PRIMARY AND NONCONTRIBUTORY INSURANCE
+The insurance required herein shall be primary to and will not seek contribution from any other insurance,
+reinsurance or self-insurance including any deductible or retention, maintained by the Government of the
+District of Columbia.
+C. DURATION. The Contractor shall carry all required insurance until all contract work is accepted by the
+District of Columbia and shall carry listed coverages for ten years for construction projects following final
+acceptance of the work performed under this contract and two years for non-construction related contracts.
+D. LIABILITY. These are the required minimum insurance requirements established by the District of
+Columbia. However, the required minimum insurance requirements provided above will not in any way
+limit the Provider’s liability under this contract.
+E. PROVIDER’S PROPERTY. Providers and subcontractors are solely responsible for any loss or damage
+to their personal property, including but not limited to tools and equipment, scaffolding and temporary
+structures, rented machinery, or owned and leased equipment. A waiver of subrogation shall apply in
+favor of the District of Columbia.
+F. MEASURE OF PAYMENT. The District shall not make any separate measure or payment for the cost
+of insurance and bonds. The Provider shall include all of the costs of insurance and bonds in the contract
+price.
+G. NOTIFICATION. The Provider shall ensure that all policies provide that the CO shall be given thirty
+(30) days prior written notice in the event of coverage and / or limit changes or if the policy is canceled
+prior to the expiration date shown on the certificate. The Provider shall provide the CO with ten (10) days’
+prior written notice in the event of non-payment of premium. The Provider will also provide the CO with
+an updated Certificate of Insurance should its insurance coverage be renewed during the contract.
+H. CERTIFICATES OF INSURANCE. The Provider shall submit certificates of insurance giving evidence
+of the required coverage as specified in this section prior to commencing work. Certificates of insurance
+must reference the corresponding contract number. Evidence of insurance shall be submitted to:
+The Government of the District of Columbia and mailed to the attention of:
+Laura Vargas
+Contracting Officer
+Office of Contracting and Procurement
+Department of Behavioral Health
+64 New York Avenue, NE, Second Floor
+Page 45 of 54
+
+Washington, DC 20002
+E-mail address: laura.vargas@dc.gov
+The CO may request, and the Provider shall promptly deliver updated certificates of insurance,
+endorsements indicating the required coverages, and/or certified copies of the insurance policies. If the
+insurance initially obtained by the Provider expires prior to completion of the contract, renewal certificates
+of insurance and additional insured and other endorsements shall be furnished to the CO prior to the date
+of expiration of all such initial insurance. For all coverage required to be maintained after completion, an
+additional certificate of insurance evidencing such coverage shall be submitted to the CO on an annual
+basis as the coverage is renewed (or replaced).
+I. DISCLOSURE OF INFORMATION. The Provider agrees that the District may disclose the name and
+contact information of its insurers to any third party which presents a claim against the District for any
+damages or claims resulting from or arising out of work performed by the Provider, its agents, employees,
+servants or subcontractors in the performance of this contract.
+J. CARRIER RATINGS. All Provider’s and its subcontractors’ insurance required in connection with this
+contract shall be written by insurance companies with an A.M. Best Insurance Guide rating of at least A-
+VII (or the equivalent by any other rating agency) and licensed in the District.
+I.8 EQUAL EMPLOYMENT OPPORTUNITY
+In accordance with the District of Columbia Administrative Issuance System, Mayor’s Order 85-85 dated
+June 10, 1985, the forms for completion of the Equal Employment Opportunity Information Report are
+incorporated herein as Section J.3. An award cannot be made to any Provider who has not satisfied the equal
+employment requirements.
+I.9 ORDER OF PRECEDENCE
+The contract awarded as a result of this RFQ will contain the following clause:
+ORDER OF PRECEDENCE
+A conflict in language shall be resolved by giving precedence to the document in the highest order of
+priority that contains language addressing the issue in question. The following documents are incorporated
+into the contract by reference and made a part of the contract in the following order of precedence:
+1. An applicable Court Order, if any
+2. HCA
+3. Standard Contract Provisions
+4. Contract attachments other than the Standard Contract Provisions
+5. RFQ, as amended.
+6. Proposal- Provider’s Response to RFQ
+I.10 DISPUTES
+Delete Article 14, Disputes, of the Standard Contract Provisions for use with District of Columbia
+Government Supplies and Services Contracts and substitute the following Article 14, Disputes) in its
+place:
+14. Disputes
+Page 46 of 54
+
+All disputes arising under or relating to the contract shall be resolved as provided herein.
+(a) Claims by the Provider against the District: Claim, as used in paragraph (a) of this clause, means
+a written assertion by the Provider seeking, as a matter of right, the payment of money in a sum
+certain, the adjustment or interpretation of contract terms or other relief arising under or relating
+to the contract. A claim arising under a contract, unlike a claim relating to that contract, is a claim
+that can be resolved under a contract clause that provides for the relief sought by the claimant.
+(1) All claims by a Provider against the District arising under or relating to a contract shall be in
+writing and shall be submitted to the CO for a decision. The Provider’s claim shall contain at
+least the following:
+(i) A description of the claim and the amount in dispute.
+(ii) Data or other information in support of the claim.
+(iii) A brief description of the Provider’s efforts to resolve the dispute prior to filing the
+claim; and
+(iii) The Provider’s request for relief or other action by the CO.
+(2) The CO may meet with the Provider in a further attempt to resolve the claim by agreement.
+(3) The CO shall issue a decision on any claim within 120 calendar days after receipt of the claim.
+Whenever possible, the CO shall take into account factors such as the size and complexity of
+the claim and the adequacy of the information in support of the claim provided by the
+Provider.
+(4) The CO’s written decision shall do the following:
+(i) Provide a description of the claim or dispute.
+(ii) Refer to the pertinent contract terms;
+(iii) State the factual areas of agreement and disagreement;
+(iv) State the reasons for the decision, including any specific findings of fact, although
+specific findings of fact are not required and, if made, shall not be binding in any
+subsequent proceeding.
+(v) If all or any part of the claim is determined to be valid, determine the amount of
+monetary settlement, the contract adjustment to be made or other relief to be granted.
+(vi) Indicate that the written document is the CO’s final decision; and
+(vii) Inform the Provider of the right to seek further redress by appealing the decision to
+the Contract Appeals Board.
+(5) Failure by the CO to issue a decision on a contract claim within 120 days of receipt of the
+claim will be deemed to be a denial of the claim and will authorize the commencement of an
+appeal to the Contract Appeals Board as provided by D.C. Official Code § 2-360.04.
+(6) If a Provider is unable to support any part of its claim and it is determined that the inability is
+attributable to a material misrepresentation of fact or fraud on the part of the Provider, the
+Provider shall be liable to the District for an amount equal to the unsupported part of the claim
+in addition to all costs to the District attributable to the cost of reviewing that part of the
+Provider’s claim. Liability under this paragraph (a)(6) shall be determined within six (6) years
+of the commission of the misrepresentation of fact or fraud.
+(7) Pending final decision of an appeal, action or final settlement, the Provider shall
+Page 47 of 54
+
+proceed diligently with performance of the contract in accordance with the decision
+of the CO.
+(b) Claims by the District against the Provider: Claim as used in paragraph (b) of this clause, means
+a written demand or written assertion by the District seeking, as a matter of right, the payment of
+money in a sum certain, the adjustment of contract terms or other relief arising under or relating
+to the contract. A claim arising under a contract, unlike a claim relating to that contract, is a claim
+that can be resolved under a contract clause that provides for the relief sought by the claimant.
+(1) The CO shall decide all claims by the District against a Provider arising under or relating to a
+contract.
+(2) The CO shall send written notice of the claim to the Provider. The CO’s written decision shall
+do the following:
+(i) Provide a description of the claim or dispute.
+(ii) Refer to the pertinent contract terms.
+(iii) State the factual areas of agreement and disagreement.
+(iv) State the reasons for the decision, including any specific findings of fact, although
+specific findings of fact are not required and, if made, shall not be binding in any
+subsequent proceeding.
+(v) If all or any part of the claim is determined to be valid, determine the amount of
+monetary settlement, the contract adjustment to be made or other relief to be granted.
+(vi) Indicate that the written document is the CO’s final decision; and
+(vii) Inform the Provider of the right to seek further redress by appealing the decision to
+the Contract Appeals Board.
+(3) The CO shall support the decision by reasons and shall inform the Provider of its rights as
+provided herein.
+(4) Before or after issuing the decision, the CO may meet with the Provider to attempt to resolve
+the claim by agreement.
+(5) The authority contained in this paragraph (b) shall not apply to a claim or dispute for penalties
+or forfeitures prescribed by statute or regulation which another District agency is specifically
+authorized to administer, settle or determine.
+(6) This paragraph shall not authorize the CO to settle, compromise, pay or otherwise
+adjust any claim involving fraud.
+(c) Decisions of the CO shall be final and not subject to review unless the Provider timely commences
+an administrative appeal for review of the decision, by filing a complaint with the Contract
+Appeals Board, as authorized by D.C. Official Code § 2-360.04.
+(d) Pending the final decision of an appeal, action or final settlement, the Provider shall proceed
+diligently with performance of the contract in accordance with the decision of the CO.
+Page 48 of 54
+
+I.11 CHANGES
+Delete clause 15, Changes, of the Standard Contract Provisions dated July 2010 for use with District of
+Columbia Government Supplies and Services Contracts and substitute the following clause 15, Changes
+in its place:
+15. Changes:
+(a) The CO may, at any time, by written order and without notice to the surety, if any, make changes
+in the contract within the general scope hereof. If such change causes an increase or decrease in
+the cost of performance of the contract or in the time required for performance, an equitable
+adjustment shall be made. Any claim for adjustment for a change within the general scope must
+be asserted within ten (10) days from the date the change is ordered; provided, however, that the
+CO, if he or she determines that the facts justify such action, may receive, consider and adjust any
+such claim asserted at any time prior to the date of final settlement of the contract. If the parties
+fail to agree upon the adjustment to be made, the dispute shall be determined as provided in clause
+14 Disputes.
+(b) The District shall not require the Provider and the Provider shall not require a subcontractor, to
+undertake any work that is beyond the original scope of the contract or subcontract, including
+work under a District-issued change order, when the additional work increases the contract price
+beyond the not-to-exceed price or negotiated maximum price of the contract, unless the CO:
+(1) Agrees with the Provider and if applicable the subcontractor, on a price for the additional
+work.
+(2) Obtains a certification of funding to pay for the additional work.
+(3) Makes a written, binding commitment with the Provider to pay for the additional work within
+thirty (30) days after the Provider submits a proper invoice; and
+(4) Provides the Provider with written notice of the funding certification.
+(c) The Provider shall include in its subcontracts a clause that requires the Provider to:
+(1) Within five (5) business days of its receipt of notice of the approved additional funding,
+provide the subcontractor with notice of the amount to be paid to the subcontractor for the
+additional work to be performed by the subcontractor.
+(2) Pay the subcontractor any undisputed amount to which the subcontractor is entitled for the
+additional work within ten (10) days of receipt of payment from the District; and
+(3) Notify the subcontractor and CO in writing of the reason(s) the Provider withholds any
+payment from a subcontractor for the additional work.
+(d) Neither the District, Provider, nor any subcontractor may declare another party to be in default or
+assess, claim, or pursue damages for delays until the parties agree on a price for the additional
+work.
+I.12 NON-DISCRIMINATION CLAUSE
+Delete clause 19, Non-Discrimination Clause, of the Standard Contract Provisions dated July 2010 for use
+Page 49 of 54
+
+with District of Columbia Government Supplies and Services Contracts and substitute the following clause
+19, Non-Discrimination Clause, in its place:
+19. Non-Discrimination Clause:
+(a) The Provider shall not discriminate in any manner against any employee or applicant for
+employment that would constitute a violation of the District of Columbia Human Rights Act,
+effective December 13, 1977, as amended (D.C. Law 2-38; D.C. Official Code § 2- 1401.01 et
+seq.) (“Act”, as used in this clause). The Provider shall include a similar clause in all subcontracts,
+except subcontracts for standard commercial supplies or raw materials. In addition, the Provider
+agrees, and any subcontractor shall agree, to post in conspicuous places, available to employees
+and applicants for employment, a notice setting forth the provisions of this non-discrimination
+clause as provided in section 251 of the Act.
+(b) Pursuant to Mayor’s Order 85-85, (6/10/85), Mayor’s Order 2002-175 (10/23/02), Mayor’s
+Order2011-155 (9/9/11) and the rules of the Office of Human Rights, Chapter 11 of Title 4 of the
+D.C. Municipal Regulations, the following clauses apply to the contract:
+(1) The Provider shall not discriminate against any employee or applicant for employment
+because of actual or perceived: race, color, religion, national origin, sex, age, marital status,
+personal appearance, sexual orientation, gender identity or expression, family responsibilities,
+genetic information, disability, matriculation, political affiliation or credit information. Sexual
+harassment is a form of sex discrimination which is prohibited by the Act. In addition,
+harassment based on any of the above protected categories is prohibited by the Act.
+(2) The Provider agrees to take affirmative action to ensure that applicants are employed and that
+employees are treated during employment, without regard to their actual or perceived: race,
+color, religion, national origin, sex, age, marital status, personal appearance, sexual
+orientation, gender identity or expression, family responsibilities, genetic information,
+disability, matriculation, political affiliation or credit information. The affirmative action shall
+include, but not be limited to the following:
+(a) employment, upgrading or transfer.
+(b) recruitment or recruitment advertising.
+(c) demotion, layoff or termination.
+(d) rates of pay or other forms of compensation; and
+(e) selection for training and apprenticeship.
+(3) The Provider agrees to post in conspicuous places, available to employees and applicants for
+employment, notices to be provided by the contracting agency, setting forth the provisions in
+paragraphs 19(b) (1) and (b) (2) concerning non- discrimination and affirmative action.
+(4) The Provider shall, in all solicitations or advertisements for employees placed by or on behalf
+of the Provider, state that all qualified applicants will receive consideration for employment
+pursuant to the non- discrimination requirements set forth in paragraph 19(b) (2).
+(5) The Provider agrees to send to each labor union or representative of workers with which it has
+a collective bargaining agreement or other contract or understanding, a notice to be provided
+by the contracting agency, advising the said labor union or workers’ representative of that
+Provider’s commitments under this nondiscrimination clause and the Act and shall post copies
+of the notice in conspicuous places available to employees and applicants for employment.
+Page 50 of 54
+
+(6) The Provider agrees to permit access to its books, records and accounts pertaining to its
+employment practices, by the Chief Procurement Officer or designee or the Director of the
+Office of Human Rights or designee, for purposes of investigation to ascertain compliance
+with the Act and to require under terms of any subcontractor agreement each subcontractor to
+permit access of such subcontractors’ books, records and accounts for such purposes.
+(7) The Provider agrees to comply with the provisions of the Act and with all guidelines for equal
+employment opportunity applicable in the District adopted by the Director of the Office of
+Human Rights or any authorized official.
+(8) The Provider shall include in every subcontract the equal opportunity clause, i.e., paragraphs
+19(b) (1) through (b) (9) of this clause, so that such provisions shall be binding upon each
+subcontractor.
+(9) The Provider shall take such action with respect to any subcontract as the CO may direct as a
+means of enforcing these provisions, including sanctions for noncompliance; provided,
+however, that in the event the Provider becomes involved in or is threatened with, litigation
+with a subcontractor or vendor as a result of such direction by the contracting agency, the
+Provider may request the District to enter into such litigation to protect the interest of the
+District.
+I.13 COST AND PRICING DATA
+Delete Article 25, Cost and Pricing Data, of the Standard Contract Provisions dated July 2010 for use with
+District of Columbia Government Supplies and Services Contracts. The Provider shall not commit or
+permit any act that will interfere with the performance of work by another District Provider or by any
+District employee.
+I.14 SCP NO. 12 SERVICE OF PROCESS, NOTICE OR DEMAND
+Delete Article 12, Appointment of Attorney, of the Standard Contract Provisions dated July 2010
+for use with District of Columbia Government Supplies and Services Contracts.:
+(a) A Provider may be served with any process, notice, or demand required or permitted by law by serving
+its registered agent.
+(b) If a Provider ceases to have a registered agent, or if its registered agent cannot with reasonable
+diligence be served, the Provider may be served by registered or certified mail, return receipt
+requested, or by similar commercial delivery service, addressed to the Provider at its principal office.
+Service shall be effective on the earliest of:
+(1) The date that the Provider receives the mail or delivery by a similar commercial delivery service.
+(2) The date shown on the return receipt, if signed by the Provider or its representative; or
+(3) Five days after its deposit with the United States Postal Service or similar commercial delivery
+service, if correctly addressed and with sufficient postage.
+(c) Service may be made by handing a copy of the process, notice, or demand to an officer of the Provider,
+a managing or general agent of the Provider, or any other agent authorized by designation or by law
+Page 51 of 54
+
+to receive service of process for the Provider.
+(d) If a Provider fails to designate or maintain a registered agent in the District as required by law, or if
+a Provider’s registered agent in the District cannot with reasonable diligence be found, and if the
+person seeking service submits a declaration under penalty of making false statements showing that
+a registered agent for the Provider cannot be found, the Mayor shall be the Provider’s agent upon
+whom any process against the Provider may be served and upon whom any notice or demand required
+or permitted by law to be served upon the Provider may be served. Service on the Mayor of the
+process, notice, or demand shall be made by delivering or leaving with the Mayor, or his/her designee,
+duplicate copies of the process, notice, or demand. If any process, notice, or demand is so served, the
+Mayor shall immediately cause one of the copies to be forwarded by registered or certified mail to
+the Provider at its principal office or at its last known address.
+(e) Service of process, notice, or demand may be made by other means under law.
+I.13 SPECIAL PROVISION RELATED TO CITY ADMINISTRATOR’S ORDER 2022-3
+Providers who provide goods or perform services in person in District of Columbia facilities or worksites
+(“On-site Providers”) shall ensure that each of their employees, agents, subcontractors, and supervised
+volunteers comply with City Administrator’s Order 2022-3, Mask Requirements Inside Certain District
+Government Buildings and Offices, dated April 14, 2022, and all substantially similar mask requirements
+including any modifications to the Order, unless and until they are rescinded.
+*** END OF SECTION I ***
+Page 52 of 54
+
+SECTION J: LIST OF DOCUMENTS, EXHIBITS AND OTHER ATTACHMENTS
+The provider must complete all forms and certifications required by Section J and incorporate into its
+Offer these completed forms and certifications.
+Attachment
+Document
+Number
+Government of the District of Columbia Standard Contract Provisions for Use
+J.1 with the Supplies and Services Contracts (July 2010)
+available at https://ocp.dc.gov/node/568082
+U.S. Department of Labor Wage Determination 2015-4281, Revision 26, dated
+J.2
+05/10/2023 available at https://sam.gov/wage-determination/2015-4281/26
+HCA Provider Qualifications Record (CQR), DBH Form 1900, (completed and
+J.3
+executed) here is the link https://ocp.dc.gov/node/541232
+Way to Work Amendment Act of 2006 - Living Wage Notice
+J.4
+available at https://ocp.dc.gov/node/1637361
+Way to Work Amendment Act of 2006 - Living Wage Fact Sheet
+J.5
+available at https://ocp.dc.gov/node/1637356
+J.6 Tax Certification Affidavit available at https://ocp.dc.gov/node/541182
+Department of Behavioral Health Privacy and Confidentiality Compliance
+J.7
+available at https://dbh.dc.gov/node/816402
+Department of Behavioral Health Policies and Rules available at
+J.8
+https://dbh.dc.gov/page/policies-rules
+J.9 W-9 Form available at https://ocp.dc.gov/node/740772
+Department of Employment Services First Source Employment Agreement
+J.10
+available at https://ocp.dc.gov/node/1417541
+First Source Initial Employment Plan (if contract is $300,000 or more)
+J.11
+available at https://ocp.dc.gov/node/1417566
+J.12 Bidder/Offeror Certification Form available at https://ocp.dc.gov/node/740742
+Page 53 of 54
+
+Attachment
+Document
+Number
+Equal Employment Opportunity Employer Information Report and Mayor’s
+J.13
+Order 85-85 available at https://ocp.dc.gov/node/1610571
+J.14 PASS Master Supplier Form available at https://ocp.dc.gov/node/740782
+22 DCMR Chapter 64 Reimbursement Rates For Services Provided by the
+Department of Behavioral Health Chapter 63 Certified Substance Use
+J.15 Disorder Providers available at
+https://www.dcregs.dc.gov/Common/DCMR/RuleList.aspx?ChapterNum=
+22-A64&ChapterId=3682
+Provider Reference Form
+J.16
+***END OF SECTION J ***
+Page 54 of 54

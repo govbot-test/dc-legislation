@@ -1,0 +1,391 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+
+================================================================================
+
+ENROLLED ORIGINAL
+AN ACT
+___________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+___________
+To amend the Health Services Planning Program Re-establishment Act of 1996 to exempt from
+the certificate of need process digital-only telehealth platforms and providers, federally
+qualified health centers, outpatient or residential behavioral health services, and primary
+care, dental care, and specialty care providers, to define group practice and nonpatient
+care project, to remove the 3 year maximum on certificate of need applications for active
+projects, to increase the capital expenditure thresholds, and to require the State Health
+Planning and Development Agency to update the capital expenditure and medical
+equipment spending thresholds every 2 years, to increase the number of beds that must be
+added or removed at a health care facility in order to trigger a certificate of need; to
+amend the Health-Care and Community Residence Facility Hospice and Home Care
+Licensure Act of 1983 to require the Department of Health to create a registration process
+for entities offering primary, dental, and specialty care, virtual provider networks, virtual
+telehealth platforms, and federally qualified health centers, and to require the Department
+of Health to post information about certificate of need applications for the previous 3
+years on its website; to amend the District of Columbia Health Occupations Revision Act
+of 1985 to rename the Board of Integrative Healthcare to the Board of Acupuncture,
+Chiropractic, and Naturopathic Physicians, to decrease the size of the Board of
+Acupuncture, Chiropractic, and Naturopathic Physicians from 9 to 7 members, to create a
+pathway for graduate social workers to become licensed without passing an examination,
+and to clarify that cottage food businesses can sell products wholesale; and to make other
+technical amendments.
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+act may be cited as the “Certificate of Need Improvement Amendment Act of 2025”.
+Sec. 2. The Health Services Planning Program Re-establishment Act of 1996, effective
+April 9, 1997 (D.C. Law 11-191; D.C. Official Code § 44-401 et seq.), is amended as follows:
+(a) Section 2 (D.C. Official Code § 44-401) is amended as follows:
+(1) Paragraph (3) is amended as follows:
+1
+
+ENROLLED ORIGINAL
+(A) Subparagraph (A) is amended as follows:
+(i) Sub-subparagraph (i) is amended as follows:
+(I) Strike the phrase “$6 million” and insert the phrase “$15
+million” in its place.
+(II) Strike the phrase “SHPDA may, by rule, adjust this
+threshold annually to reflect the change in the Hospital Construction Cost Index issued by the
+U.S. Department of Commerce;” and insert the phrase “SHPDA shall, by rule, adjust this
+threshold every 2 years to reflect the change in the Producer Price Index for New Health Care
+Building Construction issued by the United States Bureau of Labor Statistics or a comparable
+index;” in its place.
+(ii) Sub-subparagraph (ii) is amended as follows:
+(I) Strike the phrase “$3.5 million” and insert the phrase
+“$5 million” in its place.
+(II) Strike the phrase “SHPDA may, by rule, adjust this
+threshold annually to reflect the change in the Hospital Construction Cost Index issued by the
+U.S. Department of Commerce;” and insert the phrase “SHPDA shall, by rule, adjust this
+threshold every 2 years to reflect the change in the Producer Price Index for New Health Care
+Building Construction issued by the United States Bureau of Labor Statistics or a comparable
+index;” in its place.
+(iii) Sub-subparagraph (iii) is amended by striking the phrase
+“equipment;” and inserting the phrase “equipment; except, for the replacement of existing major
+medical equipment with new equipment intended for the same purpose;” in its place.
+(B) A new subparagraph (C) is added to read as follows:
+“(C) The term “capital expenditure” shall not include an expenditure on a
+nonpatient care project or renovations of existing facilities that do not increase or decrease the
+number of licensed beds or types of services provided by the facility.”.
+(2) Paragraph (6B)(B) is amended to read as follows:
+“(B) The term “diagnostic health care facility” shall not include any
+facility that would be exempt from the definition of health care facility under paragraph (10) of
+this section.”.
+(3) A new paragraph (9B) are added to read as follows:
+“(9B)(A) “Group practice” means a group of 2 or more health professionals
+legally organized as a partnership, professional corporation, foundation, not-for-profit
+corporation, faculty practice plan, or similar association authorized to do business in the District
+of Columbia, for which:
+“(i) Each health professional who is a member of the group is
+licensed to practice in the District of Columbia and provides substantially the full range of
+services that a health professional with that license routinely provides, including medical care,
+2
+
+ENROLLED ORIGINAL
+consultation, diagnosis, or treatment, through the joint use of shared office space, facilities,
+equipment and personnel;
+“(ii) Substantially all of the services of the health professionals
+who are members of the group are provided through the group and are billed under a billing
+number assigned to the group and amounts so received are treated as receipts of the group;
+“(iii) The overhead expenses of, and the income generated from,
+the practice are distributed in accordance with methods previously determined by group
+members;
+“(iv) Except as provided in subparagraph (B) of this pararaph, no
+health professional who is a member of the group directly or indirectly receives compensation
+based on the volume or value of referrals made by the health professional; and
+“(v) Members of the group personally conduct no less than 75
+percent of the physician-patient encounters of the group practice.
+“(B) A health professional in a group practice may be paid a share of
+overall profits of the group, or a productivity bonus based on services personally performed or
+services incident to such personally performed services, so long as the share or bonus is not
+determined in any manner which is directly related to the volume or value of referrals made by
+such health professional.
+“(C) In the case of a faculty practice plan associated with a hospital,
+institution of higher education, or medical school with an approved medical residency training
+program in which health professional members may provide a variety of different specialty
+services and provide professional services both within and outside the group, as well as perform
+other tasks such as research, subparagraph (A) of this paragraph shall apply only with respect to
+the services provided within the faculty practice plan.”.
+(4) Paragraph (10) is amended to read as follows:
+“(10)(A) “Health care facility” or “HCF” means any private general hospital,
+psychiatric hospital, other specialty hospital, rehabilitation facility, skilled nursing facility,
+intermediate care facility, freestanding emergency department, urgent care facility, ambulatory
+surgical facility with at least one operating room, kidney disease treatment center, freestanding
+hemodialysis facility, diagnostic health care facility, home health agency, hospice, or other
+comparable health care facility which has an annual operating budget of at least $500,000.
+“(B) The term “health care facility” shall not include:
+“(i) A private office facility, clinic, or other establishment with no
+operating room where one or more health professionals provide primary care services, specialty
+care services, or dental services according to the applicable scope of practice of the health
+professional’s licensure;
+“(ii) A virtual provider network or virtual telehealth platform;
+3
+
+ENROLLED ORIGINAL
+“(iii) A facility providing outpatient or residential behavioral
+health services subject to the exclusive regulatory authority of the Department of Behavioral
+Health;
+“(iv) A federally qualified health center, as defined in section
+1861(aa)(4) of the Social Security Act, approved July 30, 1965 (79 Stat. 313; 42 U.S.C. §
+1395x(aa)(4)), or an entity that has been determined by the Health Resources and Services
+Administration of the United States Department of Health and Human Services to meet the
+definition of a federally qualified health center, but does not receive funding under section 330 of
+the Public Health Service Act, approved October 11, 1996 (110 Stat. 3626; 42 U.S.C. § 254b)
+(“federally qualified health center look-alike”); or
+“(v) A health care facility licensed or to be licensed as a
+community residence facility, except for an intermediate care facility, or an Assisted Living
+Residence as defined by section 201(4) of the Assisted Living Residence Regulatory Act of
+2000, effective June 24, 2000 (D.C. Law 13-127; D.C. Official Code § 44-102.01(4)).”.
+(5) Paragraph (12) is amended by striking the phrase “those outpatient behavioral
+health services subject to the exclusive regulatory authority of the Department of Behavioral
+Health and services provided by physicians, dentists, HMOs, and other individual providers in
+individual or group practice.” and inserting the phrase “any service provided by an entity that
+would be exempt from the definition of health care facility under paragraph (10) of this section.”
+in its place.
+(6) Paragraph (14)(A) is amended as follows:
+(A) Sub-subparagraph (i) is amended by striking the phrase “SHPDA may,
+by rule, adjust this threshold annually to reflect the change in the Consumer Price Index issued
+by the Bureau of Labor Statistics, United States Department of Labor;” and inserting the phrase
+“SHPDA shall, by rule, adjust this threshold every 2 years to reflect the change in the Producer
+Price Index for Medical Equipment and Supplies Manufacturing issued by the United States
+Bureau of Labor Statistics or such comparable index;” in its place.
+(B) Sub-subparagraph (ii) is amended by striking the phrase “$2 million;”
+and inserting the phrase “$2 million; except, that the SHPDA shall, by rule, adjust this threshold
+every 2 years to reflect the change in the Producer Price Index for Medical Equipment and
+Supplies Manufacturing issued by the United States Bureau of Labor Statistics or such
+comparable index;” in its place.
+(C) Sub-subparagraph (iii) is amended by striking the phrase “$350,000.”
+and inserting the phrase “$350,000; except, that the SHPDA shall, by rule, adjust this threshold
+every 2 years to reflect the change in the Producer Price Index for Medical Equipment and
+Supplies Manufacturing issued by the United States Bureau of Labor Statistics or such
+comparable index.”.
+(7) Paragraph (15) is amended as follows:
+(A) Subparagraph (A) is amended as follows:
+4
+
+ENROLLED ORIGINAL
+(i) Sub-subparagraph (iii) is amended to read as follows:
+“(iii) Any new health service with a physical location; or”.
+(ii) Sub-subparagraph (iv) is amended by striking the phrase “or
+10%” and inserting the phrase “or 20%” in its place.
+(B) Subparagraph (B) is amended by striking the phrase “SHPDA may, by
+rule, adjust this threshold annually to reflect the change in the medical care component of the
+Consumer Price Index issued by the Bureau of Labor Statistics, U.S. Department of Labor,” and
+inserting the phrase “SHPDA shall, by rule, adjust this threshold every 2 years to reflect the
+change in the medical care component of the Consumer Price Index issued by the Bureau of
+Labor Statistics, U.S. Department of Labor or a comparable index,” in its place.
+(8) A new paragraph (15A) is added to read as follows:
+“(15A) “Nonpatient care project” means any capital project by a healthcare
+facility or a hospital that does not solely, directly or indirectly, impact clinical procedures,
+treatments, patient interactions, or clinical areas, such as the construction or renovation of
+administrative offices, purchase of non-medical equipment, such as office furniture or
+information technology systems, including electronic medical records, renovation or replacement
+of electrical, heating, cooling, ventilation systems, elevator and escalators or other means of
+ingress and egress, or fire and life safety systems, and other projects that are focused solely on
+supporting the administrative functions of the facility.”.
+(9) Paragraph (20) is amended by striking the phrase “rendered to patients” and
+inserting the phrase “rendered to a patient, regardless of the patient’s residency,” in its place.
+(10) New paragraphs (21) and (22) are added to read as follows:
+“(21) “Virtual provider network” means a provider-owned and managed entity
+which employs or contracts with licensed health care providers, and which exclusively provides
+telehealth or telemedicine health care services through a virtual telehealth platform. The term
+“virtual provider network” shall not include an entity that maintains a physical facility, office, or
+other similar location in any jurisdiction where a person may go to seek care in person.
+“(22) “Virtual telehealth platform” means a digital-only telehealth or telemedicine
+entity which facilitates the ability of patients to access licensed health care providers by
+exclusively providing health care services through a virtual provider network. The term “virtual
+telehealth platform” shall not include an entity that maintains a physical facility, office, or other
+similar location in any jurisdiction where a person may go to seek care in person.”.
+(b) Section 3 (D.C. Official Code § 44-402) is amended by repealing subsection (b-1).
+(c) Section 4(c) (D.C. Official Code § 44-403(c)) is amended as follows:
+(1) Paragraph (3) is amended by striking the phrase “Two representatives of
+incorporated associations of health care facilities in the District;” and inserting the phrase “One
+representative of an incorporated association of health care facilities in the District;” in its place.
+(2) A new paragraph (3A) is added to read as follows:
+5
+
+ENROLLED ORIGINAL
+“(3A) One representative of an incorporated association of hospitals in the
+District;”.
+(d) Section 8(b) (D.C. Official Code § 44-407(b)) is amended as follows:
+(1) Paragraphs (3) and (14) are repealed.
+(2) Paragraph (19) is amended by striking the phrase “; and” and inserting a
+semicolon in its place.
+(3) Paragraph (20) is amended by striking the period and inserting the phrase “;
+and” in its place.
+(4) A new paragraph (21) is added to read as follows:
+“(21) Any proposal by a virtual telehealth platform or virtual provider network to
+provide access to, offer, or develop health care services exclusively via a virtual telehealth
+platform to District residents.”.
+(e) Section 9(b) (D.C. Official Code § 44-408(b)) is amended by striking the phrase “no
+more than 3 years old.” and inserting the phrase “no more than 5 years old.” in its place.
+(f) Section 10(f) (D.C. Official Code § 44-409(f)) is amended as follows:
+(1) The existing language is designated as paragraph (1).
+(2) A new paragraph (2) is added to read as follows:
+“(2) The Department shall post on its website a list of complete certificate of need
+applications received by the SHPDA in the previous 3 years, including the name of the applicant,
+a brief description of the proposed new health care entity or service, and the SHPDA’s
+determination regarding the application.”.
+(g) Section 12(a) (D.C. Official Code § 44-411(a)) is amended by striking the phrase “;
+except that no certificate of need shall be effective for more than 3 years from the original date of
+issuance.” and inserting a period in its place.
+(h) Section 21(c) (D.C. Official Code § 44-420(c)) is repealed.
+Sec. 3. Clarifying and technical amendments.
+(a) The Health-Care and Community Residence Facility Hospice and Home Care
+Licensure Act of 1983, effective February 24, 1984 (D.C. Law 5-48; D.C. Official Code § 44-
+501 et seq.), is amended as follows:
+(1) A new section 3a is added to read as follows:
+“Sec. 3a. Registration of certain health care entities.
+“(a) The Director of the Department of Health (“Department”) shall create a registration
+process for the following entities:
+“(1) A private office facility, clinic, or other establishment with no operating
+room where a health professional or group of health professionals provide primary care services,
+specialty care services, or dental services according to the applicable scope of practice of the
+health professional’s licensure;
+6
+
+ENROLLED ORIGINAL
+“(2) A virtual provider network or virtual telehealth platform operating in the
+District; and
+“(3) A federally qualified health center, as defined in section 1861(aa)(4) of the
+Social Security Act, approved July 30, 1965 (79 Stat. 313; 42 U.S.C. § 1395x(aa)(4)), or an
+entity that has been determined by the Health Resources and Services Administration of the
+United States Department of Health and Human Services to meet the definition of a federally
+qualified health center, but does not receive funding under section 330 of the Public Health
+Service Act, approved October 11, 1996 (110 Stat. 3626; 42 U.S.C. § 254b) (“federally qualified
+health center look-alike”).
+“(b) The registration process shall:
+“(1) Take less than a median of 10 business days for the Department to review
+and approve once a completed application has been submitted, unless the Department notifies the
+applicant of an issue;
+“(2) Require that the facility submit to the Department only information that is
+accessible and reasonable, such as its physical location, names of providers, provider capacity,
+and types of insurance accepted;
+“(3) Not require registration renewal more frequently than every 3 years; and
+“(4) Not require a registration or renewal fee above $100 per year of registration;
+provided, that the Department may adjust this fee periodically to reflect the change in the
+Consumer Price Index issued by the Bureau of Labor Statistics, United States Department of
+Labor through rulemaking.
+“(c) A new entity that meets the requirements of subsection (a) of this section shall
+register with the Department before beginning operation.
+“(d) Notwithstanding subsection (a) of this section, existing entities that meet the
+requirements of subsection (a) of this section for registration shall have 2 years from the
+effective date of this section to complete the registration process.
+“(e) Entities that own or operate more than one physical location shall complete the
+registration process for each location separately.
+“(f) The revenue generated from the registration or renewal fees under subsection (b) of
+this section shall be placed in the Health Occupations Regulation Fund, established by section
+4904 of the Department of Health Functions Clarification Act of 2001, effective October 3, 2001
+(D.C. Law 14-28; D.C. Official Code § 7-733).”.
+(2) Section 5 (D.C. Official Code § 44-504) is amended as follows:
+(A) Subsection (a)(2)(A) is amended by striking the word “licenses” and
+inserting the phrase “licenses and registrations” in its place.
+(B) Subsection (j) is amended by striking the phrase “rules that establish
+or modify license fees” and inserting the phrase “rules that establish or modify license or
+registration fees” in its place.
+(3) Section 10 (D.C. Official Code § 44-509) is amended as follows:
+7
+
+ENROLLED ORIGINAL
+(A) Subsection (b) is amended by striking the phrase “or other entity from
+operating a facility or agency” and inserting the phrase “entity described in section 3a, or other
+entity from operating a facility or agency” in its place.
+(B) Subsection (e)(1) is amended by striking the phrase “a facility or
+agency” and inserting the phrase “an entity described in section 3a or a facility or agency” in its
+place.
+(b) Section 4931(3) of the Department of Health Functions Clarification Act of 2001,
+effective January 25, 2014 (D.C. Law 20-63; D.C. Official Code § 7-742.01(3)), is amended by
+striking the phrase “through direct, retail, and online sales,” and inserting the phrase “through
+direct, retail, wholesale to licensed food establishments, and online sales,” in its place.
+(c) The District of Columbia Health Occupations Revision Act of 1985, effective March
+25, 1986 (D.C. Law 6-99; D.C. Official Code § 3-1201.01 et seq.), is amended as follows:
+(1) The table of contents is amended by striking the phrase “Sec. 224. Board of
+Integrative Healthcare.” and inserting the phrase “Sec. 224. Board of Acupuncture, Chiropractic,
+and Naturopathic Physicians.” in its place.
+(2) Section 101(1) (D.C. Official Code § 3-1201.01(1)) is amended by striking the
+phrase “Integrative Healthcare” and inserting the phrase “Acupuncture, Chiropractic, and
+Naturopathic Physicians” in its place.
+(3) Section 203(a)(2A) (D.C. Official Code § 3-1202.03(a)(2A)) is amended by
+striking the phrase “Integrative Healthcare” and inserting the phrase “Acupuncture, Chiropractic,
+and Naturopathic Physicians” in its place.
+(4) Section 216(f) (D.C. Official Code § 3-1202.16(f)) is amended by striking the
+phrase “Integrative Healthcare” and inserting the phrase “Acupuncture, Chiropractic, and
+Naturopathic Physicians” in its place.
+(5) Section 224 (D.C. Official Code § 3-1202.24) is amended as follows:
+(A) The section heading is amended by striking the phrase “Integrative
+Healthcare” and inserting the phrase “Acupuncture, Chiropractic, and Naturopathic Physicians”
+in its place.
+(B) Subsection (a) is amended by striking the phrase “Integrative
+Healthcare to consist of 9 members” and inserting the phrase “Acupuncture, Chiropractic, and
+Naturopathic Physicians to consist of 7 members” in its place.
+(C) Subsection (c) is amended to read as follows:
+“(c) Of the members of the Board, 2 shall be acupuncturists licensed in the District, 2
+shall be doctors of chiropractic licensed in the District, 2 shall be naturopathic physicians
+licensed in the District, and one shall be a consumer member.”.
+(D) Subsection (e) is amended by striking the phrase “Of the members
+initially appointed under this section, 3 shall be appointed for a term of one year, 3 shall be
+appointed for a term of 2 years, and 3 shall be appointed for a term of 3 years.” and inserting the
+phrase “Of the members initially appointed under this section, 2 shall be appointed for a term of
+8
+
+ENROLLED ORIGINAL
+one year, 2 shall be appointed for a term of 2 years, and 3 shall be appointed for a term of 3
+years.” in its place.
+(E) Subection (f) is amended as follows:
+(i) Paragraph (3) is amended by striking the semicolon and
+inserting the phrase “; and” in its place.
+(ii) Paragraph (4) is repealed.
+(6) Section 504 (D.C. Official Code § 3-1205.04) is amended by striking the
+phrase “Integrative Healthcare” wherever it appears and inserting the phrase “Acupuncture,
+Chiropractic, and Naturopathic Physicians” in its place.
+(7) Section 506 (D.C. Official Code § 3-1205.06) is amended by adding a new
+subsection (f) to read as follows:
+“(f) Notwithstanding any other provision of this section, the examination requirement
+under this section shall not apply to an individual applying for licensure as a licensed graduate
+social worker under section 802.”.
+(8) Section 621 (D.C. Official Code § 3-1206.21) is amended by striking the
+phrase “Integrative Healthcare” wherever it appears and inserting the phrase “Acupuncture,
+Chiropractic, and Naturopathic Physicians” in its place.
+(9) Section 802 (D.C. Official Code § 3-1208.02) is amended as follows:
+(A) Subsection (a) is amended to read as follows:
+“(a) The Board of Social Work shall license as a graduate social worker a person who, in
+addition to meeting the requirements of title V, except the examination requirement under
+section 506, has a master’s degree or a doctorate from a social work program accredited by the
+Council on Social Work Education.”.
+(B) A new subsection (c) is added to read as follows:
+“(c) To renew their license as a licensed graduate social worker, a person shall, prior to
+the first time renewing their license, either:
+“(1) Pass a national examination or
+“(2) Obtain 1,500 hours in the practice of social work under the supervision of a
+social worker licensed under sections 803 or 804.”.
+(d) Section 2(f)(73) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law
+2-142; D.C. Code § 1-523.01(f)(73)) is amended by striking the phrase “Integrative Healthcare”
+and inserting the phrase “Acupuncture, Chiropractic, and Naturopathic Physicians” in its place.
+Sec. 4. Applicability.
+(a) Sections 2 and 3(a) shall apply upon the date of inclusion of their fiscal effect in an
+approved budget and financial plan.
+(b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in
+an approved budget and financial plan, and provide notice to the Budget Director of the Council
+of the certification.
+9
+
+ENROLLED ORIGINAL
+(c)(1) The Budget Director shall cause the notice of the certification to be published in
+the District of Columbia Register.
+(2) The date of publication of the notice of the certification shall not affect the
+applicability of the provisions identified in subsection (a) of this section.
+Sec. 5. Fiscal impact statement.
+The Council adopts the fiscal impact statement in the committee report as the fiscal
+impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+Sec. 6. Effective date.
+This act shall take effect following approval by the Mayor (or in the event of veto by the
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+___________________________________
+Chairman
+Council of the District of Columbia
+_________________________________
+Mayor
+District of Columbia
+10

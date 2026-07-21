@@ -1,0 +1,289 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+OFFICE OF COUNCILMEMBER BROOKE PINTO
+THE JOHN A. WILSON BUILDING
+1350 PENNSYLVANIA AVENUE, N.W., SUITE 106
+WASHINGTON, D.C. 20004
+November 14, 2025
+Nyasha Howard, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, N.W.
+Washington, DC 20004
+Dear Secretary Howard,
+Today, along with Councilmembers Brianne Nadeau and Charles Allen, I am introducing the “Special
+Events Permit Process Simplification Act of 2025” to make the permitting process for special events more
+transparent and efficient, ensuring organizations continue to host parades, festivals, and public gatherings
+that contribute to the cultural vitality of the District.
+Special events, from Capital Pride festivities to the Downtown Christmas Market to neighborhood block
+parties, enliven our streets, foster community, attract tourists and visitors, and make DC a phenomenal place
+to live. The District government should be doing everything possible to make hosting a special event simple,
+affordable, and hassle-free.
+Currently, no single agency is responsible for managing the special event permitting process. As a result,
+applicants must decipher complex permitting guidelines and navigate between agencies on their own. Even
+for the most experienced event organizers who host the same event year after year, the process remains
+opaque, costly, and time-consuming.
+The Special Event Permit Process Simplification Act aims to improve the applicant experience by:
+1. Establishing an Office of Special Events under the Deputy Mayor of Planning and Economic
+Development to help applicants navigate the permitting process and ensure agencies process permit
+applications in a timely manner. The Office of Special Events would be required to develop an
+online application portal to help applicants identify the required permits for their event and provide
+a cost estimate up-front.
+2. Relocating the Mayor’s Special Events Task Group (“MSETG”), which is currently under the
+Homeland Security and Emergency Management Agency, to the new Office of Special Events.
+MSETG is composed of agency representatives who review plans for large-scale special events.
+The bill would also simplify MSETG processes and require that event fees and application
+timelines be determined based on the size and complexity of the event.
+3. Establishing a multi-year approval process for Business Improvement District (“BID”) events
+that occur on a recurring basis. Rather than requiring BIDs to present before MSETG annually,
+BIDs would be granted approval for up to five years on the condition that they apply and receive
+all required permits each year.
+4. Establishing a Special Events Task Force composed of agency representatives to identify
+strategies to streamline permit requirements and reduce associated costs.
+5. Codifying the Mayor’s Special Events Fund in statute to cover or partially cover the costs of
+required city services for special events.
+
+The Special Events Permit Process Simplification Act will significantly reduce barriers to hosting a special
+event and promote the activation of public space across the city. Should you have any questions about this
+legislation, please contact my Policy Advisor, Ella Hanson, at ehanson@dccouncil.gov.
+Thank you,
+Brooke Pinto
+Councilmember, Ward 2
+Chairwoman, Committee on the Judiciary and Public Safety
+Council of the District of Columbia
+
+_____________________________ _____________________________
+Councilmember Brianne K. Nadeau Councilmember Brooke Pinto
+_____________________________
+Councilmember Charles Allen
+A BILL
+__________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+_________________
+1 To establish an Office of Special Events within the Office of the Deputy Mayor of Planning and
+2 Economic Development, to transfer the Mayor’s Special Events Task Force from the
+3 Homeland Security and Emergency Management Agency to the Office of Special Events,
+4 to streamline and improve the special event permitting process, to establish a 5-year
+5 approval designation for Business Improvement District special events requiring street
+6 closures, and to establish a Special Events Program to provide grants for special events
+7 with street closures.
+8
+9 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+10 act may be cited as the “Special Events Permit Process Simplification Act of 2025”.
+11 Sec. 2. Definitions.
+12 For the purposes of this act, the term:
+13 (1) “BID” means a Business Improvement District established pursuant to section
+14 2 of the Business Improvement Districts Act of 1996, effective May 29, 1996 (D.C. Law 11-134;
+15 D.C. Official Code § 2–1215.01).
+16 (2) “Conditional approval” means preliminary authorization granted by the
+17 Mayor’s Special Events Task Group permitting an organization to proceed with planning a
+1
+
+18 special event requiring street closures, contingent upon the organization’s receipt of all required
+19 permits and fulfillment of all applicable agency requirements.
+20 (3) “DMPED” means the Deputy Mayor for Planning and Economic
+21 Development.
+22 (4) “Final approval” means authorization granted by the Mayor’s Special Events
+23 Task Group for an organization to hold a special event requiring street closures upon
+24 confirmation that all required permits have been issued and all applicable agency requirements
+25 have been satisfied.
+26 (5) “MSETG” means the Mayor’s Special Events Task Group.
+27 (6) “OSE” means the Office of Special Events, established by section 3.
+28 (7) "Special event” means an organized activity held on public sidewalks or
+29 public streets that impedes normal traffic or pedestrian flow, including but not limited to block
+30 parties, farmers’ markets, parades, festivals, and filming events.
+31 Sec. 3. Establishment of the Office of Special Events.
+32 (a) There is established within DMPED an Office of Special Events (“OSE”).
+33 (b) The OSE shall:
+34 (1) Assist the public in navigating the permitting and approval process for all
+35 types of special events;
+36 (2) Organize and oversee the MSETG as established under section 5; and
+37 (3) Administer the Special Events Fund established under section 8.
+38 (c) First amendment event permits shall be applied for directly through the Metropolitan
+39 Police Department and are excluded from OSE responsibilities.
+40 Sec. 4. Special Event Application Portal.
+2
+
+41 (a) The OSE shall establish and maintain a publicly accessible website that includes, at a
+42 minimum:
+43 (1) An up-to-date calendar of street closures and an events list showing approved
+44 dates and locations;
+45 (2) A video explaining the special event permitting process for each type of
+46 special event;
+47 (3) Free training videos for event coordinators, including on event safety and
+48 cardiopulmonary resuscitation; and
+49 (4) An online portal for special event application submission, including:
+50 (A) A questionnaire about the type and size of the event and other factors
+51 determining the type of the special event and permits required;
+52 (B) A check list of all required permits determined by the questionnaires
+53 with direct weblinks to application forms;
+54 (C) A total cost estimate and breakdown of expected permit fees and other
+55 fees charged by agencies;
+56 (D) An application processing timeline, including the status of the
+57 application; and
+58 (E) Contact information, including a phone number and email address for
+59 an OSE staff member available to answer questions.
+60 (b) Special event applications shall be submitted via the OSE portal shall provide an
+61 alternative ‘rain date’ in the application.
+62 Sec. 5. Establishment of the Mayor’s Special Events Task Group.
+3
+
+63 (a) There is established within DMPED, a Mayor’s Special Events Task Group
+64 (“MSETG”), which may consist of representatives from the following agencies:
+65 (1) Department of Licensing and Consumer Protection (“DLCP”);
+66 (2) District Department of Transportation;
+67 (3) Metropolitan Police Department;
+68 (4) Fire and Emergency Medical Services Department;
+69 (5) Homeland Security and Emergency Management Agency;
+70 (6) Department of Health;
+71 (7) Department of Buildings;
+72 (8) National Park Service; and
+73 (9) Any additional agencies designated by DMPED.
+74 (b) The MSETG shall:
+75 (1) Review plans for special events requiring street closures, excluding block
+76 parties, as defined in section 2 of the Block Party Act of 2012, effective October 23, 2012 (D.C.
+77 Law 19-190, D.C. Official Code § 9–631), and Tier 1 events, as described in subsection (g)(A) of
+78 this section.
+79 (2) Issue determinations regarding conditional and final approval; and
+80 (3) Coordinate interagency review of required permits and community
+81 notifications.
+82 (c) Applicants shall submit all materials required for conditional approval in the Notice of
+83 Interest (“NOI”) application.
+84 (d) After reviewing the NOI materials, MSETG may require the applicant to present
+85 virtually before the task group and shall provide a list of required agency permits.
+4
+
+86 (e) To receive final approval from MSETG, the applicant shall submit:
+87 (1) Proof of issuance of all required agency permits;
+88 (2) Evidence of compliance with all applicable agency requirements;
+89 (3) Written notice to businesses, residents, and Advisory Neighborhood
+90 Commissions (“ANCs) located on a street that is closed for the event within one month of the
+91 event; and
+92 (4) Confirmation of having presented before affected ANCs to address
+93 community questions and concerns.
+94 (f) Applicants shall not be required to collect signatures from businesses or residents.
+95 (g) Events requiring street closures shall be classified into the following tiers. Applicants
+96 shall apply under the highest tier for which any condition applies:
+97 (A) Tier 1 for events which are:
+98 (ii) No longer than one day;
+99 (B) Held on no more than 1 city blocks;
+100 (D) Expected to host no more than 149 attendees at any one time.
+101 (2) Tier 2 for events which are:
+102 (A) No longer than one day;
+103 (B) Held on more than 2 city blocks;
+104 (C) Expected to host between 150 and 250 attendees at any one
+105 time.
+106 (3) Tier 3 for events which are:
+107 (A) More than one day;
+108 (B) Recurring;
+5
+
+109 (C) On a street with WMATA transportation stops;
+110 (D) Permitted to sell alcohol; or
+111 (E) Expected to host more than 250 attendees at any one time.
+112 (h)(1) Tier 1 event applicants shall submit an application through the OSE portal within
+113 10 business days before the event and shall not be required to pay an application fee or DLCP
+114 special events license fee.
+115 (2) Agencies shall issue all required permits for Tier 1 event applicants no later
+116 than 3 business days prior to the event.
+117 (h)(1) Tier 2 event applicants shall submit an NOI application within 20 business days
+118 before the event and shall pay no more than $200 in application fees and DLCP special event
+119 license fees.
+120 (2) MSETG shall issue its final decision for Tier 2 event applicants no later than
+121 15 business days after the applicant submits an NOI application.
+122 (i)(1) Tier 3 event applicants shall submit an application within 120 business days before
+123 the event and shall pay no more than $500 in application fees and DLCP special event license
+124 fees.
+125 (2) MSETG shall issue its final decision for Tier 3 event applicants no later than
+126 110 business days after the applicant submits an NOI application.
+127 Sec. 6. Multi-Year Special Event Approval for Business Improvement Districts.
+128 (a) MSETG shall permit BIDs to apply for conditional approval for a period of 5 years to
+129 hold recurring special events that require street closures if:
+130 (1) The BID organized the same event in the previous calendar year; and
+6
+
+131 (2) The event held during the previous calendar year did not result in documented
+132 safety or health violations or incidents deemed significant by MSETG.
+133 (b) Applications for multi-year special events approval shall include, at a minimum:
+134 (1) The date and rain date of the event each calendar year;
+135 (2) Economic and livability metrics;
+136 (3) Application documents provided to MSETG during the previous year; and
+137 (4) Any planned changes to the application from the previous calendar year.
+138 (c) MSETG may charge the BID a one-time fee for a multi-year special events
+139 conditional approval application that is equal to the fee for a one-year conditional approval
+140 application.
+141 (d) After receiving a five-year conditional approval agreement from MSETG, a BID shall
+142 apply and receive all required permits before receiving final approval from MSETG.
+143 (e) Within 30 days after an event, the BID shall submit the following information to
+144 MSETG through the online portal as part of post-event reporting:
+145 (1) Estimated event attendance;
+146 (2) Office of Tax and Revenue compliance requirements for vendors;
+147 (3) Documentation of any operational or safety issues that occurred at the event;
+148 and
+149 (4) Photographs documenting the removal of street signs.
+150 (f)(1) If a BID makes any changes to the event plan that impact the life safety, security or
+151 traffic control plan during the 5-year period of conditional approval, the BID must submit an
+152 amendment for approval to MSETG at least 60 days before the event date.
+7
+
+153 (2) A BID shall provide written notice to MSETG of any de minimis changes to
+154 its event plan.
+155 (g) MSETG may at any time revoke a BID’s conditional approval if MSETG deems that
+156 the event poses health or safety risks to the public.
+157 (h) MSETG shall consider a BID’s adherence to agency standards and requirements at
+158 the event each year when considering renewing the 5-year approval agreement.
+159 Sec. 7. Special Events Task Force.
+160 (a) The OSE shall convene a task force composed of representatives from each agency
+161 that issues permits related to special events.
+162 (b) The task force shall meet for the first time no later than 60 days after the applicability
+163 date of this act.
+164 (c) Within 6 months of the applicability date of this act, the task force shall identify and
+165 submit recommendations to the Mayor and Council regarding:
+166 (1) Permit requirements that are duplicative or unnecessary;
+167 (2) Strategies to simplify permit applications and processes; and
+168 (3) Risk reduction strategies, including technologies that could reduce the need
+169 for city services at special events.
+170 Sec. 8. Special Events Program.
+171 (a) There is established a Special Events Program, administered by OSE, to provide
+172 grants to organizations hosting special events with street closures through a competitive
+173 application process.
+174 (b) The Program shall provide at least 16 grants annually, distributed evenly among the
+175 District’s 8 wards.
+8
+
+176 (c) Grant applications shall be available via the OSE portal and shall require the applicant
+177 to demonstrate how the event will:
+178 (1) Generate foot traffic for a commercial corridor; and
+179 (2) Generate economic benefits for small businesses.
+180 (d) Grants shall fully or partially cover permit fees and other expenses charged by the
+181 following agencies:
+182 (1) Alcoholic Beverage and Cannabis Administration;
+183 (2) Department of Licensing and Consumer Protection;
+184 (3) Department of Health;
+185 (4) Department of Parks and Recreation;
+186 (5) Department of Public Works;
+187 (6) Department of Transportation;
+188 (7) Fire and Emergency Medical Services Department;
+189 (8) Metropolitan Police Department; and
+190 (9) Washington Metropolitan Area Transit Authority.
+191 (e) Grant recipients shall report post-event metrics via the application portal, including:
+192 (1) Approximate number of attendees; and
+193 (2) Local business tax revenue impacts during the event period.
+194 Sec. 9. Fiscal impact statement.
+195 The Council adopts the fiscal impact statement in the committee report as the fiscal
+196 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+197 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+198 Sec. 10. Effective date.
+9
+
+199 This act shall take effect following approval by the Mayor (or in the event of veto by the
+200 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+201 as provided in section 602(c)(l) of the District of Columbia Home Rule Act, approved December
+202 24, 1973 (87 Stat. 813; D.C. Official Code§ l-206.02(c)(l)).
+10
