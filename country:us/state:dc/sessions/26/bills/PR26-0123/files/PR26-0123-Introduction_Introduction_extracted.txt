@@ -1,0 +1,427 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+March 6, 2025
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, N.W., Suite 504
+Washington, D.C. 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and approval by the Council of the District of Columbia, pursuant to
+section 31 of the Homeless Services Reform Act of 2005, effective October 22, 2005 (D.C. Law 16-
+35; D.C. Official Code § 4-756.02), is a proposed resolution entitled “Peer Case Management
+Institute and Certification Rules Approval Resolution of 2025”.
+The resolution would approve proposed final rules of the Interim Director of the Department of
+Human Services (“DHS”) that establish requirements and procedures for DHS’s Peer Case
+Management Institute (“PCMI”) and the requirements for training and certifying peer case managers.
+The PCMI will train individuals with lived experience of homelessness for employment as peer case
+managers by DHS-funded Continuum of Care homeless services agencies.
+The rules establish PCMI eligibility criteria, the application and selection process, requirements for
+PCMI classroom training and a field practicum, and requirements for the awarding of the Peer Case
+Manager Certification. The purposes of training and certifying case managers through the PCMI are
+to: (a) leverage the expertise of individuals with lived experiences of homelessness and their unique
+ability to help clients
+navigate the homeless services system; (b) create longer-term pathways to employment and financial
+stability for individuals with lived experiences of homelessness; and (c) create a new pipeline of
+quality case managers to serve District residents experiencing or exiting homelessness.
+I urge the Council to take prompt and favorable action on this proposed resolution.
+Sincerely,
+Muriel Bowser
+
+1
+~
+2
+3
+4 at the request of the Mayor
+5
+6
+7
+8 A PROPOSED RESOLUTION
+9
+10
+11
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+13
+14
+15
+I
+16 To approve proposed final rules_of the Interim Director of the Department of Human Services to
+17 implement the Peer Case Management Institute.
+18 RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+19 resolution may be cited as the "Peer Case Management Institute and Certification Rules
+20 Approval Resolution of 2025".
+21 Sec. 2. Pursuant to section 31 of the Homeless Services Reform Act of 2005, effective
+22 October 21, 2005 (D.C. Law 16-35; D.C. Official Code§ 4-756.02), the Council approves the
+23 proposed final rules of the Interim Director of the Department of Human Services adopting a
+24 new Chapter 114 (Peer Case Management Institute and Certification) of Title 29 (Public
+25 Welfare) of the District of Columbia Municipal Regulations, regarding the implementation of the
+26 Peer Case Management Institute, which were transmitted to the Council by the Mayor on --------
+27 --, and a notice of proposed rulemaking for which was published in the District of Columbia
+28 Register on March 15, 2024, at 71 DCR 2967.
+29 Sec. 3. Transmittal.
+30 The Council shall transmit a copy of this resolution, upon its adoption, to the Mayor, the
+31 Director of the Department of Human Services, and the Administrator of the Office of
+32 Documents and Administrative Issuances.
+
+33 Sec. 4. Fiscal impact statement.
+34 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+35 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+36 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+37 Sec. 5. Effective date.
+38 This resolution shall take effect immediately.
+2
+
+DEPARTMENT OF HUMAN SERVICES
+NOTICE OF FINAL RULEMAKING
+(as submitted to the Council of the District of Columbia for its review and approval
+pursuant to section 31 of the Homeless Services Reform Act of 2005,
+effective October 22, 2005 (D.C. Law 16-35; D.C. Official Code § 4-756.02))
+The Interim Director of the Department of Human Services (“Department”), pursuant to the
+authority set forth in Section 31 of the Homeless Services Reform Act of 2005 (“HSRA”), effective
+October 22, 2005 (D.C. Law 16-35; D.C. Official Code § 4-756.02), and Mayor’s Order 2006-20,
+dated February 13, 2006, gives notice of the adoption of the following new Chapter 114 (Peer Case
+Management Institute and Certification) of Title 29 (Public Welfare) of the District of Columbia
+Municipal Regulations.
+These rules establish the Department’s Peer Case Management Institute (“PCMI”) and the
+requirements for training and certifying peer case managers. The PCMI will train individuals with
+lived experience of homelessness for employment as peer case managers by Department-funded
+Continuum of Care (CoC) homeless services agencies, including providers of Medicaid-
+reimbursable housing stabilization and housing navigation services, low-barrier shelter providers,
+and other providers in the homeless services field. These rules establish PCMI eligibility criteria,
+the application and selection process, requirements for PCMI classroom training and a field
+practicum, and requirements for the awarding of the Peer Case Manager Certification. The
+purposes of training and certifying case managers through the PCMI are to: (a) leverage the
+expertise of individuals with lived experiences of homelessness and their unique ability to help
+clients navigate the homeless services system; (b) create longer-term pathways to employment and
+financial stability for individuals with lived experiences of homelessness; and (c) create a new
+pipeline of quality case managers to serve District residents experiencing or exiting homelessness.
+The Department Director adopted emergency rules on February 29, 2024, pursuant to a Notice of
+Emergency and Proposed Rulemaking published in the District of Columbia Register on March
+15, 2024, at 71 DCR 2967. A subsequent Notice of Second Emergency Rulemaking was adopted
+by the Department Director on September 16, 2024, and published in the District of Columbia
+Register on September 27, 2024, at 71 DCR 11718. A Notice of Third Emergency Rulemaking
+was adopted by the Interim Director of the Department on February XX, 2025, and published in
+the District of Columbia Register on February XX, 2025, at 72 DCR ____.
+These final rules have not been substantially altered from the proposed rulemaking, in response to
+which the District received no public comments. These final rules removed language from § 11400
+that described the purpose of the PCMI but did not operate as rules. This language remains in the
+preamble. In addition, these final rules condense and revise for clarity §§ 11400.1 and 11400.3.
+In accordance with Section 31 of the HSRA (D.C. Official Code § 4-756.02), the proposed final
+rules were submitted to the Council of the District of Columbia for a forty-five (45) day period of
+review, pursuant to the Peer Case Management Institute and Certification Rules Approval
+Resolution of 2025. The proposed resolution and final rules were deemed approved on March
+YY, 2024, pursuant to Resolution 26-YYY.
+1
+
+On March ZZ, 2025, the Interim Director of the Department adopted these rules as final, and the
+rules shall become effective upon publication of this notice in the District of Columbia Register.
+Title 29, PUBLIC WELFARE, of the DCMR is amended by adding a new Chapter 114,
+PEER CASE MANAGEMENT INSTITUTE AND CERTIFICATION, to read as follows:
+CHAPTER 114 PEER CASE MANAGEMENT INSTITUTE AND CERTIFICATION
+11400 PURPOSE AND APPLICATION
+11400.1 The purpose of the Department’s Peer Case Management Institute (PCMI) is to
+train individuals with lived experience of homelessness to serve as case managers
+at homeless services agencies that are providers in the District’s Continuum of Care
+(CoC).
+11400.2 Individuals who successfully complete the PCMI will be eligible to receive a
+Department-issued Peer Case Manager Certification.
+11400.3 A Department-funded CoC provider may substitute the Peer Case Manager
+Certification for the education and work requirements for the job that the
+Department requires the CoC agency to include for the job under the Department’s
+contract with the CoC agency.
+11400.4 This chapter applies to individuals seeking a Peer Case Manager Certification, CoC
+providers who employ peer case managers, and the Department.
+11401 GENERAL PROVISIONS
+11401.1 The Department shall administer the PCMI, including the issuance of Peer Case
+Manager Certifications, determining the requirements for the Peer Case Manager
+Certifications, and establishing how CoC agencies shall or may use the certification
+in hiring.
+11401.2 To obtain the Peer Case Manager Certification, an individual shall successfully
+complete classroom-based training and a field-based practicum through the PCMI,
+as described in Sections 11403 and 11404.
+11401.3 The Department shall provide notice to the public of upcoming openings to
+participate in the PCMI, including information on the application process.
+11402 PEER CASE MANAGEMENT INSTITUTE (PCMI) — ELIGIBLITY,
+APPLICATION, AND SELECTION
+2
+
+11402.1 In order to be eligible to participate in the Peer Case Management Institute, an
+applicant shall be:
+(a) A District resident;
+(b) At least eighteen (18) years of age; and
+(c) Either:
+(1) A current or former consumer of services from a provider in the
+District’s CoC of homeless services; or
+(2) A person who has experienced homelessness at some point in their
+lifetime in the District or another jurisdiction in the United States.
+11402.2 An applicant shall submit a completed application to the Department in the format
+prescribed by the Department.
+11402.3 To be considered by the Department, the application shall be:
+(a) Submitted during the designed timeframe for accepting applications; and
+(b) Completed in full.
+11402.4 The Department shall review each application it receives to determine the eligibility
+of the applicant and the timeliness and completeness of the application. The
+Department shall reject each incomplete or untimely application and each
+application from an ineligible applicant.
+11402.5 The Department shall review each timely, complete application from an eligible
+applicant.
+11402.6 The Department shall rank candidates for selection based on the number of open
+enrollment slots and the following factors:
+(a) Personal essays submitted through the application process that demonstrate
+the applicant’s interest in and commitment to working in case management.
+(b) Writing proficiency as demonstrated through the personal essays submitted
+through the application process;
+(c) Level of education completed, with preference given to those who have at
+least a high school diploma or GED;
+(d) Strength of recommendation letters;
+3
+
+(e) Previous work experience in the CoC;
+(f) Ability to speak another language, including American Sign Language; and
+(g) The time and date the application was received, with preference going to
+the applications submitted first.
+11402.7 Each applicant shall receive notice of their selection or denial to participate in the
+PCMI. Notice of denial shall conform to the requirements of Section 19(b) of the
+Act (D.C. Official Code § 4-754.33(b)).
+11403 PCMI — TRAINING REQUIREMENTS
+11403.1 To qualify for the Peer Case Manager Certification, a PCMI participant shall first
+successfully complete at least one hundred twenty hours (120) of required
+classroom training.
+11403.2 The PCMI classroom training shall be structured to provide participants with an
+opportunity to develop the following core competencies:
+(a) Understanding case management functions and roles;
+(b) Understanding the unique value of lived experiences in the helping process;
+(c) Developing the participants’ professional use of self;
+(d) Using self-care techniques;
+(e) Fostering a trauma-informed approach in understanding homelessness;
+(f) Developing effective engagement, communication, and de-escalation
+techniques;
+(g) Strengthening participants’ understanding of cultural competence; and
+(h) Building a peer network to encourage ongoing learning and provide
+support.
+11403.3 The PCMI classroom training shall be delivered in modules by an education
+provider selected by the Department.
+11403.4 Classroom training shall address the core competencies set forth in § 11403.2.
+11403.5 Participants may be required to complete additional hours of training depending on
+their proficiency in writing and using computers in accordance with standards set
+by the Department.
+4
+
+11403.6 The education provider shall indicate whether the participant successfully
+completed the classroom training, pursuant to standards developed by the
+Department.
+11403.7 The education provider shall submit notice of a participant’s completion of
+classroom training to the Department, along with the provider’s assessment of
+whether the participant successfully completed the classroom training.
+11403.8 Any PCMI participant who does not successfully complete the classroom training
+shall not participate in the field practicum and shall not receive a certification but
+may reapply to participate in the PCMI.
+11404 PCMI — PRACTICUM REQUIREMENT
+11404.1 To qualify for the Peer Case Management Certification, a PCMI participant shall
+also successfully complete a field practicum.
+11404.2 The purpose of the PCMI field practicum is to provide participants with an
+opportunity to apply the skills and knowledge acquired from the classroom work in
+a homeless services setting.
+11404.3 Each homeless services provider that hosts a PCMI field practicum participant shall
+identify a qualified case manager or case manager supervisor to serve as the field
+practicum supervisor for the participant. Before serving as a field practicum
+supervisor, the identified qualified case manager or case manager supervisor shall
+complete a peer case manager supervisory orientation offered by the Department.
+11404.4 The participant shall complete at least eighty (80) hours of field-based work to
+complete their field practicum.
+11404.5 The field practicum supervisor shall ensure that:
+(a) The consumer (and the consumer’s family if appropriate) receiving case
+management services delivered by the PCMI participant during the field
+practicum has consented to the delivery of such services by a PCMI
+participant;
+(b) Case management services delivered by the PCMI participant during the
+field practicum are consistent with the individualized case management
+plan for the consumer receiving the services; and
+(c) The PCMI participant has an opportunity to participate in the development
+of a case management plan and service coordination activities during the
+field practicum.
+5
+
+11404.6 The field practicum supervisor shall maintain a log of all supervisory meetings with
+the PCMI participant.
+11404.7 The field practicum supervisor shall provide the following supervision to a PCMI
+participant during the field practicum:
+(a) Establish the field practicum objectives and guidelines for the PCMI
+participant within the first week of the practicum;
+(b) Provide a minimum of one (1) hour of face-to-face supervision with each
+PCMI participant once a week with additional support as needed or
+requested;
+(c) Supervise the PCMI participant throughout the field practicum, overseeing
+the full range of field practice;
+(d) Document all supervision activities in accordance with guidelines
+established by the Department;
+(e) Maintain regular contact with the PCMI participant and the PCMI as needed
+to achieve field practicum objectives; and
+(f) Complete a mid-way and final evaluation of the PCMI participant’s
+performance according to evaluation guidance established by the
+Department.
+11404.8 During the field practicum, the PCMI participant shall at a minimum:
+(a) Complete orientation on the field practicum site and its policies and
+procedures regarding the delivery of services;
+(b) Shadow a case manager in the homeless services field during work with
+consumers on significant activities, such as intake appointments, home
+visits, conducting assessments, developing a housing plan, or related
+activities;
+(c) Work directly with consumers; and
+(d) Participate as a full member in the case planning and case management
+service provision process.
+11404.9 A PCMI participant may submit a written request to change their field practicum
+provider. All requests for changes shall be submitted to the Department for
+approval.
+6
+
+11404.10 Within five (5) business days after the PCMI participant completes the field
+practicum, the field practicum supervisor shall complete, sign, and submit to the
+PCMI a Department-promulgated Practicum Evaluation Form for the participant.
+11404.11 In order to be eligible for the Peer Case Manager Certification, the PCMI
+participant shall have a passing score on their final practicum evaluation.
+11404.12 The Department shall determine the final practicum evaluation criteria and
+establish a numerical system for determining a passing score.
+11404.13 A participant who does not receive a passing score on the final evaluation of their
+practicum may request to complete a second practicum placement with a new
+provider or with the same provider, if the provider agrees to it.
+11404.14 A participant may request reconsideration of their final practicum evaluation, or a
+mid-way evaluation for a second practicum placement, by submitting a written
+form promulgated by the Department within five (5) business days after receiving
+the evaluation.
+11405 PCMI — DISMISSAL
+11405.1 A participant who does not receive a passing score on the final evaluation of their
+initial practicum and does not request to complete a second practicum placement
+shall be dismissed from the program.
+11405.2 If a participant requests a second practicum placement and does not receive a
+passing score on the midway evaluation of their second practicum placement, the
+participant shall be dismissed from the PCMI.
+11405.3 If a participant does not pass the third practicum evaluation after two (2) different
+practicum placements, the participant shall be dismissed from the PCMI.
+11405.4 A participant who misses more than two (2) days of classroom instruction or field
+practicum assignment without providing any written notice to the designated
+contact shall be dismissed from the PCMI. Written notice may include text message
+or email.
+11405.5 A participant who misses more than four (4) days of classroom instruction or field
+practicum assignment, even with written notification, shall be dismissed from the
+PCMI.
+11405.6 A participant who has been dismissed from the PCMI may reapply for admission
+pursuant to Section 11402.
+11405.7 A participant may withdraw from the PCMI at any time.
+7
+
+11406 PEER CASE MANAGER CERTIFICATION
+11406.1 A PCMI participant who successfully completes both the classroom-based training
+and the field practicum shall be eligible to receive the Peer Case Manager
+Certification.
+11406.2 After verifying that a PCMI participant has met the requirements of this chapter for
+certification as a peer case manager, the Department shall issue a Peer Case
+Manager Certification, signed by the Director or their designee, to the participant
+as evidence of successful completion of the PCMI.
+11406.3 The Peer Case Manager Certification is not a license, and completion of the PCMI
+does not guarantee employment with any agency or provider. Gaining employment
+as a case manager after successfully completing the PCMI will require successful
+completion of the individual employer’s job candidate selection process, including
+any criminal background check and drug screening required for the particular
+position.
+11499 DEFINITIONS
+11499.1 The terms in this chapter shall have the definitions set forth in Section 2 of the Act
+(D.C. Official Code § 4-751.01).
+11499.2 In addition, for the purposes of this chapter, the following terms shall have the
+meaning ascribed:
+Act – the Homeless Services Reform Act of 2005, effective October 22, 2005 (D.C.
+Law 16-35; D.C. Official Code § 4-751.01 et seq.).
+Applicant – a person who has submitted an application to participate in the Peer
+Case Management Institute.
+Certified Peer Case Manager – an individual with lived experience of
+homelessness who has successfully completed the PCMI and received the
+Peer Case Management Certification.
+Department – Department of Human Services.
+District – District of Columbia.
+Participant – a person selected to participate in the PCMI.
+8
+
+GOVERNMENTOF THE DISTRICTOF COLUMBIA
+DEPARTMENTOF HUMAN SERVICES
+xk
+zz
+B=
+OfficeoftheAgency FiscalOfficer
+MEMORANDUM
+TO: A.D. Rachel Pierre
+Interim Director
+Department of Human Services
+THRU: Delicia V. Moore
+Associate Chief FinancialOfficer
+Human Support Services Cluster
+Hayden 9taysopa
+FROM: Hayden Bernard i aro
+Agency Fiscal Officer A Dueso2so0¢
+DepartmentofHuman Ser@gard 12139-0500
+DATE: March 3, 2025
+SUBJECT:_ Fiscal ImpactStatement —Notice of Emergency and Proposed Rulemaking
+Regarding Peer Case Management Instituteand Certification
+Background:
+The Interim Director of the Department of Human Services (“Department”), pursuant to the
+authorityset forth inSection 31 oftheHomeless ServicesReform Actof2005 (“HSRA”), effective
+October22, 2005 (D.C. Law 16-35; D.C. Official Code § 4-756.02), and Mayor’s Order2006-20,
+dated February 13, 2006, givesnoticeoftheadoption on an emergency basisofthe following new
+Chapter 114 (Peer Case Management Institute and Certification)ofTitle 29 (Public Welfare) of
+the District ofColumbiaMunicipal Regulations (“DCMR”).
+These rules establish the Department’s Peer Case Management Institute (“PCMI”) and the
+requirements fortraining and certifyingpeer case managers. The PCMI willtrain individuals with
+lived experience ofhomelessness foremployment as peer case managers by Department-funded
+Continuum of Care (CoC) homeless services agencies, including providers of Medicaid-
+reimbursable housingstabilization and housing navigation services, low-barriershelterproviders,
+and other providers in the homeless services field. These rules establish PCMI eligibility criteria,
+the application and selection process, requirements for PCMI classroom training and a field
+practicum, and requirements for the awarding of the Peer Case Manager Certification. The
+purposesoftraining and certifying case managers through PCML are to: (a) leverage the expertise
+P.O.Box54047,64New YorkAvenue, NIE,SixthFloor,Washington,DC 20002(202)671-4200Fax (202)671-4326
+
+of individuals with lived experiences of homelessness and their unique ability to help clients
+navigate the homeless services system; (b) create longer-term pathways to employment and
+financial stability for individuals with lived experiences of homelessness; and (c) create a new
+pipelineofquality casemanagers toserveDistrictresidentsexperiencingorexitinghomelessness.
+Budgetand Financial Plan Impact:
+The table belowoutlines the cost ofthe proposed rulemaking:
+[Program |FY26 |FY27 |FY28 |FY29 FourYearTotal
+[PCMI_|$ 733,029 $747,690 $762,643, $777,896 $3,021,258
+Conclusion
+Funding availabil i t y for the proposed rulemaking for FY26 through FY 2029 will be dependent
+upon the availability offunding in the District’s Budget and financial plan, upon approval by the
+Council and Mayorandcompletionofthe thirty (30)day Congressional review period.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+BRIAN L. SCHWALB
+ATTORNEY GENERAL
+Legal Counsel Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal Counsel Division
+DATE: February 4, 2025
+SUBJECT: Legal Sufficiency Review of Draft Resolution, the Peer Case
+Management Institute and Certification Rules Approval Resolution of
+2025”
+(AR-23-701-C)
+This is to Certify that
+this Office has reviewed the above-referenced
+legislation and has found it to be legally sufficient. If you have any questions
+regarding this certification, please do not hesitate to contact me at (202) 262-6402.
+_______________________________
+Adele El-Khouri
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004 Phone: (202) 724-5524 Email: adele.el-khouri@dc.gov

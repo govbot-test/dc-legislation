@@ -1,0 +1,151 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+OFFICE OF COUNCILMEMBER ANITA BONDS
+CHAIR, COMMITTEE ON EXECUTIVE ADMINISTRATION AND LABOR
+THE JOHN A. WILSON BUILDING
+1350 PENNSYLVANIA AVENUE, NW
+WASHINGTON, DC 20004
+April 28, 2025
+Nyasha Smith, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, N.W.
+Washington, DC 20004
+Dear Secretary Smith,
+Today, along with Councilmembers Kenyan McDuffie and Matthew Frumin, I am introducing
+the “Petition Administration Clarification Amendment Act of 2025.” Please find enclosed a
+signed copy of the legislation amending Title 1 of the District of Columbia Official Code to
+prohibit any person from altering information provided by the petition signer, except in cases
+where the signer requests assistance in signing the petition.
+In 1955, the U.S. Congress passed the District of Columbia Election Code of 1955, which
+established the framework for the administration of elections in the District of Columbia,
+including original guidelines for the circulation and filing of candidate nomination petitions for
+ballot access in the District. The Initiative, Referendum and Recall Procedures Act of 1979
+(“IRR Act”) became law six years after the adoption of the District of Columbia Self-
+Government and Governmental Reorganization Act (also Called the Home Rule Act), granting
+District citizens the right to place new legislation, or legislation recently passed by the city
+council, on the ballot for a popular vote. The bill also established the right of District residents to
+recall elected officers of the District of Columbia government (except the Delegate to Congress
+for the District of Columbia) by the registered electors from the election district from which he
+or she was elected.
+The IRR Act also includes guidelines related to the circulation and signing of petitions for these
+three legislative maneuvers. The statute enumerates many requirements related to petitions,
+including: the form of the petition and circulator affidavit; the timeline for the release of petitions
+and the deadline for submission; the number of signatures required for each type of action; and,
+specific requirement related to signature collection. However, nothing in the law addresses the
+legality of alterations or changes made to information added by a petition signer to the petition
+form.
+
+It is not surprising that drafters of the IRR Act did not place restrictions on a circulator’s or
+signer’s ability to alter information written on a petition because, prior to the introduction of
+electronically transferable petition sheets, principal campaign, initiative, referendum and recall
+committees needed to pick up forms printed by the Board of Elections at their offices. For this
+reason, campaigns naturally focused on maximizing each available line of petition. So, if a signer
+made a mistake while filling out their line on the petition, candidate committees would cross out
+or edit the information to make sure the signature counted because space on a petition sheet was
+a priority given the effort needed to acquire the sheets.
+However, times have changed. Campaign committees can now print petitions from the comfort
+of their own homes. Petition sheets can be emailed directly to supporters as well for them to print
+and sign on their own. This convenience obviates the need for petition circulators to edit, alter or
+change the information of a signer after a signature is affixed to the petition.
+This bill provides straightforward guidance on a very important, fundamental process of our
+government by clearly banning the alteration of information provided by the petition signer after
+they sign the form. This change will allow for consistent resolution of petition challenges
+adjudicated by the Board of Elections and streamline the process we use to regulate ballot access
+in the District. Should you have any questions about this legislation, please contact Kevin
+Chavous at kchavous@dccouncil.gov.
+Thank you,
+Councilmember Anita Bonds
+
+1 ______________________________ ______________________________
+2 Councilmember Kenyan McDuffie Councilmember Anita Bonds
+3
+4
+5
+6
+7
+8 _______________________________
+9 Councilmember Matthew Frumin
+10
+11
+12 A BILL
+13 ________
+14
+15 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+16 ______________________
+17
+18 To amend the District of Columbia Election Code of 1955 to require candidate nomination
+19 petition affidavits to state that the circulator has not altered signer information on a
+20 petition after a signer has signed the petition; to prohibit anyone from altering signer
+21 information provided by the petition signer, except in cases where the signer requests
+22 assistance in signing the petition before signing the petition; to amend the Initiative,
+23 Referendum and Recall Procedures Act of 1979 to require initiative, referendum and
+24 recall petition affidavits to state that the circulator has not altered signer information on a
+25 petition after a signer has signed the petition; and, to prohibit anyone from altering signer
+26 information provided by the petition signer, except in cases where the signer requests
+27 assistance in signing the petition.
+28
+29 BE IT ENACTED BY THE COUNCIL DISTRICT OF COLUMBIA, That this act may be
+30 cited as the “Petition Administration Clarification Amendment Act of 2025”.
+31 Sec. 2. Section 8 of the District of Columbia Election Code of 1955, approved August 12,
+32 1955 (69 Stat. 701; D.C. Official Code § 1-1001.08) is amended as follows:
+33 (a) Subsection (b)(3) is amended as follows:
+34 (1) Subparagraph (B) is amended by striking the phrase “; and” and inserting a
+35 semicolon in its place.
+1
+
+36 (2) Subparagraph (C) is amended by striking the period and inserting the phrase “;
+37 and” in its place.
+38 (3) A new subparagraph (D) is added to read as follows:
+39 “(D) Not written, altered, corrected, clarified, or obscured information on the
+40 petition about the signer of the petition after the signer affixed their signature to the petition.”.
+41 (b) A new subsection (p-1) is added to read as follows:
+42 “(p-1) No person other than the petition signer may write, alter, correct, or clarify on a
+43 nominating petition any information about the petition signer unless the signer requests assistance
+44 in writing, altering, correcting, or clarifying on the petition any information about the signer before
+45 the signer affixes their signature.”.
+46 Sec. 3. The Initiative, Referendum and Recall Procedures Act of 1979, effective June 7,
+47 1979 (D.C. Law 3-1; D.C. Official Code § 1-1001.16) is amended as follows:
+48 (a) Subsection (h)(1) is amended as follows:
+49 (1) Subparagraph (F) is amended by striking the period and inserting the phrase “;
+50 and”.
+51 (2) A new subparagraph (G) is added to read as follows:
+52 “(G) Not written, altered, corrected, clarified, or obscured information on the
+53 petition about the signer of the petition after the signer affixed their signature to the petition.”.
+54 (b) Section 2g (D.C. Official Code § 1-1001.16(h) is amended as follows:
+55 (1) A new subsection (h-1) is added to read as follows:
+56 “(h-1) No person other than the petition signer may write, alter, correct, or clarify on a
+57 petition sheet for an initiative or referendum unless the signer requests assistance in writing,
+2
+
+58 altering, correcting, or clarifying on the petition any information about the signer before the signer
+59 affixes their signature.”.
+60 (b) Section 17 (D.C. Official Code § 1-1001.17) is amended as follows:
+61 (1) Subsection (f) is amended as follows:
+62 (1) Subparagraph (6) is amended by striking the period and inserting the phrase “;
+63 and”.
+64 (2) A new subparagraph (7) is added to read as follows:
+65 “(7) Not written, altered, corrected, clarified, or obscured information on the
+66 petition about the signer of the petition after the signer affixed their signature to the petition.”.
+67 (2) A new subsection (h-1) is added to read as follows:
+68 “(h-1) No person other than the petition signer may write, alter, correct, or clarify on a
+69 petition sheet for a recall petition unless the signer requests assistance in writing, altering,
+70 correcting of clarifying on the petition any information about the signer before the signer affixes
+71 their signature.”.
+72 Sec. 4. Fiscal impact statement.
+73 The Council adopts the fiscal impact statement in the committee report as the fiscal impact
+74 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+75 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+76 Sec. 5. Effective date.
+77 This act shall take effect following approval by the Mayor (or in the event of veto by the
+78 Mayor, action by the Council to override the veto) and a 30-day period of congressional review as
+79 provided in section 602(c)(2) of the District of Columbia Home Rule Act, approved December 24,
+3
+
+80 1973 (87 Stat. 788; D.C. Official Code § 1-206.02(c)(2)).
+4

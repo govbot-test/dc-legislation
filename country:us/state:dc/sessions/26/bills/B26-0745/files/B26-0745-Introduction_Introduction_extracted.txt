@@ -1,0 +1,2507 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+July 8, 2026
+Honorable Phil Mendelson
+Chairman
+Councilofthe District ofColumbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+DearChairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. M01, and M02 to Contract No. CW131644 with Shaw
+Solutions LLC Approval and Payment Authorization Emergency Act of 2026,” and the
+accompanying emergency declarationresolution.
+The legislation will approve emergency Modification Nos. M01, and M02 to Contract No.
+CW131648 with Shaw Solutions LLC to provide equipment and qualified operators for snow
+plowing and removal for the period from January 20, 2026, through January 19, 2027. The
+legislation will approvepayment forthe goods and services received and tobe received underthe
+contract in the not-to-exceed amount of $5,000,000.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modification. Inorderto facilitate a responseto any questions you may have, please have
+yourstaffcontact Mare Scott,ChiefOperating Officer,OfoffCiontrcacteing and Procurement, at
+(202) 724-8759.
+L urge theCouncilto take prompt and favorableaction on theenclosed legislation.
+Sincerely,
+Mériel Bhwser
+
+1 ~~
+2
+3 Chairman Phil Mendelson
+4 at the request of the Mayor
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16
+17 To approve, on an emergency basis, Modification Nos. M0l and M02 to Contract No.
+18 CWl 31644 with Shaw Solutions LLC, and to authorize payment for the goods and
+19 services received and to be received under the contract.
+20
+21 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+22 act may be cited as the "Modification Nos. M0l and M02 to Contract No. CW131644 with Shaw
+23 Solutions LLC Approval and Payment Authorization Emergency Act of 2026".
+24 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+25 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+26 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+27 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves emergency
+28 Modification Nos. MO 1 and M02 to Contract No. CWl 31644 with Shaw Solutions LLC and
+29 authorizes payment in the not-to-exceed amount of $5 million for the goods and services
+30 received and to be received under the modifications.
+31 Sec. 3. Fiscal impact statement.
+1
+
+32 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+33 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+34 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+35 Sec. 4. Effective date.
+36 This act shall take effect following approval by the Mayor (or in the event of veto by the
+37 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+38 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+39 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+40 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive)
+(A) Contract Number: CW131644
+Proposed Contractor: Shaw Solutions LLC
+Proposed Contractor’s Principals: Quiana Shaw
+Contract Amount: Total: Not-to-Exceed (NTE) $5,000,000
+- Award: NTE $1,000,000
+- Modification M01: NTE $4,000,000
+Unit and Method of Compensation: Firm-fixed unit prices
+Term of Contract: January 20, 2026, through January 19, 2027
+Type of Contract: Indefinite delivery indefinite quantity (IDIQ)
+Source Selection Method: Invitation for Bid (IFB)
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: NTE $5,000,000
+- Award: NTE $1,000,000
+- Modification M01: NTE $4,000,000
+Option Period One Amount: NTE $5,000,000
+Explanation of difference from base period (if applicable): No change from base year as
+Modification M02 increases the maximum NTE amount of all option years from $1,000,000 to
+$5,000,000.
+Option Period Two Amount: NTE $5,000,000
+
+Explanation of difference from base period (if applicable): N/A
+Option Period Three Amount: NTE $5,000,000
+Explanation of difference from base period (if applicable): N/A
+Option Period Four Amount: NTE $5,000,000
+Explanation of difference from base period (if applicable): N/A
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The contractor provides snow plowing, hauling, and removal during snow events; including trucks,
+plows, salt spreaders, and qualified operators for all equipment. There were no changes to the
+programmatic scope of the contract. Contract modifications M01 and M02 solely adjusted the NTE
+amount in response to the unanticipated significant snow and ice event that started on January 24,
+2026.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+The contractor was selected pursuant to an IFB. The District received six bids which were evaluated
+based on price, responsiveness, and responsibility. Awards were issued to five bidders, including
+Shaw. The other awardees were District Logistics, ID3 Trucking, National Service and WKM
+Solutions.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+None.
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+Multiple Snow Plowing, Hauling, and Removal contracts:
+CW131640 – Aggregate Group A: Single-Axle Dump Trucks
+CW131642 – Aggregate Group B: Tandem Dump Trucks
+CW131646 – Aggregate Group D: Graders, Backhoes, and One-Ton Trucks
+CW131648 – Aggregate Group E: Specialty Equipment
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+
+The proposed contractor has provided the same services to the Department of Public Works for
+seven years, as well as to other government and private clients. Their performance has been
+satisfactory.
+(H) The period of performance associated with the proposed change, including date as of which
+the proposed change is to be made effective:
+January 20, 2026, through January 19, 2027; January 20, 2026
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+Contract Award: NTE $1,000,000
+Modification M01: $4,000,000
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+NTE $4,000,000
+(K) The date on which the contracting officer was notified of the proposed change:
+January 20, 2026
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+There was not sufficient time to seek Council approval first. The contract was awarded on January
+20, 2026. On January 23, 2026, the Mayor issued Mayor’s Order 2026-005, declaring a public
+emergency in response to the significant snow and ice event that was forecasted for the Washington
+metropolitan area. The severity of the snow event required immediate services beyond the
+established NTE contract amount of $1,000,000.
+(M) The reason for the proposed change:
+There was an unanticipated requirement for snow plowing and removal services in response to the
+public emergency declared by the Mayor in Mayor’s Order 2026-005. The severity of the snow
+event required immediate services beyond the established NTE contract amount of $1,000,000.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+D.C. Official Code § 2-352.02(c-1).
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+The proposed contractor has been determined not to violate section 334a of the Board of Ethics and
+Government Accountability Establishment and Comprehensive Ethics Reform Amendment Act of
+2011 and has certified that it currently is not and will not be in violation of section 334a of the
+Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform
+Amendment Act of 2011.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+The proposed contractor is a certified business enterprise and certified that it will be performing
+100% of the work.
+(Q) Performance standards and the expected outcome of the proposed contract:
+The contractor is expected to plow and remove snow quickly and efficiently in accordance with the
+contract requirements. They will be subject to liquidated damages for failure to provide satisfactory
+equipment and operators on a timely basis.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+NTE $5,000,000 – January 20, 2026; actual expenditures are undergoing reconciliation.
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Office of the Chief Financial Officer has certified that funding is consistent with the applicable
+financial plan and budget.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The Office of the Attorney General has certified that the proposed contract is legally sufficient. The
+contractor has no legal claims pending against the District.
+
+(U) A certification that the Citywide Clean Hands database indicates that the proposed contractor
+is current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands database indicates the contractor is current with its District taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+The contract has certified in the bidder offeror certification form that it is current with its federal
+taxes.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended; D.C. Official Code § 2-218.01 et seq.:
+The proposed contractor is a District-certified business enterprise.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None.
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+The proposed contractor is not currently debarred from providing services or goods to the District
+or federal government.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination and Findings for Contractor Responsibility
+Determination and Findings for Price Reasonableness
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+www.ocp.dc.gov
+
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+www.ocp.dc.gov
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: April 23, 2026 Notice Number: L0016450064
+SHAW SOLUTIONS LLC FEIN: **-***6712
+3810 CARPENTER ST SE Case ID: 18949951
+WCASHINGTON DC 20020-2342
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE CHIEF FINANCIAL OFFICER
+kk *
+aa
+a)
+FINANCIAL PLAN AND BUDGET CERTIFICATION
+CONTRACT Ni CWI31644
+CAPTION: ‘SnowRemoval and Dumping Services
+CONTRACTORNAME: Shaw Solutions
+CONTRACT AMOUNT: NTE$5,000,000.00
+ORGANIZATION CODE: KTO
+PERIOD OFPERFORMANCE: January 20, 2026 ~ January 19, 2027 (Base
+eat)
+The Officeofthe Chief Financial Officerofthe DistrictofColumbia hereby certifies that
+the sum of $3,356,460.00 is included within the District’s budget and financial plan to
+fund the emergency snow and hauling services in response to the snow and ice event that
+occurred on January 24 - February 8, 2026.
+This memorandum certifies that $3,356,460.00 is available from the FY26 budget. The
+remaining amountofthecontract iscontingent upon the availability offunding inFY27.
+NB: Funding availability isdependent on additional OBP allocations forSnow Event #7.
+CpaQo _
+Perry Fitzpatrick, AFO
+Waa A Med
+“eadageh ies
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: June 11, 2026
+SUBJECT: Approval of Retroactive Contract Over One Million Dollars
+Hauling, removal and snow plowing Services
+Contract No. CW131644/Mod No. 001
+Contractor: Shaw Solution LLC
+Total Not to Exceed Amount: $5,000,000.00
+This is to Certify that this Office has reviewed the above-referenced Contract. To the
+extent OAG is being requested to review the contents of the contract action the contents
+are found to be legally sufficient. The process used to enter in this contract violated the
+requirements of DC Code § 2–352.02. (Criteria for Council review of multiyear contracts
+and contracts in excess of $1 million) because the parties agreed the value of the base
+period of the contract would potentially be more than $1,000,000 during a twelve-month
+period, before receiving Council approval. The legislation included with this contract
+action was written to remedy this deficiency.
+If you have any questions in this regard, please do not hesitate to call me at (202) 724-
+4018.
+_________________________________
+Robert Schildkraut
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW131640, CW131642, 1 1
+CW131644, CW131646,
+CW131648
+2. Amendment/Modification 3. Effective Date 4. Requisition/Purchase Request 5. Solicitation Caption
+Number No.
+See Box 16C
+M01
+Snow and Ice Removal Services
+(Aggregate GroupsA-E)
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Department of Public Works
+441 4thStreet, N.W., Suite 700 South 899 North Capitol Street, NE, 5thFloor
+Washington, D.C. 20001 Washington, DC 20002
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+9B. Dated (See Item 11)
+Shaw Solutions, LLC
+3810 Carpenter Street, SE
+Washington, DC 20020 10A. Modification of Contractor/Order No.
+CW131640, CW131642, CW131644, CW131646, CW131648
+10B. Dated (See Item 13)
+Code Facility
+01/20/2026
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not
+extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15, and returning one (1)copyof the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT
+TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN
+REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided
+each letter or telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour anddate specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS ,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Section 3601.2(b)
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation
+data
+etc.) set forth in item 14, pursuant to the authority of:
+C. This supplemental agreement is entered into pursuant to authority of:
+X D. Other (Specify type of modification and authority)
+Snow Emergency
+E. IMPORTANT: Contractor is not is required to sign this document and return ONE (1) copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+This modification reflects the below changes:
+1. M01 to Contract CW131640(A), CW131642(B), CW131644(C), CW131646(D)and CW131648(E) hereby
+increases the contract ceiling from Not-to-Exceed (NTE) $1million by $4million to a total contract ceiling of
+Not-to-Exceed (NTE) $5million
+All other Terms and Conditions of the contract remain unchanged.
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+HHiillddrreedd PPeeppppeerr
+15B. Name of Contractor 15C. Date Signed 16B. Districctt ooff CCoolluummbbiiaa 16C. Date Signed
+01/22/2026
+(Signature of person authorized to sign) ((SSiiggnnaattuurree ooff CCoonntracting Officer)
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION/MODIFICATION OF CONTRACT CW131644 1 4
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+Snow and Ice Removal
+M02 See Box 16c
+Services
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Office of Contracting and Procurement
+Transportation and Specialty Equipment Department of Public Works
+899 North Capitol Street, NE 899 North Capital Street NE, 5th Floor
+Washington, DC 20002 Washington, DC 20002
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+Shaw Solutions
+9B. Dated (See Item 11)
+3810 Carpenter Street, SE
+Washington, DC 20020 X 10A. Modification of Contract/Order No.
+M02/CW131644
+Code Facility 10B. Dated (See Item 13)
+January 20, 2026
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15 and returning __________ copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer submitted; or
+(c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED AT THE
+PLACE DESIGNATED FOR THE RECEIPT of OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR OFFER. If by virtue of
+this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or telegram makes reference to the solicitation and this
+amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACT/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR 3601.3(b)
+X
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.3
+C. This supplemental agreement is entered into pursuant to authority of:
+D. Other (Specify type of modification and authority) 27 DCMR 2008.1
+E. IMPORTANT: Contractor is not is required to sign this document.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+The solicitation for CW131644 for Snow and Ice Removal Services is hereby modified as follows:
+1. This modification provides an administrative clarification to conflicting language about the contract amount.
+Contract section B.3 correctly states the contract value as a not-to-exceed amount. Accordingly, references to the
+“maximum total estimated price” are changed to “maximum total price”. Modifications issued subsequent to
+award that adjust the contract value are consistent with the not-to-exceed language in section B.3.
+2. Remove Contract Attachment A, Price Schedule, in its entirety and replace with Modification Attachment A,
+Price Schedule.
+3. CLINs 0001, 1001, 2001, 3001, and 4001 for the standby rates described in contract section B.4.1 are deleted and
+replaced with new CLINs for standby rates for the same equipment. The standby rates remain the same. (See
+Modification Attachment A, Price Schedule, for the new CLINs.)
+4. The NTE maximum total price for all option periods is increased from $1,000,000.00 to $5,000,000.00.
+5. Maximum CLIN quantities are revised to reflect the NTE contract amount of $5,000,000.00. (See Modification
+Attachment A, Price Schedule, for revised quantities.)
+Except as provided herein, all terms and conditions of the contract remain unchanged.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Shawn Brooks
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+0 6 /02/2026
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+CW131644/M02: Snow and Ice Removal Services
+ATTACHMENT A – Price Schedule
+B.4.2.3 OPERATING RATES – AGGREGATE GROUP C: TRI-AXLE DUMP TRUCKS
+BASE PERIOD
+Unit Price
+Minimum Per Minimum Maximum
+Contract
+Quantity of Hour/Per Total Maximum Total
+Line Item Description
+Equipment Equipment Estimated Quantity Estimated
+Item No.
+Per Event with Price Price
+Operator
+Tri-Axle Dump with Contractor
+#0010 supplied snow plow and salt spreader 1 $295.00 $295.00 4250 $1,253,750.00
+with operator
+Standby Rate for CLIN #0010 (See
+#0010A 0 $147.50 $0.00 2 $295.00
+B.4.1)
+Tri-Axle Dump with Contractor
+#0011 0 $285.00 $0.00 4253 $1,212,105.00
+supplied snow plow with operator
+Standby Rate for CLIN #0011 (See
+#0011A 0 $142.50 $0.00 2 $285.00
+B.4.1)
+Tri-Axle Dump with Contractor
+#0012 0 $285.00 $0.00 4300 $1,225,500.00
+supplied salt spreader with operator
+Standby Rate for CLIN #0012 (See
+#0012A 0 $142.50 $0.00 2 $285.00
+B.4.1)
+Tri-Axle Dump for hauling salt,
+#0013 1 $250.00 $250.00 5230 $1,307,500.00
+abrasives or snow with operator
+Standby Rate for CLIN #0013 (See
+#0013A 0 $125.00 $0.00 2 $250.00
+B.4.1)
+Aggregate Group C MIN and MAX $545.00 $4,999,970.00
+B.4.2.8 OPERATING RATES – AGGREGATE GROUP C: TRI-AXLE DUMP TRUCKS
+OPTION PERIOD ONE
+Unit Price
+Minimum Per Minimum Maximum
+Contract
+Quantity of Hour/Per Total Maximum Total
+Line Item Description
+Equipment Equipment Estimated Quantity Estimated
+Item No.
+Per Event with Price Price
+Operator
+Tri-Axle Dump with Contractor
+#1010 supplied snow plow and salt spreader 1 $300.00 $300.00 4000 $1,200,000.00
+with operator
+Standby Rate for CLIN #1010 (See
+#1010A 0 $150.00 $0.00 3 $450.00
+B.4.1)
+Tri-Axle Dump with Contractor
+#1011 0 $290.00 $0.00 4200 $1,218,000.00
+supplied snow plow with operator
+Standby Rate for CLIN #1011 (See
+#1011A 0 $145.00 $0.00 2 $290.00
+B.4.1)
+Tri-Axle Dump with Contractor
+#1012 0 $290.00 $0.00 4300 $1,247,000.00
+supplied salt spreader with operator
+
+CW131644/M02: Snow and Ice Removal Services
+Standby Rate for CLIN #1012 (See
+#1012A 0 $145.00 $0.00 2 $290.00
+B.4.1)
+Tri-Axle Dump for hauling salt,
+#1013 1 $255.00 $255.00 5230 $1,333,650.00
+abrasives or snow with operator
+Standby Rate for CLIN #1013 (See
+#1013A 0 $127.50 $0.00 2 $255.00
+B.4.1)
+Aggregate Group C MIN and MAX $555.00 $4,999,935.00
+B.4.2.14 OPERATING RATES – AGGREGATE GROUP C: TRI-AXLE DUMP TRUCKS
+OPTION PERIOD TWO
+Unit Price
+Minimum Per Minimum Maximum
+Contract
+Quantity of Hour/Per Total Maximum Total
+Line Item Description
+Equipment Equipment Estimated Quantity Estimated
+Item No.
+Per Event with Price Price
+Operator
+Tri-Axle Dump with Contractor
+#2010 supplied snow plow and salt spreader 1 $305.00 $305.00 4000 $1,220,000.00
+with operator
+Standby Rate for CLIN #2010 (See
+#2010A 0 $152.50 $0.00 4 $610.00
+B.4.1)
+Tri-Axle Dump with Contractor
+#2011 0 $295.00 $0.00 4000 $1,180,000.00
+supplied snow plow with operator
+Standby Rate for CLIN #2011 (See
+#2011A 0 $147.50 $0.00 2 $295.00
+B.4.1)
+Tri-Axle Dump with Contractor
+#2012 0 $295.00 $0.00 4199 $1,238,705.00
+supplied salt spreader with operator
+Standby Rate for CLIN #2012 (See
+#2012A 0 $147.50 $0.00 2 $295.00
+B.4.1)
+Tri-Axle Dump for hauling salt,
+#2013 1 $260.00 $260.00 5230 $1,359,800.00
+abrasives or snow with operator
+Standby Rate for CLIN #2013 (See
+#2013A 0 $130.00 $0.00 2 $260.00
+B.4.1)
+Aggregate Group C MIN and MAX $565.00 $4,999,965.00
+B.4.2.20 OPERATING RATES – AGGREGATE GROUP C: TRI-AXLE DUMP TRUCKS
+OPTION PERIOD THREE
+Unit Price
+Minimum Per Minimum Maximum
+Contract
+Quantity of Hour/Per Total Maximum Total
+Line Item Description
+Equipment Equipment Estimated Quantity Estimated
+Item No.
+Per Event with Price Price
+Operator
+Tri-Axle Dump with Contractor
+#3010 supplied snow plow and salt spreader 1 $310.00 $310.00 4000 $1,240,000.00
+with operator
+
+CW131644/M02: Snow and Ice Removal Services
+Standby Rate for CLIN #3010 (See
+#3010A 0 $155.00 $0.00 4 $620.00
+B.4.1)
+Tri-Axle Dump with Contractor
+#3011 0 $300.00 $0.00 4000 $1,200,000.00
+supplied snow plow with operator
+Standby Rate for CLIN #3011 (See
+#3011A 0 $150.00 $0.00 2 $300.00
+B.4.1)
+Tri-Axle Dump with Contractor
+#3012 0 $300.00 $0.00 4200 $1,260,000.00
+supplied salt spreader with operator
+Standby Rate for CLIN #3012 (See
+#3012A 0 $150.00 $0.00 2 $300.00
+B.4.1)
+Tri-Axle Dump for hauling salt,
+#3013 1 $265.00 $265.00 4900 $1,298,500.00
+abrasives or snow with operator
+Standby Rate for CLIN #3013 (See
+#3013A 0 $132.50 $0.00 2 $265.00
+B.4.1)
+Aggregate Group C MIN and MAX $575.00 $4,999,985.00
+B.4.2.26 OPERATING RATES – AGGREGATE GROUP C: TRI-AXLE DUMP TRUCKS
+OPTION PERIOD FOUR
+Unit Price
+Minimum Per Minimum Maximum
+Contract
+Quantity of Hour/Per Total Maximum Total
+Line Item Description
+Equipment Equipment Estimated Quantity Estimated
+Item No.
+Per Event with Price Price
+Operator
+Tri-Axle Dump with Contractor
+#4010 supplied snow plow and salt spreader 1 $315.00 $315.00 4000 $1,260,000.00
+with operator
+Standby Rate for CLIN #4010 (See
+#4010A 0 $157.50 $0.00 2 $315.00
+B.4.1)
+Tri-Axle Dump with Contractor
+#4011 0 $305.00 $0.00 4025 $1,227,625.00
+supplied snow plow with operator
+Standby Rate for CLIN #4011 (See
+#4011A 0 $152.50 $0.00 3 $457.50
+B.4.1)
+Tri-Axle Dump with Contractor
+#4012 0 $305.00 $0.00 4205 $1,282,525.00
+supplied salt spreader with operator
+Standby Rate for CLIN #4012 (See
+#4012A 0 $152.50 $0.00 2 $305.00
+B.4.1)
+Tri-Axle Dump for hauling salt,
+#4013 1 $270.00 $270.00 4550 $1,228,500.00
+abrasives or snow with operator
+Standby Rate for CLIN #4013 (See
+#4013A 0 $135.00 $0.00 2 $270.00
+B.4.1)
+Aggregate Group C MIN and MAX $585.00 $4,999,997.50
+
+SOLICITATION, OFFER, AND 1.Caption Page of Pages
+AWARD
+Snow and Ice Removal Services 1 52
+2.Contract Number 3.Solicitation Number 4.Type of Solicitation 5.Date Issued 6.Type of Market
+X Sealed Bid (IFB) Open
+DCSS Set
+Sealed Proposals (RFP) Aside
+Open with
+Sole Source X Sub-
+Contracting
+Human Care Agreements Set Aside
+CW131644 DOC790546 Emergency N/A
+7.Issued By: 8.Address Offer to:
+Office of Contracting and Procurement N/A
+Transportation and Specialty Equipment Commodity Group
+2000 14th Street, NW, 6th Floor
+W ashington, DC 20009
+NOTE: In sealed bid solicitations "offer" and offeror" means "bid" and "bidder"
+SOLICITATION
+Aggregate Group: C Tri-Axle Dump Trucks
+9.Offers must be received in the E-Sourcing system prior to the event closing date and time.
+CAUTION: Late Submissions, Modifications and Withdrawals: See 27 DCMR chapters 15 & 16 as applicable. All offers are subject to all terms &
+conditions contained in this solicitation.
+A.Name B.Telephone C.E-mail Address
+10.For Information
+C ontact  (Area Code) (Number)
+Hildred Pepper 202 671-0470 Hildred.pepper@dc.gov
+OFFER
+11.Acknowledgement of Amendments Amendment Number Date Amendment Number Date
+(The offeror acknowledges receipt of
+1 10/1/2025
+amendments to the SOLICITATION):
+2 10/21/2025
+3 10/31/2025
+12A. 13A. Name and Title of Person Authorized to Sign
+Name and Offer/Contract
+Address of Offeror
+Quiana S. Shaw, Owner
+Shaw Solutions, LLC
+13B. Email
+3810 Carpenter St SE
+Washington, DC 20020 qshaw@shawsolutionsdc.com
+12B. Telephone 14.Signature 15.Offer Date
+12C. Check if remittance
+(Area Code) (Number) (Ext) address is different from
+1/15/2026
+above - Refer to Section G
+AWARD (TO BE COMPLETED BY GOVERNMENT)
+16.Accepted as to Items Numbered 17.Amount 18.Accounting and Appropriation
+Aggregate Group C: CLINs (0010-0013)(1010-
+1 013)(2010-2013)(3010-3013)(4010-4013) NTE $1,000,000
+19.Name of Contracting Officer (Type or Print) 21.Signature of Contracting Officer (District of Columbia) 22.Award Date
+for HP
+H ildred Pepper 1/20/2026
+Government of the District of Columbia Office of Contracting & Procurement
+
+Snow Plowing, Hauling and Removal Services
+SECTION B: CONTRACT TYPE, SUPPLIES OR SERVICES AND
+PRICE/COST
+B.1 The District of Columbia Government (the District), through the Office of Contracting
+and Procurement (OCP) on behalf of the Department of Public Works, (DPW)
+intends to award contracts for hauling, removal, and snow plowing Services to
+support the District's snow operation. These services will not cover areas within the
+National Highway System.
+Because snowfall amounts vary each snow season, the District cannot guarantee that it
+will issue any Task Orders or that contractors will receive a minimum amount of snow
+plowing work during the period the contract.
+B.1.1. MINIMUM REQUIREMENTS:
+In responding to this solicitation, prospective Contractors are required to include
+the information detailed below. Failure to provide this information as part of the
+Contractor's response may result in the Contractor being found Non-Responsive to this
+solicitation.
+B.1.2 Completed Vendor Information and Equipment form providing an opportunity to provide the
+minimum required equipment and operators and a minimum of one (1) year experience plowing as
+listed in Section B3. (Attachment I.7)
+B.1.3 Provide a signed copy of the District’s Specifications for Snow Removal Services Contract Plows
+Salt Spreaders and Spreader Controllers (Attachment I.8)
+B.1.4 Provide a copy of their Certificate of Insurance.
+B.2 The District contemplates awarding multiple Indefinite Deliveries/Indefinite Quantities Contracts.
+B.3 AGGREGATE GROUP
+Awards will be made by Aggregate Award Group. Vendors may be awarded in multiple
+groups; however, no more than ten (10) vendors total will receive awards across all groups.
+• Pricing Requirement: To qualify for award consideration in a group, you must submit
+a unit price for every item in that aggregate group. Partial pricing will not be accepted.
+• Award Basis: Awards will be made per group (not per item). Each group will be
+awarded separately.
+• You may bid on one or more groups.
+• Contract Value: The maximum total value for any one aggregate group award is
+not-to-exceed $1,000,000.
+Equipment & Operator Requirements (per Group)
+
+Snow Plowing, Hauling and Removal Services
+Each bidder must demonstrate, using the Completed Vendor Information and Equipment
+Form (Attachment I.7), that they can provide the minimum required equipment and
+operators listed below. Vehicle identifiers (license plate numbers, VINs, and other
+requested information) must be included on the form.
+Minimum CLINs
+Equipment &
+Aggregate Group
+Operators
+Required
+0002-0005,
+Single
+10 Single Axle 1002-1005,
+Axle
+Group A Dump Trucks with 2002-2005,
+Dump
+Operators 3002-3005,
+Trucks
+4002-4005
+0006-0009,
+Tandem 10 Tandem Dump 1006-1009,
+Group B Dump Trucks with 2006-2009,
+Trucks Operators 3006-3009,
+4006-4009
+0010-0013,
+Tri-Axle 10 Tri-Axle Dump 1010-1013,
+Group C Dump Trucks with 2010-2013,
+Trucks Operators 3010-3013,
+4010-4013
+5 units with 0014-0021,
+Graders,
+Operators 1014-1021,
+Backhoes,
+Group D (Graders, 2014-2021,
+One-Ton
+Backhoes, One- 3014-3021,
+Trucks
+Ton Trucks) 4014-4021
+Specialty 5 units with Operator (4WD 0022-0027,
+Group E Equipment Pickups, Large Roadway 1022-1027,
+Snow Blowers, Bobcats, (No 2022-2027,
+Operator needed for Roll-Off 3022-3027,
+Trucks) 4022-4027
+B.4 PRICE SCHEDULE
+The Pricing Schedule is attached as Attachment A.
+B.4.1 STAND-BY RATES
+The District may decide to request the services of plows to be available at a specified
+deployment location. A standby event is when the Contractor is waiting for instructions
+from the CA or his/her designee to begin the plowing operation, continue the plowing
+operation or be officially dismissed for a period not-to-exceed one hour. However, the
+District reserves the right to extend this standby rate to more hours if deemed necessary by
+the CA. When the Contractor's equipment is deployed for actual plowing operation(s), the
+
+Snow Plowing, Hauling and Removal Services
+operating hourly rate will then apply.
+CLIN Description Unit Estimated
+Amount
+Standby Rate for All Trucks and Equipment with 50% of the total
+0001-4001 Hour operating hourly rate
+Operator not-to-exceed (NTE) 1 hour.
+as outlined in
+CLINS 0002- 0027,
+1002-1027, 2002-
+2027, 3002-3027,
+4002-4027
+B.5 A bidder responding to this solicitation that is required to subcontract shall be required to submit with
+its bid, any subcontracting plan required by law. Bids responding to this IFB shall be deemed
+nonresponsive and shall be rejected if the bidder fails to submit a subcontracting plan that is required
+by law.
+B.6 For contracts in excess of $250,000, at least 35% of the dollar volume of the contract shall be
+subcontracted in accordance with section H.9.1
+A Subcontracting Plan form is available at http://ocp.dc.gov, under Quick Links click on “Required
+Solicitation Documents”.
+
+Snow Plowing, Hauling and Removal Services
+SECTION C: DESCRIPTION/SPECIFICATION/WORK STATEMENT
+C.1 SCOPE
+The District of Columbia Government, Office of Contracting and Procurement (OCP)
+on behalf of the Department of Public Works, (the District) requires the services of
+a contractor to provide Hauling, Removal, and Snow Plowing Services to support
+the District's snow operation. The Contractor shall furnish appropriate trucks and
+equipment driven by qualified operators, necessary for the effective and efficient
+performance of hauling, removal and snow plowing.
+C.1.1 The District requires snow vehicles (pick up and/or dump trucks) with plows to
+supplement its fleet for snow operations. DPW requires contractors to also provide
+snow plows and salt spreaders for those vehicles.
+The District also requires four-wheel drive light and medium class pickup trucks
+with Contractor supplied plow and salt spreader. DPW requires contractors who
+provide plows for those vehicles to provide salt spreaders for those vehicles.
+If a Contractor’s vehicle is not equipped with a salt spreader, each truck shall have the
+appropriate ballast to plow the varying amounts of snow. Ballast is weight or load
+in the dump body such as gravel or rock to add rear weight to the dump truck which
+will allow the dump truck to plow various depths of snow when called out.
+C.1.2 Award of a Contract and the exercise of any option are subject to equipment
+verification conducted in the first quarter of each contract year by the District or its
+designee, of each vehicle proposed to be used by the Contractor.
+C.1.3 The Contractor shall submit a copy of applicable licenses and/or industry
+certifications necessary to perform the requirement upon request of the Contracting
+Officer (CO) and prior to the exercise of any option under an awarded Contract.
+Additionally, the Contractor shall provide any updates/renewals of those licenses
+and certifications upon request of the CO.
+C.1.3.1 The Contractor under this contract shall provide the District with a telephone number,
+email address and a name of a contact person who will answer the telephone or respond
+to an email request twenty-four (24) hours a day. If the contact person, email address
+or telephone number changes during the term of the contract, the Contractor shall
+immediately provide updated contact information to the Contract Administrator (CA).
+C.1.4 Once a Contractor is in service for the District, the Contractor must remain in
+service until released by the District. Any Contractor who prematurely discontinues
+service without the approval of the District CA or his/her designee may be subject
+to termination of Contract. The Contractor must provide the District with reasoning
+
+Snow Plowing, Hauling and Removal Services
+or justification that the District deems adequate for the discontinued service. Should the
+Contractor fail to provide said justification, the Contractor is in breach of the contract
+and the District may pursue termination of the contract.
+C.1.5 Applicable Documents
+In performance of work under this contract and any Task Order written against this
+contract, the Contractor shall adhere to all local, state and federal regulations
+regarding commercial drivers and the operation of vehicles to be used under this
+contract.
+C.2 REQUIREMENTS - EQUIPMENT AND PERSONNEL
+The Contractor shall furnish qualified truck operators whose qualifications and
+licensure meet all federal and local DMV regulations including valid DOT Medical
+Examiners Certification for CDL License holders, and that are listed as authorized
+employees or subcontractors of the Company on the Vendor Information and
+Equipment Form (Attachment I.7). The Contractor may at any point during the
+performance of this contract or any task order issued be required by the CA or his/her
+designee to remove or replace from snow plowing work any Contractor employee
+or subcontractor who is deemed by the CA or his/her designee to be unsafe or
+whose continued participation is deemed to be contrary to the public interest.
+C.2.1 The Contractor shall be responsible for having and maintaining all safety equipment
+on its vehicles/equipment used under this contract, including but not limited to working
+lights, horns, heaters, wipers, and defrosters. The Contractor shall furnish and
+maintain all exterior lighting systems including overhead emergency amber rotating or
+strobe lighting. The emergency lighting shall have 360° visibility at all times. Vehicle
+headlight beam is required to meet District of Columbia Motor Vehicle Laws
+concerning visibility both to and from vehicle with plow attached. Contractor's
+equipment and operators shall be in compliance with ALL applicable District of
+Columbia, DMV, and State and Federal Regulations regarding the condition and
+operations of the vehicle.
+C.2.2 The Contractor shall ensure that all vehicles used under this contract are safe and
+roadworthy, and any damage resulting from a failure to maintain the vehicle(s) is
+the exclusive liability of the Contractor. Equipment provided by the Contractor
+must meet the requirements in Attachment I.8.
+C.2.3 The Contractor shall provide all service and repairs to keep its equipment running
+for the entire snow event and until released by the responsible District supervisor. The
+District will not compensate for down time on trucks and equipment that extends
+beyond one (1) hour. The Contractor shall report to the District when its equipment is
+down for repairs and when the repairs have been completed and the equipment is
+operational.
+
+Snow Plowing, Hauling and Removal Services
+C.2.4 The Contractor shall establish and maintain communications with the District for the
+duration of this contract. The Contractor shall provide a home/office/cellular phone
+number, or answering service where the District can contact or leave a message seven
+(7) days a week, twenty-four (24) hours a day.
+C.2.5 The Contractor shall notify the CA or his/her designee and the Contracting Officer
+of any changes to any of the information in the Contractor's Vendor Information
+and Equipment Form (Attachment I.7) within five (5) business days of the change.
+C.2.6 The Contractor trucks may work continuously during the course of a major storm which
+may necessitate the need for relief operators. The Contractor shall have adequate
+drivers for twenty-four (24) hour coverage for multiple shifts in major snow events.
+C.2.7 The Contractor shall ensure that when not in operations, all trucks loaded with District
+supplied equipment (i.e., salt brine) shall be covered to prevent freezing.
+REQUIREMENTS - HAULING, REMOVAL SERVICES
+C.2.8 Work under this contract shall consist of hauling, removal and snow plowing services
+for snow support seasons, which is from October 1 through March 31 of each year.
+In anticipation of or during a snow event, if the District determines that it needs the
+services of the Snow Plow Contractors, the CA or his/her designee will contact the
+Contractor to provide snow plowing, removal or hauling services. The CA or
+his/her designee will develop a call list of those Contractors needed for the event.
+The CA will provide at least a four (4) to six (6) hour notification before a snow event.
+In some cases, the CA will provide up to twelve (12) hour notification before a snow
+event. The CA or his/her designee will provide the Contractor with a date, time and
+location to report. The District will provide all direction on routes to be serviced
+and will provide instructions on snow removal activities. The District will keep
+time sheets on all hours worked by Contractors.
+C.2.9 The Contractor shall ensure that truck(s) and operator(s) are available on a seven
+(7) days a week, twenty-four (24) hours a day basis. The District reserves the right
+to place any of the Contractor's vehicles on stand-by or actual operating time, and
+to discontinue using any unit of vehicle at any time as field conditions require or if
+a vehicle is not working satisfactorily. The District will be the sole judge as to whether
+the vehicle is performing satisfactorily.
+C.2.10 When called in to report for duty, the Contractor shall ensure that all personnel and
+equipment are logged in at the area designated by a CA or his/her designee for each
+winter storm event. The Contractor's personnel shall demonstrate that safety lights,
+plow, spreader and spinner, and tailgate or spreader box shields are operational and
+that hydraulic lines are not leaking. Failure to demonstrate the above shall make
+the unit unusable. The Contractor's personnel shall have a cellular phone and the
+truck must have a full tank of fuel. The cellular phone number shall be given to the
+District's CA or his/her designee. Failure to demonstrate that the truck has a full tank
+of fuel and the operator has a cellular phone shall make the unit unusable. At the
+
+Snow Plowing, Hauling and Removal Services
+end of operations, all Contractor personnel and equipment must be logged out at the
+area designated by CA or his/her designee and all Trip Tickets must be signed in
+order to receive payment.
+C.2.11 The Contractor shall ensure that all trucks report to the designated location for
+operations with equipment mounted on the units. The Contractor may not store any
+of its equipment on District property.
+C.2.12 Failure to present for duty the number of vehicles specified under this contract
+when called, is a breach of Contract and will result in a liquidated damages per
+missing truck, per occurrence, each day that the Contractor is noncompliant.
+C.2.13 Prior to beginning duties assigned by the CA or his/her designee, each vehicle operator
+shall be supplied with access to the District’s contracted EV Street Map app and a route
+maps (used only as a back-up plan supplied by the District) on the day of the snow
+event at the designated work site and verify with the on-site District supervisor the
+operator's understanding of the task assigned.
+C.2.14 During a snow event, all vehicles provided by the Contractor must work continuously
+until released by the District CA or his/her designee. The Contractor shall be allowed
+one (1) hour of down time per each twelve (12) hour work session for activities such
+as fueling, lubrication of equipment and performing preventive maintenance. The
+Contractor must provide his own fuel and lubricants and all other required maintenance.
+C.2.15 At the discretion of the District, AVL with GPS (Global Position Satellite), shall be
+required for any equipment the contractor provides. The District provides access to the
+District’s contracted EV Street Map app will mapping requirements. The Contractor
+acknowledges and permits the District to install a mobile AVL system on the
+Contractor’s phone.
+C.3 REDEPLOYMENT
+The District will alert the Contractor when there is a need for redeployment in a
+different location, in a timely manner, to allow the Contractor time to report to the new
+destination. The Contractor shall not under any circumstance, report to a different
+District Shop unless directed by the CA or his/her designee.
+C.4 REPORTING TIMES
+C.4.1 When a Contractor is given a specific time to report, the Contractor's compensation
+will begin at that start time upon the CA or his/her designee approval and inspection of
+the requested equipment and operator. The Contractor will not be compensated for
+early arrival. Reporting late may be considered a failure to respond and may be
+subject to liquidated damages.
+C.4.2 When a Contractor is contacted and asked to report immediately for Snow
+
+Snow Plowing, Hauling and Removal Services
+Removal Operations, the Contractor's truck and operator shall report to the
+District's assigned facility yard in working order and ready to perform emergency
+operations within four (4) hours of notification by the District. The Contractor's
+time will start when the truck arrives at the reporting site in working order and
+ready to perform operations. However if and only if the Contractor arrives within
+an hour of notification, his/her starting time for payment is the time of
+notification. Reporting more than 20 minutes late, beyond the four (4) hour
+notification, may be considered a "failure to respond" and the contractor
+maybe subject to Liquidated Damages.
+C.4.3 Once a Contractor is in service for the District, the Contractor must remain in
+service until released by the District. Any Contractor who prematurely discontinues
+service without the approval of the District CA or his/her designee the Contract may
+be terminated by the District.
+C.4.4 Stand-By Status. Contractors who are required by the CA or his/her designee to report
+to duty on a given snow event day, but who are not assigned upon arrival to a specific
+street clearance or task, will receive compensation at the Stand-by Rate (CLIN(s) 0001-
+4001) per vehicle/operator up to one (1) hour. Compensation of a Stand-by Rate after
+one hour is allowable at the discretion of the CA.
+Vehicles must arrive at the dispatch site with full tanks, adequate ballast, and tire chains
+in place in order to qualify for the Stand-by Rate. In order to qualify for the Stand-by
+Rate, vehicles and operators must remain at the dispatch site until ordered to begin a
+task or until the snow operation is cancelled. There shall be no hourly or stand-by
+compensation paid to Contractors who are not required by the CA or his/her designee
+to report to duty on a given snow event day.
+C.4.5 Downtime: Any mechanical problems which cause the Contractor's truck or equipment
+to become inoperable to perform plow or clearing operations, it is the Contractor's
+responsibility to immediately and expeditiously repair the vehicle. The District will not
+compensate for downtime beyond one (1) hour. The Contractor shall report to the CA
+or his/her designee if a vehicle or piece of equipment is inoperable and shall notify the
+CA or his/her designee when repairs are made such that equipment is operational so
+that both parties know when performance can resume. The Contractor shall also
+notify the CA or his/her designee if a vehicle or equipment is or becomes beyond
+repair.
+C.5 THE FLEET VERIFICATION PROCESS
+C.5.1 The Contractor's equipment will be visually observed by DPW staff. Some items
+observed will be the general condition of the truck, tires, lights, body, cab, type of truck
+and general condition of the equipment as to be adequate to perform the required Snow
+Removal Services. If the vehicle does not meet the visual inspection of the DPW Fleet
+visual inspection/verification, the equipment will not be considered for this contract.
+
+Snow Plowing, Hauling and Removal Services
+C.6 Failure to Report for Duty and Failure to Report for Equipment Verification.
+C.6.1 Any Contractor under this contract with the District, who fails to report for a scheduled
+fleet verification of plow/frame or removal of District equipment upon request of the
+CA or his/her designee, is in breach of this contract, subject to termination of the
+contract.
+C.6.2 Contractors are required to include the information detailed below during the
+Verification and anytime during the Contract upon request:
+C.6.2.1 Provide a copy of applicable licenses and/or industry certifications necessary to
+fulfil the requirements for the company and proposed personnel.
+C.6.2.2 Copies of valid vehicle registrations for all vehicles listed on the Vendor
+Information and Equipment form submitted with Bid.
+C.6.2.3 Provide a copy of their Certificate of Insurance.
+C.6.2.4 Provide a current and valid copy of each operator’s driver’s licenses.
+
+Snow Plowing, Hauling and Removal Services
+SECTION D: PERIOD OF PERFORMANCE AND DELIVERABLES
+D.1 TERM OF AGREEMENT
+The term of this agreement shall be for a period of one year from the date of award.
+D.2 OPTION TO EXTEND THE TERM OF THE AGREEMENT
+The Government may extend the term of this agreement for a period of four, one (1)
+year option periods, or successive fractions thereof, by written notice to the Contractor
+before the expiration of the contract; provided that the District will give the Contractor
+a preliminary written notice of its intent to extend at least thirty (30) days before the
+agreement expires. The preliminary notice does not commit the District to an
+extension. The exercise of this option is subject to the availability of funds at the time
+of the exercise of this option. The Contractor may waive the thirty (30) day preliminary
+notice requirement by providing a written waiver to the Contracting Officer prior to
+expiration of the contract.
+D.2.1 If the District exercises this option, the extended contract shall be considered to include
+this option provision.
+D.2.2 The price for the option period shall be as specified in the contract.
+D.2.3 The total duration of this contract, including the exercise of any options under this
+clause, shall not exceed five (5) years.
+D.2.4 If the District opts to renew the contract the Contractor will not be required to return
+the snowplow equipment at the conclusion of the snow season. Instead, the Contractor
+will be responsible for maintaining the plow in good condition and will be contacted
+in August to come in for plow verification.
+
+Snow Plowing, Hauling and Removal Services
+SECTION E: CONTRACT ADMINISTRATION
+E.1 INVOICE PAYMENT
+E.1.1 The District will make payments to the Contractor, upon the submission of proper
+invoices, at the prices stipulated in this Contract, for supplies delivered and accepted
+or services performed and accepted, less any discounts, allowances or adjustments
+provided for in this Contract.
+E.1.2 The District will pay the Contractor on or before the 30th day after receiving a proper
+invoice from the Contractor.
+E.2 INVOICE SUBMITTAL
+A. The Contractor shall within ten (10) business days from the completion of the call
+out or a snow event have his/her work hours verified, sign the submittal sheets
+and submit an invoice to the CA or his/her designee for approval. Invoices that
+are submitted to the CA or his/her designee after April 30th of the Contract
+year may not be processed for payment. All invoices shall contain the
+Contractor's federal ID number or social security number. Failure to comply
+with this will result in delay of payment.
+B. The Contractor shall, within ten (10) business days from the completion of
+the call out, have his/her work hours verified and submit an invoice to the
+CA or his/her designee. The Contractor shall submit and verify hours worked and
+sign all submittal sheets. The Contractor shall submit invoices to the CA or
+his/her designee no later than five (5) business days after a snow event. All
+approved invoices must be received within two (2) weeks prior to the end of the
+snow season (April 30th). Invoices that are submitted to the CA or his/her
+designee after April 30th of the Contract year may not be processed for
+payment. All invoices shall contain the Contractor's Federal ID Number or
+Social Security Number. Failure to comply with this will result in delay
+of payment.
+E.2.1 Invoices shall be prepared and submitted to the address identified on each Purchase
+Order in accordance with the instructions delineated in the Purchase Order.
+E.2.2 The format for the invoice shall, at a minimum, contain the following information:
+1. The name of supplier, billing address and telephone number;
+2. The contract Number and Purchase Order Number;
+3. Service Date; and
+
+Snow Plowing, Hauling and Removal Services
+4. The unit price for each individual item/service and total dollar amount due.
+E.2.2 To constitute a proper invoice, the Contractor shall submit the following information
+on the invoice:
+E.2.2.1 Contractor’s name, federal tax ID and invoice date (date invoices as of the date of
+mailing or transmittal);
+E.2.2.2 Contract number and invoice number;
+E.2.2.3 Description, price, quantity and the date(s) that the supplies or services were
+delivered or performed;
+E.2.2.4 Other supporting documentation or information, as required by the Contracting
+Officer;
+E.2.2.5 Name, title, telephone number and complete mailing address of the responsible
+official to whom payment is to be sent;
+E.2.2.6 Name, title, phone number of person preparing the invoice;
+E.2.2.7 Name, title, phone number and mailing address of person (if different from the person
+identified in G.2.2.6 above) to be notified in the event of a defective invoice; and
+E.2.2.8 Authorized signature.
+E.3 PROTECTION OF PROPERTY
+The Contractor shall be responsible for any damage to the building, interior, or their
+approaches in delivering equipment covered by this Contract.
+E.4 CONTRACTING OFFICER (CO)
+Contracts will be entered into and signed on behalf of the District only by Contracting
+Officers. The name, address and telephone number of the Contracting Officer is:
+Hildred Pepper
+Contracting Officer Office of Contracting and Procurement
+Transportation and Specialty Equipment Commodity Group
+899 North Capitol St, NE 5th floor
+Washington, DC 20002
+E.5 AUTHORIZED CHANGES BY THE CONTRACTING OFFICER
+E.6.1 The Contracting Officer is the only person authorized to approve changes in any of
+the requirements of this contract.
+
+Snow Plowing, Hauling and Removal Services
+E.6.2 The Contractor shall not comply with any order, directive or request that changes or
+modifies the requirements of this contract, unless issued in writing and signed by the
+Contracting Officer.
+E.6.3 In the event the Contractor effects any change at the instruction or request of any person
+other than the Contracting Officer, the change will be considered to have been made
+without authority, and no adjustment will be made in the Contract price to cover any
+cost increase incurred as a result thereof.
+E.6 CONTRACT ADMINISTRATOR (CA)
+E.7.1 The CA is responsible for general administration of the Contract and advising the CO
+as to the Contractor’s compliance or noncompliance with the Contract. The CA has the
+responsibility of ensuring the work conforms to the requirements of the Contract and
+such other responsibilities and authorities as may be specified in the Contract. These
+include:
+E.7.1.1 Keeping the CO fully informed of any technical or Contractual difficulties encountered
+during the performance period and advising the CO of any potential problem areas
+under the Contract;
+E.7.1.2 Coordinating site entry for Contractor personnel, if applicable;
+E.7.1.3 Reviewing invoices for completed work and recommending approval by the CO if the
+Contractor’s costs are consistent with the negotiated amounts and progress is
+satisfactory and commensurate with the rate of expenditure;
+E.7.1.4 Reviewing and approving invoices for deliverables to ensure receipt of goods and
+services. This includes the timely processing of invoices and vouchers in accordance
+with the District’s payment provisions; and
+E.7.1.5 Maintaining a file that includes all Contract correspondence, modifications, records of
+inspections (site, data, equipment) and invoice or vouchers.
+E.7.2 The address and telephone number of the CA are:
+Primary Contract Administrator Secondary Contract Administrator
+Robert Garrett Demetria Harris
+Safety and Security Administration (SSA) Safety and Security Administration (SSA)
+899 N. Capitol Ave NE, 5th Floor 899 N. Capitol Ave NE, 5th Floor
+Washington, DC 20002 Washington, DC 20002
+Phone: 202-673-6757 Phone: 202-671-2635
+Email: robert.garrett@dc.gov Email: demetria.harris@dc.gov
+
+Snow Plowing, Hauling and Removal Services
+E.7.3 The CA shall NOT have the authority to:
+1. Award, agree to, or sign any Contract, delivery order or task order. Only the CO
+shall make Contractual agreements, commitments or modifications;
+2. Grant deviations from or waive any of the terms and conditions of the Contract;
+3. Increase the dollar limit of the Contract or authorize work beyond the
+dollar limit of the Contract,
+4. Authorize the expenditure of funds by the Contractor;
+5. Change the period of performance; or
+6. Authorize the use of District property, except as specified under the Contract.
+E.7.4 The Contractor will be fully responsible for any changes not authorized in advance, in
+writing, by the CO; may be denied compensation or other relief for any additional work
+performed that is not so authorized; and may also be required, at no additional cost to
+the District, to take all corrective action necessitated by reason of the unauthorized
+changes.
+E.7 INSPECTION AND ACCEPTANCE
+E.8.1 The inspection and acceptance requirements for the resultant contract shall be
+governed by clause six (6), Inspection of Services, of the District of the District of
+Columbia's Standard Contract Provisions for use with Supplies and Services Contracts,
+dated July 2010.
+E.8.2 The District and all its designees shall have access at all reasonable times to the
+premises in which any District property is located for the purpose of inspecting the
+District's property.
+E.8 WARRANTY
+E.9.1 Unless specified otherwise in this contract, the Supplier's standard commercial
+warranty as stated in the supplier's commercial pricelist, will apply to this
+CONTRACT. In addition to the Supplier's standard commercial warranty, the Supplier
+warrants and implies that the items delivered hereunder are merchantable and fit for
+use for the particular purpose described in this contract. Except as otherwise, provided
+by an express or implied warranty, the Supplier will not be liable to the District for
+consequential damages resulting from any defect or deficiencies in accepted items.
+E.9 CONFIDENTIALITY OF INFORMATION
+E.10.1 All information obtained by the Contractor relating to an employee of the District shall
+be kept in absolute confidence and shall not be used by the Contractor in connection
+with any other matters, nor shall any such information be disclosed to any other
+person, firm or corporation, in accordance with the District and Federal laws governing
+
+Snow Plowing, Hauling and Removal Services
+the confidentiality of records.
+
+Snow Plowing, Hauling and Removal Services
+SECTION F: CONTRACT CLAUSES
+F.1 INSURANCE
+A. GENERAL REQUIREMENTS. The Contractor at its sole expense shall procure and
+maintain, during the entire period of performance under this Contract, the types of
+insurance specified below. The Contractor shall have its insurance broker or insurance
+company submit a Certificate of Insurance to the CO giving evidence of the required
+coverage prior to commencing performance under this Contract. In no event shall any work
+be performed until the required Certificates of Insurance signed by an authorized
+representative of the insurer(s) have been provided to, and accepted by, the CO. All
+insurance shall be written with financially responsible companies authorized to do business
+in the District of Columbia or in the jurisdiction where the work is to be performed and
+have an A.M. Best Company rating of A- / VII or higher. The Contractor shall require all
+of its subcontractors to carry the same insurance required herein.
+All required policies shall contain a waiver of subrogation provision in favor of the
+Government of the District of Columbia.
+The Government of the District of Columbia shall be included in all policies required
+hereunder to be maintained by the Contractor and its subcontractors (except for workers’
+compensation and professional liability insurance) as an additional insureds for claims
+against The Government of the District of Columbia relating to this Contract, with the
+understanding that any affirmative obligation imposed upon the insured Contractor or its
+subcontractors (including without limitation the liability to pay premiums) shall be the sole
+obligation of the Contractor or its subcontractors, and not the additional insured. The
+additional insured status under the Contractor’s and its subcontractors’ Commercial
+General Liability insurance policies shall be effected using the ISO Additional Insured
+Endorsement form CG 20 10 11 85 (or CG 20 10 07 04 and CG 20 37 07 04) or such other
+endorsement or combination of endorsements providing coverage at least as broad and
+approved by the CO in writing. All of the Contractor’s and its subcontractors’ liability
+policies (except for workers’ compensation and professional liability insurance) shall be
+endorsed using ISO form CG 20 01 04 13 or its equivalent so as to indicate that such
+policies provide primary coverage (without any right of contribution by any other
+insurance, reinsurance or self-insurance, including any deductible or retention, maintained
+by an Additional Insured) for all claims against the additional insured arising out of the
+performance of this Statement of Work by the Contractor or its subcontractors, or anyone
+for whom the Contractor or its subcontractors may be liable. These policies shall include
+a separation of insureds clause applicable to the additional insured.
+If the Contractor and/or its subcontractors maintain broader coverage and/or higher limits
+than the minimums shown below, the District requires and shall be entitled to the broader
+coverage and/or the higher limits maintained by the Grantee and subcontractors.
+
+Snow Plowing, Hauling and Removal Services
+1. Commercial General Liability Insurance (“CGL”) - The Contractor shall provide
+evidence satisfactory to the CO with respect to the services performed that it carries a
+CGL policy, written on an occurrence (not claims-made) basis, on Insurance Services
+Office, Inc. (“ISO”) form CG 00 01 04 13 (or another occurrence-based form with
+coverage at least as broad and approved by the CO in writing), covering liability for all
+ongoing and completed operations of the Contractor, including ongoing and completed
+operations under all subcontracts, and covering claims for bodily injury, including
+without limitation sickness, disease or death of any persons, injury to or destruction of
+property, including loss of use resulting therefrom, personal and advertising injury, and
+including coverage for liability arising out of an Insured Contract (including the tort
+liability of another assumed in a Contract) and acts of terrorism (whether caused by a
+foreign or domestic source). Such coverage shall have limits of liability of not less than
+$1,000,000 each occurrence, a $2,000,000 general aggregate (including a per location
+or per project aggregate limit endorsement, if applicable) limit, a $1,000,000 personal
+and advertising injury limit, and a $2,000,000 products-completed operations aggregate
+limit.
+2. Automobile Liability Insurance - The Contractor shall provide evidence satisfactory to
+the CO of commercial (business) automobile liability insurance written on ISO form
+CA 00 01 10 13 (or another form with coverage at least as broad and approved by the
+CO in writing) including coverage for all owned, hired, borrowed and non- owned
+vehicles and equipment used by the Contractor, with minimum per accident limits equal
+to the greater of (i) the limits set forth in the Contractor’s commercial automobile
+liability policy or (ii) $1,000,000 per occurrence combined single limit for bodily injury
+and property damage.
+3. Workers’ Compensation Insurance - The Contractor shall provide evidence satisfactory
+to the CO of Workers’ Compensation insurance in accordance with the statutory
+mandates of the District of Columbia or the jurisdiction in which the Contract is
+performed.
+Employer’s Liability Insurance - The Contractor shall provide evidence satisfactory to
+the CO of employer’s liability insurance as follows: $500,000 per accident for injury;
+$500,000 per employee for disease; and $500,000 for policy disease limit.
+All insurance required by this paragraph 3 shall include a waiver of subrogation
+endorsement for the benefit of Government of the District of Columbia.
+4. Environmental Liability Insurance - The Contractor shall provide evidence satisfactory
+to the CO of pollution legal liability insurance covering losses caused by pollution
+conditions that arise from the ongoing or completed operations of the Contractor.
+Completed operations coverage shall remain in effect for at least ten (10)
+
+Snow Plowing, Hauling and Removal Services
+years after completion of the work. Such insurance shall apply to bodily injury,
+property damage (including loss of use of damaged property or of property that has
+been physically injured), cleanup costs, liability and cleanup costs while in transit, and
+defense (including costs and expenses incurred in the investigation, defense and
+settlement of claims). There shall be neither an exclusion nor a sublimit for mold-
+related claims. The minimum limits required under this paragraph shall be equal to the
+greater of (i) the limits set forth in the Contractor’s pollution legal liability policy or
+(ii) $2,000,000 per occurrence and $2,000,000 in the annual aggregate. If such coverage
+is written on a claims-made basis, the Contractor warrants that any retroactive date
+applicable to coverages under the policy precedes the Contractor’s performance of any
+work under the Contract and that continuous coverage will be maintained or an
+extended reporting period will be exercised for at least ten (10) years after completion.
+The Contractor also must furnish to the Owner certificates of insurance evidencing
+pollution legal liability insurance maintained by the transportation and disposal site
+operators(s) used by the Contractor for losses arising from facility(ies) accepting,
+storing or disposing hazardous materials or other waste as a result of the Contractor’s
+operations. Such coverages must be maintained with limits of at least the amounts set
+forth above.
+5. Commercial Umbrella or Excess Liability - The Contractor shall provide evidence
+satisfactory to the CO of commercial umbrella or excess liability insurance with
+minimum limits equal to the greater of (i) the limits set forth in the Contractor’s
+umbrella or excess liability policy or (ii) $10,000,000 per occurrence and
+$10,000,000 in the annual aggregate, following the form and in excess of all liability
+policies. All liability coverages must be scheduled under the umbrella and/or excess
+policy. The insurance required under this paragraph shall be written in a form that
+annually reinstates all required limits. Coverage shall be primary to any insurance, self-
+insurance or reinsurance maintained by the District and the “other insurance” provision
+must be amended in accordance with this requirement and principles of vertical
+exhaustion.
+B. PRIMARY AND NONCONTRIBUTORY INSURANCE
+The insurance required herein shall be primary to and will not seek contribution from any
+other insurance, reinsurance or self-insurance including any deductible or retention,
+maintained by the Government of the District of Columbia.
+C. DURATION. The Contractor shall carry all required insurance until all Contract work is
+accepted by the District of Columbia and shall carry listed coverages for ten years for
+construction projects following final acceptance of the work performed under this Contract
+and two years for non-construction related Contracts.
+
+Snow Plowing, Hauling and Removal Services
+D. LIABILITY. These are the required minimum insurance requirements established by the
+District of Columbia. HOWEVER, THE REQUIRED MINIMUM INSURANCE
+REQUIREMENTS PROVIDED ABOVE WILL NOT IN ANY WAY LIMIT THE
+CONTRACTOR’S LIABILITY UNDER THIS CONTRACT.
+E. CONTRACTOR’S PROPERTY. Contractor and subcontractors are solely responsible for
+any loss or damage to their personal property, including but not limited to tools and
+equipment, scaffolding and temporary structures, rented machinery, or owned and leased
+equipment. A waiver of subrogation shall apply in favor of the District of Columbia.
+F. MEASURE OF PAYMENT. The District shall not make any separate measure or payment
+for the cost of insurance and bonds. The Contractor shall include all of the costs of
+insurance and bonds in the Contract price.
+G. NOTIFICATION. The Contractor shall ensure that all policies provide that the CO shall
+be given thirty (30) days prior written notice in the event of coverage and / or limit changes
+or if the policy is canceled prior to the expiration date shown on the certificate. The
+Contractor shall provide the CO with ten (10) days prior written notice in the event of non-
+payment of premium. The Contractor will also provide the CO with an updated Certificate
+of Insurance should its insurance coverages renew during the Contract.
+H. CERTIFICATES OF INSURANCE. The Contractor shall submit certificates of insurance
+giving evidence of the required coverage as specified in this section prior to commencing
+work. Certificates of insurance must reference the corresponding Contract number.
+Evidence of insurance shall be submitted to:
+The Government of the District of Columbia
+And mailed to the attention of:
+Hildred Pepper, Contracting Officer
+Office of Contracting and Procurement
+On behalf of the Department of Public Works
+899 N Capitol St, NE
+Washington DC 20001
+202-671-0470
+hildred.pepper@dc.gov
+The CO may request and the Contractor shall promptly deliver updated certificates of
+insurance, endorsements indicating the required coverages, and/or certified copies of the
+insurance policies. If the insurance initially obtained by the Contractor expires prior to
+completion of the Contract, renewal certificates of insurance and additional insured and
+other endorsements shall be furnished to the CO prior to the date of expiration of all such
+initial insurance. For all coverage required to be maintained after completion, an
+
+Snow Plowing, Hauling and Removal Services
+additional certificate of insurance evidencing such coverage shall be submitted to the CO
+on an annual basis as the coverage is renewed (or replaced).
+I. DISCLOSURE OF INFORMATION. The Contractor agrees that the District may disclose
+the name and contact information of its insurers to any third party which presents a claim
+against the District for any damages or claims resulting from or arising out of work
+performed by the Contractor, its agents, employees, servants or subcontractors in the
+performance of this Contract.
+J. CARRIER RATINGS. All Contractor’s and its subcontractors’ insurance required in
+connection with this Contract shall be written by insurance companies with an A.M. Best
+Insurance Guide rating of at least A- VII (or the equivalent by any other rating agency) and
+licensed in the in the District.
+F.2 ORDER OF PRECEDENCE
+The agreement awarded as a result of this solicitation will contain the following clause:
+ORDER OF PRECEDENCE
+A conflict in language shall be resolved by giving precedence to the document in the
+highest order of priority that contains language addressing the issue in question. The
+following documents are incorporated into the Contract by reference and made a part of
+the Contract in the following order of precedence:
+(1) An applicable Court Order, if any
+(2) This Contract
+(3) Standard Contract Provisions
+(4) Attachments other than the Standard Contract Provisions
+(5) Solicitation, as amended
+(6) Bid
+
+Snow Plowing, Hauling and Removal Services
+SECTION G: NOTICE TO CONTRACTOR AND SUBMISSION
+INSTRUCTIONS
+RESERVED FOR FUTURE USE
+
+Snow Plowing, Hauling and Removal Services
+SECTION H: INSTRUCTIONS, CONDITIONS AND NOTICES TO
+BIDDERS
+H.1 RESERVED
+H.2 RESERVED
+H.3 RESERVED
+H.4 RESERVED
+H.5 RESERVED
+H.6. LIQUIDATED DAMAGES
+For failure to provide the requirements on this contract, the contractor will be assessed
+Liquidated Damages as follows:
+H.6.1 In the event the Contractor fails to timely perform snow removal services, including but not
+limited to:
+(i) replacing equipment within one (1) hour of breakdown or nonperformance,
+(ii) the failure to replace equipment and/or operator more than one hour if a DPW/DDOT
+zone supervisor believes that a truck and/or operator is not in a satisfactory mechanical or safe
+working condition, or:
+(iii) the failure to arrive at the assigned site more than twenty (20) minutes after the scheduled
+reporting time.
+H.6.2 If one or more of the above conditions apply, then the Contractor shall be subject to liquidated
+damages.
+H.6.3 The applicable definitions, formulas, escalation caps, and the District’s right to obtain substitute
+services are set forth in Exhibit I.9 – Liquidated Damages Definitions & Pricing Appendix,
+which is incorporated herein by reference and shall govern the assessment and application of
+such damages.
+
+Snow Plowing, Hauling and Removal Services
+SECTION I: ATTACHMENTS
+Attachment
+Document
+Number
+I.7 Vendor Information and Equipment Form
+Specifications for Snow Removal Services Contract Plow, Salt Spreaders
+I.8
+and Spreader Controllers
+Liquidated Damages Definitions & Pricing Appendix
+I.9
+
+Exhibit I.9 – Liquidated Damages Definitions & Pricing Appendix
+1. Purpose
+This Appendix sets forth the definitions, formulas, and sample calculations associated with the assessment of Liquidated Damages
+(LDs) under Section H of the Agreement for Snow Equipment and Operators.
+2. Defined Terms
+• Hourly Rate – The combined hourly rate for each unit of equipment and operator, as established in the Contractor’s
+pricing schedule.
+3. Liquidated Damages Formulas
+Failure Event Formula Description
+If a truck or operator
+breaks down and is not
+replaced within one hour,
+Failure to Replace Equipment (with
+LD = (Hourly Rate) x DPW will charge two (2)
+Operator) Within One (1) Hour of
+2 x (Hours Late) times the Hourly Rate for
+Notice of Breakdown/Nonperformance
+every hour (or part of an
+hour) that the replacement
+is late.
+If DPW/DDOT determines
+that a truck or operator is
+unsafe or not in proper
+working condition, the
+Contractor has one hour to
+Failure to Replace Equipment/Operator LD = (Hourly Rate) x
+provide a replacement. If
+Deemed Unsafe or Unsatisfactory 2 x (Hours Late)
+not, DPW will charge two
+times the hourly rate for
+every hour (or part of an
+hour) beyond the one-hour
+replacement period.
+If a truck or operator
+arrives more than 20
+Late Arrival to Assigned Site (More LD = (Hourly Rate) x minutes late to the assigned
+than 20 Minutes Late) 1 location, DPW will deduct
+the equivalent of one full
+hour of pay for that unit.
+
+4. Sample Calculations
+Assume:
+• Hourly Rate = $200 (combined equipment + operator)
+LD
+Scenario Failure Type Formula Applied Calculation
+Amount
+200 (hourly rate) x 2
+Equipment breaks down; $200 x 2 x 4 =
+Failure to Replace (LD) x 4 (# of hours $1600
+replacement arrives 4 hours late $1600
+late)
+Equipment not in a satisfactory 200 (hourly rate) x 2
+Failure to Report $200 x 2 x 4 =
+mechanical or safe working (LD) x 4 (# of hours $1600
+(Unsafe) $1600
+condition late)
+No hourly rate paid
+Truck arrives 30 minutes late Late Arrival after late 20 minutes $200 $200
+for that hour
+5. Escalation Cap on Damages
+• The total liquidated damages assessed under this Appendix shall not exceed ten percent (10%) of the total contract value
+or twenty-five percent (25%) of the total invoice amount for the applicable snow event, whichever is less.
+6. Right to Obtain Substitute Services
+In addition to liquidated damages:
+1. Excess Costs – If the Contractor fails to perform, DPW may obtain substitute equipment and/or operators from alternate
+sources, and the Contractor shall be liable for any excess costs incurred above the contracted Hourly Rate.
+2. No Waiver – This right is in addition to, and not in lieu of, other contractual, legal, or equitable remedies available to the
+District.
+
+Snow Plowing, Hauling and Removal Services
+operating hourly rate will apply.
+CLIN Description Unit Estimated
+Amount
+Standby Rate for All Trucks and Equipment with 50% of the total
+0001-4001 Hour operating hourly rate
+Operator not-to-exceed (NTE) 1 hour.
+as outlined in
+CLINS 0002-0027,
+1002-1027, 2002-
+2027, 3002-3027,
+4002-4027
+B.4.2 BASE YEAR
+B.4.2.1 OPERATING RATES -SINGLE AXLE DUMP TRUCKS-
+AGGREGATE GROUP A
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum
+CLIN Quantity of Hour/per Estimated Price Quantity Total
+Equipment Equipment (AxB) = C (D) Estimated Price
+Per Event with Operator (Bx D) =(E)
+(A) (B)
+0002 Single Axle 1 $ 30 $
+Dump with
+Contractor
+supplied
+snowplow and
+salt spreader with
+o erator
+0003 Single Axle 0 $d $ 30 $
+Dump with
+Contractor
+supplied salt
+spreader with
+operator
+0004 Single Axle 0 $ $ 30 $
+Dump with
+Contractor
+supplied snow
+plow with
+operator
+0005 Single Axle 1 $ $ 30 $
+Dump for hauling
+salt, abrasives or
+snow with
+operator
+Grand Total A $ �I o<;:O
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.2 OPERATING RATES - TANDEM AXLE DUMP TRUCKS
+A,QQREQATE GROUf B
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (Ax B)=C (D) (BxD) = (E)
+Per Event Operator
+(A) (B)
+0006 Tandem Dump 1 $. $ 30 $
+with Contractor
+supplied snow
+plow and salt
+spreader with
+operator
+0007 Tandem Dump 0 $ $ 30 $
+with Contractor
+supplied snow
+plow with
+o erator
+0008 Tandem Dump 0 $ $ ti 30 $
+with Contractor
+supplied salt
+spreader with
+operator
+0009 Tandem Axle $ $ 30 $
+Dump for hauling
+salt, abrasives or
+snow with
+o erator
+Grand Total (A B 6r;r').;�
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.3 OPERATING RATES-TRI-AXLE DUMP TRUCKS-
+AGGREGATE GROUP C
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (AxB) = C (D) (Bx D) = (E)
+Per Event Operator
+(A) (B)
+1 '5
+0010 Tri-Axle Dump $ $ 30 $
+with Contractor
+supplied snow
+plow and salt
+spreader with
+operator
+0011 Tri-Axle Dump 0 $ $ 30 $
+with Contractor
+supplied snow
+plow with
+operator
+0012 Tri-Axle Dump 0 $ �� $ 30 <i,
+$
+with Contractor
+supplied salt
+spreader with
+operator
+0013 Tri-Axle Dump $ dL 30 $ > <tt)O
+for hauling salt,
+abrasives or snow
+with operator
+Grand Total (Aggregate Group C) $ SJ-/�. llP $
+J.2,/-f�
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.4 OPERATING RATES -OTHER VEHICLES AND EQUIPMENT
+AGGREGATEGROUPD
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (Ax B)=C (D) (Bx D) = (E)
+Per Event Operator
+(A) (B)
+0014 Grader Medium 0 $ $ 20 $
+with operator
+0015 Grader Large 0 $ ll $ 20 $ I
+with operator
+0016 Backhoe/ Rubber 0 $ $ 20 $ IQ 1 . ,UJ
+Tire Mechanical
+Loaders, Medium
+(2 cubic yards)
+with operator
+0017 Backhoe/ Rubber 0 $ $ 20 $
+Tire Mechanical
+Loaders, Large (3
+to 4 cubic yards)
+with o erator
+0018 Backhoe/ Rubber 0 $ 0 $ 20 $
+Tire Mechanical ')
+Loaders, Large ( 4
+to 7 cubic yards)
+with o erator
+0019 Backhoe/ Rubber 0 $ , ) S-10 $ 20 $
+Tire Mechanical
+Loaders Large
+(over 7 cubic
+yards)with
+o erator
+0020 Snow and Ice 0 $ $ 20
+Control
+Supervisor with
+Contractor-
+supplied 4-wheel
+drive vehicle with
+o erator
+0021 One ton truck 0 $ $ 20 $ <;;" I , Q
+with Contractor
+supplied self-
+angling plow and
+Spreader with
+operator
+Grand Total (Aggregate Group D) $ $ li& qoO
+1
+�
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.5 OPERATING RATES - OTHER VEHICLES AND EQUIPMENT
+AGGREGATE GROUPE
+Nos. Item Description Minimu Unit Price per Minimum Total Maximum Maximum Total
+CLIN m Hour/per Estimated Price (A Quantity (D) Estimated Price
+Quantit Equipment with xB)=C (Bx D) =(E)
+yof Operator
+Equipm (B)
+eat
+Per Event (A)
+0022 Four-Wheel 0 $ ,.;{JJ"::, $ �. 30 $ &j /S.U
+Drive Pickup
+truck with
+Contractor
+supplied plow
+with operator
+o:LI. s
+0023 Four-Wheel 1 $ o2-,IS $ 30 $ Ill, "/SU
+Drive Pickup
+truck with
+Contractor
+supplied plow
+and spreader
+with operator
+0024 Large Roadway 0 $ L"�_ {JlJ $ ill 30 $ "1' , O(IU
+Snow Blower
+1 O' or larger with
+operators
+0025 BOBCATS/Skid 0 $ /o,.,flJ) $ ?(} 30 $ I '-J lalJO
+Loaders
+w/Bucket or
+Plow with
+operator
+0026 Bobcat w/Snow 0 $ loll) $ JO 30 $ I 't , .:li!!O
+Blower with
+operator
+0 ·-1-, qnn
+0027 Roll Off Truck, 0 $ ,./L,,/-" $ � 30 $
+and 20-30-40
+yard dump box
+(*60,000 LB.
+Roll Off hoist,
+standard Heavy
+Duty, Must have
+dumping doors
+in rear and be
+capable of
+dumping out
+without dropping
+box.)
+$ $
+Grand Total (Aggregate Group E)
+of--1 s;- �It,�
+
+Snow Plowing, Hauling and Removal Services
+OPTION YEAR ONE
+B.4.2.6 OPERATING RATES - SINGLE AXLE DUMP TRUCKS-
+AGGREGATE GROUP A
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (Ax B) = C (D) (Bx D) = (E)
+Per Event Operator
+(A) (B)
+1002 Single Axle 1 $ $ 30 $
+Dump with
+Contractor
+supplied
+snowplow and
+salt spreader with
+operator
+1003 Single Axle 0 $ $ 30 $
+Dump with
+Contractor
+supplied salt
+spreader with
+o erator
+1004 Single Axle 0 $ $ 30 $
+Dump with
+Contractor
+supplied snow
+plow with
+o erator
+1005 Single Axle 1 $ dJ-,0. $ 30 $
+Dump for hauling
+salt, abrasives or
+snow with
+operator
+Grand Total (Aggregate Group A) $ 1-(q� dl) $ � ,) lf s;D
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.7 OPERATING RATES - TANDEM AXLE DUMP TRUCKS
+AGGRE�ATE GRQUP B
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (AxB)=C (D) (BX D)= (E)
+Per Event Operator
+(A) (B)
+1006 Tandem Dump 1 $ 30 $
+with Contractor
+supplied snow
+plow and salt
+spreader with
+o erator
+1007 Tandem Dump 0 $ $ 30 $
+with Contractor
+supplied snow
+plow with
+operator
+1008 Tandem Dump 0 $ $ 30 $
+with Contractor
+supplied salt
+spreader with
+o erator
+1009 Tandem Axle $ $ 30 $
+Dump for hauling
+salt, abrasives or
+snow with
+o erator
+Grand Total (Aggregate Group B) $ .£$5:"".(IO
+��,q<;V
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.8 OPERATING RATES -TRI-AXLE DUMP TRUCKS-
+AGGRE�ATE GRQ!IP C
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (AxB)=C (D) (BX D) = (E)
+Per Event Operator
+(A) (B)
+1010 Tri-Axle Dump 1 $ , $ 30 $
+with Contractor
+supplied snow
+plow and salt
+spreader with
+operator
+1011 Tri-Axle Dump 0 $ $ 30 $
+with Contractor
+supplied snow
+plow with
+o erator
+1012 Tri-Axle Dump 0 $d}.A $ 30 $
+with Contractor
+supplied salt
+spreader with
+operator
+1013 Tri-Axle Dump $ $ 30 $
+for hauling salt,
+abrasives or snow
+with o erator
+JJ/ os:o
+Grand Total (Aggregate Group C) $ �s-�(JlJ $
+J
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.9 OPERATING RATES -OTHER VEHICLES AND EQUIPMENT
+AGGREGATE GROUP D
+Nos. ItemD escription Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (AxB)= C (D) (B xD) = (E)
+Per Event (A) Operator
+(B)
+1014 Grader Medium 0 $ $ 20 $
+with operator
+1015 Grader Large 0 $ $ � 20 $
+with operator
+1016 Backhoe/ Rubber 0 $ C $ 20 $
+Tire Mechanical
+Loaders,
+Medium(2 cubic
+yards) with
+o erator
+1017 Backhoe/ Rubber 0 $ $ 20 $
+Tire Mechanical
+Loaders, Large (3
+to 4 cubic yards)
+with operator
+1018 Backhoe/ Rubber 0 $ 20 $
+Tire Mechanical
+Loaders, Large (4
+to 7 cubic yards)
+with operator
+1019 Backhoe/ Rubber 0 $ 1�$1 $ 20
+Tire Mechanical
+Loaders Large
+( over 7 cubic
+yards) with
+operator
+1020 Snow and Ice 0 $ I $ 20
+Control
+Supervisor with
+Contractor-
+supplied 4-wheel
+drive vehicle with
+o erator
+1021 One ton truck 0 $ dl:::S $ 20 $ �/0-0
+with Contractor
+supplied self-
+angling plow and
+Spreader with
+operator
+Grand Total (Aggregate Group D) $ � $ JJ'J)l&,ct)
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.10 OPERATING RATES -OTHER VEHICLES AND EQUIPMENT
+AGGREGATE GROUPE
+Nos. Item Description Minimum Unit Price per Minimum Maximum Maximum Total
+CLIN Quantity of Hour/per Total Quantity Estimated Price
+Equipment Equipment with Estimated (D) (BX D) = (E)
+Per Event Operator Price (A X B) =
+(B) C
+1022 Four-Wheel 0 $ dl.A. $ 30 $
+Drive Pickup
+truck with
+Contractor
+supplied plow
+with operator
+1023 Four-Wheel $ $ 30 $
+Drive Pickup
+truck with
+Contractor
+supplied plow
+and spreader
+with o erator
+5'0
+1024 Large 0 $ 30 $
+Roadway Snow
+Blower 1 O' or
+larger with
+o erators
+1025 Bobcats/ 0 $ l� $ 30 $
+Skid Loaders
+w/Bucket or
+Plow with
+o erator
+1026 Bobcat 0 $ $ 30 $
+w/Snow
+Blower with
+o erator
+1027 Roll Off 0 $ $ �' 30
+Truck, and 20-
+30-40 yard
+dump box
+(*60,000 LB.
+Roll Offhoist,
+standard
+Heavy Duty,
+Must have
+dumping
+doors in rear
+and be capable
+of dumping
+out without
+Grand Total (Aggregate Group E) $t#r �
+$� 1
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.11 OPTION YEAR TWO
+B.4.2.12 OPERATING RATES - SINGLE AXLE DUMP TRUCKS-
+AGGREGATE GROUP A
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (AxB)=C (D) (B xD) = (E)
+Per Event (A) Operator
+(B)
+2002 Single Axle 1 $ $ 30 $
+Dump with
+Contractor
+supplied
+snowplow and
+salt spreader with
+operator
+2003 Single Axle 0 $ $ 30 $
+Dump with
+Contractor
+supplied salt
+spreader with
+operator
+2004 Single Axle 0 $ $ 30 $
+Dump with
+Contractor
+supplied snow
+plow with
+operator
+1
+2005 Single Axle $ $ 30 $0
+Dump for hauling
+salt, abrasives or
+snow with
+operator
+SOC cl[)
+Grand Total A $ $ ..:!iol1J£0
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.13 OPERATING RATES - TANDEM AXLE DUMP TRUCKS
+AGQREQATE GROUP B
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with {Ax B) = C (D) (Bx D) = (E)
+Per Event (A) Operator
+(B)
+,
+2006 Tandem Dump $ $ 30 $
+with Contractor
+supplied snow
+plow and salt
+spreader with
+o erator
+, r
+2007 Tandem Dump 0 $ $ 30 $
+with Contractor
+supplied snow
+plow with
+o erator
+2008 Tandem Dump 0 $ $ 30 $
+with Contractor
+supplied salt
+spreader with
+o erator
+2009 Tandem Axle $ 30 $
+Dump for hauling
+salt, abrasives or
+snow with
+o erator
+Grand Total (Aggregate Group B) $ $/-{S-:vD $ J-.J,1�
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.14 OPERATING RATES -TRI-AXLE DUMP TRUCKS -
+AGGREGATE GROUP C
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (AxB)=C (D) (Bx D) = (E)
+Per Event (A) Operator
+.
+(B)
+1
+2010 Tri-Axle Dump $ $ 30 $
+with Contractor
+supplied snow
+plow and salt
+spreader with
+operator
+0
+2011 Tri-Axle Dump $ $ 30 $
+with Contractor
+supplied snow
+plow with
+operator
+0
+2012 Tri-Axle Dump $ $ 30 $
+with Contractor
+supplied salt
+spreader with
+operator
+2013 Tri-Axle Dump $ dl.ll 0 30 $
+for hauling salt,
+abrasives or snow
+with o erator
+cGu�OD
+Grand Total (Aggregate Group C) $ $�1)1.tro
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.15 OPERATING RATES - OTHER VEHICLES AND EQUIPMENT
+AGGREGATE GROUP D
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (Ax B) = C (D) (Bx D) = (E)
+Per Event Operator
+(A) (B)
+2014 Grader Medium 0 $ $ 20 $
+with operator
+2015 Grader Large 0 $ $ 20 $
+with operator �
+2016 Backhoe/ Rubber 0 $ $ 20 $
+Tire Mechanical
+Loaders, Medium
+(2 cubic yards)
+with operator
+2017 Backhoe/ Rubber 0 $ $ 20 $
+Tire Mechanical
+Loaders, Large (3
+to 4 cubic yards)
+with o erator
+2018 Backhoe/ Rubber 0 $ 20 $
+Tire Mechanical
+Loaders, Large ( 4
+to 7 cubic yards)
+with o erator
+2019 Backhoe/ Rubber 0 $ I $ 20
+Tire Mechanical
+Loaders Large
+( over 7 cubic
+yards)with
+o erator
+2020 Snow and Ice 0 $ $ 20 $
+Control
+Supervisor with
+Contractor-
+supplied 4-wheel
+drive vehicle with
+o erator
+2021 One ton truck 0 $ $ 20 $
+with Contractor
+supplied self-
+angling plow and
+Spreader with
+operator
+Grand Total (Aggregate Group D) $ $//�100
+�
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.16 OPERATING RATES -OTHER VEHICLES AND EQUIPMENT
+AGGREGATE GROUPE
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Hour/per Estimated Price (A Quantity (D) Estimated Price
+Quantity
+Equipment with xB)=C (Bx D) = (E)
+Equipment
+Operator
+PerEvent A (B)
+2022 Four-Wheel 0 $ $ 30 $
+Drive Pickup
+truck with
+Contractor
+supplied plow
+with o erator
+2023 Four-Wheel $ $ 30 $
+Drive Pickup
+truck with
+Contractor
+supplied plow
+and spreader
+with o erator
+2024 Large Roadway 0 $ $ 30 $
+Snow Blower
+1 O' or larger with
+o erators
+2025 BOBCATS/Skid 0 $ l� $ 30 $ I
+Loaders
+w/Bucket or
+Plow with
+o erator
+2026 Bobcat w/Snow 0 $ $ � 30 $
+Blower with
+o erator
+2027 Roll Off Truck, 0 $ $ 30 $
+and 20-30-40
+yard dump box
+(*60,000 LB.
+Roll Off hoist,
+standard Heavy
+Duty, Must have
+dumping doors
+in rear and be
+capable of
+dumping out
+without dropping
+box.)
+Grand Total (Aggregate Group E)
+$�01) $/.f</1�
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.17 OPTION YEAR THREE
+B.4.2.18 OPERATING RATES - SINGLE AXLE DUMP TRUCKS-
+AGGREGATE GROUP A
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum
+CUN Quantity of Hour/per Estimated Price Quantity Total
+Equipment Equipment (AxB)= C (D) Estimated Price
+PerE vent with Operator (Bx D) =(E)
+A( (B)
+3002 Single Axle 1 $ 30 $ 00
+Dump with
+Contractor
+supplied
+snowplow and
+salt spreader with
+o erator
+3003 Single Axle 0 $ $ 30 $
+Dump with
+Contractor
+supplied salt
+spreader with
+operator
+3004 Single Axle 0 $ $ 30 $
+Dump with
+Contractor
+supplied snow
+plow with
+operator
+3005 Single Axle 1 $ $ 30 $
+Dump for hauling
+salt, abrasives or
+snow with
+operator
+Grand Total (Aggregate Group A) $ 6/b.OO
+$�!?5;0
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.19 OPERATING RATES - TANDEM AXLE DUMP TRUCKS
+AGGRE�AIE GROUf B
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (AxB)=C (D) (BX D) = (E)
+Per Event Operator
+(A) (B)
+3006 Tandem Dump 1 $ $ 30 $
+with Contractor
+supplied snow
+plow and salt
+spreader with
+operator
+3007 Tandem Dump 0 $ 0 $ 30 $
+with Contractor
+supplied snow
+plow with
+o erator
+3008 Tandem Dump 0 $ $ 30 $
+with Contractor
+supplied salt
+spreader with
+operator
+3009 Tandem Axle $ $ 30 $
+Dump for hauling
+salt, abrasives or
+snow with
+o erator
+o<;;V
+Grand Total (Aggregate Group B) $ �SS- s �J.J,
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.20 OPERATING RATES -TRI-AXLE DUMP TRUCKS-
+AGGREGATE GROUP C
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (Ax B) = C (D) (Bx D) = (E)
+Per Event Operator
+(A) (B)
+3010 Tri-Axle Dump 1 $ $ 0 30 $
+with Contractor
+supplied snow
+plow and salt
+spreader with
+operator
+3011 Tri-Axle Dump 0 $ $ 30 $
+with Contractor
+supplied snow
+plow with
+operator
+3012 Tri-Axle Dump 0 $ 0 $ 30 $
+with Contractor
+supplied salt
+spreader with
+operator
+3013 Tri-Axle Dump $ $ d).-(1!_ 30
+for hauling salt,
+abrasives or snow
+with operator
+Grand Total (Aggregate Group C) G�tJf>
+$ $
+J��
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.21 OPERATING RATES -OTHER VEHICLES AND EQUIPMENT
+AGGREGATE GROUP D
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (AxB)=C (D) (Bx D) =(E)
+Per Event Operator
+(A) (B)
+3014 Grader Medium 0 $ $ 20 $
+with operator
+3015 Grader Large 0 $ $ 20 $ I
+with operator
+3016 Backhoe/ Rubber 0 $ $ 20 $
+Tire Mechanical
+Loaders, Medium
+(2 cubic yards)
+with operator
+3017 Backhoe/ Rubber 0 $ $ 20 $
+Tire Mechanical
+Loaders, Large (3
+to 4 cubic yards)
+with o erator
+3018 Backhoe/ Rubber 0 $ 20 $
+i;)
+Tire Mechanical
+Loaders, Large (4
+to 7 cubic yards)
+with o erator
+3019 Backhoe/ Rubber 0 $ $ 20
+Tire Mechanical
+Loaders Large
+(over 7 cubic
+yards)with
+o erator
+3020 Snow and Ice 0 $ • (p $ 20 0
+Control
+Supervisor with
+Contractor-
+supplied 4-wheel
+drive vehicle with
+o erator
+3021 One ton truck 0 $ $ 20 $
+with Contractor
+supplied self-
+angling plow and
+Spreader with
+operator
+Grand Total (Aggregate Group D)
+$ $ //1 ,2.(JO
+� 1
+
+Snow Plowing, Hauling and Removal Services
+OPERATING RATES - OTHER VEHICLES AND EQUIPMENT
+B.4.2.22
+AGGREGATE GROUPE
+Nos. Item Description Minimu Unit Price per Minimum Total Maximum Maximum Total
+CLIN m Hour/per Estimated Price (A Quantity (D) Estimated Price
+Quantit Equipment with xB)=C (B xD) = (E)
+yof Operator
+Equipm (B)
+ent
+PerEvent A
+3022 I
+Four-Wheel 0 $ 30 $
+Drive Pickup
+truck with
+Contractor
+supplied plow
+with o erator
+3023 Four-Wheel $ $ 30
+Drive Pickup
+truck with
+Contractor
+supplied plow
+and spreader
+with o erator
+3024 Large Roadway 0 $ $ 30 $
+Snow Blower
+1 O' or larger with
+o erators
+3025 BOBCATS/Skid 0 $ $ 30 $
+Loaders
+w/Bucket or
+Plow with
+o erator
+3026 Bobcat w/Snow 0 $ $ 30 $
+Blower with
+o erator
+3027 Roll Off Truck, 0 $ $ 30 $
+and 20-30-40
+yard dump box
+(*60,000 LB.
+Roll Off hoist,
+standard Heavy
+Duty, Must have
+dumping doors
+in rear and be
+capable of
+dumping out
+without dropping
+box.)
+Grand Total (Aggregate Group E) $c,V{� dl) ${/f) 1 (J1)
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.23 OPTION YEAR FOUR
+B.4.2.24 OPERATING RATES -SINGLE AXLE DUMP TRUCKS-
+AGGREGATE GROUP A
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum
+CLIN Quantity of Hour/per Estimated Price Quantity Total
+Equipment Equipment (AxB)=C (D) Estimated Price
+Per Event with Operator (Bx D)= (E)
+A (B)
+4002 Single Axle 1 $ , () $ 30 $
+Dump with
+Contractor
+supplied
+snowplow and
+salt spreader with
+o erator
+4003 Single Axle 0 $ $ 30 $
+Dump with
+Contractor
+supplied salt
+spreader with
+operator
+4004 Single Axle 0 $ $ 30 $
+Dump with
+Contractor
+supplied snow
+plow with
+operator
+4005 Single Axle 1 $ 30 $ {e_,l. D
+Dump for hauling
+salt, abrasives or
+snow with
+o erator
+Grand Total (Aggregate Group A) $ GJ-C. tJtJ $�.!.>,.I/CO
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.25 OPERATING RATES - TANDEM AXLE DUMP TRUCKS
+AGGREGATE GROUP B
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (Ax B) = C (D) (Bx D) = (E)
+Per Event Operator
+.
+(A) (B)
+1
+4006 Tandem Dump $ $ 30 $
+with Contractor
+supplied snow
+plow and salt
+spreader with
+operator
+4007 Tandem Dump 0 $ $ cSZ 30 $
+with Contractor
+supplied snow
+plow with
+o erator
+4008 Tandem Dump 0 $ c$2J $ 30 $
+with Contractor
+supplied salt
+spreader with
+operator
+4009 Tandem Axle $ 30 $
+Dump for hauling
+salt, abrasives or
+snow with
+o erator
+Grand Total (Aggregate Group B) $ 6/p� 00 $r_JJ./ tpW
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.26 OPERATING RATES -TRI-AXLE DUMP TRUCKS-
+AGGREGATE GROUP C
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (Ax B)=C (D) (BX D) =(E)
+Per Event Operator
+(A) (B)
+4010 Tri-Axle Dump 1 $ ,3/<.; 30 $
+with Contractor
+supplied snow
+plow and salt
+spreader with
+operator
+4011 Tri-Axle Dump 0 $ 30 $
+with Contractor
+supplied snow
+plow with
+operator
+4012 Tri-Axle Dump 0 $ 30 $
+with Contractor
+supplied salt
+spreader with
+operator
+4013 Tri-Axle Dump $ 30 $
+for hauling salt,
+abrasives or snow
+with operator
+Grand Total (Aggregate Group C) G�(f{) .j Sj gs;D
+$ $
+
+Snow Plowing, Hauling and Removal Services
+B.4.2.27 OPERATING RATES -OTHER VEHICLES AND EQUIPMENT
+AGGREGATE GROUP D
+Nos. Item Description Minimum Unit Price per Minimum Total Maximum Maximum Total
+CLIN Quantity of Hour/per Estimated Price Quantity Estimated Price
+Equipment Equipment with (AxB) =C (D) (B xD) =(E)
+Per Event Operator
+(A) (B)
+4014 Grader Medium 0 $ $ 20 $
+with operator
+4015 Grader Large 0 $ (j; $ 20 $
+with operator
+4016 Backhoe/ Rubber 0 $ $ 'Q. 20 $ l
+Tire Mechanical
+Loaders, Medium
+(2 cubic yards)
+with o erator
+4017 Backhoe/ Rubber 0 $ $ 20 $
+Tire Mechanical
+Loaders, Large (3
+to 4 cubic yards)
+with o erator
+4018 Backhoe/ Rubber 0 $ ) 20 $
+Tire Mechanical
+Loaders, Large (4
+to 7 cubic yards)
+with o erator
+4019 Backhoe/ Rubber 0 $ 0 $ 20 $ '< lrl.00
+Tire Mechanical
+Loaders Large
+( over 7 cubic
+yards)with
+o erator
+4020 Snow and Ice 0 $ $ 20 $ G110
+Control
+Supervisor with
+Contractor-
+supplied 4-wheel
+drive vehicle with
+o erator
+4021 One ton truck 0 $ $ 20 $
+with Contractor
+supplied self-
+angling plow and
+Spreader with
+operator
+Grand Total (Aggregate Group D) $ $ /�I, 'f-00
+�
+
+Snow Plowing, Hauling and Removal Services
+OPERATING RATES -OTHER VEHICLES AND EQUIPMENT
+B.4.2.28
+AGGREGATE GROUPE
+Nos. ItemD escription Minimu Unit Price per Minimum Total Maximum Maximum Total
+CLIN m Hour/per Estimated Price (A Quantity (D) Estimated Price
+Quantit Equipment with xB)=C (B xD) = (E)
+yof Operator
+Equipm (B)
+ent
+PerEvent A
+0
+4022 Four-Wheel $ $ 30 $
+Drive Pickup
+truck with
+Contractor
+supplied plow
+with o erator .
+4023 Four-Wheel $ $ cJ2__ 30 $
+Drive Pickup
+truck with
+Contractor
+supplied plow
+and spreader
+with o erator
+0
+4024 Large Roadway $ $ 30 $
+Snow Blower
+1 O' or larger with
+o erators
+0
+4025 BOBCATS/Skid $ (.p $ 30
+Loaders
+w/Bucket or
+Plow with
+o erator
+0
+4026 Bobcat w/Snow $ $ 30 $
+Blower with
+o erator
+0
+4027 Roll Off Truck, $ $ 30 $
+and 20-30-40
+yard dump box
+(*60,000 LB.
+Roll Off hoist,
+standard Heavy
+Duty, Must have
+dumping doors
+in rear and be
+capable of
+dumping out
+without dropping
+box.)
+Grand Total (Aggregate Group E) $dL� $ !fl JOO
+)
+
+Snow Plowing, Hauling and Removal Services
+Summary of Grand Totals
+Base Year Option Year I Option Year2 Option Year 3 Option Year 4
+Aggregate MIN MAX Aggregate MIN MAX Aggregate MIN MAX Aggregate MIN MAX Aggregate MIN MAX
+Group A Group A Group A Group A Group A
+$ 485.00 $ 31,050 $ 495.00 $ 31,650 $ 505.00 $ 32,250 $ 515.00 $ 32,850 $ 525.00 $ 33,450
+GroupB GroupB GroupB GroupB Group B
+$ 525.00 $ 32,250 $ 535.00 $ 32,850 $ 545.00 $ 33,450 $ 555.00 $ 34,050 $ 565.00 $ 34,650
+GroupC Group C Groupe Group C Group C
+$ 545.00 $ 33,450 $ 555.00 $ 34,050 $ 565.00 $ 34,650 $ 575.00 $ 35,250 $ 585.00 $ 35,850
+GroupD GroupD GroupD GroupD GroupD
+$ 0 $ 116,800 $ 0 $ 117,600 $ 0 $ 118,400 $ 0 $ 119,200 $ 0 $ 121,700
+GroupE GroupE GroupE GroupE GroupE
+$ 215.00 $ 66,300 $ 225.00 $ 67,500 $ 235.00 $ 68,700 $ 245,00 $ 69,900 $ 255.00 $ 71,000

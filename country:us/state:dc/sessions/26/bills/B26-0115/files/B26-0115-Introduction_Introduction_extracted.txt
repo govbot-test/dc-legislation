@@ -1,0 +1,300 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+OFFICE OF COUNCILMEMBER BROOKE PINTO
+THE JOHN A. WILSON BUILDING
+1350 PENNSLYVANIA AVENUE, N.W., SUITE 106
+WASHINGTON, D.C. 20004
+February 4, 2025
+Nyasha Smith, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue N.W.
+Washington, DC 20004
+Dear Secretary Smith,
+Today, I, along with Councilmember Brianne K. Nadeau, am introducing the Vehicular Noise
+Reduction Act of 2025. Please find enclosed a signed copy of the legislation.
+The purpose of the Vehicular Noise Reduction Act is to reduce vehicular noise in the District by
+(1) implementing a noise camera pilot program; (2) creating a vehicle repair subsidy program to
+offset costs of vehicle repairs; and (3) commissioning a DDOT and DOEE study on strategies to
+reduce vehicular and transit noise in the District.
+Excessive vehicle noise, including noise caused by defective or altered muffler and exhaust
+systems and roadway noise from tires on pavement, is disruptive in myriad ways to District
+residents’ lives, including interrupting sleep; creating noise barriers to communication in business,
+educational, and social settings; and creating continuous, high levels of noise, commonly referred
+to as “noise pollution,” that can lead to various health and developmental issues.
+Noise pollution, both during the day and at night, has serious effects on District residents’ physical
+and mental health. Noise pollution is correlated to increased anxiety, depression, heart disease,
+cognitive impairments, and strokes. Continuous exposure to high noise levels can also bring about
+the “flight or fight” response within the body, triggering stress hormones that contribute to elevated
+blood pressure, accelerated heart rates, and disrupted digestive systems. Sleep interruption from
+loud and continuous noises can inhibit child development, learning, mood regulation, and optimal
+healing from injuries, even when a person is never actually awoken by the noise.
+Noise pollution from vehicles is also an equity issue in our city, as communities of color,
+immigrants, and people with low incomes are more likely to live near roadways with elevated and
+constant vehicular noise and are thus at greater risk of experiencing these negative health impacts.
+This legislation, through its three-pronged approach, will aid in reducing vehicle noise in the
+District and provide an opportunity to understand further noise-reduction options that may be
+available to lower vehicular noise and improve equity, quality of life, and health for District
+residents, workers, and visitors.
+
+I previously introduced an identical version of this legislation in Council Period 25, B25-0040.
+Should you have any questions about this legislation, please contact my Legislative Director, Linn
+Groft, at lgroft@dccouncil.gov.
+Thank you,
+Brooke Pinto
+Ward 2 Councilmember
+
+1
+2
+3 ________________________ ________________________
+4 Councilmember Brianne Nadeau Councilmember Brooke Pinto
+5
+6
+7
+8
+9
+10
+11 A BILL
+12 __________
+13
+14
+15 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+16 _________________
+17
+18
+19 To establish a noise camera demonstration project using acoustic imaging technology to identify
+20 violators of District motor vehicle noise law, to require reporting on the demonstration
+21 project to the Council, to set certain calibration requirements for a photo noise violation
+22 monitoring device, to require operator training for a photo noise violation monitoring
+23 device, to prescribe the parameters for the use of a photo noise violation monitoring
+24 device image, to state the evidentiary value of a photo noise violation monitoring device
+25 image, to conduct a study of vehicular and traffic noise-reducing strategies, and to
+26 establish a subsidy program for car repairs related to noise violations.
+27
+28 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+29 act may be cited as the “Vehicular Noise Reduction Act of 2025”.
+30 Sec. 2. Definitions.
+31 For the purposes of this act, the term:
+32 (1) “Decibel reader” means a measuring instrument used to assess noise or sound levels
+33 by measuring sound pressure expressed in decibel (dB) units.
+34 (2) “Motor vehicle noise limits” means the noise limits prescribed pursuant to 20 DCMR
+35 § 2811.
+36 (3) “Operator of a photo noise violation monitoring device” means a natural or legal
+37 person authorized to set up, test, or operate the noise violation monitoring device described
+
+38 herein.
+39 (4) “Photo noise violation monitoring device” means one or more mobile or fixed vehicle
+40 sensors installed to work in conjunction with one or more noise measuring apparatuses such as a
+41 decibel reader which automatically produces two or more photographs, two or more
+42 microphotographs, a videotape, or other recorded images of each motor vehicle at the time it is
+43 used or operated in violation of the motor vehicle noise limits pursuant to 20 DCMR § 2811.
+44 Sec. 3. Photo noise violation monitoring device program established.
+45 The District Department of Transportation (“DDOT”), in consultation with the
+46 Department of Energy and Environment (“DOEE”), shall establish a two-year demonstration
+47 program of photo noise violation monitoring devices using acoustic imaging technology to
+48 identify violators of District motor vehicle noise law pursuant to 20 DCMR § 2811.
+49 Sec. 4. Violations authorization and fines.
+50 (a) The Mayor is authorized to use a photo noise violation monitoring device to detect
+51 noise violations. Proof of a violation may be evidenced by information obtained through the use
+52 of a photo noise violation monitoring device.
+53 (b) The Mayor shall impose a fine for a violation detected by a photo noise violation
+54 monitoring device.
+55 Sec. 5. Demonstration program implementation.
+56 As part of the implementation of the demonstration program, DDOT shall:
+57 (a) Conduct an acoustical engineering study to determine appropriate noise detection
+58 equipment and placement location options;
+59 (b) Consult with ward Councilmembers to determine best noise camera placement
+60 locations within their ward;
+2
+
+61 (c) Test photo noise violation monitoring devices to determine the most appropriate
+62 device for use in the District;
+63 (d) Provide a report to the Council describing how the placement of each noise detection
+64 device was determined;
+65 (e) Install signs giving notice to approaching motor vehicle operators where a photo
+66 noise violation monitoring device is in use;
+67 (f) Install at least 2 photo noise violation monitoring locations in each of the 8 District
+68 Wards; and
+69 (g) Collect appropriate data on the effectiveness of the photo noise violation monitoring
+70 devices.
+71 Sec. 6. Demonstration program reporting.
+72 One year after the effective date of this act and 60 days after the conclusion of the
+73 demonstration project, DDOT shall submit a report on the results of the demonstration program
+74 to the Council. The report shall include:
+75 (a) The locations where and dates when photo noise violation monitoring devices were
+76 used;
+77 (b) The total number of violations recorded by photo noise violation monitoring devices
+78 on a daily, weekly and monthly basis;
+79 (c) The total number of notices of violation issued for violations recorded by the installed
+80 devices;
+81 (d) The number of fines and total amount of fines paid after the first notice of violation
+82 issued for violations recorded by the devices;
+83 (e) The number of violations adjudicated and the results of such adjudications including
+3
+
+84 breakdowns of dispositions made for violations recorded by the devices;
+85 (f) The total amount of revenue realized by the District in connection with the program;
+86 (g) A cost-benefit analysis of the different types of technology tested pursuant to this act;
+87 (h) The expenses incurred by the District in connection with the demonstration program;
+88 and
+89 (i) A description of the quality of the adjudication process and its results.
+90 Sec. 7. Calibration requirements for photo noise violation monitoring devices.
+91 (a) No photo noise violation monitoring device shall be used unless it has undergone a
+92 calibration check performed pursuant to this section.
+93 (1) Each photo noise violation monitoring device shall undergo:
+94 (A) An annual calibration check performed by an independent calibration
+95 laboratory which shall issue a signed certificate of calibration; and
+96 (B) A successfully passed self-test of its functions on the day it is used to
+97 record a noise violation;
+98 (2) The department shall keep each annual certificate of calibration on file until
+99 the final resolution of all cases involving a notice of violation issued during the year which were
+100 based on photographs, microphotographs, videotape, or other recorded images produced by the
+101 photo noise violation monitoring device.
+102 (3) It shall be a defense to any prosecution for a violation of motor vehicle noise
+103 limits pursuant to this section that a photo noise violation monitoring device was malfunctioning
+104 at the time of the alleged violation.
+105 Sec. 8. Operator training for photo noise violation monitoring devices.
+106 (a) Operators of a photo noise violation monitoring device shall have completed training
+4
+
+107 in the procedures for setting up, testing, and operating the device.
+108 (b) Each operator shall maintain a daily camera log report for each device that states:
+109 (1) The date and time when, and the location where, the device was set up that
+110 day; and
+111 (2) That the operator successfully performed, and the device passed, the self-tests
+112 of the device before producing a recorded image that day.
+113 (c) The District shall retain each daily camera log report until the later of the date on
+114 which the photo noise violation monitoring device to which it applies has been permanently
+115 removed from use or the final resolution of all cases involving notices of violation issued based
+116 on photographs, microphotographs, video, or other recorded images produced by the device.
+117 Sec. 9. Use of a photo noise violation monitoring device image.
+118 (a) The demonstration program shall utilize necessary technologies to ensure to the
+119 extent practicable, that photographs, microphotographs, videotape, or other recorded images
+120 produced by a photo noise violation monitoring device shall not include images that identify the
+121 driver, the passengers, or the contents of the motor vehicle.
+122 (b) Notwithstanding subsection (a) of this section, no notice of violation issued pursuant
+123 to this section shall be dismissed solely because a photograph, microphotograph, videotape, or
+124 other recorded image allows for the identification of the driver, the passengers, or the contents of
+125 motor vehicles where the department shows that it made reasonable efforts to comply with the
+126 provisions of this paragraph in case.
+127 (c) Any photograph, microphotograph, videotape or other recorded image from a photo
+128 noise violation monitoring device shall be for the exclusive use of the District for the purpose of
+129 the adjudication of liability of the motor vehicle owner receiving a notice of violation, and shall
+5
+
+130 be destroyed by the department upon the final resolution of the notice of violation to which the
+131 photograph, microphotograph, videotape or other recorded image relates, or one year following
+132 the date of issuance of the notice of violation, whichever is later.
+133 (d) Notwithstanding the provisions of any other law, rule, or regulation to the contrary, a
+134 photograph, microphotograph, videotape, or other recorded image from a photo noise violation
+135 monitoring device shall not be available to the public, nor subject to civil or criminal process or
+136 discovery, nor used by any court or administrative or adjudicatory body in any action or
+137 proceeding therein except that which is necessary for the adjudication of a notice of violation,
+138 and no public entity or employee, officer or agent thereof shall disclose the information, except
+139 that a photograph, microphotograph, videotape, or other recorded image from a device:
+140 (1) Shall be available for inspection and copying and use by the motor vehicle
+141 owner and operator for so long as the photographs, microphotographs, videotape, or other
+142 recorded images are required to be maintained or are maintained by the public entity, employee,
+143 officer, or agent;
+144 (2) Shall be furnished for use in a criminal action or proceeding when described
+145 in a search warrant issued by a court authorized to issue a search warrant or a federal court
+146 authorized to issue a search warrant under federal law, where the search warrant states that there
+147 is reasonable cause to believe information constitutes evidence of, or tends to demonstrate that, a
+148 misdemeanor or felony offense was committed in this state or another state, or that a particular
+149 person participated in the commission of a misdemeanor or felony offense in this state or another
+150 state, provided, that if the offense was against the laws of another state, the court shall only issue
+151 a warrant if the conduct comprising the offense would, if occurring in this state, constitute a
+152 misdemeanor or felony against the laws of this state; and
+6
+
+153 (3) Shall be furnished for use in a criminal action or proceeding in response to a
+154 subpoena duces tecum signed by a judge of competent jurisdiction and issued pursuant the
+155 criminal procedure law or a judge or magistrate of a federal court authorized to issue a subpoena
+156 duces tecum under federal law, where the judge finds and the subpoena states that there is
+157 reasonable cause to believe the information is relevant and material to the prosecution, or the
+158 defense, or the investigation by an authorized law enforcement official, of the alleged
+159 commission of a misdemeanor or felony in the District or another state, provided, that if the
+160 offense was against the laws of another state, the judge or magistrate shall only issue a subpoena
+161 if the conduct comprising the offense would, if occurring in the District, constitute a
+162 misdemeanor or felony in the District; and
+163 (4) May be used in a criminal action or proceeding if lawfully obtained pursuant
+164 to this section and otherwise admissible.
+165 Sec. 10. Photo noise violation monitoring device image as evidence.
+166 (a) A certificate, sworn to or affirmed by a technician employed by the city, or a
+167 facsimile thereof, based upon inspection of photographs, microphotographs, videotapes, or other
+168 recorded images produced by a photo noise violation monitoring device, shall be prima facie
+169 evidence of the facts contained therein.
+170 (b) Any photographs, microphotographs, videotapes, or other recorded images
+171 evidencing a violation shall include at least two date and time stamped images of the rear of the
+172 motor vehicle that include the same stationary object near the motor vehicle and shall be
+173 available for inspection reasonably in advance of and at any proceeding to adjudicate the liability
+174 for the violation.
+175 Sec. 11. Vehicle and transportation noise-reducing strategies study and report.
+7
+
+176 In Fiscal Year 2026, DDOT, in consultation with DOEE, shall conduct a study on vehicle
+177 and other transportation-related noise and identify and evaluate short-term and long-term
+178 strategies for reducing vehicle and other transportation-related noise, including noise-reducing
+179 roadway material. DDOT shall provide a report to the Council within one year of enactment of
+180 this Act to include recommendations on the feasibility, efficacy, and environmental impact of the
+181 identified noise-reducing strategies as well as a cost-benefit analysis of identified strategies.
+182 Sec. 12. Vehicle repair subsidy program established.
+183 The Department of Motor Vehicles (“DMV”) shall create a non-means tested program to
+184 subsidize, in full or in part, the cost of repairing a vehicle to bring it within the motor vehicle
+185 noise limits pursuant to 20 DCMR § 2811. This program shall apply to:
+186 (a) Vehicles that are:
+187 (1) Registered in the District;
+188 (2) Registered in another jurisdiction to a person employed in the District; or
+189 (3) Registered in another jurisdiction but operated in the District for commercial
+190 or business purposes.
+191 (b) Vehicles that are in violation of the motor vehicle noise limits pursuant to 20 DCMR
+192 § 2811, regardless of whether that vehicle has been assessed a fine pursuant to
+193 Section 4 of this Act.
+194 (c) Only the repairs necessary to reduce noise and bring the vehicle into compliance with
+195 the motor vehicle noise limits pursuant to 20 DCMR § 2811, including necessary
+196 repairs caused by:
+197 (1) Normal wear and tear;
+198 (2) Purposeful alteration,
+8
+
+199 (3) Outdated machinery or mechanics; or
+200 (4) Accidental damage.
+201 (d) Each eligible vehicle no more than once.
+202 Sec. 13. Waiver of fine.
+203 A photo noise violation fine shall be waived if the vehicle is brought into compliance
+204 with District motor vehicle noise law pursuant to 20 DCMR § 2811.
+205 Sec. 14. Rulemaking.
+206 Within 180 days of the effective date of this act, the Mayor shall promulgate rules to
+207 implement this act. The proposed rules shall be submitted to the Council for a 45-day period of
+208 review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council
+209 does not approve or disapprove the proposed rules, in whole or in part, by resolution within this
+210 45-day review period, the proposed rules shall be deemed disapproved.
+211 Sec. 15. Applicability.
+212 (a) This act shall take effect subject to the inclusion of its fiscal effect in an approved
+213 budget and financial plan.
+214 (b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect
+215 in an approved budget and financial plan, and provide notice to the Budget Director of the
+216 Council of the certification.
+217 (c) (1) The Budget Director shall cause the notice of the certification to be published in
+218 the District of Columbia Register.
+219 (2) The date of publication of the notice of the certification shall not affect the
+220 applicability of this act.
+221 Sec. 16. Fiscal impact statement.
+9
+
+222 The Council adopts the fiscal impact statement in the committee report as the fiscal
+223 impact statement required by section 602(c)(3) of the District of Columbia Home Rule Act,
+224 approved December 24, 1973 (87 Stat. 813; D.C. Official Code §l-206.02(c)(3)).
+225 Sec. 17. Effective date.
+226 This act shall take effect following approval by the Mayor (or in the event of veto by the
+227 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+228 provided in section 602(c)(l) of the District of Columbia Home Rule Act, approved December
+229 24, 1973 (87 Stat. 813; D.C. Official Code§ l-206.02(c)(l)), and publication in the District of
+230 Columbia Register.
+10

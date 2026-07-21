@@ -1,0 +1,2688 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+January 21, 2025
+The Honorable Phil Mendelson
+Chairman, Council of the District of Columbia
+1350 Pennsylvania Avenue NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Contract No. CW117574 with Compost Crew Inc. A Benefit Corporation
+Approval and Payment Authorization Emergency Act of 2024,” and the accompanying
+emergency declaration resolution for Mods 01 through 05. The contract is in the estimated
+amount of $4,524,736 for the period of July 19, 2024, through July 18, 2025.
+The legislation will approve Contract No. CW117574 with Compost Crew Inc. A Benefit
+Corporation to support organic waste collection from residential households in the District. In
+addition, the legislation will approve payment for the goods and services received and to be
+received under the contract.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modification. In order to facilitate a response to any questions you may have, please have
+your staff contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at
+(202)724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Muriel Bowser
+
+1
+2 delson
+3 at the request of the Mayor
+4
+5 A BILL
+6
+7
+8
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12
+13
+14
+15 To approve, on an emergency basis, Contract No. CWl 17574 with Compost Crew, Inc. A
+16 Benefit Corporation, and Modification Nos. 1, 2, 3, 4 and 5 thereto, and to authorize
+17 payment for the goods and services received and to be received under the contract and
+18 modifications.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the "Contract No. CWl 17574 with Compost Crew, Inc. A Benefit
+22 Corporation Approval and Payment Authorization Emergency Act of 2025".
+23 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+24 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+25 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+26 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), or any other law or order, the Council
+27 approves Contract No. CWl 17574 ("Contract") with Compost Crew, Inc. A Benefit Corporation,
+28 and Modification Nos. 1, 2, 3, 4 and 5 to the Contract, and authorizes payment in the not-to-
+29 exceed amount of $4,122,574 for the goods and services received and to be received under the
+30 contract and modifications.
+31 Sec. 3. Fiscal impact statement.
+
+32 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+33 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+34 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+35 Sec. 4. Effective date.
+36 This act shall take effect following approval by the Mayor (or in the event of veto by the
+37 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+38 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+39 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+40 D.C. Official Code § 1-204.12(a)).
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive without changes)
+(A) Contract Number: CW117574
+Proposed Contractor: Compost Crew Inc. A Benefit Corporation
+Proposed Contractor’s Principals: Michael Benjamin Parry, CEO
+Neil Parikh, Board Member
+Kristie Blumer, Board Member
+Contract Amount (Base Period): Minimum $18,547.80 - Maximum $4,122,574.00
+Unit and Method of Compensation: Fixed Price
+Term of Contract: July 19, 2024, through July 18, 2025
+Type of Contract: Indefinite Delivery Indefinite Quantity (IDIQ)
+Source Selection Method: Sole Source
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: Minimum $18,547.80 - Maximum $4,122,574.00
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The contractor shall support organic waste (food waste) collection from single-family (residential)
+households in the District. The contract shall assemble, bundle, and distribute sets of curbside
+compost “starter kits”, and collect and haul curbside organics to a fully permitted, licensed, and
+compliant processing facility five days a week for a total of 52 weeks.
+1
+
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+Sole Source
+I certify that the notice of intent to award a sole source was published in accordance with the 27
+DCMR 1304.1 with no responses; therefore, it was recommended that the Chief Procurement
+Officer approve the use of the sole source procurement method. In July 2023, DPW launched a
+year-long Curbside Composting pilot Program with Compost Crew as the contractor and with a
+subcontractor. DPW needed services without disruption for the existing program while the District
+recompeted the requirement.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+There have been no protests of this award.
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+The contractor does not hold or seeking any other contracts with the District.
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Compost Crew Inc. has been managing and maintaining curbside compost program while following
+local rules and regulations related to managing and handling food waste. Over the past year,
+Compost Crew Inc. has partnered with the District, providing curbside compost program to support
+the Department of Public Works’ (DPW) Office of Waste Diversion (OWD).
+(H) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+The contractor has certified that they will subcontract 35% in the amount of $1,442,901.08 to
+Agricity, LLC, 1661 Harvard Street NW, Washington, DC 20009; LSZR61937012026. The
+subcontractor will assist with the assembly and delivery of “starter kits, collect food waste from
+participating households in three wards and assist with hauling and disposal of food waste.
+(I) Performance standards and the expected outcome of the proposed contract:
+2
+
+The contractor is expected to perform services in accordance with the requirements of the contract.
+(J) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+Monthly Spend
+July 21-31, 2024: $91,315.34
+August 2024: $235,723.00
+September 2024: $231,545.76
+October 2024: $251,690.06
+November 2024: $223,071.66
+Projected Spend total
+November 2024: $1,033,345.82-Actual Spend
+December 2024: $1,283,345.82-Anticipated Spend
+January 2025: $1,533,345.82-Anticipated Spend
+February 2025: $1,783,345.82-Anticipated Spend
+(K) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Office of the Chief Financial Officer (OCFO) team supporting DPW certified that there is
+sufficient funding for the minimum and maximum total price of the proposed contract.
+(L) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The contract action has been determined to be legally sufficient and a certification has been issued
+by the Bidder Offeror Certification Form that the contractor has no pending legal claims against the
+District.
+(M) A certification that Citywide Clean Hands database indicates that the proposed contractor is
+current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+A certification has been issued by the Citywide Clean Hands database indicates that the proposed
+contractor is current with its District taxes.
+(N) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+3
+
+The contractor has self-certified its compliance with its federal taxes.
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+The contractor has certified, via the Bidder/Offeror Certification form, that it is (1) not in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2)
+currently is not and will not be in violation of section 334a of the Board of Ethics and Government
+Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2011, D.C.
+Official Code § 1-1163.34a.
+(P) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended; D.C. Official Code § 2-218.01 et seq.:
+The contractor has certified that they will subcontract 35% in the amount of $1,442,901.08 to
+Agricity, LLC, 1661 Harvard Street NW, Washington, DC 20009; LSZR61937012026. The
+subcontractor will assist with the assembly and delivery of “starter kits, collect food waste from
+participating households in three wards and assist with hauling and disposal of food waste.
+(Q) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None
+(R) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+The contractor is not debarred or excluded from providing services to the District, and Federal
+governments
+(S) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination and Findings for Sole Source
+Determination and Findings for Price Reasonableness
+Determination and Findings for Contractor Responsibility
+4
+
+(T) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+The contract when executed will be posted on the Office of Contracting and Procurement website –
+www.ocp.dc.gov.
+(U) Where the original solicitation, and any amendments or modifications, will be made available
+online:
+The contract when executed will be posted on the Office of Contracting and Procurement website –
+www.ocp.dc.gov.
+5
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: January 8, 2025 Notice Number: L0013005290
+COMPOST CREW INC., A BENEFIT CORPORATION FEIN: **-***5718
+12343 CARROLL AVE Case ID: 18451168
+RCOCKVILLE MD 20852-1813
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OFTHE CHIEF FINANCIAL OFFICER
+xk kK
+[isail
+[ct ay
+FINANCIAL PLAN AND BUDGET CERTIFICATION
+CONTRACT CW117574
+CAPTION: Curbside Composting Collections &
+Processing
+CONTRACTORNAME: Compost Crew, Inc. A BenefitCorporation
+PROPOSED CONTRACTAMOUNT: $18,547.80
+ORGANIZATION CODE: KTO
+PERIOD OF PERFORMANCE: DateofAward through OneYearThereafter
+Thereby certify that the DepartmentofPublic Works(DPW) has funding appropriated in
+the amountof$18,547.80 and that the service is within theappropriate budget authority
+forthe agencyand is consistentwith the financial plan and budget adopted in accordance
+with § 47-392.01 and47-392.02. Thecontract amount is $18,547.80minimum and
+$4,122,574.50 maximum,
+[8 -A9- POPE
+Fitzpatrick/AFO Date
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+Legal Counsel Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Ben Moskowitz
+Assistant Deputy Attorney General
+Legal Counsel Division
+DATE: December 12, 2024
+RE: Legal Sufficiency Review of the “Contract No. CW117574 with Compost Crew, Inc. A
+Benefit Corporation Approval and Payment Authorization Emergency Act of 2024”
+and Accompanying Declaration Resolution
+(AE-24-637)
+_____________________________________________________________________________________
+This is to Certify that
+the Office of the Attorney General has reviewed the
+above-referenced legislation and determined that it is legally sufficient. If you have any questions,
+please do not hesitate to call me at (202) 735-7589.
+_________________________________
+Ben Moskowitz
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004 Phone (202) 735-7589 Email: benjamin.moskowitz1@dc.gov
+
+Government of the District of Columbia
+OfficeofContractingand Procurement
+kkk
+mz
+a
+July 18, 2024
+Mr Michael Benjamin Parry,CEO
+CompostCrew Ine. A BenefitCorporation
+12343Carroll Avenue
+Rockville, Maryland20852
+Subject LetterContract
+Caption: CurbsideComposting Pilot(Collection, Hauling,& Processing)
+Contract, = CWI17574
+Dear Mr Parry
+‘This is a letter contract between the District ofColumbia (District) and Compost Crew Inc A
+Benefit Corporation (CompostCrew)wherein Contractoragrees to perform the services set forth
+asdetaitedinproposedcontract. Iti theDistrict's intent to awardthedefinitizedcontractpending
+approvalof theCouncil oftheDistrictofColumbia
+‘ le T t h t e er Di c s o t n r t ic r t act i ( n t t h e e nd d s at to e d t e h f e i C ni o t n i t z r e ac th t i i s ng le O tt f e i r c c e o r nt s r i a g c n t s w t i hi t s hi l n ett 9 e 0 rc d o a n y t s rac o t f ), th a e t d w a h t i e ch of t a im w e ar t d his of le t t h t i e s r
+contract shall merge with the definitized contract, Before the expiration of the 90 days, the
+Contracting Officermay authorize an additional period in accordance with section 24259ofthe
+d p e r f o i c n u it r i e z m e en th t i s s r l e e g t u t l er at c i o o n n t s r , a 2 ct 7 w D i C th M i R n , 90 Ch d a a p y t s er o 2 f 4, th S e e d c a t t i e on o 2 f 42 a 5. w 9 ard ( o 1 f 988)I this f le t t h t e er D c is o t n r t i r c a t ct do o e r s a n n o y t
+extensionsthereof,tislettercontractshall expire. In theevent ofexpiration ofthislettercontract,
+theDistrict shall pay contractorfortheservices performed underthis lettercontract inanamount
+nottoexceed$1,000,000
+Theawardamountofthislettercontractisnot-to-exceed $1,000,000. In noevent shalltheamount
+paid under this letter contract, or any extensions thereof, exceed 50% of the total definitized
+contractamount
+‘The definitized contract shall be merged with this letter contract once approved by the DC City
+Councilandaward ismade. TheDistrictshall pay thecontractorfortheservicesperformedduring
+thedurationoftheDefinitized contractin anamount nottoexceed $4,524.736
+
+Contractor shall perform under this letter contract pursuant to the terms of the following
+documents, which arehereby incorporatedby referenceand madea part ofthis letter contract
+© Definitized Contract including all Appendices
+© Contractor Bid datedJuly 16, 2024
+© StandardContract Provisions
+{mn the event ofa conflict among the incorporated documents, the conflict shall be resulved by
+vingprecedencetothe documentsintheorder listed above
+This LetterContract shall besubjectto appropriationoffunds
+Signatures
+. jamin Par
+¥ 9 July 18, 2024
+CompostCrew ine A Benefit Corporation Date
+Lili furs, a—
+ChiefContracting Ofticer
+Enclosures
+
+Doc647677
+CurbsideCompostingPilotCollection,Hauling&Processing
+SECTION B: CONTRACTTYPE,SUPPLIESORSERVICESANDPRICE/COST
+B.1 TheDistrictofColumbia (theDistrict)OfficeofContractingand Procurement(OCP),on
+behoaflthfeDepartmentofPublicWorks’ (DPW)OfficeofWaste Diversion(OWD)is
+seekingacontractortosupportayear-longpilotofcurbsideorganicwaste(food waste)
+collectionfromsingle-family(residential)householdsintheDistrict.TheContractor
+shall assemble,bundle,anddistributesetsofcurbsidecompost“starterkits”,and collect
+andhaul curbsideorganicstoafullypermitted, licensed,andcompliantprocessing.
+facilityfivedaysaweekforatotalof52 weeks.
+B.2 TheDistrictcontemplatesawardofa firmfixedcontract.
+B3 RESERVED
+B4 PRICESCHEDULE-FIRMFIXED PRICE
+B.4.1 PROJECTCOSTS
+Contract _ _——] ——
+Line-Item ItemDescription Gms UnitPrice|_ Price |
+Extended
+No, (CLIN)
+7
+“Assemblecurbsidecompost
+“starterkits”. Including(1)
+CurbsideCompostBin, (1)
+|
+Lid,and(1)KitchenCompost |
+Caddy,andplace four(4) 25- |
+| 0001
+countrollsofCompostable. | 12,000EA |$3.77 $45,240
+| Bin LinersandEducational
+Materials inside theCurbside
+‘CompostBin. (flat)
+(one-timebundles)
+‘One-timedeliveryofcurbside
+compost “starterkits”,
+includingCurbsideCompost
+,Lid, KitchenCompost
+0002 Caddy,andBinLinersand 12,000EA
+EducationalMaterials toeach
+participatinghousehold. (flat)
+(one time—households)
+
+Doc647677
+CurbsideCompostingPilotCollection, Hauling&Processing
+‘Contract Estimated
+Line-Item | Item Description UnitPrice
+Quantity
+No.(CLIN)
+‘Onceaweekcollection, acrossfour
+busidanyseofsfosod wastefrom
+participatinghouseholds.(including
+thecosts for rejecting, tagging, and
+0003 12,000EA. $5.79
+recoveryofcurbsidecompost bins -
+12,000householdsxunitpricxe52
+weeks)
+Dailytransportation/hauling(per
+mile)offoodwastefrom
+participatinghouseholdsand/ora
+0004 pointoftransfertoaprocessing 1 Mile $L79 $130,312
+facility. (includingthecosts for
+servicingmissedpick-ups-
+approximately35milesone-way)
+Dailydisposal(perton)offood
+‘wastefromparticipating households |
+toaprocessingfacility. 1Ton $68.0_0
+(approximately 5,928tonsperyear
+‘or 114 tonsperweek for$2weeks)
+‘One-timeprovision anddeliveryofa
+biologically stable,bagged
+composted material toall 1EA $12.77 $213,240
+participatinghouseholds.(12,000-
+SLB bagsforapproximately30 tons)
+BASEYEARTOTAL $4,524,736
+
+T. ContractNumber PaofgPagees
+AMENDMENTOFSOLICITATION/MODIFICATION OFCONTRACT _|cwii7s74_ + [TT
+ZAmandimeriModNcaaboenr 9. eciveDale 7ReietinPuasR intNo. | 5Soepi on
+Curbside Compostin
+Mol See 16CBelow ae
+6.Issuedby: ‘Code ]7. Adminbyi(Ifsothteretharntiened6)
+‘ O T f r f a i n c s e po o r f t C a o t n i t on ra a c n t d in S g pe a c n i d al P t r y o E c q u u r i e p m m e e nt ntCommodityGroup| D So e l p i a d r W tm a e s n t t e o D f is P p u o b s l a i l c D W i o v r i k s s ion
+2000 14htStreet,NW, 6*Floor 1725 15"StreeNtE
+PWaasrhiisngttoodRn,oDu.sC. 2C0o0t0ra9dorWo,Seely,Coa,wate ndzoeae)W|ashi|ngStAo.nA,mDCe20n00odf2SmokaeaonnWte
+‘CompostCrew,InABcene.fitCorporation DeelCove11)
+‘TOA. ModificationofContractor/OrNdeor.
+Ro
+1
+c
+2
+k
+3
+v
+4
+i
+3
+ll
+Ca
+e
+r
+,
+ro
+M
+ll
+D
+A
+2
+v
+0
+e
+852
+x|cwns74
+OBated(SeaTos73)
+Code Tt Facility‘GRLY APETLOIAEMSENDMENOTcStOoFber14, 2024
+(Gfiar T s he mu a s b t o a v c e k n n u o m w b l e e r d e g d er so e l c i o c i i p ta t t o i f o t n h i i s s a a m m e e n n d d e m d e a n s tp s r e i t o f r o t r o t th i e n h t o e u m r 1 a 4 n . d T d h a e te ho s u p r e a ci n e d d d i a n t t o h s e p s e o ci i f c i t e a d t f io r n r o e r c a ei s pt a o m f e O n f d t e e d r , s b [ y J on s e e of x the t fol e o [ w ] i n n i g sd m n e o t tee h x o t d de s n : d.ed.
+{ e ayB i y t comp o le r ti ) ng BY le s m ep s ar ® a a te n l d t 15 r , o a f n f dr a e x t w u h rn i i c n h g in o c n l e ud (1 e ) s co ar p e y f o e f re t n h c e et am ot e h n o dm s e o n l t i ( t 2 o )B n y an a d ck a n m o e w n le d d m g e i n n t g n r u e m c b i e p r. of F th A i I s L a U m R e E nd O m F en Y t O o U n R e A ac C h K c N op O yo W f L th E e D o G ffe M r ETNOT
+BERECEIVED
+ATTHEPLACEDESIGNATEDFORTHERECEIPTOFOFFERSPRIORTOTHEHOURANDDATESPECIFIEDMAYRESULTINREJECTION
+(GF YOUROFFER. iby vnoftsamencnenyoudao tungea teraway mig,ich maybemadeby ft,roeechnro
+ate
+makes to
+42.AccountingandAppropDratia(iafRteqiuiorend)
+7aTHISITEMAPPLIESONLYTOMODIFICATIOONFS|
+ITMODIFIESTHECONTRACTIORDERNO. =DINITEM 14
+AThischangeorderiissuedpursuantto(SpectyAuthority):27DCMR,Chapter36,Section 3601.2(0)
+“Thechangesgetforthntem 14aremadeinthecontracorderno.intom 10A.
+Theabovenumberedcontraclorderismodifiedtoreflecttheadministrativechanges(auches changesinpaying ofice,appropriationdala
+ele)sotforthinitem 14, purtogtheuauathonri tof.
+i rer agree rr peue aoe27OEM STZ
+‘D.Other(Speallyypeofmmediaincdaauttihoonyn)
+TE.IMPORTANT: ContractornotBisrequredto signtiedocumentandretumn one (1)copyloheissuingoffice.
+TiDescriptionofAmendmentModifcation(OrganizedbyUCFSectionheadings,includingsoleRalion/contractsubjectmatterwherefeasible.)
+ContractCW117574isherebymodifiedasfollows:
+‘A. PursuatnotSection G.8“Authorized Changesby theContractingOfficer”the Districthereby extends
+thiscontractsperiodofperformance from90daysto 120daysfromdateofaward.
+B. Effective 10/14/2024, SectionB.2andB.4PriceSchedulestructureismodifiedfrom firmfixedto
+indefinitedeliveryindefinitequantity(IDIQ)with Minimumamount$18,547.80andMaximumamount
+$4,122,574.00,
+aap aroid vo toadSoosdoc refrenoedWem OA of TOA)renwncnged ndmeandoo
+‘1 M 5 i . c N h a a me e a l n B d e Ti n tl j e a of m S i ig n ne P r a ( r Ty t p y e , or C pr E int O ) ‘ ‘ 1 A 6 n A. g N e a l m a e T of u C e on r tracOtfifincegr
+TSB.NameofContmirchaaelco o twao e sr|150.DateSigned Piru T6C.DateSigned
+saatnenynatiness| 10/18/2024
++3
+Dc ole
+
+PRICESCHEDULE-IDIQ
+B.5.1_BASE YEAR
+MinimumTotalPrice MaximumTotalPrice
+ItemDeseription Quantity (Unitpricex Quantity xmaximum
+#(CLIN) Minimum minimum quantity) Maximum
+pos 4
+Including(1)Curbside
+‘ComposeBin, (1)Lid,
+and(1)KitchenCompost
+Caddy,and placefour(4)
+25-count rollsof 10,000each
+$3.77 $37,700.00
+CompostableBin-Liners
+andEducational Materials
+inside theCurbside
+Materialsinsidethe
+CurbsideCompostBin.
+‘One-time deliveryof
+curbside compost
+“starterkits”,
+including Curbside
+Compost Bin, Lid,
+Kitchen Compost
+0002 Caddy, and Bin $9.99 10,000each $99,900.00
+Liners and
+Educational Materials
+toeachparticipating
+household. (Including
+costs for replacement
+deliveries)
+Once aweek
+collection,
+across five business
+days offood waste
+624,000
+from participating
+$301.08 (12,000 $3,612,960.00
+houscholds, including (1 household
+thecosts for X52 weeks) ($5.79*52weeks) households x (S301.08*12,000)
+52weeks)
+rejecting, tagging,
+and recovery of
+curbsidecompost
+bins
+Daily
+transportation/hauling
+(per mile) offood $467.19 39,150 miles
+(150miles x $70,078.50
+($1.79*261 collection
+waste from 261 miles 261 collection ($467.19*150miles)
+participating days)
+(mixl26e1
+days)
+households and/or a collection
+days)
+point oftransferto a
+
+fullypermitted,
+licensed,and
+compliant processing
+facility, includingthe
+costsfor servicing
+missed pick-ups.
+Daily disposal (per
+ton) offoodwaste
+fromparticipating
+261 tons $17,748.00 $124,236.00
+0005 | households to a fully- 1,827tons
+permitted, licensed, ( c 1 ol t l o e n ct x io 2 n 61 ( da $ y 6 s 8 ) * 261 collection ( c 7 ol t l o e n c s ti x on 26 da 1 ys) (817,748 *7tonsaday)
+and compliant
+days)
+processing facility.
+‘One-timeprovision
+and delivery ofa
+biologically stable,
+0006 | bagged composted 1bag i777 10,000bags $177.700.00
+material to all
+participating
+households
+BASE YEARTOTAL 818,547.80 $4,122,574.50
+
+ContractNomber PageofPages
+AMENDMENTOF SOLICITATION / MODIFICATION OF CONTRACT |CW117574 1 i
+RmendinenlMedicatonNumber | 3 CecveDale 7 RequstionPurchaseRequest No. ]5: Socaton Capon
+CurbsideComposition
+nae See 16C Below Collections& Processing
+Ties Tale 7Raitaby (Toter rane6)
+OfficeofContractingand Procurement DepartmentofPublie Works
+‘Transportationand Specialty Equipment Commodity Group| Solid Waste Disposal Division
+2000 14ht Street,NW, 6* Floor 1725 154StreetNE
+‘Washington, D.C. 20009 Washington, DC20002
+7.NameandAddorf CeonrsacsorNo SreeGy, oun Hateanda coe) ||8A.Arenmentof SoVcTaNoso
+CompostCrew, Inc, A BenefitCorporation caeeeene nena
+12343 Carroll Ave TOA: ModificationofContvaclodOrdNeor.
+Rockville, MD 20852 x|ew1i7s74
+OB.Dated(See tem 13)
+Code Faclty July 19, 2024
+TITHISEMONLYAPPLIESTOAMENDMENTSOFSOLICITATIONS
+|[Jit stovenonberedsociation samendedaseetforhintem 14. Tehouranddatespoctedforreceiptof ers ietended. encextended
+(ersmuaactnowreectdogfieesmendmertptithehouran date spect nthe soeasxsraondedbyone othefolowangmethods.
+{a)Bycompetetmsi6nagnd 15, andetrinonge(1 opy oftheamendment (0)Byacknowwedgingrecoeftepa ameonn edachmcopyecftneotfr
+‘Sita0)BYapartallofaxwhchincludes aeferencetthesolatonandareencantnum FAILUREOF YOURACKNOWLEDGMENT TO
+BE RECEIVEDATTHEPLACEDESIGNATEDFORTieRECEIPTOFOFFERSPRIORTOTHE HOUNANDOATE SPEGIFIEDMAYRESULTINREJECTION
+‘OFYOUROFFER. byvuoefis amencieynotudestelochange snfeaoacy sultedsuchmaybe madbey arofaxroewareleedror
+{ciayamrakes reierecaothe sokciaonardthsamendmen,ands ecehvedportotheopeinghuadatespeed
+"2. AccountingondAppropriationDaa(i Required)
+75" THISITEMAPPLIESONLYTOMODIFICATIONS OFCONTRACTORSIORDERS ,
+ITMODIFIESTHE CONTRACTIOROER NO. ASDESCRIBEDINITEM14
+"A Thischangeorderisissuedpursuantto(SpecityAuthoniy): 27DCMR,Chapter26,Section3601.2(0)
+‘Thechasnetgfoerthsin tem 14aremadeinthecontracVordneor. initem 10A.
+TheabovenumberedcontracUordorIsmodifiedoreflectheadministrative changes(euchaschangesinpayingoffce,appropriationdata
+tc.)setfortthemi1n4, purtsothueauathonniytof
+X_ |©; Thissupplementalagreemenitsenteredintopursuantto authorioyf27DOMR3601.2
+27OCMR,
+Other(Specifyypeofmodiicatonand authori)
+ELIMPORTANT: Contractor]i notBisrequiredtosigntisdocomentandretumone(1) copytotheIssuingoffice
+Ta. DescofArmniendpmentlMeidicoatinon(OrganizedbyUGFSeclionheadings,cludingsolctatoniconiracsubjecl matierwhereTeasibve )
+ContractCW117574 ishereby modified as follows:
+A. Pursuantto Section G.8 “Authorized Changes by the Contracting Officer” the District herebyextends
+this contracts fromNovember 19, 2024, through December 18, 2024. The total ceiling shall not exceed
+$1 million.
+Excepastprovidedherein, al ternsandcondlionsofthedocument referencedinem(@Aor10A)remainunchangedandinfullforceandeffec
+TANoteandTaloef SineTypeepi) "ax NaofCmonboceing Oa
+Michael Benjamin Parry, CEO
+z Le Angela Tumer
+TEE. NaofmCointacelor jachaei Srshamaey|160.DateSigned|16B.DisotfCroliumcbita TG DatoSigned
+aera
+Benjamin ror | 44/8) Taeae. 1114/2024
+soDonnesnts |_1118"2024 Angele (SopfComaactengOfnc
+
+1 Conract Naber PageofPages
+AMENDMENTOF SOLICITATION / MODIFICATION OFCONTRACT_| cW117574 io
+7. Amendmerthtodication Number| 5. EfociveDate 7, RequsitonPurchaseRequestNo, | 5. SafctatonCaption
+CurbsideComposting&
+Mos See 16C Below acne
+S Tesvebyd Code 7, Rdmiaby(eatreeradn ne 6)
+Office ofContractingandProcurement DepartmentofPublicWorks
+Transportationand SpecialtyEquipment CommodityGroup| SolidWaste Disposal Division
+2000 14ht Street,NW, 6" Floor 1725 15Street NE
+Washington, D.C. 20009 Washington, DC 20002
+“Name andAdeofeConstrascor (No, Sea,ly,counly,saleandZpcode) ‘AAmendofmSaevnotn No.
+‘Compost Crew, Inc. A Benefit Corporation ay)
+12343 Carroll Ave TOA. ModificationofContractorOrderNo.
+Rockville, MD20852 x] ows
+108,Dated(See tem 13)
+Code Faciity November 15, 2024
+TiTHISITEMONLYAPPLIESTOAMENDMENTSOFSOLICITATIONS.
+Lhe abovenumberedsotctaionisamendedasset orthin tem14. Thehouranddatespefocrriecefiptoifefders Cisextended. [)isnotextended.
+(fersmustacknowedgereceiptofhisamendmentpriortoWehourand datespectidinthesaletalonor 28amen,byneofthefollowingmato:
+{2)8y completingNe8mansd 15,andreturingone(1)copyoftheamendment (0)Byacknowledgingrecepof hsamendmentoneachcopyofthe offer
+‘tivtedor(c)BYseparatelelioorr faxwhichIncludes reference tothesoltatonandamendmentnumber. FAILURE OF YOURACKNOWLEDGMENTTO
+BERECEIVEDATTHE PLACE DESIGNATEDFORTHERECEIPT OFOFFERSPRIORTOTHE HOURANDDATESPECIFIEDMAYRESULT INREJECTION
+(OFYOUROFFER.I'byvitve of fisamendmentyoudesire tochange anafraleady submited, suchmaybemadebyleerotfax,proveaichldoerdor
+tsiegrammalesreleencefothe solation andtsamendment, andsreceivedpvtro theopeninghouranddalespaced
+"2.AceountingandAppropDratai(iafRteqiuiorend)
+TS THISITEMAPPLIESONLYTOMODIFICATIONSOFCONTRACTORS/ORDERS
+ITMODIFIESTHECONTRACTIORDERNO. ASDESCRIBED INITEM14
+‘A. Thischangeorderisissuedpursuantto(SpecilyAuthoniy): 27DMR,Chapter36, Section3601 2(b)
+“Thechangessot forthinitem14aremadeinthe contraclorderno. initem10A.
+B. TheabovenumberedconivacvorderIsmodifiedtoreflecthe administrativechanges(suchoschanges inpayingoffice,appropriationdala
+tc.setforthintem 14, purtostheuauathornitytof
+| ©: Thissupplementalagreementsentered intopursuantToauthoriyof 27DOMR36012
+27OCMR.
+1D.Other (Specify typeofmedicationand authoriy)
+IMPORTANT: _Contractor[_] isnot 69isrequiredtosignthisdocumentand retumone(1)copy totheissuingoffice.
+Ta. DescriptionofAmendmenUModiicalion(OrganizedbyUCFSectionheadings, indudingsolctalion/conlradtsubjectmatterwhorefeasible.)
+‘Contract CW117574 is herebymodified as follows:
+A. Pursuant to Section G.8 “Authorized Changes by the Contracting Officer” the Districthereby extends
+thiscontract fromDecember 16, 2024, through January 15, 2025.
+ESxceptasproviLdedherein, al Eternsandconditionsof thedocumentreferSernacedinlem(9Aor10A)remainunchangedandinfulforceandeffect.
+Michael Benjamin Parry, CEO a
+TETa oOo TEEDaaSad | ee oC Date
+Michael — =
+Beni EE wsey 11M18/2024 |Pregede Zeemer ay snusyoun [11/18/2024
+
+T-ContractNumber PageofPages
+AMENDMENTOF SOLICITATION / MODIFICATION OF CONTRACT_|cw117574 1 i
+7AmendmentModcationNumber| 5 EfectiveDale “Requialton/Purchase RequestNo.| 6. SavatatonCaption
+ra eaCar CarbideComportng&
+rocessing
+6 Issuedby: Code 7. Administeredby (Ifotherthan line 6)
+OfficeofContractingand Procurement DepartmentofPublic Works
+Transportationand Specialty Equipment CommodityGroup| Solid WasteDisposal Division
+2000 14ht Street,NW, 6"Floor 1725 15 StreetNE
+Washington, D.C. 20009 Washington, DC20002
+3.NameandAdsorfCeonisadisor(No. Setiy,couny,SaleandZpcode) ‘98, AmendmentofSoTSaenNo
+Compost Crew, Inc. A Benefit Corporation Seanees ceed
+12343 Carroll Ave "TOA. ModificationofConiracior/OrNdeor.
+Rockville, MD 20852 x|owir7s7a
+108. Dated(Seelem 13)
+Code Faclity November 25, 2024
+Ti THISITEMONLYAPPLIESTOAMENDMENTSOFSOLICITATIONS
+[The abovenumberedsolctatonisamendedassetforhinitem14.Thehourand datespectied frreceiptofOffers []isextended.(aictextsended
+ersmustseknowedgereco offis arandmentporothe houranddat spectednthe slcaionoaamended,by oeof haflowingmethods
+{2}By compleing lems® and19,andreturningone(1)copyotheamandient (Byacknowledgingrece ofInarenteroneachcopyotefer
+sedorc)BYsoparateteoroxwhchinches referenceone slctaonandsmencmantram, FAILUREOF YOURACKNOWLEDGMENT TO
+BERECEIVED ATTHEPLACEDESIGNATEDFORTHERECEIPTOFOFFERSPRIORTOTHEHOURANDOATESPECIFIEDMAY RESULT INREJECTION
+‘OFYOUROFFER. ibywitoftussmendmentyoudesiochangeanofralreadysubate,suchmaybemadebyltrfaxprovidedeacheteror
+{siogramratesreferencetothosokctatonandtheamendert andsfectedpo’ hs operoghouraddaopected
+12,AccountingandAppropriationData(ifRequired)
+15 THISITEMAPPLIESONLYTOMODIFICATIONS OFCONTRACTORSTORDERS ,
+ITMODIFIESTHECONTRACT/ORDERNO. ASDESCRIBED INITEM14
+"A ThischangeorderisIssuedpursuantto(SpecilyAuthosly):27DMR,Chapter26,Section3601.2(b)
+“Thechansegtfoerthsin Item14aremadeinthecontraclordneor intem1A,
+'ETheabovenumberedcontractiorderismodifiedtoreflectheadministrativechanges (suchaschanges Inpayingoffice,appropriationdata
+tc.)set forthintem 14, pursuanttotheauthorityof
+X__ | © Thissupplementalagreementisenterediniopursuanttoauthorityof 27DOMR36012
+27CMR.
+. Other(Specifyypeofmodification andauthoriy)
+E.IMPORTANT: Contract[o_r is notBisrequiredtosinthisdocumentandretumone(1)copy totheissuingoffice.
+TiDesoafAmrenidmepntMiodifoicatnion(OrganizedbyUCFSectionheadings, Indudingsollialon/ontractsubjeclmaiterwherefeasible.)
+Contract CW117574 is hereby modified as follows:
+A. Pursuantto Section G.8 “Authorized Changes by the Contracting Officer”the Districthereby extends
+thiscontracts from January 14, 2025 throughJanuary 31, 2025.
+B. Thecontractamount is increased to $1,560,274.00.
+Eiaos rpolahornatom and conionsatheGoeimanteferancedhom(OoAr TOA]emai unchanged and naecoand aoc
+5A Nameand Tile ofSigner(Typeor xt) TA: Name ofCntracifincge
+Michael Benjamin Parry, CEO Angela Turner
+TSENamoo'Coniacer, 5G. DateSane| 168. DaofCtomeba 6GDateSigned
+Michal tte Angela Taner ‘ismoce
+Benjaminpary Sees [11/26/2024 ihr Cnnten)
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW117574 1 1
+2. Amendment/Modification 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+Number
+Curbside Composting &
+M05 See 16C Below
+Processing
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Department of Public Works
+Transportation and Specialty Equipment Commodity Solid Waste Disposal Division
+Group 1725 15th Street NE
+2000 14ht Street, NW, 6th Floor Washington, DC 20002
+Washington, D.C. 20009
+8. Name and Address of Contractor (No. Street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+9B. Dated (See Item 11)
+Compost Crew, Inc. A Benefit Corporation
+12343 Carroll Ave 10A. Modification of Contractor/Order No.
+Rockville, MD 20852
+X CW117574
+10B. Dated (See Item 13)
+Code Facility November 25, 2024
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15, and returning one (1) copy of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT
+TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN
+REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided
+each letter or telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS ,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Section 3601.2(b)
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation
+data
+etc.) set forth in item 14, pursuant to the authority of:
+C. This supplemental agreement is entered into pursuant to authority of: 27 DCMR 3601.2
+X
+27 DCMR.
+D. Other (Specify type of modification and authority)
+E. IMPORTANT: Contractor is not is required to sign this document and return one (1) copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+Contract CW117574 is hereby modified as follows:
+A. Pursuant to Section G.8 “Authorized Changes by the Contracting Officer” the District hereby extends
+this contracts from January 31, 2025 through February 28, 2025.
+B. The contract amount is increased to $1,783,345.82.
+Except as provided herein, all terms and conditions of the document referenced in item (9A or 10A) remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Michael Benjamin Parry, CEO
+Angela Turner
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+1/9/2025 1/8/2025
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+1 Rose rare Sages
+AWARDICONTRACT —
+7 Coie Water 7Eons ai 7 RPaaaPaavao
+CW117574 July 19,2024
+Ted Cole 7 aiby(orarFeane
+OfficeofWaste Diversion
+OfficeofContractingand Procurement
+DepartmentofPublic Works
+441 4* Street,NW, Suite700 South
+250 E Street SW,4th Floor
+Washington, D.C. 20001
+Washington, DC 20024
+Done
+7.NameandAddressofContract(Noor. street, city,county,stateandZipCode)
+CompostCrew, Inc. A Benefit Corporation Crosong [other(seeSchedule SectioFn)
+12343 Carroll Ave ‘. Disfocrproomputpanymtent
+Rockville, MD 20852
+TO.SubmitinveicesTotheAddressshownih
+(2copies uniessotherwisespecified)-NIA
+DunsNo._[ l TN
+i. ShiptolMarkFor [cee,
+12, Paywimllbeemandetby [Code T
+WA
+Ta. Reservedforfuture use Ta. RecountingandAppropriationDaia
+ENCUMBRANCECODE: NA
+Them 75, SupphestSenics
+0001 through Curbside CompostPilot(Collection, ‘$18,547.80. Min.-
+$4,122,574.Ma
+(0006 Hauling, &Processing)
+otalEstimatedMaximumAmountofConiract 7
+76 TatieofCorton
+OT Seaton Description T Page T 0) [Seaton—T Descript ion [Page
+PARTI=THESCHEDULE PARTI=CONTRACT CLAUSES
+x | Contract Form x T__| Contrac tClauses [7
+x B | SuppliesorSenices&CoatPrce z ‘PARTl=LIST OFDOCUMENTS,EXHIBITSAND
+‘OTHER ATTACHMENTS,
+x C__| Services 5 J [Listofattachments Sz
+x | Packingandwanking 2
+x E__| taspectionandAccepiance 2
+x F__| Contract Term 2
+x G__| Contract AdminievationGata 2a
+x H__| SpecialContractRequirementa EJ
+‘ContOfrficaerwciltciompnlegteItem17 or1828applicable
+17. DKJGONTRACTOR'SNEGOTIATEDAGREEMENT(Contractori
+‘AWARD(Contractoisrnot requiredtosignthisdocument.)
+requedosgnhisdocumentandretum copies insingofc.)
+‘YourofferonSolicitationNumber N/A inchudingtheadditionsor
+Contractoragreestofomishand dlveral Rms,perormaltheservoseto
+changesmadebywhichadditions orchanges are set forthInfull
+trohervseentedabove andonanycaninuaonsheets,fortheconsderaon
+above,isherebyacceptedastotheitemslistedaboveandonany
+Slatednoel.The itsandobiigationsofbepriesthis contractshallbe
+Continuationsheets. Thisawardconsummatethecontractwhich
+SubjectIoand govemodbythofolowing document: a)thsawardfcotac,)
+‘consistsofthe folowingdocuments: (a)theGovernment's
+thesolctton, ony,and(c)suchrovsone representations,ceratons, and
+solicitationandyouroffer,and(b) thisaward/contract. Nofurther
+Speiicatore,ataetachedor eorporatedbyrterenceherein. (Atachnens
+‘contractualdocumentisnecessary
+broadherein)
+TOA. NameandTiaofSigno (Type oFpan) 0A NameofContractingOfficer
+ichael Benjamin Parry, CEO Angela Tumer
+TOE, RteoTConracor xtra 18C. DateSigned |208, DistrictofColumbia ‘200. DateSigned
+Benjamin Pay ia | 11/10/2024
+Pa ake. (Sgt CntsengOe)
+ap
+$5 coveoftrheDnistimctoef Conlumtbia OfficeofContranadPcrotcuirenmegnt
+
+CW117574
+‘CurbsideCompostingPilotCollection, Hauling& Processing
+SECTION B: CONTRACTTYPE, SUPPLIES ORSERVICESAND PRICE/COST
+TheDistrictofColumbia (theDistrict) Office ofContractingand Procurement(OCP), on
+Bl
+behaoflthfe Departmentof PublicWorks' (DPW) Office ofWaste Diversion(OWD) is
+seeking acontractor tosupport a year-longpilot ofcurbsideorganic waste (foodwaste)
+collection from single-family(residential) households in the District. The Contractorshall
+assemble, bundle, anddistribute sets of curbsidecompost "starter kits", and collect andhaul
+curbsideorganicstoafullypermitted, licensed, and compliant processing facility fivedays a
+week foratotal of52 weeks.
+‘The District contemplatestheawardofanindefinitedeliveryindefinitequantity(IDIQ).
+B2
+B3 RESERVED
+BA PRICE SCHEDULE- INDEFINITEDELIVERY INDEFINITE QUANTITY(IDIQ)
+PRICE SCHEDULE-IDIQ
+BA4l
+Contract MinimumTotal ‘MaximumTotal
+Item Deseription Quantity Price(Unitpricex Quantity Price(Unitpricex
+Line Item Minimum minimum Maximum Maximumquantity|)
+‘Assemblecurbsidecompost
+“starterkit”. Including(1)
+CurbsideComposeBin,(1)
+Lid,and(1)Kitchen
+Compost Caddy, and place
+four(4)25-count rollsof $3.77 10,000each $37,700.00
+‘CompostableBin-Liners
+and EducationalMaterials
+insidetheCurbside
+Materials inside the
+CurbsideCompost Bin.
+One-time deliveryof
+curbsidecompost “starter
+kits”, includingCurbside
+‘CompostBin,Lid,Kitchen
+Compost Caddy, and Bin
+0002 $9.99 10,000each $99,900.00
+Linersand Educational
+Materialstoeach
+participating
+household.(Includingcosts
+forreplacement deliveries)
+
+cwl 17574
+Curbside Composting PilotCollection, Hauling &Processing
+Contract MinimumTotal Maximum Total
+Item Description Quantity | Price(Unitpricex| Quantity Price(Unit price x
+Line Item Minimum | minimum Maximum |Maximum quantity)
+‘Once @ weekcollection,
+across fivebusinessdays of
+food waste from (1 household 624,000
+0003 | participating households, |X 52 weeks) | $301.08 (12,000 |$3,612,960.00
+includesthecosts for (85.79*52weeks houscholds x| ($301.08*12,000)
+rejecting,tagging, and 52 weeks)
+recoveryofcurbside
+Daily
+transportation/hauling
+(permile)offoodwastes | 261 miles
+fromparticipating (1 mile x 261
+householdsand/ora point | collection | $467.19 (Isomers. | $70,078.50
+0004 | oftransfertoafully days) | ($1.79*261 erence S| teacy io150 mil
+permitted, licensed,and collection days) collection| ($467. miles)
+compliantprocessing lays)
+facility, includingthecosts
+forservicingmissed pick-
+ups.
+Dailydisposal (per ton) of
+foodwastes from 261 tons
+00s | Participating households to | (1 tonx 261 eae i Foe os sinaer‘
+a fullypermitted,licensed, } collection neal ( ene con as
+andcompliantprocessing days) collection days) colaa lay)
+facility. ys)
+One-timeprovisionand
+deliveryof a biologically
+0006 —_| stable, baggedcomposted tbag |$17.77 10,000 bags_| $177,700.00
+materialtoall participating
+households
+BASE YEARTOTAL $18,547.80 $4,122,574.50
+BS Forcontracts inexcessof $250,000, atleast35% ofthe dollar volumeofthe contract
+shall besubcontracted inaccordancewithsection H.9.1. A Subcontracting Plan form is
+available at http://ocp.dc.gov, underQuick Linksclick on “Required Solicitation
+Documents.”
+B6 NONPROFIT FAIR COMPENSATION
+B.6.1 Nonprofit FairCompensation Actof 2020,D.C. Code §2-222.01etseg.
+Nonprofitorganizations, as defined intheAct, shall include intheirrates the indirect
+costs incurred inprovision ofgoodsor performanceofservicesunder this contract
+
+cw117574
+Curbside Composting PilotCollection, Hauling& Processing
+pursuantto thenonprofitorganization's unexpired Negotiated IndirectCost Rate
+Agreement (NICRA). Ifa nonprofitorganizationdoesnothaveanunexpired NICRA,the
+nonprofit organizationmay elect toinstead include in its rates its indirectcosts:
+(1) Ascalculatedusing aminimis rate of10%ofall directcostsunderthis contract;
+(2) Bynegotiatinganew percentageindirectcost rate with theawarding agency;
+(3)Ascalculatedwith thesamepercentageindirect cost rate as the nonprofitorganization
+negotiated with any District agencywithin thepast 2 years; however, a nonprofit
+organization may request renegotiating indirectcosts rates inaccordance with B.7.2;or
+(4)Ascalculated withapercentagerateand base amount, determined byacertified
+public accountant, as defined in the Act, usingthe nonprofitorganization's audited
+financial statements from theimmediately preceding fiscal year,pursuantto theOMB
+Uniform Guidance, and certified inwriting by the certified public accountant.
+Ifthiscontract is funded by a federal agency, indirectcostsshall beconsistent withthe
+B62
+requirements forpass-through entities at 2 C.F.R. § 200.331,orany successor
+regulations.
+‘TheContractorshall pay its subcontractors, which arenonprofit organizations the same
+B63
+indirectcostratesas thenonprofitorganizationsubcontractorswould havereceivedas a
+primecontractor.
+
+cwli7574
+Curbside CompostingPilotCollection, Hauling &Processing
+SECTIONC: SPECIFICATIONS/WORK STATEMENT
+C.1 SCOPE
+The DistrictofColumbia(the District) OfficeofContracting and Procurement(OCP),onbehalf
+ofthe DepartmentofPublic Works’ (DPW) Office ofWasteDiversion(OWD) is seeking a
+contractor to support a year-longpilot ofcurbsideorganic waste (food waste) collection from
+12,000 single-family (residential) households intheDistrict. The Contractor shall assemble,
+bundle, anddistribute sets ofcurbside compost“starter kits”, and collectand haul curbside
+organicwaste to a fullypermitted, licensed, and compliantprocessing facility fivedays aweek
+foratotalof 52 weeks.
+C2. APPLICABLE DOCUMENTS
+The followingdocuments are applicable to this procurement and are hereby
+incorporatedby this reference:
+Ttem No.| Document Type Title Date
+0001 Law ‘Sustainable SolidWasteManagement Amendment Act|2014
+of2014 DC Act 20-423
+0002 PDF Zero Waste Omnibus Ac t of2020 2020
+Zero WasteOmnibus Amendment Actof2020.pdf
+{adobe.com)
+(0003 PDF DesktopWaste Characterization Study 2021
+://zerowaste.« wv/sit /sit
+owaste/Desktop%20WCS%20Final%20Report%203-
+10-21 pdf
+0004 PDF CY 18 Annual Waste Diversion Report 2018
+hitps://zerowaste.dc.gov/sites/default/files/de/sites/zer
+owaste/CY%2018%20Diversion%20Repon%20Final
+0005 PDF DistrictofColumbia Compost Feasibility Study April |2017
+2017
+https://dpw.de.gov/sites/default/files/de/sites/dpw/pag,
+7DCH420C Feasibil
+y%20Study vf0417.pdf
+0006 PDF Co-DigestionFeasibility Study forThe Districtof 2017
+Columbia
+m7 sit jites/dpw/t
+ication/attachments/FINAL%20DC%20Co-
+Digestion%20Report.pdf
+0007 Policy Mayor'sListofRecyclablesand Compostables 2016
+(0008 Policy SolidWasteCollectorRegistration & Reporting 2018
+Requirements
+
+CW117574
+CurbsideCompostingPilotCollection, Hauling &Processing
+C3 DEFINITIONS
+. Certifiedcompostable-Compostable fibersorresinsthatarecertified by BPI
+(Biodegradable ProductsInstitute)and shall notcontain BPAor PFAS(polyfluoroalkyl
+substances).
+Compostable~ Any itemcomprised solely ofmaterials that breakdowninto, or
+otherwisebecome part of, usablecompost inasafe and timely manner. The term
+“compostable” when referring to fibersor resins shall be defined as aforementionedand
+shall becertified by BPI (BiodegradableProducts Institute) andshall notcontain BPAor
+PFAS (polyfluoroalkyl substances).
+‘Composting~ a managed process whichutilizes microorganisms naturallypresent in
+organic matter and soil to decomposeorganic material. Thesemicroorganisms require
+basic nutrients, oxygen, and waterfordecompositiontooccurat an accelerated pace. The
+end-product, compost, is a darkbrown, humus-likematerial whichcan be easily and
+safelyhandled,stored, and used as avaluablesoil conditioner.The compostingprocess is
+dependent upon several factors, including: thepopulationofmicroorganisms, carbonto
+nitrogen ratio, oxygen level, temperature, moisture, surfacearea,pH, and time.
+Compostablebin liners— Bagsusedto line compost bins madeofnatural plantmatter
+and certified by BPI (Biodegradable Products Institute) that do notcontain any toxic
+materials such as BPAor PFAS (polyfluoroalkyl substances)and breakdown readily ina
+compostingsystem withnocontamination.
+Composted —toconvert decayingorganicmaterial into a soil amendment.
+Curbside compost bins—Receptacles supplied by theDistrict tobeused forthe
+collectionofresidential organic wasteand tobeplacedat thePOCeither at thefrontof
+theresidenceornearby alleyway.
+Curbside compostbin lids — Lidsto fit securely on topofthecurbsidecompost
+collection bins supplied bytheDistrict to beused forthecollectionofresidential organic
+waste.
+District~ District ofColumbiaGovernment
+DPW—DepartmentofPublic Works
+
+cw1i7574
+Curbside CompostingPilot Collection, Hauling &Processing
+. Foodwaste —Unused and unconsumed organic matter remainingafterproduction,
+preparation,and consumption offood, intended fordiscard.
+Fully-permitted, licensed, andcompliant processingfacility—a composting facility
+that meetsor exceeds all local,state, and federal rules and regulations.
+Kitchencompost caddies~Receptacles supplied by theDistrict,to be used forthe
+collectionofresidential food waste, typically indoors in residential kitchens.
+Organics or organic wast—e Food waste, yard waste,andcompostablefiberproducts.
+Theterms “organics and “organic waste”do not includecompostable plastic food and
+beverage service-ware, such as plates, cups, and cutlery.
+OCP — OfficeofContracting and Procurement
+OWD - OfficeofWaste Diversion
+Pointofcollection (POC)~ the place in front of, or inthe alleybehind,a residential
+propertydesignatedby the selectedContractor and OWD wheretheir food waste shall be
+collected andthebin returned to, followingcollection.
+Setout— Definedas whena customerplacesor “setsout” theircurbsidecompost
+collection binin the proper locationandon thecorrect day forcollection,
+Single-family household—Any residential property with three(3)or fewerdwelling
+units thatare serviced by DPW.
+Solid waste — Garbage, refuse, or anyotherwaste or wasteproduct, includingrecyclable,
+compostable,or otherwise reusablematerial,whether in solid, liquid, semisolid, or
+contained gaseousstate, resulting from an industrial,commercial, residential, or
+government operationorcommunity activity. Does not include hazardouswaste, medical
+waste,or construction anddemolition waste.
+Sourceseparation — Wastestreams separatedby material typeby theresidentor
+business at the site wherethe waste isgenerated,
+SWMA-Solid WasteManagementAdministration
+C4 BACKGROUND
+The District’s DPW conducted a year-longpilotofcurbsideorganic waste(food waste)
+collection from up to 12,000 participating single-family(residential) householdslocated
+throughout
+
+CW117574
+CurbsideComposting PilotCollection, Hauling&Processing,
+theDistrict. Thepurposeofthepilotprogram was totestoperationsand gatherkey
+data and information todetermine theviabilityof a District-wide curbside residential
+food wastecompostingprogram insupport ofthe District’s goal todivert 80%ofits
+waste from landfills and incineration.
+Duringthis year’s long pilot(2023-2024), up to 12,000 households located acrossthe
+District’s eight (8) Wardsshall opt-in (sign-up) toreceive free, once-a-weekcurbside
+collectionservicesprovidedby athird-partycontractoron behoaflthfe District. The
+Contractor worked with the District, throughout thepilot program, and speak daily(and
+on collectiondays), toensure programsuccess and stronggoal achievement. The
+Contractortoprovided a veryhigh-quality level ofservice, ensuringarateof collection
+no less than 99.0%percollectionday. Timely collectionofall containerized food waste
+andrapid response toservicerequests is essential tothesuccessofthepilotprogram.
+Throughout thedurationofthepilotprogram, the Contractorwas responsible for
+detailed data reportingto the District. At thecompletionofthis service, theContractor
+was responsible forworkingwithOWDemployees to assess project performance and
+transferall datarelated to thecontracttoOWD.
+‘TheContractorshall collect foodwaste Mondays, Tuesdays,Wednesdays, Thursdays,
+and Fridays, for five(5) days perweek forapproximately 2,400households perday. The
+collection shall occuron a Saturday whenaholiday orotherevent such as inclement
+weathershiftsthecollectionschedulebyoneday. Collectionshall neveroccuron
+‘Sundays. The timeofcollections forthepilot program shallbeginat 8:00a.m. forthe
+first householdon theroute andend no laterthan 2:00p.m. forthe lasthouseholdon the
+route.
+Collection days foreach Ward shall benegotiated betweentheselectedContractorand
+DPW (SeeAttachment A forUpdatedBoundary Mapsofthe District Wards). DPW shall
+providetheselectedContractorwithalistofall opt-ins participatinghouseholds
+following theaward ofthecontract. All food waste shall bedeliveredtoa fully
+permitted, licensed, and compliantprocessingfacility (See Attachment B forexamplesof
+fully-permitted, licensed, andcompliantprocessingfacilities), Ifservices arecanceled
+due toweatheror a Federal Holiday, the selected Contractorshall rollover collections to
+thenext availableday and no laterthan seventy-two(72) hoursfrom thecanceled
+collectionday.
+‘The District shallprovide the Contractorwithall required materialsto assemble curbside
+compost ‘starter kits”materials includingcurbsidecompost bins, lids, kitchen compost
+caddies,compostablebin liners, vinylstickers, and educational materialsand the
+Contractor shall delivercurbside compost “starter kits” toeach participating residential
+houscholdone (1)week prior totheir first weekly collectionday.
+Curbside compost “starterkits” shall bedelivered tothepointofcollection(to be
+established bythe Contractorand OWD) in amannersuch thatresidentsshall
+
+cw117574
+Curbside Composting PilotCollection, Hauling & Processing
+understand where they aretoplace theircontainers forcollection —in frontofthe
+propertyaccessible to the public rightofway. Alll participatinghouseholds shall be
+instructed toconsolidate food waste in compostablebag linersinsidecompost kitchen
+caddies, and then transferthebagged food wasteinto thecurbsidecompost bin for
+eventual placementat thepointofcollection. Followingcollection, residentsshallbe
+encouragedto maintain thecleanlinessof curbsidecompostbinsusing soap andhot water
+to avoidodorsand attractpests orrodents. In instanceswherethe way in whichan
+individual household“setouts”theircurbside compostingbin is notconsistentwiththe
+pilot program’s rules, the Contractor shall providedirect-cartmessagingand/or recover
+the curbside compost bin thereby removingthe household from thepilot.
+C5 CONTRACTOR(S)REQUIREMENTS
+The Disttict is seekingaContractorwhoshall workcloselywith OWDemployees to
+ensure that the curbsidecompostprogram is successful while following all local rules
+and regulations related tomanagingand handlingoffoodwaste,and whoshall ata
+minimumperform thetasksdescribed below.
+C.5.1 Hoursand Days ofOperation
+5.1.1 Dailycollections forthepilot shall beginat 8:00a.m. forthefirst householdon the
+routeand end no later than 2:00p.m. forthe last houschold on theroute. Householdsshall be
+instructed toset-out curbsidecompostbins themorningofcollection toprevent rodents, pests,
+othervectors,and odor.
+€.5.1.2 When any regularservicecollectionday fallson a legal holiday, thecollectionshall roll-
+overoneday as discussed and agreedby theDistrict. For example,if a holiday fallson a
+Thursday,participatinghouseholdsthat normallyreceivecollectionserviceon Thursdayshall be
+collected on Friday andparticipating households that normally receivecollectionserviceon
+Friday shall becollected on Saturday. All containersshall be serviced torecover all food waste
+accordingto this schedule, even when thecollectionbinsarenotcompletely full. Tomitigate
+pest or rodent issuesthe selectedContractormuststrictly adhereto this schedule. A listing of
+legal holidaysthat fall within the termofthis contract has beenprovided below forreference.
+C.5.1.2.1 The Contractorshall observe thesameholidays as the District Government (New
+Year's Day, Martin Luther King Jr’s Birthday Day, Washington's Birthday, DC Emancipation
+Day,Memorial Day,JuneteenthNationalIndependenceDay, IndependenceDay, LaborDay,
+Indigenous Peoples Day, Veteran’s Day, Thanksgiving Day,and ChristmasDay).
+C.5.2. Changesin the HoursofOperation
+C.5.2.1 The District reserves the righttochange, cancel, pause,orreduce the hoursofoperation
+ofany scheduledcollections due toinclement weather, reducedparticipation, funding shortfalls,
+program changes, or otherreasons.
+
+CWI117574
+CurbsideComposting PilotCollection, Hauling& Processing
+5.3 Inclement Weather
+€.5.3.1 The Contractorshall collect regardless of weather, unless inclementweather poses
+insurmountable operational difficulty (e.g., aheavy snowstorm) or safety concems (e.g.,
+flooding, high winds). Ifthe District Government is closed and does not provide collection, then
+thecontractorshall notprovide food waste collection. OWDmaycancel scheduledcollectionsin
+caseofexceptionally inclement weather. Weatherconditions, whichmayresult inthe
+cancellationofa collection,includeheavy snow accumulation,heavyrains, high winds,flooding,
+extremelyhighor low temperatures, andhazardousroadconditions. The decision tocancel
+collectionsmay be based on existinginclementweatherconditions or forecastsofinclement
+weatherconditions. Ifservices are canceled due toweather,the selected Contractorshall roll-
+overcollections to the nextavailable day andno later than seventy-two (72) hours from the
+canceled collection day.
+C.5.4 Frequency ofCollection
+C.5.4.1 The Contractor shall collect food waste weekly from all participating households. The
+collection days are Monday through Friday, and Saturday when a holiday or otherevent such as
+inclement weather shifts the collection schedule by one day. Collection shall never occur on
+Sundays.
+C.5.5 Damage to Privateor Public Property
+€.5.5.1 The Contractor shall assume all responsibilitiesofthework andtake all proper
+precautionsto protect all public and private property from injury and unnecessary interference;
+and ifany public or privateproperty is injured throughthe faultoftheselectedContractor,the
+selectedContractor shall repair or replacethe same at theirowncost and expense.
+5.6 Collection
+C.5.6.1 TheContractorshall onlycollect food wastefrom households participating in thepilot
+program. Theselected Contractorshall workwiththeDistricttodesigncollection routes and
+determine collectionschedules forparticipatinghouseholds. Collection and hauling services
+mustcommenceno laterthan 30days afterthe contract awardand purchase order isreceived.
+5.6.2 The Contractor'semployees shall drivetoeach point-of-collection(POC), walkto the
+compostcollectionbin, pick itup, walkto thecollectionvehicle, unscrew the lid, and dump the
+contents directly into an organics collectionvehicle“hopper”, or collection containers (e.g., 96-
+gallon carts) loaded intoabox truck. The selected Contractoris responsible forthe avoidance
+and immediate clean-upofany spilled food waste. After tipping thecontents ofthecurbside
+‘compostcollectionbin, theselected Contractor’s employees shall securely screw thelid backon
+thebin and return it to the POC.
+
+CWI117574
+CurbsideCompostingPilotCollection, Hauling&Processing
+€.5.6.3 Householdsparticipating in thecurbsidecompost pilotprogramshallbe DPW-serviced
+householdswiththree(3)orfewerdwelling units. The District shall provide the listof
+participatinghouseholds to theselectedContractorupon contractaward.
+C564 The Contractorshall pick up foodwasteweekly from participating
+households usingproperlysealed vehicles that shall not spill any food waste,
+accidentally orotherwise,on the street.
+C565 In instancesofhighlydegraded, damaged, or malfunctioning bins, the Contractor
+shall replacethe existingcompostcollection bin.
+C5.6.6 ServiceRequests
+€.5.6.6.1 The Contractor shall respond to and address all servicerequests including
+complaints, missedcollection, andbrokenorlostcurbsidecompost collectionbins
+and kitchencaddies. Participatingin households shall submit all servicerequests
+regardingthepilotprogram throughthe District's 311 Service Center. DPW shallbe
+responsibleformonitoring, exporting, and relaying all new servicerequests to the
+Contractor.
+C.5.6.6.2 TheContractorshallrespond toand address allrequestsrelatedtomissed
+collectionswithin two(2) business days.
+C.5.6.6.3 The Contractor shall respond to and address all requestsrelated to broken,
+damaged, or lost curbside compost bins and kitchen caddies no later than the
+participating household’snext scheduledcollection date.
+€.5.6.6.4 The Contractor shall respond to and address all othercomplaints or service
+requests, within three (3) business days.
+C.5.6.6.5 TheContractorshall maintain recordsregardingthe natureand timing of
+these servicerequests,andthecompletionofthe requested service. TheContractor
+shall provide a weekly report ofthe statusofall service requests received and
+addressed toOWD viaemail each Friday by 5 pm, with the exceptionofservice
+requests formissed collection. TheContractorshall provide a daily reportofthe
+statusofall missed collectionservice requests receivedand addressed toOWD via
+‘email Mondaythrough Friday by 5 pm. TheContractor shall be responsible for
+executing all service requests, at the direction ofDPW,andOWD shall be
+responsible forclosingoutall service requests within the District’s 311 Service
+Requestplatform.
+C5.6.7 The Contractorshall replace broken,damaged,orlost curbsidecompostcollection
+bins from a participating household no morethantwo (2)times. Participating
+households thathaverequested thereplacement oftheircurbsidecompostcollection
+binmorethantwo (2)times shall, ineffect,beremoved fromthepilotprogram. The
+Contractor shall be responsible for notifyingtheDistrictof
+
+CW117574
+Curbside CompostingPilotCollection, Hauling&Processing
+householdscited morethantwiceand OWD shall makethefinal determinationif the
+household shall beremoved from thepilotprogram. OWDshall beresponsiblefor
+communicatingto the household in theeventofremoval fromthepilot program, and
+the Contractorshallberesponsibleforretrieving curbsidecompostbins from the
+household. The cost forefforts related totheretrieval ofany curbsidecompost
+collectionbinsshould be incorporated into theTotal Price forCLIN0003.
+5.6.8 The Contractor shall ensurethat all food wastecollected through thiscontract is
+delivered forcompostingto a fully permitted, licensed, and compliantprocessing
+facility(See Attachment B forExamplesof Fully-Permitted, Licensed, and
+CompliantProcessing Facilities).
+5.6.9 The Contractorshallonly acceptall materialslisted insection C.5.16 and ensure
+pick-up ofall accepted materials atparticipating households inthispilot project.
+C5.6.10 The Contractorshall collect food wasteona pre-determined collectionday androute
+approved by OWD. Collection days and route foreach Ward shallbenegotiated
+betweenthe Contractor and DPW (SeeAttachment A forUpdated Boundary Maps of
+the District Wards). DPW shall provide theContractor with a listofall opt-ins
+participatinghouseholds following theawardofthecontract.
+C.5.6.11 TheContractor shall startallroutes at 8:00 amandcompleteall routes by 2:00 pm
+each day.
+€.5.6.12 The Contractorshall makecollections tominimize noiseanddisturbancesto
+surroundinghouseholds. Curbsidecompost binsand bin lidsshallbehandled
+carefully bytheselectedContractor, thoroughly emptied, and retumedtothe POC.
+Collectionsshall bemadeinasanitarymanner. Any food waste spilledby the
+selectedContractor shall be cleaned up immediately. The Contractor's collection
+vehicles should beoutfitted with spill-kits specifically forthepurposeofcleaning-up
+wetfoodwaste.
+C.5.6.14 All solid wastecollectors, includingthe selectedContractor or subcontractors,
+operating in the District, and collecting food wastemust acquireabusiness license
+through theDC Departmentof Licensingand ConsumerProtection (DCLP) and then
+register with DPW’s OfficeofWaste Diversion viathe Solid Waste Collector
+Registration and Reportingsystem. All collection vehiclesmust belicensed and
+displaya DPW-issued solid wastecollector vehicledecalon boththedriverand
+passengerside doors.
+All solid waste collectors, including the Contractor or subcontractors, must report
+annual tonnage data via the Solid Waste Collector Registration and Reporting
+system.
+
+Cw1i7574
+Curbside CompostingPilot Collection, Hauling &Processing
+€.5.6.16 The Contractor shall be required to pick up all food waste generated by a
+participating household. No foodwaste shall beallowed to remain in thecurbside
+compostbin afteremptying.
+€5.6.17 All curbsidecompost bins mustbeemptied accordingto schedule, regardlessofif
+they are not completely full.
+C5.6.18 The Contractor shall use diligence and care to prevent damage to property and
+curbsidecompostbins.
+€.5.6.19 Afteremptying thecurbsidecompostbin, itshallbereturned to POCwiththe lid
+screwed on firmly toprevent it frombeinglostor blown by the wind.
+C.5.7 HardshipCollectionServices
+C.5.7.1 The District shall providethe Contractorwitha listofhardshipcollection services for
+participating residentswho arephysicallyunable tosetout orreturn theircurbsidecompost bins
+andwhotypicallyplacetheirrefuseand recycling cartscloserto theirhomesforeasier
+accessibility. TheContractor's employees shallcollect thecollection bin from the household’s
+preferred POC, empty it, andreturn to itthe preferred POC.
+C58. Disposal
+C.5.8.1 The Contractor shall deliverall food wastecollectedto a fullypermitted, licensed,and
+compliantprocessing facility (See Attachment B forexamplesoffully-permitted, licensed, and
+compliantprocessing facilities).
+C.5.8.2 Disposingoffood wasteat alandfillorincinerator, ratherthanat a fully-permitted,
+licensed,and compliantprocessing facility, maybecause forterminationofthisagreement.
+C.5.9 ContentsofDelivered Loads
+C.5.9.1 In theevent materialscollectedby theContractorarerejected by a fully-
+permitted, licensed,and compliantprocessing facilitydue toexcessivecontamination, the
+Contractorshalldocument all rejected/contaminated loads withdate-stamped
+photographs and notify theOWDwithin twenty-four(24) hoursofthe load being
+rejected. The Contractorshall besolelyresponsible foridentifying alternativeprocessing
+options.
+C.5.9.2 Inthe event theContractor failsto provideservicesunder this contract within the
+timeframespecified without priorapprovaloftheDistrict, theDistrictreserves theright
+to have services provided by another vendorat the Contractor’sexpense. Any amounts
+owed tothe District as a resultofthis action shall bededucted from the Contractor's
+monthly invoice.
+
+CW117574
+‘Curbside Composting Pilot Collection, Hauling&Processing
+C.5.10 Staffingand Training
+‘TheContractorshallprovide all staffnecessaryto fulfill therequirements described in
+this proposal.
+5.10.1 TheContractor isandshallperform this agreementas an Independent
+Contractor and, as such, shall have andmaintain completecontrol over all its
+personnel andoperations.
+C.5.10.2 The Contractorshall designatea Supervisor/Managerresponsible for directing
+Contractor suppliedpersonnel for thepurposesofconducting weekly
+collectionoffood waste
+C.5.10.3 The Contractor’s Supervisor/Managershallprovideefficientand continuous
+supervision ofthe work, using theirbestskill and attention.
+€.5.10.4 The Contractorshall provide sufficient personnel tocollect food waste ina timely
+and efficient manner from participating households each week. Required staffing
+levelsshall be mutuallyagreed upon by the District and the Contractor.
+5.105 Anyemployee whodrives or shall drive a vehicle during the employee’semployment
+pursuant tothe Contract must possess a valid driver’s license forthe type ofvehicle
+operated.
+5.10.6 Duringthe collectionoffood waste,the Contractor’s employees shall not be in
+possessionorhaveconsumed alcoholic beverages orillegal drugs.Ifit isdetermined
+thatthisdirective has beenviolated, law enforcement officials shall be immediately
+contacted. Any violationofthisdirective shall begrounds forContract rescission.
+C.5.10.7 The Contractor's employees must be competent in theirwork, and ifanyemployee
+appears incompetent ordisorderly, theDistrict shall notifythe selected Contractor
+andspecifyhow the employee is incompetent ordisorderly. The selectedContractor
+shall thentake thestepsto correct and remedy the situation, includingdisciplinary
+action,ifnecessary.
+C.5.10.8 The Contractor’s employees shall always provide excellent customer service and
+maintain professionalism. This includes politeness, courteousness, and refraining
+from smoking and using profanity whileexecuting on work throughthis contract.
+5.10.9 The Contractor's employees shall be uniformed with the contractors’ business
+nameand shall wearproperpersonal protectiveequipment includingwork boots
+and propersafety reflectiveclothing, foreasy and safeview by others, especially
+when handling any chemicals.
+
+cwi17574
+CurbsideComposting PilotCollection, Hauling &Processing
+5.10.10 All employees shall have aname tagornamepatch on or as partoftheir uniform,
+identifying theirname. All the Contractor’s employees shall presenta friendly
+andprofessional image tothepublic.
+5.10.11 The Contractor shall providethe District with all contactinformationofkey
+employees includingphonenumberand email.
+5.10.12 Neither the Contractor nor anyone employed by the selected Contractor shall
+represent, act, purport to act, orbe deemed to bethe agent, representative, employee,
+orservantofthe District.
+5.10.13 The Contractor shall identify and select employees toberesponsible for
+responding to and communicatingwith the OWD daily, as needed.
+5.10.14 TheContractormust be available tomeetas often as necessary todiscussanyandall
+potential programmaticchanges to ensure pilot success.
+C.5.11 Vehicles
+€.5.11.1 The Contractor shall onlyuseproperlysealed vehicles thatshall not spill
+any food waste, accidentally or otherwise, on thestreet.
+C.5.11.2 The Contractor'svehicles shall haveall the registrations and licenses required to
+operate within the District. Food waste collected through thiscontract shall not be mixed
+withanyothermaterials not associated with this contract.
+C.5.11.3 TheContractorshallutilize as manyvehiclesand drivers as necessaryto
+achievethese service levels and shall incorporate this into the TotalCost forCLIN
+0003, 0004, and 0006.
+CS.A14 The District prefers but does not require the selected Contractor to use low-
+emission vehicles that are appropriate for the job. At a minimum, the
+Contractor’s vehicles shall have:
+‘¢ Park and idle technology, and
+‘* Emission control devices installed, ifnecessary;this includes oxidationcatalysts,
+particulate filters, and/or othercomparable technologiesthatare(1) includedon
+the US Environmental Protection Agency (EPA) Verified RetrofitTechnology
+List and/or theCalifornia AirResources Board (CARB) CurrentlyVerified
+Technologies List; and (2) are verified by EPA or CARB, toprovideaminimum
+emissions reductionof50 percent forVOCs, 40 percent forCO and 20 percent for
+PM.
+* Attainmentofthe required reduction inPM emissionscan alsobeaccomplished
+by using less pollutingClean Fuels. Verified technologies canbeidentifiedon the
+following website: EPA: http://www. vi fit/retrove
+
+cw117574
+CurbsideComposting Pilot Collection, Hauling& Processing
+* ADPW-issued solidwastecollectorvehicle decalonboth thedriverand
+passengerside doorsasreferenced inC.5.6.11.
+5.12 Collection Equipment
+5.12.1 The Contractor's collection equipment, includingbut not limited to
+collectionvehicles, must be kept clean and ingood working condition. The service
+andmaintenanceofcollection equipment shall be in accordance with theOriginal
+Equipment Manufacturer (OEM) requirements.
+C.5.13 Missed orCanceled Collections
+C.5.13.1 Any service requests for missed pick-ups sent to the selectedContractor
+before2:00 p.m. must be collected within one (1)business day. Any requests for
+missed pick-upsreceived after 2:00 p.m. must be collected within two(2)business
+days.
+C5.13.2Ifservices are canceled due toweatherthe selected Contractorshall roll-
+over collectionsto the next day andno laterthan two seventy-two (72) hours from the
+canceled collection day. OWD shall endeavor to inform the selected contractor in
+advance about anyotherpotential disruptions such as knownor anticipated
+construction work, or alley closers, which could impact or disrupt the Contractor's
+food waste collection route.
+C.5.13.3 Curbside compostbins that have been rejected forservice, and forwhich
+direct-cartmessaging has been affixed, shall not be collected, as referenced inC.5.14
+until the issue isresolved by the household. The Contractor shall notbe responsible
+forcollecting foodwaste from thatparticipatinghousehold until the followingweek.
+Ifcontaminantsremain inthe curbsidecollectionbin forthree (3) consecutive
+collectiondays maybe removed from the pilot program.
+5.14 NotificationofImproper Food WasteSetouts and Contamination
+C.5.14.1 The Contractor shall beresponsible forall direct-cartmessaging that clearly
+communicates the presenceofexcessive contamination and any otherlegitimate
+grounds forrejecting food wastecollectionservices. Specifically, theContractor shall
+work withthe OWD to design thedirect-cartmessagingtags (“oops” tags) toaffix to
+thecurbsidecompost bin. These “oops”tags shall identify thecontaminant type(s)
+that triggered therejectionofservicedecision.
+€.5.14.2 The Contractor shall not be responsible for collecting food waste from
+that participating household until the following week and shall defer to OWD for
+weekly changes indirect-cart messaging strategies.
+
+cwii7574
+CurbsideComposting PilotCollection, Hauling & Processing
+Reasons forthe Contractor torejectthecontents ofa bin include butarenot limited to
+thepresenceofnon-compostable plasticbags, film, any and all food packaging,or
+any material thatis not included in C.5.16.
+€.5.143 In the event that Contractor shall rejectthe contentsof a bin, Contractor
+shall affix an “oops” tag to the curbside compost binhandle to provide feedback
+about whythebinwas rejectedand instruct the residentto remove the
+contaminatesprior to theirnextcollectionday. The cost forthese efforts(time,
+materials, and labor) should be incorporated into theTotal Price forCLIN 0003.
+C.5.14.4 The Contractorshall keep recordsofall participatinghouseholds who
+receive “oops” tags. Participating households notified ofexcessive contamination or
+improper set-outoftheir foodwaste collection bin forthree(3) consecutive
+collectiondays mayberemoved fromthepilotprogram. The Contractor shall be
+responsible for notifying theDistrict oflow-performing households andOWD shall
+make the final determination ifthehousehold shall be removed from thepilot
+program.
+5.14. Shouldahousehold beremoved fromthe pilotprogram, OWDshall be
+responsible for informingthehousehold and theContractoroftheirremoval from
+theprogram. The household shall be instructed to leavetheir emptycompost
+collection bin at theirpointofcollection for theselected Contractorto retrieve. The
+Contractorshallremove this household from theircollection route. Thecost of
+effortsrelated to theretrievalofall District-provided equipment should be
+incorporatedinto theTotal Price for CLIN 0003.
+CSS Curbside Compost Collection Bins, Lids,Kitchen Compost Caddies,and Bin
+Liners
+5.15.1 The District shallprovide theContractor with curbsidecompostbins,
+lids, compostable bin liners, and kitchen compostcaddies forparticipating
+householdsto use to collect their foodwaste. Participating households shall be
+instructed that all foodwaste mustbecontained incertified compostable binliners
+providedby the District, prior to placing it into theircurbside compost bins.
+The Contractor shall beresponsible formanaging and storing all materials
+C5.15.2
+provided by the District ofColumbia, in a location agreed upon between the
+Contractor and the District ofColumbia, as well as maintainingan inventory of
+replacement bins.
+C.5.15.2.1 The Contractor shall provide to the District at the time of bid
+proposed storage locations forall materialsprovided by the District ofColumbia
+under this contract.
+
+CW117574
+Curbside CompostingPilotCollection, Hauling&Processing
+The Contractor shall deliver thecurbsidecompost “starterkits”, toall participating
+C5153
+households, which shall include the followingmaterials (at aminimum):
+One (1) curbside compost bin and lid
+One (1)kitchencompost caddy
+Two (2) vinyl stickers(tobe applied tothe curbside compostbin and kitchen
+compostcaddy)
+© Four (4) 25-count rollsofcompostablebin liners, and
+* Educational materials providedby the District
+Toassemble the“starter-kits”,the Contractor shall beresponsible for affixinglarge
+C5154
+vinyl stickerstoeverycurbsidecompost bin, and asecond smaller vinyl stickertothe
+kitchen compost caddy. TheContractorshallplace four(4) 25- countrolls of
+compostable bin liners and theeducationmaterialsinsideeach curbsidecompost bin
+with the lid affixed forthepurposeofdelivery. Thecontractor shall complete
+assembly ofthe“‘starter-kits”no later than (2)weeks priorto the startofcollection.
+C.5.15.5TheContractorshalldeliverthecurbsidecompost “starter-kits”no laterthan
+(1) week prior tothestartofcollection.
+C.5.16 Acceptable/NotAcceptableMaterials:
+C5161 AcceptableMaterials:
+Fruit and vegetable scraps and trimmings;
+Coffee grounds or loosetea
+Meat, bones, and dairy;
+Bread, grains, cereals, rice, andpasta;
+Egg shells, nutshells, andcorncobs;
+Stale beans, flour, and spices;
+Any other foodand organic items that theselectedContractordeems
+acceptable, inagreementwith theDistrict.
+C5.16.2 Not Acceptable Materials:
+Yardwasteofany type(ic., leaves, branches, woody debris)
+Cutor dried flowers;
+* Food-soiled paper, includingnapkins, papertowels,and takeout
+containers;
+Coffeefilters, paperteabags
+Plastic bags, wraps, orfilm;
+Fats, oil, and grease;
+
+CW117574
+CurbsideComposting PilotCollection, Hauling & Processing
+© Diapers;
+Petwaste;
+‘* Biodegradable or compostable food serviceware (i.e., cups, straws, takeout
+containers, and utensils) and all packaging(biodegradable, compostable, or
+other);
+‘© Coatedorwaxed paperorcardboardboxes (i.e., paperbags, plates, and
+bowls);
+Non-compostable materials like plastic, metals, foil, glass, or Styrofoam;
+Inedible kitchengrease, grease from sewer traps, orany liquids;
+Diseased,orinsect-infested houseplants, invasive plants,orcontaminated soil
+TheDistrict ofColumbiareservesthe right to revise the listofacceptableand
+non-acceptable itemsatany time, and as agreed toby theselectedContractorand
+the Contractor’s processingfacility (composting facility).
+C517 SuitableFood WasteSetouts
+The Contractor shallcollect food waste setouts thatmeetthespecifications set forth
+C5171
+in this contract. “Sctout”isdefined as when acustomerplaces or‘sets out” their
+curbsidecompostcollection binat thePOC atthepropertimeandon thecorrect day
+ofcollection.
+Hauling, Processing, and Distribution
+C518
+C5181 TheContractor shall be required to haul food waste collected underthiscontracttoa
+fully permitted, licensed, andcompliant processing facility, with demonstrated
+experience inprocessing food wastetoreceive/accept, process, and provide finished
+composttothe District from the District’s curbside composting pilot program.
+C5.18.2 The Contractorshall utilizea fullypermitted, licensed,and compliantprocessing
+facility toaccept and process (compost)the District’s food waste (See Attachment
+Bforexamplesoffully-permitted, licensed,andcompliantprocessing facilities).
+‘TheContractorshall identify theprocessing facilityto be used underthis contract,
+C5.18.3
+and providesupporting documentation atthetimeofthe bid and annually(bi-
+monthly, quarterly,oruponrequest)documentation verifying theprocessing
+facility is in compliancewith Federal, State, and Local requirements.
+C5184 The Contractor shall be responsible for maintaining good-standing with their
+arrangement with the contracted facility including any contingencies in theeventofa
+facilityshut-down, facilitycapacity issues,orotherunforeseen eventsthat prevent the
+Contractorfrom accessingthechosen facility.
+
+CW117574
+CurbsideComposting PilotCollection, Hauling&Processing
+5.18.5 The District shall pay theContractor(s) aper-tonprice forthe processing offood
+waste. The cost forthis effort, includingnecessary fees incurred foruseofthefully-
+permitted, licensed, and compliantprocessing facility, shallbeincorporated intothe
+Total Price forCLIN 0005.
+€.5.18.6 The Contractor shall deliver and perform all servicesunderthis contract to the
+highest industry standards for services ofthis type, done by those normally
+‘engaged in this typeofbusiness, and incompliance with all applicable codesand
+regulations.
+5.18.7 The Contractor shall be responsible forand comply with all cities,state, and federal
+regulations and ordinances whileperforming theprescribedwork, including, butnot
+limited to material transport andprocessing, environmental discharges, safety, fire,
+and containers in therightofway.
+C5.18.8 The Contractor shall, at theend ofthepilotprogram, beresponsible forthe supply
+and distribution ofone (1) five(5) Ib. bags offinished, biologically stable compost
+(soil product) to eachofthe 12,000 participating households. The cost forthese
+efforts(time, materials, and labor) should beincorporated into theTotal Price for
+CLIN 0006.
+C.5.19 Education
+€.5.19.1 The Contractor shall work withOWD employees to educate participating
+households aboutthe program. Specifically, the selected Contractorshall distribute
+Educational Materialsdevelopedby OWD to participating households as part of the
+curbsidecompost” starter kits”. The selected Contractor shall alsoprovidedirect,
+feedback toparticipating houscholdswhencontaminated materials arefound by using an
+“oops” tagprovided by the Contractor as referenced in C.5.14. Contractors willingto
+helpdesign anddevelop educational materialsshould indicate theiroutreach and
+educationcapabilities in theirresponseto this requestforproposals.
+C.5.20 Reporting and Data Tracking
+DPW shall provide theContractor with thesoftware, ifnecessary, to achieve thepilot's
+data collection and reportinggoals. All data collected duringthepilot is thepropertyof
+theDistrict andshall beautomaticallytransferred totheDistrict whenservice is
+complete.
+€.5.20.1 The Contractorshall track andprovidetheDistrictwith data to includeset
+out/participation ratesand pounds/tons collectedand reported monthly. Contractors
+shouldclearly explain howthis data should be tracked and reported.
+
+Cw117574
+CurbsideComposting PilotCollection, Hauling & Processing
+C.5.20.2 The Contractorshall track and provide theDistrict withweekly servicerequest
+reports and a daily servicerequestreport formissedcollections as referenced in
+C5.6.3.5.
+C.5.20,3 Theshall maintain accuraterecordsof thequantitiesof materials transported to
+each Districtdetermined fully permitted, licensed, andcompliantprocessing facility for
+thedurationofthe contract. Tonnage delivered toeach facility should be reported
+monthly.
+C.5.20.4 The Contractor shall provide receipts verifying the delivery date and weight
+of all food waste delivered to authorized processors as attachments to invoices when
+submitting tothe OWD forpayment.
+€.4.20.5 At theconclusionofthe pilotprogram, thecontractor shall also work with
+OWD employees toanalyze and reporton the program. The Contractor shall clearly
+explain howdata shall be trackedand reported.
+gibleParticipatingHouseholds
+C521
+C.5.21.1 The District shall beusinganopt-in(sign-up)model and shallselectthe 12,000
+householdsbased on a“firstcome, first served” basis. Householdsres id ing inproperties
+with three(3) or fewerunits areeligibletoenroll inthecurbsidecomposting pilot
+program. Householdsshall opt-in on afirst-come, first-servedbasiswith amaximum of
+1,500 households perWard. The OWD shall work withthe Contractorif thereare any
+other specificeligibilityrequirementsforparticipation.
+C.5.21.2 Householdsthatdo not receive DPW collectionorreside in a property withfour
+(4)ormore unitsare noteligibletoparticipate in thepilotprogram and,therefore, shall
+notbeprovidedcollectionservice by theContractorwithinthis pilotprogram.
+C.5.22 Registration
+C5.22.1 The OWD employees shoulddevelop an onlineapplicationfor residents and
+manage the opt-in registration process. Followingthe contract award, the Districtshall
+provide the listofparticipatinghouseholds tothe Contractor.
+C.5.23 Budget
+€.5.23.1 The budgetproposal shall include all labor,materials, equipment, education,
+and other costsnecessarytooperate a residential curbsidecompostpilotprogram as
+outlined inthis Request forProposal. Theproposal shall detail thesecosts, includingthe
+perhousehold cost tooperate theprogram, thecost ofdelivery forthecurbside compost
+“starterkits”, and the costoftransporting and processing collected food waste.The
+budgetproposal shall coverthecost fortheentire 52-weekpilotprogram.
+
+CW117574
+Curbside Composting PilotCollection, Hauling & Processing,
+SECTION D: PACKAGINGAND MARKING
+D.l The packaging and markingrequirements forthis contractshallbe governed by clause
+number (2), Shipping Instructions-Consignment,oftheGovernmentofthe District of
+Columbia's StandardContractProvisions forusewithSuppliesand Services Contracts,
+dated July 2010. (Attachment J.1)
+SECTION E: INSPECTION AND ACCEPTANCE
+E.1 The inspection and acceptancerequirements forthis contract shall be governed by clause
+number clause numbersix (6), InspectionofServices of theGovernmentofthe District
+ofColumbia's Standard Contract Provisionsforusewith Suppliesand ServicesContracts,
+dated July 2010. (Attachment J.1)
+
+CW117574
+Curbside Composting PilotCollection, Hauling& Processing
+SECTION F: PERIODOF PERFORMANCE AND DELIVERABLES
+Fal TERM OFCONTRACT
+Thetermofthecontract shall beforaperiod of365 calendardays fromdateofaward
+ofthe letter contractdatedJuly 19,2024andmadea partofthisdefinitized contract.
+F2
+RESERVED
+F3
+DELIVERABLES
+The Contractorshall perform theactivitiesrequired to successfully complete the
+District's requirements and submiteachdeliverabletotheContractAdministrator
+identified in sectionG.9 inaccordance withthe following:
+‘CLIN | Deliverable Qua|Fnormtat/iMetthodyof |DueDate
+Delivery
+The Contractor shall submit to the District, as adeliverable, the report described in
+F31
+section H.5.5 which is required by the 51% District ResidentsNew Hires Requirements
+and First Source EmploymentAgreement.If the Contractor does not submit thereportas,
+partofthe deliverables, the District shall not makefinal payment to theContractor
+pursuant to section G.3.2.
+
+CW117574
+Curbside CompostingPilotCollection, Hauling&Processing
+SECTIONG: CONTRACTADMINISTRATION
+INVOICEPAYMENT
+G1
+GA The District will make payments tothe Contractor, upon the submission ofproper
+invoices at the prices stipulated in this contract, for supplies delivered and acceptedor
+servicesperformed and accepted, less any discounts, allowances or adjustmentsprovided
+for in this contract.
+GA2 TheDistrict will pay the Contractoron orbeforethe 30 day afterreceivingaproper
+invoicefrom the Contractor.
+G2 INVOICE SUBMITTAL
+The Contractor shallcreate and submit payment requests in anelectronic format through
+G21
+the DC Vendor Portal, https://vendorportal.dc.gov
+G22 The Contractorshall submit properinvoices onamonthly basis oras otherwisespecified
+inSection G.4.
+Toconstitute aproperinvoice, the Contractor shall enterall required information into the
+G23
+Portal after selectingthe applicable purchaseordernumber which is listedon the
+Contractor's profile.
+G3 FIRST SOURCEAGREEMENT REQUEST FORFINAL PAYMENT
+G31
+Forcontractssubject to the 51% District Residents New Hires Requirements and First
+SourceEmployment Agreement requirements, final request forpayment must be
+accompanied by thereportor a waiver ofcompliance discussed in section H.5.5.
+The District shall notmake final paymenttotheContractoruntil the agencyCFO has
+G32
+received theCO’s final determination or approval ofwaiver ofthe Contractor's
+compliancewith 51% District ResidentsNew Hires Requirements and First Source
+Employment Agreement requirements.
+G4
+PARTIAL PAYMENTS,
+Unlessotherwisespecified in this contract, payment shall bemadeonpartialdeliveries of
+goodsand servicesacceptedby theDistrict if:
+a) The amount due on the deliverieswarrants it; or
+b) The Contractorrequests it and theamount dueon thedeliveries is in accordance with
+the following:
+
+CWI117574
+CurbsideCompostingPilot Collection, Hauling& Processing
+‘* "Paymentshall bemade oncompletion and acceptanceofeach item forwhichthe
+price is stated inthe Schedule in Section B".
+"Payment shall bemade on completion and acceptanceofeach item in accordance
+with the agreed upon delivery schedule”.
+‘* "Paymentshall be madeon completion and acceptanceofeach percentageor
+stageof work inaccordancewith thepricesstated intheSchedule in Section B.";
+and
+) Presentationof a properlyexecuted invoice.
+ASSIGNMENTOF CONTRACTPAYMENTS
+Gs
+G51 Inaccordancewith27 DCMR3250, the Contractormayassign to a bank, trust company,
+orotherfinancing institution fundsdueortobecomedueas aresultofthe performanceof
+thiscontract.
+Any assignment shallcoverall unpaid amounts payable underthis contract and shall not
+G52
+be made tomore thanone party.
+G53 Notwithstanding anassignmentofcontract payments, theContractor, nottheassignee, is
+requiredtoprepare invoices. Wheresuch anassignmenthasbeenmade, theoriginal
+copyofthe invoicemust referto theassignment and mustshow thatpaymentofthe
+invoice is to bemadedirectlyto the assignee as follows:
+“Pursuant to the instrument ofassignmentdated .makepaymentofthis
+invoice to (name and addressofassignee).”
+G.6 THE QUICKPAYMENT ACT
+G61 InterestPenalties toContractors
+G.6.1.1 The District will pay interest penaltieson amounts due totheContractor underthe
+QuickPaymentAct, D.C. OfficialCode§ 2-21.01 etseq., asamended, fortheperiod
+beginningon the day aftertherequired payment date and ending on thedateon which
+paymentoftheamount is made. Interest shall becalculated at therateofat least 1.5%
+permonth, Nointerest penalty shallbepaid ifpayment forthecompleteddelivery of
+the itemofpropertyorservice is madeon orbefore the required payment date. The
+required payment dateshallbe:
+G.6.1.1.1 Thedate on which payment isdue isdue underthe termsofthe contract;
+G.6.1.1.2 Not laterthan 7calendardays, excluding legal holidays, afterthedateofdelivery of
+‘meat or meat foodproducts;
+
+CW117574
+CurbsideCompostingPilotCollection, Hauling&Processing
+G.6.1.1.3Not laterthan 10calendardays,excluding legal holidays, afterthe date ofdeliveryof
+aperishable agricultural commodity; or
+6.1.1.4 30 calendardays, excludinglegal holidays, afterreceivingaproper invoice forthe
+amountofthepaymentdue.
+G6.1.2 No interest penaltyshallbedue totheContractorifpayment forthe completed
+delivery ofgoods orservices is madeon orafter:
+G.6.1.2.1 3"dayafter the required paymentdate formeat or a meat food product;
+G.6.1.2.2 5" day afterthe required payment date for an agricultural commodity; or
+G.6.1.2.3 15" day afterany otherrequired paymentdate.
+G.6.1.3 Any amountofan interest penalty which remainsunpaid at theendofany 30-day
+period shall be added totheprincipal amountofthedebt and thereafter interest
+penalties shall accrueonthe added amount.
+G.6.2 Payments toSubcontractors
+G.6.2.1 The Contractor musttakeoneofthe followingactions withinseven(7)daysofreceipt
+ofany amount paid to theContractorby the District forwork performed by any
+subcontractorunderthecontract:
+G.6.2.1.1 Pay thesubcontractor(s) fortheproportionateshareofthetotal payment received
+from theDistrict that is attributable tothe subcontractor(s)forworkperformed under
+thecontract;or
+6.2.1.2 Notify theCO and thesubcontractor(s), in writing,of the Contractor’s intentionto
+withholdall or partofthe subcontractor’s payment and state thereason forthe
+nonpayment.
+6.2.2 The Contractor mustpay any subcontractororsupplier interest penaltieson amounts
+due to thesubcontractor orsupplier beginningon theday afterthepayment is due and
+ending on thedate on which thepayment ismade. Interest shall becalculated atthe
+rate ofatleast 1.5%permonth. No interestpenalty shall bepaidon the following if
+payment forthecompleted delivery ofthe itemofpropertyorserviceis made on or
+before the:
+6.2.2.1 3" day after the required payment date formeatormeatproduct;
+G.6.2.2.2 5® day aftertherequired payment date foran agricultural commodity; or
+
+cwi17574
+Curbside Composting PilotCollection, Hauling & Processing
+G.6.2.2.3 15"day afterany otherrequired paymentdate.
+G.6.2.3 Anyamountofaninterest penalty whichremains unpaid by theContractor attheend ofany
+30-dayperiod shallbeadded tothe principal amountofthe debttothesubcontractor and
+thereafter interestpenalties shallaccrueon the addedamount.
+G.6.2.4 Adisputebetween theContractorand subcontractorrelatingtotheamountsorentitlementofa
+subcontractortoapaymentoralatepayment interestpenaltyundertheQuickPayment Act
+does notconstitute adisputetowhichtheDistrict isa party. TheDistrict may notbe
+interrupted inanyjudicial oradministrativeproceeding involvingsuch adispute.
+G63 Subcontract requirements, TheContractorshall includeineach subcontractunderthi
+contract a provisionrequiringthesubcontractor toincludeinitscontract with any lower- tier
+subcontractororsupplierthepaymentandinterest clausesrequiredunderparagraphs (1)and
+(2) ofD.C. Official Code§2-221.02(4).
+G7 CONTRACTINGOFFICER(CO)
+Contracts will beentered intoand signedonbehoaflthfe Districtonlyby contracting
+officers. The contact informationfortheContracting Officer
+ToniaC.Nixon
+OfficeofContractingand Procurement
+2000 14th Street NW 6th Floor
+Washington DC 20009
+Telephone: 202-671-0470
+E-mail address: tonia.nixon@dc.gov
+G8 AUTHORIZEDCHANGES BYTHECONTRACTING OFFICER
+G81 The CO istheonlyperson authorized toapprovechanges inanyoftherequirements of
+this contract.
+G82 ‘The Contractorshall notcomply with anyorder, directiveor requestthatchanges or
+modifies therequirementsofthis contract,unlessissued in writing andsigned by the CO.
+In theevent theContractoreffectsany change attheinstructionor requestofany person
+G83
+other than theCO, the changewill beconsidered to have been madewithoutauthority
+and noadjustmentwill be made in thecontractpricetocoverany cost increase incurred
+as a resultthereof.
+G9 CONTRACTADMINISTRATOR (CA)
+The CA isresponsible for general administrationofthe contract and advising theCO as
+GIL
+to theContractor's compliance or noncompliance with the contract.TheCA has the
+
+CW117574
+CurbsideCompostingPilotCollection, Hauling& Processing
+responsibilityofensuringthe workconformsto the requirementsofthecontract and such
+otherresponsibilitiesandauthorities as maybespecified inthecontract. These include:
+G.9.1.1 Keeping the CO fully informed ofany technical or contractual difficulties encountered
+during the performance period and advising the COofany potential problem areas under
+the contract;
+G9.1.2 Coordinating site entry forContractorpersonnel, ifapplicable;
+G9.1.3 Reviewing invoicesforcompletedwork and recommending approval by theCOif the
+Contractor'scostsare consistentwith the negotiated amounts and progress is
+satisfactory and commensuratewith therateofexpenditure;
+9.1.4 Reviewing and approving invoices fordeliverables to ensure receipt ofgoods and
+services. This includes the timelyprocessingofinvoicesandvouchers inaccordance
+with the District’s paymentprovisions; and
+G.9.1.5 Maintaining a filethat includes allcontract correspondence, modifications, records of
+inspections (site, data,equipment)and invoiceorvouchers.
+G92 Theaddress and telephonenumberoftheCA is:
+Rachel Manning,Program Analyst
+Office ofWaste Diversion
+DepartmentofPublicWorks
+250 E StreetSW, 4th Floor
+Washington, DC20024
+G.9.3, The CA shall NOT have the authority to:
+1. Award, agree to, or sign anycontract, delivery orderortask order. Only theCO
+shall makecontractual agreements, commitmentsormodifications;
+2. Grantdeviationsfromor waive anyofthetermsand conditionsofthecontract;
+3. Increase thedollarlimitofthecontractorauthorizework beyond thedollar limit
+ofthecontract,
+4. Authorizetheexpenditureoffundsby theContractor;
+5. Changetheperiodofperformance;or
+6. AuthorizetheuseofDistrict property, except as specifiedunder thecontract.
+G94. The Contractorwillbe fullyresponsible forany changes notauthorized inadvance, in
+writing, by theCO; maybedenied compensationor otherreliefforany additional work
+performed that is notsoauthorized; and mayalso berequired, atno additionalcost tothe
+District, totake all correctiveactionnecessitated by reasonoftheunauthorizedchanges.
+
+cw1i7574
+Curbside Composting PilotCollection, Hauling & Processing
+SECTION H: SPECIALCONTRACT REQUIREMENTS
+H.1 HIRING OF DISTRICT RESIDENTS AS APPRENTICES AND TRAINEES
+H.L.1 Forall new employment resulting fromthis contractor subcontracts hereto, as defined in
+Mayor'sOrder83-265 and implementinginstructions,theContractor shall use its best
+efforts tocomply withthe followingbasic goal and objectives forutilization ofbona fide
+residentsofthe District ofColumbia in each project’s laborforce:
+H.1.1.1 At least fifty-one(51) percentofapprentices and trainees employedshall be residentsof
+the District ofColumbia registered in programs approved by the District ofColumbia
+Apprenticeship Council
+H.1.2. TheContractorshall negotiatean Employment Agreement with the Department of
+Employment Services (DOES) forjobs created as a result ofthis contract. TheDOES
+shall be the Contractor’s first source ofreferral forqualified apprentices and trainees in
+the implementation ofemployment goals contained in this clause.
+H.2_ DEPARTMENTOFLABORWAGE DETERMINATIONS
+TheContractor shall be bound by the U.S. DepartmentofLaborWage Determination 2015-4281,
+Revision#datedJuly 22, 2024, issued by the U.S. DepartmentofLabor in accordance with the
+Service ContractAct, 41 U.S.C. § 351 etseq., and incorporated herein as Section J.2. The Contractor
+shall bebound by thewage rates fortheterm ofthecontract subject to revision as stated herein and in
+accordancewith clause 24of theSCP. Ifan option is exercised, theContractorshall bebound by the
+applicablewage rates at thetimeofthe exercise oftheoption.Ifthe option is exercised and theCO
+obtainsarevisedwage determination, therevised wagedetermination is applicable fortheoption
+periods and the Contractor may be entitled to anequitable adjustment.
+H3 PREGNANT WORKERS FAIRNESS
+H.3.1, TheContractorshall comply with the Protecting Pregnant Workers FairnessActof 2016,
+D.C. Official Code § 32-1231.01 etseq. (PPWF Act).
+H.3.2, TheContractorshall not:
+(a) Refuseto make reasonable accommodations to theknown limitationsrelated to
+pregnancy, childbirth, related medical conditions, or breastfeeding foran employee,
+unless theContractorcandemonstrate that theaccommodationwould imposean undue
+hardship;
+(b)Take adverse action against an employeewho requests or uses a reasonable
+accommodation inregard to the employee'sconditionsorprivileges ofemployment,
+including failing toreinstatetheemployeewhen theneed forreasonable accommodations
+
+CW117574
+CurbsideCompostingPilotCollection, Hauling& Processing,
+ceases to the employee's originaljobor toan equivalent position with equivalent:
+(D)Pay;
+(2) Accumulated seniorityand retirement;
+(3)Benefits; and
+(4)Otherapplicable service credits;
+(©) Denyemploymentopportunities toan employee, or ajobapplicant,if the denial is
+based on theneedofthe employer to make reasonable accommodationstothe known
+limitations relatedtopregnancy,childbirth, related medical conditions,or breastfeeding;
+(d) Requirean employee affectedby pregnancy, childbirth, related medicalconditions,or
+breastfeedingtoaccept accommodationthat the employee chooses notto acceptif the
+employeedoes nothave a known limitation relatedto pregnancy, childbirth,related
+medical conditions, or breastfeedingor theaccommodation isnot necessary forthe
+employeetoperform herduties;
+(©) Requireanemployee to take leaveifreasonableaccommodation can beprovided; or
+(®) Take adverse action againstanemployee whohasbeenabsent from work as aresult
+ofa pregnancy-related condition, includingapre-birthcomplication.
+The Contractorshallpostand maintain inaconspicuousplace a noticeofrightsinboth
+H33
+English and Spanish and provide writtennotice of an employee's rightto a needed
+reasonable accommodation related topregnancy,childbirth, related medicalconditions,
+or breastfeedingpursuant tothePPWF Act to:
+(a)New employeesat thecommencement ofemployment;
+(b) Existing employees; and
+(©) An employeewhonotifiestheemployerofherpregnancy, or otherconditioncovered
+by the PPWF Act, within 10daysofthenotification,
+‘TheContractor shall provide anaccurate writtentranslationofthenoticeofrightstoany
+H34
+non-Englishornon-Spanish speakingemployee.
+H3.5 ViolationsofthePPWFAct shall be subjecttocivil penalties as described in the Act.
+
+CW117574
+CurbsideComposting PilotCollection, Hauling& Processing
+H4 UNEMPLOYEDANTI-DISCRIMINATION
+The Contractor shall comply withthe Unemployed Anti-Discrimination Act of 2012,
+H41
+D.C. Official Cod§e 32-1361 etseg.
+H42 TheContractorshall not:
+(a) Fail or refuse toconsider foremployment, orfail orrefuse tohire, anindividual as an
+employeebecauseofthe individual's statusas unemployed; or
+(b) Publish, inprint, on the Internet, orinany othermedium, an advertisementor
+announcement forany vacancy in ajob foremployment that includes:
+(1) Any provision statingor indicatingthatan individual's status as unemployed
+disqualifies the individual forthejob; or
+(2) Any provisionstating or indicatingthat anemployment agency willnot consider
+or hireanindividual foremploymentbasedon that individual's status as unemployed.
+H43 ‘ViolationsoftheUnemployed Anti-Discrimination Act shall besubjecttocivil penalties
+as described in the Act.
+HS 51% DISTRICT RESIDENTS’ NEW HIRES REQUIREMENTS AND
+FIRST SOURCE EMPLOYMENTAGREEMENT
+DeleteArticle 35, 51% District ResidentsNew Hires Requirements and First Source
+Employment Agreement,of the StandardContract ProvisionsdatedJuly 2010 foruse
+with District ofColumbiaGovernment Suppliesand Services Contractsand substitutethe
+following Section H.S 51% DISTRICT RESIDENTS NEW HIRES
+REQUIREMENTS AND FIRST SOURCEEMPLOYMENT AGREEMENT in its
+place:
+HS 51% DISTRICTRESIDENTS’ NEWHIRES REQUIREMENTS AND
+FIRST SOURCE EMPLOYMENT AGREEMENT
+HS.1 For contracts forservices in theamountof$300,000ormore, theContractorshall
+comply with theFirst Source EmploymentAgreement Act of1984, as amended, D.C.
+Official Cod§e 2-219.01 etseq. (First SourceAct).
+‘TheContractorshall enter into and maintainduringthetermofthecontract, a First
+H5.2
+Source EmploymentAgreement(Employment Agreement)withtheDistrict ofColumbia
+Department ofEmployment Service's (DOES), in which theContractorshall agree that:
+(a) The first sourceforfinding employees to fill alljobscreated inorder to fulfilthe
+contract shall bethe First SourceRegister; and
+
+CW117574
+CurbsideComposting PilotCollection, Hauling &Processing
+(b) The first reason for findingemployees to fill anyvacancy occurring in alljobs
+covered by the Employment Agreement shall bethe First Source Register.
+‘TheContractorshall notbeginperformanceofthecontractuntil its Employment
+HS3
+Agreement hasbeenaccepted byDOES. Once approved,the Employment Agreement
+shall not be amended except with theapprovalofDOES.
+HS4 TheContractoragreesthat at least51%ofthe newemployees hiredto perform the
+contract shall be Districtresidents.
+The Contractor's hiringand reportingrequirementsundertheFirst Source Actand any
+HSS
+rules promulgated thereunder shall continue fortheterm ofthecontract.
+TheCO may impose penalties, including monetary finesof5%ofthetotal amountofthe
+HS.6
+direct and indirect labor costs ofthe contract, fora willfulbreach ofthe Employment
+Agreement, failure tosubmit the required hiring compliancereports, or deliberate
+submission of falsified data.
+HS.7 Ifthe Contractor does notreceivea good faith waiver, the CO may also impose an
+additional penaltyequalto 1/8 of 1%ofthe total amountofthedirect and indirect labor
+costsofthe contract foreach percentage by whichtheContractor fails tomeet its hiring
+requirements.
+Anycontractor which violates, more than once within a 10-yeartimeframe, the hiringor
+HSS
+reporting requirementsofthe First Source Actshall be referredto fordebarment fornot
+more than five(5) years.
+The contractormay appeal anydecision ofthe CO pursuantto thisclauseto the D.C.
+HS9
+ContractAppeals Board as provided in clause 14 ofthe SCP, Disputes.
+H.5.10 The provisionsofthe First Source Act do not applyto nonprofitorganizations which
+employ 50 employees or less.
+HG RESERVED
+HT RESERVED
+RESERVED
+HS
+HS SUBCONTRACTING REQUIREMEN’
+HO. Mandatory Subcontracting Requirements
+H.9.1.1 For all contracts inexcess of$250,000, at least35%ofthedollarvolumeofthe
+contract shallbe subcontracted to qualified smallbusinessenterprises(SBEs).
+
+cw1i7574
+Curbside Composting PilotCollection, Hauling &Processing
+9.1.2 Ifthere are insufficient SBEs to completely fulfill the requirementofparagraph
+H.9.1.1, then thesubcontracting maybesatisfied by subcontracting 35%ofthedollar
+volumetoany qualifiedcertified businessenterprises (CBEs); provided, however, that
+all reasonable efforts shall bemadeto ensure that SBEs aresignificant participants in
+theoverall subcontracting work.
+H.9.1.3 A primecontractorthat iscertified by DSLBDas a small, local,ordisadvantaged
+businessenterpriseshall notberequired tocomply withtheprovisionsofsections
+H9.1.1 and H9.1.2.
+H9.1.4 Exceptas provided inH.9.1.5 and H.9.1.7,aprime contractor that is aCBE and has
+beengranted abidpreferencepursuantto D.C. Official Code § 2-218.43, or is selected
+through a set-asideprogram, shallperform atleast 35% ofthecontractingeffort with
+its ownorganization and resourcesand, if itsubcontracts, 35%ofthesubcontracting
+effortshall bewith CBEs. A CBEprimecontractor thatperforms lessthan 35%ofthe
+contracting effortshallbe subjectto enforcement actions underD.C. OfficialCode §
+2-218.63.
+Ifthe prime contractor is a certifiedjoint venture and hasbeengranted a bid
+HLS
+preference pursuantto D.C. Official Code § 2-218.43, oris selected through a set-
+asideprogram, theCBEmemberofthe certifiedjoint venture shall perform at least
+50%ofthe contracting effortwith its ownorganization and resourcesand,ifit
+subcontracts, 35%ofthesubcontracting effort shall bewith CBEs. IftheCBE
+memberofthecertifiedjoint venture prime contractorperforms less than 50%ofthe
+contractingeffort, thecertifiedjoint venture shallbe subject toenforcement actions
+under D.C, Official Code § 2-218.63.
+H.9.1.6 Each CBE utilized tomeet these subcontractingrequirements shall perform atleast
+35%ofits contractingeffortwith its own organization and resources.
+H.9.1.7 A prime contractor that is aCBE and has been granteda bid preference pursuant to
+D.C. Official Code§ 2-218.43,or is selectedthrough aset-asideprogram, shall
+perform at least 50%oftheon-site workwithits ownorganizationand resourcesifthe
+contract is$1 million or less.
+H9.2 SubcontractingPlan
+Iftheprimecontractor is required to subcontract underthis contract, itshall submit a
+subcontractingplan as partofthebid and itmay onlybe amended aftertheaward with
+theprior written approvalof theCOand Director ofDSLBD. Anyreduction inthe dollar
+volumeofthe subcontracted portionresultingfrom an amendmentoftheplanafterward
+shall inureto thebenefitof theDistrict.
+Each subcontracting plan shall include the following:
+
+CWI17574
+CurbsideCompostingPilotCollection, Hauling&Processing
+q@ ‘The nameandaddress ofeachsubcontractor;
+(2) Acurrentcertification numberofthesmall orcertified business enterprise;
+(3) The scopeofwork tobeperformed by eachsubcontractor; and
+(4) Theprice thattheprime contractor will pay each subcontractor.
+H93
+CoopfSuibconetrascts
+Within twenty-one(21) daysofthe dateofthe award, the Contractor shall provide fully
+executedcopiesofall subcontracts identified inthesubcontractingplan tothe CO, CA,
+DistrictofColumbia Auditor and the Director ofDSLBD.
+H94 ‘SubcoPlnantComrplaiacncetReiporntigng
+H9.4.1 The Contractorshall submit aquarterly report to theCO, CA, DistrictofColumbia
+Auditorandthe Director ofDSLBD. Thequarterly reportshall include the following
+informationfor each subcontract identified in the subcontractingplan:
+(A) The pricethat theprime contractor will pay each subcontractorunderthe
+subcontract;
+(B) Adescriptionofthegoods procured, ortheservices subcontracted for;
+(C) The amount paid by theprime contractorunderthe subcontract; and
+(D) A copyofthe fullyexecutedsubcontract, ifit was notprovided with anearlier
+quarterly report.
+H.9.4.2 Ifthefullyexecutedsubcontract is notprovided with the quarterly report,the prime
+contractorwill notreceivecredit forits subcontracting requirements forthat
+‘subcontract.
+HOS Annual Meetings
+Upon at least 30dayswrittennoticeprovided by DSLBD, theContractorshall meet
+annuallywiththeCO, CA, DistrictofColumbia Auditorand theDirector ofDSLBD to
+provideanupdate on its subcontractingplan.
+H96 Notices
+The Contractorshallprovidewrittennotice to theDSLBD andtheDistrictofColumbia
+Auditorupon commencementofthecontract and when thecontract is completed.
+H97 Enforcementand PenaltiesforBreach ofSubcontractingPlan
+A contractorshall bedeemed tohavebreached a subcontractingplan required by law,
+H9.7.1
+ifthe contractor (i) failstosubmitsubcontractingplanmonitoring orcompliance
+reports orother required subcontracting information ina reasonablytimely manner;
+(i)submitsa monitoringor compliance report or otherrequired subcontracting
+
+cwi17574
+CurbsideComposting PilotCollection, Hauling & Processing
+information containinga materially falsestatement; or ji) failstomeetits
+subcontracting requirements
+A contractor that is found to havebreached its subcontracting planforutilization of
+H9.7.2
+CBEsin theperformanceof a contract shall besubjectto the impositionofpenalties,
+including monetary fines in accordance with D.C. Official Code § 2-218.63.
+9.73 Ifthe CO determines theContractor's failureto be amaterial breachofthecontract,
+‘the CO shall havecause toterminate the contract underthe defaultprovisions in
+clause 8 oftheSCP, Default.
+H.10_ FAIRCRIMINAL RECORD SCREENING
+H.10.1 The Contractor shall comply with theprov isionsofthe Fair Criminal Record
+ScreeningAmendment Act of 2014, effective December 17, 2014 (D.C. Law 20-152)
+(“Act”as used inthis section). This section applies to any employment, including
+employment on a temporaryorcontractual basis, wherethephysical locationofthe
+employment is in wholeor substantialpartwithin theDistrictofColumbia.
+H.10.2 Priorto making aconditional offer ofemployment, theContractorshall not require an
+applicant foremployment, ora person whohas requested consideration for
+employment by theContractor, to reveal or disclose an arrestorcriminal accusation
+that is not thenpending or did not result ina criminal conviction.
+Aftermaking aconditional offer ofemployment, theContractormay require an
+H.10.3
+applicant todiscloseorreveal acriminal conviction.
+‘TheContractor mayonly withdraw a conditional offer ofemployment, ortake
+H.10.4
+adverse action against an applicant, fora legitimatebusinessreason asdescribed in
+the Act.
+H.105 This section and theprovisionsofthe Act shall not apply:
+(a) Wherefederal or District law or regulation requirestheconsideration ofan
+applicant’s criminal history forthe purposesofemployment;
+(b)To aposition designated by the employeras partofafederal orDistrict
+government program orobligationthatisdesigned to encourage theemployment
+ofthose withcriminal histories;
+(©)To any facility or employer thatprovidesprograms, services, ordirect care to
+children, youth, or vulnerableadults; or
+(d)Toemployers thatemploy lessthan 11 employees.
+
+cw1i7574
+CurbsideComposting PilotCollection, Hauling & Processing
+H.10.6 A person claiming to be aggrieved by a violationofthe Act may filean
+administrativecomplaintwith the Districtof ColumbiaOfficeofHuman Rights,and
+the Commission on Human Rights may imposemonetary penalties against the
+Contractor.
+H.11. RESERVED
+H.12 RESERVED
+
+CW117574
+Curbside Composting PilotCollection, Hauling & Processing
+SECTIONI: CONTRACT CLAUSES
+Li APPLICABILITY OF STANDARDCONTRACT PROVISIONS.
+‘The StandardContract Provisions forusewith theDistrict ofColumbiaGovernment
+Supplies and Services Contracts dated July 2010 (SCP) are incorporated as partofthe
+contract. To obtain a copyoftheSCP go to hitp://ocp.de.gov, underQuick Linksclick
+on “Required Solicitation Documents”.
+12 CONTRACTS THAT CROSS FISCALYEARS
+Continuationofthiscontractbeyondthecurrent fiscalyearis contingentupon future fiscal
+appropriations.
+13 CONFIDENTIALITY OF INFORMATION
+TheContractor shall keep all information relating to anyemployee or customer ofthe
+Districtinabsoluteconfidence and shall not use the information in connection with any
+othermatters; nor shall it disclose any such information toanyotherperson, firm or
+corporation, inaccordancewith theDistrict and federal laws governingthe
+confidentialityofrecords.
+14 TIME
+Time,ifstated in anumberofdays, to include Saturdays, Sundays, and holidays, unless
+otherwise stated herein.
+Ls RIGHTS IN DATA
+Delete clause42, Rights in Data, oftheStandard Contract Provisionsdated July2010 for
+use with DistrictofColumbia Government Supplies and Services Contracts and
+substitute the followingclause42, Rights inData) in itsplace:
+. Definitions
+1. “Products”- A deliverableunder any contractthat may includecommodities, services
+and/or technology furnishedbyorthrough Contractor, including existingand custom
+Products, such as, but not limited to: a) recorded information, regardlessofform or the
+mediaon which itmay be recorded; b) document research; c) experimental,
+developmental, or engineering work; d) licensed software; e)components ofthehardware
+environment; f) printed materials (includingbut not limited to training manuals,system
+and user documentation, reports, drawings); g) thirdpartysoftware; h) modifications,
+customizations, custom programs, program listings, programming tools, data, modules,
+components; and i) any intellectual property embodied therein, whether in tangibleor
+
+CW117574
+Curbside Composting PilotCollection, Hauling& Processing
+intangibleform, includingbut not limitedto utilities, interfaces, templates, subroutines,
+algorithms, formulas, source code, and object code.
+2. “Existing Products” - Tangible Products and intangible licensed Productsthatexist
+priortothecommencementofwork underthecontract. Existing Products must be
+identifiedon theProductpriorto commencementofwork or else will bepresumed tobe
+Custom Products.
+3. “Custom Products” - Products, preliminary, final orotherwise, which are created or
+developedby Contractor, its subcontractors, partners, employees, resellers or agents for
+theDistrictunder thecontract.
+4."Di
+ict” —The DistrictofColumbia and its agencies.
+B. Title ofProject Deliverables
+‘TheContractoracknowledgesthatit iscommissioned by the District toperform services
+detailed in the contract. The District shall have ownership and rights for the duration set
+forth in the contract touse, copy, modify, distribute, oradapt Productsas follows:
+1. Existing Products: Titletoall Existing Licensed Product(s), whether or not embedded
+in, delivered or operating in conjunction with hardware or Custom Products, shall remain
+withContractoror third-partyproprietaryowner, whoretains all rights, title and interest
+(including patent, trademarkorcopyrights). Effectiveupon payment, the District shall be
+granted an irrevocable, non-exclusive, worldwide, paid-up license to use, execute,
+reproduce, display,perform, adapt (unlessContractoradvises the District as partof
+Contractor's bid thatadaptation will violate existingagreements or statutes and
+Contractor demonstrates suchtothe District's satisfaction), and distribute Existing
+Productto District users upto the licensecapacity stated in the contract with all license
+rights necessary to fullyeffect thegeneral businesspurpose oftheproject orwork planor
+contract, Licenses shail be granted inthename ofthe District. The District agrees to
+reproducethecopyright notice and anyother legendofownership on any copies
+authorized underthis paragraph.
+2. Custom Products: Effective upon Product creation, Contractor shall convey, assign,
+and transfer to the District the soleand exclusiverights, title and interest inCustom
+Products, whether preliminary, final or otherwise, includingall patent, trademark,and
+copyrights. Contractorhereby agreestotakeall necessary and appropriatestepstoensure
+that theCustom Productsareprotected against unauthorized copying, reproduction and
+marketing by or through Contractor.
+C. TransfersorAssignmentsofExisting orCustom Products by theDistrict
+The District may transfer or assign Existing or Custom Products and the licenses
+thereunderto another Districtagency. Nothing herein shall preclude theContractor from
+
+cw17574
+CurbsideCompostingPilot Collection, Hauling&Processing
+otherwiseusing therelated orunderlyinggeneral knowledge, skills, ideas,concepts,
+techniquesand experiencedeveloped under aprojectorwork plan in thecourse of
+Contractor's business.
+D. SubcontractorRights
+Wheneveranydata, includingcomputersoftware,areobtained froma subcontractor
+under thecontract,theContractorshall usethis clause, Rightsin Data, in the
+subcontract, without alteration, and nootherclauseshall beused to enlargeordiminish
+the District's ortheContractor’srights inthatsubcontractordata orcomputersoftware
+whichisrequired forthe District.
+E. Source CodeEscrow
+1. Forall computersoftwarefurnished by the District with therights specified insection
+B2, theContractor shall furnish to the District, acopyofthesource code withsuch rights
+ofthescope as specified insectionB.2 ofthisclause. Forall computersoftware furnished
+to the District withthe restricted rights specified in section B.1ofthis clause, the District,
+iftheContractor either directlyor through asuccessororaffiliate shall cease to provide
+themaintenanceorwarranty services provided theDistrictunderthecontract or anypaid-
+up maintenanceagreement, oriftheContractorshouldbedeclared insolventby acourtof
+competentjurisdiction, shall have therightto obtain, forits ownand soleuseonly, a
+singlecopy ofthecurrent versionofthesource codesuppliedunder thecontract, and a
+singlecopyofthedocumentation associated therewith, upon payment to theperson in
+controlofthe source code thereasonable costofmakingeach copy.
+2. Ifthe Contractor orProductmanufacturer/developerofsoftwarefurnishedtothe
+District with therights specified in section B.1ofthisclause offers thesource codeor
+source codeescrowto any othercommercialcustomers, theContractorshall either: (1)
+providethe District withthe sourcecode for the Product; (2)placethesourcecodein a
+third partyescrowarrangement with adesignated escrow agent who shallbe namedand
+identifiedtothe District, and whoshallbedirected toreleasethedepositedsource code in
+accordancewith astandard escrow arrangement acceptabtloethe District; or (3) will
+certifyto the Districtthatthe Productmanufacturer/developerhasnamed theDistrictas a
+named beneficiaryofanestablished escrowarrangement with its designated escrowagent
+whoshallbe named and identified to the District, and who shall bedirected to release the
+depositedsource codein accordance with the termsofescrow.
+3. TheContractorshall updatethesourcecode, aswell asany correctionsor
+enhancementstothe source code, for eachnew releaseofthe Product inthe samemanner
+asprovided aboveand certifysuchupdatingofescrow to the District in writing.
+
+CWI117574
+CurbsideCompostingPilotCollection,Hauling&Processing
+F. Indemnification and LimitationofLiability
+The Contractor shall indemnify and saveand hold harmlessthe District, its officers,
+agents andemployeesacting withinthescopeoftheirofficial dutiesagainstany liability,
+includingcosts and expenses, (i) forviolationofproprietaryrights,copyrights, or rights
+ofprivacy, arising outofthepublication, translation, reproduction, delivery,
+performance,useordispositionofany data furnishedunder thiscontract, or (ji) based
+uponanydata furnished underthiscontract, or basedupon libelous or otherunlawful
+mattercontained in such data.
+16 OTHERCONTRACTORS
+TheContractor shall notcommit orpermit any act thatwill interfere with the
+performanceofworkby anotherDistrict contractororby anyDistrict employee.
+7 SUBCONTRACTS
+The Contractorhereundershall notsubcontractanyofthe Contractor’s work or services
+toany subcontractorwithout theprior writtenconsentoftheCO. Any work or serviceso
+subcontracted shall beperformedpursuant to a subcontractagreement, whichtheDistrict
+will have the right toreview and approve priorto its executionby theContractor. Any
+such subcontract shall specifythat theContractorand thesubcontractorshall besubject
+toevery provisionofthiscontract. Notwithstanding any such subcontract approved by
+the District, theContractorshall remainliable to the District for all Contractor's work and
+servicesrequired hereunder.
+18 INSURANCE
+A. GENERAL REQUIREMENTS. The Contractorat itssole expense shall procure and
+maintain, duringtheentireperiodofperformance under this contract, thetypesof
+insurance specified below. TheContractorshallhaveits insurancebrokeror insurance
+company submit a CertificateofInsurance to theCOgivingevidenceoftherequired
+coveragepriortocommencing performance under thiscontract. Inno event shall any
+‘workbeperformeduntil the required Certificatesof Insurance signed by anauthorized
+representative oftheinsurer(s) havebeenprovided to, and acceptedby, theCO. All
+insurance shall bewrittenwith financially responsiblecompanies authorized todo
+business intheDistrict of Columbiaor inthejurisdiction where the work is tobe
+performed and have an A.M. BestCompany ratingof A-/ VIIorhigher. Should the
+Contractordecidetoengageasubcontractor forsegmentsofthe work underthiscontract
+and wish topropose different insurancerequirementsthan outlined below, then, priorto
+‘commencementof work by thesubcontractor, theContractorshall submit inwritingthe
+nameand briefdescription ofwork to beperformedby thesubcontractoron the
+Subcontractors Insurance Requirement Template provided by theCA, to theOffice of
+Risk Management (ORM). ORMwill determine theinsurancerequirements applicable to
+
+cwi17574
+Curbside Composting PilotCollection, Hauling & Processing
+thesubcontractorand promptlydeliversuch requirements inwritingtotheContractorand
+theCA. The Contractormustprovideproofothfe subcontractor's required insurance
+priortocommencementofwork by thesubcontractor. IftheContractor decides to engage
+asubcontractor without requesting from ORMspecificinsurancerequirements for the
+subcontractor, such subcontractorshall have thesame insurancerequirements as the
+Contractor.
+General liability, commercial auto, workers’compensation and property insurance
+policies(ifapplicableto this agreement) shallcontain a waiverofsubrogation provision
+in favorofthe Governmentofthe District ofColumbia.
+TheGovernment oftheDistrict ofColumbia shall be includedin allpoliciesrequired
+hereundertobemaintained by theContractor and its subcontractors(except forworkers”
+compensationand professional liability insurance)as an additional insureds forclaims
+againstThe Governmentofthe District ofColumbia relatingtothis contract, with the
+understandingthat any affirmativeobligation imposed upon theinsured Contractororits
+subcontractors (including without limitation the liability topay premiums) shall bethe
+soleobligationoftheContractoorr its subcontractors, and not theadditional insured.
+The additional insuredstatus under the Contractor’sand its subcontractors’ Commercial
+General Liabilityinsurancepoliciesshallbe affectedusingthe ISO Additional Insured
+EndorsementformCG 20 10 11 85 (orCG 20100704anCdG 20 37 0704)orsuch
+otherendorsement or combination ofendorsements providingcoverageat least as broad
+and approved by theCO inwriting. All ofthe Contractor's and its subcontractors”
+liability policies(except forworkers’ compensationand professional liability insurance)
+shall beendorsed using ISO form CG 20 01 04 13 orits equivalentso as toindicatethat
+such policiesprovideprimarycoverage (without any rightofcontribution by anyother
+insurance, reinsurance or self-insurance, including any deductibleorretention,
+maintained by anAdditional Insured) forall claims against theadditional insured arising
+outoftheperformanceofthis Statement of Work by theContractor or its subcontractors,
+or anyone forwhom the Contractor orits subcontractorsmaybe liable. Thesepolicies
+shall include aseparationofinsureds clauseapplicable to theadditional insured.
+IftheContractor and/or its subcontractorsmaintainbroadercoverage and/or higher limits
+thanthe minimumsshownbelow, theDistrictrequires and shall beentitled tothe broader
+coverage and/or the higher limits maintained by theContractor and subcontractors.
+B. INSURANCEREQUIREMENTS
+1. Commercial General Liability Insurance (“CGL”)- The Contractor shallprovide
+evidencesatisfactory totheCO with respect tothe services performedthatitcarries a
+CGL policy, written on anoccurrence (notclaims-made) basis, on InsuranceServices
+Office, Ine. (“ISO”) formCG 00 01 04 13 (oranother occurrence-based form
+coverage at least as broad and approved by theCO inwriting),covering liability for
+all ongoingand completed operationsoftheContractor, includingongoing and
+completed operationsunder all subcontracts, and coveringclaims forbodily injury,
+
+CWI117574
+Curbside CompostingPilotCollection, Hauling& Processing
+including without limitation sickness, diseaseordeathofany persons, injury toor
+destruction ofproperty, including lossofuseresultingtherefrom,personal and
+advertising injury, and includingcoverage forliability arising outofanInsured
+Contract(includingthetortliabilityofanotherassumed inacontract)andactsof
+terrorism(whethercaused byaforeignordomesticsource). Suchcoverage shallhave
+limitsofliabilityofnot less than$1,000,000each occurrence, a $2,000,000 general
+aggregate(includingaperlocationorperproject aggregate limit endorsement, if
+applicable) limit,a$1,000,000 personal and advertising injury limit,and a$2,000,000
+product-completedoperations aggregate limit.
+2. AutomobileLiabilityInsurance - TheContractorshall provide evidencesatisfactory
+to theCO of commercial (business) automobile liability insurancewrittenon ISO
+form CA 00 01 10 13 (oranother formwith coverage at least asbroadand approved
+by theCO inwriting) includingcoverage forallowned, hired,borrowed and non-
+‘owned vehicles and equipmentused by theContractor,with minimumperaccident
+limits equal to thegreaterof(i) the limitsset forthin the Contractor’scommercial
+automobileliability policyor (ii)$1,000,000 peroccurrencecombined singlelimitfor
+bodily injury andpropertydamage.
+3. Workers’ Compensation Insurance -The Contractorshall provide evidence
+satisfactorytotheCOofWorkers’ Compensationinsurance in accordancewiththe
+statutory mandatesofthe District ofColumbiaorthejurisdiction in which the
+contract isperformed.
+Employer’s Liability Insurance- The Contractorshall provideevidencesatisfactory
+to theCOofemployer's liability insuranceas follows: $500,000peraccident for
+injury; $500,000peremployee fordisease; and $500,000 forpolicy disease limit.
+All insurance required by paragraphs 1,2 and3 shall include awaiverofsubrogation
+endorsement forthe benefit ofthe GovernmentoftheDistrict ofColumbia.
+4, CyberLiabilityInsurance - TheContractorshall provideevidence satisfactory to the
+ContractingOfficerofCyberLiabilityInsurance, withlimitsnot less than$2,000,000
+peroccurrenceorclaim, $2,000,000 aggregate. Coverageshall be sufficientlybroad
+to respond tothedutiesand obligations as is undertaken by Contractor in this
+agreementand shall include, butnot limitedto, claimsinvolvinginfringement of
+intellectual property, includingbutnot limitedto infringement ofcopyright,
+trademark, tradedress, invasionofprivacy violations, information the, damage toor
+destructionofelectronic information, releaseofprivate information, alteration of
+electronic information,extortionand network security. The policyshall provide
+coverage forbreachresponsecosts as well as regulatory fines andpenalties as well as
+credit monitoring expenseswith limits sufficientto respond totheseobligations.
+Limits may notbeshared with otherlinesofcoverage. A copyofthecyberliability
+policy mustbesubmittedto theOfficeofRisk Management (ORM) forcompliance
+review.
+
+cwii7s74
+Curbside CompostingPilotCollection, Hauling &Processing
+5. Environmental Liability/Contractors Pollution Liability Insurance- The Contractor
+shall provide evidence satisfactory to the COofenvironmental liability insurance
+covering losses causedby pollution or otherhazardousconditionsarising from
+‘ongoingorcompleted operationsoftheContractor. Such insurance shall apply to
+bodily injury,propertydamage(including lossofuseofdamaged propertyor of
+property that has beenphysically injured),clean-up costs, transit and non-owned
+disposal sites. Coverageshall extend todefensecostsand expenses incurred in the
+investigation, civil fines, penaltiesand damages orsettlements. There shall beneither
+an exclusion nor a sublimit for mold or fungus-related claims. The minimum limits
+required underthis paragraphshall beequalto thegreaterof(i) the limits set forth in
+the Contractor’s pollution liabilitypolicy or(ii) $2,000,000 per occurrence and
+{$2,000,000 inthe annual aggregate. Ifsuchcoverage is writtenon aclaims-made
+basis, theContractorwarrantsthatany retroactive dateapplicableto coverageunder
+thepolicyprecedestheContractor'sperformanceofany work under theContract and
+thatcontinuouscompletedoperationscoverage willbemaintained forat least ten (10)
+years oranextended reportingperiod shall bepurchased forno less thanten (10)
+years aftercompletion.
+The Contractor also must furnish withtheCO - Ownercertificatesofinsurance
+evidencingenvironmental liability insurancemaintained bythirdpartytransportation
+and disposal site operators(s)used by theContractorfor losses arising from
+facility(ies) accepting, storing ordisposing hazardousmaterialsor otherwasteasa
+resultoftheContractor's operations. Such coveragesmustbe maintained with limits
+ofat leastthe amounts setforth above.
+6. Commercial Umbrellaor Excess Liability- The Contractor provideevidence
+satisfactory totheCOofcommercial umbrella or excess liability insurancewith
+minimum limits equal to thegreaterof(i)the limits set forth in theContractor's
+umbrellaor excess liability policy or (ii) $10,000,000 peroccurrenceand
+$10,000,000in theannual aggregate, following the formand inexcessofall liability
+policies. Al lity coveragemustbe scheduled underthe umbrella and/orexcess
+policy. The insurancerequired under this paragraph shall bewritten in aform that
+annuallyreinstatesall required limits. Coverage shall be primaryto any insurance,
+self-insurance or reinsurancemaintained by the Dist and the “otherinsurance”
+provision mustbeamended inaccordancewith this requirementand principlesof
+vertical exhaustion.
+C, PRIMARY AND NONCONTRIBUTORY INSURANCE,
+The insurancerequired herein shall beprimary to and willnotseek contribution from any
+other insurance, reinsurance or self-insurance including any deductible or retention,
+maintained by theGovernmentoftheDistrict ofColumbia.
+
+CW117574
+CurbsideComposting PilotCollection, Hauling& Processing,
+D. DURATION. TheContractorshall carry all required insurance until all contractworkis
+accepted bythe District ofColumbiaandshallcarry listedcoverages forten years for
+construction projects following final acceptanceofthe work performed under this
+contractandtwo years fornon-constructionrelated contracts.
+E. LIABILITY. These are the required minimum insurance requirements established bythe
+DistrictofColumbia. However, the required minimum insurance requirements provided
+above will not in any way limitthe contractor's liability underthis contract.
+F. CONTRACTOR'S PROPERTY. Contractors and subcontractors are solely responsible
+forany loss or damage to theirpersonal property, including but not limited to toolsand
+equipment, scaffoldingand temporarystructures, rented machinery, orowned and leased
+equipment. A waiverofsubrogation shall apply in favoroftheDistrictof Columbia.
+G. MEASURE OF PAYMENT. The District shall not take any separate measure or
+payment forthe costofinsuranceand bonds. The Contractorshall include allofthecosts
+ofinsuranceandbonds inthe contractprice.
+H. NOTIFICATION. TheContractor shall ensurethat all policiesprovidethattheCO
+shall begiventhirty (30) days prior written notice inthe event ofcoverage and/ orlimit
+changes orif the policy is canceledprior to theexpiration dateshownon thecertificate
+‘TheContractorshall providetheCO with ten(10) days prior writtennotice inthe event
+ofnon-paymentofpremium. The Contractorwill alsoprovide theCO with anupdated
+CertificateofInsurance should its insurancecoverages renew during thecontract.
+|. CERTIFICATES OF INSURANCE. The Contractorshall submit certificatesof
+insurance givingevidenceoftherequired coverageas specified in this section priorto
+‘commencing work. Certificates ofinsurancemust referencethecorrespondingcontract
+number. Evidence ofinsurance shallbe submitted to:
+TheGovernmentoftheDistrictofColumbia
+And mailed to theattention of:
+Angela Turner,Contracting Officer
+Office ofContractingand Procurement
+2000 14"Street NW 6" Floor
+Washington DC20009
+202-724-4052- Phone Number
+Angela.turner@dc.gov-E-mail Address
+‘TheCOmay request, and theContractor shallpromptly deliver updatedcertificatesof
+insurance, endorsements indicatingtherequiredcoverages, and/orcertified copiesofthe
+insurancepolicies. Ifthe insurance initially obtained by the Contractor expirespriorto
+completionofthe contract, renewalcertificatesofinsurance and additional insuredand
+
+cwii7574
+Curbside CompostingPilot Collection, Hauling &Processing
+otherendorsementsshall be furnishedto theCO prior tothedateofexpirationofall such
+initial insurance. Forall coverage required tobe maintained aftercompletion, an
+additionalcertificate ofinsuranceevidencingsuch coverageshall besubmittedto theCO
+on an annualbasisas thecoverage is renewed (orreplaced).
+DISCLOSUREOF INFORMATION. The Contractoragrees thatthe District may
+disclosethenameandcontact informationofitsinsurersto anythirdpartywhichpresents
+aclaim againstthe District foranydamagesorclaimsresultingfrom orarisingoutof
+workperformed by the Contractor, its agents, employees, servantsorsubcontractors in
+theperformance ofthis contract.
+. CARRIER RATINGS. All Contractor's and itssubcontractors’ insurance required in
+connection withthis contractshallbewrittenby insurancecompanies withanA.M. Best
+InsuranceGuideratingof at least A- VII (or theequivalentby any otherratingagency)
+and licensed in theDistrict.
+19 EQUALEMPLOYMENT OPPORTUNITY
+In accordancewiththeDistrictofColumbiaAdministrative Issuance System, Mayor's
+Order85-85 dated June 10, 1985, the forms forcompletionofthe Equal Employment
+Opportunity Information Reportareincorporated herein as SectionJ.3. An award cannot
+be givento anybidderwhohas not satisfied theequal employmentrequirements.
+110 ORDEROF PRECEDENCE
+Thecontract awarded asaresult ofthisIFB willcontain the following clause:
+ORDEROF PRECEDENCE
+A conflict in language shall be resolved bygiving precedenceto thedocument inthe
+highestorderofprioritythatcontains language addressing theissue inquestion. The
+followingdocuments areincorporated into thecontract byreferenceand made apartof
+the contract in the followingorder ofprecedence:
+(1) An applicable CourtOrder, ifany
+(2) Contract document, including the Letter Contract dated 7/19/24
+(3) Standard ContractProvisions
+(4) Contract attachmentsotherthanthe StandardContract Provisions
+
+CW117574
+Curbside Composting PilotCollection, Hauling& Processing,
+Lu DISPUTES
+Delete clause 14, Disputes, of the StandardContract Provisions dated July 2010 foruse
+withDistrictofColumbiaGovernmentSupplies and Services Contracts andsubstitutethe
+followingclause 14, Disputes, in its place:
+14. Disputes
+All disputes arisingunderor relatingto the contract shalll be resolved as provided herein.
+(a) Claimsby theContractor againsttheDistrict: Claim, asused in paragraph
+(a)ofthisclause, means a written assertionbythe Contractor seeking, asa
+matterofright, the paymentofmoney in asum certain, the adjustmentor
+interpretationofcontractterms,orotherreliefarising underorrelatingto the
+contract. Aclaimarising underacontract, unlikeaclaim relating tothat
+contract, is aclaim thatcanberesolved under acontractclausethat provides
+forthereliefsoughtbythe claimant
+All claims by aContractoragainstthe Districtarising underorrelatingto acontract
+shall be inwriting and shall be submitted tothe CO fora decision. The
+Contractor’s claim shall contain at leastthe following:
+() A descriptionoftheclaim and the amount in dispute;
+Gi) Dataor otherinformation in supportof the claim;
+(iii) A briefdescriptionoftheContractor'seffortstoresolvethedispute
+prior to filing the claim; and
+(iii) The Contractor's request forreliefor otheraction by theCO.
+‘TheCO maymeet with the Contractor in a furtherattemptto resolve the claim by
+agreement.
+The CO shall issue adecision on any claimwithin 120 calendardays afterreceiptof
+theclaim. Wheneverpossible, the CO shall take into account factors such as the
+size and complexityoftheclaim and the adequacy ofthe information insupport
+oftheclaim provided by theContractor.
+TheCO's writtendecision shall dothe following:
+(iv) Provide adescription of the claimordispute;
+(v) Referto thepertinentcontract terms;
+(vi) Statethe factual areas ofagreement and disagreement;
+(vii) Statethe reasons for thedecision, including any specific
+findings offact, althoughspecific findings offact arenot
+required and, ifmade, shall not bebinding in any subsequent
+proceeding;
+
+cw117574
+Curbside CompostingPilotCollection, Hauling &Processing
+(viii) Ifall or any partofthe claim is determined to be valid,
+determine the amount ofmonetary settlement, the contract
+adjustment tobe made, orotherreliefto begranted;
+(ix) Indicatethatthewrittendocument is theCO’s final
+decision; and
+(x)__ Inform theContractoroftherighttoseekfurther redressby
+appealingthedecision tothe Contract Appeals Board.
+FailurebytheCO to issue adecision on a contractclaim within 120days ofreceipt of
+theclaim will be deemed to be a denialofthe claim andwill authorizethe
+commencementofanappeal totheContractAppeals Boardas provided by D.C.
+Official Code§ 2-360.04.
+(6 Ifa contractor is unable to support any partofitsclaim and it is
+determinedthatthe inability isattributable to a material misrepresentation
+offactor fraudon the partoftheContractor, the Contractor shall be liable
+to the District foran amountequalto theunsupported partofthe claimin
+additiontoall costs tothe District attributable tothe costofreviewing that
+partofthe Contractor'sclaim. Liability underthisparagraph(a)(6)shall
+be determinedwithin six (6)yearsofthe commissionofthe
+misrepresentation offact or fraud.
+(7) Pending final decisionofan appeal,action, or final settlement, theContractor
+shall proceed diligentlywith performanceofthe contractin accordancewith the
+decision oftheCO.
+imsby theDistrictagainsttheContractor: Claim as used in paragraph
+(b)
+(b)ofthisclausemeansawrittendemand orwrittenassertionby theDistrict
+seeking, asa matterof right, thepaymentofmoneyin a sum certain, the
+adjustmentof contract terms, orotherrelief arising underor relatingto the
+contract. A claimarising underacontract, unlike aclaimrelating tothat
+contract,isa claim that canberesolvedunderacontractclause thatprovides
+forthereliefsought bytheclaimant.
+(1) TheCOshall decideall claims by theDistrict against acontractorarising underor
+relatingto acontract.
+(2) TheCOshall senda writtennoticeoftheclaim tothecontractor. The
+CO’swritten decision shall dothe following:
+Provideadescriptionoftheclaim ordispute;
+Refertothepertinentcontractterms;
+State thefactual areasofagreement anddisagreement;
+(xiv) __ State thereasons forthedecision, includingany specific
+findingsof — fact, althoughspecific findingsoffactare not,
+
+CW117574
+Curbside Composting PilotCollection, Hauling & Processing
+required and,ifmade,shall notbebindinginany subsequent
+proceeding;
+(xv) _Ifall or any partofthe claim is determined to be valid,determinethe
+amount ofmonetarysettlement, the contractadjustment to be made,
+or otherrelieftobegranted;
+(xvi) Indicatethatthewritten document is theCO’s final
+decision; and
+(xvii) Inform theContractorofthe right to seekfurther redress by
+appealingthe decision tothe Contract Appeals Board.
+(3) TheCO shall support the decision byreasons and shall informthe
+Contractorofitsrights asprovided herein.
+(4) Beforeorafterissuingthedecision, theCO maymeetwiththeContractor
+to attempt to resolve theclaimbyagreement.
+(5) The authority contained in this paragraph (b)shall not applytoaclaim or
+dispute forpenaltiesorforfeitures prescribed by statute or regulation
+which another District agency is specifically authorized toadminister,
+settleordetermine.
+(6) This paragraph shall not authorize the COtosettle, compromise,pay,or
+otherwiseadjust anyclaim involving fraud.
+(©) Decisions ofthe CO shall befinal and not subjectto review unless theContractor
+timely commences an administrative appeal for review ofthedecision, by filing a
+complaint with theContractAppeals Board, as authorizedby D.C. OfficialCode
+§ 2-360.04.
+(Pending final decision ofan appeal, action, orfinal settlement, the
+Contractor shallproceed diligently withperformanceofthecontract in
+accordance with thedecision oftheCO.
+1.12 CHANGES
+Delete clause 15, Changes ofthe StandardContractProvisions dated July 2010 foruse
+with District ofColumbiaGovernment Supplies and ServicesContracts andsubstitute the
+followingclause 15, Changes, in its place:
+15, Changes:
+(a) The CO may, at any time, by written order, and without notice tothe surety, ifany,
+makechanges in thecontract withinthegeneral scopehereof.Ifsuchachange
+causes an increase or decrease in the costofperformanceofthecontract,or in the
+time required forperformance, an equitableadjustment shall be made. Any claim
+for
+
+CW117574
+‘Curbside Composting PilotCollection, Hauling& Processing
+adjustment forachangewithinthe general scopemustbe asserted within ten(10)
+days from the date thechange is ordered; provided, however, that theCO, if he or
+shedeterminesthatthe factsjustifysuchaction, mayreceive, considerand adjustany
+suchclaim assertedat any timepriorto the dateoffinal settlement ofthecontract. If
+the parties fail to agreeupontheadjustmentto be made, the dispute shall be
+determined as provided in clause 14 Disputes.
+(b) The District shall notrequire theContractor, and theContractor shall notrequirea
+subcontractor, to undertakeany workthatis beyond theoriginal scopeofthecontract
+or subcontract, including work under a District-issued changeorder, when the
+additional work increases the contractpricebeyond thenot-to-exceed priceor
+negotiated maximum priceofthis contract, unless the CO:
+(1) Agrees with theContractor, andifapplicable,the subcontractoronaprice
+for the additional work;
+(2) Obtainsacertification offunding to pay fortheadditional work;
+(3) Makes a written, bindingcommitmentwiththe Contractortopay forthe
+additional work within 30days afierthe Contractor submits a proper
+invoice; and
+(4) ProvidestheContractorwith writtennotice ofthe funding certification.
+(©) TheContractorshall include initssubcontractsaclause that requires theContractor
+to:
+(1) Within 5 business days ofits receipt ofnotice the approved additional
+fundingprovide the subcontractorwithnoticeoftheamount tobepaid to
+the subcontractorforthe additional workto beperformed by the
+‘subcontractor;
+(2) Pay thesubcontractorany undisputedamount towhich the subcontractor
+is entitled to fortheadditional work within 10days ofreceipt of
+payment fromthe District; and
+(3) Notify the subcontractorand CO inwritingofthereason theContractor
+withholdsany payment from a subcontractorforthe additional work.
+fertheDistrict, Contractor, norany subcontractormaydeclare anotherpartyto
+be in default, or assess, claim, orpursue damages fordelays, until theparties agree
+on a price forthe additional work.
+113 NON-DISCRIMINATION CLAUSE
+Delete clause 19,Non-DiscriminationClause,ofthe Standard Contract Provisionsdated July
+2010 for use with District ofColumbiaGovernment Suppliesand Services Contractsand
+substitute the followingclause 19, Non-DiscriminationClause, in itsplace:
+
+CW117574
+CurbsideComposting PilotCollection, Hauling& Processing
+19, Non-] ‘rimination Clause:
+(a) The Contractor shall notdiscriminate inany manner against any employeeor
+applicantfor employment that would constitute a violationofthe District of
+Columbia HumanRights Act, effectiveDecember 13, 1977, as amended(D.C. Law
+2-38; D.C. Official Code § 2-1401.01 etseq.) (“Act”, as used in this clause). The
+Contractor shall include asimilar clause in all subcontracts, except subcontracts for
+standard commercialsupplies or raw materials. In addition, the Contractoragrees,
+and any subcontractorshall agree, to post inconspicuous placesavailable to
+‘employees and applicants foremployment, a notice setting forththe provisionsof
+this non-discrimination clause as provided in section 251of theAct.
+(b) Pursuant to Mayor's Order 85-85, (6/10/85), Mayor’s Order 2002-175 (10/23/02),
+Mayor’s Order2011-155 (9/9/11) andtherules ofthe Office ofHuman Rights,
+Chapter 11ofTitle 4 of the D.C. Municipal Regulations, the following clauses apply
+tothecontract:
+‘TheContractor shall not discriminateagainst anyemployeeorapplicant for
+a)
+employmentbecause ofactual or perceived: race, color, religion, nationalorigin,
+sex, age,marital status, personalappearance, sexualorientation, gender identityor
+expression, family responsibilities, genetic information, disability, matriculation,
+poli il affiliation, or credit information. Sexual harassment is a formofsex.
+discrimination which is prohibitedby the Act. In addition, harassmentbasedon
+anyofthe aboveprotected categories is prohibited by the Act.
+Q) TheContractor agrees to take affirmative action to ensurethat applicants are
+employed, andthatemployeesare treated duringemployment, without regard to
+theiractual or perceived: race, color, religion, national origin, sex, age, marital
+status,personal appearance, sexual orientation, gender identity or expression,
+family responsibilities, genetic information, disability, matriculation, political
+affiliation, or credit information. The affirmative action shall include, but not be
+limited tothe following:
+(@) employment, upgradingortransfer;
+(b) recruitment, orrecruitment advertising;
+(©) demotion, layoffor termination;
+(@) ratesofpay, or other forms ofcompensation; and
+(c)__ selection fortrainingand apprenticeship.
+The Contractor agreesto post inconspicuousplaces, availableto employees and
+GB)
+applicants foremployment, notices to beprovided by the contracting agency,
+setting forth theprovisions in paragraphs 19(b)(1) and (b)(2) concerning non-
+discriminationand affirmative action.
+
+cCw1i7574
+Curbside Composting PilotCollection, Hauling &Processing
+‘TheContractor shall, inall solicitations or advertisements foremployees placed by
+(4)
+or onbehalf of theContractor, statethat all qualified applicants will receive
+consideration foremployment pursuantto thenon-discrimination requirements set
+forth inparagraph 19(b)(2)..
+The Contractor agrees tosend toeach laborunionorrepresentativeofworkers with
+@)
+whichithasacollectivebargaining agreement or othercontractorunderstanding, a
+notice to beprovidedby thecontractingagency, advising thesaid laborunionor
+workers’ representative ofthatcontractor'scommitments underthis
+nondiscrimination clauseand theAct, and shall post copiesofthenoticein
+conspicuous places available toemployees and applicants foremployment.
+The Contractoragrees topermitaccessto its books, records, and accounts
+(6)
+pertaining to its employment practices, by the ChiefProcurement Officeror
+designer, or the Director oftheOffice of Human Rights ordesignee, forpurposes
+ofinvestigation toascertaincompliancewith the Act, andto require under termsof
+any subcontractoragreementeach subcontractor topermit accessofsuch
+subcontractors’ books, records, and accounts forsuch purposes.
+‘TheContractoragrees tocomply with theprovisionsofthe Act and withall
+aM
+guidelinesforequal employment opportunity applicableintheDistrict adopted by
+theDirector oftheOffice ofHuman Rights,orany authorizedofficial.
+The Contractor shall include in every subcontract the equal opportunity clause,
+(8)
+i.e., paragraphs 19(b)(1)through (b)(9)ofthisclause, sothat such provisionsshall
+be binding upon each subcontractor.
+The Contractorshall take such action with respectto any subcontractas theCO may
+oe
+direct as a meansofenforcing theseprovisions, includingsanctions fornoncompliance;
+provided, however, that in theevent theContractorbecomes involved in, or is threatened
+with, litigationwith asubcontractororvendoras a resultofsuch direction by the
+contractingagency, theContractormayrequesttheDistrict to enterintosuch litigation to
+protect theinterest ofthe District.
+14 COSTAND PRICINGDATA
+sions datedJuly 2010 for
+Deleteclause25, Costand Pricing Data,oftheStandardContractProv
+usewith DistrictofColumbiaGovernment Supplies and Services Contracts.
+
+cw117574
+CurbsideComposting PilotCollection, Hauling &Processing
+SECTION J: ATTACHMENTS
+The following list ofattachments is incorporated into the contractby reference.
+Attachment rail
+Number. Peeu
+‘Governmentofthe District ofColumbiaStandardContract Provisions for
+ua Use withtheSupplies and Services Contracts (July 2010)
+2 USS. Department ofLaborWage Determination 2015-4281, Revision#dated
+July 22, 2024
+EqualEmploymentOpportunity EmployerInformationReport and Mayor's
+Order 85-85
+J3
+Department ofEmployment Services FirstSourceEmploymentAgreement
+JA
+Wayto WorkAmendment Act of 2006 - LivingWageNotice
+Js
+Way to Work Amendment Actof2006 - Living WageFact Sheet
+16
+7 Tax Certification Affidavit
+48 Subcontracting Plan(ifrequired by law)
+First Source Initial Employment Plan(if contract is $300,000or more)
+I9
+10 AttachmentA~ BoundaryMaps oftheDistrictWards
+uit Attachment B—ExamplesofFully-Permitted, Licensed, andCompliant
+Processing Facilities

@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2 Councilmember Robert C. White, Jr.
+3
+4
+5
+6 A BILL
+7
+8 _____________
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12 _________________________
+13
+14 To preserve, on a temporary basis, foreclosure protections for homeowners who applied for
+15 funding from the DC Homeowner Assistance Fund (“DC HAF”) program before
+16 September 30, 2022, and whose applications remain under review, pending approval,
+17 pending payment, or under appeal, and to require that notices continue to be sent to
+18 homeowners informing them of the DC HAF program before a foreclosure action.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the “Foreclosure Moratorium and Homeowner Assistance Fund Coordination
+22 Temporary Amendment Act of 2025”.
+23 Sec. 2. Foreclosure moratorium.
+24 (a)(1) From July 1, 2022, through September 30, 2022, no residential foreclosure may be
+25 initiated or conducted under section 539 or section 95 of An Act To establish a code of law for
+26 the District of Columbia, approved March 3, 1901 (31 Stat. 1274/1204; D.C. Official Code §§
+27 42-815 and 42-816) (“section 539 or section 95”), no sale may be initiated or conducted under
+28 section 313(c) of the Condominium Act of 1976, effective March 29, 1977 (D.C. Law 1-89; D.C.
+29 Official Code § 42-1903.13(c)), and no judgment foreclosing the right of redemption shall be
+30 entered under D.C. Official Code § 47-1378 if:
+31 (A)A homeowner or their representative applies for financial assistance to
+32 cure a debt or default with funds from the Department of Housing and Community
+1
+
+33 Development’s DC Homeowner Assistance Fund (“DC HAF”), or a similar government fund
+34 established to assist homeowners impacted by the COVID-19 public emergency or public health
+35 emergency declared pursuant to the District of Columbia Public Emergency Act of 1980,
+36 effective March 5, 1981 (D.C. Law 3-149; D.C. Official Code § 7-2301 et seq.) (“financial
+37 assistance application”);
+38 (B) The financial assistance application is under review, pending approval,
+39 pending payment, or under appeal; and
+40 (C) Proof of the financial assistance application status described in
+41 subparagraph (B) of this paragraph is presented, as a paper copy or through an electronic
+42 medium, including through communications facilitated by the online DC HAF application portal,
+43 to the mortgage lender, condominium association, homeowners association, or tax sale
+44 purchaser, or to an agent acting as a representative for any housing or financing entity to which
+45 the homeowner is indebted.
+46 (2)(A) Beginning on July 25, 2022, a mortgage lender, condominium association,
+47 homeowners association, or tax sale purchaser, or an agent acting as a representative for any
+48 housing or financing entity to which a homeowner is indebted, may begin to send notices to warn
+49 of intention to initiate or continue foreclosure actions, but no foreclosure action described in
+50 paragraph (1) of this subsection may proceed prior to 30 days after a homeowner is first sent a
+51 warning notice.
+52 (B) Before September 30, 2022, all foreclosure notices and foreclosure
+53 warning notices sent pursuant to subparagraph (A) of this paragraph shall:
+54 (i) Be sent by postal and electronic mail to a homeowner’s last
+55 known home and email address;
+2
+
+56 (ii) Inform the homeowner of DC HAF and the program’s potential
+57 ability to cure eligible housing debts, including the specific type of debt or debts owed to the
+58 entity sending the notice; and
+59 (iii) Explain the September 30, 2022, deadline to apply to DC HAF
+60 to delay or prevent further foreclosure action.
+61 (C) After October 1, 2022, all foreclosure notices and foreclosure warning
+62 notices sent pursuant to subparagraph (A) of this paragraph shall:
+63 (i) Be sent by postal and electronic mail to a homeowner’s last
+64 known home and email address; and
+65 (ii) Inform the homeowner of DC HAF and the program’s potential
+66 ability to cure eligible housing debts, including the specific type of debt or debts owed to the
+67 entity sending the notice.
+68 (D) If, prior to the effective date of the Foreclosure Moratorium and
+69 Homeowner Assistance Fund Coordination Emergency Amendment Act of 2022, effective
+70 November 22, 2022 (D.C. Act 24-674; D.C. Official Code § 42-851.01), a mortgage lender,
+71 condominium association, homeowners association, or tax sale purchaser, or an agent acting as a
+72 representative for any housing or financing entity to which a homeowner is indebted sent a
+73 notice of an intention to initiate, notice to initiate, or notice to continue foreclosure actions
+74 without information about DC HAF, a new notice must be sent prior to the continuation of any
+75 foreclosure action informing the homeowner of the availability of DC HAF and the program’s
+76 potential ability to cure eligible housing debts, including the specific type of debt or debts owed
+77 to the entity sending the notice;
+78 (3) The Mayor, or the Mayor’s designee, shall ensure:
+3
+
+79 (A) A homeowner applying for DC HAF relief, or for similar government
+80 funds established to assist homeowners impacted by the COVID-19 public emergency or public
+81 health emergency declared pursuant to the District of Columbia Public Emergency Act of 1980,
+82 effective March 5, 1981 (D.C. Law 3-149; D.C. Official Code § 7-2301 et seq.), is provided with
+83 documentation in a timely and ongoing manner that will enable the applicant to present proof of
+84 financial assistance application status as described in paragraph (1)(C) of this subsection; and
+85 (B) Editable sample foreclosure warning notices that include information
+86 about debt relief available through DC HAF are published on the DC HAF website for use by
+87 housing or financing entities to which a homeowner may be indebted.
+88 (b)(1) If a homeowner submitted a DC HAF financial assistance application prior to
+89 September 30, 2022 and provided proof of the application status pursuant to subsection (a)(1)(C)
+90 of this section, and the application remains under review, pending approval, pending payment, or
+91 under appeal as of September 30, 2022, until such time as DC HAF payments can be made or the
+92 homeowner’s application is denied following appeal, if any, the homeowner shall not be subject
+93 to a:
+94 (A) Residential foreclosure initiated or conducted under section 539 or
+95 section 95;
+96 (B) Sale initiated or conducted under section 313(c) of the Condominium
+97 Act of 1976, effective March 29, 1977 (D.C. Law 1-89; D.C. Official Code § 42- 1903.13(c)); or
+98 (C) Judgment foreclosing the right of redemption under D.C. Official
+99 Code § 47-1378.
+4
+
+100 (2) The Mayor shall make every effort to make DC HAF payments as quickly as
+101 practicable to qualified homeowners, their representatives, or housing or financing entities to
+102 which a homeowner is indebted to cure any debts or defaults eligible for assistance.
+103 Sec. 3. Applicability.
+104 This act shall apply as of October 16, 2024.
+105 Sec. 4. Effective date.
+106 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+107 the Mayor, action by the Council to override the veto), a 30-day period of congressional review
+108 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+109 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+110 Columbia Register.
+111 (b) This act shall expire after 225 days of its having taken effect.
+5

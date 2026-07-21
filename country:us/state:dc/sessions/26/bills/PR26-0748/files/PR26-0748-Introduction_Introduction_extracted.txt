@@ -1,0 +1,1183 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+June 22, 2026
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and approval by the Council of the District of Columbia is a proposed
+resolution entitled the “Testing Integrity and Security Rulemaking Approval Resolution of 2026.”
+The resolution would approve a proposed final rulemaking to add sections 2303 through 2316 to
+Chapter 23 (State-Wide Academic Assessments) to Title 5-A (Office of the State Superintendent
+of Education) of the District of Columbia Municipal Regulations (DCMR) to establish minimum
+requirements to protect the integrity of statewide assessments and ensure that results are accurate
+and meaningful. The rulemaking also establishes a process for conducting investigations in the
+instance of unacceptable assessment practices and protocols.
+Further, the rulemaking would amend section 2399 (Definitions) of Chapter 23 (State-Wide
+Academic Assessments) to Title 5-A (Office of the State Superintendent of Education) of the
+DCMR for the purpose of adding definitions in accordance and alignment with the new sections.
+I urge the Council to take prompt and favorable action on the enclosed resolution.
+Sincerely,
+Muriel Bowser
+
+1
+2 airman Phil Mendelson
+3 at the request of the Mayor
+4
+5
+6 A PROPOSED RESOLUTION
+7
+8
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12
+13
+14 To approve proposed final rules establishing minimum requirements to protect the integrity of
+15 statewide assessments and to establish a process for conducting investigations.
+16
+17 RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+18 resolution may be cited as the "Testing Integrity and Security Rulemaking Approval Resolution
+19 of 2026".
+20 Sec 2. Pursuant to section 106 of the District of Columbia Testing Integrity Act, effective
+21 October 17, 2013 (D.C. Law 20-27; D.C. Official Code § 38-771.06), the Council approves the
+22 proposed final rules of the State Superintendent of Education, adding new sections 2303 through
+23 2316 to Chapter 23 (State-Wide Academic Assessments) of Title 5-A (Office of the State
+24 Superintendent of Education) and amending section 2399 (Definitions) of Chapter 23 (State-
+25 Wide Academic Assessments) to Title 5-A (Office of the State Superintendent of Education) of
+26 the District of Columbia Municipal Regulations, regarding testing integrity, which were
+27 transmitted by the Mayor to the Council on June --, 2026, and a notice of proposed rulemaking
+28 for which was published in the District of Columbia Register on July 25, 2025, at 72 DCR
+29 008263.
+30 Sec. 3. Transmittal.
+31 The Council shall transmit a copy of this resolution, upon its adoption, to the Mayor, and
+1
+
+32 the State Superintendent of Education.
+33 Sec. 4 Fiscal impact statement.
+34 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+35 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+36 approved October 16, 2006, 9120 Stat. 2038; D.C. Official Code § 1-301.471).
+37 Sec. 5. Effective date.
+38 This resolution shall take effect immediately.
+2
+
+OFFICE OF THE STATE SUPERINTENDENT OF EDUCATION
+NOTICE OF FINAL RULEMAKING
+as transmitted to the Council of the District of Columbia for its review and approval pursuant to
+Section 106 of the District of Columbia Testing Integrity Act, effective October 17, 2013
+(D.C. Law 20-27; D.C. Official Code § 38-771.06)
+The State Superintendent of Education, pursuant to the authority set forth in Sections 3(b)(11),
+(15) and (20), and 7d of the State Education Office Establishment Act of 2000, effective October
+21, 2000 (D.C. Law 13-176, D.C. Official Code §§ 38-2602(b)(11), (15), and (20), and 38-
+2610(a)); Section 106 of the Testing Integrity Act of 2013, effective October 17, 2013 (D.C. Law
+20-27; D.C. Official Code §38-771.06); and Mayor’s Order 2018-91, dated November 15, 2018,
+hereby gives notice of the adoption of the following amendments to Chapter 23 (State-Wide
+Academic Assessments) of Title 5 (Education), Subtitle A (Office of the State Superintendent of
+Education), of the District of Columbia Municipal Regulations (“DCMR”).
+In order to measure and report the achievement of students and performance of schools in the
+District of Columbia, the Office of the State Superintendent of Education (“OSSE”) must
+administer statewide assessments. Pursuant to the District of Columbia Public Education Reform
+Act of 2007, effective June 12, 2007 (D.C. Law 17-9; D.C. Official Code § 38-1800.01 et seq.),
+OSSE serves as the District’s state education agency (“SEA”) and performs the functions of an
+SEA for the District of Columbia under applicable federal law, including overseeing state
+functions for standards, assessments, and federal accountability requirements for elementary and
+secondary education.
+This rulemaking sets forth the minimum requirements to protect the integrity of the statewide
+assessments and to ensure that results are accurate and meaningful. OSSE’s goal is for schools and
+Local Educational Agencies (“LEAs”) to deliver a uniform and equitable statewide assessment
+program. For assessments to yield fair and accurate results, the assessments must be administered
+in consistent, standardized conditions, and teachers and administrators must understand and
+recognize acceptable and unacceptable assessment practices and protocols. This rulemaking
+supports this goal.
+Additionally, this rulemaking establishes a process for conducting investigations in the instance of
+unacceptable assessment practices and protocols. The standards and procedures included in the
+rulemaking will be used to determine whether a violation occurred, the issuance of sanctions for
+violations, and the process of reviewing OSSE’s findings of both non-sanctionable and
+sanctionable violations.
+On July 22, 2019, OSSE issued an Advanced Notice of Proposed Rulemaking (“ANPR”) on
+OSSE’s website to provide stakeholders an opportunity to provide advanced comment on proposed
+amendments to Chapter 23 prior to this rulemaking. The comment period was open for thirty (30)
+days, closing on August 21, 2019. OSSE received comments from two (2) stakeholders and
+incorporated this feedback in the first notice of proposed rulemaking, published in the District of
+Columbia Register on February 14, 2020 (Vol.67-No.7, 001563-001590.) The amendments
+included the following: updating language to clarify intent, replacing “LEA” with “school” where
+1
+
+appropriate, aligning timelines with updated practices, and making amendments to respond to
+schools’ need for flexibility around planning and staffing the assessments. No public comments
+were received in response to the first notice of proposed rulemaking.
+OSSE published a second notice of proposed rulemaking in the District of Columbia Register on
+July 25, 2025 (Vol. 72-No.30, 008263-008291). The test integrity regulations were updated to
+better align the rulemaking with computer-based testing, best practices for applying student
+accommodations, and compliance requirements for adhering to the Test Integrity Act of 2013.
+OSSE did not receive any public comments in response to this notice of proposed rulemaking.
+This final rulemaking makes two minor changes from the second proposed rulemaking: it removes
+unnecessary pluralization from § 2304.7 and adds “Section 504 plan” in § 2306.15 to note that
+accommodations may be provided pursuant to a student’s Individualized Education Program (IEP)
+or Section 504 plan.
+On June XX, 2026, the Mayor transmitted the proposed final rules to the Council of the District of
+Columbia for its review and approval pursuant to Section 106 of the District of Columbia Testing
+Integrity Act, effective October 17, 2013 (D.C. Law 20-27; D.C. Official Code § 38-771.06)
+(“Section 106”). See Testing Integrity and Security Rulemaking Approval Resolution of 2026
+(P.R. 26-XXX). In accordance with Section 106, “If the Council does not approve or disapprove
+the proposed rules, by resolution, within the 14-day review period, the proposed rules shall be
+deemed approved.”
+[The Council did not take action to approve or disapprove the proposed final rules before the end
+of the 14-day review period, and the proposed final rules were therefore deemed approved by the
+Council on MONTH DAY, 2026. / The Council voted to adopt the Testing Integrity Rulemaking
+Approval Resolution of 2026, and thereby approved the proposed final rules, on ------ ----, 2026.]
+The State Superintendent of Education adopted this rule as final on [date]. The rulemaking will
+become effective on the date of publication of this notice in the District of Columbia Register.
+Chapter 23, STATE-WIDE ACADEMIC ASSESSMENTS, of Title 5-A DCMR, OFFICE
+OF THE STATE SUPERINTENDENT OF EDUCATION, is amended as follows:
+New sections 2303 through 2316 are added to read as follows:
+2303 TESTING INTEGRITY AND SECURITY: GENERAL PROVISIONS AND
+APPLICABILITY
+2303.1 Pursuant to the Testing Integrity Act of 2013, effective October 17, 2013 (D.C. Law
+20-27; D.C. Official Code §§ 38-771.01 et seq.), and section 3(b)(20) of the State
+Education Office Establishment Act of 2000, effective October 21, 2000 (D.C. Law
+13-176; D.C. Official Code § 38-2602(b)(20)), OSSE shall administer and enforce
+this chapter to protect the integrity of the statewide assessments and to ensure that
+assessment results are accurate and meaningful.
+2
+
+2303.2 The requirements set forth in this chapter shall apply to the following:
+(a) Local education agencies (“LEAs”);
+(b) All schools within the District of Columbia Public Schools and all public
+charter schools;
+(c) Each statewide assessment administered pursuant to Section 2301;
+(d) All students in an assessed grade range, including eligible students currently
+receiving education services in a nonpublic school setting; and
+(e) All school and LEA personnel and contractors.
+2303.3 In addition to the other requirements and restrictions imposed by this chapter, an
+LEA, a school, and all authorized personnel shall:
+(a) Ensure all secure test materials, including all test materials used to facilitate
+paper- and computer-based testing, are secured under lock and key, or
+password-protected electronic access, unless another equivalent security
+measure for electronic secure test materials is utilized;
+(b) Prohibit unauthorized access to all secure test materials and all student
+information used or obtained in the administration of a statewide
+assessment;
+(c) Maintain an inventory of all secure test materials;
+(d) Obtain, securely maintain, and securely distribute test materials; and
+(e) Cooperate and participate in any OSSE investigation pursuant to § 2313.
+2304 TESTING INTEGRITY AND SECURITY: BEFORE THE
+ADMINISTRATION OF STATEWIDE ASSESSMENTS
+2304.1 (a) OSSE shall annually release test security policies that include:
+(1) Test administration requirements for statewide assessments to be
+administered during that school year;
+(2) Procedures or requirements to ensure test materials are securely
+maintained and distributed;
+(3) Procedures or requirements to ensure statewide assessments are
+administered with fidelity, in a consistent manner, and in
+standardized conditions; and
+3
+
+(4) Lists of prohibited or unapproved electronic devices and materials
+or references.
+(b) Test security policies issued pursuant to this subsection may expand on the
+requirements set forth in this chapter.
+2304.2 An LEA shall submit to OSSE the start and end dates for each statewide assessment
+its school(s) will administer that year no later than four (4) weeks before the start
+of the testing window for the respective statewide assessment.
+2304.3 An LEA shall report the name of its LEA test integrity coordinator(s) to OSSE by
+October 30 of each school year.
+(a) An LEA shall designate staff members to serve in the following authorized
+personnel roles with responsibilities as specified below:
+(1) One LEA test integrity coordinator for the administration of all
+statewide assessments by the LEA, who is responsible for testing
+integrity and security for the LEA in its entirety during the
+administration of all statewide assessments and who supervises all
+of the LEA’s test monitors, test administrators, and proctors;
+provided, that the LEA may also designate up to three (3) additional
+individuals to serve as assessment-specific LEA test integrity
+coordinators for specific statewide assessments administered within
+the LEA, and each such designee shall assume all responsibilities of
+the LEA test integrity coordinator for the assessment to which they
+are assigned;
+(2) No more than three (3) school test monitors for each school or
+campus under the LEA’s control who are responsible for creating
+and implementing all aspects of the school test security plan before,
+during, and after the statewide assessment at the school or campus
+site; coordinating security and maintaining data integrity within
+their school or campus; and training all authorized personnel at their
+school or campus;
+(3) A school technology coordinator for each school to support the
+school in appropriately implementing computer-based testing by
+preparing the testing platform and the student and test administrator
+devices for testing; and
+(4) A school special populations coordinator for each school to support
+the school in appropriately implementing accommodations and
+accessibility features, to have access to those accommodations and
+features on all applicable statewide assessments, and to provide
+4
+
+training to authorized personnel tasked with providing those
+accommodations and features to students.
+(b) (1) An LEA shall designate school-based staff members to serve as test
+administrators.
+(2) Test administrators shall, as directed by the school test monitor,
+administer the statewide assessment to students. Test administration
+responsibilities shall include:
+(A) Managing the testing sessions as outlined in the appropriate
+Test Administrator manual;
+(B) Establishing the testing environment within the test location;
+(C) Coordinating the distribution and return of test materials to
+and from students;
+(D) Ensuring that students receive appropriate accommodations,
+as applicable; and
+(E) Maintaining the security of all of the test administrator’s test
+materials.
+(3) Test administrators shall comply with all the responsibilities and
+prohibitions of authorized personnel.
+(c) (1) An LEA may also designate individuals, including volunteers,
+contractors, or aides, to serve as test proctors.
+(2) Test proctors shall, as directed by the school test monitor and test
+administrator:
+(A) Assist test administrators with classroom management
+during testing;
+(B) Distribute and collect test materials; and
+(C) Administer accommodations.
+(3) Test proctors shall be under the constant and consistent direct
+supervision of a test administrator or school test monitor.
+2304.4 Each nonpublic school or program serving a DC student shall designate a nonpublic
+school or program test monitor, who is responsible for creating and submitting a
+school test plan for the nonpublic school or program site(s) and collaborating with
+5
+
+the LEA test integrity coordinator(s) at each LEA for which the school or program
+serves a student to ensure statewide assessments are administered in compliance
+with all applicable federal and District laws and regulations.
+2304.5 An LEA shall:
+(a) Ensure the LEA test integrity coordinator(s) participate in OSSE’s training
+on test security policies and procedures for statewide assessments prior to
+LEA-level training of LEA- and school-level authorized personnel;
+(b) Ensure all authorized personnel whose duties involve test administration are
+trained in state, LEA, and school test security requirements, policies, and
+procedures;
+(c) Distribute to all authorized personnel of the LEA, including each school
+within the LEA and nonpublic special education schools at which students
+of the LEA have been placed, OSSE’s test integrity and test security
+notification statement, informing them of the consequences of knowingly
+and willingly violating a law, regulation, policy, or school test security plan;
+(d) Provide access to secure test materials exclusively to authorized personnel;
+(e) Ensure LEA test sites implementing computer-based testing are technology-
+ready in accordance with the applicable school test security plans submitted
+to OSSE and test-specific technology requirements; and
+(f) Ensure that procedures have been established for maintaining secure
+assessment technology platforms.
+2304.6 Before performing a statewide assessment function, accessing secure test material,
+or assisting in the administration of a statewide assessment, all authorized personnel
+shall:
+(a) Receive OSSE’s test integrity and test security notification statement,
+informing them of the consequences of knowingly and willingly violating a
+law, regulation, policy, or school test security plan; and
+(b) Participate in the required test integrity and security training, provided by
+OSSE, the LEA test integrity coordinator, or a school test monitor.
+2304.7 Before the administration of a statewide assessment, an LEA shall ensure each
+school under its control distributes a notification letter to the parent(s) or
+guardian(s) of each of its students that details the statewide assessment(s) to be
+administered, including subjects and grade levels/courses assessed, the dates and
+times the assessments will be administered in the school, and information about the
+provision of accommodations specified in students’ Individualized Education
+6
+
+Program (IEP) (developed under the Individuals with Disabilities Education Act,
+effective April 13, 1970, 84 Stat. 191; 20 U.S.C. § 1400 et seq.), Section 504 plan
+(developed under the Rehabilitation Act of 1973, effective September 26, 1973, 87
+Stat. 355; 29 U.S.C. § 701 et seq.) and/or English learner plan.
+2305 TESTING INTEGRITY AND SECURITY: TEST SECURITY PLANS
+2305.1 An LEA shall ensure that each school creates, maintains, and submits a school test
+security plan to the LEA for the LEA’s review prior to submission of the plan to
+OSSE for review and approval.
+2305.2 An LEA shall submit to OSSE, in the form and manner set forth by OSSE, a
+separate test security plan for each school or campus within the LEA’s control at
+least fifteen (15) business days before the administration of each statewide
+assessment administered in the LEA.
+2305.3 A school test security plan shall include the following:
+(a) Procedures for the secure maintenance, dissemination, collection, and
+storage of statewide assessment materials before, during, and after
+administering a statewide assessment, including:
+(1) Keeping an inventory of all materials and identifying individuals
+with access to the materials;
+(2) Accounting for and reporting to OSSE any materials that are lost or
+otherwise unaccounted for; and
+(3) Accounting for and securing old or damaged materials;
+(b) The name and contact information for the LEA’s test integrity coordinator;
+(c) The name and contact information for the test monitor(s) at the school or
+campus;
+(d) The name and contact information for all authorized personnel at the school
+or campus;
+(e) The area(s) at the school or campus designated for administering the
+statewide assessment;
+(f) A list of actions prohibited by authorized personnel beyond the list of
+examples set forth in § 2312;
+7
+
+(g) Procedures pursuant to which students, authorized personnel, and other
+individuals may, and are encouraged to, report irregularities in testing
+administration or testing security; and
+(h) Written procedures for investigating and remediating any complaint,
+allegation, or concern about a potential failure of testing integrity and
+security consistent with the procedures set forth in this chapter.
+2305.4 OSSE shall review each school test security plan and, at least five (5) days before
+the school begins the first statewide assessment, either:
+(a) Provide recommendations to amend specific provisions of the test security
+plan, as necessary and appropriate; or
+(b) Approve the school test security plan.
+2305.5 A school may not begin the administration of a statewide assessment if OSSE has
+not approved a school’s test security plan for that assessment.
+2305.6 An LEA shall not add additional assessments to an approved test security plan.
+Once the plan is approved, any additional test security plans for additional
+assessments must be created separately.
+2305.7 OSSE shall maintain a copy of each school’s test security plan on file and make the
+plan available to a member of the public upon request, in accordance with federal
+and District laws and regulations.
+2306 TESTING INTEGRITY AND SECURITY: DURING THE
+ADMINISTRATION OF STATEWIDE ASSESSMENTS
+2306.1 An LEA shall administer statewide assessments, including monitoring each school
+under the LEA’s control, as prescribed in applicable law, regulations, policies,
+plans, and test administration manuals and in a manner that upholds the integrity of
+testing and accuracy of the data by preventing dishonest and fraudulent behavior
+and promoting a fair and equitable testing environment.
+2306.2 A school shall administer statewide assessments as prescribed in applicable law,
+regulations, policies, plans, and test administration manuals and in a manner that
+upholds the integrity of testing and accuracy of the data by preventing dishonest
+and fraudulent behavior and promoting a fair and equitable testing environment.
+2306.3 An LEA shall ensure that each school under the LEA’s control and authorized
+personnel at each such school and the LEA follow the process for resolving
+technical difficulties outlined in test administration manuals or any relevant policy
+or procedural guidance and report technical difficulties that impact test
+administration to the authorized personnel identified in the relevant school’s test
+8
+
+security plan and, as needed, to each statewide assessment’s vendor support
+personnel.
+2306.4 (a) An LEA’s testing environments shall comply with the provisions set forth
+in this chapter and policies issued pursuant to § 2304.
+(b) The testing environment includes the following conditions, to the extent a
+student can see, hear, or access them during testing:
+(1) Classrooms and other areas in which testing occurs;
+(2) Hallways, stairwells, and bathrooms;
+(3) Surfaces, including permanent or temporary fixtures
+(4) Equipment;
+(5) Furniture;
+(6) Posters, signs, wall art, blackboards, whiteboards, projections, and
+electronic message boards, and the writing and content thereon;
+(7) Lighting; and
+(8) Music, sounds, and announcements.
+(c) Any information regarding the content being assessed or test-taking
+strategies (including word walls and multiplication tables) is prohibited in
+the testing environment and shall be removed or covered before the first day
+of the statewide assessment administration and shall remain removed or
+covered for the duration of the statewide assessment administration.
+(d) The testing environment shall be configured so that no student may hear or
+see another student’s responses.
+2306.5 In the exceptional circumstance in which an individual student cannot take the
+statewide assessment at the student’s designated school (e.g., due to a restraining
+order), the LEA shall submit to OSSE, for OSSE’s approval, a proposed alternate
+location where the student will take the statewide assessment. The alternate
+location must provide a testing environment that is consistent with the requirements
+of this chapter. OSSE may require a site visit, demonstration, and/or memorandum
+of agreement as conditions for approval of the alternate location.
+2306.6 A school shall ensure that student seating arrangements in the testing area,
+regardless of the number of students testing in one session, allow students who are
+9
+
+engaged in active testing to test independently without distraction or violation of
+test security.
+2306.7 Test administrators shall adhere to the following when reading the script in the test
+administrator manual to students:
+(a) Test administrators shall first read the complete script aloud, word for word,
+from beginning to end;
+(b) Test administrators may thereafter repeat directions in the script, for
+emphasis or clarity, as many times as the test administrator deems
+appropriate; and
+(c) Test administrators shall then ask the students if they have any questions.
+If students ask for portions of the script to be re-read or clarified, the test
+administrator may do so, but the rereading or clarification must be provided
+to the whole testing group.
+2306.8 During the administration of a statewide assessment, a test administrator shall only
+announce aloud the time updates specified in the assessment-specific test
+administrator manual but may provide written time updates at any additional time
+intervals.
+2306.9 Test administrators and proctors may not at any time engage in activity that would
+prevent proper student supervision while secure test materials are being distributed,
+while students are testing, while secure test materials are being collected, or at any
+other time when secure test materials remain distributed with students. Such
+prohibited activity includes grading papers and reading a book, newspaper, or
+magazine.
+2306.10 An accommodation shall not be provided to a student unless it is explicitly
+identified in:
+(a) A student’s IEP;
+(b) A student’s plan developed under Section 504 of the Rehabilitation Act of
+1973 (Section 504 plan); or
+(c) A student’s approved accommodation plan for an English learner as
+required in the Elementary and Secondary Education Act.
+2306.11 The use of unapproved electronics by students, test administrators, or proctors is
+prohibited during the administration of a statewide assessment, unless the use is
+identified as an accommodation for a student as set forth in § 2306.10.
+10
+
+2306.12 During the administration of a paper-based test, no individual may have a cell
+phone in the testing environment at any point during testing.
+2306.13 During the administration of a computer-based test, LEA test integrity coordinators,
+school test monitors, and school technology coordinators may have and use cell
+phones for the sole purpose of coordinating technical support if it is necessary for
+a student to complete a test.
+2306.14 Authorized personnel shall follow the process for resolving technical issues,
+including computer-based and online difficulties, outlined in the appropriate test
+administrator manual and any relevant policy or procedural guidance.
+2306.15 No authorized personnel or other individual may take an action to support a student
+to stay on task or focused during an assessment unless the action is authorized in
+policies issued by OSSE pursuant to § 2304.1 or is an approved accommodation
+per the student’s IEP or Section 504 plan. The support must be provided in a way
+that does not impact the content of a student’s answers.
+2306.16 (a) No support material may be provided or made available to a student during
+an assessment unless the support material is specifically authorized in the
+testing manual for the assessment or through an established process
+specified by OSSE, such as an approved accommodation per the student’s
+IEP.
+(b) If support material is permitted by the manual or through an established
+process specified by OSSE:
+(1) The support material shall be located in a pre-determined location
+in the testing room as specified in the school test security plan; and
+(2) School test monitors or test administrators shall ensure that the
+support materials are appropriate for testing as specified in the
+manual or by OSSE prior to testing.
+2307 TESTING INTEGRITY AND SECURITY: EXCEPTIONS OR SPECIAL
+CIRCUMSTANCES DURING ADMINISTRATION OF STATEWIDE
+ASSESSMENTS
+2307.1 This section describes allowable exceptions to the test integrity and test security
+requirements during administration of statewide assessments outlined in § 2306 and
+special circumstances that may impact the administration of statewide assessments
+for a student.
+2307.2 In addition to the exceptions and special circumstances set forth in this section,
+OSSE may issue additional policy and procedural guidance, as necessary and
+11
+
+appropriate, to address exceptions and special circumstances as they arise during
+the administration of statewide assessments.
+2307.3 A school may provide administrative considerations to any student if the school
+implements the administrative considerations in the manner and form set forth in
+OSSE’s guidance documents. For the purposes of this subsection, administrative
+considerations are decisions made about a student’s testing environment such as
+frequent breaks, preferred seating, small group testing, and individual testing and
+are not accessed through an assessment administration platform.
+2307.4 A student who is absent from a testing session that the student was scheduled to
+attend may make up the test(s) during the testing window on the specific days and
+times identified in the test security plan of the student’s school.
+2307.5 A student without an extended time accommodation may not receive extra time to
+complete a test, outside of the testing time limits, for a behavioral issue that impacts
+testing.
+2307.6 A student shall not be allowed to return to a testing session which the student has
+impermissibly exited, as defined in the applicable test security policies for each
+statewide assessment, except in exceptional circumstances as individually
+documented by the school and approved in writing by OSSE. Approval from OSSE
+must be obtained prior to the student resuming a session that has been exited.
+2307.7 A school may apply to OSSE to exempt a student from testing, using the OSSE-
+provided Medical Exemption Request Form, if the student has a medical
+emergency, accident, trauma, or illness (mental or physical) that has been
+determined by a licensed physician to preclude the student from taking all or part
+of a statewide assessment. A medical exemption request resulting from an ongoing
+medical condition shall be submitted to OSSE prior to the first day of the statewide
+assessment administration at the student’s school. A medical exemption request
+resulting from an emergency or trauma occurring during the assessment
+administration window shall be submitted to OSSE no later than ten (10) business
+days after the last day of the statewide assessment window.
+2307.8 If there is an emergency requiring evacuation or lockdown of the test environment
+during a testing session:
+(a) The school shall follow the LEA/school-wide emergency protocol; and
+(b) Authorized personnel shall secure the assessment materials after student
+safety has been assured.
+2307.9 The test monitor or designee shall complete an incident report and submit the report
+to the LEA test integrity coordinator(s) and OSSE.
+12
+
+2307.10 A homebound or hospital-tutored student enrolled in a public school in the District
+of Columbia must participate in statewide assessments. If circumstances make it
+infeasible to test the student at the school, the school test monitor must work with
+the LEA test integrity coordinator(s) to determine how the student will participate
+in the statewide assessment and notify OSSE in the school test security plan. In all
+circumstances, the student’s statewide assessments must be administered by a
+trained test administrator.
+2307.11 A home-schooled student may participate voluntarily in the statewide assessment.
+A parent or legal guardian who wants their student to participate in the statewide
+assessment shall notify District of Columbia Public Schools (DCPS) to facilitate
+test registration and inclusion in testing plans in accordance with DCPS’ policy for
+statewide assessment registration.
+2307.12 (a) All public school students enrolled in a grade or course with a required
+statewide assessment receiving temporary instruction at a program or
+alternative school other than the school at which they are regularly enrolled
+(at an “alternative setting”) shall participate in the statewide assessments.
+(b) A student in an alternative setting may take an assessment at the school in
+which the student is currently enrolled or at an alternate testing site
+approved by the school’s LEA test integrity coordinator and OSSE. In all
+circumstances, the student’s statewide assessments must be administered by
+a trained test administrator.
+2307.13 (a) Each LEA must ensure that all students enrolled in a grade or course with a
+required statewide assessment at their LEA and schools subject to their
+control participate in statewide assessments, including students in
+nonpublic settings.
+(b) Each nonpublic school or program shall adhere to the Testing Integrity Act
+of 2013 and shall:
+(1) Ensure that every District of Columbia student enrolled in its school
+or program is appropriately included in the statewide assessment
+system or alternate assessment approved by OSSE;
+(2) Ensure that statewide assessments for each District of Columbia
+student are administered according to federal and state law,
+regulations, and state policy regarding testing;
+(3) Comply with all federal and state laws, regulations, and policies
+regarding testing and testing integrity;
+(4) Comply with all LEA and school-level requirements outlined in this
+chapter;
+13
+
+(5) Create and maintain a school test security plan for their school site
+as specified in § 2305;
+(6) Work with each student’s LEA of enrollment to ensure that the
+nonpublic school test security plan is integrated, reviewed, and
+approved by the LEA test integrity coordinator(s) at all District of
+Columbia students’ LEAs of enrollment;
+(7) Maintain documentation showing that District of Columbia students
+completed the statewide assessment;
+(8) Provide any requested statewide assessment documentation to a
+student’s LEA of enrollment and/or OSSE upon request; and
+(9) If there is a test security, irregularity, or data integrity issue, contact
+OSSE and the LEA test integrity coordinator(s) at the student’s LEA
+of enrollment; and
+(c) In an exceptional circumstance in which an individual student receiving
+education services in a nonpublic school setting cannot be tested at their
+school, OSSE shall approve an alternate location where statewide
+assessment administration will be conducted. OSSE may require a site visit,
+demonstration, and/or memorandum of agreement as conditions for
+approval of the alternate location.
+2307.14 The following students shall be tested in a one-on-one setting or in a small group
+with only students receiving the same accommodation:
+(a) Students receiving accommodations that require student speaking (e.g.,
+student reads aloud);
+(b) Students receiving a human reader accommodation; and
+(c) Students receiving a human scribe accommodation.
+2308 TESTING INTEGRITY AND SECURITY: AFTER THE
+ADMINISTRATION OF STATEWIDE ASSESSMENTS
+2308.1 At the end of each administration of a statewide assessment, the school shall return
+or dispose of all secure and non-secure test materials following procedures outlined
+in the appropriate testing manuals, regulations, and policies, including the test
+security plan.
+2308.2 Each LEA test integrity coordinator (including each assessment-specific test
+integrity coordinator of the LEA, if applicable) shall sign a Testing Integrity and
+14
+
+Security Affidavit (“TIS Affidavit”) within fifteen (15) business days after the
+conclusion of the administration of a statewide assessment within their LEA. The
+TIS Affidavit shall be in a form established by OSSE. As part of the TIS Affidavit,
+each LEA test integrity coordinator shall attest, to the best of their knowledge and
+belief, and under penalty of law, whether the LEA and all schools under their
+control complied with all applicable laws, regulations, policies, and guidance,
+including each school’s test security plan.
+2308.3 Each school test monitor shall sign a TIS Affidavit after the conclusion of the
+administration of a statewide assessment in their school. As part of the TIS
+Affidavit, each school test monitor shall attest, to the best of their knowledge and
+belief, and under penalty of law, whether the school complied with all applicable
+laws, regulations, policies, and guidance, including the test security plan. The
+school shall submit the signed TIS Affidavit to the LEA test integrity coordinator(s)
+within ten (10) business days after the conclusion of the administration of each
+respective statewide assessment.
+2308.4 After the conclusion of each administration of a statewide assessment, LEAs shall
+ensure the following:
+(a) Within ten (10) business days after the conclusion of each statewide
+assessment that is administered in the LEA, the LEA test integrity
+coordinator shall obtain signed TIS Affidavits from each of the LEA’s
+school test monitors; and
+(b) Within fifteen (15) business days after the conclusion of each statewide
+assessment that is administered in the LEA:
+(1) The LEA test integrity coordinator (and each assessment-specific
+test integrity coordinator of the LEA, if applicable) shall sign the
+TIS Affidavit required by § 2308.2 on behalf of the LEA; and
+(2) The LEA test integrity coordinator shall file with OSSE the TIS
+Affidavit from the LEA test integrity coordinator (including each
+assessment-specific test integrity coordinator of the LEA, if
+applicable) and each of the LEA’s school test monitors.
+2309 TESTING INTEGRITY AND SECURITY: RECORD KEEPING
+2309.1 Each LEA shall maintain a record of the following items for the LEA and each
+school under its control for a minimum of four (4) years. Each record may be
+maintained as an electronic file:
+(a) OSSE-approved test security plan(s);
+(b) Identification of authorized personnel of the LEA and each school;
+15
+
+(c) Attendance sheets for LEA-led testing integrity and security training
+sessions;
+(d) Executed LEA test integrity coordinator and school test monitor TIS
+Affidavits;
+(e) Documentation of any testing irregularities;
+(f) Documentation of any testing integrity and security investigations;
+(g) Documentation of any damaged, missing, or misplaced test materials;
+(h) Copies of any Plan to Improve School Test Security Policies and Procedures
+and any completed Test Security Fact Finding Inquiry documentation; and
+(i) Documentation of the implementation of any OSSE sanctions.
+2309.2 A school shall create and maintain a hard copy of a test security file for each
+administration of a statewide assessment. The test security file shall be maintained
+for a period of at least four (4) years, and shall include at a minimum:
+(a) The school’s test security plan;
+(b) Documentation of completion of LEA- or school-led testing integrity and
+security training sessions for authorized personnel;
+(c) A copy of all family notification letters;
+(d) Test material chain of custody forms;
+(e) Incident reports, if any;
+(f) During testing notes, including minor deviations from the school test
+security plan; and
+(g) Plans to improve school policies and procedures and fact-finding inquiries,
+if applicable.
+2309.3 A school may also maintain secure electronic files in addition to the required hard
+copy and shall ensure that the files are accessible to OSSE upon request.
+2310 TESTING INTEGRITY AND SECURITY: TRAINING AND TECHNICAL
+ASSISTANCE; MONITORING
+16
+
+2310.1 An LEA may request that OSSE provide technical assistance to an LEA or school
+regarding testing integrity and security procedures.
+2310.2 An LEA shall monitor the administration of statewide assessments in its schools to
+ensure that applicable federal and local assessment law, regulations, policies, plans,
+and manuals are being followed.
+2310.3 OSSE may provide technical assistance to a school or LEA at any time regarding
+testing integrity and security procedures, including assistance and expertise to
+respond to potentially critical incidents during the administration of a statewide
+assessment.
+2310.4 In order to ensure the security and proper administration of the statewide
+assessment, OSSE may conduct announced and unannounced on-site and desktop
+monitoring visits at any school or LEA to observe the procedures followed during
+test administration.
+2310.5 OSSE may enter testing rooms during test administration to observe students and
+test administrators to determine whether:
+(a) Test materials are stored properly;
+(b) Test administrators are administering tests appropriately; and
+(c) The testing environment is secure.
+2310.6 OSSE may audit statewide assessment administration procedures at randomly
+selected schools and at targeted schools to ensure adherence to all applicable laws,
+regulations, and policies.
+2310.7 OSSE may use statistical and audit procedures to:
+(a) Review and audit both test score data and individual test documents for
+potential anomalies; and
+(b) Audit vendor-provided testing records to ensure appropriate test
+participation and administration procedures are followed.
+2311 TESTING INTEGRITY AND SECURITY: REQUIRED REPORTING
+2311.1 Authorized personnel of an LEA or school shall notify the school test monitor, the
+LEA test integrity coordinator and OSSE as soon as the LEA or school becomes
+aware of any alleged or suspected violation of the security or integrity of a statewide
+assessment. The notification to OSSE shall be provided by the LEA test integrity
+coordinator through OSSE’s incident reporting system or process.
+17
+
+2311.2 Authorized personnel of an LEA or school shall, in a timely manner, report all
+testing irregularities to the school test monitor, LEA test integrity coordinator, or
+OSSE, as appropriate and consistent with the standards, policies, and statewide
+requirements for testing integrity and security.
+2311.3 Authorized personnel shall report technical issues that significantly impact test
+administration to the school test monitor, LEA test integrity coordinator, or OSSE
+as appropriate and consistent with the standards, policies, and statewide
+requirements for testing integrity and security, through OSSE’s prescribed incident
+reporting process.
+2311.4 Individuals other than LEA test integrity coordinators may report suspected testing
+irregularities directly to OSSE by phone or online via OSSE’s Online Test Security
+Incident Reporting Form.
+2311.5 (a) School staff who witness or believe that a test irregularity or violation
+occurred must report it as soon as possible but no later than twenty-four (24)
+hours after the alleged violation occurred.
+(b) Potential irregularities or violations may be reported directly to the school
+test monitor or the LEA test integrity coordinator(s); to OSSE’s Division of
+Data, Assessment, and Research (DAR); anonymously to the LEA test
+integrity coordinator(s); or anonymously online using OSSE’s Online Test
+Security Incident Reporting Form. LEA test integrity coordinator(s) shall
+submit reports of any test security violations reported to a school test
+monitor or LEA test integrity coordinator to OSSE.
+2312 TESTING INTEGRITY AND SECURITY: VIOLATIONS
+2312.1 A violation is any incident or action, intentional or otherwise, that threatens the
+security or integrity of the administration of the statewide assessment or the results
+of the assessment, including the following, as defined in section 2399:
+(a) Breach;
+(b) Cheating;
+(c) Compromise;
+(d) Irregularity;
+(e) Misconduct; or
+(f) Test piracy.
+2312.2 Examples of specific violations include:
+18
+
+(a) The following list of prohibited actions as defined in D.C. Official Code §
+38-771.03(a)(4):
+(1) Photocopying, or in any way reproducing, or disclosing secure test
+materials or other materials related to statewide assessments;
+(2) Reviewing, reading, or looking at secure test materials or student
+responses before, during, or after administering the statewide
+assessment, unless specifically permitted in the test administrator’s
+manual;
+(3) Assisting students in any way with answers to test questions using
+verbal or nonverbal cues before, during, or after administering the
+assessment;
+(4) Altering student responses in any manner;
+(5) Altering the test procedures stated in the formal instructions
+accompanying the statewide assessments;
+(6) Allowing students to use notes, references, or other aids, unless the
+test administrator’s manual specifically allows;
+(7) Having in one’s personal possession secure test materials except
+during the scheduled testing date;
+(8) Allowing students to view or practice secure test materials before
+or after the scheduled testing time;
+(9) Making or having in one’s possession an answer key for a
+statewide assessment before the administration of that statewide
+assessment; except, that it shall not be prohibited to have an
+answer key for a statewide assessment that has already been
+administered and released by OSSE;
+(10) Leaving secure test materials in a non-secure location or
+unattended by authorized personnel; and
+(11) Using unapproved electronics during the administration of a
+statewide assessment;
+(b) School- or LEA-level coordination or facilitation of prohibited actions as
+defined in D.C. Official Code § 38-771.03(a)(4); and
+19
+
+(c) Assisting in the violation of, soliciting another to violate or assist in the
+violation of, or failing to report a violation of test security and test
+integrity policies or procedures.
+2312.3 The following actions by authorized personnel shall not be considered violations:
+(a) Actions necessary to provide an accommodation to an eligible student as set
+forth in § 2306.12; or
+(b) Actions pursuant to § 2306.16 that are limited to supporting students to stay
+on task and focused and do not impact the content of students’ answers.
+2313 TESTING INTEGRITY AND SECURITY: INVESTIGATIONS
+2313.1 An LEA shall fully cooperate and participate in any OSSE investigation.
+2313.2 Upon its own initiative, or upon receipt of information alleging a violation of any
+applicable law, regulation, or policy relating to testing integrity and security, OSSE
+may initiate an investigation to ensure that assessment results are valid and
+trustworthy and to determine whether a violation occurred.
+2313.3 Investigations may be conducted directly by OSSE or by an entity or individual
+authorized by OSSE.
+2313.4 OSSE may initiate an investigation before, during, or after the administration of a
+statewide assessment.
+2313.5 An LEA shall ensure that all relevant authorized personnel of the LEA and its
+schools are made available to cooperate and participate in the investigation.
+2313.6 OSSE may initiate an investigation if:
+(a) OSSE identifies potential noncompliance; or
+(b) OSSE receives a report or complaint alleging a violation of the laws,
+regulations, and policies relating to testing integrity and security.
+2313.7 OSSE may initiate an investigation in other circumstances, including if:
+(a) An incident is reported from a monitoring visit during testing
+administration;
+(b) An LEA or school conducts its own investigation of a testing concern or
+potential violation instead of immediately reporting the concern or potential
+violation to OSSE;
+20
+
+(c) An abnormality or statistical anomaly is detected in the test response data
+of one or more groups of students in a school;
+(d) Data forensics identify unusual year-to-year changes in test scores;
+(e) Inappropriate assessment practices are identified at a school or LEA;
+(f) Information derived from social media indicates a potential violation;
+(g) OSSE receives an incident report, support ticket, or anonymous report
+indicating that a violation may have occurred;
+(h) OSSE identifies a potential violation through a review of test administration
+practices;
+(i) A media report indicates a violation;
+(j) Monitoring reports prepared by OSSE or a designee of OSSE indicate that
+a violation may have occurred; or
+(k) A school or LEA is identified through random selection.
+2314 TESTING INTEGRITY AND SECURITY: INVESTIGATION PROCESS
+2314.1 If OSSE determines an investigation is appropriate, OSSE shall notify the LEA in
+writing that OSSE is initiating an investigation. The notification shall:
+(a) State the circumstance(s) that triggered the investigation;
+(b) Identify the following information, as applicable to the investigation:
+(1) The school(s) to be investigated and the assessment(s) under
+investigation;
+(2) The grade level(s) and subject(s) of the assessment(s) under
+investigation;
+(3) Relevant details regarding the administration of the assessment(s)
+under investigation; and
+(4) The impacted student(s), proctor(s), and test administrator(s).
+2314.2 An investigation initiated by OSSE includes the following two (2) phases:
+21
+
+(a) An inquiry conducted by the LEA, in the form and manner set forth by
+OSSE or OSSE’s designee. The LEA inquiry shall include the following
+steps:
+(1) The LEA shall collect any documents requested by OSSE, and if
+any of the requested documents are not provided, the LEA shall
+provide a written explanation why the documents were not
+provided; and
+(2) The LEA shall conduct interviews with the following individuals,
+as applicable, and submit completed interview documentation to
+OSSE:
+(A) School test coordinator;
+(B) Special populations (accommodations) coordinator;
+(C) Technology coordinator;
+(D) Student(s);
+(E) Proctor(s); and
+(F) Test administrator(s); and
+(b) An OSSE review, which shall include the following:
+(1) A comprehensive examination of the documents, data, information,
+and evidence provided through the LEA inquiry;
+(2) The collection and review of additional relevant documents, and the
+conduct of additional interviews, as appropriate;
+(3) A review of any OSSE records that may be relevant to the
+investigation; and
+(4) A determination of whether a violation occurred.
+2314.3 If there is an allegation of a violation that involved school- or LEA-level
+coordination or participation, the investigation shall not include an LEA inquiry
+phase, unless otherwise approved by OSSE. If an LEA inquiry is not conducted,
+OSSE, or an OSSE designee, shall collect the relevant documents and conduct the
+relevant interviews.
+2314.4 During the LEA inquiry phase of the investigation, the LEA shall:
+22
+
+(a) Designate two (2) LEA employees as the LEA factfinders. Neither of the
+LEA factfinders shall have served a direct role in the oversight of testing
+integrity and security at the school or LEA, provided that, if the LEA cannot
+identify two (2) eligible employees, the LEA shall notify OSSE, and OSSE
+may appoint factfinders as deemed appropriate;
+(b) Submit the names, titles, and contact information of the LEA factfinders to
+OSSE within two (2) business days of OSSE providing notice to the LEA
+that OSSE is initiating an investigation;
+(c) Ensure the LEA factfinders complete any training required by OSSE to
+conduct the LEA inquiry; and
+(d) Conduct the LEA inquiry in the form and manner set forth by OSSE.
+2314.5 Upon reviewing documents and information submitted by an LEA, OSSE may
+request additional documents, information, or interviews at any time during the
+LEA inquiry.
+2314.6 An LEA shall provide requested information and complete the LEA inquiry in
+accordance with timelines determined and communicated by OSSE.
+2315 TESTING INTEGRITY AND SECURITY: SANCTIONS AND
+CONSEQUENCES FOR VIOLATIONS
+2315.1 An individual person, school, or LEA shall be subject to the penalties and sanctions
+set forth in this section if, based upon the investigation, OSSE determines that the
+individual, school, or LEA violated a provision outlined in this chapter or otherwise
+acted in a way that threatened the security or integrity of a statewide assessment
+administered pursuant to § 2312.
+2315.2 If OSSE determines that a violation occurred, OSSE shall determine an appropriate
+sanction or consequence based on the following factors:
+(a) The seriousness of the violation;
+(b) The extent of the violation;
+(c) The role the individual played in the violation;
+(d) The role the school’s or LEA’s leadership played in the violation, if
+applicable;
+(e) How and when the violation was reported to OSSE;
+23
+
+(f) The action taken by the school or LEA after the violation was reported to
+OSSE;
+(g) The LEA’s history of non-compliance; and
+(h) Consistency of the sanction or consequence with past OSSE-imposed
+sanctions or consequences.
+2315.3 The following sanctions may be imposed by OSSE against an LEA or school that
+OSSE has determined committed a violation of the Testing Integrity Act of 2013,
+this chapter, or a test security plan:
+(a) The payment of any expenses incurred by OSSE as a result of the violation,
+including the expenses of investigating the violation and the expenses
+associated with developing, in whole or in part, a new assessment;
+(b) An administrative fine of not more than ten thousand dollars ($10,000) for
+each violation;
+(c) The invalidation of test scores; and
+(d) Consequences pursuant to section 2315.5, as determined appropriate by
+OSSE.
+2315.4 The following sanctions may be imposed by OSSE against an individual who
+knowingly and willfully violates, assists in the violation of, solicits another to
+violate or assist in the violation of, or fails to report a violation of test security and
+test integrity policies or procedures:
+(a) Denial, suspension, revocation, cancellation, or restrictions of the issuance
+or renewal of a teaching or administrative credential or teaching certificate
+issued by OSSE, or both;
+(b) Payment of expenses incurred by the school, LEA, or OSSE as a result of
+the violation, including the expenses of investigating the violation and the
+expenses associated with developing, in whole or in part, a new assessment;
+(c) An administrative fine, not to exceed one thousand dollars ($1,000) for each
+violation; and
+(d) Other sanctions, pursuant to section 2315, as determined appropriate by
+OSSE.
+2315.5 If OSSE finds that a violation occurred and determines that the sanctions outlined
+in sections 2315.3 and 2115.4 are not appropriate or not adequate, OSSE may
+24
+
+impose the following consequences as appropriate to the nature and circumstances
+of the violation(s):
+(a) Invalidation of student(s) test results;
+(b) Stopping testing;
+(c) Voiding test score(s);
+(d) Requiring additional training; and
+(e) Requiring other corrective actions as determined appropriate by OSSE.
+2315.6 Even if OSSE does not determine that a violation occurred, OSSE may impose a
+corrective action plan and require a school or LEA to demonstrate compliance with
+a corrective action plan to address any irregularities or concerns found during an
+investigation. The corrective action plan may include specific strategies, processes,
+or procedures, that the school or LEA must take to help ensure valid and secure
+administration of statewide assessments by the school or LEA.
+2315.7 In addition to any sanctions, consequences, and corrective action plans imposed by
+OSSE, an LEA or school may impose its own sanctions, consequences, corrective
+action plans, and disciplinary actions, including termination of LEA or school
+employee(s).
+2315.8 (a) After OSSE completes an investigation, it shall provide to each individual,
+school, and LEA that was under investigation a written notice of OSSE’s
+findings and conclusions and shall provide an opportunity for review and
+comment to each such individual, school, and LEA.
+(b) If OSSE determines that no violation occurred, the notice shall:
+(1) State that OSSE’s investigation determined that a violation did not
+occur; and
+(2) Offer technical assistance or a corrective action plan, if appropriate,
+to avoid the appearance of potential violations in the future.
+(c) If OSSE determines that an individual, school, or LEA committed a
+violation, the notice shall:
+(1) State the violation;
+(2) Describe OSSE’s findings and conclusions underlying the
+determination that a violation occurred; and
+25
+
+(3) Notify the school or LEA that it has ten (10) calendar days from the
+date the written notification is issued to request an administrative
+review of OSSE’s findings, conclusions, and determination.
+(d) If OSSE determines that an individual committed a violation, OSSE shall
+also provide notice to the relevant school and LEA of the violation.
+2316 TESTING INTEGRITY AND SECURITY: RECONSIDERATION OF A
+FINDING OF NON-SANCTIONABLE VIOLATION
+2316.1 An individual, LEA, or school may request that OSSE reconsider a determination
+that a non-sanctionable violation occurred within thirty (30) calendar days after
+OSSE provides notice of its determination pursuant to section 2315.
+2316.2 A request for reconsideration shall be submitted to OSSE in writing, in a form and
+manner set forth by OSSE, and shall, at minimum, include the following:
+(a) A specific and detailed basis or bases for contesting OSSE’s findings,
+conclusions, or determination;
+(b) The specific relief requested; and
+(c) Two (2) copies of all documentary evidence supporting the individual’s,
+LEA’s, or school’s positions.
+2316.3 If the request for reconsideration is based in whole or in part on new or additional
+evidence not previously provided to OSSE, the written request shall demonstrate
+that the new or additional evidence is relevant and material, and explain why the
+new or additional evidence was not reasonably available and provided to OSSE
+before OSSE issued its notice of determination.
+2316.4 After receiving a request for reconsideration, the State Superintendent, or an OSSE
+employee designated by the State Superintendent or the State Superintendent’s
+delegee, shall review the request. An OSSE employee designated to review the
+request shall not have had any direct involvement or participated in the
+investigation or the determination of a violation.
+2316.5 The State Superintendent or designated OSSE employee (the “deciding official”)
+shall deny a request for reconsideration if, based on the preponderance of the
+evidence, the deciding official finds:
+(a) No material departure from the procedures outlined in this chapter occurred
+during the investigation that substantively impacted the findings,
+conclusions, or determinations;
+26
+
+(b) No member of the investigation team had a conflict of interest or ethical
+breach during the investigation that substantively affected the integrity of
+the investigation;
+(c) The findings, conclusions, and determinations of OSSE are substantially
+supported by the information and facts determined through the
+investigation; and
+(d) Either:
+(1) The new or additional evidence provided by the individual, school,
+or LEA, if any, is not relevant and material; or
+(2) The new or additional evidence was reasonably available to the
+individual, school, or LEA, before OSSE issued its notice of
+determination.
+2316.6 The deciding official shall remand the matter to OSSE to conduct a new or updated
+investigation or take other appropriate action if, based on the preponderance of the
+evidence, the deciding official finds:
+(a) A significant or material departure from the procedures outlined in this
+chapter occurred during the investigation that substantively impacted the
+findings, conclusions, or determinations;
+(b) New or additional evidence was discovered that previously was not
+reasonably available to the LEA and that is relevant and material to a finding
+of a violation; or
+(c) A member of the investigation team had a conflict of interest or there was
+another ethical breach during the investigation that substantively affected
+the integrity of the investigation.
+2316.7 The deciding official’s decision granting, denying, or remanding the request for
+reconsideration shall be in writing.
+Section 2399, DEFINITIONS, is amended to read as follows:
+2399 DEFINITIONS
+2399.1 When used in this chapter, the following terms and phrases shall have the meanings
+ascribed:
+Accommodation – an adjustment to the testing conditions, test format, or test
+administration to provide equitable access during assessments for students
+with disabilities and students who are English learners.
+27
+
+Authorized personnel – an individual who has access to statewide assessment
+materials or is directly involved in the administration of a statewide
+assessment.
+Breach – an event, intentional or unintentional, that results in the inappropriate
+exposure of secure test materials or answers that could potentially impact
+the accuracy of the test results.
+Cheating – educator, student, or other individual’s misconduct or impropriety that
+includes intentional misbehavior or an unethical action meant to influence
+test results (e.g., overtly or covertly providing correct answers on tests;
+copying an answer from another test sheet; erasing and changing students’
+answers; filling in answers left blank by students; falsifying student
+identification information; imposing exclusionary discipline for the purpose
+of excluding a student with poor academic performance from completing
+an assessment; cueing students to incorrect answers; distributing formula
+cheat sheets; providing unauthorized extra time to complete an assessment).
+Compromise – intentional or unintentional action that may impact the security of
+test materials or integrity of results. An example is leaving secure test
+materials unattended, even if they are not accessed by unauthorized
+individuals.
+Invalidation – the act of omitting test results and student responses from the
+testing, reporting, and accountability systems for a given testing event for
+which the student may not retest.
+Irregularity – an unexpected event that may impact the validity of one or more
+student tests (e.g., misadministration of accommodations, student
+inadvertently logs into an assessment with another student’s credentials) or
+significantly disrupts the testing environment (e.g., fire alarm, power or
+internet outage).
+Misconduct – misbehavior during testing, such as inappropriate proctoring or other
+violations of standard testing protocol.
+OSSE – the Office of the State Superintendent of Education.
+Proctor – an individual designated by an LEA or school who assists in assessment
+administration under the constant and consistent direct supervision of a test
+administrator.
+Public charter school – a public school in the District of Columbia that is chartered
+by an eligible chartering authority.
+28
+
+Public school – a school within the District of Columbia Public Schools system or
+a public charter school.
+Secure test materials – as defined in D.C. Official Code § 38-2602(b)(20)(O)(iii-
+I), secure test materials are test materials that might contain or provide
+access to assessment content, such as information about test questions or
+answers, including test questions, passages, or performance tasks, answer
+documents, and used scratch paper.
+State Superintendent – the State Superintendent of Education for the District of
+Columbia.
+Statewide – Districtwide.
+Statewide assessment – Districtwide assessment as defined in D.C. Official Code
+§ 38-771.01(2).
+Test administrator – a school-based staff member designated by the LEA who
+qualifies as authorized personnel and who is responsible for administering
+a statewide assessment to students.
+Test administrator manual – an assessment-specific and vendor-developed
+manual published and shared with LEAs and schools by OSSE that provides
+required instructions applicable to test administrators necessary for the
+administration of a statewide assessment, as well as the required procedures
+and protocols for test security and administration.
+Test monitor – a person who qualifies as authorized personnel and is responsible
+for testing integrity and security at a school during the administration of a
+statewide assessment.
+Test materials – secure and non-secure documents used in or for the administration
+of a statewide assessment.
+Test piracy – stealing of test forms, items, prompts, or other secure test materials,
+often for the purpose of selling the materials to others.
+Testing window – the particular dates scheduled for an LEA or school to
+administer a statewide assessment. The testing window for each statewide
+assessment is specified by OSSE.
+Unapproved electronics – a technological device not authorized by OSSE that is
+used by a student, test administrator, or proctor to take or administer a
+statewide assessment.
+29
+
+Government of the District of Columbia
+Office of the Chief Financial Officer
+Glen Lee
+Chief Financial Officer
+MEMORANDUM
+TO: The Honorable Phil Mendelson
+Chairman, Council of the District of Columbia
+FROM: Glen Lee
+Chief Financial Officer
+DATE: March 17, 2026
+SUBJECT: Fiscal Impact Statement – Testing Integrity and Security Rulemaking
+Approval Resolution of 2026
+REFERENCE: Proposed Draft Resolution, Introduction as provided to the Office of
+Revenue Analysis on March 13, 2026
+Conclusion
+Funds are sufficient in the fiscal year 2026 through fiscal year 2029 budget and financial plan to
+implement the proposed resolution.
+Background
+The proposed resolution approves the final rules issued by the Office of the State Superintendent of
+Education (OSSE) that establish minimum requirements to protect the integrity of statewide
+educational assessments and establish a process for conducting investigations. Specifically, the rules
+establish:
+• Security and access controls for test materials;
+• Roles and responsibilities for all staff involved in assessments;
+• Planning and notification procedures for assessments, including communication with
+parents;
+• Mandatory reporting and investigation of any suspected or actual violations of security
+policies;
+• Penalties for violations, including fines, test invalidation, credential revocation, and required
+training;
+• Records retention policies; and
+• A process to appeal or reconsider findings.
+.
+1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727-2476
+www.cfo.dc.gov
+
+The Honorable Phil Mendelson
+FIS: “Testing Integrity and Security Rulemaking Approval Resolution of 2026,” Proposed Draft Resolution as
+provided to the Office of Revenue Analysis on March 13, 2026
+Financial Plan Impact
+Funds are sufficient in the fiscal year 2026 through fiscal year 2029 budget and financial plan to
+implement the proposed resolution. OSSE and Local Education Agencies can implement new testing
+integrity and security rules with existing resources. No additional resources are required to
+implement the proposed resolution.
+Page 2 of 2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+BRIAN L. SCHWALB PRIVILEGED AND CONFIDENTIAL
+ATTORNEY GENERAL ATTORNEY-CLIENT COMMUNICATION
+LEGAL COUNSEL DIVISION
+MEMORANDUM
+TO: Carol P. Epstein
+General Counsel
+Office of the State Superintendent of Education
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal Counsel Division
+DATE: June 18, 2025
+SUBJECT: Legal Sufficiency Review of Second Notice of Proposed Rulemaking for Statewide
+Academic Assessment Integrity Minimum Requirements
+(AR-25-096)
+_____________________________________________________________________________________
+This memorandum responds to your request that the Office of the Attorney General conduct a legal
+sufficiency review of the above-referenced rulemaking.
+The first notice of proposed rulemaking was published in the DC Register on February 14, 2020 (Vol.67-
+No.7, 001563-001590.) No public comments were received between February, 24 2020 and now.
+This second proposed rulemaking will add additional sections 2303 to 2316 Chapter 23 (State-Wide
+Academic Assessments) in Title 5 (Education), Subtitle A (Office of the State Superintendent of
+Education).1 The purpose of this rulemaking is to set forth the minimum requirements to protect the integrity
+of the statewide assessments and to ensure that results are accurate and meaningful. OSSE’s stated goal is
+for schools and Local Education Agencies to deliver a uniform and equitable statewide assessment program.
+For assessments to yield fair and accurate results, the assessments must be administered in consistent and
+standardized conditions, and the best way to ensure that occurs is to ensure all teachers and administrators
+understand and recognize acceptable and unacceptable assessment practices and protocols.
+1 The rulemaking would add/amend sections 2303, 2304, 2305, 2306, 2307, 2308, 2309, 2310, 2311, 2312, 2313, 2314, 2315, 2316, and
+2399 of Chapter A23 (State-Wide Academic Assessments) of Title 5 (Education) of the District of Columbia Municipal Regulations.
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004
+Phone (202) 262-6402 Email: adele.el-khouri@dc.gov
+
+There are two specific issues we discussed with you that we would like to memorialize here. First,
+because section 2308.3 requires test-by-test affidavits but does not mention the year-end affidavits
+required by D.C. Official Code 38-771.02(b), we confirmed with you that these test-by-test affidavits
+were intended to run alongside, not in place of, the statutory year-end affidavits. Second, the revised
+rulemaking omits language from the original draft that would have sent administrative appeals under these
+rules to the Office of Administrative Hearings, since, under D.C. Official Code 2-1831.03(c), adding
+cases to OAH’s jurisdiction by means other than a statutory amendment would require a joint agency-
+Mayor-OAH agreement that has not been negotiated at this time.
+The rulemaking, which incorporates changes we recommended and that you approved, is legally sufficient.
+I have attached a rulemaking transmittal form for your use. You should submit the notice of final rulemaking
+to the Office of Documents and Administrative Issuances without coming back to us for certification, unless
+(1) there are changes to the substance of the rulemaking we reviewed or (2) there are comments that
+question the legality of the rulemaking. If you have any questions regarding this memorandum, please
+contact Anne R. Hollander, Senior Assistant Attorney General, Legal Counsel Division, at (202)724-5560,
+Joshua A. Turner, Assistant Attorney General, Legal Counsel Division, at (202)442-9834, or me at (202)
+262-6402.
+AME/arh/jat
+2

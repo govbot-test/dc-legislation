@@ -1,0 +1,410 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+Statement of Introduction
+Contracting and Procurement Reform Amendment Act of 2026
+February 6, 2026
+Today, along with Councilmember Janeese Lewis George, I am introducing
+the “Contracting and Procurement Reform Amendment Act of 2026”. This bill
+expands upon and updates the Procurement Practices Reform Act of 2010 to
+increase public transparency, to improve communication between the Office of
+Contracting and Procurement and District agencies and organizations contracting
+with the District, and to streamline the contracting and procurement process.
+Contracting and procurement is the backbone of nearly every service
+provided to D.C. residents. An effective procurement system is what allows the city
+to quickly and efficiently secure essential goods and services, from medical supplies
+and healthcare services to food programs and cybersecurity services. It is what
+ensures that service providers are meeting clear performance metrics in addressing
+homelessness and speeds the District's transition to green and sustainable
+purchasing.
+Navigating the District’s contracting and procurement process can be
+inefficient and frustrating not just for organizations and vendors, but also District
+agencies and the Council. The process requires navigating multiple outdated
+portals, unclear and confusing requirements, and complex contracting language.
+Vendors and agencies alike often face unanswered questions about contract status
+and are provided limited or nonexistent communication channels to report and
+resolve issues. Agencies are required to comply with unnecessarily burdensome
+requirements for small purchases. The Office of Contracting and Procurement is
+often unable to address underperforming contractors that fail to deliver city services
+in a timely manner or do not meet quality standards.
+The result is a process frequently marred by errors; reduced participation by
+certified business enterprises and small business enterprises; drawn-out timelines;
+late payments; inaccurate and missing information required by law; and inadequate
+tools for effective Council and public oversight.
+
+With this legislation, OCP would create a consolidated procurement portal
+that combines the District’s multiple existing portals into a unified system. The
+portal would provide real-time status tracking for solicitations and awards, along
+with checklists to ensure all legally required documents are submitted, improving
+communication and coordination among OCP, District agencies, and vendors
+through a transparent and streamlined experience.
+The bill requires OCP to develop plain-language guidance and templates
+establishing standardized solicitations and provide early notice of anticipated
+solicitations. This would address accessibility challenges for businesses, increase
+CBE participation, and promote greater competition.
+The bill transfers the Office of the Ombudsman of Contracting and
+Procurement to the Office of the City Administrator and expands the scope of its
+responsibilities, giving the ombudsman greater enforcement authority, free from the
+inherent conflict of interest when operating within the same agency. It also requires
+that the Ombudsman identify systemic issues and recommend policy changes and
+strategies to the Mayor and the Council to improve the contracting and
+procurement process.
+The DC Supply Schedule is the pre-approved list of vendors that District
+agencies use to buy services and goods. The legislation reforms the Supply Schedule
+to ensure that it is consistently updated, and to allow District agencies to make
+direct purchases from approved vendors without unnecessary delays or additional
+approvals.
+Technical evaluation panels are composed of program personnel and experts
+who assist in reviewing the qualifications of a prospective contractor. The bill
+requires that these panels have access to all information provided to OCP related to
+the procurement. It also requires that OCP provide written justification for any
+decision to reject the panel’s recommendation. These updated requirements ensure
+operational alignment between OCP, agencies, and contractors.
+The bill establishes a permanent pay-for-performance program. Under this
+well-tested approach, compensation for select contracts will be tied to the
+achievement of measurable outcomes and benchmarks. Implementing this
+requirement will increase contractor accountability and drive better outcomes for
+District communities.
+
+The legislation also updates Council review procedures related to
+modifications and option years to accelerate procurement timelines and deliver
+goods and services to agencies requiring them while still safeguarding public funds.
+Finally, the bill enhances Council oversight by requiring the Chief
+Procurement Officer to enter into a data-sharing agreement with the Council and by
+applying full Council review procedures to contract modifications that increase a
+contract’s total value above $1 million. These measures will ensure that Council has
+the access to information necessary to identify and resolve issues as they arise.
+When contracting and procurement systems function inefficiently, the rest of
+the government does as well. A transparent, efficient, and well-managed
+contracting and procurement process reduces delays, fraud, and abuse, while
+serving as a powerful tool to support small and local businesses. Fixing this system
+is essential to improving government performance and ensuring the District can
+meet the needs of its residents. The reforms proposed in this legislation streamline
+our system to make sure that District government can deliver quality city services
+to residents.
+
+_____________________________ _____________________________
+Councilmember Janeese Lewis George Councilmember Brianne K. Nadeau
+A BILL
+__________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+________________
+1 To amend the Procurement Practices Reform Act of 2010 to modify procedures for Council
+2 review of contract modifications and contract option years, to transfer the Office of the
+3 Ombudsman of Contracting and Procurement to the Office of the City Administrator, to
+4 establish pay-for-performance contracting standards, to update requirements for technical
+5 evaluation panels, to reform the District supply schedule for direct purchases, to require
+6 the CPO to enter into a data sharing agreement with Council, to establish a consolidated
+7 procurement portal, to provide a forecasting module for public notice of anticipated
+8 solicitations, and to require clarity and comparability in solicitations.
+9
+10
+11 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+12 act may be cited as the "Contracting and Procurement Reform Amendment Act of 2026”.
+13 Sec 2. The Procurement Practices Reform Act of 2010, effective April 8, 2011 (D.C. Law
+14 18-371; D.C. Official Code § 2-351.01 et seq.) is amended as follows:
+15 (a) Section 104 (D.C. Official Code § 2-351.04) is amended as follows:
+16 (1) A new paragraph (66A) is added to read as follows:
+17 "(66A) "Technical evaluation panel" means a panel composed of program
+18 personnel or individuals who possess considerable knowledge of the services requested in the
+19 RFQ to assist in reviewing and considering the qualifications of a prospective contractor.".
+20 (2) A new paragraph (48A) is added to read as follows:
+1
+
+21 "(48A) Procurement procedures manual" means the official guidebook for Office
+22 of Contracting and Procurement employees which contains the information and tools necessary
+23 for procurement personnel to navigate the District’s procurement process.".
+24 (3) A new paragraph (63A) is added to read as follows:
+25 "(63A) "Subject matter expert" means an individual from the procuring agency
+26 who possesses technical expertise relevant to the solicitation.".
+27 (b) Section 202 (D.C. Official Code § 2-352.02) is amended as follows:
+28 (1) Subsection (b) is amended by adding paragraphs (4) and (5), to read as
+29 follows:
+30 “(4)(A) Paragraph (2) of this subsection, and other procedures of this section
+31 applicable to proposed contracts in excess of $1 million during a 12-month period, shall apply to
+32 a proposed contract modification that increases the dollar value of the underlying contract from
+33 an amount less than or equal to $1 million to an amount in excess of $1 million during a 12-
+34 month period.
+35 “(B) Council approval of a contract described in subparagraph (A) of this
+36 paragraph shall not be considered retroactive for the purposes of this act or any other act.
+37 "(5) Council approval of a contract that contains one or more option periods each
+38 of a duration of 12 months or less shall constitute the Council review and approval required by
+39 section 451(b) of the District of Columbia Home Rule Act, approved December 24, 1973 (87
+40 Stat. 803; D.C. Official Code § 1-204.51(b)) of each option period of the contract if the option
+41 period is exercised pursuant to the terms of the contract approved by the Council and there has
+42 been no material change to the terms of the contract subsequent to the Council’s approval of the
+43 contract.".
+2
+
+44 (2) A new subsection (i) is added to read as follows:
+45 “(i) Review and approval by the Council of an annual program of District of Columbia
+46 Supply Schedule contracts under section 412 shall constitute Council review and approval
+47 required by section 451 of the District of Columbia Home Rule Act, approved December 24,
+48 1973 (87 Stat. 803; D.C. Official Code § 1-204.51), of the individual contracts that make up the
+49 annual program.”.
+50 (c) Section 207 (D.C. Official Code 2-352.07) is amended to read as follows:
+51 "Sec. 207. Ombudsman for contracting and procurement.
+52 "(a) There is established within the Office of the City Administrator (“OCA”) an Office
+53 of the Ombudsman for Contracting and Procurement, which shall be headed by an ombudsman
+54 designated by the City Administrator.
+55 (b) The ombudsman designated pursuant to this section shall, for all agencies which are
+56 subordinate to the Mayor, independent agencies, boards, and commissions, but excluding the
+57 Council of the District of Columbia, and the District of Columbia Courts:
+58 (1) Serve as a vehicle for both contractors and District agencies to communicate
+59 their complaints and concerns regarding contracting, procurement, or specific contracts;
+60 (2) Respond to complaints in a timely manner, determine the validity of
+61 complaints, and attempt to facilitate informal dispute resolution when appropriate;
+62 (3) Generate options for a response by the agency or instrumentality and offer a
+63 recommendation from among the options;
+64 (4) Except when the parties are involved in legal or administrative proceedings,
+65 attempt informally to facilitate a resolution of a dispute between the contracting officer, the
+66 prime contractor, and the subcontractor, as appropriate; and
+3
+
+67 (5) Identify systemic concerns and recommend to the Mayor and the Council,
+68 policy changes and strategies to improve the contracting and procurement process.
+69 (c) As of one year of the effective date of this section, all personnel, records, property,
+70 and funds related to the Office shall be transferred to OCA. OCA shall have authority over the
+71 budget and administration of the Office but shall not interfere in its substantive determinations.".
+72 (d) A new section 303 (D.C. Official Code § 2–353.01) is added to read as follows:
+73 "Sec. 303. Pay-for-performance.
+74 "(a) The Office of Contracting and Procurement shall establish pay-for-performance
+75 standards for applicable contracts to ensure that compensation is tied to the delivery of
+76 measurable outcomes and benchmarks.
+77 "(b) Pay-for-performance provisions shall include:
+78 "(1) A requirement that payment from the District be conditioned on the
+79 achievement of specific outcomes based on defined performance targets;
+80 "(2) Payment schedules that correspond to the achievement of those milestones or
+81 deliverables;
+82 "(3) The ability for the District to withhold or reduce payments if performance
+83 benchmarks are not met, unless excused due to unforeseen and documented circumstances; and
+84 "(4) The potential for performance-based incentives or bonuses.
+85 "(c) A sole-source or multi-year contract shall include pay-for-performance provisions
+86 unless the CPO determines such provisions to be infeasible or inappropriate.
+87 "(d) The CPO shall issue guidance identifying other contracts for which pay-for-
+88 performance models are appropriate and shall develop model contract terms for use by agencies.
+4
+
+89 "(e) Agencies shall consult with OCP in the development of solicitations to determine
+90 whether and how pay-for-performance standards should be applied.".
+91 (d) Section 401a (D.C. Official Code § 2-354.01a) is amended by adding new subsections
+92 (h) and (i) to read as follows:
+93 "(h) Nothing in this subsection shall be construed to prevent the withholding of information or
+94 records from the Council, pursuant to section 417a, for the purposes of oversight or
+95 investigations.
+96 "(i) Nothing in this section shall be construed to prevent a contracting officer or
+97 contracting staff from providing information to a client agency on the status of a procurement.".
+98 (e) A new section 401b (D.C. Official Code § 2–354.01) is added to read as follows:
+99 "Sec. 401b. Technical evaluation panels.
+100 "(a) Each technical evaluation panel shall have access to all information provided to
+101 OCP, including bid pricing. The procuring agency shall receive the full bid or proposal package
+102 and copies of any communication between OCP and the contractor related to the procurement.
+103 "(b) OCP shall provide a contract review panel with written justification for any decision
+104 to reject the panel’s recommendation. The justification shall be submitted no later than 14 days
+105 before the awarding of the contract.
+106 "(c) Each contract review panel shall include at least one subject matter expert ("SME")
+107 from the procuring agency who possesses technical expertise relevant to the solicitation.
+108 "(d) The SME shall participate in the evaluation of bids and proposals, ensuring technical
+109 feasibility and adherence to agency goals and requirements.
+110 "(e) The SME shall be named by the Director of the procuring agency.".
+5
+
+111 (f) Section 412 (D.C. Official Code § 2–354.12) is amended by adding subsections (d),
+112 (e), and (f) to read as follows:
+113 "(d) Agencies shall be permitted to make direct purchases from the supply schedule
+114 without unnecessary delays or additional procurement approvals, subject to thresholds
+115 established by OCP."
+116 "(e) OCP shall process supply schedule orders no later than 10 business days after receipt
+117 from an agency.
+118 "(f) OCP shall review and update the District’s supply schedule no less than once every
+119 two fiscal years to ensure pricing competitiveness and vendor diversity.”.
+120 (g) Section 417 (D.C. Official Code § 2-354.17) is amended by striking the phrase
+121 "except as provided by the Freedom of Information Act of 1976, effective March 25, 1977 (D.C.
+122 Law 1-96; D.C. Official Code § 2-531 et seq.)" and inserting the phrase "except as provided by
+123 section 417a and by the Freedom of Information Act of 1976, effective March 25, 1977 (D.C.
+124 Law 1-96; D.C. Official Code § 2-531 et seq.)" in its place.
+125 (h) A new section 417a is added to read as follows:
+126 "Sec. 417a. Data sharing agreement.
+127 "(a) Within 180 days of the effective date of this section, the CPO shall enter into a data
+128 sharing agreement ("agreement") with Council to facilitate the transfer of information necessary
+129 for Council oversight of procurement practices. The agreement shall include:
+130 "(1) A description of information required to be disclosed to Council pursuant to
+131 this act and other relevant procurement law that shall be subject to the agreement;
+132 "(2) Timelines for the production of such information requested by Council;
+133 "(3) Protocol on the transfer, storage, and retention of data;
+6
+
+134 "(4) Any restrictions on use or disclosure necessary to maintain confidentiality
+135 and the integrity of procurement practices.
+136 "(b) Any information not included in the agreement pursuant to subsection (a)(1) that is
+137 required by law to be provided to Council, or not otherwise exempt from disclosure, shall be
+138 provided upon request without being subject to the agreement.".
+139 (i) Section 418(b) (D.C. Official Code § 2-354.18(b)) is amended by striking the phrase
+140 "The Inspector General, District of Columbia Auditor, or District" and inserting the phrase" The
+141 Inspector General, the District of Columbia Auditor, the Council, or District" in its place.
+142 (j) A new section 1104b (D.C. Official Code § 2–361.04) is added to read as follows:
+143 "Sec. 1104b. Consolidated procurement portal.
+144 "(a) OCP shall develop and maintain a consolidated contracting and procurement portal
+145 ("portal") to:
+146 "(1) Facilitate communication between OCP and client agencies;
+147 "(2) Increase public transparency in the contracting and procurement process; and
+148 "(3) Streamline the contracting and procurement process.
+149 "(b) The CPO shall issue implementing guidance and develop standard templates for
+150 agency submissions and shall coordinate with the Office of the Chief Technology Officer to
+151 ensure integration with existing procurement and vendor payment systems.
+152 "(c) The portal shall include functionality to establish access licenses for the following
+153 entities, with each license having access to all information appropriate to disclose that entity:
+154 "(1) Contract officer or staff license;
+155 "(2) Client agency staff license;
+156 "(3) Oversight license;
+7
+
+157 "(4) Bidder license; and
+158 "(5) Vendor and contractor license.
+159 "(d) Any information that is not required by law to be restricted to one of the entities in
+160 subsection (c) shall be made viewable to the public on the portal without requiring registration.
+161 "(e) An oversight license shall allow the license-holder read-only access to all
+162 information available to a contract officer, subject to section 417a. A unique oversight license
+163 shall be provided to:
+164 "(1) The Inspector General;
+165 "(2) The District of Columbia Auditor; and
+166 "(3) Each committee of the Council, subject to 417a.
+167 "(f) The portal shall allow for electronic submission of invoices to the District by a
+168 contractor.
+169 "(1) This subsection shall apply to payments made by, and invoices submitted to,
+170 any agency that manages financial transactions through systems maintained by the Chief
+171 Financial Officer.
+172 "(g) The portal shall include:
+173 "(1) A procurement tracking system accessible to all District agencies under the
+174 contracting authority of the CPO and the Council committee of jurisdiction to monitor the status
+175 of solicitations, contract awards, and procurement activities, including:
+176 "(A) The status and a copy of each procurement action and real-time
+177 updates including key milestones such as release of solicitation, amendments, evaluation, award
+178 determination, and contract execution;
+8
+
+179 "(B) Identification of the OCP official or agency representative
+180 responsible for each stage of the process;
+181 "(C) Estimated timelines for each stage, including expected dates for
+182 reviews, approvals, and contract execution, and indication of any timeline delays; and
+183 "(D) A communications feature for agencies to submit and track inquiries
+184 regarding their procurement requests.
+185 "(2) A public transparency portal that shall contain, at a minimum, the following:
+186 "(A) Information regarding the statutes and rules that govern procurement
+187 for all District agencies, including those exempt from the authority of the CPO.
+188 "(B) Links to each District government website containing active
+189 solicitations for goods or services in an amount in excess of $100,000, including websites
+190 maintained by District agencies exempt from the authority of the CPO.
+191 "(C)(i) Each website linked to by the webpage provided for in
+192 subparagraph (B) of this paragraph shall:
+193 "(ii) Provide clear instructions on how to respond electronically to
+194 each solicitation;
+195 "(iii) Include information in the solicitation regarding the
+196 prohibited recipients or, if the value of the contract is estimated, the likely prohibited recipients,
+197 as that term is defined in Section 101(45D) of the Board of Ethics and Government
+198 Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2011,
+199 effective April 27, 2012 (D.C. Law 19-124; D.C. Official Code § 1-1161.01(45D)), for the
+200 contract based on its estimated value and any other relevant provisions of Chapter 11A of Title 1.
+9
+
+201 "(D) A database containing information regarding each contract executed
+202 by the District for an amount equal to or greater than $100,000, including each such contract
+203 made by a District agency exempt from the authority of the CPO pursuant to section 105. For
+204 each contract contained in the database, the database shall include a unique identifier and, at a
+205 minimum, the following:
+206 "(i) A copy of the executed contract;
+207 "(ii) All determinations and findings related to the contract;
+208 "(iii) All contract modifications, change orders, or amendments
+209 associated with the contract;
+210 "(iv) All solicitation documents for the contract, including all
+211 requests for proposals and invitations for bids;
+212 "(v) The contract summary documents for the contract that are
+213 submitted to the Council for its review; and
+214 "(vi) Any amendments to such documents; and
+215 "(vii) A notation identifying:
+216 "(I) Whether the vendor is a covered contractor, as that
+217 term is defined in Section 101 of the Board of Ethics and Government Accountability
+218 Establishment and Comprehensive Ethics Reform Amendment Act of 2011, effective April 27,
+219 2012 (D.C. Law 19-124; D.C. Official Code § 1-1161.01; and
+220 "(II) To which prohibited recipients, as that term is defined
+221 in Section 101(45D) of the Board of Ethics and Government Accountability Establishment and
+222 Comprehensive Ethics Reform Amendment Act of 2011, effective April 27, 2012 (D.C. Law 19-
+223 124; D.C. Official Code § 1-1161.01(45D)), the vendor is prohibited from making campaign
+10
+
+224 contributions and during what prohibited period, as that term is defined in Section 101(45C) of
+225 the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics
+226 Reform Amendment Act of 2011, effective April 27, 2012 (D.C. Law 19-124; D.C. Official
+227 Code § 1-1161.01(45C)).
+228 "(E) Placeholders identifying any portions of the items set forth in
+229 subparagraph (D) of this subsection withheld as confidential by the CPO pursuant to section
+230 417”.
+231 "(F) A list of each contract executed by the District for an amount less
+232 than $100,000, which shall include, for each contract, the vendor name, a description of the
+233 goods or services purchased, and the dollar amount of the contract; and
+234 "(G) Payments made by the District of Columbia government to
+235 contractors, searchable by purchase order number, invoice number, check number, voucher
+236 number, or any combination of the aforementioned necessary to identify a particular payment.
+237 "(3) Agencies not subject to the authority of the CPO shall transmit the
+238 information required by this section to the CPO for posting on their websites.”.
+239 (k) A new section 1104c (D.C. Official Code § 2–361.04) is added to read as follows:
+240 "Sec. 1104c. Forecasting module.
+241 "(a) OCP shall develop and maintain a forecasting module that provides a schedule of
+242 anticipated solicitations and contract renewals, including:
+243 "(1) A description of the anticipated procurement;
+244 "(2) The estimated value of the procurement;
+245 "(3) The anticipated solicitation release date and contract award date;
+246 "(4) The name of the client agency and point of contact;
+11
+
+247 "(5) Subcontracting and CBE requirements; and,
+248 "(6) Whether the procurement is for a new contract or an existing contract.
+249 "(b) District agencies shall be required to submit forecasting data to OCP on a quarterly
+250 basis and shall designate a forecasting coordinator to ensure timely and accurate submissions.
+251 "(c) The forecasting module shall be made publicly available online and updated
+252 quarterly.
+253 "(d) No later than 120 business days after the effective date of this section, OCP shall
+254 make available on their website an updated procurement procedures manual.”.
+255 (l) A new section 1104d (D.C. Official Code § 2–361.04) is added to read as follows:
+256 "Sec. 1104d. Clarity and comparability in solicitations.
+257 "(a) The CPO shall develop templates and guidance establishing a standardized
+258 solicitation structure for clarity and comparability.
+259 "(b) Each solicitation shall:
+260 "(1) State in plain language:
+261 "(A) The solicitation purpose and objectives;
+262 "(B) All deliverables, evaluation factors, and performance measures for
+263 the solicitation;
+264 "(2) Provide a template or standardized format for key sections to enable
+265 comparison between submissions;
+266 "(3) Avoid open-ended or duplicative questions that hinder side-by-side
+267 comparison; and
+268 "(4) Include a clear rubric for scoring each criterion.".
+269 Sec. 3. Conforming amendments.
+12
+
+270 (m) Subtitle N of Title I of the Fiscal Year 2015 Budget Support Act of 2014, effective
+271 February 26, 2015 (D.C. Law 20-155; D.C. Official Code § 2-211.01 et seq.) is repealed.
+272 (n) The Procurement Practices Reform Act of 2010, effective April 8, 2011 (D.C. Law
+273 18-371; D.C. Official Code § 2-351.01 et seq.), is amended as follows:
+274 (1) Section 1104 (D.C. Official Code § 2-361.04) is repealed.
+275 (2) Section 1104a (D.C. Official Code § 2-351.04a) is repealed.
+276 (o) Section 208(a)(3)(E) of the District of Columbia Procurement Practices Act of 1985,
+277 effective February 21, 1986, (D.C. Law 6-85; D.C. Official Code § 1-301.115a(a)(3)(E)) is
+278 amended by striking the phrase "in accordance with section 205" and inserting the phrase " in
+279 accordance with the Procurement Practices Reform Act of 2010, effective April 8, 2011 (D.C.
+280 Law 18-371; D.C. Official Code § 2-351.01 et seq.) in its place.
+281 Sec. 4. Fiscal impact statement.
+282 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+283 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+284 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+285 Sec. 5. Effective date.
+286 This act shall take effect following approval by the Mayor (or in the event of veto by the
+287 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+288 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+289 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+290 Columbia Register.
+13

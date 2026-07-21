@@ -1,0 +1,284 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3
+4 26-109
+5
+6
+7 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+8
+9 ___________
+10
+11
+12 To amend the Department of Health Functions Clarification Act of 2001 to establish a farmers
+13 market support program within the Department of Health to provide technical assistance
+14 to farmers markets, farm stands, and mobile markets, to recommend improvements to the
+15 licensing and permitting processes and regulations, to oversee coordination between
+16 agencies regulating farmers markets, and to establish and administer a farmers market
+17 grant program; and to amend the Vending Regulation Act of 2009 to require the Mayor to
+18 establish a centralized application system for farmers markets, farm stands, and mobile
+19 markets, standardize licensing and permitting requirements, and waive the fees for
+20 operating in a low food access area.
+21
+22 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 act may be cited as the “Farmers Market Support Amendment Act of 2025”.
+24 Sec. 2. The Department of Health Functions Clarification Act of 2001, effective October
+25 3, 2001 (D.C. Law 14-28; D.C. Official Code § 7-731 et seq.), is amended by adding a new
+26 subtitle C-ii to read as follows:
+27 “Subtitle C-ii. Farmers Markets.
+28 “Sec 4938. Definitions.
+29 “For the purposes of this subtitle, the term:
+1
+
+ENGROSSED ORIGINAL
+30 “(1) “Farmer” means a person or entity that raises or produces locally grown farm
+31 products on land that the person or entity farms and owns, rents, or leases for direct sale to
+32 consumers.
+33 “(2) “Farmers market” means a market at a fixed location with 2 or more vendors
+34 that includes at least one farmer, is open to the public, is operated by a District or federal
+35 government agency, a for-profit or non-profit organization, or one or more farmers or producers,
+36 and operates at least 6 times per calendar year, and where at least 50 percent of the vendors are
+37 providing direct-to-consumer sales of locally grown farm products or locally processed food
+38 products.
+39 “(3) “Farm products” means fruits, vegetables, mushrooms, herbs, nuts, shell
+40 eggs, honey or other bee products, flowers, nursery stock, fish, and livestock food products,
+41 including meat, milk, cheese, and other dairy products.
+42 “(4) “Farm stand” means a fixed location with one farmer vendor that is open to
+43 the public, operated by a District or federal government agency, a for-profit or non-profit
+44 organization, or a farmer, and operates at least 6 times per calendar year, and where at least 50%
+45 of sales consist of direct-to-consumer sales of locally grown farm products and value-added farm
+46 products.
+47 “(5) “Locally grown” shall have the same meaning as in section 101(3) of the
+48 Healthy Schools Act of 2010, effective July 27, 2010 (D.C. Law 18-209; D.C. Official Code §
+49 38-821.01(3)).
+2
+
+ENGROSSED ORIGINAL
+50 “(6) “Locally processed food products” means food that has been processed,
+51 including canning, cooking, dehydrating, milling, or the addition of other ingredients, in the
+52 jurisdictions listed in section 101(3) of the Healthy Schools Act of 2010, effective July 27, 2010
+53 (D.C. Law 18-209; D.C. Official Code § 38-821.01(3)). The term “locally processed food
+54 products” includes cooked ready-to-eat foods, bread, baked goods, pickles, jams, and other
+55 value-added farm products.
+56 “(7) “Low food access area” means a census tract where:
+57 “(A) More than 20% of households earn 185% or less of the federal
+58 poverty line; and
+59 “(B) At least 500 people or 33%, whichever is greater, of the population
+60 live more than 0.5 miles or a 10-minute walk from a grocery store.
+61 “(8) “Mobile market” means a farm stand that travels to 2 or more fixed locations
+62 and operates at least 6 times per calendar year.
+63 “(9) “Producer” means a person or entity that produces locally processed food
+64 products.
+65 “(10) “Value-added farm product” means any product processed by a producer
+66 from a locally grown farm product.
+67 “Sec. 4939. Farmers market support program.
+68 “(a) There is established within the Department of Health (“Department”) a farmers
+69 market support program (“program”).
+3
+
+ENGROSSED ORIGINAL
+70 “(b) The program shall:
+71 “(1) Provide information and technical assistance relating to permitting, licensure,
+72 accepting federal and local benefits, and any other relevant support to farmers markets, farm
+73 stands, and mobile markets operating or seeking to operate in the District;
+74 “(2) Provide recommendations to the Mayor and Council to improve existing
+75 District licensing, permitting, and processes for establishing and operating a farmers market,
+76 farm stand, or mobile market, including recommendations for implementing the centralized
+77 application system established by section 7(b) of the Vending Regulation Act of 2009, effective
+78 October 22, 2009 (D.C. Law 18-71; D.C. Official Code § 37-131.06(b));;
+79 “(3) Convene and coordinate with District agencies involved in licensing,
+80 permitting, and supporting farmers markets, farm stands, and mobile markets, including the
+81 Office of Planning, the Department of Transportation, the Department of Parks and Recreation,
+82 the Department of Small and Local Business Development, and the Department of Licensing and
+83 Consumer Protection, for the purpose of supporting farmers markets, farm stands, and mobile
+84 markets in the District, including establishing the centralized application system as required
+85 under section 7(b) of the Vending Regulation Act of 2009, effective October 22, 2009 (D.C. Law
+86 18-71; D.C. Official Code § 37-131.06(b));
+87 “(4) Create and update annually a publicly available online map of farmers
+88 market, farm stand, and mobile market locations, including their hours of operation;
+4
+
+ENGROSSED ORIGINAL
+89 “(5) Conduct marketing and promotional activities for farmers markets, farm
+90 stands, and mobile markets, with a focus on those located in low food access areas;
+91 “(6) Administer the farmers market support grant program established by
+92 subsection (d) of this section; and
+93 “(7) Procure equipment and services to increase customer access to fresh
+94 produce and improve farmers market, farm stand, and mobile market infrastructure.
+95 “(c) The program may:
+96 “(1) Evaluate the health and economic impacts of farmers markets, farm stands,
+97 and mobile markets on customers and nearby businesses;
+98 “(2) Apply for federal, state, or private grant programs or other funding
+99 opportunities that would support farmers markets, farm stands, or mobile markets in the District
+100 or the activities of the program;
+101 “(3) Assist farmers markets, farm stands, mobile markets, and their participating
+102 vendors with accepting federal or local nutrition benefits;
+103 “(4) Assist farmers markets, farm stands, mobile markets, and their participating
+104 vendors in obtaining technological equipment, software, or other e-commerce tools; and
+105 “(5) Offer direct support to customers, including ride-share benefits, home
+106 delivery services, and other programs, that would improve access to farmers markets, farm
+107 stands, or mobile markets.
+5
+
+ENGROSSED ORIGINAL
+108 “(d) There is established a farmers market support grant program (“farmers market
+109 grant”) that shall provide at least $250,000 annually in grant funding to support farmers markets,
+110 farm stands, and mobile markets located in low food access areas. The grant funding shall be
+111 used for:
+112 “(1) Purchasing materials to establish or expand a farmers market, farm stand, or
+113 mobile market, including tables, tents, signage, storage, and marketing materials;
+114 “(2) Financial assistance to an entity located in a low food access area for the
+115 purpose of hosting a farmers market, farm stand, or mobile market on its property;
+116 “(3) Operational and staffing costs;
+117 “(4) Extending operations for an existing farmers market, farm stand, or mobile
+118 market during cold weather months outside of its normal operating season;
+119 “(5) Public safety and post-market cleanup related services;
+120 “(6) Wholesale purchasing, buy-backs, or subscription-based purchasing from
+121 vendors at the farmers market, farm stand, or mobile market to provide predictable revenue
+122 streams; or
+123 “(7) Customer incentives, including matching programs for federal and local
+124 benefits and coupons.
+125 “(e)(1) The farmers market grant authorized by subsection (d) of this section shall be
+126 available to existing farmers markets, farm stands, and mobile markets in low food access areas,
+127 and to entities that show sufficient proof, as established by the Department’s grant application
+6
+
+ENGROSSED ORIGINAL
+128 process, that they intend to operate a farmers market, farm stand, or mobile market in a low food
+129 access area.
+130 “(2) Preference shall be given to entities that are providing locally grown fruits
+131 and vegetables, or which include District-owned businesses as vendors.”.
+132 Sec. 3. The Vending Regulation Act of 2009, effective October 22, 2009 (D.C. Law 18-
+133 71; D.C. Official Code § 37-131.01 et seq.), is amended as follows:
+134 (a) Section 2 (D.C. Official Code § 37-131.01) is amended as follows:
+135 (1) The existing paragraph (1) is designated as paragraph (1B).
+136 (2) New paragraphs (1) and (1A) are added to read as follows:
+137 “(1) “Farmers market” shall have the same meaning as in section 4938(2) of the
+138 Department of Health Functions Clarification Act of 2001, as approved by the Committee on
+139 Health on May 9, 2025 (Committee print of Bill 26-109).
+140 “(1A) “Farm stand” shall have the same meaning as in section 4938(4) of the
+141 Department of Health Functions Clarification Act of 2001, as approved by the Committee on
+142 Health on May 9, 2025 (Committee print of Bill 26-109).”.
+143 (3) The existing paragraph (2) is designated as paragraph (2A)
+144 (4) A new paragraph (2) is added to read as follows:
+145 “(2) “Mobile market” shall have the same meaning as in section 4938(8) of the
+146 Department of Health Functions Clarification Act of 2001, as approved by the Committee on
+147 Health on May 9, 2025 (Committee print of Bill 26-109).”.
+7
+
+ENGROSSED ORIGINAL
+148 (5) Paragraph (2A) is amended by striking the phrase “including a farmers
+149 market, flea market, or antique market.” and inserting the phrase “including a flea market or
+150 antique market.” in its place.
+151 (b) Section 3(b)(3) (D.C. Official Code § 37-131.02(b)(3)) is amended by striking the
+152 phrase “at a public market” and inserting the phrase “at a farmers market or public market” in its
+153 place.
+154 (c) Section 4(b) (D.C. Official Code § 37-131.03(b)) is amended by striking the phrase
+155 “event or public market” and inserting the phrase “event, farmers market, or public market” in its
+156 place.
+157 (d) Section 7 (D.C. Official Code § 37-131.06) is amended to read as follows:
+158 “Sec. 7. Public markets and farmers markets.
+159 “(a) The Mayor may require the permitting of public markets and farmers markets on
+160 public space and may require the licensing of managers of public markets and farmers markets
+161 on public space and private space.
+162 “(b)(1) By January 1, 2028, the Mayor shall establish a centralized application system for
+163 the purpose of streamlining the licensing and permitting of farmers markets that shall:
+164 “(A) Enable a farmers market to provide the required documentation to
+165 one government agency through an online portal;
+166 “(B) Make the documentation available to any other relevant agency for
+167 review, including for a permit to operate on public space;
+8
+
+ENGROSSED ORIGINAL
+168 “(C) Clearly communicate to applicants through the online portal the
+169 status of their application, including whether they are missing any required documents and which
+170 approvals are still pending; and
+171 “(D) Notify the applicant when each necessary license or permit has been
+172 approved.
+173
+174 “(2) The Mayor shall post on a public facing website the standard requirements
+175 for a license, permit, or authorization to operate a farmers market, farm stand, or mobile market
+176 in the District.”.
+177 (e) Section 8(a-1) (D.C. Official Code § 37-131.07(a-1)) is amended as follows:
+178 (1) Strike the term “farmer’s market” wherever it appears and insert the phrase
+179 “farmers market” in its place.
+180 (2) A new paragraph (2A) is added to read as follows:
+181 “(2A) Notwithstanding any other provision of this section, the Mayor shall waive
+182 all licensing, permitting, or temporary parking restriction fees for a farmers market, farm stand,
+183 or mobile market located, or applying to locate, in a low food access area.”.
+184 (1) Paragraph (3) is amended to read as follows:
+185 “(3) For the purposes of this subsection, the term “low food access area” shall
+186 have the same definition as in section 4938(7) of the Department of Health Functions
+9
+
+ENGROSSED ORIGINAL
+187 Clarification Act of 2001, as approved by the Committee on Health on May 9, 2025 (Committee
+188 print of Bill 26-0109).”.
+189 Sec. 4. Conforming Amendments.
+190 (a) Section 101(3) of the Food, Environmental, and Economic Development in the
+191 District of Columbia Act of 2010, effective April 8, 2011 (D.C. Law 18-353; D.C. Official Code
+192 § 2-1212.01(3)), is amended to read as follows:
+193 “(3) “Farmers market” shall have the same meaning as in section 4938(2) of the
+194 Department of Health Functions Clarification Act of 2001, as approved by the Committee on
+195 Health on May 9, 2025 (Committee print of Bill 26-109).”.
+196 (b) The Food Policy Council and Director Establishment Act of 2014, effective March
+197 10, 2015 (D.C. Official Code § 48-311 et seq.), is amended as follows:
+198 (1) Section 2 (D.C. Official Code § 48-311) is amended as follows:
+199 (A) Paragraph (3) is repealed.
+200 (B) A new paragraph (6A) is added to read as follows:
+201 “(6A) “Low food access area” shall have the same definition as in section 4938(7)
+202 of the Department of Health Functions Clarification Act of 2001, as approved by the Committee
+203 on Health on May 9, 2025 (Committee print of Bill 26-109).
+204 (2) Section 3 (D.C. Official Code § 48-312) is amended by striking the term “food
+205 deserts” both times it appears and insert the phrase “low food access areas” in its place.
+10
+
+ENGROSSED ORIGINAL
+206 (c) Section 4 of the Health Services Planning Program Re-establishment Act of 1996,
+207 effective April 9, 1997 (D.C. Official Code § 44-403), is amended as follows:
+208 (1) Subsection (a) is amended by striking the number “15” and inserting the
+209 number “9” in its place.
+210 (2) Subsection (c) is amended as follows:
+211 (A) Paragraph (1) shall be amended by striking the word “Four” and
+212 inserting the word “Two” in its place.
+213 (B) Paragraph (2) shall be amended by striking the word “Three” and
+214 inserting the word “Two” in its place.
+215 (C) Paragraph (6) is repealed.
+216 (3) Subsection (d) is amended by striking the phrase “Government representatives
+217 shall serve for the duration of their service in the positions stated in subsection (c)(6) and (7) of
+218 this section.” and inserting the phrase “The government representative established by subsection
+219 (c)(9) of this section shall serve for the duration of their service in the described position.” in its
+220 place.
+221 (4) Subsection (e) is amended by striking the phrase “2 consecutive terms” and
+222 inserting the phrase “2 consecutive full terms” in its place.
+223 Sec. 5. Applicability.
+224 (a) Sections 2, 3, 4(a), and 4(b) shall apply upon the date of inclusion of their fiscal effect
+225 in an approved budget and financial plan.
+11
+
+ENGROSSED ORIGINAL
+226 (b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in
+227 an approved budget and financial plan, and provide notice to the Budget Director of the Council
+228 of the certification.
+229 (c)(1) The Budget Director shall cause the notice of the certification to be published in
+230 the District of Columbia Register.
+231 (2) The date of publication of the notice of the certification shall not affect the
+232 applicability of provisions identified in subsection (a) of this section.
+233 Sec. 6. Fiscal impact statement.
+234 The Council adopts the fiscal impact statement in the committee report as the fiscal
+235 impact statement required by section 602(c)(3) of the District of Columbia Home Rule Act,
+236 approved December 24, 1973 (87 Stat. 813; DC. . Official Code § 1-206.02(c)(3)).
+237 Sec. 7. Effective date.
+238 This act shall take effect following approval by the Mayor (or in the event of veto by the
+239 Mayor, action by the Council to override the veto) and a 30-day period of congressional
+240 review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved
+241 December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+12

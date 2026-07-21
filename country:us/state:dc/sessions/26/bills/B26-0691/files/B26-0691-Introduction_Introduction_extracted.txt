@@ -1,0 +1,2204 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+May 18, 2026
+Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. M0002, M003, M0004 and M0005,” to Contract No.
+CW118049 with Networking for Future, Inc. Approval and Payment Authorization Emergency
+Act of 2026,” and the accompanying emergency declaration resolution not-to-exceed amount of
+$10,000,000.
+The legislation will approve Modification Nos. M0002, M003,M0004 and M0005, to Contract No.
+CW118049 with Networking for Future, Inc. to provide temporary support services, and to
+increase the not-to-exceed amount for option year one of the contract. In addition, the legislation
+will approve payment for the goods and services received and to be received under the
+modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modification. In order to facilitate a response to any questions you may have, please have
+your staff contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at
+(202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Muriel Bowser
+
+1 ~~
+2
+3
+4 at the request of the Mayor
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRJCT OF COLUMBIA
+12
+13
+14
+15
+16
+17
+18 To approve, on an emergency basis, Modification Nos. M0002, M003, M0004 and M0005 to
+19 Contract No. CWl 18049 with Networking for Future, Inc., and to authorize payment for
+20 the goods and services received and to be received under the modifications.
+21
+22 BE IT ENACTED BY THE COUNCIL OF THE DISTRJCT OF COLUMBIA, That this
+23 act may be cited as the "Modification Nos. M0002, M003 , M0004 and M0005 to Contract No.
+24 CWl 18049 with Networking for Future, Inc. Approval and Payment Authorization Emergency
+25 Act of 2026".
+26 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+27 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+28 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+29 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification
+30 Nos. M0002, M003, M0004 and M0005 to Contract No. CWl 18049 with Networking for Future,
+31 Inc. and authorizes payment in the not-to-exceed amount of $10 million for the goods and
+32 services received and to be received under the modifications.
+33 Sec. 3. Fiscal impact statement.
+
+34 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+35 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+36 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+37 Sec. 4. Effective date.
+38 This act shall take effect following approval by the Mayor (or in the event of veto by the
+39 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+40 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+41 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+42 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive)
+(A) Contract Number: CW118049
+Proposed Contractor: Networking For Future, Inc
+Proposed Contractor’s Principals: Hess Fatemi, Principal Owner
+Majid Saadat, Principal Owner
+Contract Amount: Not-to-exceed (NTE) $10,000,000
+Unit and Method of Compensation: Fixed unit prices will occur upon completion of work
+for each individual delivery/task order.
+Term of Contract: December 11, 2025, through December 10, 2026
+- Mod 2, exercise option NTE $1,000,000
+- Proposed Mod 4, increase option period to NTE
+$10,000,000
+Type of Contract: Indefinite Delivery Indefinite Quantity with payment based
+upon fixed unit prices.
+Source Selection Method: DC Supply Schedule (DCSS)
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: NTE $10,000,000
+Council Approval: CA25-1083
+Option Period One Amount: NTE $10,000,000
+Option Period Two Amount: NTE $10,000,000
+1
+
+Option Period Three Amount: NTE $10,000,000
+Option Period Four Amount: NTE $10,000,000
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The purpose of this specific DCSS schedule is to facilitate the procurement and acquisition of
+Temporary Support Services in support of District agency operations. By leveraging pre-negotiated
+terms and competitive pricing from the federal General Services Administration Schedule, this
+ensures timely, cost-effective, and compliant access to essential Temporary Support Services.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+DCSS solicitations are open on a continuous basis for Temporary Support Services. The application
+for Networking For Future, Inc. number TSS202415, was submitted on May 20, 2024. The base
+year of the contract was fully executed on December 11, 2024. Eligibility for a DCSS contract are
+determined by the applicant’s ability to meet the District’s compliance requirements, including
+business licensing, tax standing, and certification standards.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+None
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+- Metropolitan Police Department (MPD)-CW108637-awarded-6-2-25-Option Year Three-
+contract amount $61,457.00
+- Office of the Chief Technology Officer (OCTO)-CW102254-awarded-10-1-25-Option Year
+Three-contract amount $3,217,513.60
+- Office of Contracting and Procurement (OCP) (DCSS)-CW112165-awarded-3-12-25-Option
+Year One-contract amount $10,000,000
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Based on a thorough review of the application submitted, the Contracting Officer determined that
+Networking For Future, Inc. possess the necessary organizational experience, technical expertise,
+and accounting and operational controls to successfully fulfill the requirements of the contract.
+2
+
+Networking For Future, Inc. has been providing services to the District since 1996 and has
+consistently maintained a favorable performance record, demonstrating reliability and a strong
+understanding of the District’s operational needs.
+(H) The period of performance associated with the proposed change, including date as of which
+the proposed change is to be made effective:
+December 11, 2025, through December 10, 2026, effective upon date of Council approval.
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+NTE $1,000,000.
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+NTE $9,000,000
+(K) The date on which the contracting officer was notified of the proposed change:
+December 10, 2025.
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+The Contracting Officer exercised the option at a lower amount than the contractor’s previous
+year’s spend.
+(M) The reason for the proposed change:
+The Contracting Officer seeks to raise the contract ceiling to allow for increased Temporary
+Support Services on behalf of the Office of the Chief Technology Officer and other District
+agencies.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+27 DCMR 3601
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+3
+
+The proposed contractor has confirmed that they have not been found to have violated Section 334a
+of the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics
+Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a, and that they are not currently
+and will not be in violation of D.C. Code § 1-1163.34a.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+The subcontracting requirements do not apply to this procurement.
+(Q) Performance standards and the expected outcome of the proposed contract:
+The DCSS contracts serve as the primary procurement vehicles for District agencies. These
+contracts are designed to streamline and support recurring procurement needs across agencies. The
+purpose of this DCSS contract is to facilitate the procurement and acquisition of Temporary
+Support Services in support of District agency operations.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+NTE $1,000,000 - December 10, 2025
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Office of the Chief Financial Officer has certified that funding is consistent with the applicable
+financial plan and budget.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The Attorney General for the District of Columbia has reviewed and approved the subject contract.
+Networking For Future, Inc. has no pending legal claims against the District.
+(U) A certification that the Citywide Clean Hands database indicates that the proposed contractor
+is current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+4
+
+The Citywide Clean Hands database report indicates Networking For Future, Inc. is current with its
+District taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+Networking for Future, Inc. has certified that it is current with its federal taxes.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+Networking For Future, Inc. is currently a certified CBE; certification number LSZX55657082028.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+Networking For Future, Inc. is not listed on the Federal or District Excluded Parties List.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination and Findings for Contractor’s Responsibility
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+http://ocp.dc.gov.
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+OCP website located at www.ocp.dc.gov .
+5
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: March 3, 2026 Notice Number: L0016062931
+NETWORKING FOR FUTURE INC FEIN: **-***9774
+700 12TH ST NW STE 700 Case ID: 18871048
+WCASHINGTON DC 20005-4052
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE CHIEF FINANCIAL OFFICER
+GOVERNMENT OPERATIONS CLUSTER
+OFFICE OF FINANCE AND RESOURCE MANAGEMENT
+MEMORANDUM
+TO: Nancy Hapeman, Chief Procurement Officer
+Office of Contracting and Procurement
+FROM: Alemayehu Awas
+Agency Fiscal Officer
+DATE: March 3, 2026
+SUBJECT: Certification of Funding Availability for DCSS Contracts
+VENDOR: CW118049 – Networking for Future Inc
+PERIOD: October 1, 2026, through September 30, 2027
+This is to certify that the Office of Contracting and Procurement will allocate $10,000.00 in its
+FY2027 budget to cover potential costs that may be incurred if a minimum order is not achieved
+for the District of Columbia Supply Schedule (DCSS) contracts.
+Each DCSS contract has been established as an indefinite delivery/indefinite quantity (IDIQ)
+contract, and agencies may place orders against each contract by means of an individual Task
+Order (TO) or delivery order (DO). If no orders are placed against a DCSS contract, pursuant to
+the DCSS Terms and Conditions, clause 5, the District guarantees the minimum order for each
+contract in the amount of $10.00 for the base year and four option years. Any additional orders
+placed on the DCSS contracts will be encumbered by the ordering agency prior to issuance.
+There are approximately 420 contractors on the DCSS, and it is estimated that $10,000.00 would
+be sufficient to cover the possibility of having to pay $10.00, upon request, to multiple
+contractors.
+Availability of FY 2027 budget is subject to approval of budget by the Council and Congress.
+441 4th St, N.W. * Suite 890 North * Washington, D.C. 20001
+Phone: (202) 727-0333 * Fax: (202) 727-0659
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE CHIEF FINANCIAL OFFICER
+GOVERNMENT OPERATIONS CLUSTER
+OFFICE OF FINANCE AND RESOURCE MANAGEMENT
+MEMORANDUM
+TO: Nancy Hapeman, Chief Procurement Officer
+Office of Contracting and Procurement
+FROM: Alemayehu Awas
+Agency Fiscal Officer
+DATE: March 3, 2026
+SUBJECT: Certification of Funding Availability for DCSS Contracts
+VENDOR: CW118049 – Networking for Future Inc
+PERIOD: October 1, 2025, through September 30, 2026
+This is to certify that the Office of Contracting and Procurement allocated $10,000.00 in its
+FY2026 budget to cover potential costs that may be incurred if a minimum order is not achieved
+for the District of Columbia Supply Schedule (DCSS) contracts.
+Each DCSS contract has been established as an indefinite delivery/indefinite quantity (IDIQ)
+contract, and agencies may place orders against each contract by means of an individual Task
+Order (TO) or delivery order (DO). If no orders are placed against a DCSS contract, pursuant to
+the DCSS Terms and Conditions, clause 5, the District guarantees the minimum order for each
+contract in the amount of $10.00 for the base year and four option years. Any additional orders
+placed on the DCSS contracts will be encumbered by the ordering agency prior to issuance.
+There are approximately 420 contractors on the DCSS, and it is estimated that $10,000.00 would
+be sufficient to cover the possibility of having to pay $10.00, upon request, to multiple
+contractors.
+441 4th St, N.W. * Suite 890 North * Washington, D.C. 20001
+Phone: (202) 727-0333 * Fax: (202) 727-0659
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: March 27, 2026
+SUBJECT: Approval of Option Year One Modification to Temporary Support Services
+D.C. Supply Schedule Contract
+Contract Number: CW118049
+Contractor: Networking for Future, Inc.
+Proposed Contract Amount: NTE $10,000,000
+__________________________________________________________________________
+This is to Certify that this Office has reviewed the above-referenced Contract and have found it to
+be legally sufficient.
+If you have any questions in this regard, please do not hesitate to call me at (202) 724-4018.
+_____________________________
+Robert Schildkraut
+
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT 1. Contract Number Page of Pages
+CW118049 1 1
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+Temporary Support
+Services
+M0002 12/11/25
+6. Issued by: Code KEM 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Office of Contracting and Procurement
+Districtwide Acquisition/DCSS Cluster Districtwide Acquisition/DCSS Cluster
+441 4th Street, NW, Suite 330S 441 4th Street, NW., Suite 330 south
+Washington, DC 20001 Washington, DC 20001
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+Networking for Future Inc.
+700 12th Street, NW Suite 700 9B. Dated
+Washington, DC 20005 10A. Modification of Contract/Order No.
+X
+CW118049
+Code 10B. Dated (See Item 13)
+Facility X
+12/11/24
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers _ is extended._ is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15 and returning __________ copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO
+BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION
+OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or
+telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data:
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Contract Modifications
+The changes set forth in Item 14 are made in the contract/order no. in item 10A
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C. This supplemental agreement is entered into pursuant to authority of: The Changes Clause
+D. Other (Specify type of modification and authority) Exercise of Option, 27 DCMR, Chapter 20, Section 2008, Exercise of Option
+X
+E. IMPORTANT: Contractor is _ _ or is not _X_ is required to sign this document.
+14. Description of amendment/modification (Organized by USC Section headings, including solicitation/contract subject matter where
+feasible.)
+Pursuant to paragraph 3.2, Option to Extend the Term of the Contract, Contract Number CW118049 is hereby
+modified as follows:
+A. The District of Columbia Office of Contracting and Procurement hereby exercises its option to extend the
+term of the contract for the period of December 11, 2025, through December 10, 2026 (Option Year One) with a
+not to exceed contract amount of $1,000,000.00.
+B. The contractor is bound by Wage Determination No. 2015-4281, rev. 34, dated 07/08/25 issued by the
+Department of Labor. (Attached)
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Camille Christian
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+(Signature of person authorized to sign) 12/10/25
+(Signature of Contracting Officer)
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW118049 1 1
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+M0003 See Section Temporary Support Services
+16C
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Office of Contracting and Procurement
+Districtwide Acquisition/DCSS Cluster Districtwide Acquisition/DCSS Cluster
+441 4th Street NW, Suite 330S 441 4th Street NW, Suite 330S
+Washington, DC 20001 Washington, DC 20001
+8. Name and Address of Contractor (No. Street, city, county, state, and zip code) 9A. Amendment of Solicitation No.
+Networking for Future, Inc 9B. Dated (See Item 11)
+700 12th Street, NE Suite 700
+10A. Modification of Contract/Order No.
+Washington, DC 20005 X
+CW118049
+10B. Dated (See Item 13)
+Code Facility 12/11/24
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15 and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE
+RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF
+YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or telegram
+makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+X A. This change order is issued pursuant to (Specify Authority):
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.1
+C. This supplemental agreement is entered into pursuant to authority of 27 DCMR, Chapter 36, Section 3601.2
+D. Other (Specify type of modification and authority) 27 DCMR, Chapter 2008
+E. IMPORTANT: Contractor is not required to sign this document and return one copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+In accordance with Contract Number CW118049, in Section 4.5 the Contracting Officer (CO) is hereby modified as
+follows:
+Delete: Constance Weaver-Thomas
+Office of Contracting and Procurement
+441 4th Street, N.W., Suite 330 South
+Washington. D.C. 20001
+Replace: Camille Christian
+Office of Contracting and Procurement
+441 4th Street, N.W., Suite 330 South
+Washington. D.C. 20001
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print)
+16A. Name of Contracting Officer
+Camille Christian
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+12/8/25
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW118049 1 1
+2.Amendment/Modification Number 3.Effective Date 4. Requisition/Purchase Request No. 5.Solicitation Caption
+M0004 See Box 16C Temporary Support Services
+6.Issued by: Code 7.Administered by (If other than line 6)
+Office of Contracting and Procurement Office of Contracting and Procurement
+Districtwide Acquisition/DCSS Cluster Districtwide Acquisition/DCSS Cluster
+441 4th Street NW, Suite 330S 441 4th Street NW, Suite 330S
+Washington, DC 20001 Washington, DC 20001
+8.Name and Address of Contractor (No. Street, city, county, state, and zip code) 9A. Amendment of Solicitation No.
+Networking for Future, Inc 9B. Dated (See Item 11)
+700 12th Street, NE Suite 700
+10A. Modification of Contract/Order No.
+Washington, DC 20005 X
+CW118049
+10B. Dated (See Item 13)
+Code Facility 12/11/24
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a)By completing Items 8 and 15 and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE
+RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF
+YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or telegram
+makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If required)
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority):
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B.The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.1
+C.This supplemental agreement is entered into pursuant to authority of 27 DCMR, Chapter 36, Section 3601.2
+X D.Other (Specify type of modification and authority) 27 DCMR, Chapter 2008, Exercise of Option
+E.IMPORTANT: Contractor is not required to sign this document and return one copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+A. Pursuant to section 3.2 Option to Extend the Term of the Contract, CW118049 is hereby modified as follows:
+1. The District of Columbia Office of Contracting and Procurement hereby increases the amount of Option
+Year One for the period of December 11, 2025, through December 10, 2026, by $9,000,000 to
+$10,000,000.
+B. The contractor is bound by Wage Determination No. 2015-4281, revision no. 35 dated 12/03/2025 issued
+by The Department of Labor.
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print)
+16A. Name of Contracting Officer
+Camille Christian
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+4/30/2026
+(Signature of person authorized to sign) (Signature of Contracting Officer)
+
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT 1.Co8ntract Number: Page of Pages
+CW118049
+1 1
+2.Amendment/Modification 3.Effective Date 4.Requisition/Purchase Request No. 5.Solicitation Caption:
+Number Temporary Support
+Services
+M0005 See 16C
+6.Issued by: Code 7.Administered By: (If other than line 6)
+Office of Contracting and Procurement Office of Contracting and Procurement
+Districtwide Acquisition/DCSS Cluster Districtwide Acquisition/DCSS Cluster
+414 4th Street, N.W., Suite 330 South 441 4th Street, NW, Suite 330 South
+Washington, D.C. 20001 Washington, DC 20001
+8.Name and Address of Contractor (No. street, city, county, state and zip 9A. Amendment of Solicitation No.
+code)
+Networking for Future, Inc 9B. Dated (See Item 11)
+700 12th Street, NE Suite 700
+10A. Modification of Contract/Order No.
+Washington, DC 20005
+CW118049
+X
+Code Facility 10B. Dated (See Item 13)
+X 12/11/24
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of ISP is extended. is not
+extended Offerors must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the
+following methods:
+(a)completing Items 8 and 15 and returning __________ copies of the amendment; (b) acknowledging receipt of this amendment on each copy of
+the offer submitted; or (c) separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR
+ACKNOWLEDGMENT TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE
+SPECIFIED MAY RESULT IN REJECTION OF YOUR ISP. If by virtue of this amendment you desire to change an offer already submitted, such
+change may be made by letter, telegram or fax, provided each letter or telegram makes reference to the solicitation and this amendment, and is
+received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If Required)
+Provider13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14.
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR 3601.2
+The changes set forth in Item 14 are made in the Contract/Order No. in Item 10A.
+B.The above numbered Contract/Order is modified to reflect the administrative changes (such as, changes in paying office, appropriation
+date,
+X etc.) set forth in Item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C.This supplemental agreement is entered into pursuant to authority of:
+27 DCMR, Chapter 36, Section 3601.2
+D.Other (Specify type of modification and authority) )
+E.IMPORTANT: Contractor is not is required to sign this document and return __1___ copy to the issuing office.
+14.Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+A. Contract No. CW118049 is hereby being modified as follows:
+1. Correct under Section 3.4, the language to read as follows:
+The Maximum Contract Ceiling for each year for this schedule is $10,000,000.
+16A. Name of Contracting Officer
+Camille Christian
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+(Signature of person authorized to sign) 4/30/2026
+(Signature of Contracting Officer)
+
+I . Caption • CBE Market Page 1 of23
+AW ARD/CONTRACT
+CBE Set-Aside
+2. Contract Number 3, Effective Date 4. Solicitation/ReQuisitiOll/Purchase RCQuest/Proiect No.
+CW118049 See Block 20C
+I I TSS202415
+5.Issued Bv: Code 6. Administered bv (If other than line S}
+Office of Contracting and Procurement
+DC Supply Schedule Division
+441-4th Street, NW, Suite 330 -South
+Washington, DC 20001
+s. Name and Address of Contractor (No. street, city, county, 8□. Delivery
+state and Zip Code) FOB Origin �Other (Delineated in each Task Order)
+Networking for Future Inc. 9. Discount for prompt payment
+Net 30days
+700 12th Street, NW
+I 0, Submit invoices to the Address shown in er Item
+Suite 700
+(2 copies unless otherwise specified)
+Each Task Order/Delivery
+Washington, DC, 20005
+Order.
+Tel#: 202-783-9011
+I
+DUNS I I FEIN
+I I I
+11. Ship to/Mark For Code 12.Payment will be made by Code
+See Task Order/Delivery Order As set forth within individual Task or Delivery Orders.
+13. Reserved for future use 14.Accounting and Appropriation Data
+ENCUMBRANCE CODE: See Task Order/Deliverv Order
+ISA.Item IS B. Suoolies/Services ISC. Otv. ISD. Unit I SE. Unit Price 15F. Amount
+96130-00 TEMPORARY SUPPORT SERVICES See Price List
+Attachment A
+Tenn: 365 days from the date of award.
+The District's obligation is pursuant to the Minimum Order as set forth in
+&
+the DCSS Terms and Conditions dated February 2010 Standard
+Contract Provisions dated July 2010.
+Total Amount of Contract rr Min. $10.00
+I
+Max. $10,000,000.
+16. Table of Contents
+(X) Section Description Pa2e (X) Section Descriotion Pa2e
+PART I-THE SCHEDULE
+X I Services or Supplies and Prices 2 X 7 Confirmation and Agreement 22
+X 2 Specifications/Work Statement 4
+X 3 Deliveries or Performance s
+X 4 Contract Administration Data 7-
+s
+X Order of Precedence/List of Attachments' 20
+21
+X 6 Representations, Certifications and Other
+Statements of Applicants
+Contractin2 Officer will comt lete hem 17 or 18 as annlicable
+D
+I 7. �CONTRACTOR'S NEGOTIATED AGREEMENT (Contractor is 18. AWARD (Contractor is not required to sign this document.) Your offer
+2.
+required to sign this document and return copies....to...is.ing office.) Contractor on Solicitation Number TSS202415 including the additions or changes made by
+agrees to furnish and deliver all items, perform all the services set fonh or which additions or changes are set fonh in full above, is hereby accepted as to the
+otherwise identified above and on any continuation sheets, for the consideration items listed above and on any continuation sheets. This award consummates the
+stated herein. The rights and obligations of the parties to this contract shall be contract which consists of the following documents: (a) the Government's
+subject to and governed by the following documents: (a) this award/contract, (b) solicitation and all terms and conditions thereto, (b) your offer, and (c ) this
+the solicitation, if any, and (c ) such provisions, representations, certifications, and award/contract. No further contractual document is necessary
+specifications, as are attached or incoipOrated by reference herein. (Attachments
+are listed herein.}
+Hess Fatemi 20A. Name of Contracting Officer
+19A
+Priscilla Mack
+Executive Partner
+19B I 9C. Date Signed 20B. District of Columbia 20C. Dale Signed
+(Signature)
+. 12-11-24
+:>C OCP 201 (7-99l
+
+SECTION 1
+SERVICES OR SUPPLIES AND PRICES
+1.1 DESCRIPTION
+The Government of the District of Columbia, Office of Contracting and Procurement
+{OCP), on behalf of District agencies shall award this contract to provide Temporary
+Support Services. The contractor shall provide the services in support of District
+agencies' Temporary Support Services.
+1.2 CONTRACT TYPE
+The District's award of this contract shall establish a District wide, multiple award,
+Indefinite Delivery/Indefinite Quantity {ID/IQ) type contract. The contract will constitute
+a District of Columbia Supply Schedule (DCSS).
+This contract will allow District agencies to use this vehicle to acquire a wide variety of
+services. The work shall be accomplished in the manner and within the scope and time
+specified in an individual task Order (TO) for services or Delivery Order (DO) for
+Temporary Support Services.
+1.3 SELECTION OF FEDERAL MULTIPLE AW ARD CONTRACT
+The Contractor has adopted the partial price list and labor category descriptions for
+Temporary Support Services of the following federal multiple award schedule contract;
+Federal Schedule No.: 561320
+Federal Schedule Contract No.: GS-35F-553GA
+Federal Contractor Name: ADG Tech Consulting LLC
+The labor-category descriptions for the contract are included in the adopted McNeal
+Professional Services, Inc., Price List which is available on the OCP shared drive as:
+"DCSS _ SCAN0l-Temporary Support Services-CWl 18049"
+1.4 REQUIRED CBE INFORMATION
+The Contractor's Certified Business Enterprise (CBE) Certification number is
+LSZX35008082025.
+1.5 ORDERING LIMITATIONS AND INFORMATION
+The services and supplies shall be provided only as authorized by the Task Orders (TO)
+issued in accordance with the Ordering Clause Procedures described in Section 4 of the
+DCSS Terms and Conditions. The total value of task orders shall be in compliance with
+the Ordering Limitations and Information Clause in Section 5 of the DCSS Terms &
+Conditions, February 2010. Except for any limitations on quantities or dollars set forth in
+DC Supply Schedule
+Contract No.: CW118049 Page 2 of23
+
+the Ordering Limitations and Information Clause, there is no limit on the number of task
+orders that may be issued. The District may issue task orders for required services or
+products for multiple projects at multiple locations simultaneously.
+1.6 PRICING
+a. Prices that are adopted from a federal contract to establish the DCSS contract
+shall become the item ceiling rates under the DCSS contract.
+b. Prices offered shall be no greater than the prices for the current contract period
+established under the adopted federal contract at the time of award.
+c. Any pricing for any option years offered to the District government beyond the
+last option period of the adopted federal contract shall be governed by the offer
+letter, Attachment A.
+d. The District guarantees the minimum order for each contract in the amount of
+$10.00 for the base year and each of the four (4) option years, if exercised. The
+maximum contract ceiling for each year of the contract is $10,000,000.
+DC Supply Schedule
+Contract No.: CW118049 Page 3 of 23
+
+SECTION 2
+SPECIFICATION/WORK STATEMENT
+2.1 SCOPE
+This IDIQ contract is intended to provide District agencies with the ability to acquire
+Temporary Support Services and to serve as the primary vehicle for all District agencies
+to augment temporary staffing needs.
+2.:2 TYPE OF SERVICES-This contract excludes Information Technology (IT) related
+Consulting Services.
+This IDIQ contract is intended to provide District agencies with temporary solution to
+augment staffing needs. The contract includes, but is not limited to the following
+occupational categories:
+ADMINISTRATIVE SUPPORT AND CLERICAL OCCUPATIONS
+Administrative Clerk, Accounting Clerk I-IV, Court Reporter, Motor Vehicle
+Dispatcher, Document Preparation Clerk, Messenger (Courier), Duplicating Machine
+Operator, Film/Tape Librarian, General Clerk I -IV, Housing Referral Assistant, Key
+Entry Operator I -II, Order Clerk I -II, Personnel Assistant (Employment) I -IV,
+Production Control Clerk, Rental Clerk, Secretary I thru V, Service Order Dispatcher,
+Stenographer I-II, Switchboard Operator-Receptionist, Test Examiner, Test Proctor,
+Travel Clerk I-III, Word Processor I-III, Maintenance Scheduler, Survey Worker
+(Interviewer).
+AUTOMATIC DAT A PROCESSING OCCUPATIONS Computer Data, Librarian,
+Computer Operator I - V, Computer Programmer I - IV, Computer Systems
+Analyst I-III, Peripheral Equipment Operator, Program Analyst.
+INFORMATION AND ARTS OCCUPATIONS, INCLUDING
+MISCELLANEOUS OCCUPATIONS
+Audiovisual Librarian, Illustrator I-III, Librarian, Library Technician, Photographer I
+-V, Child Development I -III, Food Service Worker, Cashier, Desk Clerk, Life ard.
+gu
+TECHNICAL AND PROFESSIONAL OCCUPATIONS
+Cartographic Technician, Computer Based Training (CBT), Specialist/Instructor, Civil
+Engineering Technician, Drafter I - IV, Engineering Technician I -VI,
+Environmental Technician, Graphic Artist (Designer), Paralegal/Legal Assistant I -
+IV, Instructor, Laboratory Technician (Laboratory Tester), Technical Writer.
+DC Supply Schedule
+Contract No.: CW118049 Page 4 of23
+
+SECTION3
+DELIVERY AND PERFORMANCE
+3.1 TERM OF CONTRACT
+The term of the contract shall be for a period of one year from date of award specified on
+the cover page of the contract.
+3.2 OPTION TO EXTEND THE TERM OF THE CONTRACT
+a. The District may extend the term of this contract for a maximum of four (4), one-year
+option periods, or fractions thereof, by written notice to the Contractor before the
+expiration of the contract; provided that the District will give the Contractor a
+preliminary written notice of its intent to extend at least thirty (30) days before the
+contract expires. The preliminary notice does not commit the District to an extension.
+The Contractor may waive the thirty (30) day preliminary notice requirement by
+providing a written waiver to the Contracting Officer prior to the expiration of the
+contract.
+b. The contractor shall honor the pricing of the GSA Contract referenced in Section 1.3
+for the base year and each of the four (4) one-year option periods.
+c. If the District exercises this option, the extended contract shall be considered to
+include this option provision. The prices for the option period shall be as specified in
+the contract.
+d. The District will not exercise an option or partial option if the Contractor is not in
+compliance with the tax filing and payment requirements of the District of Columbia
+tax laws, or is not certified by the Department of Small and Local Business
+Development as a Certified Business Enterprise.
+The total duration of this contract, including the exercise of any options under this clause,
+shall not exceed five (5) years.
+DC Supply Schedule
+Contract No.: CWl 18049 Page 5 of23
+
+3.3 DELIVERABLES
+The contractor shall submit all deliverables in writing according to the following
+schedules and as further required by individual task or delivery orders:
+NIGP DESCRIPTION OF QUANTITY DUE FORMAT/MEDIU
+Code DELIVERABLE DATES M
+96130 Quarterly Sales Report 2 copies to On or before Hard copy. See
+DCSS the 30th day DCSS Terms &
+Contracting after the Conditions
+Officer or preceding Paragraph 2
+designee three (3)
+month fiscal
+quarter
+96130 Authorized Catalog or 2 copies to Within 30 See DCSS Terms &
+Schedule Price List and each eligible business Conditions,
+Labor Category D.C. Agency days after Paragraph 26
+descriptions award
+Failure to submit these deliverables may be cause for termination of the contract or
+the District's decision not to exercise the option to extend its term.
+3.4 MAXIMUM CONTRACT CEILING
+a. Pursuant to the DCSS Terms and Conditions (February 2010), Section 5, the District
+reserves the right to increase or decrease the maximum contract ceiling for this
+solicitation at any time via written modification. The maximum contract ceiling for each
+year for this schedule is $950,000.
+b. Contracting Officers are encouraged to seek price reductions when orders may exceed ten
+percent (10%) of the maximum ceiling. The Contractor agrees to negotiate price
+reductions for any items when orders may exceed ten (I 0%) of the maximum ceiling.
+3.5 51 % DISTRICT RESIDENTS NEW HIRES REQUIREMENTS AND FIRST
+SOURCE EMPLOYMENT AGREEMENT
+The Contractor shall submit to the District as a deliverable a copy of reports that are
+required pursuant to section 20e of the DCSS Terms and Conditions concerning the 51 %
+District Residents New Hires Requirements and the First Source Employment
+Agreement. If the Contractor does not submit the reports as a part of the deliverables,
+final payment to the Contractor may not be paid. District Residents New Hires
+Requirements and the First Source Employment Agreement. If the Contractor does not
+submit the reports as a part of the deliverables, final payment to the Contractor may not
+be paid.
+DC Supply Schedule
+Contract No.: CW118049 Page 6 of 23
+
+SECTION 4
+CONTRACT ADMINISTRATION DATA
+4.1 INVOICE PAYMENT
+(a) After the award of a Task or Delivery Order, the District will make payments to
+the Contractor, upon the submission of proper invoices or vouchers, at the prices
+stipulated in the contract, for supplies delivered and accepted or services
+performed and accepted, less any discounts, allowances or adjustments provided
+for in the contract awarded.
+(b) The District will pay the Contractor on or before the 30th day after receiving a
+proper invoice from the Contractor.
+4.2 INVOICE SUBMITTAL
+(a) The Contractor shall submit proper invoices on a monthly basis or as otherwise
+specified within the Task or Delivery Order. Invoices shall be prepared in
+duplicate and submitted to the agency Chief Financial Officer (CFO) with
+concurrent copies to the Contracting Administrator (CA). The name, address, and
+telephone number of the appropriate CFO and CA will be provided to the
+Contractor under each task or delivery order.
+(b) To constitute a proper invoice, the Contractor shall submit the following
+information on the invoice;
+■ Contractor's name, Federal tax ID and invoice date (Contractors are
+encouraged to date invoices as close to the date of mailing or transmittal as
+possible);
+■ Contract number (Block No. 2) of the executed Solicitation, Application and
+Award Form (page I), and delivery or task order and encumbrance (purchase
+order) number.
+■ Assignment of an invoice number by the Contractor is required;
+■ Description, price, quantity and the date(s) that the supplies/services were
+actually delivered or performed.
+(c) Other supporting documentation or information, as required by the Contracting
+Officer:
+• Name, title, telephone number and complete mailing address of the
+responsible official to whom payment is to be sent;
+• Name, title, phone number of person preparing the invoice;
+• Name, title, phone number and mailing address of person to be notified in the
+event of a defective invoice; and,
+■ Authorized signature
+DC Supply Schedule
+Contract No.: CW118049 Page 7 of23
+
+4.3 FIRST SOURCE AGREEMENT REQUEST FOR FINAL PAYMENT
+(a) For contracts subject to the 51 % District Residents New Hires Requirements and
+First Source Employment Agreement requirements, final request for payment
+must be accompanied by the report or a waiver of compliance discussed in
+subsection 20e of the DCSS Terms and Conditions.
+(b) No final payment shall be made to the Contractor until the CFO has received the
+Contracting Officer's final determination or approval of waiver of the
+Contractor's compliance with 51 % District Residents New Hires Requirements
+and First Source Employment Agreement requirements.
+4.4 ASSIGNMENTS
+(a) In accordance with 27 DCMR 3250, unless otherwise prohibited by this contract,
+the Contractor may assign funds due or to become due as a result of the
+performance of this contract to a bank, trust company, or other financing
+institution.
+(b) Any assignment shall cover all unpaid amounts payable under this contract, and
+shall not be made to more than one party.
+(c) Notwithstanding an assignment of money claims pursuant to authority contained
+in the contract, the Contractor, not the assignee, is required to prepare invoices.
+Where such an assignment has been made, the original copy of the invoice must
+refer to the assignment and must show that payment of the invoice is to be made
+directly to the assignee as follows:
+Pursuant to the instrument of assignment dated NI A
+make payment of this invoice to NIA
+(name and address of assignee).
+4.5 CONTRACTING OFFICER (CO)
+Contracts shall be entered into and signed on behalf of the District only by Contracting
+Officers. The address and telephone number of the Contracting Officer for this
+application is:
+Priscille Mack
+Contracting Officer
+Office of Contracting and Procurement
+441 4th St. NW Suite 330S
+Washington, DC 20001
+Telephone: (202) 724-5236
+DC Supply Schedule
+Contract No.: CWl 18049 Page 8 of 23
+
+4.6 AUTHORIZED CHANGES BY THE CONTRACTING OFFICER
+The Contracting Officer is the only person authorized to approve changes in any of the
+requirements of the contract resulting from the application.
+The Contractor shall not comply with any order, directive or request that changes or
+modifies the requirements of the contract, unless issued in writing and signed by the
+Contracting Officer.
+In the event the Contractor effects any change at the instruction or request of any person
+other than the Contracting Officer, the change will be considered to have been made
+without authority, and no adjustment will be made in the contract price to cover any price
+increase incurred as a result thereof.
+4.7 CONTRACT ADMINISTRATOR (CA)
+The agency CA for this contract will be determined at the time of issuance of task or
+delivery orders. The CA is responsible for general administration of the contract and
+advising the Contracting Officer as to the Contractor's compliance or noncompliance
+with the contract. In addition, the CA is responsible for the day-to-day monitoring and
+supervision of the contract, of ensuring that the work conforms to the requirements of this
+contract and such other responsibilities and authorities as may be specified in the
+contract
+4.8 QUICK PAYMENT ACT
+4.8.1 Interest Penalties to Contractors
+4.8.1.1 The District will pay interest penalties on amounts due to the Contractor under the
+Quick Payment Act, D.C. Official Code § 2-221.01 et seq., as amended, for the period
+beginning on the day after the required payment date and ending on the date on which
+payment of the amount is made. Interest shall be calculated at the rate of at least 1 %
+per month. No interest penalty shall be paid if payment for the completed delivery of
+the item of property or service is made on or before the required payment date. The
+required payment date shall be:
+4.8.1.1.1 The date on which payment is due under the terms of this contract;
+4.8.1.1.2 Not later than 7 calendar days, excluding legal holidays, after the date of delivery of
+meat or meat food products;
+4.8.1.1.3 Not later than l O calendar days, excluding legal holidays, after the date of delivery of a
+perishable agricultural commodity; or
+4.8.1.1.4 30 calendar days, excluding legal holidays, after receipt of a proper invoice for the
+amount of the payment due.
+DC Supply Schedule
+Contract No.: CW118049 Page 9 of 23
+
+4.8.1.2 No interest penalty shall be due to the Contractor if payment for the completed
+delivery of goods or services is made on or before:
+4.8.1.2.1 3rd day after the required payment date for meat or a meat product;
+4.8.1.2.2 5th day after the required payment date for an agricultural commodity; or
+4.8.1.2.3 1 5th day after any other required payment date.
+4.8.1.3 Any amount of an interest penalty which remains unpaid at the end of any 30-day
+period shall be added to the principal amount of the debt and thereafter interest
+penalties shall accrue on the added amount.
+4.8.2 Payments to Subcontractors
+4.8.2.1 The Contractor shall take one of the following actions within seven (7) days of
+receipt of any amount paid to the Contractor by the District for work performed by
+any subcontractor under the contract:
+4.8.2.1.l Pay the subcontractor(s) for the proportionate share of the total payment received
+from the District that is attributable to the subcontractor(s) for work performed under
+the contract; or
+4.8.2.1.2 Notify the CO and the subcontractor(s), in writing, of the Contractor's intention to
+withhold all or part of the subcontractor's payment and state the reason for the
+nonpayment.
+4.8.2.2 The Contractor shall pay subcontractors or suppliers interest penalties on amounts due
+to the subcontractor or supplier beginning on the day after the payment is due and
+ending on the date on which the payment is made. Interest shall be calculated at the
+rate of at least 1 % per month. No interest penalty shall be paid on the following if
+payment for the completed delivery of the item of property or service is made on or
+before the:
+4.8.2.2.1
+3rd
+day after the required payment date for meat or a meat product;
+4.8.2.2.2 5th day after the required payment date for an agricultural commodity; or
+4.8.2.2.3 15th day after any other required payment date.
+4.8.2.3 Any amount of an interest penalty which remains unpaid by the Contractor at the end
+of any 30-day period shall be added to the principal amount of the debt to the
+subcontractor and thereafter interest penalties shall accrue on the added amount.
+4.8.2.4 A dispute between the Contractor and subcontractor relating to the amounts or
+entitlement of a subcontractor to a payment or a late payment interest penalty under
+the Quick Payment Act does not constitute a dispute to which the District is a party.
+DC Supply Schedule
+Contract No.: CW118049 Page 10 of 23
+
+The District may not be interpleaded in any judicial or administrative proceeding
+involving such a dispute.
+4.8.3 Subcontract requirements
+4.8.3.1 The Contractor shall include in each subcontract under this contract a provision
+requiring the subcontractor to include in its contract with any lower-tier subcontractor
+or supplier the payment and interest clauses required under paragraphs ( 1) and (2) of
+D.C. Official Code § 2-221.02(d).
+4.8.3.2 The Contractor shall include in each subcontract under this contract a provision that
+obligates the Contractor, at the election of the subcontractor, to participate in
+negotiation or mediation as an alternative to administrative or judicial resolution of a
+dispute between them.
+4.8.4 FLOW DOWN REQUIREMENT FOR SUBCONTRACTS
+4.8.4.1 The Contractor shall include in each subcontract a provision that requires the
+subcontractor to include in its contract with any subcontractor or supplier the payment
+and interest clauses required under paragraphs ( 1) and (2) of DC Official Code § 2-
+221.02 (d).
+4.9 WAY TO WORK AMENDMENT ACT OF 2006
+4.9.1 Except as described in 6.9.8 below, the Contractor shall comply with Title I of the
+Way to Work Amendment Act of 2006, effective June 9, 2006 (D.C. Law 16-118,
+D.C. Official Code §2-220.01 et seq.) ("Living Wage Act of 2006"), for contracts
+for services in the amount of $100,000 or more in a 12-month period.
+4.9.2 The Contractor shall pay its employees and subcontractors who perform services
+under the contract no less than the current living wage published on the OCP
+website at www.ocp.dc.gov.
+4.9.3 The Contractor shall include in any subcontract for $15,000 or more a provision
+requiring the subcontractor to pay its employees who perform services under the
+contract no less than the current living wage rate.
+4.9.4 The Department of Employment Services may adjust the living wage annually and the
+OCP will publish the current living wage rate on its website at www.ocp.dc.gov.
+4.9.5 The Contractor shall provide a copy of the Fact Sheet attached as Attachment F to
+each employee and subcontractor who performs services under the contract. The
+Contractor shall also post the Notice attached as Attachment E in a conspicuous
+place in its place of business. The Contractor shall include in any subcontract for
+$15,000 or more a provision requiring the subcontractor to post the Notice in a
+conspicuous place in its place of business.
+DC Supply Schedule
+Contract No.: CWl 18049 Page 11 of 23
+
+4.9.6 The Contractor shall maintain its payroll records under the contract in the regular
+course ofb usiness for a period of at least three (3) years from the payroll date, and
+shall include this requirement in its subcontracts for $15,000 or more under the
+contract.
+4.9.7 The payment of wages required under the Living Wage Act of2006 shall be
+consistent with and subject to the provisions ofD.C. Official Code §32-1301 et
+seq.
+4.9.8 The requirements of the Living Wage Act of2006 do not apply to:
+( l) Contracts or other agreements that are subject to higher wage level
+determinations required by federal law;
+(2) Existing and future collective bargaining agreements, provided, that the future
+collective bargaining agreement results in the employee being paid no less than the
+established living wage;
+(3) Contracts for electricity, telephone, water, sewer or other services provided by
+a regulated utility;
+(4) Contracts for services needed immediately to prevent or respond to a disaster
+or eminent threat to public health or safety declared by the Mayor;
+(5) Contracts or other agreements that provide trainees with additional services
+including, but not limited to, case management and job readiness services;
+provided that the trainees do not replace employees subject to the Living Wage
+Act of2006;
+(6) An employee under 22 years of age employed during a school vacation
+period, or enrolled as a full-time student, as defined by the respective institution,
+who is in high school or at an accredited institution of higher education and who
+works less than 25 hours per week; provided that he or she does not replace
+employees subject to the Living Wage Act of2006;
+(7) Tenants or retail establishments that occupy property constructed or improved
+by receipt of government assistance from the District of Columbia; provided, that
+the tenant or retail establishment did not receive direct government assistance
+from the District;
+(8) Employees of nonprofit organizations that employ not more than 50 individuals
+and qualify for taxation exemption pursuant to section 50l(c)(3) of the Internal
+Revenue Code of 1954, approved August 16, 1954 (68A Stat. 163; 26 U.S.C. §
+50l(c)(3);
+(9) Medicaid provider agreements for direct care services to Medicaid recipients,
+provided, that the direct care service is not provided through a home care agency,
+a community residence facility, or a group home for mentally retarded persons
+as those terms are defined in section 2 of the Health-Care and Community
+Residence Facility, Hospice, and Home Care Licensure Act of 1983, effective
+February 24, 1984 (D.C. Law 5-48; D.C. Official Code§ 44-501); and,
+Safety Net Administration or the Medicaid Assistance Administration to provide
+health services.
+DC Supply Schedule
+Contract No.: CW118049 Page 12 of 23
+
+4.9.9 The Mayor may exempt a Contractor from the requirements of the Living Wage
+Act of 2006, subject to the approval of Council, in accordance with the provisions
+of Section 109 of the Living Wage Act of 2006.
+4.10 INSURANCE
+A. GENERAL REQUIREMENTS. The Contractor shall procure and maintain, during
+the entire period of performance under this contract, the types of insurance specified
+below. The Contractor shall have its insurance broker or insurance company submit
+a Certificate oflnsurance to the CO giving evidence of the required coverage prior to
+commencing performance under this contract. In no event shall any work be
+performed until the required Certificates of Insurance signed by an authorized
+representative of the insurer(s) have been provided to, and accepted by, the CO. All
+insurance shall be written with financially responsible companies authorized to do
+business in the District of Columbia or in the jurisdiction where the work is to be
+performed and have an A.M. Best Company rating of A-/ VII or higher. The
+Contractor shall require all of its subcontractors to carry the same insurance required
+herein.
+All required policies shall contain a waiver of subrogation provision in favor of the
+District of Columbia.
+The Contractor shall include the District of Columbia as an additional insured in all
+policies required hereunder to be maintained by the Contractor and its subcontractors
+( except for workers' compensation and professional liability insurance) for claims
+against the District of Columbia relating to performance of this contract. The
+Contractor agrees that any affirmative obligation imposed upon the Contractor or its
+subcontractors (including without limitation the liability to pay premiums) shall be the
+sole obligation of the Contractor and its subcontractors, and not the additional insured.
+The additional insured status under the Contractor's and its subcontractors'
+Commercial General Liability insurance policies shall be effected using the Insurance
+Services Office, Inc. ("ISO") Additional Insured Endorsement form CG 20 10 11 85
+(or CG 20 10 07 04 and CG 20 37 07 04) or such other endorsement or combination
+of endorsements providing coverage at least as broad. All of the Contractor's and its
+subcontractors' liability policies--except for workers' compensation and professional
+liability insurance--shall be endorsed using ISO form CG 20 01 04 13 or its equivalent
+so as to indicate that such policies provide primary coverage (without any right of
+contribution by any other insurance, reinsurance or
+self-insurance, including any deductible or retention maintained by an additional
+insured) for all claims against the additional insured arising out of the performance of
+this contract by the Contractor and its subcontractors, or anyone for whom the
+Contractor or its subcontractors may be liable. These policies shall include a
+separation of insureds clause applicable to the additional insured.
+If the Contractor and/or its subcontractors maintain broader coverage and/or higher
+limits than the minimums shown below, the District requires, and shall be entitled to,
+DC Supply Schedule
+Contract No.: CW118049 Page 13 of23
+
+the broader coverage and/or the higher limits maintained by the Contractor and/or
+subcontractors. Any available insurance proceeds in excess of the specified minimum
+limits of insurance and coverage shall be available to the District.
+1. Commercial General Liability Insurance (CGL). The Contractor shall maintain
+a CGL policy, written on an occurrence (not claims-made) basis, on ISO form CG
+00 0 I 04 13 (o r another occurrence-based form with coverage at least as broad),
+covering liability for all ongoing and completed operations of the Contractor,
+including ongoing and completed operations under all subcontracts, and covering
+claims for bodily injury, including without limitation sickness, disease or death of
+any persons, injury to or destruction of property, including loss of use resulting
+therefrom, personal and advertising injury, and including coverage for liability
+arising out of an insured contract (including the tort liability of another assumed in a
+contract) and acts of terrorism, whether caused by a foreign or domestic source. Such
+coverage shall have limits of liability of not less than $ I ,000,000 each occurrence, a
+$2,000,000 general aggregate (including a per location or per project aggregate
+limit endorsement) limit, a $1,000,000 personal and advertising injury limit, and a
+$2,000,000 products-completed operations aggregate limit.
+2. Automobile Liability Insurance. The Contractor shall maintain commercial
+(business) automobile liability insurance written on ISO form CA 00 01 10 13 (or
+another form with coverage at least as broad) including coverage for all owned,
+hired, borrowed and non-owned vehicles and equipment used by the Contractor,
+with minimum per accident limits equal to the greater of (i) the limits set forth in
+the Contractor's commercial automobile liability policy, or (ii) $1,000,000 per
+occurrence combined single limit for bodily injury and property damage.
+3. Workers' Compensation Insurance. The Contractor shall maintain Workers'
+Compensation insurance in accordance with the statutory mandates of the District
+of Columbia or the jurisdiction in which the contract is performed.
+4. Employer's Liability Insurance. The Contractor shall maintain employer's
+liability insurance as follows: $500,000 per accident for injury; $500,000 per
+employee for disease; and $500,000 for policy disease limit.
+B. PRIMARY AND NONCONTRIBUTORY INSURANCE. The Contractor agrees that its
+insurance shall be primary and noncontributory. The Contractor agrees that no other
+insurance available to the District of Columbia or an additional insured under
+Contractor's policy shall apply before the Contractor's insurance coverages are fully
+exhausted.
+C. CERTIFICATE OF INSURANCE REQUIREMENTS. Each certificate of insurance shall
+include:
+1. The name of the insurance company or companies;
+2. The name of the insured contractor;
+3. The type(s) of insurance coverage being provided;
+DC Supply Schedule
+Contract No.: CW118049 Page 14 of 23
+
+4. The insurance policy number(s);
+5. The insurance policy effective date(s) and expiration date(s);
+6. The insurance liability limits;
+7. The District contract number;
+8. Specific cancellation requirements noted in the Cancellation box (in the lower
+right-hand comer);
+9. The District as a Certificate Holder (in the box in the lower left-hand corner); and
+10. The District noted as an additional insured and a waiver of subrogation noted in
+either the insurance description section or checked in the boxes next to the
+applicable lines of coverage.
+D. DURATION. The Contractor shall maintain all required insurance for two (2) years
+following final acceptance of the work performed under this contract, unless otherwise
+provided above.
+E. LIABILITY. These are the required minimum insurance requirements established by
+the District of Columbia. HOWEVER, THE MINIMUM INSURANCE
+REQUIREMENTS PROVIDED ABOVE WILL NOT IN ANY WAY LIMIT THE
+CONTRACTOR'S LIABILITY UNDER THIS CONTRACT.
+F. CONTRACTOR'S PROPERTY. Contractor and subcontractors are solely responsible for
+any loss or damage to their personal property, including but not limited to tools and
+equipment, scaffolding and temporary structures, rented machinery, or owned and leased
+equipment. A waiver of subrogation shall apply in favor of the District of Columbia.
+G. MEASURE OF PAYMENT. The District shall not make any separate measure or
+payment for the cost of insurance and bonds. The Contractor shall include all of the
+costs of insurance and bonds in the contract price.
+H. NOTIFICATION OF CHANGES TO INSURANCE. The Contractor shall ensure that\
+all policies provide that the CO shall be given thirty (30) days prior written notice in the
+event of coverage or limit changes, or if the policy is canceled prior to the expiration
+date shown on the certificate. The Contractor shall provide the CO with ten ( 10) days
+prior written notice in the event of non-payment of premium. The Contractor will also
+provide the CO with an updated Certificate oflnsurance when its insurance coverages
+renew during the contract, and after.
+I. SUBMISSION OF CERTIFICATES OF INSURANCE. The Contractor shall have its
+insurance broker or insurance company submit Certificates of Insurance giving
+evidence of the required coverages prior to commencing work, and as necessary during
+the term of this contract. Certificates of Insurance shall be submitted to:
+Priscilla Mack
+Contracting Officer
+441 4th Street NW
+Washington DC 20001
+Priscilla.mack@dc.gov
+DC Supply Schedule
+Contract No.: CWl 18049 Page 15 of 23
+
+J. DISCLOSURE OF INFORMATION. The Contractor agrees that the District may disclose
+the name and contact information of its insurers to any third party which presents a claim
+against the District for any damages or claims resulting from or arising out of work
+performed by the Contractor, its agents, employees, servants, or subcontractors in the
+performance of this contract.
+4.11 DISPUTES
+Delete Article 14, Disputes, of the Standard Contract Provisions dated July 2010 for use with
+District of Columbia Government Supplies and Services Contracts and substitute the
+following Article 14, Disputes, in its place:
+14. Disputes
+All disputes arising under or relating to the contract shall be resolved as provided
+herein.
+(a) Claims by the Contractor against the District: Claim, as used in paragraph
+(a) of this clause, means a written assertion by the Contractor seeking, as a
+matter of right, the payment of money in a sum certain, the adjustment or
+interpretation of contract terms, or other relief arising under or relating to the
+contract. A claim arising under a contract, unlike a claim relating to that
+contract, is a claim that can be resolved under a contract clause that provides
+for the relief sought by the claimant.
+( 1) All claims by a Contractor against the District arising under or relating to a
+contract shall be in writing and shall be submitted to the CO for a decision. The
+Contractor's claim shall contain at least the following:
+(i) A description of the claim and the amount in dispute;
+(ii) Data or other information in support of the claim;
+(iii) A brief description of the Contractor's efforts to resolve the dispute
+prior to filing the claim; and
+(iv) The Contractor's request for relief or other action by the CO.
+(2) The CO may meet with the Contractor in a further attempt to resolve the claim by
+agreement.
+(3) The CO shall issue a decision on any claim within 120 calendar days after receipt
+of the claim. Whenever possible, the CO shall take into account factors such as
+the size and complexity of the claim and the adequacy of the information in
+support of the claim provided by the Contractor.
+(4) The CO's written decision shall do the following:
+DC Supply Schedule
+Contract No.: CWl 18049 Page 16 of 23
+
+(i) Provide a description of the claim or dispute;
+(ii) Refer to the pertinent contract terms;
+{iii) State the factual areas of agreement and disagreement;
+(iv) State the reasons for the decision, including any specific
+findings of fact, although specific findings of fact are not
+required and, ifm ade, shall not be binding in any subsequent
+proceeding;
+(v) If all or any part of the claim is determined to be valid,
+determine the amount of monetary settlement, the contract
+adjustment to be made, or other relief to be granted;
+(vi) Indicate that the written document is the CO's final decision;
+and
+(vii) Inform theC ontractor of the right to seek further redress by
+appealing the decision to the Contract Appeals Board.
+(5) Failure by theC O to issue a decision on a contract claim within 120 days of
+receipt of the claim will be deemed to be a denial of the claim, and will authorize
+the commencement ofa n appeal to the Contract Appeals Board as provided by
+D.C. OfficialC ode § 2-360.04.
+( 6) If a contractor is unable to support any part of its claim and it is determined
+that the inability is attributable to a material misrepresentation of fact or
+fraud on the part of the Contractor, the Contractor shall be liable to the
+District for an amount equal to the unsupported part oft he claim in addition
+to all costs to the District attributable to the cost of reviewing that part of
+the Contractor's claim. Liability under this paragraph (a)(6) shall be
+determined within six (6) years of the commission of the misrepresentation
+of fact or fraud.
+(7) Pending final decision of an appeal, action, or final settlement, the Contractor shall
+proceed diligently with performance of the contract in accordance with the decision
+oftheCO.
+(b) Claims by the District against the Contractor: Claim as used in paragraph
+(b) of this clause, means a written demand or written assertion by the District
+seeking, as a matter of right, the payment ofm oney in a sum certain, the
+adjustment ofc ontract terms, or other reliefa rising under or relating to the
+contract. A claim arising under a contract, unlike a claim relating to that
+contract, is a claim that can be resolved under a contract clause that provides
+for the relief sought by the claimant.
+( 1) TheC O shall decide all claims by the District against a contractor arising under or
+relating to a contract.
+{2) The CO shall send written notice of the claim to the contractor. The CO's
+written decision shall do the following:
+DC Supply Schedule
+Contract No.: CW118049 Page 17 of 23
+
+(i) Provide a description of the claim or dispute;
+(ii) Refer to the pertinent contract terms;
+(iii) State the factual areas of agreement and disagreement;
+(iv) State the reasons for the decision, including any specific
+findings of fact, although specific findings of fact are not
+required and, if made, shall not be binding in any subsequent
+proceeding;
+(v) If all or any part of the claim is determined to be valid, determine the
+amount of monetary settlement, the contract adjustment to be made,
+or other relief to be granted;
+(vi) Indicate that the written document is the CO's final decision;
+and,
+(vii) Inform the Contractor of the right to seek further redress by
+appealing the decision to the Contract Appeals Board.
+(3) The CO shall support the decision by reasons and shall inform the
+Contractor of its rights as provided herein.
+(4) Before or after issuing the decision, the CO may meet with the Contractor
+to attempt to resolve the claim by agreement.
+(5) The authority contained in this paragraph (b) shall not apply to a claim or
+dispute for penalties or forfeitures prescribed by statute or regulation
+which another District agency is specifically authorized to administer,
+settle or determine.
+(6) This paragraph shall not authorize the CO to settle, compromise, pay, or
+otherwise adjust any claim involving fraud.
+(c) Decisions of the CO shall be final and not subject to review unless the Contractor
+timely commences an administrative appeal for review of the decision, by filing a
+complaint with the Contract Appeals Board, as authorized by D.C. Official Code
+§ 2-360.04.
+( d) Pending final decision of an appeal, action, or final settlement, the
+Contractor shall proceed diligently with performance of the contract in
+accordance with the decision of the CO.
+4.12 CHANGES
+Delete clause 15, Changes Clause, of the Standard Contract Provisions dated July
+2010 for use with District of Columbia Government Supplies and Services
+Contracts and substitute the following clause 15, Changes Clause, in its place:
+15. Changes:
+(a) The CO may, at any time, by written order, and without notice to the surety, if any,
+DC Supply Schedule
+Contract No.: CWl 18049 Page 18 of23
+
+make changes in the contract within the general scope hereof. If such change causes
+an increase or decrease in the cost of performance of the contract, or in the time
+required for performance, an equitable adjustment shall be made. Any claim for
+adjustment for a change within the general scope must be asserted within ten (10) days
+from the date the change is ordered; provided, however, that the CO, if he or she
+determines that the facts justify such action, may receive, consider, and adjust any such
+claim asserted at any time prior to the date of final settlement of the contract. If the
+parties fail to agree upon the adjustment to be made, the dispute shall be determined
+as provided in clause 14 Disputes.
+(b) The District shall not require the Contractor, and the Contractor shall not require a
+sub-contractor, to undertake any work that is beyond the original scope of the
+contract or subcontract, including work under a District-issued change order, when
+the additional work increases the contract price beyond the not-to-exceed price or
+negotiated maximum price of the contract, unless the CO:
+( 1) Agrees with the Contractor, and if applicable the subcontractor, on a price for
+the additional work;
+(2) Obtains a certification of funding to pay for the additional work;
+(3) Makes a written, binding commitment with the Contractor to pay for the
+additional work within thirty (30) days after the Contractor submits a proper
+invoice; and
+(4) Provides the Contractor with written notice of the funding certification.
+(c) The Contractor shall include in its subcontracts a clause that requires the Contractor
+to:
+(1) Within five (5) business days of its receipt of notice of the approved
+additional funding, provide the subcontractor with notice of the amount to be
+paid to the subcontractor for the additional work to be performed by the
+subcontractor;
+(2) Pay the subcontractor any undisputed amount to which the subcontractor is
+entitled for the additional work within ten (10) days of receipt of payment
+from the District; and
+(3) Notify the subcontractor and CO in writing of the reason(s) the Contractor
+withholds any payment from a subcontractor for the additional work.
+(d) Neither the District, Contractor, nor any subcontractor may declare another party to
+be in default, or assess, claim, or pursue damages for delays until the parties agree on
+a price for the additional work.
+DC Supply Schedule
+Contract No.: CWl 18049 Page 19 of 23
+
+SECTION 5
+ORDER OF PRECEDENCE AND ATTACHMENTS
+ORDER OF PRECEDENCE
+A conflict in language shall be resolved by giving precedence to the document in the highest
+order of priority that contains language addressing the issue in question. The following
+documents are incorporated into the contract by reference in the following order of precedence:
+I. Contract Number: CWI 18049
+2. District of Columbia Supply Schedule Terms and Conditions, February 2010
+3. Standard Contract Provisions for Use with District of Columbia Government Supply and
+Services Contracts, July 2010
+ATTACHMENTS
+The following attachment is incorporated into the contract
+1. DCSS Price Schedule, Offer Letter dated August 27, 2024, Attachment A,
+2. Wage Determination 2015-4281, Rev. No. 29, Dated 04/11/24, Attachment B
+3. Living Wage Act Notice 2006 and Fact Sheet, effective January 1, 2024
+DC Supply Schedule
+Contract No.: CWl 18049 Page 20 of23
+
+SECTION 6
+REPRESENTATIONS, CERTIFICATIONS AND
+OTHER STATEMENTS OF APPLICANTS
+6.1 AUTHORIZED NEGOTIATORS
+The Contractor represents that the following persons are authorized to negotiate on its
+behalf with the District in connection with this request for Contractor: (list names, titles,
+and telephone numbers of the authorized negotiators).
+Names: Hess Fatemi
+Titles: Executive Partner
+Telephone: (202)-783-9011
+6.2 WALSH-HEALEY ACT
+If this contract is for the manufacture or furnishing of materials, supplies, articles or
+equipment in an amount that exceeds or may exceed $10,000, and is subject to the
+Walsh-Healey Public Contracts Act, as amended (41 U.S.C. 35-45), the following terms
+and conditions apply:
+(a) All representations and stipulations required by the Act and regulations issued by
+the Secretary of Labor (41 CFR 50-201.3) are incorporated by reference. These
+representations and stipulations are subject to all applicable rulings and
+interpretations of the Secretary of Labor that are now, or may hereafter, be in
+effect.
+(b) All employees whose work relates to this contract shall be paid not less than the
+minimum wage prescribed by regulations issued by the Secretary of Labor (4 1
+CFR 50-202.2) (41 U.S.C.40). Learners, student learners, apprentices, and
+handicapped workers may be employed at less than the prescribed minimum wage
+(see 41 CFR 50-202.3) to the same extent that such employment is permitted
+under Section 14 of the Fair Labor Standards Act (29 U.S.C. 214).
+DC Supply Schedule
+Contract No.: CWl 18049 Page 21 of23
+
+SECTION7
+CONFIRMATION AND AGREEMENT
+7.1 The Contractor agrees to comply with all terms and conditions set forth herein.
+DC Supply Schedule
+Contract No.: CW118049 Page 22 of 23
+
+ATTACHMENT A
+PRICING LETTER AND PRICING LISTCW118049
+
+‘August 27,2024
+PriscillaMack
+ContractingOfficer
+OfficeofContractingandProcurement
+DCSupplySchedule
+441 ~4°StreetN.W.,Suite330 South
+Washington,D.C. 20001
+RE: CSSSolicitationNo. TSS202415
+ContractNo.CWI18049
+Caption: Temporary SupportServices
+DearMs. Mack:
+‘Toprovide TemporarySupportServicesunderContract No. CW118049,NetworkingForFuture Inc.,agreestothepricingthatisset
+forthinthepriceschedulethatisattachedtothisetter. Intheattachedpriceschedule,weareadoptingapartialscheduleconsisting
+‘of65 pagesandpricingthatisatorbelowthe pricesthatare inGSA FederalSupplyScheduleServicesContractNo. #GS-35F-
+353GAwasawardedtoADGTechConsulting,LLC_These pricesapplytothe baseyearandeachofthe four(4)optionyearsunder
+theproposedDCSScontract.
+Pleasefeelfreetocallmeifyouhaveanyquestions. Icanbereachedat202-783-9015. Thankyouinadvanceforyourcooperation
+‘andconsiderationinthismatter.
+Sincerely,
+W. Ari
+HessFatemi
+Executive Partner
+NetworkingforFuture, Inc. +70012%StNW, Suite700 *Washington,OC20005,
+
+Over
+DetvNeetiBnega
+Bese| Oplon| Ondon |—Opin
+LaborCategory eur| Yourt| Yearz| Yours
+OxteErryOperetort wae
+[ateEntryOperator a
+[GenerarCierk vane
+[Generaliorkt wast
+[ GenerelCork wae|
+[computerOperator! cd
+[computerOperatorit wa
+[Femur Operator woe
+[ EomiterOperator co
+[ComputerOperatorV Ed
+[ electronicsTechnician ud
+[EleevontesTechnician eae
+[ Electronics Tchalcan wat
+etaSpeciantr Ed
+einSpeciatot od
+[ MedaSpeciat w Ao|
+[ vdeo TeloconforenceTechician ara
+D raRerGADOperator wea
+[ PratiAD Operator Fa
+|PretncADOpertortt vee
+|DretaGKDOpertortv aa
+[B usinessSyaieme AralravEnaineer a8
+inateSystemeAnalyevEngineer seat
+inessSystemsAnalystiEngineer w188s
+SystemAarinsaiort a7a0
+[SystemAdministrator 770
+S retemAdministrator wa
+S ratem Aarinevator7 waar| simar
+[ ComputerProgrammer wrear_| —we07
+[ computer ProgrammerW wet| saa
+(c omputerProgrammeri sioner| sss
+[computerPreararer sana [saa
+echnicalWir Here | 44730
+[F eciicalWir wea| saa
+[echniealwir waae| eae
+NetworkingforFuture,Inc. +70012%StNW,Suite700»Washington,OC20005
+
+Attachment B
+a _ WageDetermination
+cw118049
+
+1522124, 10:6AM SAMgov
+"REGISTER OF WAGE DETERMINATIONS UNDER | U.S. DEPARTMENT OF LABOR
+THE SERVICE CONTRACT ACT | EMPLOYMENT STANDARDS ADMINISTRATION
+By direction of the Secretary of Labor | WAGE AND HOUR DIVISION
+WASHINGTON D.C. 20210
+!
+!
+i
+! Wage Determination No.: 2015-4281
+Daniel W. Simms Division of Revision No.: 29
+Director Wage Determinations1 Date Of Last Revision : 04/11/2024
+HT
+Note: Contracts subject to the Service Contract Act are generally required to
+pay at least the applicable minimum wage rate required under Executive Order
+14026 or Executive Order 13658.
+If the contract isentered into on or |Executive Order 14626 generally applies to
+lafter January 30, 2022, or the [the contract.
+[contract is renewed or extended (e.g., |The contractor must pay all covered workers
+Jan option is exercised) on or after Jat least $17.20 per hour (or the applicable
+[Danuary 30, 2022: Iwage rate listed on this wage determination,
+[if it is higher) for all hours spent
+' [performing on the contract in 2024,
+|
+|If the contract was awarded on or [Executive Order 13658 generally applies to |
+[between January 1, 2015 and January 29,|the contract. !
+|2022, and the contract is not renewed |The contractor must pay all covered workers |
+lor extended on or after January 30, [at least $12.90 per hour (or the applicable |
+|2022; |wage rate listed on this wage determination, !
+! lif it is higher) for all hours spent |
+! [performing on the contract in 2024. |
+The applicable Executive Order minimum wage rate will be adjusted annually. Additional
+information on contractor requirements and worker protections under the Executive Orders
+4s available at www.dol.gov/whd/govcontracts.
+States: District of Columbia, Maryland, Virginia
+Area: District of Columbia Statewide
+Maryland Counties of Calvert, Charles, Prince George's
+Virginia Counties of Alexandria, Arlington, Fairfax, Falls Church, Fauquier,
+Loudoun, Manassas, Manassas Park, Prince William, Stafford
+**Eringe Benefits Required Follow the Occupational Listing**
+OCCUPATION CODE - TITLE FOOTNOTE RATE
+1000 - Administrative Support And Clerical Occupations
+1611 - Accounting Clerk I 22.35
+1012 - Accounting Clerk 11 23.96
+1013 - Accounting Clerk III 26.80
+01020 - Administrative Assistant 38.79
+1035 - Court Reporter 28.71
+@1041 - Customer Service Representative I a7.a7se*
+01042 - Customer Service Representative II 18.74
+01043 - Customer Service Representative ITT 21.03
+@1051 - Data Entry Operator T 18.16
+01052 - Data Entry Operator IT 19.81
+01060 - Dispatcher, Motor Vehicle 24.53
+1070 - Document Preparation Clerk 19.93
+€1090 - Duplicating Machine Operator 19.93
+bitps/tsam.goviwage-determination/2015-14/2289 wnt
+
+8/22/24,10:36AM SAMgov
+e111 = General Clerk 1 18.31
+1112 = General Clerk II 19.98
+1113 = General Clerk IIT 22.a2
+1120 - Housing Referral Assistant 26.61
+e1141 = Messenger Courier 21.58
+01191 = Order Clerk I 18.a1
+01192 = Order Clerk 11 20 9
+01261 - Personnel Assistant (Employment) I 21.58
+01262 = Personnel Assistant (Employment) IT 24. @:
+01263 = Personnel Assistant (Employment) IIT 26.82
+01270 = Production Control Clerk 26.81
+01290 + Rental Clerk 20. 61
+01300 = Scheduler, Maintenance 21.33
+1311 = Secretary I 21.33
+1312 - Secretary II 23.86
+1313 ~ Secretary III 26.61
+1320 ~ Service Order Dispatcher 21.93
+e1410 - Supply Technician 38.79
+61428 - Survey Worker 22.08
+01460 - Switchboard Operator/Receptionist 18.14
+01531 ~ Travel Clerk I 22.65
+01532 ~ Travel Clerk If 24,78
+01533 - Travel Clerk IIT 26.66
+1611 - Word Processor I 18.97
+01612 - Word Processor II 2a.29
+01613 - Word Processor II 23.18:
+5000 - Automotive Service Occupations
+95005 = Automobile Body Repairer, Fiberglass 28.60
+95010 = Automotive Electrician 27.46
+5040 = Automotive Glass Installer 25.87
+05070 = Automotive Worker 25.87
+05110 = Mobile Equipment Servicer 22.24
+05130 = Motor Equipment Metal Mechanic 28.91
+05160 = Motor Equipment Metal Worker 25.87
+5198 = Motor Vehicle Mechanic 28.91
+05220 = Motor Vehicle Mechanic Helper 20. 35
+05250 = Motor Vehicle Upholstery Worker 24) 14
+05280 - Motor Vehicle Wrecker 25.87
+05310 - Painter, Automotive 27.46
+05340 - Radiator Repair Specialist 25.87
+05370 - Tire Repairer 19. 20
+05400 - Transmission Repair Specialist 28.91
+07200 - Food Preparation And Service Occupations
+7010 ~ Baker 17.68
+7041 = Cook I 20.22
+7042 = Cook IT 2.52
+07070 - Dishwasher 16.96¢**
+07130 = Food Service Worker 17.01***
+07210 - Meat Cutter 2.58
+07260 = Waiter/Waitress 17.08***
+99000 - Furniture Maintenance And Repair Occupations
+09010 - Electrostatic Spray Painter 26.83
+9040 - Furniture Handler 14.06***
+99080 - Furniture Refinisher 22.$5
+99090 - Furniture Refinisher Helper 16.71°4*
+9110 = Furniture Repairer, Minor 19.182
+09130 = Upholsterer 19.86
+11000 - General Services And Support Occupations
+11036 - Cleaner, Vehicles 16.85%**
+11060 - Elevator Operator 17 46
+11090 - Gardener 24 .79
+11122 = Housekeeping Aide 17 74
+11158 - Janitor 17 74
+11210 - Laborer, Grounds Maintenance 18 88
+11240 - Maid or Houseman 16.96***
+hips:lisam.gowwage-determination/2015-4281/29 am
+
+6122/24,10:36AM SAM.gov
+11268 - Pruner 18.02
+11278 = Tractor Operator 22.69
+11330 = Trail Maintenance Worker 18.88
+11360 = Window Cleaner 18.59
+12000 Health Occupations
+12010 ~ Ambulance Driver 24.09
+12011 = Breath Alcohol Technician 28.19
+12012 = Certified Occupational Therapist Assistant 38.30
+12815 = Certified Physical Therapist Assistant 36.32
+12028 = Dental Assistant 23.78
+12025 = Dental Hygienist 51.13
+12038 = EKG Technician 41.73
+12035, - Electroneurodiagnostic Technologist 41.73
+12040 - Emergency Medical Technician 24.09
+12071 ~ Licensed Practical Nurse I 25.20
+12072 - Licensed Practical Nurse II 28.19
+12073 - Licensed Practical Nurse IIT 31.44
+12100 - Medical Assistant 22.39
+12130 - Medical Laboratory Technician 31.94
+12160 - Medical Record Clerk 25.58
+12198 - Medical Record Technician 28.61
+12195 - Medical Transcriptionist 20.72
+12210 - Nuclear Medicine Technologist 46.61
+12221 = Nursing Assistant I 44.saee*
+12222 = Nursing Assistant IT 16.35***
+12223 = Nursing Assistant IIT 17.84
+12224 = Nursing Assistant IV 20.04
+12235 = Optical Dispenser 26.69
+12236 = Optical Technician 23.50
+12250 = Pharmacy Technician 21.46
+12280 - Phlebotomist 22.95
+12305 = Radiologic Technologist 40.40
+12311 - Registered Nurse I 31.84
+12312 = Registered Nurse IT 38.95
+12313 ~ Registered Nurse II, Specialist 38.95
+12314 = Registered Nurse III 47.12
+12315 = Registered Nurse III, Anesthetist 47.12
+12316 = Registered Nurse IV 56.48
+12317 = Scheduler (Drug and Alcohol Testing) 34.93,
+12320 - Substance Abuse Treatment Counselor 29.01
+1300-0 Information And Arts Occupations
+1301-1 Exhibits Specialist I 24.30
+13012 - Exhibits Specialist 11 30.10
+13013 - Exhibits Specialist IT 36.82
+13041 - Illustrator I 24,49
+13042 - Illustrator IT 30.33
+13043 - Illustrator IIT 37.10
+13047 - Librarian 42.46
+13050 - Library Aide/Clerk 19.29
+13054 - Library Information Technology Systems 38.33
+Administrator
+13058 - Library Technician 24.01
+13061 - Media Specialist I 27.67
+13062 - Media Specialist 11 30.94
+13063 - Media Specialist IIT 34.50
+13071 - Photographer T 22.33
+13072 - Photographer IT 25.16
+13073 - Photographer IIT 31.50
+13074 - Photographer IV 38.14
+13675 - Photographer V 45.78
+13090 - Technical Order Library Clerk 24.23
+13110 - Video Teleconference Technician 30.84
+14000 - Information Technology Occupations
+14041 - Computer Operator T 27.25
+14042 - Computer Operator II 30.48
+btips/tsam.goviwage-determination2015-4261/29 am
+
+8122/24,10:36AM ‘SAMgov
+14043 = Computer Operator III 33.99
+14044 = Computer Operator IV 37.76
+14045, = Computer Operator V 41.82
+14072 = Computer Programmer I (see 1)
+14072
+- Computer Programmer II (see 1)
+14073 = Computer Programmer ITT (see 1)
+14074
+= Computer Programmer IV (see 1)
+14101 ~ Computer Systems Analyst I (see 1)
+14102 = Computer Systems Analyst II (see 1)
+14103 = Computer Systems Analyst IIT (see 1)
+14150 = Peripheral Equipment Operator 27.28
+14160 = Personal Computer Support Technician 37.76
+14178 - System Support Specialist 41.82
+15000 - Instructional Occupations
+15018 = Aircrew Training Devices Instructor (Non-Rated) 40.86
+15028 = Aircrew Training Devices Instructor (Rated) 49.42
+15030 - Air Crew Training Devices Instructor (Pilot) 59.24
+15050 - Computer Based Training Specialist / Instructor 40.86
+15060 - Educational Technologist 46.24
+15070 - Flight Instructor (Pilot) 59.24
+15080 - Graphic artist 38.51
+15085 ~ Maintenance Test Pilot, Fixed, Jet/Prop 59.24
+15086 - Maintenance Test Pilot, Rotary Wing 59.24
+15088 = Non-Maintenance Test/Co-Pilot 59.24
+15098 - Technical Instructor 32.56
+15095, - Technical Instructor/Course Developer 39.83
+15110 - Test Proctor 26.28
+15120 =Tutor 26.28
+1600-0 Laundry, Dry-Cleaning, Pressing And Related Occupations
+16010 - Assembler 19.59
+16030 = Counter Attendant 19.59
+16040 - Dry Cleaner 22.40
+16070 - Finisher, Flatwork, Machine 19.59
+16098 - Presser, Hand 19.59
+16110 - Presser, Machine, Drycleaning 19.59
+16130 - Presser, Machine, Shirts 19.59
+16160 - Presser, Machine, Wearing Apparel, Laundry 19.59
+116190 - Sewing Machine Operator 23.34
+116220 - Tailor 24.28
+16250 - Washer, Machine 20.53
+19008 - Machine Tool Operation And Repair Occupations
+19810 = Machine-Tool Operator (Tool Room)
+19040 = Tool And Die Maker
+21000 - Materials Handling And Packing Occupations
+21028 - Forklift Operator
+21038 = Material Coordinator
+21040 - Material Expediter
+21050 - Material Handling Laborer
+21071 = Order Filler
+21080 = Production Line Worker (Food Processing)
+21110 - Shipping Packer
+22130 = Shipping/Receiving Clerk
+21140 = Store Worker I
+21150 = Stock Clerk
+21218 = Tools And Parts Attendant
+21410 - Warehouse Specialist
+23000 - Mechanics And Maintenance And Repair Occupations
+23010 = Aerospace Structural Welder
+23019 - Aircraft Logs and Records Technician
+23021, - Aircraft Mechanic I
+23022 - Aircraft Mechanic IT
+23023 - Aircraft Mechanic IIT
+23040 - Aircraft Mechanic Helper
+23058 - Aircraft, Painter
+23060 - Aircraft Servicer
+hiipsidisam.govwage-determination2015-4261/28 ant
+
+5122/24, 10:36AM SAMgov
+23070 - Aircraft Survival Flight Equipment Technician 40.69
+2308 - Aircraft Worker 38.32
+23091 - Aircrew Life Support Equipment (ALSE) Mechanic 38.32
+I
+23092 - Aircrew Life Support Equipment (ALSE) Mechanic 42.85
+11
+23110 - Appliance Mechanic 25.28
+23120 - Bicycle Repairer 19.30
+23125 - Cable Splicer 40.48
+23130 - Carpenter, Maintenance 28.16
+23140 - Carpet Layer 22.54
+23160 - Electrician, Maintenance 33.41
+23181 - Electronics Technician Maintenance I 35.18
+23182 - Electronics Technician Maintenance IZ 37.35,
+23183 - Electronics Technician Maintenance IIT 39.32
+23260 - Fabric Worker 27.66
+23290 - Fire Alarm System Mechanic 29.84
+23310 - Fire Extinguisher Repairer 25.49
+23311 - Fuel Distribution System Mechanic 37.07
+23312 - Fuel Distribution System Operator 28.53
+23370 - General Maintenance Worker 24.26
+23380 - Ground Support Equipment Mechanic 42.85
+23381 - Ground Support Equipment Servicer 35.77
+23382 - Ground Support Equipment Worker 38.32
+23391 - Gunsmith 1 25.49
+23392 - Gunsmith II 29.64
+23393 - Gunsmith IIT 33.13
+23410 - Heating, Ventilation And Air-Conditioning 31.79
+Mechani
+23411 - Heating, Ventilation And Air Contidioning 33.49
+Mechanic (Research Facility)
+23430 - Heavy Equipment Mechanic 30.95
+23440 - Heavy Equipment Operator 28.45
+23460 - Instrument Mechanic 35.15
+23465 - Laboratory/Shelter Mechanic 31.46
+23470 - Laborer 18.44
+23510 - Locksmith 32.72
+23530 - Machinery Maintenance Mechanic 31.28
+23550 - Machinist, Maintenance 31.28
+23580 - Maintenance Trades Helper 18.43
+23591 - Metrology Technician I 35.15,
+23592 - Metrology Technician II 37.03
+23593 - Metrology Technician IIT 38.83
+23640 - Millwright 29.89
+23710 - Office Appliance Repairer 22.96
+23760 - Painter, Maintenance 23.35
+23790 - Pipefitter, Maintenance 33.08
+23810 - Plumber, Maintenance 31.42
+23820 - Pneudraulic Systems Mechanic 33.13
+23850 - Rigger 34.16
+23870 - Scale Mechanic 29.64
+23898 - Sheet-Metal Worker, Maintenance 30.59
+23918 - Small Engine Mechanic 23.01
+23931 - Telecommunications Mechanic I 37.06
+23932 - Telecommunications Mechanic IT 39.03
+2395 - Telephone Lineman 43.07
+23960 - Welder, Combination, Maintenance 28.60
+23965 - Well Driller 29.56
+23978 - Woodcraft Worker 33.13
+23988 - Woodworker 25.49
+24000 - Personal Needs Occupations
+24550 - Case Manager 22.35
+24570 - Child Care Attendant 17.20
+24880 - Child Care Center Clerk 22.46
+24618 - Chore Aide 16.90*+*
+hitps/tsam.goviwage-determination/2015-14/2288 sit
+
+8122124, 10.96AM SAM.gov
+24620 - Family Readiness And Support Services
+Coordinator
+24630 - Homemaker
+25000 - Plant And System Operations Occupations
+25016 - Boiler Tender
+25040 - Sewage Plant Operator
+25078 - Stationary Engineer
+25190 - Ventilation Equipment Tender
+25210 - Water Treatment Plant Operator
+27000 - Protective Service Occupations
+27004 - Alarm Monitor
+27007 - Baggage Inspector
+27008- Corrections Officer
+27010 ~ Court Security Officer
+27030- Detection Dog Handler
+27040- Detention Officer
+27070 ~ Firefighter
+27101 - Guard 1
+27102 - Guard IL
+27131- Police Officer I
+27132- Police Officer IT
+28000 - Recreation Occupations
+28041 - Carnival Equipment Operator
+28042 - Carnival Equipment Repairer
+28043 - Carnival Worker
+28210 - Gate Attendant/Gate Tender
+28310 - Lifeguard
+28350 - Park Attendant (Aide)
+28510 - Recreation Aide/Health Facility Attendant
+28515 - Recreation Specialist
+28630 - Sports Official
+28690- Swimming Pool Operator
+29080 - Stevedoring/Longshoremen Occupational Services
+29810 - Blocker And Bracer
+29026 - Hatch Tender
+29030 - Line Handler
+29041 - Stevedore I
+29042 - Stevedore IT
+30000 - Technical Occupations
+30010 - Air Traffic Control Specialist, Center (HFO) (see 2)
+30011 - Air Traffic Control Specialist, Station (HFO) (see 2)
+30012 - Air Traffic Control Specialist, Terminal (HFO) (see 2)
+30821 - Archeological Technician T
+30022 - Archeological Technician IT
+30023 - Archeological Technician IIT
+30030 - Cartographic Technician
+30040 - Civil Engineering Technician
+30051 - Cryogenic Technician T
+30052 - Cryogenic Technician IT
+30061 - Drafter/CAD Operator I
+30062 - Drafter/CAD Operator IT
+30063 - Drafter/CAD Operator III
+30064 - Drafter/CAD Operator IV
+30081 - Engineering Technician I
+30082 - Engineering Technician II
+30083 - Engineering Technician 137
+30084 - Engineering Technician IV
+30085 - Engineering Technician V
+30086 - Engineering Technician VI
+30090 - Environmental Technician
+30095 - Evidence Control Specialist
+30210 - Laboratory Technician
+30221 - Latent Fingerprint Technician I
+30222 - Latent Fingerprint Technician II
+3240 - Mathematical Technician
+hitpssisam.goviwagedetermination2015-4281/20
+
+19122124,10:36AM ‘SAM.gov
+30361 = Paralegal/Legal Assistant I 25.58
+30362 + Paralegal/Legal Assistant IT 31.69
+30363 + Paralegal/Legal Assistant IIT 38.7
+30364 - Paralegal/Legal Assistant 1V 46.90
+30375 = Petroleum Supply Specialist 38.90
+30390 - Photo-Optics Technician 31.79
+30395 - Radiation Control Technician 38.98
+30461 - Technical Writer I 3a.47
+30462 - Technical Writer I1 38.50
+30463 + Technical Writer IIT 46.57
+30491 = Unexploded Ordnance (UXO) Technician I 32.78
+30492 = Unexploded Ordnance (UXO) Technician IT 39.66
+30493 = Unexploded Ordnance (UXO) Technician IIT 47+53
+30494 = Unexploded (UXO) Safety Escort 32.78
+30495 = Unexploded (UXO) Sweep Personnel 32.78
+30501 - Weather Forecaster I 35.21
+30502 - Weather Forecaster IT 42.+82
+30620 - Weather Observer, Combined Upper Air Or (see 2) 28.61
+Surface Programs
+30621 = Weather Observer, Senior (see 2) 31.79
+31000 - Transportation/Mobile Equipment Operation Occupations
+31010 = Airplane Pilot 39.66
+31020 = Bus Aide 18.33
+31030 = 8us Driver 26.31
+31043 = Driver Courier 20.84
+31260 = Parking and Lot Attendant 16.85*#*
+31290 = Shuttle Bus Driver 19.93
+31310 ~ Taxi Driver 17.7a
+31361 = Truckdriver, Light 22.77
+31362 = Truckdriver, Medium 2a.71
+31363 - Truckdriver, Heavy 27.88
+31364 = Truckdriver, Tractor-Trailer 27.88
+99000 - Miscellaneous Occupations
+99020 - Cabin Safety Specialist 19.33
+99030 - Cashier 15.83¢**
+99050 ~ Desk Clerk 16.90***
+99095 - Enbalmer 34.10
+99130 = Flight Follower 32.78
+99251 = Laboratory Animal Caretaker I 18.47
+99252 - Laboratory Animal Caretaker IT 20.18
+99260 = Marketing Analyst 38.33
+99310 = Mortician 34,18
+99410 = Pest Controller 2191
+99510 = Photofinishing Worker 22.57
+99710 = Recycling Laborer 22.98
+99711 ~ Recycling Specialist 28.16
+99730 - Refuse Collector 20.95,
+99810 - Sales Clerk 16.89%**
+99820 = School Crossing Guard 18.75
+99830 - Survey Party Chief 31.20
+99831 ~ Surveying Aide 19.26
+99832 - Surveying Technician 29.45
+99840 - Vending Machine Attendant 17.03*4*
+99841 = Vending Machine Repairer 21.64
+99842 = Vending Machine Repairer Helper 17.0344*
+***Workers in this classification may be entitled to a higher minimum wage under
+Executive Order 14026 ($17.20 per hour) or 13658 ($12.90 per hour). Please see the
+Note at the top of the wage determination for more information. Please also note
+that the minimum wage requirements of Executive Order 14026 and 13658 are not
+currently being enforced as to contracts or contract-like instruments entered into
+hitps/tsamgoviwage-determination/2015-4281/29 m1
+
+5722724, 1036AM. ‘SAMgov
+with the federal government in connection with seasonal recreational services or
+seasonal recreational equipment rental for the general public on federal lands. The
+minimun wage requirements of Executive Order 14026 also are not currently being
+enforced as to any contract or subcontract to which the states of Texas, Louisiana,
+or Mississippi, including their agencies, are a party.
+Note: Executive Order (EO) 13706, Establishing Paid Sick Leave for Federal
+Contractors, applies to all contracts subject to the Service Contract Act for which
+the contract is awarded (and any solicitation was issued) on or after January 1,
+2017. If this contract is covered by the £0, the contractor must provide employees
+with 1 hour of paid sick leave for every 3@ hours they work, up to 56 hours of paid
+sick leave each year. Employees must be permitted to use paid sick leave for their
+own illness, injury or other health-related needs, including preventive care; to
+assist a family member (or person who is like family to the employee) who is ill,
+injured, or has other health-related needs, including preventive care; or for
+reasons resulting from, or to assist a family member (or person who is like family
+to the employee) who is the victim of, domestic violence, sexual assault, or
+stalking. Additional information on contractor requirements and worker protections
+under the £0 is available at www.dol.gov/whd/govcontracts..
+ALL OCCUPATIONS LISTED ABOVE RECEIVE THE FOLLOWING BENEFITS:
+HEALTH & WELFARE: $4.98 per hour, up to 40 hours per week, or $199.20 per week or
+$863.20 per month
+HEALTH & WELFARE £0 1370 $4.57 per hour, up to 40 hours per week, or $182.80 per
+week, or $792.13 per month*
+“This rate is to be used only when compensating employees for performance on an SCA-
+covered contract also covered by EO 13706, Establishing Paid Sick Leave for Federal
+Contractors. A contractor may not receive credit toward its SCA obligations for any
+paid sick leave provided pursuant to £0 13706.
+VACATION: 2 weeks paid vacation after 1 year of service with a contractor or
+successor, 3 weeks after 5 years, and 4 weeks after 15 years. Length of service
+includes the whole span of continuous service with the present contractor or
+successor, wherever employed, and with the predecessor contractors in the
+Performance of similar work at the same Federal facility. (Reg. 29 CFR 4.173)
+HOLIDAYS: A minimum of eleven paid holidays per year: New Year's Day, Martin
+Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Juneteenth
+National Independence Day, Independence Day, Labor Day, Columbus Day, Veterans’
+Day, Thanksgiving Day, and Christmas Day. (A contractor may substitute for any of
+the named holidays another day off with pay in accordance with a plan conmunicated
+to the employees involved.) (See 29 CFR 4.174)
+THE OCCUPATIONS WHICH HAVE NUMBERED FOOTNOTES IN PARENTHESES RECEIVE THE FOLLOWING:
+1) COMPUTER EMPLOYEES: This wage determination does not apply to any individual
+employed in a bona fide executive, administrative, or professional capacity, as
+defined in 29 C.F.R. Part 541. (See 41 C.F.R. 67@1(3)). Because most Computer
+Systems Analysts and Computer Programmers who are paid at least $27.63 per hour (or
+at least $684 per week if paid on a salary or fee basis) likely qualify as exempt
+computer professionals under 29 U.S.C. 213(a)(1) and 29 U.S.C. 213(a)(17), this wage
+determination may not include wage rates for all occupations within those job
+families. In such instances, a conformance will be necessary if there are nonexenpt
+employees in these job families working on the contract.
+Job titles vary widely and change quickly in the computer industry, and are not
+determinative of whether an employee is an exempt computer professional. To be
+exempt, computer employees who satisfy the compensation requirements must also have
+a primary duty that consists of:
+hiips/tsamgoviwage-determination/2015-4281/28 ant
+
+15/22/24, 10:36AM SAMgov
+(2) The application of systems analysis techniques and procedures, including
+consulting with users, to determine hardware, software or system functional
+specifications;
+(2) The design, development, documentation, analysis, creation, testing or
+modification of computer systems or programs, including prototypes, based on and
+related to user or system design specifications;
+(3) The design, documentation, testing, creation or modification of computer
+programs related to machine operating systems; or
+(4) A combination of the aforementioned duties, the performance of which
+requires the same level of skills. (29 C.F.R. 541.400).
+‘Any computer employee who meets the applicable compensation requirements and the
+above duties test qualifies as an exempt computer professional under both section
+13(a)(1) and section 13(a)(17) of the Fair Labor Standards Act. (Field Assistance
+Bulletin No. 2006-3 (Dec. 14, 2006)). Accordingly, this wage determination will not
+apply to any exempt computer employee regardless of which of these two exemptions is
+utilized.
+2) AIR TRAFFIC CONTROLLERS AND WEATHER OBSERVERS - NIGHT PAY & SUNDAY PAY: If you
+work at night as part of a regular tour of duty, you will earn a night differential
+and receive an additional 10% of basic pay for any hours worked between 6pm and 6am.
+Tf you are a full-time employed (40 hours a week) and Sunday is part of your
+regularly scheduled workweek, you are paid at your rate of basic pay plus a Sunday
+premium of 25% of your basic rate for each hour of Sunday work which is not overtime
+(i.e. occasional work on Sunday outside the normal tour of duty is considered
+overtime work).
+‘** HAZARDOUS PAY DIFFERENTIAL **
+An 8 percent differential is applicable to employees employed in a position that
+represents a high degree of hazard when working with or in close proximity to
+ordnance, explosives, and incendiary materials. This includes work such as
+screening, blending, dying, mixing, and pressing of sensitive ordnance, explosives,
+and pyrotechnic compositions such as lead azide, black powder and photoflash powder.
+All dry-house activities involving propellants or explosives. Demilitarization,
+modification, renovation, demolition, and maintenance operations on sensitive
+ordnance, explosives and incendiary materials. All operations involving re-grading
+and cleaning of artillery ranges.
+A4 percent differential is applicable to employees employed in a position that
+represents a low degree of hazard when working with, or in close proximity to
+ordnance, (or employees possibly adjacent to) explosives and incendiary materials
+which involves potential injury such as laceration of hands, face, or arms of the
+employee engaged in the operation, irritation of the skin, minor burns and the like;
+minimal damage to inmediate or adjacent work area or equipment being used. All
+operations involving, unloading, storage, and hauling of ordnance, explosive, and
+incendiary ordnance material other than small arms ammunition. These differentials
+are only applicable to work that has been specifically designated by the agency for
+ordnance, explosives, and incendiary material differential pay.
+** UNIFORM ALLOWANCE **
+If employees are required to wear uniforms in the performance of this contract
+(either by the terms of the Government contract, by the employer, by the state or
+local law, etc.), the cost of furnishing such uniforms and maintaining (by
+laundering or dry cleaning) such uniforms is an expense that may not be borne by an
+employee where such cost reduces the hourly rate below that required by the wage
+determination. The Department of Labor will accept payment in accordance with the
+following standards as compliance:
+https/sam.govtwage-determination/2015-4281/29 ont
+
+5/22/24,10:36AM SAMg0¥
+The contractor or subcontractor is required to furnish all employees with an
+adequate number of uniforms without cost or to reimburse employees for the actual
+cost of the uniforms. In addition, where uniform cleaning and maintenance is made
+the responsibility of the employee, all contractors and subcontractors subject to
+this wage determination shall (in the absence of a bona fide collective bargaining
+agreement providing for a different amount, or the furnishing of contrary
+affirmative proof as to the actual cost), reimburse all employees for such cleaning
+and maintenance at a rate of $3.35 per week (or $.67 cents per day). However, in
+‘those instances where the uniforms furnished are made of **wash and wear"”
+materials, may be routinely washed and dried with other personal garments, and do
+not require any special treatment such as dry cleaning, daily washing, or conmercial
+laundering in order to meet the cleanliness or appearance standards set by the terms
+of the Government contract, by the contractor, by law, or by the nature of the work,
+there is no requirement that employees be reimbursed for uniform maintenance costs.
+© SERVICE CONTRACT ACT DIRECTORY OF OCCUPATIONS **
+The duties of employees under job titles listed are those described in the
+"*Service Contract Act Directory of Occupations”", Fifth Edition (Revision 1),
+dated September 2015, unless otherwise indicated.
+‘** REQUEST FOR AUTHORIZATION OF ADDITIONAL CLASSIFICATION AND WAGE RATE, Standard
+Form 1444 (SF-1444) **
+Conformance Process:
+The contracting officer shall require that any class of service employee which is
+not listed herein and which is to be employed under the contract (i.e., the work to
+be performed is not performed by any classification listed in the wage
+determination), be classified by the contractor so as to provide a reasonable
+relationship (i.e., appropriate level of skill comparison) between such unlisted
+classifications and the classifications listed in the wage determination (See 29 CFR
+4.6(b)(2)(i)). Such conforming procedures shall be initiated by the contractor
+prior to the performance of contract work by such unlisted class(es) of employees
+(See 29 CFR 4.6(b)(2)(4i)). The Wage and Hour Division shall make a final
+determination of conformed classification, wage rate, and/or fringe benefits which
+shall be paid to all employees performing in the classification from the first day
+of work on which contract work is performed by them in the classification. Failure
+‘to pay such unlisted employees the compensation agreed upon by the interested
+parties and/or fully determined by the Wage and Hour Division retroactive to the
+date such class of employees commenced contract work shall be a violation of the Act
+and this contract. (See 29 CFR 4.6(b)(2)(v)). When multiple wage determinations are
+included in a contract, a separate SF-1444 should be prepared for each wage
+determination to which a class(es) is to be conformed.
+The process for preparing a conformance request is as follows:
+1) When preparing the bid, the contractor identifies the need for a conformed
+occupation(s) and computes a proposed rate(s).
+2) After contract award, the contractor prepares a written report listing in order
+the proposed classification title(s), a Federal grade equivalency (FGE) for each
+proposed classification(s), job description(s), and rationale for proposed wage
+rate(s), including information regarding the agreement or disagreement of the
+authorized representative of the employees involved, or where there is no authorized
+representative, the employees themselves. This report should be submitted to the
+contracting officer no later than 30 days after such unlisted class(es) of employees
+performs any contract work.
+3) The contracting officer reviews the proposed action and promptly submits a report
+of the action, together with the agency's recommendations and pertinent
+information including the position of the contractor and the employees, to the U.S.
+Department of Labor, Wage and Hour Division, for review (See 29 CFR 4.6(b)(2)(ii)).
+btps/tsam.goviwage-determination/2015-4281/29 1011
+
+15722124,10:36AM SAM.gov
+4) Within 30 days of receipt, the Wage and Hour Division approves, modifies, or
+disapproves the action via transmittal to the agency contracting officer, or
+notifies the contracting officer that additional time will be required to process
+‘the request.
+5) The contracting officer transmits the Wage and Hour Division's decision to the
+contractor.
+6) Each affected employee shall be furnished by the contractor with a written copy
+of such determination or it shall be posted as a part of the wage determination (See
+29 CFR 4.6(b)(2)(ii1)).
+Information required by the Regulations must be submitted on SF-1444 or bond paper.
+When preparing a conformance request, the “*Service Contract Act Directory of
+Occupations"" should be used to compare job definitions to ensure that duties
+requested are not performed by a classification already listed in the wage
+determination. Remember, it is not the job title, but the required tasks that
+determine whether a class is included in an established wage determination.
+Conformances may not be used to artificially split, combine, or subdivide
+classifications listed in the wage determination (See 29 CFR 4.152(c)(1))."
+biipssfsam.9goviwage-determination/2015-4281/28 wit
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Department ofEmployment Services
+xk *
+MURIEL BOWSER = DR. UNIQUEMORRIS-HUGHES
+Mayor = DIRECTOR
+LIVING WAGE ACT FACT SHEET
+The Living Wage Act of2006, D.C. Code §§ 2-20.01 ~ 2-220.11, provides that District ofColumbia govemment
+contractors and recipients of government assistance (grants, loans, tax increment financing), in the amount of
+$100,000ormore, shall pay affiliated employees wagesatno lessthanthe current livingwage rate.
+EffectiveJanuary 1, 2024 until June 30, 2024, the living wage rate is $17.05
+per hour.
+Effective July 1, 2024, the District’s Minimum Wage and Living Wage will
+increase to $17.50 per hour.
+Subcontractors ofD.C. government contractors, who receive $15,000 or more from thecontract, and subcontractors
+of therecipientsofgovernment assistance, whoreceive$50,000 ormore from theassistance, arealsorequired topay
+theiraffitiated employees no less than thecurrent living wage rate.
+“Affiliated employee” means any individual employed by a recipient who receives compensation directly from
+government assistance or a contract with the District of Columbia government, including any employee of a
+contractor or subcontractor of a recipient who performs services pursuant to government assistance or a contract.
+The term “affiliated employee” does not include those individuals who perform only intermittent or incidental
+services with respect to the government assistance or contract, or who are otherwise employed by the contractor,
+recipientorsubcontractor.
+Exemptions — The followingcontracts andagreementsareexemptfrom the Living Wage Act:
+1. Contracts orother agreements that are subject to higher wage level determinations required by federal
+law (ie., ifa contract is subject tothe Service Contract Act and certain wage rates are lower than the
+District’scurrent livingwage, thecontractormust paythehigherofthetwo rates);
+2. Existing and future collective bargaining agreements, provided that the future collective bargaining
+agreement results intheemployeebeing paidno lessthanthecurrentlivingwage;
+3. Contracts forelectricity, telephone, water, sewerorotherservices provided by aregulateduti
+4, Contracts for services needed immediately to prevent or respond to a disaster or imminent threat to
+public healthorsafety declared by theMayor;
+5. Contracts or other agreements that provide trainees with additional services including, but not limited
+to, case management and job readiness services, provided that the trainees do not replace employees
+subjecttotheLiving WageAct;
+4058Minnesota Ave,N.E. +Suite3600 +Washington,D.C.20019+Office: 202.671.1900
+
+6. Anemployee, under22 yearsofage,employed during aschool vacationperiod, orenrolled as full-time
+student, as defined by the respective institution, who is in high school or at an accredited institution of
+higher education and who works less than 25 hours per week; provided that students not replace
+employees subject to the Living WageAct;
+7. Tenants or retail establishments that occupy property constructed or improved by receipt of
+government assistance from the District of Columbia; provided, that the tenant or retail establishment
+did not receive direct government assistance from theDistrict ofColumbia;
+8. Employeesofnonprofit organizationsthatemploy notmore than50 individuals andqualify fortaxation
+‘exemption pursuant to Section $01 (c) (3) ofthe Internal Revenue Code of 1954, approved August 16,
+1954 (68 AStat. 163; 26. U.S.C. §501(c)(3));
+9. Medicaid provideragreements fordirect care services to Medicaidrecipients, provided,thatthedirect
+care service is not provided through a home care agency, a community residence facility, or a group
+home forpersons with intellectual disabilitiesasthose terms aredefined insection 2 ofthe Health-Care
+and Community Residence Facility, Hospice, and Home Care Licensure Act of 1983; D.C. Official
+Code § 44-501; and
+10. Contracts or other agreements between managed care organizations and the Health Care Safety Net
+Administration ortheMedicaidAssistance Administration toprovide health services.
+Enforcement
+The Department of Employment Services (DOES) Office of Wage-Hour and the D.C. Office of Contracting and
+Procurement sharemonitoringresponsibilities.
+Home Care Final Rule: The Department of Labor extended overtime protections to home care workers
+and workers who provide companionship services. Employers within this industry are now subject to
+recordkeeping provisions.
+Ifyou learn that a contractorsubject to this law is not paying at least the current livingwage, you should report it to
+the contracting officer. Ifyou believe that your employer is subject to this law and is not paying at leastthe current
+living wage, you may file a complaint with the DOES Office of Wage - Hour, located at 4058 Minnesota Avenue,
+N.E. Suite 3600, Washington, D.C. 20019, call (202) 671-1880,or fileyour claim on-line: www.does.de.gov. Goto
+“FileaClaim”tab.
+Forquestionsand additional information,contact theOfficeofContractingand Procurement at(202) 727-0252or the
+Department ofEmployment Services on (202) 671-1880.
+Pleasenote: Thisfactsheetisforinformationalpurposesonlyasrequirbeyd Section 106oftheLiving WageAct. Itshouldnot
+berelied onasadefinitivestatementof theLivingWageActoranyregulationsadoptedpursuant tothelaw.
+
+THE LIVING WAGE ACT OF 2006
+D.C. Code §§2-220.01 — 2-20.11
+Recipients ofnew contractsorgovernment assistanceshall pay affiliated employees and subcontractorswho
+perform services underthecontracts no less thanthe current living wage.
+Effective January 1, 2024, until June 30, 2024, the living wage rate is $17.05 per hour.
+Effective July 1, 2024, the District’s Minimum Wage and Living Wage will increase to
+$17.50.
+The requirementto pay a livingwage applies to:
+* All recipientsof contracts in theamount of $100,000 ormore,and all subcontractors that receive
+$15,000or more from the funds received by therecipientfrom theDistrictofColumbia, and
+= All recipientsofgovernmentassistancein theamount of$100,000 ormore, and all subcontractors of
+these recipientsthatreceive $50,000 or more from thegovernment assistancereceived bythe
+jent from the District ofColumbia.
+“Contract” meansawritten agreementbetweena recipient and theDistrictgovernment.
+“Government assistance” means a grant, loan,or tax incrementfinancingthat result in a financial benefit
+from an agency, commission,instrumentality, or otherentityof theDistrictgovernment.
+“Affiliated employee” meansany individualemployed by a recipientwho received compensation directly
+from governmentassistance ora contract with the DistrictofColumbiagovernment, includingemployeesof
+the DistrictofColumbia, any employeeof a contractor or subcontractorof a recipientwhoperforms
+services pursuant to government assistanceorcontract. Theterm “affiliated employee” does not include
+those individuals who perform onlyintermittentor incidentalservices with respectto thecontract or
+‘government assistance orwhoareotherwise employed bythecontractor, recipient, or subcontractor.
+Certainexemptions apply: 1) Contractsor agreementssubject to wagedeterminations required by federal law
+whicharehigherthan the wagerequired by this Act; 2) Existing and futurecollectingbargaining agreements,
+providedthat the futureagreementresults inemployees being paid no less than thecurrent living wage; 3)
+contracts forelectricity, telephone, water, sewer performed by regulatedutilities; 4) contracts forservices needed
+immediately toprevent or respond toadisasterorimminent threat declared by theMayor; 5) contracts awarded to
+recipients that providetraineeswith services, including but notlimitedtocase managementandjobreadiness
+services, provided thetrainee does not replace employees; 6) employees under 22 yearsofageemployed during a
+school vacation period, or enrolled as a full-timestudent who works less than 25 hoursperweek; 7) tenantsor
+retail establishments that occupy propertyconstructed or improved bygovernment assistance, providedthereis no
+receipt ofdirect Districtgovernment assistance; 8) employees ofnonprofit organizations thatemploy not more
+than 50 individuals andqualify for501(c)(3)status; 9) Medicaid provideragreements fordirect care services to
+Medicaid recipients, provided,that thedirectcareservice is notprovided through a homecareagency, a
+community residencefacility, ora group homeforpersons with intellectualdisabilitiesas those terms aredefined
+in section2ofthe Health-Care and Community Residence Facility, Hospice, and Home Care Licensure Act of
+1983; D.C. Official Code § 44-501; and 10)contractsor agreementsbetween managed care organizations and the
+HealthCareSafety Net Administration ortheMedicaid Assistance Administration toprovide health services.
+HomeCareFinalRule:The DepartmentofLaborextendedovertime protections tohome careworkers and
+workers whoprovidecompanionship services. Employers within this industryarenowsubjectto recordkeeping
+provisions.
+Eachrecipientandsubcontractorofarecipientshallprovidethisnoticetoeachaffiliatedemployeecoveredbythisnotice,and
+shall also postthisnoticeinaconspicuoussitein itsplaceofbusiness.Allrecipientsandsubcontractorsshallretainpayroll
+recordscreatedandmaintainedintheregularcourseofbusinessunderDistrictofColumbialawforaperiodofatleas3tyears.
+Tofileaclaim,visit: DepartmentofEmploymentServices,OfficeofWage-Hour,400 VirginiaAve.,SW,4"Fir,Washington,
+call: (202)671-18or8f0il;e ov. Goto“FileaClaitmab”.

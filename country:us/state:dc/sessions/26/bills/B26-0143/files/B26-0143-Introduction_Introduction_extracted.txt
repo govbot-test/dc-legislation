@@ -1,0 +1,942 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+February 26, 2025
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. 7, 9, and 13 to Contract No. CW108950 with Stormwater
+Maintenance, LLC Approval and Payment Authorization Emergency Act of 2025,” and the
+accompanying emergency declaration resolution.
+The legislation will approve Modification Nos. 7, 9, and 13 to Contract No. CW108950 with
+Stormwater Maintenance, LLC, for routine restorative and reconstructive maintenance on just over
+3,000 District-owned and installed green stormwater infrastructure assets, to fully exercise option
+year one of the contract. In addition, the legislation will approve payment for the goods and
+services received and to be received under the modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modifications. In order to facilitate a response to any questions you may have, please have
+your staff contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at
+(202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Muriel Bowser
+
+~
+1
+2
+3 at the request of the Mayor
+4
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16 To approve, on an emergency basis, Modification Nos. 7, 9, and 13 to Contract No. CW108950
+17 with Stormwater Maintenance, LLC, and to authorize payment for the goods and services
+18 received and to be received under the modifications.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the "Modification Nos. 7, 9, and 13 to Contract No. CW108950 with
+22 Stormwater Maintenance, LLC Approval and Payment Authorization Emergency Act of 2025".
+23 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+24 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+25 requirements of section 202 of the Procurement Practices Reform Act of 2010, effective April 8,
+26 2011 (D.C. Law 18-371; D.C. Official Code§ 2-352.02), the Council approves Modification
+27 Nos. 7, 9, and 13 to Contract No. CW108950 with Stormwater Maintenance, LLC, and
+28 authorizes payment in the not-to-exceed amount of $6,429,579.11 for the goods and services
+29 received and to be received under the modifications.
+30 Sec. 3. Fiscal impact statement.
+31 The Council adopts the fiscal impact statement provided by the Chief Fi9ancial Officer as
+32 the fiscal impact statement required by section 4a of the General Legislative Procedures Act of
+33 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code§ 1-301.47a).
+
+34 Sec. 4. Effective date.
+35 This act shall take effect following approval by the Mayor (or in the event of veto by the
+36 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+37 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+38 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+39 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Tipping)
+(A) Contract Number: CW108950
+Proposed Contractor: Stormwater Maintenance, LLC
+Proposed Contractor’s Principals: Jennifer Rauhofer, PE
+President
+Contract Amount: Not-to-Exceed $6,429,579.11
+Unit and Method of Compensation: Fixed Price
+Term of Contract: August 14, 2024, through August 13, 2025
+Type of Contract: Indefinite Delivery/Indefinite Quantity (IDIQ)
+Source Selection Method: Cooperative Agreement
+(B) For a contract containing option periods, the contract amount for the base period and for each
+option period. If the contract amount for one or more of the option periods differs from the
+amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: Not-to-Exceed $6,412,783.57
+Council Approval: CA25-0683
+Option Period 1 Amount: Not-to-Exceed $6,429,579.11
+Explanation of difference from base period (if applicable):
+Increase in prices for option year of underlying agreement.
+1
+
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The Office of Contracting and Procurement, on behalf of the Department of Energy and Environment
+(DOEE) awarded Stormwater Maintenance, LLC, Contract No. CW108950 to perform assessments,
+routine restorative and reconstructive maintenance on just over 3,000 District-owned and installed
+Green Stormwater Infrastructure (GSI) assets to keep them in good working order per the 2020
+Stormwater Management Guidebook. The contractor provides maintenance reports including detailed
+information for tracking, invoicing and reporting to the Self-Inspection Self-Reporting (SISR).
+Reports will list activities performed, hours of staff time billed, and quantity of materials used during
+the maintenance of the GSI.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+The agency’s requirements were procured utilizing the cooperative agreement procurement method.
+The cooperative agreement is with Howard County, Maryland; Contract Number 4400003902;
+awarded August 25, 2019; and has one option period remaining ending August 24, 2025.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or voluntary
+corrective action by the District. Include the identity of the protestor, the grounds alleged in
+the protest, and any deficiencies identified by the District as a result of the protest:
+There was no protest.
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+Stormwater Maintenance, LLC, has a contract with the Government of the District of Columbia on
+behalf of DOEE, CW108394, FY23 Hickey Run best management practice (BMP”) for maintenance
+for Stormwater best management practice in northeast Washington.
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private sector
+contracts with requirements similar to those of the proposed contract:
+With over twenty-two years of experience and a diverse team of experts, Stormwater Maintenance,
+LLC, is an Industry Leader providing stormwater infrastructure services including Construction,
+Engineering, Maintaining Streams, Pond and BMP Maintenance, Inspections, Surveying and
+Underground Maintenance. Stormwater Maintenance, LLC, is also a Women Owned Business
+Enterprise (DBE/WBE) in numerous municipalities.
+Stormwater Maintenance, LLC, has an average rating score of 4.25 out of 8 within the District’s
+Contractor Performance Evaluation System (CPES) submitted by previous and current District
+Contract Administrators. For the Base Year of current contract CW108950, the Contractor
+2
+
+Administrator rated a score of 3.7 out of 5, confirming the contractor’s ability to successfully meet
+the agency’s requirements.
+(H) The period of performance associated with the proposed change, including date as of which the
+proposed change is to be made effective:
+August 14, 2024, through August 13, 2025
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+$989,994.76.
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+Total ceiling amount for Option Period One is Not-to-Exceed $6,429,579.11.
+(K) The date on which the contracting officer was notified of the proposed change:
+August 12, 2024
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+The option year for the requirements contract was exercised in order to issue a task order for the
+purpose of continuing assessments, routine, restorative, and reconstructive maintenance on
+approximately 3,000 Green Stormwater Infrastructure (GSI) assets that are owned and installed by
+the District. This is necessary to ensure that GSI is in good working order in accordance with the
+2020 Stormwater Management Guidebook. The option's transmittal was delayed prior to submission
+due to the completion of funding and compliances.
+(M) The reason for the proposed change:
+The Department of Energy and Environment has a critical need to continue the required services to
+maintain compliance with the 2020 Stormwater Management Guidebook.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+27 DCMR § 3601.2
+3
+
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics
+Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A certification from
+the proposed contractor that it currently is not and will not be in violation of section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics
+Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+Stormwater Maintenance, LLC, has certified in its Bidder/Offeror certification dated June 25, 2024,
+that it currently is not in violation and will not be in violation of section 334a of the Board of Ethics
+and Government Accountability Establishment and Comprehensive Ethics Reform Amendment Act
+of 2011, D.C. Official Code § 1-1163.34a.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended, D.C.
+Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting plan
+meets the minimum requirements of the Act and the dollar volume of the portion of the contract
+to be subcontracted, expressed both in total dollars and as a percentage of the total contract
+amount:
+A subcontracting plan is not required.
+(Q) Performance standards and the expected outcome of the proposed contract:
+The expected outcome of the proposed contract are assessments, routine restorative and
+reconstructive maintenance on just over 3,000 District-owned and installed Green Stormwater
+Infrastructure (GSI) assets; and maintenance reports including detailed information for tracking,
+invoicing and reporting to the Self-Inspection Self-Reporting (SISR).
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract prior
+to its submission to the Council for approval:
+August 09, 2024 - $574,819.00 (Task Order #2)
+October 04, 2024 - $415,175.76 (Task Order #3)
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Agency Fiscal Officer on January 8, 2025, confirmed funding in the amount of $2,755,000 is
+currently available for the procurement of Green Stormwater Infrastructure Maintenance for Contract
+No. CW108950. The ceiling amount for Option Period One contract requirements is not to exceed
+$6,429,579.11.
+(T) A certification that the contract is legally sufficient, including whether the proposed contractor
+has any pending legal claims against the District:
+4
+
+The Office of the Attorney General has reviewed and approved the proposed contract for legal
+sufficiency. The proposed contractor has no pending legal claims against the District.
+(U) A certification that the Citywide Clean Hands database indicates that the proposed contractor
+is current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District; or
+(2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+DC Clean Hands certification verification issued by the Office of the Chief Financial Officer, Office
+of Tax and Revenue was made on January 10, 2025, confirming Stormwater Maintenance, LLC, has
+no outstanding debt with the District.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+Stormwater Maintenance, LLC, has provided DC Clean Hand and Bidder Offeror certificate
+confirming clearance with current federal taxes.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise Development
+and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+Stormwater Maintenance, LLC, is not certified as a CBE with the Department of Small and Local
+Business Development (DSLBD).
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+Based upon the DC Clean Hands and SAMs report dated January 10, 2025, Stormwater Maintenance,
+LLC, is not debarred from providing goods or services to the District or Federal government.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization contracts):
+CW108950 – OP1 Determination and Findings for Responsibility
+CW108950 – OP1 Determination and Findings for Price Reasonableness
+CW108950 – OP1 Determination and Findings for Use of Cooperative Agreement with Howard
+County, Maryland
+5
+
+(AA) Was the contract, and any amendments or modifications, if executed, will be made available
+online:
+The executed contract and all modifications were made available online at Contracts and Procurement
+Transparency Portal (dc.gov).
+(BB) Was the original solicitation, and any amendments or modifications, made available online:
+The original solicitation, and all amendments, was not made available online because it is a
+Cooperative Agreement with Howard County, Maryland.
+6
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: January 10, 2025 Notice Number: L0013120332
+STORMWATER MAINTENANCE, LLC FEIN: **-***3017
+913 RIDGEBROOK RD STE 302 Case ID: 18435638
+SCPARKS MD 21152-9457
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Department of Energy and Environment
+MEMORANDUM
+TO: Nancy Hapeman, Chief Procurement Officer
+Office of Contracting and Procurement
+FROM: Lazaro Dela Cruz, Agency Fiscal Officer
+Department of Energy and Env i r o n m e n t Jessica Howard 1/9/2025
+Jessica Howard for Lazaro dela Cruz
+DATE: January 8, 2025
+SUBJECT: Certification of Funding for the Maintenance of Green Stormwater Infrastructure
+This memorandum certifies that the Department of Energy and Environment has sufficient
+funding in Fiscal Year 2025 (FY25) for the procurement of Green Stormwater Infrastructure
+Maintenance via Contract # CW108950 in the amount of $2,755,000. Funding for option year
+one will be $3,744,994.76 (FY24 ARPA funds $415,175.76 and FY24 stormwater funds
+$574,819.00). The requirements contract's ceiling for option year one is not to exceed
+$6,429,579.11.
+Budget authority has been established and the funds are immediately available from the funding
+source below:
+Agen Amount Fund Program Cost Account Project Task & Award Inter
+cy Center Sub Task Fund
+KG0 $2,755,000.00 1010001 600078 60078 7132001 0 0 0 0000000
+Total $2,755,000
+*Note: the total amount of $2,755,000 has been
+encumbered on RK292803.
+If you have any questions, please contact me at (202) 535-2512 or Lazaro.delacruz@dc.gov.
+1200 First Street NE, 5th Floor, Washington, DC 20002 | (202) 535-
+2600 | doee.dc.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+Legal Counsel Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Ben Moskowitz
+Acting Deputy Attorney General
+Legal Counsel Division
+DATE: January 24, 2025
+RE: Legal Sufficiency Review of the “Modifications to Contract No. CW108950 with
+Stormwater Maintenance, LLC Approval and Payment Authorization Emergency
+Act of 2025” and Accompanying Declaration Resolution
+(AE-25-001 B)
+_____________________________________________________________________________________
+This is to Certify that
+the Office of the Attorney General has reviewed the
+above-referenced legislation and determined that it is legally sufficient. If you have any questions,
+please do not hesitate to call me at (202) 735-7589.
+_________________________________
+Ben Moskowitz
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004 Phone (202) 735-7589 Email:
+benjamin.moskowitz1@dc.gov
+
+MODIFICATION OF CONTRACT 1. Contract Number Page of Pages
+CW108950 1 2
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+M0007 August 14, 2024 FY23 Green Stormwater
+Infrastructure Maintenance
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Office of Contracting and Procurement
+Information Technology Group Department of Energy and Environment
+441 4th Street, Suite 330S NW 1200 First Street, 5th Floor, NE
+Washington, DC 20002
+Washington, DC 20001
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+Stormwater Maintenance LLC 9B. Dated (See Item 11)
+9123 Ridgebrook Rd, Suite 302
+10A. Modification of Contractor/Order No.
+Sparks, MD 21152 CW108950/M0007
+X 10B. Dated (See Item 13)
+08/14/2023
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15 and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer submitted; or (c)
+BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED
+AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR
+OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or telegram makes
+reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If required):
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data etc.) set forth in
+item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C. This supplemental agreement is entered into pursuant to authority of 27 DCMR, 3601.3 and mutual agreement of the parties
+X D. Other (Specify type of modification and authority) 27 DCMR, Chapter 20 Section 2008 Exercise of Options
+E.IMPORTANT: Contractor ☐ is not ☒ is required to sign this document and return 1 copy to the issuing office.
+14.Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible).
+The purpose of this modification is to:
+1. End the base period on August 13, 2024.
+2. Decrease Option Period One contract line item numbers (CLIN) 1001 through 1033; and 1037 through
+1095 quantities to zero (0). (See Attachment A: Pricing Schedule);
+3. As a result of these changes, Option Period One decreases by $2,482,964.57 from $6,412,783.57 to
+$3,929,819.
+4. In accordance with Section F.2, Option to Extend the Term of the Contract, the Government of District of
+Columbia, Office of Contracting and Procurement, hereby PARTIALLY exercise Option Period One to
+extend the term of the contract for the period of August 14, 2024, through August 13, 2025, in the amount
+of $574,819.00.
+5. The remaining amount $3,355,000 will be added to option year one once Council Approval is received.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Tracy Crump
+15B. Name of Contractor 15C. 16B. 16C.
+8/13/2024
+(Signature of person authorized to sign) Date Signed (Signature of Contracting Officer) Date Signed.
+
+CW108950/M0009: GSI Maintenance
+CONTRACT RECAP
+Base Year
+Letter Contract (08/14/2023) $ 900,000.00
+M0001: Extend Letter Contract through 02/11/2024 $ 0.00
+M0002: Add additional funding and extend Letter Contract through 02/29/2024 $ 99,000.00
+M0003: Extend Letter Contract to 03/29/2024 $ 0.00
+M0004: Extend Letter Contract to 04/29/2024 $ 0.00
+Definitized the Contract (04/29/2024) $6,412,783.57
+M0005: Definitize Contract effective 04/29/2024 and extend to 08/13/2024 $ 0.00
+M0006: Extend Contract Base Year to 10/13/2024 $ 0.00
+Section B.4.1 Base Year Contract Total $7,411,783.57
+M0007: Option Year One –- Exercise Option (August 14, 2024, through $ 574,819.00
+August 13, 2025) and add funds
+M0008: Administrative $ 0.00
+M0009: Option Year One (Add Funds) $ 415,175.76
+Section B.4.2 Option Year One Contract Total $ 989,994.76
+
+MODIFICATION OF CONTRACT 1. Contract Number Page of Pages
+CW108950 1 1
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+FY23 Green Stormwater
+M0009 See blk 16c Infrastructure (GSI)
+RK283348-v2
+Maintenance
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Office of Contracting and Procurement
+Information Technology Group Department of Energy and Environment
+441 4th Street, Suite 330S NW Washington, 1200 First Street, 5th Floor, NE
+Washington, DC 20002
+DC 20001
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+Stormwater Maintenance LLC 9123 9B. Dated (See Item 11)
+Ridgebrook Rd, Suite 302
+10A. Modification of Contractor/Order No.
+Sparks, MD 21152 CW108950/M0009
+X 10B. Dated (See Item 13)
+08/14/2023
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15 and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer submitted; or (c)
+BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED AT
+THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR
+OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or telegram makes
+reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If required):
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS, IT
+MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B.The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data etc.) set forth in
+item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C. This supplemental agreement is entered into pursuant to authority of 27 DCMR, 3601.3 and mutual agreement of the parties
+X D. Other (Specify type of modification and authority) 27 DCMR, Chapter 20 Section 2008 Exercise of Options
+E.IMPORTANT: Contractor ☐ is not ☒ is required to sign this document and return 1 copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible).
+The purpose of this modification is to:
+1. Increase the Option Period One ceiling in Section B.4.2 Pricing Schedule by $16,795.54 from $6,413,783.57 to not
+exceed the value of $6,430,579.11 (See Attachment A) due to Howard County, the party in the
+District’s Cooperative Agreement, exercising an option for Contract Number: 4400003902 and escalating option
+year pricing (see Attachment B)
+2. Add funds in the amount of $415,175.76 for Task Order #2.
+3. Correct the Unit of Measure from “Lot” with “Lump Sum” in Section B.4.2 Option Year One, CLIN number 1034,
+1035 and 1036, (See Attachment A: Pricing Schedule);
+4. Correct M0007, Section 14, Item #4, from “PARTIALLY” executed to “FULLY” executed;
+5. Correct M0007. Section 14 Item #3 by Deleting in its’ entirety “As a result of these changes, Option Period One
+decreases by $2,482,964.57 from $6,412,783.57 to $3,929,819.”
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+15B. Name of Contractor 15C. 16B. 16C.
+10/09/2024
+(Signature of person authorized to sign) Date Signed (Signature of Contracting Officer) Date Signed.
+
+CW108950/M0009: GSI Maintenance
+CONTRACT RECAP
+Base Year
+Letter Contract (08/14/2023) $ 900,000.00
+M0001: Extend Letter Contract through 02/11/2024 $ 0.00
+M0002: Add additional funding and extend Letter Contract through 02/29/2024 $ 99,000.00
+M0003: Extend Letter Contract to 03/29/2024 $ 0.00
+M0004: Extend Letter Contract to 04/29/2024 $ 0.00
+Definitized the Contract (04/29/2024) $6,412,783.57
+M0005: Definitize Contract effective 04/29/2024 and extend to 08/13/2024 $ 0.00
+M0006: Extend Contract Base Year to 10/13/2024 $ 0.00
+Section B.4.1 Base Year Contract Total $7,411,783.57
+M0007: Option Year One –- Exercise Option (August 14, 2024, through $ 574,819.00
+August 13, 2025) and add funds
+M0008: Administrative $ 0.00
+M0009: Option Year One (Add Funds) $ 415,175.76
+Section B.4.2 Option Year One Contract Total $ 989,994.76
+
+MODIFICATION OF CONTRACT 1. Contract Number Page of Pages
+CW108950 1 2
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request No. 5. Solicitation Caption
+M0013 See blk 16c FY23 Green Stormwater
+Infrastructure (GSI)
+Maintenance
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Office of Contracting and Procurement
+Information Technology Group Department of Energy and Environment
+441 4th Street, Suite 330S NW 1200 First Street, 5th Floor, NE
+Washington, DC 20002
+Washington, DC 20001
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+Stormwater Maintenance LLC 9B. Dated (See Item 11)
+913 Ridgebrook Rd, Suite 302
+10A. Modification of Contractor/Order No.
+Sparks, MD 21152 CW108950/M0008
+X 10B. Dated (See Item 13)
+08/14/2023
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15 and returning copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer submitted; or (c)
+BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE RECEIVED
+AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF YOUR
+OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or telegram makes
+reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If required):
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B.The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data etc.) set forth in
+X
+item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.2.
+C. This supplemental agreement is entered into pursuant to authority of 27 DCMR, 3601.3 and mutual agreement of the parties
+D. Other (Specify type of modification and authority) 27 DCMR, Chapter 20 Section 2008 Exercise of Options
+E.IMPORTANT: Contractor ☐ is not ☒ is required to sign this document and return 1 copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible).
+The purpose of this modification is to:
+1. Rescind modification 0006, 0007, 0008, 0009, 0011 and 0012 and replace with modification 0013
+2. Withdraw unexecuted modification 0010
+3. Increase option Period One pricing by $16,795.54 from 6,412,783.57 to $6,429,579.11 due to Howard
+County, the party in the District’s Cooperative Agreement, exercising an option for Contract Number:
+4400003902 and escalating option year (see attachment A).
+4. Fully exercise option period one, period of performance August 14, 2024, through August 13, 2025, for
+the full NTE amount of $6,429,579.11.
+5. Verify that the contractor’s address of record is 913 Ridgebrook Rd, Suite 302 Sparks, MD 21152
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Tracy Crump
+15B. Name of Contractor 15C. 16B. 16C.
+(Signature of person authorized to sign) Date Signed (Signature of Contracting Officer) Date Signed.
+
+CONTRACT RECAP
+Base Year
+Letter Contract (08/14/2023) $ 900,000.00
+M0001: Extend Letter Contract through 02/11/2024 $ 0.00
+M0002: Add additional funding and extend Letter Contract through 02/29/2024 $ 99,000.00
+M0003: Extend Letter Contract to 03/29/2024 $ 0.00
+M0004: Extend Letter Contract to 04/29/2024 $ 0.00
+Definitized the Contract (04/29/2024) $6,412,783.57
+M0005: Definitize Contract effective 04/29/2024 and extend to 08/13/2024 $ 0.00
+Task Order T001 : Executed 05/06/2024 $3,894,435.32
+M0006: RESCIND $ 0.00
+Section B.4.1 Base Year Cumulative Contract Total $4,690,328.84
+Not-to-Exceed $6,412,783.57
+Option Yer One – Period of Performance August 14, 2024, through August 13, 2025
+M0007: RESCIND
+M0008: RESCIND
+M0009: RESCIND
+M0010: RESCIND
+M0011: RESCIND
+M0012: RESCIND
+M0013: Administrative N T E
+$6,429,579.11
+Section B.4.2 Option Year One Contract Total $3,744,994.76
+Not-to-Exceed $6,429,579.11
+
+ATTACHMENTA: Pricing Schedule
+BA2 Option Period One (August 14, 2024, through August 13, 2025)
+Contract
+Notto
+Item Unitof NtooExcteed
+Number Description Price | Measure ran Total
+(cuiN) i
+tor _| Construction, Environmental Restoration, soza1| Hour | 1250 |— s12138750
+Stormwater Management, Project Manager
+Construction, Environmental Restoration,
+1002 |stormwater Management,Construction $2092] Hour | 1250 | $101,150.00
+Estimator
+Construction, Environmental Restoration,
+1003 | Stormwater Management,Construction $37.76| Hour | 165 $6,268.16
+Administrative Support
+Construction, Environmental Restoration,
+1004 |stormwater Management, ConstructionField $9387] Hour | 1300 | $122,031.00
+Superintendent
+Construction, Environmental Restoration,
+1005 | Stormwater Management, Heavy Equipment $69.05] Hour | 332 $22,924.60
+Operator
+Construction, Environmental Restoration,
+1006 . 179| H 2000 103,580.00
+Stormwater Management, Skilled Laborer $: jour $:
+Construction, Environmental Restoration,
+1007 » » 4748| Hi 2000 $94,960.00
+Stormwater Management, Unskilled Laborer $ jour $
+Construction, Environmental Restoration,
+1008 | Stormwater Management, Excavator (standard| $43.16| Hour | 1250 $53,950.00
+20ton)
+to09_| Construction, Environmental Restoration, s7a37| Hour | 1250 gox,712.50
+StormwaterManagement, Mini Excavator
+Construction, Environmental Restoration,
+1010 |stormwater Management, TrackTruck $7337| Hour | 332 $24,358.84
+(standard)
+Construction, Environmental Restoration,
+3011 |stormwater Management, Track Truck $7013| Hour | 332 $23,283.16
+(standard 15 ton)
+Construction, Environmental Restoration,
+1012 . 45.32| Hi 1250 56,650.00
+Stormwater Management, Skid Loader . four s
+Construction, Environmental Restoration,
+1013 |stormwater Management,Bulldozer $6474) Hour | 166 $10,746.84
+(standard)
+Construction, Environmental Restoration,
+1014 | SrormuaterManagement,Gradesll $7553 Hour | 332 $25,075.96
+Construction, Environmental Restoration,
+1015_| Stormwater Management,Backhoe (Rubber $5071] Hour | 665 $33,722.15
+Tire,standard 15foot/10ton)
+Construction, Environmental Restoration,
+1016 | stormwater Management, Hydroseeder $5395| Hour | 665 $35,876.75
+tory_|Construction, Environmental Restoration, si079| Hour | 166 gaye.
+Stormwater Management,ToolTruck
+
+(cid:4)(cid:36)(cid:35)(cid:41)(cid:39)(cid:22)(cid:24)(cid:41)(cid:1)
+(cid:13)(cid:36)(cid:41)(cid:1)(cid:41)(cid:36)(cid:1)
+(cid:10)(cid:41)(cid:26)(cid:34)(cid:1) (cid:20)(cid:35)(cid:30)(cid:41)(cid:1)(cid:36)(cid:27)(cid:1) (cid:13)(cid:36)(cid:41)(cid:1)(cid:41)(cid:36)(cid:1)(cid:6)(cid:45)(cid:24)(cid:26)(cid:26)(cid:25)(cid:1)
+(cid:5)(cid:26)(cid:40)(cid:24)(cid:39)(cid:30)(cid:37)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1) (cid:15)(cid:39)(cid:30)(cid:24)(cid:26)(cid:1) (cid:6)(cid:45)(cid:24)(cid:26)(cid:26)(cid:25)(cid:1)
+(cid:13)(cid:42)(cid:34)(cid:23)(cid:26)(cid:39)(cid:1) (cid:12)(cid:26)(cid:22)(cid:40)(cid:42)(cid:39)(cid:26)(cid:1) (cid:19)(cid:36)(cid:41)(cid:22)(cid:33)(cid:1)
+(cid:16)(cid:41)(cid:46)(cid:50)(cid:1)
+(cid:52)(cid:4)(cid:11)(cid:10)(cid:13)(cid:53)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:59)(cid:66)(cid:1) (cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:18)(cid:22)(cid:35)(cid:25)(cid:26)(cid:34)(cid:1)(cid:2)(cid:45)(cid:33)(cid:26)(cid:1)(cid:5)(cid:42)(cid:34)(cid:37)(cid:1) (cid:57)(cid:69)(cid:61)(cid:49)(cid:67)(cid:61)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:61)(cid:62)(cid:65)(cid:60)(cid:1) (cid:57)(cid:61)(cid:61)(cid:64)(cid:48)(cid:66)(cid:63)(cid:67)(cid:49)(cid:65)(cid:60)(cid:1)
+(cid:18)(cid:39)(cid:42)(cid:24)(cid:32)(cid:1)(cid:30)(cid:35)(cid:24)(cid:33)(cid:42)(cid:25)(cid:30)(cid:35)(cid:28)(cid:1)(cid:25)(cid:39)(cid:30)(cid:43)(cid:26)(cid:39)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:59)(cid:67)(cid:1) (cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:17)(cid:30)(cid:35)(cid:28)(cid:33)(cid:26)(cid:1)(cid:2)(cid:45)(cid:33)(cid:26)(cid:1)(cid:5)(cid:42)(cid:34)(cid:37)(cid:1) (cid:57)(cid:67)(cid:60)(cid:49)(cid:61)(cid:63)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:61)(cid:62)(cid:65)(cid:60)(cid:1) (cid:57)(cid:68)(cid:67)(cid:48)(cid:66)(cid:66)(cid:62)(cid:49)(cid:65)(cid:60)(cid:1)
+(cid:18)(cid:39)(cid:42)(cid:24)(cid:32)(cid:1)(cid:30)(cid:35)(cid:24)(cid:33)(cid:42)(cid:25)(cid:30)(cid:35)(cid:28)(cid:1)(cid:25)(cid:39)(cid:30)(cid:43)(cid:26)(cid:39)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:60)(cid:58)(cid:1) (cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:16)(cid:36)(cid:33)(cid:33)(cid:36)(cid:27)(cid:27)(cid:1)(cid:18)(cid:39)(cid:42)(cid:24)(cid:32)(cid:1)(cid:44)(cid:30)(cid:41)(cid:29)(cid:1) (cid:57)(cid:65)(cid:63)(cid:69)(cid:49)(cid:64)(cid:69)(cid:1) (cid:6)(cid:22)(cid:24)(cid:29)(cid:1) (cid:63)(cid:62)(cid:1) (cid:57)(cid:61)(cid:67)(cid:48)(cid:62)(cid:66)(cid:63)(cid:49)(cid:66)(cid:68)(cid:1)
+(cid:63)(cid:60)(cid:1)(cid:46)(cid:25)(cid:63)(cid:1)(cid:24)(cid:22)(cid:35)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:20)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:15)(cid:42)(cid:34)(cid:37)(cid:1)(cid:62)(cid:1)
+(cid:59)(cid:58)(cid:60)(cid:59)(cid:1) (cid:57)(cid:61)(cid:60)(cid:49)(cid:67)(cid:69)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:65)(cid:60)(cid:60)(cid:1) (cid:57)(cid:65)(cid:48)(cid:63)(cid:69)(cid:65)(cid:49)(cid:60)(cid:60)(cid:1)
+(cid:52)(cid:30)(cid:35)(cid:24)(cid:33)(cid:42)(cid:25)(cid:26)(cid:40)(cid:1)(cid:62)(cid:60)(cid:1)(cid:27)(cid:26)(cid:26)(cid:41)(cid:1)(cid:30)(cid:35)(cid:41)(cid:22)(cid:32)(cid:26)(cid:1)(cid:22)(cid:35)(cid:25)(cid:1)(cid:62)(cid:60)(cid:60)(cid:1)(cid:27)(cid:26)(cid:26)(cid:41)(cid:1)
+(cid:25)(cid:30)(cid:40)(cid:24)(cid:29)(cid:22)(cid:39)(cid:28)(cid:26)(cid:53)(cid:55)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:20)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:15)(cid:42)(cid:34)(cid:37)(cid:1)(cid:64)(cid:1)
+(cid:59)(cid:58)(cid:60)(cid:60)(cid:1) (cid:57)(cid:61)(cid:66)(cid:49)(cid:61)(cid:68)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:65)(cid:60)(cid:60)(cid:1) (cid:57)(cid:68)(cid:48)(cid:60)(cid:69)(cid:60)(cid:49)(cid:60)(cid:60)(cid:1)
+(cid:52)(cid:30)(cid:35)(cid:24)(cid:33)(cid:42)(cid:25)(cid:26)(cid:40)(cid:1)(cid:62)(cid:60)(cid:1)(cid:27)(cid:26)(cid:26)(cid:41)(cid:1)(cid:30)(cid:35)(cid:41)(cid:22)(cid:32)(cid:26)(cid:1)(cid:22)(cid:35)(cid:25)(cid:1)(cid:62)(cid:60)(cid:60)(cid:1)(cid:27)(cid:26)(cid:26)(cid:41)(cid:1)
+(cid:25)(cid:30)(cid:40)(cid:24)(cid:29)(cid:22)(cid:39)(cid:28)(cid:26)(cid:53)(cid:55)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:20)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:15)(cid:42)(cid:34)(cid:37)(cid:1)(cid:66)(cid:1)
+(cid:59)(cid:58)(cid:60)(cid:61)(cid:1) (cid:57)(cid:64)(cid:63)(cid:49)(cid:61)(cid:66)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:66)(cid:66)(cid:65)(cid:1) (cid:57)(cid:62)(cid:68)(cid:48)(cid:67)(cid:60)(cid:61)(cid:49)(cid:64)(cid:60)(cid:1)
+(cid:52)(cid:30)(cid:35)(cid:24)(cid:33)(cid:42)(cid:25)(cid:26)(cid:40)(cid:1)(cid:62)(cid:60)(cid:1)(cid:27)(cid:26)(cid:26)(cid:41)(cid:1)(cid:30)(cid:35)(cid:41)(cid:22)(cid:32)(cid:26)(cid:1)(cid:22)(cid:35)(cid:25)(cid:1)(cid:62)(cid:60)(cid:60)(cid:1)(cid:27)(cid:26)(cid:26)(cid:41)(cid:1)
+(cid:25)(cid:30)(cid:40)(cid:24)(cid:29)(cid:22)(cid:39)(cid:28)(cid:26)(cid:53)(cid:55)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:60)(cid:62)(cid:1) (cid:57)(cid:65)(cid:49)(cid:63)(cid:69)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:61)(cid:63)(cid:62)(cid:61)(cid:1) (cid:57)(cid:67)(cid:48)(cid:61)(cid:62)(cid:60)(cid:49)(cid:61)(cid:69)(cid:1)
+(cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:11)(cid:22)(cid:40)(cid:26)(cid:39)(cid:1)(cid:11)(cid:26)(cid:43)(cid:26)(cid:33)(cid:1)(cid:22)(cid:35)(cid:25)(cid:1)(cid:16)(cid:36)(cid:25)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:60)(cid:63)(cid:1) (cid:57)(cid:65)(cid:49)(cid:63)(cid:69)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:66)(cid:66)(cid:66)(cid:1) (cid:57)(cid:63)(cid:48)(cid:65)(cid:68)(cid:69)(cid:49)(cid:67)(cid:64)(cid:1)
+(cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:8)(cid:26)(cid:35)(cid:26)(cid:39)(cid:22)(cid:41)(cid:36)(cid:39)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:60)(cid:64)(cid:1) (cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:17)(cid:29)(cid:26)(cid:26)(cid:37)(cid:40)(cid:1)(cid:7)(cid:36)(cid:36)(cid:41)(cid:1)(cid:16)(cid:36)(cid:33)(cid:33)(cid:26)(cid:39)(cid:1) (cid:57)(cid:61)(cid:60)(cid:49)(cid:67)(cid:69)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:66)(cid:66)(cid:65)(cid:1) (cid:57)(cid:67)(cid:48)(cid:61)(cid:67)(cid:65)(cid:49)(cid:63)(cid:65)(cid:1)
+(cid:52)((cid:1)(cid:44)(cid:22)(cid:33)(cid:32)(cid:1)(cid:23)(cid:26)(cid:29)(cid:30)(cid:35)(cid:25)(cid:53)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:60)(cid:65)(cid:1) (cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:17)(cid:32)(cid:30)(cid:25)(cid:1)(cid:11)(cid:36)(cid:22)(cid:25)(cid:26)(cid:39)(cid:1) (cid:57)(cid:61)(cid:60)(cid:49)(cid:67)(cid:69)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:61)(cid:63)(cid:62)(cid:69)(cid:1) (cid:57)(cid:61)(cid:64)(cid:48)(cid:63)(cid:63)(cid:69)(cid:49)(cid:69)(cid:61)(cid:1)
+(cid:2)(cid:41)(cid:41)(cid:22)(cid:24)(cid:29)(cid:34)(cid:26)(cid:35)(cid:41)(cid:40)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:60)(cid:66)(cid:1) (cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:18)(cid:30)(cid:34)(cid:23)(cid:26)(cid:39)(cid:1)(cid:5)(cid:26)(cid:24)(cid:32)(cid:1)(cid:12)(cid:22)(cid:41)(cid:40)(cid:1) (cid:57)(cid:62)(cid:66)(cid:69)(cid:49)(cid:67)(cid:65)(cid:1) (cid:6)(cid:22)(cid:24)(cid:29)(cid:1) (cid:66)(cid:65)(cid:1) (cid:57)(cid:61)(cid:67)(cid:48)(cid:65)(cid:63)(cid:63)(cid:49)(cid:67)(cid:65)(cid:1)
+(cid:52)(cid:64)(cid:54)(cid:1)(cid:45)(cid:1)(cid:61)(cid:66)(cid:54)(cid:1)(cid:45)(cid:1)(cid:61)(cid:54)(cid:53)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:60)(cid:67)(cid:1) (cid:57)(cid:65)(cid:69)(cid:49)(cid:63)(cid:64)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:65)(cid:60)(cid:60)(cid:1) (cid:57)(cid:62)(cid:69)(cid:48)(cid:66)(cid:67)(cid:60)(cid:49)(cid:60)(cid:60)(cid:1)
+(cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:4)(cid:29)(cid:30)(cid:37)(cid:37)(cid:26)(cid:39)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:61)(cid:58)(cid:1) (cid:57)(cid:63)(cid:67)(cid:49)(cid:67)(cid:66)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:65)(cid:60)(cid:60)(cid:1) (cid:57)(cid:61)(cid:68)(cid:48)(cid:68)(cid:68)(cid:60)(cid:49)(cid:60)(cid:60)(cid:1)
+(cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:17)(cid:41)(cid:39)(cid:22)(cid:44)(cid:1)(cid:3)(cid:33)(cid:36)(cid:44)(cid:26)(cid:39)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:61)(cid:59)(cid:1) (cid:57)(cid:68)(cid:60)(cid:69)(cid:49)(cid:62)(cid:64)(cid:1) (cid:6)(cid:22)(cid:24)(cid:29)(cid:1) (cid:61)(cid:63)(cid:64)(cid:1) (cid:57)(cid:61)(cid:60)(cid:68)(cid:48)(cid:64)(cid:63)(cid:68)(cid:49)(cid:61)(cid:66)(cid:1)
+(cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:12)(cid:36)(cid:23)(cid:30)(cid:33)(cid:30)(cid:47)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:61)(cid:60)(cid:1) (cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:5)(cid:42)(cid:34)(cid:37)(cid:30)(cid:35)(cid:28)(cid:1)(cid:4)(cid:29)(cid:22)(cid:39)(cid:28)(cid:26)(cid:40)(cid:1) (cid:57)(cid:61)(cid:69)(cid:49)(cid:64)(cid:62)(cid:1) (cid:4)(cid:21)(cid:1) (cid:63)(cid:61)(cid:69)(cid:65)(cid:1) (cid:57)(cid:66)(cid:62)(cid:48)(cid:60)(cid:64)(cid:66)(cid:49)(cid:69)(cid:60)(cid:1)
+(cid:52)(cid:15)(cid:26)(cid:39)(cid:1)(cid:4)(cid:42)(cid:23)(cid:30)(cid:24)(cid:1)(cid:21)(cid:22)(cid:39)(cid:25)(cid:53)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:61)(cid:61)(cid:1) (cid:17)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:20)(cid:26)(cid:41)(cid:33)(cid:22)(cid:35)(cid:25)(cid:1)(cid:2)(cid:24)(cid:24)(cid:26)(cid:40)(cid:40)(cid:1) (cid:57)(cid:65)(cid:63)(cid:69)(cid:49)(cid:64)(cid:69)(cid:1) (cid:6)(cid:22)(cid:24)(cid:29)(cid:1) (cid:63)(cid:60)(cid:1) (cid:57)(cid:61)(cid:66)(cid:48)(cid:61)(cid:68)(cid:64)(cid:49)(cid:67)(cid:60)(cid:1)
+(cid:12)(cid:22)(cid:41)(cid:40)(cid:1)(cid:52)(cid:15)(cid:26)(cid:39)(cid:1)(cid:61)(cid:60)(cid:60)(cid:1)(cid:40)(cid:38)(cid:42)(cid:22)(cid:39)(cid:26)(cid:1)(cid:27)(cid:26)(cid:26)(cid:41)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:17)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:18)(cid:41)(cid:36)(cid:39)(cid:34)(cid:44)(cid:22)(cid:41)(cid:26)(cid:39)(cid:1)(cid:12)(cid:22)(cid:35)(cid:22)(cid:28)(cid:26)(cid:34)(cid:26)(cid:35)(cid:41)(cid:48)(cid:1)(cid:12)(cid:22)(cid:41)(cid:26)(cid:39)(cid:30)(cid:22)(cid:33)(cid:1)(cid:34)(cid:22)(cid:39)(cid:32)(cid:42)(cid:37)(cid:48)(cid:1) (cid:11)(cid:42)(cid:34)(cid:37)(cid:1)
+(cid:59)(cid:58)(cid:61)(cid:62)(cid:1) (cid:55)(cid:59)(cid:50)(cid:58)(cid:58)(cid:1) (cid:59)(cid:1) (cid:55)(cid:64)(cid:61)(cid:67)(cid:48)(cid:58)(cid:58)(cid:58)(cid:50)(cid:58)(cid:58)(cid:1)
+(cid:13)(cid:36)(cid:35)(cid:51)(cid:15)(cid:33)(cid:22)(cid:35)(cid:41)(cid:1)(cid:52)(cid:6)(cid:40)(cid:41)(cid:30)(cid:34)(cid:22)(cid:41)(cid:26)(cid:1)(cid:30)(cid:35)(cid:24)(cid:33)(cid:42)(cid:25)(cid:26)(cid:40)(cid:1)(cid:34)(cid:22)(cid:41)(cid:26)(cid:39)(cid:30)(cid:22)(cid:33)(cid:1)(cid:22)(cid:35)(cid:25)(cid:1) (cid:18)(cid:42)(cid:34)(cid:1)
+(cid:34)(cid:22)(cid:39)(cid:32)(cid:42)(cid:37)(cid:1)(cid:24)(cid:36)(cid:40)(cid:41)(cid:40)(cid:53)(cid:1)
+
+Notto
+Unitof NottoExceed
+Description Price Exceed
+Measure Total
+{cun)
+Construction, Environmental Restoration,
+StormwaterManagement, Material Markup, Lump
+1035
+Plant. (Estimateincludesmaterial and $1.00 ‘sum $479,250.00
+markupcost)
+Construction, Environmental Restoration,
+StormwaterManagement, Material Markup Lump
+1036
+Subcontractor(Estimateincludes $1.00 ‘sum $3,195,000.00
+subcontractorandmarkupcosts)
+Construction, Environmental Restoration,
+Stormwater Managementand Stream
+1037 yo3 1300
+Restoration Fixed PriceContingent item-Class $64.74 $84,162.00
+AExcavation
+Construction, Environmental Restoration,
+1038 Stormwater Managemeanntd Stream TON 160
+$37.76 $6,041.60
+Restoration CR-6for Maintenanceof Traffic
+Construction, Environmental Restoration,
+Stormwater Managemeanntd Stream
+1039 TON 320
+Restoration Hot MixAsphalt (HMA) for $129.48, $41,433.60
+Maintenanceof Traffic
+Construction, Environmental Restoration,
+Stormwater Managemeanntd Stream
+1040 yo3 150
+Restoration MixNo. 3 ConcreteforCurbs, $350.67 $52,600.50
+Sidewalks and steps
+Construction, Environmental Restoration,
+Stormwater Managemeanntd Stream
+1041 Restoration MixNo. 3 Concretefor $512.52 yo3 $32,801.28
+Miscellaneous Drainage Structures
+Construction, Environmental Restoration,
+1042 Stormwater Managemeanntd Stream yo3 482
+$47.28 $22,788.96
+Restoration Common Borrow
+Construction, Environmental Restoration,
+1043 Stormwater Managemeanntd Stream yo3 482
+$59.34 $28,601.88
+Restoration Select Borrow
+Construction, Environmental Restoration,
+1044 Stormwater Managemeanntd Stream yo3 482
+$24.82 $11,963.24
+Restoration Class3 Excavation
+Construction, Environmental Restoration,
+Stormwater Managemeanntd Stream
+1045 yo3 482
+Restoration Select Backfill UsingCrusher Run $50.71 $24,442.22
+CR6Aggregate
+Construction, Environmental Restoration,
+Stormwater Managemeanntd Stream
+1046 yo3 482
+Restoration Select Backfill Using No. 57 $50.71 $24,442.22
+Aggregate
+Construction, Environmental Restoration,
+Stormwater Managemeanntd Stream
+1047 Each 21
+Restoration Excavation Support System Left In- $1,294.78, $27,190.38
+Place
+Construction, Environmental Restoration,
+1048, Stormwater Managemeanntd Stream TON 21
+$620.41 $13,028.61
+Restoration Calcium Chloridefor DustControl
+Construction, Environmental Restoration,
+1049 ‘StormwaterManagement and Stream Yo3 100
+$404.62 $40,462.00
+Restoration Mix No.1 Concrete
+
+Notto
+Unitof NottoExceed
+Description Price Exceed
+Measure Total
+{cun)
+Construction, Environmental Restoration,
+Stormwater Management and Stream
+1050 RestorationTest Pit Excavation.-a. Non- $91.71 Yo3 100 $9,171.00
+PavedAreas
+Construction, Environmental Restoration,
+Stormwater Management and Stream
+1051 Yo3
+RestorationTest Pit Excavation- b. Paved- $168.32 $13,297.28
+NonStateRoads
+Construction, Environmental Restoration,
+Stormwater Management and Stream
+1052 Yo3
+RestorationTest Pit Excavation-c. Paved- $242.77 $19,421.60
+Arterial and StateRoads
+‘Construction, Environmental Restoration,
+StormwaterManagementandStream
+1053 150
+Restoration Patching Existing Pavingwith Hot $134.87 $20,230.50
+MixAsph (HMA)
+Construction, Environmental Restoration,
+StormwaterManagementandStream
+1054 Yo3
+Restoration Patching Existing Paving with $269.75 $17,264.00
+PortlandCementConcrete
+Construction, Environmental Restoration,
+1055 ‘StormwaterManagement and Stream uF 2000
+$4.32 $8,640.00
+Restorationsilt Fence
+Construction, Environmental Restoration,
+1056 StormwaterManagementandStream uF 2000
+$10.79 $21,580.00
+RestorationSuperSilt Fence
+Construction, Environmental Restoration,
+1057 ‘StormwaterManagement and Stream uF 2000
+$5.39 $10,780.00
+RestorationStraw BaleDikes
+Construction, Environmental Restoration,
+1058 StormwaterManagementandStream uF 2000
+$23.74 $47,480.00
+RestorationStoneOutletSedimentTrap
+‘Construction, Environmental Restoration,
+1059 StormwaterManagementandStream you 3002
+$1,891.26
+RestorationTemporarySeedingand Mulching
+Construction, Environmental Restoration,
+1060 Stream Restoration Management Project $97.11 Hour 50 $4,855.50
+Manager
+Construction, Environmental Restoration,
+1061 Stream RestorationConstruction, Hour 50
+$80.92 $4,046.00
+Construction Estimator
+Construction, Environmental Restoration,
+1062 Stream RestorationConstruction, Hour
+$37.76 $75.52
+AdministrativeSupport
+Construction, Environmental Restoration,
+1063 Stream RestorationConstruction,Field $93.87 Hour 50 $4,693.50
+Superintendent
+Construction, Environmental Restoration,
+1064 ‘Stream RestorationConstruction,Heavy Hour
+$69.05 $276.20
+EquipmentOperator
+Construction, Environmental Restoration,
+1065 Stream RestorationConstruction,Skilled $51.97 Hour 100 $5,197.00
+Laborer
+
+Contract
+Notto
+Item Unitof NottoExceed
+Description Price Exceed
+Number Measure Total
+{cun)
+Construction, Environmental Restoration,
+1066 ‘Stream RestorationConstruction,Unskilled Hour 100
+$46.40
+Laborer
+Construction, Environmental Restoration,
+1067 Stream RestorationConstruction,Mini- Hour 50
+$43.16
+Excavator
+Construction, Environmental Restoration,
+1068 ‘Stream RestorationConstruction,Excavator Hour 50
+$73.37 $3,668.50
+(standard20ton)
+Construction, Environmental Restoration,
+1069 ‘Stream RestorationConstruction,TrackTruck Hour
+$73.37 $146.74
+(standard)
+Construction, Environmental Restoration,
+1070 Stream RestorationConstruction,Track Hour
+$70.13 $140.26
+Loader(standard 15ton)
+Construction, Environmental Restoration,
+1071 Stream RestorationConstruction,SkidLoader
+$45.32
+Hour 50 $2,266.00
+(standard)
+Construction, Environmental Restoration,
+1072 ‘Stream RestorationConstruction,Bulldozer Hour 10
+$64.74 $647.40
+(standard)
+Construction, Environmental Restoration,
+1073 Hour 10
+$75.53 $755.30
+Stream RestorationConstruction,Gradall
+Construction, Environmental Restoration,
+1074 Stream Restoration Construction, Backhoe Hour 25
+$50.71 $1,267.75
+(RubberTire, standard 15 foot/10ton)
+‘Construction, Environmental Restoration,
+1075 Stream RestorationConstruction, Hour 25
+$53.95 $1,348.75
+Hydroseeder
+Construction, Environmental Restoration,
+1076 Hour
+Stream Restoration Construction,Tool Truck $10.79 $21.58
+Construction, Environmental Restoration,
+1077 Stream Restoration Construction,Tandem Axle Hour 50
+soL71 $4,585.50
+DumpTruck includingdriver
+Construction, Environmental Restoration,
+1078 Stream Restoration Construction, Single Axle Hour 50
+$70.13 $3,506.50
+DumpTruck includingdriver
+Construction, Environmental Restoration,
+1079 Stream Restoration Construction, RolloffTruck Each
+$539.49 $539.49
+with 30yd3can
+Construction, Environmental Restoration,
+Stream Restoration Construction, Water Pump
+1080 Hour 25
+2 (includes20 feet intake and200 feet $10.79 $269.75
+discharge)”
+‘Construction, Environmental Restoration,
+Stream Restoration Construction, Water Pump
+1081 Hour 25
+4(includes 20feet intake and 200feet $16.18 $404.50
+discharge)”
+Construction, Environmental Restoration,
+Stream Restoration Construction, Water Pump
+1082 Hour 26
+6(includes20 feet intake and200 feet $43.16 $1,122.16
+discharge)”
+
+(cid:4)(cid:36)(cid:35)(cid:41)(cid:39)(cid:22)(cid:24)(cid:41)(cid:1)
+(cid:13)(cid:36)(cid:41)(cid:1)(cid:41)(cid:36)(cid:1)
+(cid:10)(cid:41)(cid:26)(cid:34)(cid:1) (cid:20)(cid:35)(cid:30)(cid:41)(cid:1)(cid:36)(cid:27)(cid:1) (cid:13)(cid:36)(cid:41)(cid:1)(cid:41)(cid:36)(cid:1)(cid:6)(cid:45)(cid:24)(cid:26)(cid:26)(cid:25)(cid:1)
+(cid:5)(cid:26)(cid:40)(cid:24)(cid:39)(cid:30)(cid:37)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1) (cid:15)(cid:39)(cid:30)(cid:24)(cid:26)(cid:1) (cid:6)(cid:45)(cid:24)(cid:26)(cid:26)(cid:25)(cid:1)
+(cid:13)(cid:42)(cid:34)(cid:23)(cid:26)(cid:39)(cid:1) (cid:12)(cid:26)(cid:22)(cid:40)(cid:42)(cid:39)(cid:26)(cid:1) (cid:19)(cid:36)(cid:41)(cid:22)(cid:33)(cid:1)
+(cid:16)(cid:41)(cid:46)(cid:50)(cid:1)
+(cid:52)(cid:4)(cid:11)(cid:10)(cid:13)(cid:53)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:66)(cid:61)(cid:1) (cid:17)(cid:41)(cid:39)(cid:26)(cid:22)(cid:34)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:11)(cid:22)(cid:40)(cid:26)(cid:39)(cid:1)(cid:11)(cid:26)(cid:43)(cid:26)(cid:33)(cid:1) (cid:57)(cid:65)(cid:49)(cid:63)(cid:69)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:65)(cid:60)(cid:1) (cid:57)(cid:62)(cid:66)(cid:69)(cid:49)(cid:65)(cid:60)(cid:1)
+(cid:22)(cid:35)(cid:25)(cid:1)(cid:16)(cid:36)(cid:25)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:66)(cid:62)(cid:1) (cid:57)(cid:65)(cid:49)(cid:63)(cid:69)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:62)(cid:65)(cid:1) (cid:57)(cid:61)(cid:63)(cid:64)(cid:49)(cid:67)(cid:65)(cid:1)
+(cid:17)(cid:41)(cid:39)(cid:26)(cid:22)(cid:34)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:8)(cid:26)(cid:35)(cid:26)(cid:39)(cid:22)(cid:41)(cid:36)(cid:39)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:66)(cid:63)(cid:1) (cid:17)(cid:41)(cid:39)(cid:26)(cid:22)(cid:34)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:17)(cid:29)(cid:26)(cid:26)(cid:37)(cid:40)(cid:1)(cid:7)(cid:36)(cid:36)(cid:41)(cid:1) (cid:57)(cid:61)(cid:60)(cid:49)(cid:67)(cid:69)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:62)(cid:65)(cid:1) (cid:57)(cid:62)(cid:66)(cid:69)(cid:49)(cid:67)(cid:65)(cid:1)
+(cid:16)(cid:36)(cid:33)(cid:33)(cid:26)(cid:39)(cid:1)(cid:52)(cid:44)(cid:22)(cid:33)(cid:32)(cid:1)(cid:23)(cid:26)(cid:29)(cid:30)(cid:35)(cid:25)(cid:53)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:66)(cid:64)(cid:1) (cid:17)(cid:41)(cid:39)(cid:26)(cid:22)(cid:34)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:17)(cid:32)(cid:30)(cid:25)(cid:1)(cid:11)(cid:36)(cid:22)(cid:25)(cid:26)(cid:39)(cid:1) (cid:57)(cid:61)(cid:60)(cid:49)(cid:67)(cid:69)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:65)(cid:60)(cid:1) (cid:57)(cid:65)(cid:63)(cid:69)(cid:49)(cid:65)(cid:60)(cid:1)
+(cid:2)(cid:41)(cid:41)(cid:22)(cid:24)(cid:29)(cid:34)(cid:26)(cid:35)(cid:41)(cid:40)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:66)(cid:65)(cid:1) (cid:17)(cid:41)(cid:39)(cid:26)(cid:22)(cid:34)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:18)(cid:30)(cid:34)(cid:23)(cid:26)(cid:39)(cid:1)(cid:5)(cid:26)(cid:24)(cid:32)(cid:1) (cid:57)(cid:62)(cid:66)(cid:69)(cid:49)(cid:67)(cid:65)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:63)(cid:1) (cid:57)(cid:68)(cid:60)(cid:69)(cid:49)(cid:62)(cid:65)(cid:1)
+(cid:12)(cid:22)(cid:41)(cid:40)(cid:1)(cid:52)(cid:64)(cid:54)(cid:1)(cid:45)(cid:1)(cid:61)(cid:66)(cid:54)(cid:1)(cid:45)(cid:1)(cid:61)(cid:54)(cid:53)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:66)(cid:66)(cid:1) (cid:57)(cid:65)(cid:69)(cid:49)(cid:63)(cid:64)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:62)(cid:65)(cid:1) (cid:57)(cid:61)(cid:48)(cid:64)(cid:68)(cid:63)(cid:49)(cid:65)(cid:60)(cid:1)
+(cid:17)(cid:41)(cid:39)(cid:26)(cid:22)(cid:34)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:4)(cid:29)(cid:30)(cid:37)(cid:37)(cid:26)(cid:39)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:66)(cid:67)(cid:1) (cid:17)(cid:41)(cid:39)(cid:26)(cid:22)(cid:34)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:17)(cid:41)(cid:39)(cid:22)(cid:44)(cid:1) (cid:57)(cid:63)(cid:67)(cid:49)(cid:67)(cid:66)(cid:1) (cid:9)(cid:36)(cid:42)(cid:39)(cid:1) (cid:62)(cid:63)(cid:1) (cid:57)(cid:68)(cid:66)(cid:68)(cid:49)(cid:64)(cid:68)(cid:1)
+(cid:3)(cid:33)(cid:36)(cid:44)(cid:26)(cid:39)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:17)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:67)(cid:58)(cid:1) (cid:18)(cid:41)(cid:39)(cid:26)(cid:22)(cid:34)(cid:1)(cid:17)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1) (cid:55)(cid:66)(cid:58)(cid:67)(cid:50)(cid:60)(cid:62)(cid:1) (cid:6)(cid:22)(cid:24)(cid:29)(cid:1) (cid:60)(cid:1) (cid:55)(cid:59)(cid:48)(cid:64)(cid:59)(cid:66)(cid:50)(cid:62)(cid:66)(cid:1)
+(cid:12)(cid:36)(cid:23)(cid:30)(cid:33)(cid:30)(cid:47)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:67)(cid:59)(cid:1) (cid:17)(cid:41)(cid:39)(cid:26)(cid:22)(cid:34)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:5)(cid:42)(cid:34)(cid:37)(cid:30)(cid:35)(cid:28)(cid:1) (cid:57)(cid:61)(cid:68)(cid:49)(cid:63)(cid:64)(cid:1) (cid:21)(cid:5)(cid:63)(cid:1) (cid:64)(cid:65)(cid:60)(cid:1) (cid:57)(cid:68)(cid:48)(cid:62)(cid:65)(cid:63)(cid:49)(cid:60)(cid:60)(cid:1)
+(cid:4)(cid:29)(cid:22)(cid:39)(cid:28)(cid:26)(cid:40)(cid:1)(cid:52)(cid:15)(cid:26)(cid:39)(cid:1)(cid:4)(cid:42)(cid:23)(cid:30)(cid:24)(cid:1)(cid:21)(cid:22)(cid:39)(cid:25)(cid:53)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:67)(cid:60)(cid:1) (cid:17)(cid:41)(cid:39)(cid:26)(cid:22)(cid:34)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:20)(cid:26)(cid:41)(cid:33)(cid:22)(cid:35)(cid:25)(cid:1) (cid:57)(cid:65)(cid:63)(cid:69)(cid:49)(cid:64)(cid:69)(cid:1) (cid:6)(cid:22)(cid:24)(cid:29)(cid:1) (cid:61)(cid:1) (cid:57)(cid:65)(cid:63)(cid:69)(cid:49)(cid:64)(cid:69)(cid:1)
+(cid:2)(cid:24)(cid:24)(cid:26)(cid:40)(cid:40)(cid:1)(cid:12)(cid:22)(cid:41)(cid:40)(cid:1)(cid:52)(cid:15)(cid:26)(cid:39)(cid:1)(cid:61)(cid:60)(cid:60)(cid:1)(cid:40)(cid:38)(cid:42)(cid:22)(cid:39)(cid:26)(cid:1)(cid:27)(cid:26)(cid:26)(cid:41)(cid:53)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:67)(cid:61)(cid:1) (cid:57)(cid:61)(cid:49)(cid:60)(cid:60)(cid:1) (cid:11)(cid:36)(cid:41)(cid:1) (cid:60)(cid:1) (cid:57)(cid:60)(cid:49)(cid:60)(cid:60)(cid:1)
+(cid:17)(cid:41)(cid:39)(cid:26)(cid:22)(cid:34)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:13)(cid:36)(cid:35)(cid:51)(cid:15)(cid:33)(cid:22)(cid:35)(cid:41)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:67)(cid:62)(cid:1) (cid:57)(cid:61)(cid:49)(cid:60)(cid:60)(cid:1) (cid:11)(cid:36)(cid:41)(cid:1) (cid:60)(cid:1) (cid:57)(cid:60)(cid:49)(cid:60)(cid:60)(cid:1)
+(cid:17)(cid:41)(cid:39)(cid:26)(cid:22)(cid:34)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:15)(cid:33)(cid:22)(cid:35)(cid:41)(cid:1)
+(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:6)(cid:35)(cid:43)(cid:30)(cid:39)(cid:36)(cid:35)(cid:34)(cid:26)(cid:35)(cid:41)(cid:22)(cid:33)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)
+(cid:59)(cid:58)(cid:67)(cid:63)(cid:1) (cid:17)(cid:41)(cid:39)(cid:26)(cid:22)(cid:34)(cid:1)(cid:16)(cid:26)(cid:40)(cid:41)(cid:36)(cid:39)(cid:22)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)(cid:4)(cid:36)(cid:35)(cid:40)(cid:41)(cid:39)(cid:42)(cid:24)(cid:41)(cid:30)(cid:36)(cid:35)(cid:48)(cid:1)(cid:12)(cid:22)(cid:41)(cid:26)(cid:39)(cid:30)(cid:22)(cid:33)(cid:1) (cid:57)(cid:61)(cid:49)(cid:60)(cid:60)(cid:1) (cid:11)(cid:36)(cid:41)(cid:1) (cid:60)(cid:1) (cid:57)(cid:60)(cid:49)(cid:60)(cid:60)(cid:1)
+(cid:12)(cid:22)(cid:39)(cid:32)(cid:42)(cid:37)(cid:48)(cid:1)(cid:17)(cid:42)(cid:23)(cid:24)(cid:36)(cid:35)(cid:41)(cid:39)(cid:22)(cid:24)(cid:41)(cid:36)(cid:39)(cid:1)
+(cid:3)(cid:50)(cid:62)(cid:50)(cid:60)(cid:49)(cid:1)(cid:14)(cid:37)(cid:41)(cid:30)(cid:36)(cid:35)(cid:1)(cid:15)(cid:26)(cid:39)(cid:30)(cid:36)(cid:25)(cid:1)(cid:14)(cid:35)(cid:26)(cid:1)(cid:6)(cid:40)(cid:41)(cid:30)(cid:34)(cid:22)(cid:41)(cid:26)(cid:25)(cid:1)(cid:19)(cid:36)(cid:41)(cid:22)(cid:33)(cid:1) (cid:55) 3,929,819.70
+NTE $6,429,579.11
